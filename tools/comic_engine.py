@@ -22,7 +22,7 @@ import gen_character as gc
 
 def author_storyboard(ep, roster, tok):
     story, tok = ai.chat_json(sb.STORYBOARD_SYS, sb.storyboard_user(ep, roster), tok=tok,
-                              max_tokens=4500)
+                              max_tokens=9000)
     return story, tok
 
 
@@ -147,7 +147,7 @@ def rescript_episode(eid, tok=None, langs=None):
     panels_meta = [{"id": p["id"], "shot": p.get("shot", ""), "action": p.get("action", "")}
                    for p in story.get("panels", [])]
     print(f"  rescript {eid} in epic voice", flush=True)
-    out, tok = ai.chat_json(sb.RESCRIPT_SYS, sb.rescript_user(meta, panels_meta), tok=tok, max_tokens=4000)
+    out, tok = ai.chat_json(sb.RESCRIPT_SYS, sb.rescript_user(meta, panels_meta), tok=tok, max_tokens=9000)
     new_by_id = {p.get("id"): p.get("dialogue", []) for p in out.get("panels", [])}
     for p in story.get("panels", []):
         if p["id"] in new_by_id:
