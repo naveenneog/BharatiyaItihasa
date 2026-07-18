@@ -121,6 +121,23 @@ text-free scene zooms/pans (Ken Burns) + crossfades, the epic narration is spoke
 
 ---
 
+## 0C. ACTION SEQUENCES (character animated over scenery)
+
+Deliver a dramatic beat as a real action shot: a transparent character cut-out that moves/charges
+across a background scenery, voiced. gpt-image-2 has **no transparent background**, so we matte.
+- `matte.py` — `cutout(in,out)`: border flood-fill + fill-holes + keep-largest-blob + feather →
+  a clean transparent character PNG from an image drawn on a uniform background.
+- `action.py` — `python action.py [--figure .. --bg .. --action .. --narration ..]`: generates a
+  scenery **bg plate** (no people), a character **action pose** cut-out (from the model sheet, so
+  it stays consistent), and voiced narration + word timings; writes `app/data/<id>.action.json`.
+- `app/player/action.html?id=<id>` — animates the cut-out over the bg (enter → charge → scale) with
+  a parallax background zoom + speed lines + word-highlighted narration. Serve `app/` (see §0B).
+
+**Storytelling depth (updated):** stories are now DEEP, long (~12-18 panels) and for a general +
+ADULT audience — not cut short for kids — while staying historically accurate (`STORYBOARD_SYS`).
+
+---
+
 ## 1. Vision (short)
 
 Retell India's **actual, record-based** history — ancient → medieval → freedom struggle — as short,

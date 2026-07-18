@@ -5,6 +5,29 @@ problems. Newest first.
 
 ---
 
+## 2026-07-18 (later 4) — Action sequences + deeper, adult, historically-accurate storytelling
+
+Two more directions from @naveenneog: make the storytelling **deeper and longer for historic
+figures — not cut short for kids only; this is for adults too — and keep it historically
+accurate**; and **deliver action sequences with a character appearing on a background scenery with
+animation**.
+
+- **Deeper/longer/adult/accurate** — reworked `STORYBOARD_SYS` + `RESCRIPT_SYS`: dropped the
+  kids-only age-band framing; now a DEEP ~12-18-panel (more for a momentous life),
+  historically-rigorous narrative for a general/adult audience (real names, dates, institutions,
+  cause-and-effect from the sourced facts; legend flagged as legend; adult in gravity but not
+  gratuitously graphic). Raised the storyboard token budget to 9000.
+- **Action sequences** — gpt-image-2 has **no transparent background** (API: "Transparent
+  background is not supported for this model"), so `tools/matte.py` mattes a character drawn on a
+  uniform background into a clean transparent cut-out (border flood-fill → fill holes → keep the
+  largest connected blob → feather → auto-crop). `tools/action.py` generates a background scenery
+  plate (no people) + a character action-pose cut-out (from the model sheet, so identity holds) +
+  voiced narration with word timings. `app/player/action.html` animates the cut-out OVER the
+  background (enter, charge, scale) with a parallax bg zoom, speed lines, and word-highlighted
+  narration. Verified on Rani Lakshmibai charging at Gwalior.
+
+---
+
 ## 2026-07-18 (later 3) — Epic voice, no SFX, and a voiced word-timed motion-comic player
 
 More directions from @naveenneog: keep it Indian, DROP the manga sound-effects, tell it like a
