@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFilter
 from scipy import ndimage
 
 
-def cutout(in_path, out_path, thresh=42, feather=1.4, margin=10):
+def cutout(in_path, out_path, thresh=42, feather=1.4, margin=10, erode=2):
     im = Image.open(in_path).convert("RGB")
     w, h = im.size
     work = im.copy()
@@ -30,6 +30,8 @@ def cutout(in_path, out_path, thresh=42, feather=1.4, margin=10):
     if n > 1:
         sizes = ndimage.sum(np.ones_like(lbl), lbl, index=range(1, n + 1))
         fg = lbl == (int(np.argmax(sizes)) + 1)
+    # trim a 1-2px background halo from the silhouette for a clean edge
+    fg = ndimage.binary_erosion(fg, iterations=erode)
 
     alpha = np.where(fg, 255, 0).astype(np.uint8)
     a = Image.fromarray(alpha, "L")

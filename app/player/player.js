@@ -98,8 +98,41 @@ function setBg(art, my) {
   });
 }
 
+function hideChar() {
+  const ch = $("#actChar");
+  ch.getAnimations().forEach(a => a.cancel());
+  ch.style.display = "none";
+}
+
+function setActionScene(panel, my) {
+  return new Promise(res => {
+    const m = panel.motion || {};
+    const next = bgs[1 - bgCur];
+    next.style.backgroundImage = `url("${BASE}${panel.bg}")`;
+    next.classList.remove("kb1", "kb2", "kb3"); void next.offsetWidth;
+    next.classList.add("show");
+    bgs[bgCur].classList.remove("show"); bgCur = 1 - bgCur;
+    const live = bgs[bgCur];
+    live.getAnimations().forEach(a => a.cancel());
+    live.animate([{ transform: "scale(1) translateX(0)" },
+                  { transform: `scale(${m.bgZoom || 1.12}) translateX(${m.bgPan || -6}px)` }],
+                 { duration: (m.dur || 6500) + 1600, easing: "ease-out", fill: "forwards" });
+    const ch = $("#actChar");
+    ch.src = BASE + panel.char; ch.style.display = "block"; ch.style.opacity = 1;
+    ch.getAnimations().forEach(a => a.cancel());
+    ch.animate([
+      { transform: `translate(calc(-50% + ${m.fromX ?? -42}vw),6%) scale(${m.fromScale ?? 0.82}) rotate(${m.rot || 0}deg)`, opacity: 0.15, offset: 0 },
+      { opacity: 1, offset: 0.14 },
+      { transform: `translate(calc(-50% + ${m.toX ?? 4}vw),0) scale(${m.toScale ?? 1.14}) rotate(0deg)`, opacity: 1, offset: 1 }
+    ], { duration: m.dur || 6500, easing: "cubic-bezier(.16,.7,.3,1)", fill: "forwards" });
+    setTimeout(() => res(my === runId), 720);
+  });
+}
+
 async function playScene(panel, my) {
-  const ok = await setBg(panel.art, my);
+  let ok;
+  if (panel.type === "action") ok = await setActionScene(panel, my);
+  else { hideChar(); ok = await setBg(panel.art, my); }
   if (my !== runId || !ok) return false;
   for (const line of (panel.lines || [])) {
     const r = await playLine(line, my);
