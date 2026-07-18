@@ -5,6 +5,36 @@ problems. Newest first.
 
 ---
 
+## 2026-07-18 (later 2) — Indian-adapted style + 6-language comics
+
+**Two requests from @naveenneog:** *"even though it's an anime theme, make it adapted to Indian"*
+and *"we also want for Indian languages also."*
+
+**Indian-adapted art:** rewrote `style_bible.HOUSE_LOOK` from generic Tokyo-manga to an **Indian
+graphic-novel fusion** — shonen-anime energy rooted in Indian visual heritage (Amar Chitra Katha,
+Raja Ravi Varma, miniature/temple art), authentic Indian faces/skin/costume. Propagates to both
+the model-sheet and panel prompts.
+
+**Multilingual (6 languages en/kn/hi/ta/te/de):** because the panel art is generated **text-free**,
+languages are just a re-lettering pass:
+- `translate.py` — gpt-4o translates dialogue+captions+title into each language (native script),
+  stored as an `i18n` map on the saved storyboard; already-translated languages are skipped.
+- `weblettering.py` — switched the letterer from Pillow to **Chromium/HTML**. PIL can't shape
+  Indic scripts (no libraqm: `features.check('raqm')` = False), but Chromium shapes Devanagari /
+  Kannada / Tamil / Telugu correctly via HarfBuzz using system **Nirmala UI**. Renders one comic
+  page per language (CSS bubbles/shouts/thoughts, caption bars, star-burst SFX, per-language title).
+- `comic_engine.py` now: render text-free art → translate → render `app/comics/<id>/<lang>.jpg`
+  for every language; `--reletter` re-does translation (cached) + all language pages with no image
+  gen; new `--langs` flag. Removed the old Pillow `lettering.py` (superseded).
+
+**Verified:** re-lettered the existing Ashoka art into all 6 languages with zero image
+regeneration — Hindi/Tamil/Telugu (and Kannada/German/English) all shape correctly, including
+inside shout/thought bubbles. Output dir per episode: `app/comics/<id>/{en,kn,hi,ta,te,de}.jpg`.
+
+**Note:** SFX remain Latin (universal onomatopoeia) for now; localising them is a future polish.
+
+---
+
 ## 2026-07-18 (later) — Anime-comic engine BUILT + verified on 3 eras
 
 Implemented the full character-consistent engine in `tools/` (see CONTEXT §0A):

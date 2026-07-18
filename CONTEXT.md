@@ -43,48 +43,60 @@ session. This app has its OWN repo, OWN Firebase site, OWN autogen_status/ledger
 
 ## 0A. THE ANIME-COMIC ENGINE (the new build path — `tools/`)
 
-Character-consistent shonen-manga graphic novels. One unified "house style" for all eras +
-an era palette/mood modifier. Verified this session. Prereqs: `az login`, `keepactive` guard
-running (§3.3), Pillow (`pip install pillow`). Each 1024² image ≈ 2 min.
+Character-consistent, **Indian-adapted** shonen-manga graphic novels, rendered in **6 languages**
+(en/kn/hi/ta/te/de). One unified "house style" for all eras + an era palette/mood modifier.
+Verified this session (freedom / medieval / ancient) + full 6-language lettering. Prereqs:
+`az login`, `keepactive` guard running (§3.3) for image gen, `pip install pillow playwright` +
+`python -m playwright install chromium`, and system font **Nirmala UI** (Nirmala.ttc) for Indic
+scripts. Each 1024² image ≈ 2 min; translation + 6-language pages ≈ 1–2 min (no image gen).
+
+**Art direction:** Indian graphic-novel fusion — shonen-anime *energy* (inked lines, cel shading,
+dynamic camera, speed-lines) rooted in Indian visual heritage (Amar Chitra Katha, Raja Ravi Varma,
+miniature/temple art) with authentic Indian faces/skin/costume; NOT generic Tokyo-manga.
 
 **Modules (`IndianHistory/tools/`):**
 - `aiclient.py` — Azure gpt-4o + gpt-image-2 client: `chat_json`, `gen_image` (generations),
   and **`edit_image`** (images/**edits** with reference model sheet(s) → character consistency).
-- `style_bible.py` — the shonen HOUSE_LOOK, `SHEET_STYLE`/`PANEL_STYLE`, gpt-4o prompts
+- `style_bible.py` — the Indian-adapted `HOUSE_LOOK`, `SHEET_STYLE`/`PANEL_STYLE`, gpt-4o prompts
   (`CHARACTER_SYS` designs a bible, `STORYBOARD_SYS` writes panels + dialogue), and
   `era_modifier()` (ancient / classical_south / medieval / freedom palettes).
-- `lettering.py` — Pillow overlay: speech/shout/thought bubbles, caption+narration boxes (bands
-  reserved so bubbles never overlap them), rotated manga SFX, and `compose_page` (gutters).
-  **Art is generated text-free** → panels are reusable across all 6 languages.
+- `translate.py` — gpt-4o translates dialogue + captions + title into the 6 app languages,
+  storing an `i18n` map on the saved storyboard (skips already-translated languages).
+- `weblettering.py` — **Chromium** letterer: renders one comic PAGE per language as HTML
+  (title + panel grid + CSS speech/shout/thought bubbles + caption bars + manga SFX) and
+  screenshots it. Chromium shapes Indic scripts correctly (PIL cannot without libraqm).
+  **Art is generated text-free** → the SAME art serves every language; only lettering changes.
 - `common.py` — paths, slugs, the **character registry** (`characters/registry.json`), and the
   `indian_history_collection.json → episode` loader.
 - `gen_character.py` — design a bible (gpt-4o) + render a full-body **model sheet**
   (`app/assets/_characters/<slug>/sheet.png`); resumable; reused across every episode a figure appears in.
 - `comic_engine.py` — the core: ensure the figure's sheet → author storyboard → render every
-  panel via `edit_image` (sheet as reference = identity held) → letter → compose page →
-  write `app/data/<id>.json`.
+  panel via `edit_image` (sheet as reference = identity held) → translate → render per-language
+  pages → write `app/data/<id>.json`.
 
 **Run:**
 ```
 cd tools; $env:PYTHONIOENCODING="utf-8"
 python gen_character.py --figure "Ashoka"                 # design + sheet only
-python comic_engine.py "Rani Lakshmibai"                  # one full episode (by figure/title/id)
+python comic_engine.py "Rani Lakshmibai"                  # one full episode, all 6 languages
 python comic_engine.py "Ashoka" --max 5                   # cap panels (faster)
+python comic_engine.py "Ashoka" --langs en hi ta          # subset of languages
 python comic_engine.py --n 10                             # batch next 10 unbuilt episodes
-python comic_engine.py --reletter <id>                    # re-letter from saved art (free, no API)
+python comic_engine.py --reletter <id>                    # re-translate+re-letter (no image gen)
 python comic_engine.py "Chandragupta..." --co-stars "Chanakya"   # multi-character (feeds both sheets)
 ```
 Outputs (gitignored binaries): `app/assets/_characters/<slug>/sheet.png`,
-`app/assets/<id>/{img,panels}/*`, `app/comics/<id>.jpg`; committed text: `characters/*.json`,
-`app/data/<id>.{json,storyboard.json}`.
+`app/assets/<id>/img/*.png` (text-free art), `app/comics/<id>/<lang>.jpg` (per-language pages);
+committed text: `characters/*.json`, `app/data/<id>.{json,storyboard.json}` (storyboard carries
+per-line `i18n`).
 
 **Consistency mechanism:** a per-figure model sheet is fed as the `image[]` reference to
 gpt-image-2 `images/edits` for every panel, so face/hair/costume/weapon stay identical across
 dynamic action panels and across episodes. Textual `ref_desc` reinforces it in each prompt.
 
-**Known polish TODO:** SFX placement can overlap the subject; bubble tails are generic (not
-mouth-anchored); multi-character co-star casting validated only lightly; combined-figure episodes
-(e.g. "Chandragupta Maurya and Chanakya") need the lead split out.
+**Known polish TODO:** SFX are Latin (not localised) and can overlap the subject; bubble tails are
+generic (not mouth-anchored); multi-character co-star casting validated only lightly; combined-figure
+episodes (e.g. "Chandragupta Maurya and Chanakya") need the lead split out.
 
 ---
 
