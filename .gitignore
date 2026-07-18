@@ -1,3 +1,7 @@
 # transient
 _incomplete_hold/
 *.tmp
+
+# generated image masters + comic pages (large binaries; belong in a masters repo / regenerable)
+app/assets/
+app/comics/
