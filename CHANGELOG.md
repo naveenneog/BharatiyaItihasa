@@ -5,6 +5,33 @@ problems. Newest first.
 
 ---
 
+## 2026-07-18 (later 3) — Epic voice, no SFX, and a voiced word-timed motion-comic player
+
+More directions from @naveenneog: keep it Indian, DROP the manga sound-effects, tell it like a
+MASTER Indian storyteller (Baahubali), and add a **voiced, animated player** that highlights text
+word-by-word as it is spoken.
+
+- **Dropped manga SFX** — removed the red onomatopoeia (KA/PAA/DODON) from the letterer; the
+  storyboard prompt no longer emits `sfx`.
+- **Epic Baahubali narration** — rewrote `STORYBOARD_SYS` into a grand sutradhaar voice
+  (narration-led, dignified iconic dialogue). Added `RESCRIPT_SYS` + `comic_engine.py --rescript
+  <id>` to rewrite an existing episode's WORDS in the epic voice **without regenerating art**
+  (demoed on Rajendra Chola).
+- **Voiced narration + word timing** — `voice.py` uses the Azure **Speech SDK** (installed
+  `azure-cognitiveservices-speech`; AAD auth `aad#<resourceId>#<token>`) so every line yields an
+  MP3 AND per-word boundary timings (`{w,t,d}`). Narrator = grave DragonHD; character = neural
+  male/female by lead gender. Writes `app/data/<id>.player.json` + per-line mp3/word-json under
+  `app/assets/<id>/audio/`.
+- **Motion-comic player** (`app/player/`) — loads the manifest and plays each text-free scene with
+  a **Ken Burns** zoom + crossfade, **voiced** narration, and **karaoke word-highlight** synced to
+  the audio timings; language switcher, play/pause, scene nav. Verified headless on Rajendra
+  (English) — no errors, words highlight in sync.
+
+Serve + open: `python -m http.server 8130 --directory app` →
+`/player/index.html?ep=<id>&lang=en`.
+
+---
+
 ## 2026-07-18 (later 2) — Indian-adapted style + 6-language comics
 
 **Two requests from @naveenneog:** *"even though it's an anime theme, make it adapted to Indian"*

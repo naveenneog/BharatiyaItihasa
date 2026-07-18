@@ -94,9 +94,30 @@ per-line `i18n`).
 gpt-image-2 `images/edits` for every panel, so face/hair/costume/weapon stay identical across
 dynamic action panels and across episodes. Textual `ref_desc` reinforces it in each prompt.
 
-**Known polish TODO:** SFX are Latin (not localised) and can overlap the subject; bubble tails are
-generic (not mouth-anchored); multi-character co-star casting validated only lightly; combined-figure
-episodes (e.g. "Chandragupta Maurya and Chanakya") need the lead split out.
+**Known polish TODO:** SFX removed (per request); bubble tails are generic (not mouth-anchored);
+multi-character co-star casting validated only lightly; combined-figure episodes (e.g. "Chandragupta
+Maurya and Chanakya") need the lead split out.
+
+---
+
+## 0B. MOTION-COMIC PLAYER (voiced, animated, word-timed)
+
+A "unique storytelling" mode: play an episode as an animated, VOICED motion comic where each
+text-free scene zooms/pans (Ken Burns) + crossfades, the epic narration is spoken, and the text
+**highlights word-by-word** in sync (karaoke). Storytelling voice is EPIC (Baahubali / sutradhaar).
+
+- `voice.py` — Azure **Speech SDK** TTS per line WITH word-boundary timings (`{w,t,d}` ms).
+  Narrator = grave en-IN DragonHD; character = neural male/female by lead gender (from the bible).
+  Writes `app/data/<id>.player.json` + per-line `mp3`/`json` under `app/assets/<id>/audio/<lang>/`.
+  Prereq: `pip install azure-cognitiveservices-speech`.
+  Run: `python voice.py <id> --langs en` (or omit --langs for all 6).
+- `app/player/` (`index.html` + `player.css` + `player.js`) — the browser player: Ken Burns
+  scenes, crossfades, voiced narration, karaoke word-highlight, language switcher, play/pause,
+  scene nav. Serve `app/` and open `/player/index.html?ep=<id>&lang=<lang>`:
+  `python -m http.server 8130 --directory app`.
+- **Epic voice everywhere:** `STORYBOARD_SYS` now authors grand narration-led scripts; upgrade
+  older (shonen) episodes with `python comic_engine.py --rescript <id>` (rewrites WORDS only, no
+  image regeneration). Manga SFX removed from the letterer.
 
 ---
 
