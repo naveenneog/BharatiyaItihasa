@@ -13,11 +13,15 @@ serves all 6 languages.
 
 # Consistent house look across the whole app.
 HOUSE_LOOK = (
-    "Modern Japanese shonen action-anime / manga art style (think Naruto, Demon Slayer, "
-    "Vagabond) reinterpreting real Indian history. Bold confident inked linework, dramatic "
-    "cel shading, rich saturated colour with cinematic rim-light, expressive large eyes, "
-    "heroic proportions. Historically grounded: era-accurate Indian costume, jewellery, "
-    "weapons, architecture and landscape. Respectful and dignified; heroic not gory."
+    "Indian graphic-novel art style: fuse modern Japanese shonen action-anime ENERGY (bold "
+    "confident inked linework, dramatic cel shading, dynamic camera angles, speed-lines, "
+    "expressive faces, heroic motion) with authentic INDIAN visual heritage — the storytelling "
+    "spirit of Amar Chitra Katha, the painterly warmth and dignity of Raja Ravi Varma, the fine "
+    "ornament of Indian miniature and Pahari painting, and temple-mural linework. The people are "
+    "unmistakably Indian: accurate Indian skin tones, faces, features, hair and expressions. "
+    "Era- and region-accurate Indian costume, jewellery, textiles, weapons, architecture and "
+    "landscape, with a warm, rich Indian colour sensibility. Heroic, reverent and epic — an "
+    "Indian saga rendered with anime dynamism, NOT a generic Tokyo-manga or Western look."
 )
 
 # Character reference / model sheet: clean, full-body, neutral, plain background so it edits well.
