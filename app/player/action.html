@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Itihāsa — Action Sequence</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{height:100%;background:#000;overflow:hidden;
+    font-family:"Nirmala UI","Segoe UI",sans-serif}
+  #stage{position:fixed;inset:0;overflow:hidden;background:#000}
+  #bg{position:absolute;inset:-4%;background-size:cover;background-position:center;
+    transform-origin:center;will-change:transform}
+  #char{position:absolute;bottom:-1%;left:50%;height:84%;transform-origin:bottom center;
+    filter:drop-shadow(0 24px 26px rgba(0,0,0,.55));will-change:transform;opacity:0}
+  .vig{position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(120% 90% at 50% 42%,transparent 52%,rgba(0,0,0,.6) 100%),
+      linear-gradient(to bottom,rgba(0,0,0,.25),transparent 30%,transparent 55%,rgba(0,0,0,.75))}
+  .speed{position:absolute;inset:0;pointer-events:none;opacity:0;mix-blend-mode:screen;
+    background:repeating-linear-gradient(100deg,transparent 0 22px,rgba(255,255,255,.05) 22px 24px)}
+  #cap{position:absolute;left:0;right:0;bottom:8.5vh;text-align:center;padding:0 6vw;
+    color:#fbf4e3;font-family:"Nirmala UI","Georgia",serif;font-size:clamp(20px,3vw,34px);
+    line-height:1.4;text-shadow:0 2px 12px rgba(0,0,0,.9);opacity:0;transition:opacity .5s}
+  #cap.on{opacity:1}
+  #cap .w{opacity:.3;transition:opacity .18s,color .18s,text-shadow .18s}
+  #cap .w.on{opacity:1}
+  #cap .w.active{color:#e7b84e;text-shadow:0 0 16px rgba(231,184,78,.6)}
+  .overlay{position:absolute;inset:0;z-index:6;display:flex;flex-direction:column;
+    justify-content:center;align-items:center;gap:18px;text-align:center;padding:6vw;
+    background:radial-gradient(circle at 50% 40%,rgba(0,0,0,.5),rgba(0,0,0,.85))}
+  .overlay.hidden{display:none}
+  .t{font-family:"Nirmala UI","Georgia",serif;color:#fdf6e3;font-weight:800;
+    font-size:clamp(26px,5vw,54px);text-shadow:0 3px 22px rgba(0,0,0,.8)}
+  .s{color:#e7b84e;letter-spacing:3px;text-transform:uppercase;font-size:clamp(12px,2vw,18px)}
+  button{background:linear-gradient(180deg,#e7b84e,#c98f22);color:#241a06;border:none;
+    font-size:clamp(16px,2.4vw,22px);font-weight:800;padding:14px 34px;border-radius:40px;
+    cursor:pointer;box-shadow:0 8px 24px rgba(0,0,0,.5)}
+</style>
+</head>
+<body>
+<div id="stage">
+  <div id="bg"></div>
+  <img id="char" alt="">
+  <div class="speed" id="speed"></div>
+  <div class="vig"></div>
+  <div id="cap"></div>
+  <div class="overlay" id="start">
+    <div class="t" id="title">Action Sequence</div>
+    <div class="s">Tap to begin</div>
+    <button id="go">▶ Play</button>
+  </div>
+  <div class="overlay hidden" id="end">
+    <button id="replay">↻ Replay</button>
+  </div>
+</div>
+<script>
+const BASE="../";
+const $=s=>document.querySelector(s);
+const id=new URLSearchParams(location.search).get("id")||"action_rani_lakshmibai_of_jhansi";
+const audio=new Audio(); let M=null;
+
+async function boot(){
+  M=await fetch(`${BASE}data/${id}.action.json`).then(r=>r.json());
+  $("#title").textContent=M.title||M.figure||"Action Sequence";
+  $("#bg").style.backgroundImage=`url("${BASE}${M.bg}")`;
+  $("#char").src=BASE+M.char;
+  $("#go").onclick=run; $("#replay").onclick=run;
+}
+
+function run(){
+  $("#start").classList.add("hidden"); $("#end").classList.add("hidden");
+  const m=M.motion, bg=$("#bg"), ch=$("#char"), cap=$("#cap"), speed=$("#speed");
+  // reset
+  ch.getAnimations().forEach(a=>a.cancel()); bg.getAnimations().forEach(a=>a.cancel());
+  ch.style.opacity=1;
+  bg.animate([{transform:"scale(1) translateX(0)"},
+              {transform:`scale(${m.bgZoom||1.12}) translateX(${m.bgPan||-6}px)`}],
+             {duration:(m.dur||6500)+1600,easing:"ease-out",fill:"forwards"});
+  ch.animate([
+      {transform:`translate(calc(-50% + ${m.fromX}vw),6%) scale(${m.fromScale}) rotate(${m.rot||0}deg)`,opacity:.15,offset:0},
+      {opacity:1,offset:.14},
+      {transform:`translate(calc(-50% + ${m.toX}vw),0) scale(${m.toScale}) rotate(0deg)`,opacity:1,offset:1}
+    ],{duration:m.dur||6500,easing:"cubic-bezier(.16,.7,.3,1)",fill:"forwards"});
+  speed.animate([{opacity:0},{opacity:.7,offset:.2},{opacity:.5,offset:.7},{opacity:0}],
+                {duration:m.dur||6500});
+  narrate(M.narration);
+}
+
+function narrate(n){
+  const cap=$("#cap");
+  cap.innerHTML=""; cap.classList.add("on");
+  const toks=(n.text||"").split(/\s+/).filter(Boolean);
+  const spans=toks.map(w=>{const s=document.createElement("span");s.className="w";s.textContent=w;return s;});
+  spans.forEach((s,i)=>{cap.appendChild(s); if(i<spans.length-1) cap.appendChild(document.createTextNode(" "));});
+  const words=n.words||[];
+  audio.src=BASE+n.audio; const p=audio.play(); if(p) p.catch(()=>{});
+  const times=dur=>spans.map((_,k)=>words[k]!=null?words[k].t:(k/Math.max(1,spans.length))*dur);
+  const tick=()=>{
+    const dur=(audio.duration||4)*1000, ms=audio.currentTime*1000, T=times(dur);
+    let cur=-1; spans.forEach((s,k)=>{if(ms>=T[k]-40){s.classList.add("on");cur=k;}});
+    spans.forEach((s,k)=>s.classList.toggle("active",k===cur));
+    if(!audio.ended) requestAnimationFrame(tick);
+  };
+  audio.onended=()=>{spans.forEach(s=>{s.classList.add("on");s.classList.remove("active");});
+    setTimeout(()=>{cap.classList.remove("on"); $("#end").classList.remove("hidden");},1400);};
+  requestAnimationFrame(tick);
+}
+boot();
+</script>
+</body>
+</html>

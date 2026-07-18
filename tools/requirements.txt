@@ -1,5 +1,7 @@
 # Indian History anime-comic engine — Python deps
-pillow                         # image compositing (legacy letterer helpers)
+pillow                         # image compositing + matting
+numpy                          # matting masks (matte.py)
+scipy                          # connected-component matting (matte.py)
 playwright                     # Chromium multilingual letterer + player QA (run: python -m playwright install chromium)
 azure-cognitiveservices-speech # neural TTS with word-boundary timings (voice.py)
 # Also required on PATH: az CLI (az login), ffmpeg. System font: Nirmala UI (Indic scripts).
