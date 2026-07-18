@@ -82,14 +82,6 @@ def _css(lang):
 
 def _panel_html(p, lang, art_uri):
     ov = []
-    sfx = []
-    # SFX (behind bubbles)
-    for i, s in enumerate(p.get("sfx", []) or []):
-        left = 62 if i % 2 == 0 else 8
-        top = 60 if i % 2 == 0 else 44
-        rot = -12 if i % 2 == 0 else 9
-        sfx.append(f'<div class="sfx" style="left:{left}%;top:{top}%;transform:rotate({rot}deg)">'
-                   f'{html.escape(s.upper())}</div>')
     # ordered overlay: narration (top) -> bubbles -> place caption (bottom)
     narr = [d for d in p.get("dialogue", []) if d.get("type") == "narration"]
     place = [d for d in p.get("dialogue", []) if d.get("type") == "caption"]
@@ -108,7 +100,7 @@ def _panel_html(p, lang, art_uri):
             ov.append(f'<div class="bubble {side}">{txt}</div>')
     for d in place:
         ov.append(f'<div class="cap place">{html.escape(_txt(d, lang))}</div>')
-    return (f'<div class="panel"><img src="{art_uri}">' + "".join(sfx)
+    return (f'<div class="panel"><img src="{art_uri}">'
             + '<div class="ov">' + "".join(ov) + '</div></div>')
 
 

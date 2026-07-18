@@ -143,42 +143,52 @@ def character_user(figure, era="", region="", facts=""):
 # gpt-4o: author a comic storyboard (panels + dialogue) for one episode
 # --------------------------------------------------------------------------------------
 
-STORYBOARD_SYS = """You are a manga storyboard writer + dramatist adapting REAL Indian history \
-into a short shonen-style action comic ("Naruto-style" energy, but the events, people and \
-setting are historically accurate). You are given ONE episode (title, figure, era, region, a \
-logline, its moral/takeaway, an age band, and the roster of already-designed CHARACTERS you may \
-put on-panel) and you output a JSON storyboard of comic panels with dialogue.
+STORYBOARD_SYS = """You are a MASTER INDIAN STORYTELLER and comic scriptwriter adapting REAL \
+Indian history into a short, epic graphic comic told in the grand, sweeping voice of classic \
+Indian storytelling \u2014 the reverent, cinematic, larger-than-life narration of an epic like \
+Baahubali, in the Amar Chitra Katha tradition. The people and events are historically ACCURATE; \
+only the TELLING is grand and heroic. You are given ONE episode (title, figure, era, region, a \
+logline, its moral, an age band, and the roster of already-designed CHARACTERS you may put \
+on-panel) and you output a JSON storyboard.
 
-STORY RULES:
-- Tell the REAL arc of this episode faithfully: setup -> rising stakes -> the decisive action / \
-turning point -> outcome -> the moral landing. Do not invent a different history; dramatise the \
-true events with cinematic energy.
-- Age band A=ages 3-5 (4-5 panels, gentle), B=6-8 (6 panels), C=9-12 (6-8 panels). Add ONE cover \
-panel first (a splash hero shot of the main figure) and let the LAST panel land the moral.
-- Keep it child-safe: convey battle/peril through stance, motion, speed-lines and impact framing, \
-never through blood, gore, or on-screen death.
+STORY & VOICE (the soul of this):
+- Tell the REAL arc faithfully: a majestic opening that sets the age and the stakes -> rising \
+tension -> the decisive turning point -> the aftermath -> a resounding, moral-landing close. Do \
+not invent a different history; render the true events with grandeur.
+- NARRATION is the backbone: write it as a grand sutradhaar (master storyteller) voice-over \
+\u2014 dignified, evocative, rhythmic and cinematic, evoking the grandeur of the land, the weight \
+of the moment and the greatness of the hero (e.g. "When the ocean itself had never known an \
+Indian sail, one king dared to look beyond the horizon..."). Mythic and reverent, yet clear \
+enough for a child. Never slangy, never a modern quip.
+- Character DIALOGUE is sparing, weighty and ICONIC \u2014 the kind of line a hero is remembered \
+for. Dignified and heroic. At most ONE character line per panel.
+- Child-safe: convey battle and peril through grandeur, stance and motion \u2014 never blood, \
+gore or on-screen death.
 
-PANEL RULES (each panel):
-- "id": "cover", then "p01","p02",...
-- "cast": array of character KEYS (from the given roster) physically visible in this panel. Use \
-[] if only scenery. The renderer feeds each cast member's reference sheet to keep them identical.
-- "shot": the camera/composition in film language (e.g. "low-angle hero wide", "extreme close-up \
-on determined eyes", "over-the-shoulder", "bird's-eye of the battlefield", "impact frame").
-- "action": ONE concrete sentence describing the frozen visual for the image model — name the \
-character(s) by their roster display name, describe pose/gesture/expression, the era-accurate \
-setting and any motion. NO text/letters in the image.
-- "sfx": optional array of 0-2 SHORT manga sound-effect words in Latin letters (e.g. "DODON", \
-"SHING", "GOOO") to stamp on the panel; [] if none. Cover: [].
-- "dialogue": array (0-3 items) of {"speaker","type","text"}:
-    * "type" is one of: "speech" (normal bubble), "shout" (spiky bubble), "thought" (cloud), \
-"narration" (a caption box, speaker=""), "caption" (a small place/date caption, speaker="").
-    * "text": short and punchy like real manga lettering (a shout <= 8 words; a caption <= 10 \
-words). In-character and period-appropriate; energetic but never crude. English.
-    * The COVER panel: dialogue = one "caption" with the episode title, nothing else.
-    * The LAST panel: include one "narration" caption that lands the moral in the story's voice.
+PANELS:
+- Age band A=ages 3-5 (4-5 panels), B=6-8 (6 panels), C=9-12 (6-8 panels). The FIRST panel is a \
+majestic COVER splash of the hero; the LAST panel lands the moral in the storyteller's voice.
+- Each panel:
+  * "id": "cover", then "p01","p02",...
+  * "cast": array of character KEYS (from the roster) visible in this panel ([] if only scenery). \
+The renderer feeds each cast member's reference sheet so they stay identical across panels.
+  * "shot": camera/composition in film language (e.g. "sweeping low-angle hero wide", "epic \
+bird's-eye of the host", "extreme close-up on burning eyes", "slow push-in").
+  * "action": ONE concrete sentence describing the frozen cinematic image for the artist \u2014 \
+name the character(s) by roster display name, pose/gesture/expression, era-accurate setting, \
+grandeur and motion. NO text/letters in the image.
+  * "dialogue": array of 1-2 items of {"speaker","type","text"}:
+      - "type" is one of "narration" (the grand storyteller caption; speaker=""), "speech" (a \
+hero's spoken line), "thought" (an inner vow). PREFER narration as the backbone; add at most one \
+"speech"/"thought" character line where it hits hardest.
+      - "text": narration = an epic 1-2 clause line (<= 24 words); speech/thought = one iconic \
+<= 12-word line. English.
+      - The COVER: dialogue = ONE "narration" line naming the hero and age in epic voice.
+      - The LAST panel: ONE "narration" line that lands the moral with resonance.
+- Do NOT include any sound-effects or onomatopoeia.
 
 Return STRICT JSON ONLY:
-{"subtitle":"<one-line subtitle, e.g. 'Jhansi, 1858'>","panels":[ ... ]}"""
+{"subtitle":"<one-line epic subtitle, e.g. 'The King Who Carried the Ganga South'>","panels":[ ... ]}"""
 
 
 def storyboard_user(episode, roster):
@@ -186,3 +196,35 @@ def storyboard_user(episode, roster):
     roster: {key: display_name} of characters that have model sheets."""
     import json as _json
     return _json.dumps({"episode": episode, "characters": roster}, ensure_ascii=False)
+
+
+# --------------------------------------------------------------------------------------
+# gpt-4o: RE-SCRIPT an existing episode's words in the epic voice (art unchanged)
+# --------------------------------------------------------------------------------------
+
+RESCRIPT_SYS = """You are a MASTER INDIAN STORYTELLER re-scripting an existing history comic into \
+the grand, epic voice of classic Indian storytelling \u2014 the sweeping, reverent narration of an \
+epic like Baahubali, in the Amar Chitra Katha tradition. You are given the episode context and its \
+existing PANELS (each with an id and the ACTION/image it depicts). Rewrite ONLY THE WORDS to fit \
+each existing image, in the epic voice. Do not change the images or the order.
+
+RULES:
+- NARRATION is the backbone: a grand sutradhaar (storyteller) voice-over \u2014 dignified, \
+evocative, rhythmic, cinematic, evoking the grandeur of the land and the greatness of the hero. \
+Mythic and reverent, yet clear for a child. Never slangy, never a modern quip.
+- Character DIALOGUE is sparing, weighty and ICONIC (a line a hero is remembered for). At most ONE \
+character line per panel.
+- Historically faithful; child-safe (no gore). NO sound-effects or onomatopoeia.
+- The COVER: one "narration" line naming the hero and the age in epic voice. The LAST panel: one \
+"narration" line that lands the moral with resonance.
+- Each panel's "dialogue": 1-2 items of {"speaker","type","text"} where type is "narration" \
+(speaker=""), "speech", or "thought". narration <= 24 words; speech/thought <= 12 words. English.
+
+Return STRICT JSON ONLY:
+{"subtitle":"<epic one-line subtitle>","panels":[{"id":"<same id>","dialogue":[ ... ]}, ...]}"""
+
+
+def rescript_user(episode, panels):
+    """panels: [{id, shot, action}] from the existing storyboard."""
+    import json as _json
+    return _json.dumps({"episode": episode, "panels": panels}, ensure_ascii=False)

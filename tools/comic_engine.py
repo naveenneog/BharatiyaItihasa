@@ -132,6 +132,40 @@ def reletter_episode(eid, langs=None, tok=None):
     return pages
 
 
+def rescript_episode(eid, tok=None, langs=None):
+    """Rewrite an existing episode's words in the epic (Baahubali) voice WITHOUT regenerating art,
+    then re-translate + re-letter. Uses the saved storyboard's panel actions as the visual anchor."""
+    story = C.load_json(C.APP / "data" / f"{eid}.storyboard.json", None)
+    rec = C.load_json(C.APP / "data" / f"{eid}.json", {})
+    if not story:
+        print(f"  no storyboard for {eid}"); return None, tok
+    tok = tok or ai.token()
+    ep = C.find_episode(eid) or {"title": rec.get("title", eid), "figure": rec.get("figure", ""),
+                                 "era": rec.get("era", ""), "region": rec.get("region", ""),
+                                 "age": rec.get("age", "C"), "logline": "", "moral": rec.get("moral", "")}
+    meta = {k: ep.get(k, "") for k in ("title", "figure", "era", "region", "age", "logline", "moral")}
+    panels_meta = [{"id": p["id"], "shot": p.get("shot", ""), "action": p.get("action", "")}
+                   for p in story.get("panels", [])]
+    print(f"  rescript {eid} in epic voice", flush=True)
+    out, tok = ai.chat_json(sb.RESCRIPT_SYS, sb.rescript_user(meta, panels_meta), tok=tok, max_tokens=4000)
+    new_by_id = {p.get("id"): p.get("dialogue", []) for p in out.get("panels", [])}
+    for p in story.get("panels", []):
+        if p["id"] in new_by_id:
+            p["dialogue"] = new_by_id[p["id"]]
+        p.pop("sfx", None)
+    story["subtitle"] = out.get("subtitle", story.get("subtitle", ""))
+    story.pop("title_i18n", None); story.pop("subtitle_i18n", None)   # force re-translation
+    C.save_json(C.APP / "data" / f"{eid}.storyboard.json", story)
+    langs = langs or rec.get("langs") or C.LANGS
+    pages, tok = _finish_pages(eid, story, rec.get("title") or eid, story.get("subtitle", ""), langs, tok)
+    if rec:
+        rec["langs"] = langs
+        rec["pages"] = {lg: f"comics/{eid}/{lg}.jpg" for lg in pages}
+        C.save_json(C.APP / "data" / f"{eid}.json", rec)
+    print(f"  RESCRIPTED {eid}: epic voice, {len(pages)} language page(s)", flush=True)
+    return pages, tok
+
+
 def batch(n, max_panels=None, force=False):
     tok = ai.token()
     done = 0
@@ -156,11 +190,21 @@ def main():
     ap.add_argument("--co-stars", nargs="*", default=[], help="extra figures to design + feature")
     ap.add_argument("--reletter", metavar="ID", help="re-letter an episode from its saved storyboard")
     ap.add_argument("--reletter-all", action="store_true", help="re-letter every built episode")
+    ap.add_argument("--rescript", metavar="ID", help="rewrite an episode's words in the epic voice")
+    ap.add_argument("--rescript-all", action="store_true", help="epic-rescript every built episode")
     ap.add_argument("--langs", nargs="*", help="languages (default: en kn hi ta te de)")
     ap.add_argument("--force", action="store_true")
     a = ap.parse_args()
     langs = a.langs or C.LANGS
 
+    if a.rescript_all:
+        tok = None
+        for f in sorted((C.APP / "data").glob("*.storyboard.json")):
+            _, tok = rescript_episode(f.name[:-len(".storyboard.json")], tok=tok, langs=langs)
+        return
+    if a.rescript:
+        rescript_episode(a.rescript, langs=langs)
+        return
     if a.reletter_all:
         for f in sorted((C.APP / "data").glob("*.storyboard.json")):
             reletter_episode(f.name[:-len(".storyboard.json")], langs=langs)
