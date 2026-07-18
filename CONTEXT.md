@@ -185,7 +185,8 @@ series' `order` 1..N and refresh top-level `series_count`/`episode_count`.
 ## 7. OPEN DECISIONS (resolve before Phase 1)
 
 1. **App name + endpoint** — e.g. `indian-history.web.app` / `bharat-itihasa` / `itihasa-naveen`.
-2. **Art direction** — period-accurate illustrated heritage **vs.** shadow-puppet continuity.
+2. **Art direction** — **DECIDED: shonen-manga / action-anime graphic novel** with **character
+   consistency** (Naruto-style action + comic dialogue; see `CHANGELOG.md`).
 3. **Section taxonomy** — the pillar→section mapping in §2.
 4. **Phase-0 corpus target size** — how many episodes for the pilot and full build.
 

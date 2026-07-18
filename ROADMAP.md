@@ -92,11 +92,11 @@ Tanguturi Prakasam · Parbati Giri.
 
 - **Same PWA UX** as Indian Tales: 6 languages (en/kn/hi/ta/te/de), hero carousel, accordion
   sections, offline reader, watermark, `/v1` content spine.
-- **Distinct art direction (decision point):** history warrants **period-accurate "illustrated
-  heritage" visuals** (evoking Ajanta murals / Indian miniature & Company-school painting,
-  accurate costume/architecture/geography per era) rather than the Togalu-Gombe shadow-puppet
-  look — this reinforces authenticity. Alternative: keep shadow-puppet for brand continuity.
-  **Confirm with user.**
+- **Art direction (DECIDED 2026-07-18):** **shonen-manga / action-anime graphic novel**
+  ("Naruto-style" dynamic action + comic dialogue), with **character consistency** — each figure
+  gets a canonical model sheet reused across panels via gpt-image-2 `images/edits`. Historical
+  integrity kept *within* the anime idiom (era-accurate costume/weapons/architecture from
+  `sources[]`; valour without gore). See `CHANGELOG.md` for the mechanism + verification.
 - **Reuse the toolchain** (`autogen.py` → `build_tale.py` → `watermark.py` → `publish.py` →
   `qa_it.py` → `deploy_gcp.ps1`) with three swaps: (1) a new **history collection** JSON +
   `STORY_PLAN.json`, (2) a new **style bible** (era-accurate), (3) a new **endpoint config**.
@@ -146,6 +146,7 @@ Tanguturi Prakasam · Parbati Giri.
 ## 9. Open decisions for the user (before Phase 1)
 
 1. App/brand name + **endpoint** (`indian-history.web.app`? `bharat-itihasa`?).
-2. **Art direction:** period-accurate illustrated heritage **vs.** shadow-puppet continuity.
+2. **Art direction — DECIDED (2026-07-18): shonen-manga / action-anime graphic novel** with
+   **character consistency** (Naruto-style action + comic dialogue). See `CHANGELOG.md`.
 3. Section taxonomy (the list in §2) — approve or adjust.
 4. Scope of Phase 0 corpus (target episode count) and any must-include figures.
