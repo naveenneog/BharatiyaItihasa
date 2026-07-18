@@ -50,6 +50,16 @@ def _draw_lines(draw, lines, fnt, x, y, lh, fill=(20, 20, 25), center_w=None):
         draw.text((lx, y + i * lh), l, font=fnt, fill=fill)
 
 
+def _bubble_size(base, lines, fnt, kind="speech"):
+    """Outer (w, h) a bubble will occupy, for layout/stacking."""
+    d = ImageDraw.Draw(base)
+    tw, th, _ = _text_box(d, lines, fnt)
+    bw, bh = tw + 52, th + 40
+    if kind == "shout":
+        bw += 32; bh += 28
+    return bw, bh
+
+
 def _speech_bubble(base, cx, cy, lines, fnt, kind="speech", tail_to=None):
     """Draw a bubble centered near (cx,cy). Returns nothing; edits `base` in place."""
     d = ImageDraw.Draw(base)
@@ -106,6 +116,7 @@ def _caption(base, text, fnt, where="top", accent=(176, 30, 42)):
     d.rectangle([x0, y0, x0 + bw, y0 + bh], fill=(18, 16, 20, 232))
     d.rectangle([x0, y0, x0 + 9, y0 + bh], fill=accent + (255,))
     _draw_lines(d, lines, fnt, x0 + 22, y0 + 14, lh, fill=(245, 240, 230))
+    return y0, y0 + bh
 
 
 def _sfx(base, text, cx, cy, size, rot=-12):
@@ -122,42 +133,55 @@ def _sfx(base, text, cx, cy, size, rot=-12):
     base.alpha_composite(layer)
 
 
-# corner anchors (fraction of panel) used to place bubbles without covering the center subject
-_ANCHORS = [(0.26, 0.17), (0.74, 0.17), (0.24, 0.30), (0.76, 0.30)]
-
-
 def letter_panel(img_path, panel, out_path, bubble_font=34, caption_font=26):
-    """Overlay a panel's dialogue + sfx. `panel` = storyboard panel dict."""
+    """Overlay a panel's dialogue + sfx. `panel` = storyboard panel dict.
+
+    Layout: caption (bottom) and narration (top) boxes are drawn first and their vertical
+    bands reserved; speech/shout/thought bubbles are then stacked in the free band,
+    alternating left/right columns, so nothing overlaps a caption or another bubble."""
     base = Image.open(img_path).convert("RGBA")
     W, H = base.size
     d = ImageDraw.Draw(base)
+    dialogue = panel.get("dialogue", []) or []
 
-    # SFX first (behind bubbles)
+    # SFX first (behind bubbles), nudged off dead-center
     for i, s in enumerate(panel.get("sfx", []) or []):
-        cx = W * (0.68 if i % 2 == 0 else 0.30)
-        cy = H * (0.62 if i % 2 == 0 else 0.44)
-        _sfx(base, s.upper(), cx, cy, int(H * 0.13), rot=-12 if i % 2 == 0 else 9)
+        cx = W * (0.70 if i % 2 == 0 else 0.27)
+        cy = H * (0.66 if i % 2 == 0 else 0.52)
+        _sfx(base, s.upper(), cx, cy, int(H * 0.12), rot=-12 if i % 2 == 0 else 9)
 
-    bubble_i = 0
-    for dl in panel.get("dialogue", []) or []:
-        typ = dl.get("type", "speech")
-        text = (dl.get("text") or "").strip()
-        if not text:
+    # caption / narration boxes, reserving their bands
+    top_y, bot_y = int(H * 0.03), int(H * 0.97)
+    for dl in dialogue:
+        t, txt = dl.get("type"), (dl.get("text") or "").strip()
+        if not txt:
             continue
-        if typ in ("caption",):
-            _caption(base, text, font(caption_font, "caption"), where="bottom")
+        if t == "narration":
+            _, y1 = _caption(base, txt, font(caption_font, "caption"), where="top")
+            top_y = max(top_y, y1 + 14)
+        elif t == "caption":
+            y0, _ = _caption(base, txt, font(caption_font, "caption"), where="bottom")
+            bot_y = min(bot_y, y0 - 14)
+
+    # speech/shout/thought bubbles, stacked in the free band
+    cursor, col = top_y + 12, 0
+    for dl in dialogue:
+        t, txt = dl.get("type", "speech"), (dl.get("text") or "").strip()
+        if not txt or t in ("narration", "caption"):
             continue
-        if typ in ("narration",):
-            _caption(base, text, font(caption_font, "caption"), where="top")
-            continue
-        ax, ay = _ANCHORS[bubble_i % len(_ANCHORS)]
-        cx, cy = W * ax, H * ay
-        fkind = "shout" if typ == "shout" else ("thought" if typ == "thought" else "speech")
-        fnt = font(bubble_font + (6 if typ == "shout" else 0), fkind)
-        lines = _wrap(d, text if typ != "shout" else text.upper(), fnt, W * 0.30)
-        tail = (W * ax, H * (ay + 0.16))
-        _speech_bubble(base, cx, cy, lines, fnt, kind=fkind, tail_to=tail)
-        bubble_i += 1
+        kind = "shout" if t == "shout" else ("thought" if t == "thought" else "speech")
+        fnt = font(bubble_font + (6 if kind == "shout" else 0), kind)
+        lines = _wrap(d, txt.upper() if kind == "shout" else txt, fnt, W * 0.30)
+        bw, bh = _bubble_size(base, lines, fnt, kind)
+        cx = W * (0.30 if col % 2 == 0 else 0.70)
+        cx = min(max(cx, bw / 2 + 14), W - bw / 2 - 14)
+        cy = cursor + bh / 2
+        if cy + bh / 2 > bot_y:  # out of vertical room -> clamp into band
+            cy = max(top_y + bh / 2 + 4, bot_y - bh / 2)
+        tail = (cx, min(cy + bh / 2 + H * 0.14, H * 0.92))
+        _speech_bubble(base, cx, cy, lines, fnt, kind=kind, tail_to=tail)
+        cursor = cy + bh / 2 + 16
+        col += 1
 
     base.convert("RGB").save(out_path, quality=92)
     return out_path
@@ -183,7 +207,9 @@ def compose_page(panel_paths, out_path, title=None, cols=2, bg=(12, 12, 14)):
         d.text(((W - tw) / 2, (title_h - 56) / 2 + 6), title, font=tf, fill=(240, 226, 205))
     for i, im in enumerate(imgs):
         r, c = divmod(i, cols)
-        x = gut + c * (cw + gut)
+        items_in_row = min(cols, n - r * cols)          # center a short final row
+        row_w = items_in_row * cw + (items_in_row - 1) * gut
+        x = (W - row_w) // 2 + c * (cw + gut)
         y = title_h + gut + r * (ch + gut)
         im = im.resize((cw, ch)) if im.size != (cw, ch) else im
         page.paste(im, (x, y))

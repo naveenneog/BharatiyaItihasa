@@ -109,6 +109,41 @@ def render_episode(ep, tok=None, max_panels=None, force=False, co_stars=None):
     return page, tok
 
 
+def reletter_episode(eid):
+    """Re-run lettering + page compose for an already-rendered episode using its SAVED
+    storyboard + existing raw panels. No gpt-4o, no image generation (free + instant) —
+    use after tweaking lettering.py."""
+    story = C.load_json(C.APP / "data" / f"{eid}.storyboard.json", None)
+    rec = C.load_json(C.APP / "data" / f"{eid}.json", {})
+    if not story:
+        print(f"  no storyboard for {eid}"); return None
+    rawdir = C.APP / "assets" / eid / "img"
+    letterdir = C.APP / "assets" / eid / "panels"
+    letterdir.mkdir(parents=True, exist_ok=True)
+    lettered, out_panels = [], []
+    for p in story.get("panels", []):
+        pid, raw = p["id"], rawdir / f"{p['id']}.png"
+        if not raw.exists():
+            continue
+        letimg = letterdir / f"{pid}.jpg"
+        lt.letter_panel(raw, p, letimg)
+        lettered.append(letimg)
+        out_panels.append({"id": pid, "image": f"assets/{eid}/panels/{pid}.jpg",
+                           "shot": p.get("shot", ""), "sfx": p.get("sfx", []),
+                           "dialogue": p.get("dialogue", [])})
+    if not lettered:
+        print(f"  no raw panels for {eid}"); return None
+    title = rec.get("title") or eid.replace("_", " ").title()
+    (C.APP / "comics").mkdir(parents=True, exist_ok=True)
+    page = C.APP / "comics" / f"{eid}.jpg"
+    lt.compose_page(lettered, page, title=title.upper(), cols=2)
+    if rec:
+        rec["panels"] = out_panels
+        C.save_json(C.APP / "data" / f"{eid}.json", rec)
+    print(f"  RELETTERED {eid}: {len(out_panels)} panels -> {page.name}", flush=True)
+    return page
+
+
 def batch(n, max_panels=None, force=False):
     tok = ai.token()
     done = 0
@@ -131,9 +166,18 @@ def main():
     ap.add_argument("--n", type=int, help="batch: render the next N unbuilt episodes")
     ap.add_argument("--max", type=int, dest="max_panels", help="cap panels per episode")
     ap.add_argument("--co-stars", nargs="*", default=[], help="extra figures to design + feature")
+    ap.add_argument("--reletter", metavar="ID", help="re-letter an episode from its saved storyboard")
+    ap.add_argument("--reletter-all", action="store_true", help="re-letter every built episode")
     ap.add_argument("--force", action="store_true")
     a = ap.parse_args()
 
+    if a.reletter_all:
+        for f in sorted((C.APP / "data").glob("*.storyboard.json")):
+            reletter_episode(f.name[:-len(".storyboard.json")])
+        return
+    if a.reletter:
+        reletter_episode(a.reletter)
+        return
     if a.n:
         batch(a.n, max_panels=a.max_panels, force=a.force)
         return
