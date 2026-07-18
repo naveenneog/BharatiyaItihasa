@@ -21,8 +21,14 @@
   briefing proposing 8 ranked NEW thematic veins (top: Monuments/Engineering, Science/Maths/Medicine,
   Women Rulers, Harappan) with example episodes + primary sources for the next research batch.
 - The **Storyteller skill** (reusable engine): `C:\Users\navg\DailyApps\dailyapps-skills\storyteller\`.
+- **NEW — the anime-comic engine** (`tools/`, built + verified 2026-07-18): character-consistent
+  shonen-manga graphic-novel pipeline. See §0A below and `CHANGELOG.md`.
 
-**Nothing is generated/built/deployed yet** for Indian History — Phase 0 is research only.
+**Status (2026-07-18):** research corpus done (85 episodes); the **art direction is decided
+(shonen-anime + character consistency)** and the **rendering engine is built and verified** on
+3 eras (Rani Lakshmibai=freedom, Shivaji=medieval, Ashoka=ancient). Still TODO for a shippable
+app: layer 6-language TTS narration, the PWA reader, Firebase endpoint + deploy, and the full
+build-out batch. (The narration/publish/deploy pipeline from §3 is unchanged and still applies.)
 
 **To move forward, resolve the 4 OPEN DECISIONS (see §7), then do Phase 1 (pilot):**
 1. Merge all research fragments → final `indian_history_collection.json` (see §4 build_queue mapping).
@@ -32,6 +38,53 @@
 
 **Do NOT disturb the Indian Tales session** — that pipeline/monitoring runs independently in another
 session. This app has its OWN repo, OWN Firebase site, OWN autogen_status/ledger.
+
+---
+
+## 0A. THE ANIME-COMIC ENGINE (the new build path — `tools/`)
+
+Character-consistent shonen-manga graphic novels. One unified "house style" for all eras +
+an era palette/mood modifier. Verified this session. Prereqs: `az login`, `keepactive` guard
+running (§3.3), Pillow (`pip install pillow`). Each 1024² image ≈ 2 min.
+
+**Modules (`IndianHistory/tools/`):**
+- `aiclient.py` — Azure gpt-4o + gpt-image-2 client: `chat_json`, `gen_image` (generations),
+  and **`edit_image`** (images/**edits** with reference model sheet(s) → character consistency).
+- `style_bible.py` — the shonen HOUSE_LOOK, `SHEET_STYLE`/`PANEL_STYLE`, gpt-4o prompts
+  (`CHARACTER_SYS` designs a bible, `STORYBOARD_SYS` writes panels + dialogue), and
+  `era_modifier()` (ancient / classical_south / medieval / freedom palettes).
+- `lettering.py` — Pillow overlay: speech/shout/thought bubbles, caption+narration boxes (bands
+  reserved so bubbles never overlap them), rotated manga SFX, and `compose_page` (gutters).
+  **Art is generated text-free** → panels are reusable across all 6 languages.
+- `common.py` — paths, slugs, the **character registry** (`characters/registry.json`), and the
+  `indian_history_collection.json → episode` loader.
+- `gen_character.py` — design a bible (gpt-4o) + render a full-body **model sheet**
+  (`app/assets/_characters/<slug>/sheet.png`); resumable; reused across every episode a figure appears in.
+- `comic_engine.py` — the core: ensure the figure's sheet → author storyboard → render every
+  panel via `edit_image` (sheet as reference = identity held) → letter → compose page →
+  write `app/data/<id>.json`.
+
+**Run:**
+```
+cd tools; $env:PYTHONIOENCODING="utf-8"
+python gen_character.py --figure "Ashoka"                 # design + sheet only
+python comic_engine.py "Rani Lakshmibai"                  # one full episode (by figure/title/id)
+python comic_engine.py "Ashoka" --max 5                   # cap panels (faster)
+python comic_engine.py --n 10                             # batch next 10 unbuilt episodes
+python comic_engine.py --reletter <id>                    # re-letter from saved art (free, no API)
+python comic_engine.py "Chandragupta..." --co-stars "Chanakya"   # multi-character (feeds both sheets)
+```
+Outputs (gitignored binaries): `app/assets/_characters/<slug>/sheet.png`,
+`app/assets/<id>/{img,panels}/*`, `app/comics/<id>.jpg`; committed text: `characters/*.json`,
+`app/data/<id>.{json,storyboard.json}`.
+
+**Consistency mechanism:** a per-figure model sheet is fed as the `image[]` reference to
+gpt-image-2 `images/edits` for every panel, so face/hair/costume/weapon stay identical across
+dynamic action panels and across episodes. Textual `ref_desc` reinforces it in each prompt.
+
+**Known polish TODO:** SFX placement can overlap the subject; bubble tails are generic (not
+mouth-anchored); multi-character co-star casting validated only lightly; combined-figure episodes
+(e.g. "Chandragupta Maurya and Chanakya") need the lead split out.
 
 ---
 

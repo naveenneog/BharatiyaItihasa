@@ -5,6 +5,33 @@ problems. Newest first.
 
 ---
 
+## 2026-07-18 (later) — Anime-comic engine BUILT + verified on 3 eras
+
+Implemented the full character-consistent engine in `tools/` (see CONTEXT §0A):
+`aiclient.py`, `style_bible.py` (house style + `era_modifier`), `lettering.py`, `common.py`
+(character registry + collection loader), `gen_character.py`, `comic_engine.py`. Committed as
+granular per-feature commits.
+
+**Verified end-to-end on three eras** (character stays identical across all panels via the
+model-sheet→`images/edits` reference mechanism):
+- **Rani Lakshmibai** (freedom, 1858) — 4-panel sample, the first approval.
+- **Chhatrapati Shivaji** (medieval, 1666) — full 7-panel story "Shivaji's Quiet Escape from
+  Agra"; medieval palette; correctly labels the basket-escape as *tradition*.
+- **Emperor Ashoka** (ancient, 261 BCE) — ancient palette validation.
+
+**Lettering fix:** on panels with a top narration caption + a speech bubble, the two collided and
+clipped text. Bubbles now reserve the caption/narration vertical bands and stack in the free
+space; `compose_page` centers a short final row. Added a **`--reletter`** path that re-runs
+lettering from the saved storyboard + existing art with no API cost (used to fix the Shivaji page
+without re-generating it).
+
+**Design choices worth keeping:** (1) art is generated **text-free** and dialogue is a Pillow
+overlay → one panel serves all 6 languages later; (2) one **unified house style** + per-era
+palette (not a different style per era) for brand + consistency; (3) a **character registry** so a
+figure designed once is reused (identical) across every episode.
+
+---
+
 ## 2026-07-18 — Art direction DECIDED: anime/manga graphic-novel + character consistency
 
 **Decision (resolves ROADMAP §9.2 / CONTEXT §7.2 "art direction"):** the app's visual
