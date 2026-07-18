@@ -12,13 +12,14 @@
 
 **What exists now (2026-07-18):**
 - `ROADMAP.md` — vision, pillars, authentic-sourcing standard, candidate figures, phases, open decisions.
-- `indian_history_collection.json` — **Phase 0 corpus, first pass = 50 cited episodes** across 3 pillars
-  (Freedom Fighters 17, Unsung Heroes 14, Ancient→Medieval 19). Schema mirrors the Indian Tales
-  collection so it flows through the same pipeline.
-- `research/` — the raw per-pillar research fragments (with citations + fact-vs-tradition notes):
-  `freedom_fighters.json`, `unsung_heroes.json`, `ancient_medieval.json`
-  (+ **batch-2 expansion** fragments `figures_batch2.json`, `ancient_medieval_batch2.json`, and a
-  `expansion_themes.md` briefing — added when the expansion research finishes).
+- `indian_history_collection.json` — **Phase 0 corpus = 85 cited episodes** across 3 pillars
+  (Freedom Fighters 25, Unsung Heroes 23, Ancient→Medieval 37). Schema mirrors the Indian Tales
+  collection so it flows through the same pipeline. Ages: 27×B, 58×C (add a few gentle age-A later).
+- `research/` — the raw per-pillar research fragments (citations + fact-vs-tradition notes):
+  `freedom_fighters.json`, `unsung_heroes.json`, `ancient_medieval.json`, plus batch-2 expansions
+  `figures_batch2.json`, `ancient_medieval_batch2.json`, and **`expansion_themes.md`** — a scout
+  briefing proposing 8 ranked NEW thematic veins (top: Monuments/Engineering, Science/Maths/Medicine,
+  Women Rulers, Harappan) with example episodes + primary sources for the next research batch.
 - The **Storyteller skill** (reusable engine): `C:\Users\navg\DailyApps\dailyapps-skills\storyteller\`.
 
 **Nothing is generated/built/deployed yet** for Indian History — Phase 0 is research only.
