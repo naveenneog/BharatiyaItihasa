@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Itihāsa — Motion Comic</title>
+<link rel="stylesheet" href="player.css">
+</head>
+<body>
+<div id="stage">
+  <div class="bg" id="bgA"></div>
+  <div class="bg" id="bgB"></div>
+  <div class="vignette"></div>
+  <div class="layer" id="layer"></div>
+
+  <div class="overlay" id="startCard">
+    <div class="epic-title" id="startTitle">Itihāsa</div>
+    <div class="epic-sub" id="startSub"></div>
+    <button class="play-btn" id="startBtn">▶ Play</button>
+    <div class="hint">A voiced, animated retelling of Indian history</div>
+  </div>
+
+  <div class="overlay hidden" id="endCard">
+    <div class="epic-moral" id="endMoral"></div>
+    <button class="play-btn" id="replayBtn">↻ Replay</button>
+  </div>
+
+  <div class="controls" id="controls">
+    <button data-act="prev" title="Previous scene">⏮</button>
+    <button data-act="toggle" id="toggleBtn" title="Play / Pause">⏸</button>
+    <button data-act="next" title="Next scene">⏭</button>
+    <div class="spacer"></div>
+    <div class="progress" id="progress"></div>
+    <div class="spacer"></div>
+    <select id="langSel" title="Language"></select>
+    <button data-act="mute" id="muteBtn" title="Mute">🔊</button>
+  </div>
+</div>
+<script src="player.js"></script>
+</body>
+</html>

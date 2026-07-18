@@ -1,0 +1,177 @@
+/* Itihāsa motion-comic player: animated scenes + voiced narration + word-synced highlight.
+   Loads app/data/<ep>.player.json (produced by tools/voice.py). */
+const BASE = "../";
+const $ = s => document.querySelector(s);
+const qs = new URLSearchParams(location.search);
+let EP = qs.get("ep");
+let LANG = qs.get("lang") || "en";
+
+const NATIVE = { en: "English", hi: "हिन्दी", kn: "ಕನ್ನಡ", ta: "தமிழ்", te: "తెలుగు", de: "Deutsch" };
+
+let M = null, scene = 0, runId = 0, paused = false, muted = false;
+const audio = new Audio(); audio.preload = "auto";
+const bgs = [$("#bgA"), $("#bgB")]; let bgCur = 0, kbN = 0;
+
+async function boot() {
+  if (!EP) { document.body.innerHTML = "<p style='color:#eee;padding:24px;font:16px sans-serif'>Add <b>?ep=&lt;episode-id&gt;</b> to the URL.</p>"; return; }
+  M = await fetch(`${BASE}data/${EP}.player.json`).then(r => r.json());
+  $("#startTitle").textContent = (M.title_i18n && M.title_i18n[LANG]) || M.title;
+  $("#startSub").textContent = [M.figure, M.era].filter(Boolean).join(" · ");
+  buildLangSel(); buildProgress(); wireControls();
+}
+
+function buildLangSel() {
+  const sel = $("#langSel"); sel.innerHTML = "";
+  (M.langs || ["en"]).forEach(lg => {
+    const o = document.createElement("option");
+    o.value = lg; o.textContent = NATIVE[lg] || lg; if (lg === LANG) o.selected = true;
+    sel.appendChild(o);
+  });
+  sel.onchange = () => { LANG = sel.value; $("#startTitle").textContent = (M.title_i18n && M.title_i18n[LANG]) || M.title; play(scene); };
+}
+
+function buildProgress() {
+  const p = $("#progress"); p.innerHTML = "";
+  (M.panels || []).forEach(() => { const d = document.createElement("div"); d.className = "dot"; p.appendChild(d); });
+}
+function updateProgress() {
+  [...$("#progress").children].forEach((d, i) => {
+    d.className = "dot" + (i < scene ? " done" : i === scene ? " cur" : "");
+  });
+}
+
+function setToggle() { $("#toggleBtn").textContent = paused ? "▶" : "⏸"; }
+
+function wireControls() {
+  $("#startBtn").onclick = () => play(0);
+  $("#replayBtn").onclick = () => play(0);
+  $("#controls").addEventListener("click", e => {
+    const act = e.target.getAttribute && e.target.getAttribute("data-act");
+    if (act === "prev") nav(-1);
+    else if (act === "next") nav(1);
+    else if (act === "toggle") togglePause();
+    else if (act === "mute") { muted = !muted; audio.muted = muted; $("#muteBtn").textContent = muted ? "🔇" : "🔊"; }
+  });
+  document.addEventListener("keydown", e => {
+    if (e.code === "Space") { e.preventDefault(); togglePause(); }
+    else if (e.code === "ArrowRight") nav(1);
+    else if (e.code === "ArrowLeft") nav(-1);
+  });
+}
+
+function togglePause() {
+  paused = !paused; setToggle();
+  if (paused) audio.pause(); else { const p = audio.play(); if (p) p.catch(() => {}); }
+}
+function nav(d) { const s = Math.min((M.panels.length - 1), Math.max(0, scene + d)); play(s); }
+
+function show(id, on) { $(id).classList.toggle("hidden", !on); }
+
+async function play(from = 0) {
+  show("#startCard", false); show("#endCard", false);
+  const my = ++runId; paused = false; setToggle();
+  for (scene = from; scene < M.panels.length; scene++) {
+    updateProgress();
+    const ok = await playScene(M.panels[scene], my);
+    if (my !== runId) return;
+    if (!ok) return;
+  }
+  showEnd();
+}
+
+function showEnd() {
+  $("#layer").innerHTML = "";
+  $("#endMoral").textContent = M.moral || "";
+  show("#endCard", true);
+  audio.pause();
+}
+
+function setBg(art, my) {
+  return new Promise(res => {
+    const next = bgs[1 - bgCur];
+    next.style.backgroundImage = `url("${BASE}${art}")`;
+    next.classList.remove("kb1", "kb2", "kb3"); void next.offsetWidth;
+    kbN = (kbN % 3) + 1; next.classList.add("kb" + kbN, "show");
+    bgs[bgCur].classList.remove("show");
+    bgCur = 1 - bgCur;
+    setTimeout(() => res(my === runId), 720);
+  });
+}
+
+async function playScene(panel, my) {
+  const ok = await setBg(panel.art, my);
+  if (my !== runId || !ok) return false;
+  for (const line of (panel.lines || [])) {
+    const r = await playLine(line, my);
+    if (my !== runId || !r) return false;
+    await sleep(380, my);
+  }
+  await sleep(480, my);
+  return true;
+}
+
+function sleep(ms, my) {
+  return new Promise(res => {
+    let el = 0; const step = 80;
+    const t = setInterval(() => {
+      if (my !== runId) { clearInterval(t); return res(); }
+      if (!paused) el += step;
+      if (el >= ms) { clearInterval(t); res(); }
+    }, step);
+  });
+}
+
+function playLine(line, my) {
+  return new Promise(resolve => {
+    const layer = $("#layer"); layer.innerHTML = "";
+    const text = (line.text && (line.text[LANG] || line.text.en)) || "";
+    if (!text.trim()) return resolve(true);
+    const words = (line.words && (line.words[LANG] || [])) || [];
+
+    const el = document.createElement("div"); el.className = "line " + (line.type || "speech");
+    if (line.type !== "narration" && line.speaker) {
+      const who = document.createElement("div"); who.className = "who"; who.textContent = line.speaker; el.appendChild(who);
+    }
+    const box = document.createElement("div"); box.className = "box";
+    const toks = text.split(/\s+/).filter(Boolean);
+    const spans = toks.map(w => { const s = document.createElement("span"); s.className = "w"; s.textContent = w; return s; });
+    spans.forEach((s, i) => { box.appendChild(s); if (i < spans.length - 1) box.appendChild(document.createTextNode(" ")); });
+    el.appendChild(box); layer.appendChild(el);
+    requestAnimationFrame(() => el.classList.add("in"));
+
+    let done = false;
+    const finish = ok => { if (done) return; done = true; el.classList.add("out"); setTimeout(() => resolve(ok), 240); };
+    const times = dur => spans.map((_, k) => (words[k] != null ? words[k].t : (k / Math.max(1, spans.length)) * dur));
+
+    const src = line.audio && line.audio[LANG];
+    if (src) {
+      audio.onended = null; audio.onerror = null;
+      audio.src = BASE + src; audio.muted = muted;
+      const p = audio.play(); if (p) p.catch(() => {});
+      const tick = () => {
+        if (done) return;
+        if (my !== runId) { audio.pause(); return finish(false); }
+        if (!paused) {
+          const dur = (audio.duration || 3) * 1000, ms = audio.currentTime * 1000, T = times(dur);
+          let cur = -1;
+          spans.forEach((s, k) => { if (ms >= T[k] - 40) { s.classList.add("on"); cur = k; } });
+          spans.forEach((s, k) => s.classList.toggle("active", k === cur));
+        }
+        requestAnimationFrame(tick);
+      };
+      audio.onended = () => { if (my === runId) { spans.forEach(s => { s.classList.add("on"); s.classList.remove("active"); }); setTimeout(() => finish(true), 320); } };
+      audio.onerror = () => revealTimed();
+      requestAnimationFrame(tick);
+    } else { revealTimed(); }
+
+    function revealTimed() {
+      const total = Math.max(1600, text.length * 58);
+      spans.forEach((s, k) => setTimeout(() => {
+        if (my === runId && !paused) { s.classList.add("on"); spans.forEach((x, j) => x.classList.toggle("active", j === k)); }
+      }, (k / Math.max(1, spans.length)) * total));
+      setTimeout(() => { spans.forEach(s => s.classList.remove("active")); finish(true); }, total + 320);
+    }
+  });
+}
+
+boot();
