@@ -16,7 +16,6 @@ import argparse, sys
 sys.stdout.reconfigure(encoding="utf-8")
 import aiclient as ai
 import style_bible as sb
-import lettering as lt
 import common as C
 import gen_character as gc
 
@@ -36,7 +35,7 @@ def _panel_prompt(ep, panel, cast_entries):
             f"SHOT: {panel.get('shot', '')}\nACTION: {panel.get('action', '')}")
 
 
-def render_episode(ep, tok=None, max_panels=None, force=False, co_stars=None):
+def render_episode(ep, tok=None, max_panels=None, force=False, co_stars=None, langs=None):
     tok = tok or ai.token()
     eid = ep["id"]
     print(f"\n=== {eid} :: {ep['title']} ({ep.get('era','')}) ===", flush=True)
@@ -57,13 +56,11 @@ def render_episode(ep, tok=None, max_panels=None, force=False, co_stars=None):
         panels = panels[:max_panels]
     C.save_json(C.APP / "data" / f"{eid}.storyboard.json", {**story, "panels": panels})
 
-    # 3. render + letter each panel
+    # 3. render each panel (text-free art) via images/edits with the model sheet reference
     rawdir = C.APP / "assets" / eid / "img"
-    letterdir = C.APP / "assets" / eid / "panels"
     rawdir.mkdir(parents=True, exist_ok=True)
-    letterdir.mkdir(parents=True, exist_ok=True)
     reg = C.load_registry()["characters"]
-    out_panels, lettered = [], []
+    out_panels, rendered = [], 0
     for p in panels:
         pid = p["id"]
         cast = [c for c in p.get("cast", []) if c in reg]
@@ -80,68 +77,59 @@ def render_episode(ep, tok=None, max_panels=None, force=False, co_stars=None):
         if not raw.exists():
             print(f"    skip {pid} (blocked/failed)", flush=True)
             continue
-        letimg = letterdir / f"{pid}.jpg"
-        lt.letter_panel(raw, p, letimg)
-        lettered.append(letimg)
-        out_panels.append({"id": pid, "image": f"assets/{eid}/panels/{pid}.jpg",
-                           "shot": p.get("shot", ""), "sfx": p.get("sfx", []),
+        rendered += 1
+        out_panels.append({"id": pid, "shot": p.get("shot", ""), "sfx": p.get("sfx", []),
                            "dialogue": p.get("dialogue", [])})
 
-    if not lettered:
+    if not rendered:
         print("  NO panels rendered — aborting page", flush=True)
         return None, tok
 
-    # 4. compose the comic page
-    (C.APP / "comics").mkdir(parents=True, exist_ok=True)
-    page = C.APP / "comics" / f"{eid}.jpg"
-    lt.compose_page(lettered, page, title=ep["title"].upper(), cols=2)
+    # 4. translate + render one comic PAGE per language (Chromium letterer)
+    langs = langs or C.LANGS
+    pages, tok = _finish_pages(eid, story, ep["title"], story.get("subtitle", ""), langs, tok)
 
     # 5. data record
-    cover = out_panels[0]["image"]
     C.save_json(C.APP / "data" / f"{eid}.json", {
         "id": eid, "series": ep.get("series", ""), "title": ep["title"],
-        "subtitle": story.get("subtitle", ""), "figure": ep["figure"],
-        "era": ep.get("era", ""), "region": ep.get("region", ""), "age": ep.get("age", ""),
-        "moral": ep.get("moral", ""), "sources": ep.get("sources", []),
-        "cover": cover, "page": f"comics/{eid}.jpg", "panels": out_panels,
+        "title_i18n": story.get("title_i18n", {}), "subtitle": story.get("subtitle", ""),
+        "figure": ep["figure"], "era": ep.get("era", ""), "region": ep.get("region", ""),
+        "age": ep.get("age", ""), "moral": ep.get("moral", ""), "sources": ep.get("sources", []),
+        "langs": langs, "pages": {lg: f"comics/{eid}/{lg}.jpg" for lg in pages},
+        "cover": f"assets/{eid}/img/{out_panels[0]['id']}.png", "panels": out_panels,
     })
-    print(f"  DONE {eid}: {len(out_panels)} panels -> {page.name}", flush=True)
-    return page, tok
+    print(f"  DONE {eid}: {rendered} panels x {len(pages)} languages", flush=True)
+    return pages.get("en"), tok
 
 
-def reletter_episode(eid):
-    """Re-run lettering + page compose for an already-rendered episode using its SAVED
-    storyboard + existing raw panels. No gpt-4o, no image generation (free + instant) —
-    use after tweaking lettering.py."""
+def _finish_pages(eid, story, title, subtitle, langs, tok):
+    """Translate the storyboard (skips already-translated langs) and render a comic page per
+    language from the text-free art. Shared by render + reletter."""
+    import translate
+    import weblettering
+    tok = translate.translate_storyboard(story, title, subtitle, langs, tok=tok)
+    C.save_json(C.APP / "data" / f"{eid}.storyboard.json", story)
+    pages = weblettering.render_pages(eid, story, C.APP / "assets" / eid / "img",
+                                      C.APP / "comics" / eid, langs)
+    return pages, tok
+
+
+def reletter_episode(eid, langs=None, tok=None):
+    """Re-render the comic PAGES for an already-drawn episode from its saved storyboard + art:
+    translate (cached) + Chromium letter per language. No image generation."""
     story = C.load_json(C.APP / "data" / f"{eid}.storyboard.json", None)
     rec = C.load_json(C.APP / "data" / f"{eid}.json", {})
     if not story:
         print(f"  no storyboard for {eid}"); return None
-    rawdir = C.APP / "assets" / eid / "img"
-    letterdir = C.APP / "assets" / eid / "panels"
-    letterdir.mkdir(parents=True, exist_ok=True)
-    lettered, out_panels = [], []
-    for p in story.get("panels", []):
-        pid, raw = p["id"], rawdir / f"{p['id']}.png"
-        if not raw.exists():
-            continue
-        letimg = letterdir / f"{pid}.jpg"
-        lt.letter_panel(raw, p, letimg)
-        lettered.append(letimg)
-        out_panels.append({"id": pid, "image": f"assets/{eid}/panels/{pid}.jpg",
-                           "shot": p.get("shot", ""), "sfx": p.get("sfx", []),
-                           "dialogue": p.get("dialogue", [])})
-    if not lettered:
-        print(f"  no raw panels for {eid}"); return None
+    langs = langs or rec.get("langs") or C.LANGS
     title = rec.get("title") or eid.replace("_", " ").title()
-    (C.APP / "comics").mkdir(parents=True, exist_ok=True)
-    page = C.APP / "comics" / f"{eid}.jpg"
-    lt.compose_page(lettered, page, title=title.upper(), cols=2)
+    pages, _ = _finish_pages(eid, story, title, story.get("subtitle", ""), langs, tok)
     if rec:
-        rec["panels"] = out_panels
+        rec["langs"] = langs
+        rec["pages"] = {lg: f"comics/{eid}/{lg}.jpg" for lg in pages}
         C.save_json(C.APP / "data" / f"{eid}.json", rec)
-    print(f"  RELETTERED {eid}: {len(out_panels)} panels -> {page.name}", flush=True)
-    return page
+    print(f"  RELETTERED {eid}: {len(pages)} language page(s)", flush=True)
+    return pages
 
 
 def batch(n, max_panels=None, force=False):
@@ -168,15 +156,17 @@ def main():
     ap.add_argument("--co-stars", nargs="*", default=[], help="extra figures to design + feature")
     ap.add_argument("--reletter", metavar="ID", help="re-letter an episode from its saved storyboard")
     ap.add_argument("--reletter-all", action="store_true", help="re-letter every built episode")
+    ap.add_argument("--langs", nargs="*", help="languages (default: en kn hi ta te de)")
     ap.add_argument("--force", action="store_true")
     a = ap.parse_args()
+    langs = a.langs or C.LANGS
 
     if a.reletter_all:
         for f in sorted((C.APP / "data").glob("*.storyboard.json")):
-            reletter_episode(f.name[:-len(".storyboard.json")])
+            reletter_episode(f.name[:-len(".storyboard.json")], langs=langs)
         return
     if a.reletter:
-        reletter_episode(a.reletter)
+        reletter_episode(a.reletter, langs=langs)
         return
     if a.n:
         batch(a.n, max_panels=a.max_panels, force=a.force)
@@ -186,7 +176,7 @@ def main():
     ep = C.find_episode(a.query)
     if not ep:
         sys.exit(f"no episode matches {a.query!r}")
-    render_episode(ep, max_panels=a.max_panels, force=a.force, co_stars=a.co_stars)
+    render_episode(ep, max_panels=a.max_panels, force=a.force, co_stars=a.co_stars, langs=langs)
 
 
 if __name__ == "__main__":
