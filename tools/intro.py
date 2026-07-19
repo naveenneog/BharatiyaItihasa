@@ -34,6 +34,13 @@ MAP_PROMPT = (
     "gold and faded-ink tones, a faint decorative compass rose in a corner, soft vignette. "
     "Absolutely NO text, NO labels, NO letters or numbers anywhere. Cinematic, painterly.")
 
+HERO_PORTRAIT = (
+    "{look}\n\nICONIC CINEMATIC HERO-INTRODUCTION PORTRAIT of {name} ({ref}): proud, resolute and "
+    "powerful{act}, gazing toward the horizon. The face and upper body are LARGE and centred in the "
+    "frame with CLEAR HEADROOM (open sky/space) above the head for a title; heroic low angle, "
+    "cinematic rim-light, a richly illustrated atmospheric background that fits the era. Absolutely "
+    "NO text, NO labels, NO letters or numbers anywhere.")
+
 
 def _voice_line(text, mp3, wj):
     if mp3.exists() and wj.exists():
@@ -44,7 +51,7 @@ def _voice_line(text, mp3, wj):
     return w
 
 
-def build_intro(eid, langs=("en",), tok=None):
+def build_intro(eid, langs=("en",), tok=None, hero_art=None, hero_action=""):
     pj = C.APP / "data" / f"{eid}.player.json"
     man = C.load_json(pj, None)
     if not man:
@@ -65,6 +72,21 @@ def build_intro(eid, langs=("en",), tok=None):
     if not mp.exists():
         tok = ai.gen_image(f"{sb.HOUSE_LOOK}\n\n{MAP_PROMPT}", mp, tok, size="1024x1536")
 
+    # Hero title art: a face-forward portrait from the model sheet (headroom for the title) so the
+    # opening card reads like the co-star intro cards; fall back to the cover panel.
+    hero_rel = hero_art or f"assets/{eid}/img/cover.png"
+    sheet = ent.get("sheet")
+    if not hero_art and sheet:
+        hp = idir / "hero.png"
+        if not hp.exists():
+            print("  hero portrait", flush=True)
+            act = f", {hero_action}" if hero_action else ""
+            tok = ai.edit_image(HERO_PORTRAIT.format(look=sb.HOUSE_LOOK,
+                                name=ent.get("display_name", rec.get("figure", "")),
+                                ref=ent.get("ref_desc", ""), act=act),
+                                [C.APP / sheet], hp, tok, size="1536x1024")
+        hero_rel = f"assets/{eid}/intro/hero.png"
+
     adir = C.APP / "assets" / eid / "audio" / "intro"
     print("  intro voice", flush=True)
     htext, hwords, tok = voice.voice_multi(d.get("hero_intro", ""), adir, "hero", langs, "narrator", tok)
@@ -72,7 +94,7 @@ def build_intro(eid, langs=("en",), tok=None):
     hero_audio = {lg: f"assets/{eid}/audio/intro/hero_{lg}.mp3" for lg in langs}
     map_audio = {lg: f"assets/{eid}/audio/intro/map_{lg}.mp3" for lg in langs}
 
-    cover_art = f"assets/{eid}/img/cover.png"
+    cover_art = hero_rel
     hero = {"id": "intro_hero", "type": "hero", "mood": "triumph",
             "art": cover_art, "name": ent.get("display_name", rec.get("figure", "")),
             "epithets": d.get("epithets", []), "legend": d.get("legend_line", ""),
