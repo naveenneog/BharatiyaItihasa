@@ -94,9 +94,76 @@ def build_intro(eid, langs=("en",), tok=None):
     return tok
 
 
+CAST_INTRO_SYS = """You are a historian and film-trailer writer. Given a REAL historic figure and \
+the episode they appear in, write a short CHARACTER INTRODUCTION card. Be HISTORICALLY ACCURATE. \
+Use SIMPLE, vivid, emotional words that make a reader FEEL it (no big or archaic words).
+
+Return STRICT JSON only:
+{
+ "epithets": ["<2-3 short REAL titles/epithets this person is truly known by>"],
+ "legend_line": "<one short powerful line of who they are, <=11 words>",
+ "intro": "<1-2 simple vivid sentences: who they are and their role in THIS story, <=34 words>"
+}"""
+
+CAST_PORTRAIT = (
+    "{look}\n\nDRAMATIC WIDE CINEMATIC HERO-INTRODUCTION PORTRAIT of {name} ({ref}): {act}. The face "
+    "and upper body are LARGE and centred in the MIDDLE of the frame with clear headroom above the "
+    "head for a title; heroic low angle, cinematic rim-light, a richly illustrated atmospheric "
+    "background that fits the era. Absolutely NO text, NO labels, NO letters or numbers anywhere.")
+
+
+def add_cast_intro(eid, after_pid, figure, action_desc, era="", region="", facts="",
+                   langs=("en",), mood="triumph", key=None, tok=None, reuse=True):
+    """Introduce a supporting character with a hero-style card: a cinematic portrait (from their
+    model sheet, so the face stays consistent) + real epithets/legend + a voiced one-line intro,
+    inserted after `after_pid`. Gives co-stars their own moment instead of the hero in every scene."""
+    import gen_character as gc
+    pj = C.APP / "data" / f"{eid}.player.json"
+    man = C.load_json(pj, None)
+    if not man:
+        sys.exit(f"no player manifest for {eid} (run: python voice.py {eid} --langs en)")
+    tok = tok or ai.token()
+    ent, tok = gc.ensure_character(figure, era, region, facts, tok=tok)
+    key = key or C.slug(figure)
+    d = C.APP / "assets" / eid / "cast"
+    d.mkdir(parents=True, exist_ok=True)
+    art = d / f"{key}.png"
+    if not (reuse and art.exists()):
+        print(f"  cast intro portrait: {ent['display_name']}", flush=True)
+        tok = ai.edit_image(CAST_PORTRAIT.format(look=sb.HOUSE_LOOK, name=ent["display_name"],
+                                                 ref=ent["ref_desc"], act=action_desc),
+                            [C.APP / ent["sheet"]], art, tok, size="1536x1024")
+
+    print(f"  cast dossier: {ent['display_name']}", flush=True)
+    user = json.dumps({"figure": ent["display_name"], "role_in_scene": action_desc, "era": era,
+                       "region": region, "facts": facts,
+                       "episode": (C.find_episode(eid) or {}).get("logline", "")}, ensure_ascii=False)
+    dj, tok = ai.chat_json(CAST_INTRO_SYS, user, tok=tok, max_tokens=700)
+
+    adir = C.APP / "assets" / eid / "audio" / "cast"
+    itext, iwords, tok = voice.voice_multi(dj.get("intro", ""), adir, key, langs, "narrator", tok)
+    audio = {lg: f"assets/{eid}/audio/cast/{key}_{lg}.mp3" for lg in langs}
+    scene = {"id": f"intro_{key}", "type": "hero", "mood": mood,
+             "art": f"assets/{eid}/cast/{key}.png", "name": ent["display_name"],
+             "epithets": dj.get("epithets", []), "legend": dj.get("legend_line", ""), "era": era,
+             "lines": [{"type": "narration", "role": "narrator", "text": itext, "audio": audio,
+                        "words": iwords}]}
+    man["panels"] = [p for p in man["panels"] if p.get("id") != f"intro_{key}"]
+    idx = next((i for i, p in enumerate(man["panels"]) if p["id"] == after_pid), len(man["panels"]) - 1)
+    man["panels"].insert(idx + 1, scene)
+    C.save_json(pj, man)
+    print(f"  inserted cast intro 'intro_{key}' after {after_pid} ({len(man['panels'])} scenes)",
+          flush=True)
+    return tok
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("eid")
+    ap.add_argument("--langs", nargs="*", default=["en"])
+    a = ap.parse_args()
+    ep = C.find_episode(a.eid)
+    build_intro(ep["id"] if ep else a.eid, langs=a.langs)
     ap.add_argument("--langs", nargs="*", default=["en"])
     a = ap.parse_args()
     ep = C.find_episode(a.eid)
