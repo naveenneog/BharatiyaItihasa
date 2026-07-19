@@ -8,7 +8,7 @@ let LANG = qs.get("lang") || "en";
 
 const NATIVE = { en: "English", hi: "हिन्दी", kn: "ಕನ್ನಡ", ta: "தமிழ்", te: "తెలుగు", de: "Deutsch" };
 
-let M = null, scene = 0, runId = 0, paused = false, muted = false;
+let M = null, scene = 0, runId = 0, paused = false, muted = false, musicOn = true;
 const audio = new Audio(); audio.preload = "auto";
 const bgs = [$("#bgA"), $("#bgB")]; let bgCur = 0, kbN = 0;
 
@@ -51,6 +51,7 @@ function wireControls() {
     else if (act === "next") nav(1);
     else if (act === "toggle") togglePause();
     else if (act === "mute") { muted = !muted; audio.muted = muted; $("#muteBtn").textContent = muted ? "🔇" : "🔊"; }
+    else if (act === "music") { musicOn = !musicOn; if (window.Music) Music.setEnabled(musicOn); $("#musicBtn").classList.toggle("off", !musicOn); }
   });
   document.addEventListener("keydown", e => {
     if (e.code === "Space") { e.preventDefault(); togglePause(); }
@@ -62,6 +63,7 @@ function wireControls() {
 function togglePause() {
   paused = !paused; setToggle();
   if (paused) audio.pause(); else { const p = audio.play(); if (p) p.catch(() => {}); }
+  if (window.Music) Music.setEnabled(!paused && musicOn);
 }
 function nav(d) { const s = Math.min((M.panels.length - 1), Math.max(0, scene + d)); play(s); }
 
@@ -69,6 +71,7 @@ function show(id, on) { $(id).classList.toggle("hidden", !on); }
 
 async function play(from = 0) {
   show("#startCard", false); show("#endCard", false);
+  if (window.Music) { Music.resume(); Music.setEnabled(musicOn); }
   const my = ++runId; paused = false; setToggle();
   for (scene = from; scene < M.panels.length; scene++) {
     updateProgress();
@@ -129,10 +132,69 @@ function setActionScene(panel, my) {
   });
 }
 
+function clearScene() {
+  hideChar();
+  const hc = $("#heroCard"); hc.classList.add("hidden"); hc.classList.remove("in");
+  $("#mapPin").classList.add("hidden"); $("#mapLabel").classList.add("hidden");
+  bgs.forEach(b => b.classList.remove("mapfit"));
+}
+
+function moodFor(p) {
+  return p.mood || (p.type === "action" ? "battle" : p.type === "hero" ? "triumph"
+    : p.type === "map" ? "suspense" : "calm");
+}
+
+function setHeroScene(panel, my) {
+  return new Promise(res => {
+    const next = bgs[1 - bgCur];
+    next.classList.remove("mapfit");
+    next.style.backgroundImage = `url("${BASE}${panel.art}")`;
+    next.classList.remove("kb1", "kb2", "kb3"); void next.offsetWidth;
+    kbN = (kbN % 3) + 1; next.classList.add("kb" + kbN, "show");
+    bgs[bgCur].classList.remove("show"); bgCur = 1 - bgCur;
+    $("#heroEra").textContent = panel.era || "";
+    $("#heroName").textContent = panel.name || "";
+    const ep = $("#heroEpithets"); ep.innerHTML = "";
+    (panel.epithets || []).forEach(e => { const s = document.createElement("span"); s.textContent = e; ep.appendChild(s); });
+    $("#heroLegend").textContent = panel.legend || "";
+    const hc = $("#heroCard"); hc.classList.remove("hidden", "in"); void hc.offsetWidth;
+    requestAnimationFrame(() => hc.classList.add("in"));
+    setTimeout(() => res(my === runId), 950);
+  });
+}
+
+function mapMarker(x, y) {
+  const st = $("#stage"), W = st.clientWidth, H = st.clientHeight, A = 1024 / 1536;
+  let dw, dh, ox, oy;
+  if (W / H > A) { dh = H; dw = H * A; ox = (W - dw) / 2; oy = 0; }
+  else { dw = W; dh = W / A; ox = 0; oy = (H - dh) / 2; }
+  return { left: ox + x * dw, top: oy + y * dh };
+}
+
+function setMapScene(panel, my) {
+  return new Promise(res => {
+    const next = bgs[1 - bgCur];
+    next.style.backgroundImage = `url("${BASE}${panel.map}")`;
+    next.classList.remove("kb1", "kb2", "kb3", "show"); next.classList.add("mapfit"); void next.offsetWidth;
+    next.classList.add("show");
+    bgs[bgCur].classList.remove("show"); bgCur = 1 - bgCur;
+    const m = mapMarker(panel.x ?? 0.45, panel.y ?? 0.35);
+    const pin = $("#mapPin"), lab = $("#mapLabel");
+    pin.style.left = m.left + "px"; pin.style.top = m.top + "px"; pin.classList.remove("hidden");
+    lab.style.left = m.left + "px"; lab.style.top = m.top + "px"; lab.textContent = panel.label || "";
+    lab.classList.remove("hidden");
+    setTimeout(() => res(my === runId), 800);
+  });
+}
+
 async function playScene(panel, my) {
+  clearScene();
+  if (window.Music) Music.setMood(moodFor(panel));
   let ok;
   if (panel.type === "action") ok = await setActionScene(panel, my);
-  else { hideChar(); ok = await setBg(panel.art, my); }
+  else if (panel.type === "hero") ok = await setHeroScene(panel, my);
+  else if (panel.type === "map") ok = await setMapScene(panel, my);
+  else ok = await setBg(panel.art, my);
   if (my !== runId || !ok) return false;
   for (const line of (panel.lines || [])) {
     const r = await playLine(line, my);

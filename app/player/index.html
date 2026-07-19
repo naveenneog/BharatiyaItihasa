@@ -12,6 +12,14 @@
   <div class="bg" id="bgB"></div>
   <div class="vignette"></div>
   <img class="actchar" id="actChar" alt="">
+  <div class="mappin hidden" id="mapPin"></div>
+  <div class="maplabel hidden" id="mapLabel"></div>
+  <div class="herocard hidden" id="heroCard">
+    <div class="hero-era" id="heroEra"></div>
+    <div class="hero-name" id="heroName"></div>
+    <div class="hero-epithets" id="heroEpithets"></div>
+    <div class="hero-legend" id="heroLegend"></div>
+  </div>
   <div class="layer" id="layer"></div>
 
   <div class="overlay" id="startCard">
@@ -34,9 +42,11 @@
     <div class="progress" id="progress"></div>
     <div class="spacer"></div>
     <select id="langSel" title="Language"></select>
+    <button data-act="music" id="musicBtn" title="Music">🎵</button>
     <button data-act="mute" id="muteBtn" title="Mute">🔊</button>
   </div>
 </div>
+<script src="music.js"></script>
 <script src="player.js"></script>
 </body>
 </html>
