@@ -125,26 +125,80 @@ function setActionScene(panel, my) {
     chars.forEach(c => {
       const cm = c.motion || {};
       const img = document.createElement("img");
-      img.src = BASE + c.img; L.appendChild(img);
-      img.animate([
-        { transform: `translate(calc(-50% + ${cm.fromX ?? -42}vw),6%) scale(${cm.fromScale ?? 0.82}) rotate(${cm.rot || 0}deg)`, opacity: 0.12, offset: 0 },
-        { opacity: 1, offset: 0.16 },
-        { transform: `translate(calc(-50% + ${cm.toX ?? 4}vw),0) scale(${cm.toScale ?? 1.14}) rotate(0deg)`, opacity: 1, offset: 1 }
-      ], { duration: cm.dur || m.dur || 7000, easing: "cubic-bezier(.16,.7,.3,1)", fill: "forwards", delay: cm.delay || 0 });
+      img.src = BASE + c.img;
+      if (c.spirit) img.classList.add("spirit");
+      L.appendChild(img);
+      if (c.spirit) {
+        // a fallen hero returning as a fading spirit: materialise, glow, dissolve slowly upward
+        img.animate([
+          { transform: `translate(calc(-50% + ${cm.fromX ?? 0}vw),16%) scale(${cm.fromScale ?? 0.9})`, opacity: 0, offset: 0 },
+          { opacity: 0.62, offset: 0.34 },
+          { opacity: 0.5, offset: 0.72 },
+          { transform: `translate(calc(-50% + ${cm.toX ?? 0}vw),-12%) scale(${cm.toScale ?? 1.05})`, opacity: 0.1, offset: 1 }
+        ], { duration: cm.dur || m.dur || 8200, easing: "ease-in-out", fill: "forwards", delay: cm.delay || 0 });
+      } else {
+        img.animate([
+          { transform: `translate(calc(-50% + ${cm.fromX ?? -42}vw),6%) scale(${cm.fromScale ?? 0.82}) rotate(${cm.rot || 0}deg)`, opacity: 0.12, offset: 0 },
+          { opacity: 1, offset: 0.16 },
+          { transform: `translate(calc(-50% + ${cm.toX ?? 4}vw),0) scale(${cm.toScale ?? 1.14}) rotate(0deg)`, opacity: 1, offset: 1 }
+        ], { duration: cm.dur || m.dur || 7000, easing: "cubic-bezier(.16,.7,.3,1)", fill: "forwards", delay: cm.delay || 0 });
+      }
     });
     setTimeout(() => res(my === runId), 720);
   });
 }
 
+function setSplitScene(panel, my) {
+  return new Promise(res => {
+    const L = $("#splitLayer"); L.innerHTML = ""; L.classList.remove("hidden");
+    bgs.forEach(b => b.classList.remove("show"));          // montage covers the whole stage
+    const clips = ["polygon(0 0,40% 0,24% 100%,0 100%)",
+                   "polygon(41% 0,70% 0,54% 100%,25% 100%)",
+                   "polygon(71% 0,100% 0,100% 100%,55% 100%)"];
+    const enters = ["translate(-74%,-10%)", "translate(0,-84%)", "translate(74%,10%)"];
+    const slots = ["6%", "37%", "60%"];
+    const slices = panel.slices || [];
+    slices.forEach((s, i) => {
+      const k = i % 3;
+      const d = document.createElement("div"); d.className = "slice";
+      d.style.backgroundImage = `url("${BASE}${s.img}")`;
+      d.style.backgroundPosition = s.pos || "center";
+      d.style.clipPath = clips[k]; d.style.webkitClipPath = clips[k];
+      L.appendChild(d);
+      const delay = i * 430;
+      d.animate([
+        { transform: enters[k], opacity: 0, offset: 0 },
+        { opacity: 1, offset: 0.4 },
+        { transform: "translate(0,0)", opacity: 1, offset: 1 }
+      ], { duration: 880, delay, easing: "cubic-bezier(.18,.75,.25,1)", fill: "both" });
+      const fl = document.createElement("div"); fl.className = "flash"; d.appendChild(fl);
+      fl.animate([{ opacity: 0 }, { opacity: 0.5 }, { opacity: 0 }],
+        { duration: 360, delay: delay + 500, easing: "ease-out" });
+      const slg = s.slogan && (typeof s.slogan === "string" ? s.slogan : (s.slogan[LANG] || s.slogan.en));
+      if (slg) {
+        const sl = document.createElement("div"); sl.className = "slogan";
+        sl.style.left = slots[k]; sl.textContent = slg; L.appendChild(sl);
+        sl.animate([
+          { transform: "translateY(-50%) scale(1.5) rotate(-3deg)", opacity: 0, offset: 0 },
+          { transform: "translateY(-50%) scale(.94) rotate(-1deg)", opacity: 1, offset: 0.6 },
+          { transform: "translateY(-50%) scale(1) rotate(-1deg)", opacity: 1, offset: 1 }
+        ], { duration: 640, delay: delay + 380, easing: "cubic-bezier(.2,1.5,.3,1)", fill: "both" });
+      }
+    });
+    setTimeout(() => res(my === runId), slices.length * 430 + 760);
+  });
+}
+
 function clearScene() {
   hideChar();
+  const sl = $("#splitLayer"); sl.classList.add("hidden"); sl.innerHTML = "";
   const hc = $("#heroCard"); hc.classList.add("hidden"); hc.classList.remove("in");
   $("#mapPin").classList.add("hidden"); $("#mapLabel").classList.add("hidden");
   bgs.forEach(b => b.classList.remove("mapfit"));
 }
 
 function moodFor(p) {
-  return p.mood || (p.type === "action" ? "battle" : p.type === "hero" ? "triumph"
+  return p.mood || (p.type === "action" || p.type === "split" ? "battle" : p.type === "hero" ? "triumph"
     : p.type === "map" ? "suspense" : "calm");
 }
 
@@ -196,6 +250,7 @@ async function playScene(panel, my) {
   if (window.Music) Music.setMood(moodFor(panel));
   let ok;
   if (panel.type === "action") ok = await setActionScene(panel, my);
+  else if (panel.type === "split") ok = await setSplitScene(panel, my);
   else if (panel.type === "hero") ok = await setHeroScene(panel, my);
   else if (panel.type === "map") ok = await setMapScene(panel, my);
   else ok = await setBg(panel.art, my);

@@ -25,9 +25,23 @@ html,body{height:100%;background:#000;overflow:hidden;font-family:var(--dlg)}
 .actlayer{position:absolute;inset:0;z-index:2;pointer-events:none}
 .actlayer img{position:absolute;bottom:-1%;left:50%;height:82%;transform-origin:bottom center;
   filter:drop-shadow(0 22px 26px rgba(0,0,0,.55));will-change:transform}
+/* a fallen hero returning as a fading spirit — ethereal, translucent, glowing */
+.actlayer img.spirit{filter:brightness(1.22) contrast(.92) saturate(.72)
+  drop-shadow(0 0 20px rgba(180,220,255,.78)) drop-shadow(0 0 54px rgba(140,190,255,.45))}
+
+/* diagonal 3-cut montage (manga triptych): slices reveal in sequence with an optional battle-cry */
+.splitlayer{position:absolute;inset:0;z-index:2;background:#0b0a08;overflow:hidden;pointer-events:none}
+.splitlayer.hidden{display:none}
+.splitlayer .slice{position:absolute;inset:0;background-size:cover;background-position:center;
+  will-change:transform,opacity}
+.splitlayer .slogan{position:absolute;top:50%;max-width:38%;transform:translateY(-50%);
+  font-family:var(--narr-serif);font-weight:800;color:#fff;font-size:clamp(22px,4.4vw,58px);
+  line-height:1.05;letter-spacing:.4px;z-index:3;will-change:transform,opacity;
+  text-shadow:0 2px 0 #000,0 0 20px rgba(0,0,0,.85),0 8px 30px rgba(0,0,0,.7)}
+.splitlayer .flash{position:absolute;inset:0;background:#fff;opacity:0;mix-blend-mode:screen;z-index:4}
 
 /* --- text overlay layer --- */
-.layer{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:flex-end;
+.layer{position:absolute;inset:0;z-index:5;display:flex;flex-direction:column;justify-content:flex-end;
   align-items:center;padding:0 4vw 13vh;gap:2vh;pointer-events:none}
 
 .line{max-width:min(880px,90vw);opacity:0;transform:translateY(18px);

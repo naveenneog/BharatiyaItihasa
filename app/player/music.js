@@ -13,6 +13,7 @@ const Music = (() => {
     suspense: { vol: 0.20, bpm: 76,  drums: 0.18, melody: 0.5,  droneMul: [1, 1.498], filt: 520, tense: true },
     battle:   { vol: 0.26, bpm: 132, drums: 0.9,  melody: 0.55, droneMul: [1, 1.5], filt: 900, tense: true },
     triumph:  { vol: 0.24, bpm: 92,  drums: 0.5,  melody: 0.7,  droneMul: [1, 1.5, 2], filt: 1100 },
+    spirit:   { vol: 0.19, bpm: 50,  drums: 0,    melody: 0.5,  droneMul: [1, 1.5, 2, 3], filt: 1400 },
   };
 
   function init() {
