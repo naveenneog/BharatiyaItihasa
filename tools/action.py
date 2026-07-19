@@ -130,6 +130,58 @@ def add_action_beat(eid, after_pid, figure, bg_desc, action_desc, narration, key
     return tok
 
 
+def add_multi_beat(eid, after_pid, bg_desc, narration, cast, key="m1", langs=("en",), reuse=True, tok=None):
+    """Insert a MULTI-character action scene: several consistent cut-outs animated over one
+    background. cast = [{figure, action, era?, region?, motion, reuse_img?}]. voice.py must be run
+    first. Characters keep their identity via their model sheets (designed on demand)."""
+    pj = C.APP / "data" / f"{eid}.player.json"
+    man = C.load_json(pj, None)
+    if not man:
+        raise SystemExit(f"no player manifest for {eid} (run: python voice.py {eid} --langs en)")
+    tok = tok or ai.token()
+    d = C.APP / "assets" / eid / f"action_{key}"
+    d.mkdir(parents=True, exist_ok=True)
+
+    bg = d / "bg.png"
+    if not (reuse and bg.exists()):
+        print(f"  {key}: bg plate", flush=True)
+        tok = ai.gen_image(f"{sb.HOUSE_LOOK}\n\nWIDE CINEMATIC BACKGROUND SCENERY ONLY \u2014 no "
+                           f"people, no characters, an empty stage: {bg_desc}", bg, tok, size="1536x1024")
+
+    chars = []
+    for i, c in enumerate(cast):
+        if c.get("reuse_img"):
+            chars.append({"img": c["reuse_img"], "motion": c.get("motion", {})})
+            continue
+        ent, tok = gc.ensure_character(c["figure"], c.get("era", ""), c.get("region", ""),
+                                       c.get("facts", ""), tok=tok)
+        cpng = d / f"char{i}.png"
+        if not (reuse and cpng.exists()):
+            print(f"  {key}: char {ent['display_name']}", flush=True)
+            raw = d / f"char{i}_raw.png"
+            tok = ai.edit_image(CHAR_PROMPT.format(look=sb.HOUSE_LOOK, name=ent["display_name"],
+                                                   ref=ent["ref_desc"], act=c["action"]),
+                                [C.APP / ent["sheet"]], raw, tok, size="1024x1024")
+            print(f"    matted {matte.cutout(raw, cpng)}", flush=True)
+        chars.append({"img": f"assets/{eid}/action_{key}/char{i}.png", "motion": c.get("motion", {})})
+
+    adir = C.APP / "assets" / eid / "audio" / "action"
+    text_map, words_map, tok = voice.voice_multi(narration, adir, f"action_{key}", langs, "narrator", tok)
+    audio = {lg: f"assets/{eid}/audio/action/action_{key}_{lg}.mp3" for lg in langs}
+
+    scene = {"id": f"action_{key}", "type": "action", "mood": "battle",
+             "bg": f"assets/{eid}/action_{key}/bg.png", "chars": chars,
+             "motion": {"bgZoom": 1.12, "bgPan": -6, "dur": 7200},
+             "lines": [{"type": "narration", "role": "narrator", "text": text_map,
+                        "audio": audio, "words": words_map}]}
+    man["panels"] = [p for p in man["panels"] if p.get("id") != f"action_{key}"]
+    idx = next((i for i, p in enumerate(man["panels"]) if p["id"] == after_pid), len(man["panels"]) - 1)
+    man["panels"].insert(idx + 1, scene)
+    C.save_json(pj, man)
+    print(f"  inserted multi-beat 'action_{key}' after {after_pid} ({len(man['panels'])} scenes)", flush=True)
+    return tok
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--figure", default=DEMO["figure"])

@@ -102,15 +102,15 @@ function setBg(art, my) {
 }
 
 function hideChar() {
-  const ch = $("#actChar");
-  ch.getAnimations().forEach(a => a.cancel());
-  ch.style.display = "none";
+  const L = $("#actLayer"); L.querySelectorAll("img").forEach(i => i.getAnimations().forEach(a => a.cancel()));
+  L.innerHTML = "";
 }
 
 function setActionScene(panel, my) {
   return new Promise(res => {
     const m = panel.motion || {};
     const next = bgs[1 - bgCur];
+    next.classList.remove("mapfit");
     next.style.backgroundImage = `url("${BASE}${panel.bg}")`;
     next.classList.remove("kb1", "kb2", "kb3"); void next.offsetWidth;
     next.classList.add("show");
@@ -119,15 +119,19 @@ function setActionScene(panel, my) {
     live.getAnimations().forEach(a => a.cancel());
     live.animate([{ transform: "scale(1) translateX(0)" },
                   { transform: `scale(${m.bgZoom || 1.12}) translateX(${m.bgPan || -6}px)` }],
-                 { duration: (m.dur || 6500) + 1600, easing: "ease-out", fill: "forwards" });
-    const ch = $("#actChar");
-    ch.src = BASE + panel.char; ch.style.display = "block"; ch.style.opacity = 1;
-    ch.getAnimations().forEach(a => a.cancel());
-    ch.animate([
-      { transform: `translate(calc(-50% + ${m.fromX ?? -42}vw),6%) scale(${m.fromScale ?? 0.82}) rotate(${m.rot || 0}deg)`, opacity: 0.15, offset: 0 },
-      { opacity: 1, offset: 0.14 },
-      { transform: `translate(calc(-50% + ${m.toX ?? 4}vw),0) scale(${m.toScale ?? 1.14}) rotate(0deg)`, opacity: 1, offset: 1 }
-    ], { duration: m.dur || 6500, easing: "cubic-bezier(.16,.7,.3,1)", fill: "forwards" });
+                 { duration: (m.dur || 7000) + 1600, easing: "ease-out", fill: "forwards" });
+    const L = $("#actLayer"); L.innerHTML = "";
+    const chars = panel.chars || (panel.char ? [{ img: panel.char, motion: panel.motion || {} }] : []);
+    chars.forEach(c => {
+      const cm = c.motion || {};
+      const img = document.createElement("img");
+      img.src = BASE + c.img; L.appendChild(img);
+      img.animate([
+        { transform: `translate(calc(-50% + ${cm.fromX ?? -42}vw),6%) scale(${cm.fromScale ?? 0.82}) rotate(${cm.rot || 0}deg)`, opacity: 0.12, offset: 0 },
+        { opacity: 1, offset: 0.16 },
+        { transform: `translate(calc(-50% + ${cm.toX ?? 4}vw),0) scale(${cm.toScale ?? 1.14}) rotate(0deg)`, opacity: 1, offset: 1 }
+      ], { duration: cm.dur || m.dur || 7000, easing: "cubic-bezier(.16,.7,.3,1)", fill: "forwards", delay: cm.delay || 0 });
+    });
     setTimeout(() => res(my === runId), 720);
   });
 }
