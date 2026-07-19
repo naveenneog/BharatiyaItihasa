@@ -3046,6 +3046,178 @@
       ]
     },
     {
+      "id": "split_climax",
+      "type": "split",
+      "mood": "battle",
+      "slices": [
+        {
+          "img": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/split_climax/s0.png",
+          "slogan": {
+            "en": "I will not surrender my Jhansi!",
+            "hi": "मैं अपनी झाँसी नहीं दूँगी!"
+          },
+          "pos": "50% 30%"
+        },
+        {
+          "img": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/split_climax/s1.png",
+          "pos": "50% 14%"
+        },
+        {
+          "img": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/split_climax/s2.png",
+          "pos": "50% 42%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Two wills now drew toward one field. A queen who would not kneel. An empire that would not yield. And between them, a storm of steel.",
+            "hi": "दो जज़्बे एक ही मैदान की तरफ़ बढ़े।"
+          },
+          "audio": {
+            "en": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/split/split_climax_en.mp3",
+            "hi": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/split/split_climax_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Two",
+                "t": 117.0,
+                "d": 212.0
+              },
+              {
+                "w": "wills",
+                "t": 329.0,
+                "d": 340.0
+              },
+              {
+                "w": "now",
+                "t": 670.0,
+                "d": 297.0
+              },
+              {
+                "w": "drew",
+                "t": 968.0,
+                "d": 297.0
+              },
+              {
+                "w": "toward",
+                "t": 1265.0,
+                "d": 425.0
+              },
+              {
+                "w": "one",
+                "t": 1691.0,
+                "d": 255.0
+              },
+              {
+                "w": "field",
+                "t": 1946.0,
+                "d": 765.0
+              },
+              {
+                "w": "A",
+                "t": 2797.0,
+                "d": 211.0
+              },
+              {
+                "w": "queen",
+                "t": 3009.0,
+                "d": 384.0
+              },
+              {
+                "w": "who",
+                "t": 3393.0,
+                "d": 211.0
+              },
+              {
+                "w": "would",
+                "t": 3605.0,
+                "d": 213.0
+              },
+              {
+                "w": "not",
+                "t": 3819.0,
+                "d": 254.0
+              },
+              {
+                "w": "kneel",
+                "t": 4073.0,
+                "d": 511.0
+              },
+              {
+                "w": "An",
+                "t": 4968.0,
+                "d": 255.0
+              },
+              {
+                "w": "empire",
+                "t": 5223.0,
+                "d": 553.0
+              },
+              {
+                "w": "that",
+                "t": 5776.0,
+                "d": 212.0
+              },
+              {
+                "w": "would",
+                "t": 5989.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 6202.0,
+                "d": 255.0
+              },
+              {
+                "w": "yield",
+                "t": 6457.0,
+                "d": 468.0
+              },
+              {
+                "w": "And",
+                "t": 7478.0,
+                "d": 255.0
+              },
+              {
+                "w": "between",
+                "t": 7734.0,
+                "d": 468.0
+              },
+              {
+                "w": "them",
+                "t": 8202.0,
+                "d": 680.0
+              },
+              {
+                "w": "a",
+                "t": 8924.0,
+                "d": 170.0
+              },
+              {
+                "w": "storm",
+                "t": 9094.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 9647.0,
+                "d": 170.0
+              },
+              {
+                "w": "steel",
+                "t": 9818.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p13",
       "art": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/img/p13.png",
       "shot": "dynamic battlefield wide shot",
@@ -3809,21 +3981,21 @@
           }
         },
         {
-          "img": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/action_charge/char.png",
+          "img": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/action_clash/rani_horse.png",
           "motion": {
-            "fromX": -52,
-            "toX": -14,
-            "fromScale": 0.85,
-            "toScale": 1.12,
-            "rot": -3,
+            "fromX": -64,
+            "toX": -20,
+            "fromScale": 0.78,
+            "toScale": 1.0,
+            "rot": -2,
             "dur": 7000,
-            "delay": 220
+            "delay": 180
           }
         }
       ],
       "motion": {
         "bgZoom": 1.12,
-        "bgPan": -6,
+        "bgPan": -7,
         "dur": 7200
       },
       "lines": [
@@ -3832,7 +4004,7 @@
           "role": "narrator",
           "text": {
             "en": "Then the cavalry of Sir Hugh Rose closed in, and the fight for Gwalior broke over her like a storm.",
-            "hi": "फिर सर ह्यूग रोज़ की घुड़सवार फौज घिरी, और ग्वालियर की जंग तूफ़ान बनकर उस पर टूट पड़ी।"
+            "hi": "तभी सर ह्यू रोज़ की घुड़सवार फौज टूट पड़ी, और ग्वालियर की जंग तूफ़ान बनकर उस पर बरस पड़ी।"
           },
           "audio": {
             "en": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/action/action_clash_en.mp3",
@@ -4162,198 +4334,217 @@
       ]
     },
     {
-      "id": "p17",
-      "art": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/img/p17.png",
-      "shot": "reverent wide shot of pyre beyond battlefield",
-      "mood": "battle",
+      "id": "action_spirit",
+      "type": "action",
+      "mood": "spirit",
+      "bg": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/action_spirit/bg.png",
+      "chars": [
+        {
+          "img": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/action_spirit/rani_spirit.png",
+          "motion": {
+            "fromX": 0,
+            "toX": 0,
+            "fromScale": 0.92,
+            "toScale": 1.08,
+            "dur": 8600,
+            "delay": 300
+          },
+          "spirit": true
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.06,
+        "bgPan": -3,
+        "dur": 8600
+      },
       "lines": [
         {
           "type": "narration",
           "role": "narrator",
           "text": {
             "en": "At dusk beyond the field, loyal hands build a hurried pyre, hiding her body from enemy gaze. Flames rise quiet under a smoke-streaked sky, carrying the fallen queen of Jhansi into legend more than defeat.",
-            "hi": "शाम ढलते, मैदान से दूर वफ़ादार हाथ हड़बड़ी में चिता सजाते हैं, उसके शरीर को दुश्मन की नज़र से छुपाते हैं। धुएँ से रँगे आसमान तले आग चुपचाप उठती है, झाँसी की गिरी हुई रानी को हार से ज़्यादा, леген्ड में भेजती हुई।"
+            "hi": "सांझ ढली, खेतों के पार, वफ़ादार हाथ जल्दी‑जल्दी चिता सजाते हैं, ताकि दुश्मन उसकी लाश न देख सके। धुएँ भरे आसमान तले चुपचाप लपटें उठती हैं, झाँसी की गिरी हुई रानी को हार से ज़्यादा, एक दास्तान में बदल देती हैं।"
           },
           "audio": {
-            "en": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/en/p17_0.mp3",
-            "hi": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/hi/p17_0.mp3"
+            "en": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/action/action_spirit_en.mp3",
+            "hi": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/action/action_spirit_hi.mp3"
           },
           "words": {
             "en": [
               {
                 "w": "At",
                 "t": 74.0,
-                "d": 212.0
+                "d": 255.0
               },
               {
                 "w": "dusk",
-                "t": 287.0,
-                "d": 382.0
+                "t": 329.0,
+                "d": 765.0
               },
               {
                 "w": "beyond",
-                "t": 670.0,
-                "d": 297.0
+                "t": 1138.0,
+                "d": 510.0
               },
               {
                 "w": "the",
-                "t": 968.0,
+                "t": 1648.0,
                 "d": 127.0
               },
               {
                 "w": "field",
-                "t": 1095.0,
-                "d": 510.0
+                "t": 1776.0,
+                "d": 936.0
               },
               {
                 "w": "loyal",
-                "t": 1861.0,
-                "d": 425.0
+                "t": 2712.0,
+                "d": 424.0
               },
               {
                 "w": "hands",
-                "t": 2287.0,
-                "d": 339.0
+                "t": 3137.0,
+                "d": 425.0
               },
               {
                 "w": "build",
-                "t": 2626.0,
-                "d": 256.0
+                "t": 3562.0,
+                "d": 384.0
               },
               {
                 "w": "a",
-                "t": 2882.0,
-                "d": 84.0
+                "t": 3946.0,
+                "d": 169.0
               },
               {
                 "w": "hurried",
-                "t": 2967.0,
-                "d": 426.0
-              },
-              {
-                "w": "pyre",
-                "t": 3393.0,
-                "d": 595.0
-              },
-              {
-                "w": "hiding",
-                "t": 4243.0,
+                "t": 4115.0,
                 "d": 469.0
               },
               {
+                "w": "pyre",
+                "t": 4585.0,
+                "d": 680.0
+              },
+              {
+                "w": "hiding",
+                "t": 5478.0,
+                "d": 510.0
+              },
+              {
                 "w": "her",
-                "t": 4712.0,
-                "d": 127.0
+                "t": 5989.0,
+                "d": 170.0
               },
               {
                 "w": "body",
-                "t": 4840.0,
+                "t": 6159.0,
                 "d": 382.0
               },
               {
                 "w": "from",
-                "t": 5223.0,
-                "d": 212.0
+                "t": 6542.0,
+                "d": 297.0
               },
               {
                 "w": "enemy",
-                "t": 5436.0,
+                "t": 6882.0,
                 "d": 382.0
               },
               {
                 "w": "gaze",
-                "t": 5819.0,
-                "d": 638.0
-              },
-              {
-                "w": "Flames",
-                "t": 7010.0,
-                "d": 468.0
-              },
-              {
-                "w": "rise",
-                "t": 7478.0,
-                "d": 425.0
-              },
-              {
-                "w": "quiet",
-                "t": 7904.0,
-                "d": 340.0
-              },
-              {
-                "w": "under",
-                "t": 8244.0,
-                "d": 255.0
-              },
-              {
-                "w": "a",
-                "t": 8500.0,
-                "d": 41.0
-              },
-              {
-                "w": "smoke-streaked",
-                "t": 8541.0,
+                "t": 7265.0,
                 "d": 723.0
               },
               {
+                "w": "Flames",
+                "t": 8839.0,
+                "d": 596.0
+              },
+              {
+                "w": "rise",
+                "t": 9436.0,
+                "d": 552.0
+              },
+              {
+                "w": "quiet",
+                "t": 9988.0,
+                "d": 426.0
+              },
+              {
+                "w": "under",
+                "t": 10414.0,
+                "d": 296.0
+              },
+              {
+                "w": "a",
+                "t": 10711.0,
+                "d": 85.0
+              },
+              {
+                "w": "smoke-streaked",
+                "t": 10796.0,
+                "d": 852.0
+              },
+              {
                 "w": "sky",
-                "t": 9264.0,
-                "d": 681.0
+                "t": 11648.0,
+                "d": 936.0
               },
               {
                 "w": "carrying",
-                "t": 10243.0,
-                "d": 341.0
+                "t": 12670.0,
+                "d": 382.0
               },
               {
                 "w": "the",
-                "t": 10585.0,
+                "t": 13053.0,
                 "d": 126.0
               },
               {
                 "w": "fallen",
-                "t": 10711.0,
-                "d": 425.0
+                "t": 13179.0,
+                "d": 469.0
               },
               {
                 "w": "queen",
-                "t": 11137.0,
-                "d": 255.0
+                "t": 13648.0,
+                "d": 339.0
               },
               {
                 "w": "of",
-                "t": 11392.0,
-                "d": 128.0
+                "t": 13988.0,
+                "d": 170.0
               },
               {
                 "w": "Jhansi",
-                "t": 11521.0,
-                "d": 553.0
+                "t": 14158.0,
+                "d": 681.0
               },
               {
                 "w": "into",
-                "t": 12115.0,
-                "d": 298.0
-              },
-              {
-                "w": "legend",
-                "t": 12414.0,
-                "d": 723.0
-              },
-              {
-                "w": "more",
-                "t": 13179.0,
+                "t": 14967.0,
                 "d": 340.0
               },
               {
+                "w": "legend",
+                "t": 15307.0,
+                "d": 426.0
+              },
+              {
+                "w": "more",
+                "t": 15734.0,
+                "d": 212.0
+              },
+              {
                 "w": "than",
-                "t": 13520.0,
-                "d": 171.0
+                "t": 15946.0,
+                "d": 212.0
               },
               {
                 "w": "defeat",
-                "t": 13691.0,
-                "d": 722.0
+                "t": 16159.0,
+                "d": 595.0
               }
             ],
             "hi": []
