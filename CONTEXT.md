@@ -111,6 +111,11 @@ text-free scene zooms/pans (Ken Burns) + crossfades, the epic narration is spoke
   Writes `app/data/<id>.player.json` + per-line `mp3`/`json` under `app/assets/<id>/audio/<lang>/`.
   Prereq: `pip install azure-cognitiveservices-speech`.
   Run: `python voice.py <id> --langs en` (or omit --langs for all 6).
+  - **Pipeline order (important):** `voice_episode` **rebuilds** `<id>.player.json` from the
+    storyboard, so voice must run BEFORE any intro/action/montage inserts (re-voicing wipes them).
+    It also only voices a language that is already **translated in the storyboard** (`dialogue.i18n`)
+    — so translate the storyboard first (`translate.translate_storyboard(story, …, ["en","hi"])`)
+    or the story panels come out English-only while the beats (translated on the fly) are bilingual.
 - `app/player/` (`index.html` + `player.css` + `player.js`) — the browser player: Ken Burns
   scenes, crossfades, voiced narration, karaoke word-highlight, language switcher, play/pause,
   scene nav. Serve `app/` and open `/player/index.html?ep=<id>&lang=<lang>`:
@@ -167,10 +172,12 @@ ADULT audience — not cut short for kids — while staying historically accurat
 
 ## 0D. OPENING POSTERS + MOOD MUSIC + VOICE MIX
 
-- `intro.py` (`python intro.py <id> --langs en hi`) \u2014 prepends a **hero poster** (name + real
-  epithets/legends over the hero cover art) and a **historic India-map poster** (generated
-  antique-parchment map, no text) with a pulsing marker + label at the place (gpt-4o supplies map
-  x/y); both voiced. Adds `hero` + `map` scene types to `<id>.player.json`.
+- `intro.py` (`python intro.py <id> --langs en hi`) \u2014 prepends a **hero poster** and a **historic
+  India-map poster** (generated antique-parchment map, no text) with a pulsing marker + label at the
+  place (gpt-4o supplies map x/y); both voiced. Adds `hero` + `map` scene types to `<id>.player.json`.
+  The hero poster art is a dedicated **face-forward portrait** rendered from the figure's model sheet
+  (face centred, headroom for the title, `hero_action` tunes the pose), falling back to the cover
+  panel when there is no model sheet.
 - **Co-star intro cards:** `intro.add_cast_intro(eid, after_pid, figure, action_desc, era, region,
   facts, langs, mood?, key?)` gives a supporting character their own hero-style introduction — a
   face-centred cinematic portrait drawn from the character's **model sheet** (identity-consistent) +

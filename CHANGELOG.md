@@ -5,6 +5,33 @@ problems. Newest first.
 
 ---
 
+## 2026-07-20 — Expand the collection: QA + Rani-level growth of other stories (12h run)
+
+@naveenneog: do thorough visual QA and fix issues; expand the OTHER stories with everything we
+learned from Rani; and start building the rest of the collection over the next ~12 hours.
+
+- **Visual QA harness** — a Playwright capture that renders every panel of an episode through the
+  real player (art + first-line lettering) and tiles them into contact sheets. Rani (27 scenes):
+  **clean**, 0 JS errors, faces/actions read, no baked captions (only tasteful diegetic signage).
+- **Hero portrait for the opening card** — `build_intro` now renders a dedicated face-forward hero
+  portrait from the figure's model sheet (face centred, headroom for the title), like the co-star
+  cards, instead of reusing the cover panel. Falls back to cover when there's no model sheet.
+- **Bilingual STORY panels fix** — `voice_episode` only voices a language it finds translated in the
+  storyboard, so episodes whose storyboard lacked Hindi got English-only story panels (while the
+  beats, translated on the fly, were bilingual). The growth pipeline now **translates the storyboard
+  to hi before voicing**, so story panels AND beats are both en+hi.
+- **Rajendra Chola I → 12 scenes** (first expansion): voice en+hi, hero portrait + India-map intro,
+  a real co-star intro (**Mahipala, the Pala king** struck by the Chola Ganges expedition c.1021
+  CE), a **NAVAL fleet** action beat (a new setting vs cavalry), and a horizontal Ganga montage.
+- **`grow.py` — 12-hour autonomous orchestrator**: applies the Rani recipe to the rest of the
+  collection. Bespoke flagships (**Shivaji's escape from Agra** with Aurangzeb + Hiroji Farzand and
+  an escape montage; **Ashoka's change of heart at Kalinga** with a war beat + a war→grief→dhamma
+  montage), then breadth — for the remaining hours it renders new episodes from the collection and
+  gives each the core motion-comic (art + storyboard, voice en+hi, hero-portrait + India-map intro).
+  Fully resumable; **auto-commits each finished story** as its own granular commit.
+
+---
+
 ## 2026-07-19 (later) — Horizontal montage (faces visible) + co-star intro cards
 
 @naveenneog: the diagonal montage read as **vertical** slices and Jhansi's face was cut off — make
