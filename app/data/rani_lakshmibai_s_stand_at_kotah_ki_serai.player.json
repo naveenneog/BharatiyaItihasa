@@ -2281,6 +2281,141 @@
       ]
     },
     {
+      "id": "action_allies",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/action_allies/bg.png",
+      "chars": [
+        {
+          "img": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/action_charge/char.png",
+          "motion": {
+            "fromX": -54,
+            "toX": -16,
+            "fromScale": 0.8,
+            "toScale": 1.02,
+            "rot": -2,
+            "dur": 7000
+          }
+        },
+        {
+          "img": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/action_allies/char1.png",
+          "motion": {
+            "fromX": 56,
+            "toX": 18,
+            "fromScale": 0.78,
+            "toScale": 1.0,
+            "rot": 3,
+            "dur": 7000,
+            "delay": 250
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Beside her rode Tatya Tope, the rebel general. Together their horsemen swept toward Gwalior's mighty fort.",
+            "hi": "उसके साथ सवार था बागी सरदार तात्या टोपे। दोनों की घुड़सवार टुकड़ी ग्वालियर के प्रचंड किले पर टूटी।"
+          },
+          "audio": {
+            "en": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/action/action_allies_en.mp3",
+            "hi": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/action/action_allies_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Beside",
+                "t": 117.0,
+                "d": 468.0
+              },
+              {
+                "w": "her",
+                "t": 585.0,
+                "d": 127.0
+              },
+              {
+                "w": "rode",
+                "t": 712.0,
+                "d": 340.0
+              },
+              {
+                "w": "Tatya",
+                "t": 1053.0,
+                "d": 425.0
+              },
+              {
+                "w": "Tope",
+                "t": 1478.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 2287.0,
+                "d": 211.0
+              },
+              {
+                "w": "rebel",
+                "t": 2498.0,
+                "d": 341.0
+              },
+              {
+                "w": "general",
+                "t": 2840.0,
+                "d": 764.0
+              },
+              {
+                "w": "Together",
+                "t": 4542.0,
+                "d": 553.0
+              },
+              {
+                "w": "their",
+                "t": 5095.0,
+                "d": 255.0
+              },
+              {
+                "w": "horsemen",
+                "t": 5351.0,
+                "d": 468.0
+              },
+              {
+                "w": "swept",
+                "t": 5819.0,
+                "d": 638.0
+              },
+              {
+                "w": "toward",
+                "t": 6500.0,
+                "d": 340.0
+              },
+              {
+                "w": "Gwalior's",
+                "t": 6840.0,
+                "d": 553.0
+              },
+              {
+                "w": "mighty",
+                "t": 7393.0,
+                "d": 425.0
+              },
+              {
+                "w": "fort",
+                "t": 7819.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p10",
       "art": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/img/p10.png",
       "shot": "strategic map-table shot inside fort",
@@ -3649,6 +3784,161 @@
                 "w": "reach",
                 "t": 17265.0,
                 "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_clash",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/action_clash/bg.png",
+      "chars": [
+        {
+          "img": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/action_clash/char0.png",
+          "motion": {
+            "fromX": 52,
+            "toX": 16,
+            "fromScale": 0.84,
+            "toScale": 1.04,
+            "rot": 3,
+            "dur": 7000
+          }
+        },
+        {
+          "img": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/action_charge/char.png",
+          "motion": {
+            "fromX": -52,
+            "toX": -14,
+            "fromScale": 0.85,
+            "toScale": 1.12,
+            "rot": -3,
+            "dur": 7000,
+            "delay": 220
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Then the cavalry of Sir Hugh Rose closed in, and the fight for Gwalior broke over her like a storm.",
+            "hi": "फिर सर ह्यूग रोज़ की घुड़सवार फौज घिरी, और ग्वालियर की जंग तूफ़ान बनकर उस पर टूट पड़ी।"
+          },
+          "audio": {
+            "en": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/action/action_clash_en.mp3",
+            "hi": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/action/action_clash_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Then",
+                "t": 117.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 372.0,
+                "d": 170.0
+              },
+              {
+                "w": "cavalry",
+                "t": 542.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 1095.0,
+                "d": 127.0
+              },
+              {
+                "w": "Sir",
+                "t": 1223.0,
+                "d": 297.0
+              },
+              {
+                "w": "Hugh",
+                "t": 1521.0,
+                "d": 382.0
+              },
+              {
+                "w": "Rose",
+                "t": 1904.0,
+                "d": 340.0
+              },
+              {
+                "w": "closed",
+                "t": 2244.0,
+                "d": 381.0
+              },
+              {
+                "w": "in",
+                "t": 2626.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 3265.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 3478.0,
+                "d": 126.0
+              },
+              {
+                "w": "fight",
+                "t": 3605.0,
+                "d": 341.0
+              },
+              {
+                "w": "for",
+                "t": 3946.0,
+                "d": 126.0
+              },
+              {
+                "w": "Gwalior",
+                "t": 4073.0,
+                "d": 426.0
+              },
+              {
+                "w": "broke",
+                "t": 4500.0,
+                "d": 297.0
+              },
+              {
+                "w": "over",
+                "t": 4797.0,
+                "d": 255.0
+              },
+              {
+                "w": "her",
+                "t": 5053.0,
+                "d": 127.0
+              },
+              {
+                "w": "like",
+                "t": 5180.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 5393.0,
+                "d": 42.0
+              },
+              {
+                "w": "storm",
+                "t": 5436.0,
+                "d": 553.0
               }
             ],
             "hi": []
