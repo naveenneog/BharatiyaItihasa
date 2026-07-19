@@ -5,6 +5,34 @@ problems. Newest first.
 
 ---
 
+## 2026-07-19 — Diagonal war montage, mounted re-entry, fading-spirit finale
+
+@naveenneog: more variety and standout animation — the hero shouldn't be the only cut-out in most
+scenes. Add character introductions, war scenes, and a manga-style diagonal 3-cut montage (one
+character with a slogan, another appears, then a fight). Also: the 2nd fight should bring Rani in a
+different way (on a horse), and the last-but-one scene — where she has already fallen — should show
+Jhansi as a fading spirit.
+
+- **Diagonal 3-cut montage** (new `split` scene): three diagonal manga slices reveal in sequence
+  with an impact flash — slice 1 a character + localised battle-cry slogan, slice 2 another
+  character, slice 3 an ensemble fight. `player.setSplitScene()` + `action.add_split_beat()`. The
+  montage/plate art is now forced **text-free** (`NO_TEXT`) after gpt-image-2 baked in speech
+  bubbles/captions on the first try (against the no-lettering rule) — regenerated clean.
+- **Fading spirit** (`spirit` cut-out tag): the player materialises the cut-out translucent and
+  glowing, then dissolves it slowly upward — a fallen hero rising into legend. New `.spirit` style,
+  a soft `spirit` music mood, and a `still` pose prompt for a serene stance.
+- **Varied entrances**: `add_multi_beat()` gains per-cast `slug` / `still` / `spirit` plus `mood`,
+  `scene_motion`, `bg_people` and `replace_pid` (swap a panel in place). Rani now charges into the
+  2nd fight **mounted** on her black war-horse instead of reusing the on-foot cut-out.
+- Narration layer lifted above the montage/action layers (z-index) so text always reads.
+
+Lakshmibai episode → **25 scenes**: `split_climax` (Rani + cry / British officer / cavalry melee,
+after p12), `action_clash` (mounted Rani vs mounted officer), `action_spirit` (replaces p17, the
+last-but-one — her spirit rises from the pyre). Verified all three composited in the player, 0 JS
+errors. EN + Hindi.
+
+---
+
 ## 2026-07-18 (later 6) — Multi-character animated action scenes (co-stars)
 
 @naveenneog: the hero appears often, but we also need other characters (British officers,

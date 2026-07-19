@@ -133,11 +133,26 @@ across a background scenery, voiced. gpt-image-2 has **no transparent background
 - `app/player/action.html?id=<id>` — animates the cut-out over the bg (enter → charge → scale) with
   a parallax background zoom + speed lines + word-highlighted narration. Serve `app/` (see §0B).
 - **Multi-character beats (co-stars):** `action.add_multi_beat(eid, after_pid, bg_desc, narration,
-  cast=[{figure, action, era, region, motion, reuse_img?}], key, langs)` stages several matted
-  cut-outs over one bg plate — each keeps its identity via its own model sheet. In the player a
-  scene carries `panel.chars[]` (each `{img, motion}`); `#actLayer` holds N `<img>` cut-outs with
-  independent entrance motion (`fromX/toX` vw, `scale`, `rotation`, `delay`). Legacy single-char
-  scenes (`panel.char`) still work. Bibles: `tatya_tope`, `british_cavalry_officer_1858`.
+  cast=[{figure, action, era, region, motion, reuse_img?, slug?, still?, spirit?}], key, langs,
+  mood?, scene_motion?, bg_people?, replace_pid?)` stages several matted cut-outs over one bg plate
+  — each keeps its identity via its own model sheet. In the player a scene carries `panel.chars[]`
+  (each `{img, motion, spirit?}`); `#actLayer` holds N `<img>` cut-outs with independent entrance
+  motion (`fromX/toX` vw, `scale`, `rotation`, `delay`). Legacy single-char scenes (`panel.char`)
+  still work. Bibles: `tatya_tope`, `british_cavalry_officer_1858`. `replace_pid` swaps a panel in
+  place (used to turn a static panel into an animated beat); `slug` names the cut-out so one
+  character can re-enter differently (e.g. **mounted**) instead of reusing a single cut-out.
+- **Fading spirit** (`spirit`-tagged cut-out + `still` pose): the player renders it translucent and
+  glowing (`.actlayer img.spirit`) and dissolves it slowly upward — a fallen hero rising into
+  legend. Music mood `spirit`. Used for the last-but-one Lakshmibai scene (spirit over the pyre).
+- **Diagonal 3-cut montage** (`split` scene): `action.add_split_beat(eid, after_pid, narration,
+  slices=[{figure?|fight, action, slogan?({en,hi}|str), pos?}], key, langs, mood?)`. Three diagonal
+  manga slices reveal in sequence with an impact flash — a character + battle-cry slogan, another
+  character, then an ensemble fight. `player.setSplitScene()` reads `panel.slices[]`; slice art is
+  full-bleed key-art and **text-free** (`NO_TEXT`, so gpt-image-2 does not bake in speech bubbles).
+
+**IMPORTANT — text-free art:** action bg plates, spirit cut-outs and montage slices all pass
+`NO_TEXT` (mirrors `style_bible` panel rule). gpt-image-2 otherwise bakes speech bubbles/captions
+into anything it reads as a "comic panel" — always forbid text explicitly for new art prompts.
 
 **Storytelling depth (updated):** stories are now DEEP, long (~12-18 panels) and for a general +
 ADULT audience — not cut short for kids — while staying historically accurate (`STORYBOARD_SYS`).
