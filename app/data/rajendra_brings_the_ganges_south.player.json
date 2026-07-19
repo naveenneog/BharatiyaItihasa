@@ -10,22 +10,358 @@
   "era": "Imperial Chola, c. 1012-1044 CE",
   "moral": "Ambition should be remembered through purposeful building and capable organization.",
   "langs": [
-    "en"
+    "en",
+    "hi"
   ],
   "panels": [
     {
-      "id": "cover",
-      "art": "assets/rajendra_brings_the_ganges_south/img/cover.png",
-      "shot": "low-angle hero wide",
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/rajendra_brings_the_ganges_south/intro/hero.png",
+      "name": "Rajendra Chola I",
+      "epithets": [
+        "Gangaikonda Chola",
+        "Rajendra Chola the Great",
+        "Conqueror of the Ganges",
+        "Lord of the Eastern Seas"
+      ],
+      "legend": "He brought the sacred Ganga’s water to his southern sea-washed throne.",
+      "era": "Imperial Chola, c. 1012-1044 CE",
       "lines": [
         {
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "In the radiant age of the Imperial Cholas, Rajendra Chola I lifts the northern Ganga to bless his southern city of triumph."
+            "en": "Rajendra Chola I, the sea-strong king, sends ships and riders north to honor his far campaigns. If they fail, his new capital will stand dry, without the blessing of the holy Ganga.",
+            "hi": "समुद्र सा शक्तिशाली राजा राजेन्द्र चोल प्रथम जहाज़ और सवारों को उत्तर भेजता है, दूर की जीतों का मान रखने।"
           },
           "audio": {
-            "en": "assets/rajendra_brings_the_ganges_south/audio/en/cover_0.mp3"
+            "en": "assets/rajendra_brings_the_ganges_south/audio/intro/hero_en.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Rajendra",
+                "t": 159.0,
+                "d": 595.0
+              },
+              {
+                "w": "Chola",
+                "t": 840.0,
+                "d": 340.0
+              },
+              {
+                "w": "I",
+                "t": 1265.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 2117.0,
+                "d": 212.0
+              },
+              {
+                "w": "sea-strong",
+                "t": 2329.0,
+                "d": 595.0
+              },
+              {
+                "w": "king",
+                "t": 2925.0,
+                "d": 637.0
+              },
+              {
+                "w": "sends",
+                "t": 3605.0,
+                "d": 425.0
+              },
+              {
+                "w": "ships",
+                "t": 4030.0,
+                "d": 469.0
+              },
+              {
+                "w": "and",
+                "t": 4500.0,
+                "d": 255.0
+              },
+              {
+                "w": "riders",
+                "t": 4755.0,
+                "d": 553.0
+              },
+              {
+                "w": "north",
+                "t": 5308.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 5691.0,
+                "d": 382.0
+              },
+              {
+                "w": "honor",
+                "t": 6074.0,
+                "d": 212.0
+              },
+              {
+                "w": "his",
+                "t": 6287.0,
+                "d": 212.0
+              },
+              {
+                "w": "far",
+                "t": 6500.0,
+                "d": 297.0
+              },
+              {
+                "w": "campaigns",
+                "t": 6797.0,
+                "d": 1021.0
+              },
+              {
+                "w": "If",
+                "t": 8159.0,
+                "d": 297.0
+              },
+              {
+                "w": "they",
+                "t": 8457.0,
+                "d": 211.0
+              },
+              {
+                "w": "fail",
+                "t": 8669.0,
+                "d": 510.0
+              },
+              {
+                "w": "his",
+                "t": 9223.0,
+                "d": 255.0
+              },
+              {
+                "w": "new",
+                "t": 9478.0,
+                "d": 254.0
+              },
+              {
+                "w": "capital",
+                "t": 9732.0,
+                "d": 510.0
+              },
+              {
+                "w": "will",
+                "t": 10243.0,
+                "d": 171.0
+              },
+              {
+                "w": "stand",
+                "t": 10414.0,
+                "d": 340.0
+              },
+              {
+                "w": "dry",
+                "t": 10755.0,
+                "d": 808.0
+              },
+              {
+                "w": "without",
+                "t": 11563.0,
+                "d": 381.0
+              },
+              {
+                "w": "the",
+                "t": 11945.0,
+                "d": 128.0
+              },
+              {
+                "w": "blessing",
+                "t": 12074.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 12585.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 12755.0,
+                "d": 169.0
+              },
+              {
+                "w": "holy",
+                "t": 12924.0,
+                "d": 298.0
+              },
+              {
+                "w": "Ganga",
+                "t": 13223.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/rajendra_brings_the_ganges_south/intro/map.png",
+      "x": 0.68,
+      "y": 0.71,
+      "label": "Gangaikonda Cholapuram, eastern Tamil country",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, near the shining Bay of Bengal, a proud Chola capital rises, dreaming of the far Ganga and the wide eastern seas.",
+            "hi": "चमकती बंगाल की खाड़ी के पास, एक गर्वीली चोल राजधानी उठती है, गंगा और दूर पूर्वी समंदरों के सपने देखती हुई।"
+          },
+          "audio": {
+            "en": "assets/rajendra_brings_the_ganges_south/audio/intro/map_en.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 74.0,
+                "d": 723.0
+              },
+              {
+                "w": "near",
+                "t": 840.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 1180.0,
+                "d": 127.0
+              },
+              {
+                "w": "shining",
+                "t": 1308.0,
+                "d": 510.0
+              },
+              {
+                "w": "Bay",
+                "t": 1819.0,
+                "d": 170.0
+              },
+              {
+                "w": "of",
+                "t": 1989.0,
+                "d": 169.0
+              },
+              {
+                "w": "Bengal",
+                "t": 2158.0,
+                "d": 724.0
+              },
+              {
+                "w": "a",
+                "t": 3094.0,
+                "d": 213.0
+              },
+              {
+                "w": "proud",
+                "t": 3308.0,
+                "d": 339.0
+              },
+              {
+                "w": "Chola",
+                "t": 3647.0,
+                "d": 382.0
+              },
+              {
+                "w": "capital",
+                "t": 4030.0,
+                "d": 426.0
+              },
+              {
+                "w": "rises",
+                "t": 4457.0,
+                "d": 851.0
+              },
+              {
+                "w": "dreaming",
+                "t": 5563.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 6117.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 6244.0,
+                "d": 127.0
+              },
+              {
+                "w": "far",
+                "t": 6372.0,
+                "d": 468.0
+              },
+              {
+                "w": "Ganga",
+                "t": 6840.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 7223.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 7861.0,
+                "d": 127.0
+              },
+              {
+                "w": "wide",
+                "t": 7989.0,
+                "d": 425.0
+              },
+              {
+                "w": "eastern",
+                "t": 8457.0,
+                "d": 467.0
+              },
+              {
+                "w": "seas",
+                "t": 8924.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/rajendra_brings_the_ganges_south/img/cover.png",
+      "shot": "low-angle hero wide",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the radiant age of the Imperial Cholas, Rajendra Chola I lifts the northern Ganga to bless his southern city of triumph.",
+            "hi": "साम्राज्यवादी चोलों के तेजस्वी युग में, राजेन्द्र चोला प्रथम उत्तरी गंगा को उठा कर अपनी विजयी दक्षिणी नगरी को आशीष देता है।"
+          },
+          "audio": {
+            "en": "assets/rajendra_brings_the_ganges_south/audio/en/cover_0.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/hi/cover_0.mp3"
           },
           "words": {
             "en": [
@@ -139,7 +475,8 @@
                 "t": 8244.0,
                 "d": 509.0
               }
-            ]
+            ],
+            "hi": []
           }
         }
       ]
@@ -148,15 +485,18 @@
       "id": "p01",
       "art": "assets/rajendra_brings_the_ganges_south/img/p01.png",
       "shot": "medium shot with background",
+      "mood": "calm",
       "lines": [
         {
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "From his new southern capital, the lion-hearted Rajendra gazes north, his mind bridging palm groves and seas with noble resolve."
+            "en": "From his new southern capital, the lion-hearted Rajendra gazes north, his mind bridging palm groves and seas with noble resolve.",
+            "hi": "नई दक्षिणी राजधानी से सिंह-समान राजेन्द्र उत्तर की ओर निहारता है, उसका मन पवन-वृक्षों और सागरों के बीच संकल्प का सेतु बनाता है।"
           },
           "audio": {
-            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p01_0.mp3"
+            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p01_0.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/hi/p01_0.mp3"
           },
           "words": {
             "en": [
@@ -260,7 +600,8 @@
                 "t": 8287.0,
                 "d": 595.0
               }
-            ]
+            ],
+            "hi": []
           }
         }
       ]
@@ -269,15 +610,18 @@
       "id": "p02",
       "art": "assets/rajendra_brings_the_ganges_south/img/p02.png",
       "shot": "over-the-shoulder shot on map table",
+      "mood": "calm",
       "lines": [
         {
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "Upon the map of rivers and oceans, Rajendra’s hand lays firm, weaving routes of duty from Ganga’s banks to distant Kadaram."
+            "en": "Upon the map of rivers and oceans, Rajendra’s hand lays firm, weaving routes of duty from Ganga’s banks to distant Kadaram.",
+            "hi": "नदियों और महासागरों के मानचित्र पर राजेन्द्र का हाथ दृढ़ है, वह गंगा के तट से दूर कद्रम तक कर्तव्य के मार्ग बुनता है।"
           },
           "audio": {
-            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p02_0.mp3"
+            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p02_0.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/hi/p02_0.mp3"
           },
           "words": {
             "en": [
@@ -386,7 +730,8 @@
                 "t": 7904.0,
                 "d": 510.0
               }
-            ]
+            ],
+            "hi": []
           }
         }
       ]
@@ -395,15 +740,18 @@
       "id": "p03",
       "art": "assets/rajendra_brings_the_ganges_south/img/p03.png",
       "shot": "medium shot in royal hall",
+      "mood": "calm",
       "lines": [
         {
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "In the stone hall, he marks the Ganga’s source and a temple-city’s birth, joining northern glory to southern craftsmanship and order."
+            "en": "In the stone hall, he marks the Ganga’s source and a temple-city’s birth, joining northern glory to southern craftsmanship and order.",
+            "hi": "पत्थर के सभागार में वह गंगा का उद्गम और मंदिर-नगरी का जन्म चिन्हित करता है, उत्तरी वैभव को दक्षिणी शिल्प और व्यवस्था से जोड़ता है।"
           },
           "audio": {
-            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p03_0.mp3"
+            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p03_0.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/hi/p03_0.mp3"
           },
           "words": {
             "en": [
@@ -512,17 +860,20 @@
                 "t": 8797.0,
                 "d": 553.0
               }
-            ]
+            ],
+            "hi": []
           }
         },
         {
           "type": "speech",
           "role": "male",
           "text": {
-            "en": "Let our deeds flow like rivers, and rise like temples."
+            "en": "Let our deeds flow like rivers, and rise like temples.",
+            "hi": "हमारे कर्म नदी-से बहें, मंदिर-से उठें।"
           },
           "audio": {
-            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p03_1.mp3"
+            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p03_1.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/hi/p03_1.mp3"
           },
           "words": {
             "en": [
@@ -576,7 +927,205 @@
                 "t": 3259.8,
                 "d": 563.7
               }
-            ]
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_mahipala",
+      "type": "hero",
+      "mood": "suspense",
+      "art": "assets/rajendra_brings_the_ganges_south/cast/mahipala.png",
+      "name": "Mahipala, Lion of the Palas",
+      "epithets": [
+        "Pala Emperor of Bengal",
+        "Lord of the Ganga Plains"
+      ],
+      "legend": "Northern lion who guarded the Ganga against southern thunder",
+      "era": "Pala dynasty, c. 1021 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Mahipala I stands in silk and gold by the sacred Ganga, emperor of Bengal and Bihar. He feels the push of Rajendra Chola’s far‑off march, weighing how to shield his river and realm.",
+            "hi": "रेशमी सोने के कपड़ों में गंगा तट पर खड़ा है महिपाल प्रथम, बंगाल‑बिहार का सम्राट। दूर से बढ़ती राजेंद्र चोला की फौज को महसूस कर, सोचता है अपनी गंगा और राज को कैसे बचाए।"
+          },
+          "audio": {
+            "en": "assets/rajendra_brings_the_ganges_south/audio/cast/mahipala_en.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/cast/mahipala_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Mahipala",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "I",
+                "t": 840.0,
+                "d": 170.0
+              },
+              {
+                "w": "stands",
+                "t": 1010.0,
+                "d": 638.0
+              },
+              {
+                "w": "in",
+                "t": 1648.0,
+                "d": 85.0
+              },
+              {
+                "w": "silk",
+                "t": 1734.0,
+                "d": 255.0
+              },
+              {
+                "w": "and",
+                "t": 1989.0,
+                "d": 255.0
+              },
+              {
+                "w": "gold",
+                "t": 2244.0,
+                "d": 381.0
+              },
+              {
+                "w": "by",
+                "t": 2626.0,
+                "d": 171.0
+              },
+              {
+                "w": "the",
+                "t": 2797.0,
+                "d": 127.0
+              },
+              {
+                "w": "sacred",
+                "t": 2925.0,
+                "d": 553.0
+              },
+              {
+                "w": "Ganga",
+                "t": 3478.0,
+                "d": 594.0
+              },
+              {
+                "w": "emperor",
+                "t": 4500.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 5010.0,
+                "d": 170.0
+              },
+              {
+                "w": "Bengal",
+                "t": 5180.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 5776.0,
+                "d": 212.0
+              },
+              {
+                "w": "Bihar",
+                "t": 5989.0,
+                "d": 638.0
+              },
+              {
+                "w": "He",
+                "t": 7180.0,
+                "d": 340.0
+              },
+              {
+                "w": "feels",
+                "t": 7521.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 7904.0,
+                "d": 170.0
+              },
+              {
+                "w": "push",
+                "t": 8074.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 8329.0,
+                "d": 170.0
+              },
+              {
+                "w": "Rajendra",
+                "t": 8500.0,
+                "d": 553.0
+              },
+              {
+                "w": "Chola’s",
+                "t": 9053.0,
+                "d": 510.0
+              },
+              {
+                "w": "far‑off",
+                "t": 9563.0,
+                "d": 468.0
+              },
+              {
+                "w": "march",
+                "t": 10031.0,
+                "d": 723.0
+              },
+              {
+                "w": "weighing",
+                "t": 10796.0,
+                "d": 425.0
+              },
+              {
+                "w": "how",
+                "t": 11222.0,
+                "d": 170.0
+              },
+              {
+                "w": "to",
+                "t": 11392.0,
+                "d": 128.0
+              },
+              {
+                "w": "shield",
+                "t": 11521.0,
+                "d": 339.0
+              },
+              {
+                "w": "his",
+                "t": 11860.0,
+                "d": 170.0
+              },
+              {
+                "w": "river",
+                "t": 12030.0,
+                "d": 554.0
+              },
+              {
+                "w": "and",
+                "t": 12627.0,
+                "d": 340.0
+              },
+              {
+                "w": "realm",
+                "t": 12968.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
           }
         }
       ]
@@ -585,15 +1134,18 @@
       "id": "p04",
       "art": "assets/rajendra_brings_the_ganges_south/img/p04.png",
       "shot": "bird's-eye of harbor",
+      "mood": "suspense",
       "lines": [
         {
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "At the roaring harbor, tiger-flagged ships await his word, bearing jars of tribute and a sacred pot to honor distant victories."
+            "en": "At the roaring harbor, tiger-flagged ships await his word, bearing jars of tribute and a sacred pot to honor distant victories.",
+            "hi": "गर्जते बंदरगाह पर बाघ-ध्वज वाले जहाज़ उसके आदेश की प्रतीक्षा में हैं, वे कर-भरे घड़े और दूर की जीतों के सम्मान में पवित्र कलश लेकर खड़े हैं।"
           },
           "audio": {
-            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p04_0.mp3"
+            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p04_0.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/hi/p04_0.mp3"
           },
           "words": {
             "en": [
@@ -702,7 +1254,171 @@
                 "t": 8414.0,
                 "d": 723.0
               }
-            ]
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_fleet",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/rajendra_brings_the_ganges_south/action_fleet/bg.png",
+      "chars": [
+        {
+          "img": "assets/rajendra_brings_the_ganges_south/action_fleet/char0.png",
+          "motion": {
+            "fromX": -42,
+            "toX": -8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Rajendra's tiger banners took to the waves. No Indian king had ever sent such a fleet so far — the sea itself became a Chola road.",
+            "hi": "राजेन्द्र के शेर वाले झंडे समंदर पर लहराए। किसी भारतीय राजा ने इतनी दूर इतना बड़ा बेड़ा कभी नहीं भेजा था — खुद समंदर ही चोलाओं की सड़क बन गया।"
+          },
+          "audio": {
+            "en": "assets/rajendra_brings_the_ganges_south/audio/action/action_fleet_en.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/action/action_fleet_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Rajendra's",
+                "t": 74.0,
+                "d": 808.0
+              },
+              {
+                "w": "tiger",
+                "t": 882.0,
+                "d": 425.0
+              },
+              {
+                "w": "banners",
+                "t": 1308.0,
+                "d": 553.0
+              },
+              {
+                "w": "took",
+                "t": 1861.0,
+                "d": 212.0
+              },
+              {
+                "w": "to",
+                "t": 2074.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 2202.0,
+                "d": 127.0
+              },
+              {
+                "w": "waves",
+                "t": 2329.0,
+                "d": 722.0
+              },
+              {
+                "w": "No",
+                "t": 3861.0,
+                "d": 381.0
+              },
+              {
+                "w": "Indian",
+                "t": 4243.0,
+                "d": 426.0
+              },
+              {
+                "w": "king",
+                "t": 4670.0,
+                "d": 297.0
+              },
+              {
+                "w": "had",
+                "t": 4968.0,
+                "d": 170.0
+              },
+              {
+                "w": "ever",
+                "t": 5138.0,
+                "d": 340.0
+              },
+              {
+                "w": "sent",
+                "t": 5478.0,
+                "d": 297.0
+              },
+              {
+                "w": "such",
+                "t": 5776.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 6117.0,
+                "d": 42.0
+              },
+              {
+                "w": "fleet",
+                "t": 6159.0,
+                "d": 382.0
+              },
+              {
+                "w": "so",
+                "t": 6542.0,
+                "d": 255.0
+              },
+              {
+                "w": "far",
+                "t": 6797.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 7946.0,
+                "d": 212.0
+              },
+              {
+                "w": "sea",
+                "t": 8159.0,
+                "d": 340.0
+              },
+              {
+                "w": "itself",
+                "t": 8500.0,
+                "d": 509.0
+              },
+              {
+                "w": "became",
+                "t": 9009.0,
+                "d": 426.0
+              },
+              {
+                "w": "a",
+                "t": 9436.0,
+                "d": 42.0
+              },
+              {
+                "w": "Chola road",
+                "t": 9478.0,
+                "d": 850.0
+              }
+            ],
+            "hi": []
           }
         }
       ]
@@ -711,15 +1427,18 @@
       "id": "p05",
       "art": "assets/rajendra_brings_the_ganges_south/img/p05.png",
       "shot": "impact frame close on ceremonial pot",
+      "mood": "calm",
       "lines": [
         {
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "Amid rising towers, Rajendra lifts the Ganga’s water high, wedding river and stone so that memory becomes a city of light."
+            "en": "Amid rising towers, Rajendra lifts the Ganga’s water high, wedding river and stone so that memory becomes a city of light.",
+            "hi": "उठती मीनारों के बीच राजेन्द्र गंगा का जल ऊँचा उठाता है, नदी और पत्थर का संग करते हुए स्मृति को उजाले की नगरी बना देता है।"
           },
           "audio": {
-            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p05_0.mp3"
+            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p05_0.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/hi/p05_0.mp3"
           },
           "words": {
             "en": [
@@ -828,17 +1547,20 @@
                 "t": 8457.0,
                 "d": 552.0
               }
-            ]
+            ],
+            "hi": []
           }
         },
         {
           "type": "speech",
           "role": "male",
           "text": {
-            "en": "May this sacred flow guide every pillar we raise."
+            "en": "May this sacred flow guide every pillar we raise.",
+            "hi": "यह पावन प्रवाह हर स्तंभ को राह दिखाए जिसे हम उठाएँ।"
           },
           "audio": {
-            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p05_1.mp3"
+            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p05_1.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/hi/p05_1.mp3"
           },
           "words": {
             "en": [
@@ -887,7 +1609,190 @@
                 "t": 2843.1,
                 "d": 404.4
               }
-            ]
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_ganga",
+      "type": "split",
+      "mood": "battle",
+      "slices": [
+        {
+          "img": "assets/rajendra_brings_the_ganges_south/split_ganga/s0.png",
+          "slogan": {
+            "en": "Let the Ganga come south!",
+            "hi": "गंगा दक्षिण आएगी!"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/rajendra_brings_the_ganges_south/split_ganga/s1.png",
+          "pos": "center 44%"
+        },
+        {
+          "img": "assets/rajendra_brings_the_ganges_south/split_ganga/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Two crowns, one sacred river. From the south a tiger came; in the north a throne stood waiting; and the Ganga would decide whose glory it carried home.",
+            "hi": "दो मुकुट, एक पवित्र नदी। दक्षिण से आया बाघ, उत्तर में खाली सिंहासन; गंगा ही तय करेगी, किसकी महिमा वो अपने साथ बहाएगी।"
+          },
+          "audio": {
+            "en": "assets/rajendra_brings_the_ganges_south/audio/split/split_ganga_en.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/split/split_ganga_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Two",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "crowns",
+                "t": 372.0,
+                "d": 723.0
+              },
+              {
+                "w": "one",
+                "t": 1265.0,
+                "d": 425.0
+              },
+              {
+                "w": "sacred",
+                "t": 1691.0,
+                "d": 510.0
+              },
+              {
+                "w": "river",
+                "t": 2202.0,
+                "d": 807.0
+              },
+              {
+                "w": "From",
+                "t": 3223.0,
+                "d": 339.0
+              },
+              {
+                "w": "the",
+                "t": 3562.0,
+                "d": 127.0
+              },
+              {
+                "w": "south",
+                "t": 3690.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 4073.0,
+                "d": 42.0
+              },
+              {
+                "w": "tiger",
+                "t": 4115.0,
+                "d": 809.0
+              },
+              {
+                "w": "came",
+                "t": 4925.0,
+                "d": 723.0
+              },
+              {
+                "w": "in",
+                "t": 5734.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 5946.0,
+                "d": 170.0
+              },
+              {
+                "w": "north",
+                "t": 6117.0,
+                "d": 468.0
+              },
+              {
+                "w": "a",
+                "t": 6670.0,
+                "d": 170.0
+              },
+              {
+                "w": "throne",
+                "t": 6840.0,
+                "d": 382.0
+              },
+              {
+                "w": "stood",
+                "t": 7223.0,
+                "d": 297.0
+              },
+              {
+                "w": "waiting",
+                "t": 7521.0,
+                "d": 978.0
+              },
+              {
+                "w": "and",
+                "t": 8500.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 8797.0,
+                "d": 126.0
+              },
+              {
+                "w": "Ganga",
+                "t": 8924.0,
+                "d": 469.0
+              },
+              {
+                "w": "would",
+                "t": 9393.0,
+                "d": 254.0
+              },
+              {
+                "w": "decide",
+                "t": 9647.0,
+                "d": 767.0
+              },
+              {
+                "w": "whose",
+                "t": 10457.0,
+                "d": 382.0
+              },
+              {
+                "w": "glory",
+                "t": 10840.0,
+                "d": 595.0
+              },
+              {
+                "w": "it",
+                "t": 11436.0,
+                "d": 212.0
+              },
+              {
+                "w": "carried",
+                "t": 11648.0,
+                "d": 340.0
+              },
+              {
+                "w": "home",
+                "t": 11989.0,
+                "d": 381.0
+              }
+            ],
+            "hi": []
           }
         }
       ]
@@ -896,15 +1801,18 @@
       "id": "p06",
       "art": "assets/rajendra_brings_the_ganges_south/img/p06.png",
       "shot": "wide establishing shot of completed temple-city",
+      "mood": "calm",
       "lines": [
         {
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "So stands Gangaikonda Cholapuram, born of far campaigns yet rooted in skill and record, proving ambition’s worth in lasting, ordered creation."
+            "en": "So stands Gangaikonda Cholapuram, born of far campaigns yet rooted in skill and record, proving ambition’s worth in lasting, ordered creation.",
+            "hi": "यूँ खड़ी है गंगैकोंड चोलपुरम — दूर के अभियानों से जन्मी, पर कौशल और लेखे में जड़ें जमाए, आकांक्षा को स्थायी, व्यवस्थित सृजन में सार्थक साबित करती हुई।"
           },
           "audio": {
-            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p06_0.mp3"
+            "en": "assets/rajendra_brings_the_ganges_south/audio/en/p06_0.mp3",
+            "hi": "assets/rajendra_brings_the_ganges_south/audio/hi/p06_0.mp3"
           },
           "words": {
             "en": [
@@ -1013,10 +1921,21 @@
                 "t": 9436.0,
                 "d": 765.0
               }
-            ]
+            ],
+            "hi": []
           }
         }
       ]
     }
-  ]
+  ],
+  "hero": {
+    "name": "Rajendra Chola I",
+    "epithets": [
+      "Gangaikonda Chola",
+      "Rajendra Chola the Great",
+      "Conqueror of the Ganges",
+      "Lord of the Eastern Seas"
+    ],
+    "legend": "He brought the sacred Ganga’s water to his southern sea-washed throne."
+  }
 }
