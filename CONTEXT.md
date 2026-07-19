@@ -144,11 +144,17 @@ across a background scenery, voiced. gpt-image-2 has **no transparent background
 - **Fading spirit** (`spirit`-tagged cut-out + `still` pose): the player renders it translucent and
   glowing (`.actlayer img.spirit`) and dissolves it slowly upward — a fallen hero rising into
   legend. Music mood `spirit`. Used for the last-but-one Lakshmibai scene (spirit over the pyre).
-- **Diagonal 3-cut montage** (`split` scene): `action.add_split_beat(eid, after_pid, narration,
-  slices=[{figure?|fight, action, slogan?({en,hi}|str), pos?}], key, langs, mood?)`. Three diagonal
-  manga slices reveal in sequence with an impact flash — a character + battle-cry slogan, another
-  character, then an ensemble fight. `player.setSplitScene()` reads `panel.slices[]`; slice art is
-  full-bleed key-art and **text-free** (`NO_TEXT`, so gpt-image-2 does not bake in speech bubbles).
+- **Horizontal diagonal montage** (`split` scene): `action.add_split_beat(eid, after_pid, narration,
+  slices=[{figure?|fight, action, slogan?({en,hi}|str), pos?, zoom?}], key, langs, mood?, size?)`.
+  Three **full-width HORIZONTAL diagonal bands** reveal in sequence with an impact flash — a
+  character + battle-cry slogan, another character, then an ensemble fight. `player.setSplitScene()`
+  reads `panel.slices[]` (per-slice `pos`/`zoom`). Slices are **landscape (1536×1024)** with the
+  subject's face **large and centred**, and **text-free** (`NO_TEXT`).
+  - **Band-crop framing rule:** with a landscape image shown `cover`, the **top band shows
+    image-top, the middle band shows image-middle (~31–70%), the bottom band shows image-bottom** —
+    the image only overflows the container by ~15%, so **no `pos` can pull an upper-third face into
+    the middle band**. A middle-band character slice must be composed **chest-up with the face at the
+    image's vertical centre** (this is why the officer slice `s1` is a tight centred portrait).
 
 **IMPORTANT — text-free art:** action bg plates, spirit cut-outs and montage slices all pass
 `NO_TEXT` (mirrors `style_bible` panel rule). gpt-image-2 otherwise bakes speech bubbles/captions
@@ -165,6 +171,12 @@ ADULT audience — not cut short for kids — while staying historically accurat
   epithets/legends over the hero cover art) and a **historic India-map poster** (generated
   antique-parchment map, no text) with a pulsing marker + label at the place (gpt-4o supplies map
   x/y); both voiced. Adds `hero` + `map` scene types to `<id>.player.json`.
+- **Co-star intro cards:** `intro.add_cast_intro(eid, after_pid, figure, action_desc, era, region,
+  facts, langs, mood?, key?)` gives a supporting character their own hero-style introduction — a
+  face-centred cinematic portrait drawn from the character's **model sheet** (identity-consistent) +
+  historically-accurate epithets/legend/dossier (gpt-4o) + a voiced one-line intro, inserted as a
+  `hero` scene. Used for **Tatya Tope** (ally) and **Sir Hugh Rose** (`characters/sir_hugh_rose.json`,
+  British Central India Field Force commander). Pushes character variety beyond the protagonist.
 - `music.js` \u2014 a procedural Web-Audio **mood score** (Indian flavour: tanpura drone + tabla/dhol
   percussion + Bhairavi-ish melody) crossfading by scene `mood` (calm/suspense/battle/triumph).
   Moods are inferred per panel in `voice.py`; the player has a music toggle.

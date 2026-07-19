@@ -5,6 +5,34 @@ problems. Newest first.
 
 ---
 
+## 2026-07-19 (later) — Horizontal montage (faces visible) + co-star intro cards
+
+@naveenneog: the diagonal montage read as **vertical** slices and Jhansi's face was cut off — make
+the bands **horizontal** and make the **faces and actions visible**; and "push the variety" so kids
+and folks get more character introductions and scenes, not the hero in most panels.
+
+- **Horizontal diagonal montage** — `setSplitScene()` rewritten from vertical wedges to three
+  **full-width horizontal diagonal bands** (slanted stripes) so each character's face + action reads
+  left-to-right. Per-slice `pos`/`zoom`, slogans anchored per band. Slices regenerated as
+  **landscape (1536×1024)** with the subject's face **large and centred**.
+- **Band-crop framing rule** — with a landscape image shown `cover`, the **top band shows image-top,
+  the middle band shows image-middle (~31–70%), the bottom band shows image-bottom**. A face in the
+  image's upper third therefore CANNOT appear in the middle band no matter the `pos` (the image
+  overflows the container by only ~15%). So the **middle-band slice must be composed chest-up with
+  the face at the image's vertical centre**. Fixed the cropped British-officer face by regenerating
+  `split_climax/s1` as a tight chest-up, face-centred portrait — all three montage faces now read.
+- **Co-star intro cards** — new `intro.add_cast_intro()`: a hero-style introduction for a supporting
+  character — a face-centred cinematic portrait drawn from the character's **model sheet** (identity
+  stays consistent) + historically-accurate epithets/legend/dossier (gpt-4o) + a voiced one-line
+  intro, inserted as a `hero` scene. Added **Tatya Tope** (ally, after p09) and a brand-new
+  **Sir Hugh Rose** (British Central India Field Force commander, after p13) character + card.
+
+Lakshmibai episode → **27 scenes** (added `intro_tatya`, `intro_rose`; `split_climax` now the
+horizontal face-centred montage). Verified in the real player, 0 JS errors, all 27 panels' assets
+present. EN + Hindi. New character: `characters/sir_hugh_rose.json`.
+
+---
+
 ## 2026-07-19 — Diagonal war montage, mounted re-entry, fading-spirit finale
 
 @naveenneog: more variety and standout animation — the hero shouldn't be the only cut-out in most
