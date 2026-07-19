@@ -138,6 +138,26 @@ ADULT audience — not cut short for kids — while staying historically accurat
 
 ---
 
+## 0D. OPENING POSTERS + MOOD MUSIC + VOICE MIX
+
+- `intro.py` (`python intro.py <id> --langs en hi`) \u2014 prepends a **hero poster** (name + real
+  epithets/legends over the hero cover art) and a **historic India-map poster** (generated
+  antique-parchment map, no text) with a pulsing marker + label at the place (gpt-4o supplies map
+  x/y); both voiced. Adds `hero` + `map` scene types to `<id>.player.json`.
+- `music.js` \u2014 a procedural Web-Audio **mood score** (Indian flavour: tanpura drone + tabla/dhol
+  percussion + Bhairavi-ish melody) crossfading by scene `mood` (calm/suspense/battle/triumph).
+  Moods are inferred per panel in `voice.py`; the player has a music toggle.
+- **Voices:** English = en-IN DragonHD; **Hindi = MAI-Voice-2**; Tamil/Telugu/Kannada are relaxed
+  ~9% slower (less-native \u2192 clearer). `voice.voice_multi(text, dir, key, langs, role)` translates
+  + voices a single line across languages (used by intro + action beats).
+- **Narration voice:** simple, vivid, sensory *feel-it* words (not big vocabulary), still grand +
+  historically accurate (`STORYBOARD_SYS` / `RESCRIPT_SYS`).
+- **Full-build order** for one episode: `comic_engine.py <id> --langs en hi` (or `--rescript` to
+  re-word) \u2192 `voice.py <id> --langs en hi` \u2192 `intro.py <id> --langs en hi` \u2192
+  `action.py --beat <id> --after <panel> ...` \u2192 serve `app/` \u2192 `/player/index.html?ep=<id>&lang=en`.
+
+---
+
 ## 1. Vision (short)
 
 Retell India's **actual, record-based** history — ancient → medieval → freedom struggle — as short,

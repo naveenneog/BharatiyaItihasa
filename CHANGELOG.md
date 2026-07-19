@@ -5,6 +5,33 @@ problems. Newest first.
 
 ---
 
+## 2026-07-18 (later 5) — Opening posters, mood music, simpler words, MAI-Voice-2 Hindi
+
+@naveenneog: add a hero intro + a historic India-map poster before the story; add music during
+war/suspense; keep the narrative in simple-but-effective feel-it words; use MAI-Voice-2 for Hindi
+(and relax the less-native south-Indian voices).
+
+- **Opening posters** (`intro.py`): a HERO poster (name + real epithets/legends over the hero art)
+  and a historic INDIA MAP poster (a generated antique-parchment map, no text) with a pulsing
+  marker + label at the location (gpt-4o supplies the map x/y), both voiced. Prepended as `hero` +
+  `map` scenes.
+- **Mood music** (`music.js`): a procedural Web-Audio score with an Indian flavour (tanpura-like
+  drone + tabla/dhol-like percussion + Bhairavi-ish melody) that crossfades by scene mood \u2014
+  calm / suspense / battle / triumph. Scene moods are inferred in `voice.py` (keywords); action =
+  battle, hero = triumph, map = suspense. A music toggle sits in the player.
+- **Simpler, feel-it narration**: `STORYBOARD_SYS` + `RESCRIPT_SYS` now demand simple, vivid,
+  sensory words (emotion over vocabulary) while staying grand and accurate.
+- **Voices**: English = en-IN DragonHD, Hindi = **MAI-Voice-2**; Tamil/Telugu/Kannada relaxed ~9%
+  slower (less-native voices \u2192 clearer pronunciation). `voice.voice_multi` translates + voices
+  the intro/action lines per language.
+- **Player**: new `hero` + `map` scene types (animated title card + map marker), music wiring,
+  language switch (en + hi).
+
+Rebuilt the Lakshmibai episode: 22 scenes (hero \u2192 map \u2192 19-panel story \u2192 action
+charge), English + Hindi, mood music. Verified the hero poster + the map marker on Bundelkhand.
+
+---
+
 ## 2026-07-18 (later 4) — Action sequences + deeper, adult, historically-accurate storytelling
 
 Two more directions from @naveenneog: make the storytelling **deeper and longer for historic
