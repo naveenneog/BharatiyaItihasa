@@ -152,17 +152,19 @@ function setSplitScene(panel, my) {
   return new Promise(res => {
     const L = $("#splitLayer"); L.innerHTML = ""; L.classList.remove("hidden");
     bgs.forEach(b => b.classList.remove("show"));          // montage covers the whole stage
-    const clips = ["polygon(0 0,40% 0,24% 100%,0 100%)",
-                   "polygon(41% 0,70% 0,54% 100%,25% 100%)",
-                   "polygon(71% 0,100% 0,100% 100%,55% 100%)"];
-    const enters = ["translate(-74%,-10%)", "translate(0,-84%)", "translate(74%,10%)"];
-    const slots = ["6%", "37%", "60%"];
+    // three HORIZONTAL diagonal bands (full width) so faces + actions read left-to-right
+    const clips = ["polygon(0 0,100% 0,100% 29%,0 41%)",
+                   "polygon(0 43%,100% 31%,100% 65%,0 77%)",
+                   "polygon(0 79%,100% 67%,100% 100%,0 100%)"];
+    const enters = ["translate(-104%,-6%)", "translate(104%,0)", "translate(-104%,6%)"];
+    const slots = ["12%", "48%", "82%"];                   // slogan vertical anchor per band
     const slices = panel.slices || [];
     slices.forEach((s, i) => {
       const k = i % 3;
       const d = document.createElement("div"); d.className = "slice";
       d.style.backgroundImage = `url("${BASE}${s.img}")`;
-      d.style.backgroundPosition = s.pos || "center";
+      d.style.backgroundPosition = s.pos || "center 34%";
+      if (s.zoom) d.style.backgroundSize = s.zoom;
       d.style.clipPath = clips[k]; d.style.webkitClipPath = clips[k];
       L.appendChild(d);
       const delay = i * 430;
@@ -170,14 +172,14 @@ function setSplitScene(panel, my) {
         { transform: enters[k], opacity: 0, offset: 0 },
         { opacity: 1, offset: 0.4 },
         { transform: "translate(0,0)", opacity: 1, offset: 1 }
-      ], { duration: 880, delay, easing: "cubic-bezier(.18,.75,.25,1)", fill: "both" });
+      ], { duration: 900, delay, easing: "cubic-bezier(.18,.75,.25,1)", fill: "both" });
       const fl = document.createElement("div"); fl.className = "flash"; d.appendChild(fl);
       fl.animate([{ opacity: 0 }, { opacity: 0.5 }, { opacity: 0 }],
-        { duration: 360, delay: delay + 500, easing: "ease-out" });
+        { duration: 360, delay: delay + 520, easing: "ease-out" });
       const slg = s.slogan && (typeof s.slogan === "string" ? s.slogan : (s.slogan[LANG] || s.slogan.en));
       if (slg) {
         const sl = document.createElement("div"); sl.className = "slogan";
-        sl.style.left = slots[k]; sl.textContent = slg; L.appendChild(sl);
+        sl.style.left = "5%"; sl.style.top = slots[k]; sl.textContent = slg; L.appendChild(sl);
         sl.animate([
           { transform: "translateY(-50%) scale(1.5) rotate(-3deg)", opacity: 0, offset: 0 },
           { transform: "translateY(-50%) scale(.94) rotate(-1deg)", opacity: 1, offset: 0.6 },

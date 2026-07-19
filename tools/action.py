@@ -220,12 +220,13 @@ def add_multi_beat(eid, after_pid, bg_desc, narration, cast, key="m1", langs=("e
 
 
 def add_split_beat(eid, after_pid, narration, slices, key="s1", langs=("en",), reuse=True,
-                   tok=None, mood="battle"):
-    """Insert a DIAGONAL 3-CUT montage (manga triptych): three diagonal slices reveal in sequence,
-    each its own richly illustrated panel, optionally carrying a battle-cry slogan. slices = [{
-    figure?, fight?:bool, action, era?, region?, facts?, slogan?({en,hi}|str), pos?}]. A slice with a
-    `figure` keeps that character's identity (drawn from its model sheet); a `fight` slice is a free
-    ensemble scene. voice.py must be run first."""
+                   tok=None, mood="battle", size="1536x1024"):
+    """Insert a DIAGONAL 3-CUT montage (manga triptych): three HORIZONTAL diagonal slices reveal in
+    sequence, each its own richly illustrated WIDE panel, optionally carrying a battle-cry slogan.
+    slices = [{figure?, fight?:bool, action, era?, region?, facts?, slogan?({en,hi}|str), pos?,
+    zoom?}]. A slice with a `figure` keeps that character's identity (drawn from its model sheet); a
+    `fight` slice is a free ensemble scene. Slices are landscape so faces + action read across the
+    full width. voice.py must be run first."""
     pj = C.APP / "data" / f"{eid}.player.json"
     man = C.load_json(pj, None)
     if not man:
@@ -240,23 +241,27 @@ def add_split_beat(eid, after_pid, narration, slices, key="s1", langs=("en",), r
         if not (reuse and img.exists()):
             if s.get("fight") or not s.get("figure"):
                 print(f"  split {key}: slice {i} (scene)", flush=True)
-                tok = ai.gen_image(f"{sb.HOUSE_LOOK}\n\nDRAMATIC FULL-BLEED CINEMATIC KEY-ART, wide "
-                                   f"dynamic angle: {s['action']}. {NO_TEXT}", img, tok, size="1024x1536")
+                tok = ai.gen_image(f"{sb.HOUSE_LOOK}\n\nDRAMATIC FULL-BLEED WIDE CINEMATIC KEY-ART, "
+                                   f"the action filling the frame, dynamic angle: {s['action']}. "
+                                   f"{NO_TEXT}", img, tok, size=size)
             else:
                 ent, tok = gc.ensure_character(s["figure"], s.get("era", ""), s.get("region", ""),
                                                s.get("facts", ""), tok=tok)
                 print(f"  split {key}: slice {i} ({ent['display_name']})", flush=True)
                 tok = ai.edit_image(
-                    f"{sb.HOUSE_LOOK}\n\nDRAMATIC FULL-BLEED CINEMATIC CHARACTER KEY-ART of "
-                    f"{ent['display_name']} ({ent['ref_desc']}): {s['action']}. Cinematic rim-light, "
-                    f"dynamic low angle, a richly illustrated atmospheric background (NOT a plain "
-                    f"studio background). {NO_TEXT}",
-                    [C.APP / ent["sheet"]], img, tok, size="1024x1536")
+                    f"{sb.HOUSE_LOOK}\n\nDRAMATIC WIDE CINEMATIC CHARACTER KEY-ART of "
+                    f"{ent['display_name']} ({ent['ref_desc']}): {s['action']}. The character's FACE "
+                    f"and upper body must be LARGE, centred and clearly visible; cinematic rim-light, "
+                    f"a richly illustrated atmospheric background (NOT a plain studio background). "
+                    f"{NO_TEXT}",
+                    [C.APP / ent["sheet"]], img, tok, size=size)
         so = {"img": f"assets/{eid}/split_{key}/s{i}.png"}
         if s.get("slogan"):
             so["slogan"] = s["slogan"]
         if s.get("pos"):
             so["pos"] = s["pos"]
+        if s.get("zoom"):
+            so["zoom"] = s["zoom"]
         out_slices.append(so)
 
     adir = C.APP / "assets" / eid / "audio" / "split"
