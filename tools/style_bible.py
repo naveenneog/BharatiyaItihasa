@@ -160,8 +160,11 @@ popular legend differs from the evidence, follow the evidence (and treat traditi
 - Do NOT truncate. Aim for a SUBSTANTIAL sequence \u2014 roughly 12-18 panels (more for a \
 momentous life) \u2014 that does the history justice.
 - NARRATION is the backbone: a grand sutradhaar (master storyteller) voice-over \u2014 dignified, \
-evocative, rhythmic, cinematic and historically rich (weave in real context, motives and stakes). \
-1-3 sentences per narration. Mature and resonant; never childish, never slangy.
+evocative, cinematic and historically rich (weave in real context, motives and stakes), BUT told \
+in SIMPLE, clear, VIVID words that make the reader FEEL the moment: short sentences, concrete \
+sensory detail (dust, steel, silence, fire, a held breath), emotion over vocabulary. Be grand \
+through simplicity, not through big or archaic words. 1-3 sentences per narration; never childish, \
+never slangy.
 - Character DIALOGUE is sparing, weighty, iconic and historically plausible. At most ONE character \
 line per panel.
 - Adult and honest about the gravity of war, loss and power \u2014 but convey it through grandeur, \
@@ -207,9 +210,11 @@ depicts). Rewrite ONLY THE WORDS to fit each existing image, deepening them. Kee
 order unchanged.
 
 RULES:
-- NARRATION is the backbone: a grand sutradhaar voice-over \u2014 dignified, evocative, rhythmic, \
-cinematic and historically rich (real context, motives, stakes). Up to 3 sentences where the \
-image allows depth. Mature and resonant; never childish or slangy.
+- NARRATION is the backbone: a grand sutradhaar voice-over \u2014 dignified, evocative, cinematic \
+and historically rich (real context, motives, stakes), BUT told in SIMPLE, clear, VIVID words that \
+make the reader FEEL the moment: short sentences, concrete sensory detail (dust, steel, silence, \
+fire), emotion over vocabulary. Grand through simplicity, not big or archaic words. Up to 3 short \
+sentences where the image allows depth; never childish or slangy.
 - Character DIALOGUE is sparing, weighty, iconic and historically plausible. At most ONE per panel.
 - Faithful to the record (treat legend as legend). Adult in gravity but no graphic gore. NO sfx.
 - The COVER: one "narration" line naming the figure and age in epic voice. The LAST panel: one \

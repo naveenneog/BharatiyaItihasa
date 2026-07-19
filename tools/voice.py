@@ -28,9 +28,31 @@ MALE = {"en": "en-IN-PrabhatNeural", "kn": "kn-IN-GaganNeural", "hi": "hi-IN-Arj
         "ta": "ta-IN-ValluvarNeural", "te": "te-IN-MohanNeural", "de": "de-DE-KillianNeural"}
 FEMALE = {"en": "en-IN-NeerjaNeural", "kn": "kn-IN-SapnaNeural", "hi": "hi-IN-Kavya:MAI-Voice-2",
           "ta": "ta-IN-PallaviNeural", "te": "te-IN-ShrutiNeural", "de": "de-DE-KatjaNeural"}
-RATE = {"narrator": "-6%", "male": "+2%", "female": "0%"}   # a graver, epic narrator cadence
+RATE = {"narrator": -6, "male": 2, "female": 0}   # base % ; a graver, epic narrator cadence
+# Tamil/Telugu/Kannada neural voices are less native than DragonHD(en)/MAI-Voice-2(hi), so relax
+# (slow) them for clearer word pronunciation and steadier sentence voicing.
+SLOW_LANGS = {"ta", "te", "kn"}
+
+
+def _rate(role, lang):
+    r = RATE[role] - (9 if lang in SLOW_LANGS else 0)
+    return f"+{r}%" if r > 0 else (f"{r}%" if r < 0 else "0%")
 
 _FEM = re.compile(r"\b(queen|rani|she|her|woman|princess|empress|lady|maharani|begum)\b", re.I)
+_BATTLE = re.compile(r"charge|cavalr|clash|battle|siege|storm|assault|fought|fight|sword|gun|"
+                     r"cannon|\bwar\b|attack|fray|breach|arrows?|spear|lance|troops", re.I)
+_SUSPENSE = re.compile(r"tense|wait|watch|surround|closing|silence|shadow|crept|escape|\bfell\b|"
+                       r"last stand|grief|smoke|dusk|fear|betray|besieg|hunt|flee|dread|omen", re.I)
+
+
+def mood_of(panel):
+    blob = (panel.get("shot", "") + " " +
+            " ".join((dl.get("text") or "") for dl in panel.get("dialogue", []) or []))
+    if _BATTLE.search(blob):
+        return "battle"
+    if _SUSPENSE.search(blob):
+        return "suspense"
+    return "calm"
 
 
 def _token():
@@ -75,7 +97,37 @@ def role_of(line_type, gender):
 
 def voice_for(role, lang):
     table = {"narrator": NARR, "male": MALE, "female": FEMALE}[role]
-    return table.get(lang, table["en"]), RATE[role]
+    return table.get(lang, table["en"]), _rate(role, lang)
+
+
+def voice_multi(text, outdir, key, langs, role="narrator", tok=None):
+    """Translate `text` into each language (English source) and synthesise one clip per language
+    (Hindi uses MAI-Voice-2 via the voice map). Writes <key>_<lang>.mp3/.json into `outdir`.
+    Returns (text_map, words_map, tok). Resumable (skips existing clips)."""
+    import translate
+    import pathlib as _p
+    outdir = _p.Path(outdir); outdir.mkdir(parents=True, exist_ok=True)
+    syn = None
+    text_map, words_map = {}, {}
+    for lg in langs:
+        if lg == "en":
+            txt = text
+        else:
+            tr, tok = translate.translate_lines([text], lg, tok)
+            txt = (tr[0] if tr else text)
+        text_map[lg] = txt
+        mp3, wj = outdir / f"{key}_{lg}.mp3", outdir / f"{key}_{lg}.json"
+        if mp3.exists() and wj.exists():
+            words_map[lg] = C.load_json(wj, {}).get("words", [])
+            continue
+        if syn is None:
+            syn = Synth()
+        v, rate = voice_for(role, lg)
+        print(f"    voice {lg} {key} [{role}] {v}", flush=True)
+        w = syn.say(txt, mp3, v, rate)
+        C.save_json(wj, {"words": w})
+        words_map[lg] = w
+    return text_map, words_map, tok
 
 
 class Synth:
@@ -149,7 +201,7 @@ def voice_episode(eid, langs, force=False):
             lines.append({"type": dl.get("type", "speech"), "role": role,
                           "text": text, "audio": audio, "words": words})
         panels_out.append({"id": pid, "art": f"assets/{eid}/img/{pid}.png",
-                           "shot": p.get("shot", ""), "lines": lines})
+                           "shot": p.get("shot", ""), "mood": mood_of(p), "lines": lines})
 
     manifest = {"id": eid, "title": rec.get("title", eid), "title_i18n": story.get("title_i18n", {}),
                 "figure": rec.get("figure", ""), "era": rec.get("era", ""),

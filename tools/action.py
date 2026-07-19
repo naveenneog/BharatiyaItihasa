@@ -60,7 +60,8 @@ def build_action(figure, bg_desc, action_desc, narration, out_id=None, tok=None)
     adir = C.APP / "assets" / aid / "audio"
     adir.mkdir(parents=True, exist_ok=True)
     amp3 = adir / "action_en.mp3"
-    words = voice.Synth().say(narration, amp3, voice.NARR["en"], voice.RATE["narrator"])
+    v, rate = voice.voice_for("narrator", "en")
+    words = voice.Synth().say(narration, amp3, v, rate)
 
     manifest = {
         "id": aid, "figure": figure, "title": ent["display_name"],
@@ -83,7 +84,8 @@ CHAR_PROMPT = (
     "\u2014 only the single character with clean sharp edges.")
 
 
-def add_action_beat(eid, after_pid, figure, bg_desc, action_desc, narration, key="a1", tok=None):
+def add_action_beat(eid, after_pid, figure, bg_desc, action_desc, narration, key="a1",
+                    langs=("en",), reuse=True, tok=None):
     """Generate an action scene and INSERT it into <eid>.player.json after panel `after_pid`, so a
     voiced motion-comic drops into an animated action shot mid-story. Needs voice.py run first."""
     pj = C.APP / "data" / f"{eid}.player.json"
@@ -95,31 +97,32 @@ def add_action_beat(eid, after_pid, figure, bg_desc, action_desc, narration, key
     d = C.APP / "assets" / eid / f"action_{key}"
     d.mkdir(parents=True, exist_ok=True)
 
-    print(f"  beat {key}: bg plate", flush=True)
     bg = d / "bg.png"
-    tok = ai.gen_image(f"{sb.HOUSE_LOOK}\n\nWIDE CINEMATIC BACKGROUND SCENERY ONLY \u2014 no people, "
-                       f"no characters, an empty stage: {bg_desc}", bg, tok, size="1536x1024")
-    print(f"  beat {key}: character pose", flush=True)
-    rawc = d / "char_raw.png"
-    tok = ai.edit_image(CHAR_PROMPT.format(look=sb.HOUSE_LOOK, name=ent["display_name"],
-                                           ref=ent["ref_desc"], act=action_desc),
-                        [C.APP / ent["sheet"]], rawc, tok, size="1024x1024")
+    if not (reuse and bg.exists()):
+        print(f"  beat {key}: bg plate", flush=True)
+        tok = ai.gen_image(f"{sb.HOUSE_LOOK}\n\nWIDE CINEMATIC BACKGROUND SCENERY ONLY \u2014 no "
+                           f"people, no characters, an empty stage: {bg_desc}", bg, tok, size="1536x1024")
     char = d / "char.png"
-    sz = matte.cutout(rawc, char)
-    print(f"  beat {key}: matted {sz}", flush=True)
+    if not (reuse and char.exists()):
+        print(f"  beat {key}: character pose", flush=True)
+        rawc = d / "char_raw.png"
+        tok = ai.edit_image(CHAR_PROMPT.format(look=sb.HOUSE_LOOK, name=ent["display_name"],
+                                               ref=ent["ref_desc"], act=action_desc),
+                            [C.APP / ent["sheet"]], rawc, tok, size="1024x1024")
+        print(f"  beat {key}: matted {matte.cutout(rawc, char)}", flush=True)
 
-    adir = C.APP / "assets" / eid / "audio" / "en"
-    adir.mkdir(parents=True, exist_ok=True)
-    mp3 = adir / f"action_{key}.mp3"
-    words = voice.Synth().say(narration, mp3, voice.NARR["en"], voice.RATE["narrator"])
+    adir = C.APP / "assets" / eid / "audio" / "action"
+    text_map, words_map, tok = voice.voice_multi(narration, adir, f"action_{key}", langs, "narrator", tok)
+    audio = {lg: f"assets/{eid}/audio/action/action_{key}_{lg}.mp3" for lg in langs}
 
-    scene = {"id": f"action_{key}", "type": "action",
+    scene = {"id": f"action_{key}", "type": "action", "mood": "battle",
              "bg": f"assets/{eid}/action_{key}/bg.png", "char": f"assets/{eid}/action_{key}/char.png",
              "motion": {"fromX": -46, "toX": 4, "fromScale": 0.80, "toScale": 1.16,
                         "rot": -3, "dur": 7200, "bgZoom": 1.14, "bgPan": -7},
-             "lines": [{"type": "narration", "role": "narrator", "text": {"en": narration},
-                        "audio": {"en": f"assets/{eid}/audio/en/action_{key}.mp3"},
-                        "words": {"en": words}}]}
+             "lines": [{"type": "narration", "role": "narrator", "text": text_map,
+                        "audio": audio, "words": words_map}]}
+    idx = next((i for i, p in enumerate(man["panels"]) if p["id"] == after_pid), len(man["panels"]) - 1)
+    man["panels"] = [p for p in man["panels"] if p.get("id") != f"action_{key}"]
     idx = next((i for i, p in enumerate(man["panels"]) if p["id"] == after_pid), len(man["panels"]) - 1)
     man["panels"].insert(idx + 1, scene)
     C.save_json(pj, man)
@@ -136,9 +139,10 @@ def main():
     ap.add_argument("--beat", metavar="EID", help="insert an action beat into episode EID's player.json")
     ap.add_argument("--after", default="cover", help="insert the beat after this panel id")
     ap.add_argument("--key", default="a1")
+    ap.add_argument("--langs", nargs="*", default=["en"])
     a = ap.parse_args()
     if a.beat:
-        add_action_beat(a.beat, a.after, a.figure, a.bg, a.action, a.narration, key=a.key)
+        add_action_beat(a.beat, a.after, a.figure, a.bg, a.action, a.narration, key=a.key, langs=a.langs)
     else:
         build_action(a.figure, a.bg, a.action, a.narration)
 
