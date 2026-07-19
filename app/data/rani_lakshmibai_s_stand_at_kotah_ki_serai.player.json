@@ -2281,6 +2281,209 @@
       ]
     },
     {
+      "id": "intro_tatya",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/cast/tatya.png",
+      "name": "Tatya Tope",
+      "epithets": [
+        "Tatya Tope",
+        "Hero of 1857",
+        "Guerrilla Master of the Revolt"
+      ],
+      "legend": "The shadow general who set British nerves on fire.",
+      "era": "1857 Revolt, Bundelkhand",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He is Tatya Tope, Nana Sahib’s fierce chief general and master of sudden attack. Tonight he stands guard over Jhansi’s lost dream, ready to bleed for Lakshmibai as the road to Gwalior burns ahead.",
+            "hi": "ये हैं तात्या टोपे, नाना साहेब के डरावने सरदार और अचानक वार के उस्ताद। आज रात वो झांसी के टूटे सपने की रखवाली कर रहे हैं, लक्ष्मीबाई के लिए खून बहाने को तैयार, जबकि ग्वालियर की राह आग बन चुकी है।"
+          },
+          "audio": {
+            "en": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/cast/tatya_en.mp3",
+            "hi": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/cast/tatya_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "is",
+                "t": 329.0,
+                "d": 170.0
+              },
+              {
+                "w": "Tatya",
+                "t": 500.0,
+                "d": 425.0
+              },
+              {
+                "w": "Tope",
+                "t": 925.0,
+                "d": 425.0
+              },
+              {
+                "w": "Nana",
+                "t": 1734.0,
+                "d": 382.0
+              },
+              {
+                "w": "Sahib’s",
+                "t": 2117.0,
+                "d": 467.0
+              },
+              {
+                "w": "fierce",
+                "t": 2584.0,
+                "d": 382.0
+              },
+              {
+                "w": "chief",
+                "t": 2967.0,
+                "d": 341.0
+              },
+              {
+                "w": "general",
+                "t": 3308.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 3946.0,
+                "d": 296.0
+              },
+              {
+                "w": "master",
+                "t": 4243.0,
+                "d": 384.0
+              },
+              {
+                "w": "of",
+                "t": 4627.0,
+                "d": 127.0
+              },
+              {
+                "w": "sudden",
+                "t": 4755.0,
+                "d": 340.0
+              },
+              {
+                "w": "attack",
+                "t": 5095.0,
+                "d": 851.0
+              },
+              {
+                "w": "Tonight",
+                "t": 6414.0,
+                "d": 425.0
+              },
+              {
+                "w": "he",
+                "t": 6840.0,
+                "d": 127.0
+              },
+              {
+                "w": "stands",
+                "t": 6968.0,
+                "d": 425.0
+              },
+              {
+                "w": "guard",
+                "t": 7393.0,
+                "d": 382.0
+              },
+              {
+                "w": "over",
+                "t": 7819.0,
+                "d": 255.0
+              },
+              {
+                "w": "Jhansi’s",
+                "t": 8074.0,
+                "d": 509.0
+              },
+              {
+                "w": "lost",
+                "t": 8584.0,
+                "d": 255.0
+              },
+              {
+                "w": "dream",
+                "t": 8839.0,
+                "d": 681.0
+              },
+              {
+                "w": "ready",
+                "t": 9563.0,
+                "d": 424.0
+              },
+              {
+                "w": "to",
+                "t": 9988.0,
+                "d": 170.0
+              },
+              {
+                "w": "bleed",
+                "t": 10158.0,
+                "d": 298.0
+              },
+              {
+                "w": "for",
+                "t": 10457.0,
+                "d": 170.0
+              },
+              {
+                "w": "Lakshmibai",
+                "t": 10627.0,
+                "d": 723.0
+              },
+              {
+                "w": "as",
+                "t": 11563.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 11775.0,
+                "d": 170.0
+              },
+              {
+                "w": "road",
+                "t": 11945.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 12201.0,
+                "d": 128.0
+              },
+              {
+                "w": "Gwalior",
+                "t": 12329.0,
+                "d": 425.0
+              },
+              {
+                "w": "burns",
+                "t": 12755.0,
+                "d": 339.0
+              },
+              {
+                "w": "ahead",
+                "t": 13094.0,
+                "d": 511.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "action_allies",
       "type": "action",
       "mood": "battle",
@@ -3056,15 +3259,15 @@
             "en": "I will not surrender my Jhansi!",
             "hi": "मैं अपनी झाँसी नहीं दूँगी!"
           },
-          "pos": "50% 30%"
+          "pos": "center 30%"
         },
         {
           "img": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/split_climax/s1.png",
-          "pos": "50% 14%"
+          "pos": "center 44%"
         },
         {
           "img": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/split_climax/s2.png",
-          "pos": "50% 42%"
+          "pos": "center 52%"
         }
       ],
       "lines": [
@@ -3073,7 +3276,7 @@
           "role": "narrator",
           "text": {
             "en": "Two wills now drew toward one field. A queen who would not kneel. An empire that would not yield. And between them, a storm of steel.",
-            "hi": "दो जज़्बे एक ही मैदान की तरफ़ बढ़े।"
+            "hi": "दो इरादे एक ही मैदान पर टकराए।"
           },
           "audio": {
             "en": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/split/split_climax_en.mp3",
@@ -3415,6 +3618,188 @@
                 "w": "charge",
                 "t": 17010.0,
                 "d": 765.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_rose",
+      "type": "hero",
+      "mood": "suspense",
+      "art": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/cast/rose.png",
+      "name": "Sir Hugh Rose",
+      "epithets": [
+        "Major-General Sir Hugh Rose",
+        "Commander, Central India Field Force"
+      ],
+      "legend": "Cold, steady hammer of the British march on Jhansi.",
+      "era": "1858, British Central India Field Force",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He stands in his red and gold, calm and unbending, the man who plans every move. As Lakshmibai rides for hope, his careful, ruthless advance tightens around Jhansi and Gwalior.",
+            "hi": "लाल‑सोने में अडिग खड़ा है, हर चाल की साज़िश उसके दिमाग में। जब लक्ष्मीबाई उम्मीद के लिए दौड़ती है, उसकी सख़्त, बेरहम बढ़त झाँसी और ग्वालियर को जकड़ती जाती है।"
+          },
+          "audio": {
+            "en": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/cast/rose_en.mp3",
+            "hi": "assets/rani_lakshmibai_s_stand_at_kotah_ki_serai/audio/cast/rose_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "stands",
+                "t": 287.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 712.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 840.0,
+                "d": 212.0
+              },
+              {
+                "w": "red",
+                "t": 1053.0,
+                "d": 212.0
+              },
+              {
+                "w": "and",
+                "t": 1265.0,
+                "d": 170.0
+              },
+              {
+                "w": "gold",
+                "t": 1436.0,
+                "d": 765.0
+              },
+              {
+                "w": "calm",
+                "t": 2329.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 2797.0,
+                "d": 254.0
+              },
+              {
+                "w": "unbending",
+                "t": 3052.0,
+                "d": 1362.0
+              },
+              {
+                "w": "the",
+                "t": 4414.0,
+                "d": 212.0
+              },
+              {
+                "w": "man",
+                "t": 4627.0,
+                "d": 255.0
+              },
+              {
+                "w": "who",
+                "t": 4882.0,
+                "d": 170.0
+              },
+              {
+                "w": "plans",
+                "t": 5053.0,
+                "d": 425.0
+              },
+              {
+                "w": "every",
+                "t": 5478.0,
+                "d": 382.0
+              },
+              {
+                "w": "move",
+                "t": 5861.0,
+                "d": 765.0
+              },
+              {
+                "w": "As",
+                "t": 6968.0,
+                "d": 340.0
+              },
+              {
+                "w": "Lakshmibai",
+                "t": 7308.0,
+                "d": 723.0
+              },
+              {
+                "w": "rides",
+                "t": 8031.0,
+                "d": 340.0
+              },
+              {
+                "w": "for",
+                "t": 8372.0,
+                "d": 169.0
+              },
+              {
+                "w": "hope",
+                "t": 8541.0,
+                "d": 723.0
+              },
+              {
+                "w": "his",
+                "t": 9264.0,
+                "d": 341.0
+              },
+              {
+                "w": "careful",
+                "t": 9606.0,
+                "d": 510.0
+              },
+              {
+                "w": "ruthless",
+                "t": 10117.0,
+                "d": 553.0
+              },
+              {
+                "w": "advance",
+                "t": 10670.0,
+                "d": 510.0
+              },
+              {
+                "w": "tightens",
+                "t": 11180.0,
+                "d": 594.0
+              },
+              {
+                "w": "around",
+                "t": 11775.0,
+                "d": 425.0
+              },
+              {
+                "w": "Jhansi",
+                "t": 12201.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 12968.0,
+                "d": 340.0
+              },
+              {
+                "w": "Gwalior",
+                "t": 13308.0,
+                "d": 638.0
               }
             ],
             "hi": []
