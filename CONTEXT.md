@@ -132,6 +132,12 @@ across a background scenery, voiced. gpt-image-2 has **no transparent background
   it stays consistent), and voiced narration + word timings; writes `app/data/<id>.action.json`.
 - `app/player/action.html?id=<id>` — animates the cut-out over the bg (enter → charge → scale) with
   a parallax background zoom + speed lines + word-highlighted narration. Serve `app/` (see §0B).
+- **Multi-character beats (co-stars):** `action.add_multi_beat(eid, after_pid, bg_desc, narration,
+  cast=[{figure, action, era, region, motion, reuse_img?}], key, langs)` stages several matted
+  cut-outs over one bg plate — each keeps its identity via its own model sheet. In the player a
+  scene carries `panel.chars[]` (each `{img, motion}`); `#actLayer` holds N `<img>` cut-outs with
+  independent entrance motion (`fromX/toX` vw, `scale`, `rotation`, `delay`). Legacy single-char
+  scenes (`panel.char`) still work. Bibles: `tatya_tope`, `british_cavalry_officer_1858`.
 
 **Storytelling depth (updated):** stories are now DEEP, long (~12-18 panels) and for a general +
 ADULT audience — not cut short for kids — while staying historically accurate (`STORYBOARD_SYS`).

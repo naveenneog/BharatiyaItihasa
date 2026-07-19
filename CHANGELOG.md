@@ -5,6 +5,30 @@ problems. Newest first.
 
 ---
 
+## 2026-07-18 (later 6) — Multi-character animated action scenes (co-stars)
+
+@naveenneog: the hero appears often, but we also need other characters (British officers,
+Tatya Tope, and the other relevant figures) to appear in the animated flow too.
+
+- **Multi-character action scenes**: an action beat can now stage several character cut-outs over
+  one background plate, each with its own entrance motion (fromX/toX, scale, rotation, delay), so
+  co-stars share the frame and don't overlap.
+- **Player** (`player.js`): the single `#actChar` `<img>` became an `#actLayer` `<div>` that holds
+  N cut-outs; `setActionScene` reads `panel.chars[]` (falls back to legacy `panel.char`), and
+  `hideChar` cancels + clears them all. Also resets `.mapfit` on the reused bg so an action plate
+  placed after a map scene fills the frame.
+- **Engine** (`action.py`): new `add_multi_beat(eid, after_pid, bg_desc, narration, cast=[...])` —
+  generates the bg plate + one matted model-sheet cut-out per `cast` member (each keeps its identity
+  via its own bible/sheet), voices the narration, and inserts the scene into the manifest.
+- **New character bibles**: `tatya_tope` and `british_cavalry_officer_1858` (era-accurate),
+  registered in `characters/registry.json`.
+
+Wove two co-star beats into the Lakshmibai episode (now **24 scenes**): `action_allies`
+(Rani + Tatya Tope before Gwalior, after p09) and `action_clash` (Rani vs a British cavalry
+officer, after p15). Verified both render two clean, well-separated cut-outs with 0 JS errors.
+
+---
+
 ## 2026-07-18 (later 5) — Opening posters, mood music, simpler words, MAI-Voice-2 Hindi
 
 @naveenneog: add a hero intro + a historic India-map poster before the story; add music during
