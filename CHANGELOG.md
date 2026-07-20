@@ -5,6 +5,28 @@ problems. Newest first.
 
 ---
 
+## 2026-07-21 — 🏛️ The Chola Empire chapter is COMPLETE (13/13)
+
+All thirteen Chola stories are built and QA-clean (visual + audio + emotional + regnal), forming the
+first deep, grouped **chapter** — rise, rule, heroes, wars, craft and the innovations of the age:
+
+- **Rise/founder:** Vijayalaya Seizes Thanjavur; Taming the Kaveri (Grand Anicut irrigation).
+- **Rule/self-governance:** The Village Chooses Its Guardians (Uttaramerur *Kudavolai* palm-leaf ballot);
+  Kundavai (hospitals, temples, arts); Kulottunga (abolished tolls — *Sungam Tavirtta Cholan*).
+- **Heroes/wars:** Rajaraja's Sword; Rajendra Brings the Ganges South; Rajendra's Fleet to Srivijaya (1025 CE).
+- **Craft/faith/letters:** Rajaraja Raises Brihadisvara; The Shadow of the Great Vimana (temple engineering);
+  Chola Bronze Artists; Tamil Merchant Guilds; Kamban Sings the Tamil Ramayana.
+
+This session's new/redone Chola stories (Kundavai, Srivijaya, Kulottunga, Kamban + deepened Rajendra) each
+carry **two animated action beats + a 3-band montage**, faces & action clear, emotional voice, regnal names
+spoken as words. Vijayalaya + The Village Chooses Its Guardians are grandfathered from an earlier session
+(one action beat + montage, 23/27 scenes) and QA-clean.
+
+The 12-hour build continues into **breadth** (round-robin across eras) per the non-stop ask. CDN still holds
+at the original 5 approved Chola stories — no redeploy without explicit user OK.
+
+---
+
 ## 2026-07-20 (later 3) — Deeper stories: 2 action beats, redo thin ones, 12h build
 
 @naveenneog: "redo ones whose slides are less than 15, with actions and animations … next 12h

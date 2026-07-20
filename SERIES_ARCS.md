@@ -14,18 +14,33 @@ carries across an arc.
 
 ---
 
-## 🏛️ The Chola Age  *(Medieval — the example that sparked this)*  — **build priority #1**
-Glory, craftsmanship, the seas they sailed and the land they ruled:
-1. **Rajaraja Raises Brihadisvara** — ⏳ — the emperor raises the towering Thanjavur temple; granite,
-   gods and the craftsmanship of a golden age. *(glory + craft)*
-2. **Rajendra Brings the Ganges South** — ✅ — the northern expedition to the Ganga; the new capital
-   Gangaikonda Cholapuram. *(conquest)*
-3. **Tamil Merchant Guilds Sail the Indian Ocean** — ⏳ — the Ainnurruvar/Manigramam guilds and the
-   Chola thalassocracy across Southeast Asia. *(the seas they ruled)*
-4. **Chola Bronze Artists Make the Divine Dance** — ⏳ — the lost-wax Nataraja bronzes; sacred art at
-   its peak. *(craftsmanship)*
-5. **The Chola Village Chooses Its Guardians** — ⏳ — the Uttiramerur inscriptions and village
-   self-government; how the Cholas actually *ruled*. *(rule)*
+## 🏛️ The Chola Empire  *(Medieval — the example that sparked this)*  — **✅ CHAPTER COMPLETE (13/13)**
+A deep, grouped saga — rise, heroes, wars, craft, rule and the innovations of the age. Every story is
+≥15 scenes, voiced en+हिंदी with emotion, hero+map intro, and animated action beats + a 3-band montage.
+**Rise & founder**
+1. **Vijayalaya Seizes Thanjavur** — ✅ — a minor chieftain takes Thanjavur from the Muttaraiyar (~850 CE)
+   and lights the imperial Chola line. *(rise)*
+2. **Taming the Kaveri — the Grand Anicut** — ✅ — Karikala's great dam spreads the Kaveri across the
+   plains. *(innovation — irrigation)*
+**Rule & self-governance**
+3. **The Chola Village Chooses Its Guardians** — ✅ — the Uttaramerur *Kudavolai* palm-leaf ballot: village
+   democracy, term limits, a blindfolded child drawing lots. *(rule — innovation in governance)*
+4. **Kundavai, the Chola Princess** — ✅ — Rajaraja's sister endows hospitals, temples and the arts;
+   power turned toward care. *(rule + craft)*
+5. **Kulottunga, the King Who Abolished Tolls** — ✅ — *Sungam Tavirtta Cholan*; a Chola–Chalukya king frees
+   trade by ending tolls. *(rule — economic reform)*
+**Heroes & wars**
+6. **Rajaraja's Sword — Kandalur to Lanka** — ✅ — the great emperor's conquests across the south and seas.
+7. **Rajendra Brings the Ganges South** — ✅ — the northern march to the Ganga; the new capital
+   Gangaikonda Cholapuram. *(conquest — deepened this session, co-star Mahipala)*
+8. **Rajendra's Fleet to Srivijaya** — ✅ — the 1025 CE naval expedition to Kadaram; the Chola thalassocracy.
+**Craft, faith & letters**
+9. **Rajaraja Raises Brihadisvara** — ✅ — the towering Thanjavur temple; granite and a golden age. *(craft)*
+10. **The Shadow of the Great Vimana** — ✅ — Kunjaramallan the architect and the engineering of the great
+    temple tower. *(innovation — temple engineering)*
+11. **Chola Bronze Artists Make the Divine Dance** — ✅ — the lost-wax Nataraja bronzes. *(craft)*
+12. **Tamil Merchant Guilds Sail the Indian Ocean** — ✅ — the Ainnurruvar/Manigramam guilds and Chola trade.
+13. **Kamban Sings the Tamil Ramayana** — ✅ — the poet Kambar's *Ramavataram*; Tamil letters at their peak.
 
 ## ☸️ Maurya & 🌸 Gupta — the Classical Age  *(Ancient)*
 - **Chandragupta and Chanakya Build an Empire** ⏳ · **Ashoka's Kalinga Change of Heart** ✅ ·
