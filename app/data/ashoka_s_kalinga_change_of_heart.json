@@ -2,7 +2,10 @@
   "id": "ashoka_s_kalinga_change_of_heart",
   "series": "Ancient & Medieval India",
   "title": "Ashoka's Kalinga Change of Heart",
-  "subtitle": "Kalinga and the Mauryan Realm, c. 261 BCE",
+  "title_i18n": {
+    "en": "Ashoka's Kalinga Change of Heart"
+  },
+  "subtitle": "From Blood-Soaked Victory to the Dharma of a King",
   "figure": "Emperor Ashoka",
   "era": "Maurya Empire, c. 261 BCE",
   "region": "Kalinga and the Mauryan realm",
@@ -25,158 +28,241 @@
       "note": "Scholarly translations and historical framing of the edicts."
     }
   ],
-  "cover": "assets/ashoka_s_kalinga_change_of_heart/panels/cover.jpg",
-  "page": "comics/ashoka_s_kalinga_change_of_heart.jpg",
+  "langs": [
+    "en"
+  ],
+  "pages": {
+    "en": "comics/ashoka_s_kalinga_change_of_heart/en.jpg"
+  },
+  "cover": "assets/ashoka_s_kalinga_change_of_heart/img/cover.png",
   "panels": [
     {
       "id": "cover",
-      "image": "assets/ashoka_s_kalinga_change_of_heart/panels/cover.jpg",
-      "shot": "low-angle hero wide",
+      "shot": "low-angle wide of a lone emperor on a rocky ridge above a vast, scarred land",
       "sfx": [],
       "dialogue": [
         {
           "speaker": "",
-          "type": "caption",
-          "text": "Ashoka's Kalinga Change of Heart"
+          "type": "narration",
+          "text": "Ashoka, heir of Chandragupta, conqueror of Kalinga, would carve his own heart on stone and turn an empire from the path of the sword to the path he called dhamma."
         }
       ]
     },
     {
       "id": "p01",
-      "image": "assets/ashoka_s_kalinga_change_of_heart/panels/p01.jpg",
-      "shot": "bird's-eye of battlefield",
-      "sfx": [
-        "ZNN"
-      ],
+      "shot": "epic bird's-eye over a sprawling Mauryan camp before battle",
+      "sfx": [],
       "dialogue": [
         {
           "speaker": "",
-          "type": "caption",
-          "text": "Kalinga, after a fierce Mauryan conquest."
-        },
-        {
-          "speaker": "emperor_ashoka",
-          "type": "thought",
-          "text": "We have won… yet the land feels heavy."
+          "type": "narration",
+          "text": "Around 261 BCE, the Mauryan realm towered over the subcontinent. Only Kalinga, rich and proud on the eastern coast, still stood outside the shadow of Pataliputra."
         }
       ]
     },
     {
       "id": "p02",
-      "image": "assets/ashoka_s_kalinga_change_of_heart/panels/p02.jpg",
-      "shot": "medium shot side profile",
-      "sfx": [
-        "FWSH"
-      ],
+      "shot": "medium close-up profile of Ashoka on horseback, eyes narrowed toward distant Kalinga fortifications",
+      "sfx": [],
       "dialogue": [
         {
-          "speaker": "",
-          "type": "caption",
-          "text": "Ashoka feels the weight of what victory cost."
-        },
-        {
           "speaker": "emperor_ashoka",
-          "type": "thought",
-          "text": "So many hearts shaken… for my ambition."
+          "type": "speech",
+          "text": "Kalinga must be brought under order. The empire must be whole."
         }
       ]
     },
     {
       "id": "p03",
-      "image": "assets/ashoka_s_kalinga_change_of_heart/panels/p03.jpg",
-      "shot": "extreme close-up on determined eyes",
-      "sfx": [
-        "GIT"
-      ],
+      "shot": "wide, slightly elevated view of the battlefield after the clash, smoke hanging over broken formations",
+      "sfx": [],
       "dialogue": [
         {
-          "speaker": "emperor_ashoka",
-          "type": "thought",
-          "text": "This grief will echo across my realm."
-        },
-        {
-          "speaker": "emperor_ashoka",
-          "type": "shout",
-          "text": "No more conquest by the sword!"
+          "speaker": "",
+          "type": "narration",
+          "text": "The clash with Kalinga is not described by Ashoka blow by blow. His stones speak only of the outcome: a kingdom crushed, many thousands taken, and the land subdued."
         }
       ]
     },
     {
       "id": "p04",
-      "image": "assets/ashoka_s_kalinga_change_of_heart/panels/p04.jpg",
-      "shot": "low-angle medium on rock face",
-      "sfx": [
-        "KAKK",
-        "TOK"
-      ],
+      "shot": "long shot of Ashoka on a ridge above the battlefield, small against a vast, quiet devastation",
+      "sfx": [],
       "dialogue": [
         {
           "speaker": "",
-          "type": "caption",
-          "text": "Ashoka orders his remorse carved on stone."
-        },
-        {
-          "speaker": "emperor_ashoka",
-          "type": "speech",
-          "text": "Let all know: I grieve for Kalinga."
+          "type": "narration",
+          "text": "Later, in his thirteenth Rock Edict, Ashoka would recall this view, not as a glory, but as a wound: \"One hundred and fifty thousand were deported; many hundreds of thousands died.\""
         }
       ]
     },
     {
       "id": "p05",
-      "image": "assets/ashoka_s_kalinga_change_of_heart/panels/p05.jpg",
-      "shot": "wide shot of public gathering",
-      "sfx": [
-        "SAA"
-      ],
+      "shot": "close-up on Ashoka's face as he looks downward, eyes shadowed, the battlefield reflected faintly",
+      "sfx": [],
       "dialogue": [
         {
           "speaker": "",
-          "type": "caption",
-          "text": "In new edicts, he promises care and justice."
-        },
-        {
-          "speaker": "emperor_ashoka",
-          "type": "speech",
-          "text": "All people are my children. Your welfare is my duty."
+          "type": "narration",
+          "text": "He names no enemies, no heroes. Instead he records his own heart: grief, deepening. The conqueror begins to see not just captured land, but shattered families."
         }
       ]
     },
     {
       "id": "p06",
-      "image": "assets/ashoka_s_kalinga_change_of_heart/panels/p06.jpg",
-      "shot": "hero wide from behind",
-      "sfx": [
-        "HOO"
-      ],
+      "shot": "medium shot of Ashoka walking slowly among survivors and prisoners, flanked by silent guards",
+      "sfx": [],
       "dialogue": [
         {
           "speaker": "emperor_ashoka",
           "type": "thought",
-          "text": "My conquest shall be by dhamma—through compassion."
-        },
+          "text": "If this is victory, what is defeat?"
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "shot": "intimate mid-close of Ashoka as a Kalinga elder kneels before him, off-frame, only a frail hand visible",
+      "sfx": [],
+      "dialogue": [
         {
           "speaker": "",
           "type": "narration",
-          "text": "True strength is seeing harm, owning it, and choosing a better path."
+          "text": "The edict does not name this moment, yet its tone suggests such encounters. For he writes of \"the greatest sorrow\" falling not only on the conquered, but on the victor who caused it."
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "shot": "low-angle medium shot of Ashoka back in a Mauryan hall, armor set aside, seated heavily on the throne",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "Back in the capital, the emperor who had strengthened the Mauryan machine faced a new adversary: his own conscience. Kalinga had fallen, yet the victory did not sit easily upon him."
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "shot": "slow push-in on Ashoka seated cross-legged in a quiet chamber, a lamp beside him, scrolls or palm leaves nearby",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "By this time, he had already encountered Buddhist teachings. The edicts hint at influences from many traditions, yet show a ruler turning inward, weighing policy against suffering."
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "shot": "medium wide of Ashoka standing before a bare rock face, sculptors and scribes around him, early morning light",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "emperor_ashoka",
+          "type": "speech",
+          "text": "Let this be cut into stone. Let all hear what their king has learned."
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "shot": "close-up of chisel striking rock, with Ashoka's silhouette faint in the background",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "In his Major Rock Edict XIII, he orders his remorse proclaimed: that the slaughter and deportation in Kalinga \"are considered very grievous\" to Devanampriya, the Beloved of the Gods."
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "shot": "medium shot of Ashoka reading back a draft to scribes in a shaded grove near the rock",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "emperor_ashoka",
+          "type": "speech",
+          "text": "No conquest gives him such joy as conquest by dhamma."
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "shot": "wide shot of the Dhauli hill area with the rock edict, Ashoka visiting Kalinga with a smaller retinue",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "At Dhauli and Jaugada he had separate edicts cut, addressed to his officers in Kalinga, binding his remorse to policy, turning feeling into instructions for rule."
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "shot": "medium shot of Ashoka addressing a semi-circle of officials in Kalinga, gesture open yet firm",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "emperor_ashoka",
+          "type": "speech",
+          "text": "All men are my children. You are to ensure their welfare and justice."
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "shot": "close-up on Ashoka’s hand placing a sealed order into an officer’s hands, with villagers visible at a distance",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "These Kalinga edicts speak of fairness in punishment, patience with people, the duty of officials to move among their charges, to report, to correct, to protect."
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "shot": "wide shot of Ashoka’s envoys departing on roads, ships, and forest paths from a central hub",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "Ashoka ordered his message carved and carried across his dominions and beyond, to frontier chiefs and neighboring rulers, seeking not more territory, but regard for his dhamma."
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "shot": "medium shot of an older Ashoka standing by a pillar, hand resting on its polished surface, city life behind him",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "Later Buddhist traditions would make him a saint-king, polishing the tale. The stones themselves show a human ruler, flawed yet altering the very purpose of his power."
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "shot": "high, contemplative wide of the rock edicts and pillars enduring in a quiet landscape centuries later",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "In choosing to admit the hurt he caused, Ashoka set a rare mark in political history: a conqueror who declared remorse and sought to rule, thereafter, by conscience as well as by law."
         }
       ]
     }
-  ],
-  "langs": [
-    "en",
-    "kn",
-    "hi",
-    "ta",
-    "te",
-    "de"
-  ],
-  "pages": {
-    "en": "comics/ashoka_s_kalinga_change_of_heart/en.jpg",
-    "kn": "comics/ashoka_s_kalinga_change_of_heart/kn.jpg",
-    "hi": "comics/ashoka_s_kalinga_change_of_heart/hi.jpg",
-    "ta": "comics/ashoka_s_kalinga_change_of_heart/ta.jpg",
-    "te": "comics/ashoka_s_kalinga_change_of_heart/te.jpg",
-    "de": "comics/ashoka_s_kalinga_change_of_heart/de.jpg"
-  }
+  ]
 }
