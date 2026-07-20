@@ -3,159 +3,183 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>भारतीय इतिहास · Indian History — Timeline</title>
+<title>भारतीय इतिहास · Indian History — Chapters</title>
 <style>
   :root{
     --bg:#0d0b09; --ink:#f3e7d0; --dim:#b7a684; --gold:#e8b64a; --saffron:#e07b2a;
-    --green:#3f7d54; --line:rgba(232,182,74,.28); --card:#191308;
+    --line:rgba(232,182,74,.26); --card:#191308;
   }
   *{box-sizing:border-box}
-  html,body{margin:0;background:
-     radial-gradient(1200px 640px at 50% -8%, #241a10 0%, var(--bg) 62%) fixed;
+  html,body{margin:0;background:radial-gradient(1200px 640px at 50% -8%,#241a10 0%,var(--bg) 62%) fixed;
      color:var(--ink);font-family:"Segoe UI",system-ui,Roboto,sans-serif}
   a{color:inherit;text-decoration:none}
   header{padding:40px 24px 6px;text-align:center}
   .brand{font-size:12px;letter-spacing:.44em;color:var(--gold);text-transform:uppercase}
-  h1{margin:.26em 0 .12em;font-size:clamp(28px,5vw,52px);font-weight:800;
-     background:linear-gradient(180deg,#fff5df,#e8b64a 70%,#c8862f);
-     -webkit-background-clip:text;background-clip:text;color:transparent}
-  .sub{color:var(--dim);font-size:15px;max-width:640px;margin:.2em auto 0;line-height:1.5}
-  .count{margin-top:12px;font-size:12.5px;color:var(--dim)}
-  .count b{color:var(--gold)}
-  main{max-width:1080px;margin:22px auto 70px;padding:0 18px}
+  h1{margin:.26em 0 .12em;font-size:clamp(28px,5vw,50px);font-weight:800;
+     background:linear-gradient(180deg,#fff5df,#e8b64a 70%,#c8862f);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .sub{color:var(--dim);font-size:15px;max-width:660px;margin:.2em auto 0;line-height:1.5}
+  .count{margin-top:12px;font-size:12.5px;color:var(--dim)}.count b{color:var(--gold)}
+  main{max-width:1140px;margin:22px auto 70px;padding:0 18px}
+  .shead{display:flex;align-items:baseline;gap:12px;margin:34px 4px 6px;border-bottom:1px solid var(--line);padding-bottom:8px}
+  .shead .k{font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--saffron);font-weight:700}
+  .shead .t{font-size:13px;color:var(--dim)}
 
-  /* ---- accordion ---- */
-  .period{border:1px solid var(--line);border-radius:16px;margin:16px 0;overflow:hidden;
-     background:linear-gradient(180deg,rgba(25,19,8,.72),rgba(13,11,9,.4))}
-  .phead{display:flex;align-items:center;gap:16px;width:100%;border:0;cursor:pointer;
-     padding:20px 22px;background:transparent;color:var(--ink);text-align:left;transition:.2s}
-  .phead:hover{background:rgba(232,182,74,.06)}
-  .pnum{flex:none;width:44px;height:44px;border-radius:50%;display:grid;place-items:center;
-     font-weight:800;font-size:18px;color:#1a0f04;background:linear-gradient(180deg,#f0c15a,#cf8f2c);
-     box-shadow:0 0 0 4px rgba(232,182,74,.12)}
-  .pinfo{flex:1;min-width:0}
-  .plabel{font-size:22px;font-weight:800;letter-spacing:.01em}
-  .pblurb{font-size:13px;color:var(--dim);margin-top:2px}
-  .pmeta{flex:none;text-align:right;display:flex;align-items:center;gap:14px}
-  .prange{font-size:12.5px;color:var(--gold);letter-spacing:.03em;white-space:nowrap}
-  .pcount{font-size:11.5px;color:var(--dim);border:1px solid var(--line);border-radius:20px;
-     padding:3px 10px;white-space:nowrap}
-  .chev{font-size:14px;color:var(--gold);transition:transform .3s;transform:rotate(90deg)}
-  .period.open .chev{transform:rotate(-90deg)}
-  .pwrap{display:grid;grid-template-rows:0fr;transition:grid-template-rows .4s ease}
-  .period.open .pwrap{grid-template-rows:1fr}
-  .pbody{overflow:hidden}
-  .pinner{padding:6px 22px 26px}
+  /* chapter */
+  .chapter{border:1px solid var(--line);border-radius:18px;margin:16px 0;overflow:hidden;
+     background:linear-gradient(180deg,rgba(30,22,10,.8),rgba(13,11,9,.4))}
+  .chead{display:flex;align-items:center;gap:18px;width:100%;border:0;cursor:pointer;padding:22px 24px;
+     background:transparent;color:var(--ink);text-align:left}
+  .chead:hover{background:rgba(232,182,74,.05)}
+  .cbadge{flex:none;width:52px;height:52px;border-radius:14px;display:grid;place-items:center;font-size:26px;
+     background:linear-gradient(180deg,#f0c15a,#cf8f2c);box-shadow:0 0 0 4px rgba(232,182,74,.12)}
+  .cinfo{flex:1;min-width:0}
+  .cname{font-size:25px;font-weight:800}
+  .cblurb{font-size:13.5px;color:var(--dim);margin-top:3px;line-height:1.4}
+  .cprog{flex:none;text-align:right;min-width:130px}
+  .cprog .n{font-size:12.5px;color:var(--gold);white-space:nowrap}
+  .bar{margin-top:6px;height:6px;border-radius:6px;background:rgba(255,255,255,.08);overflow:hidden}
+  .bar>i{display:block;height:100%;background:linear-gradient(90deg,#e07b2a,#f0c15a)}
+  .chev{margin-left:12px;color:var(--gold);transition:transform .3s;transform:rotate(90deg);font-size:14px}
+  .chapter.open .chev{transform:rotate(-90deg)}
+  .cwrap{display:grid;grid-template-rows:0fr;transition:grid-template-rows .4s ease}
+  .chapter.open .cwrap{grid-template-rows:1fr}
+  .cbody{overflow:hidden}.cinner{padding:4px 24px 26px}
+  .part{margin:20px 0 10px}
+  .ptitle{font-size:15px;font-weight:800;color:var(--gold);letter-spacing:.02em;
+     display:flex;align-items:center;gap:10px}
+  .ptitle::after{content:"";flex:1;height:1px;background:var(--line)}
+  .stories{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;margin-top:12px}
 
-  /* ---- timeline ---- */
-  .entry{display:grid;grid-template-columns:96px 1fr;gap:0}
-  .when{text-align:right;padding:22px 16px 0 0}
-  .yr{font-weight:800;font-size:14px;color:var(--gold);white-space:nowrap}
-  .track{position:relative;border-left:2px solid var(--line);padding:16px 0 16px 26px}
-  .entry:last-child .track{border-left-color:transparent}
-  .track::before{content:"";position:absolute;left:-8px;top:24px;width:13px;height:13px;
-     border-radius:50%;background:linear-gradient(180deg,#f0c15a,#cf8f2c);
-     box-shadow:0 0 0 4px var(--bg),0 0 14px rgba(232,182,74,.6)}
-  .tcard{display:flex;gap:14px;border:1px solid var(--line);border-radius:13px;overflow:hidden;
-     background:var(--card);box-shadow:0 8px 24px rgba(0,0,0,.45);transition:.22s}
-  .tcard:hover{transform:translateY(-3px);border-color:rgba(232,182,74,.55);
-     box-shadow:0 14px 32px rgba(0,0,0,.6)}
-  .tthumb{flex:none;width:190px;aspect-ratio:16/11;position:relative;background:#000}
-  .tthumb img{width:100%;height:100%;object-fit:cover;object-position:50% 30%}
-  .tthumb::after{content:"";position:absolute;inset:0;
-     background:linear-gradient(90deg,rgba(0,0,0,0) 55%,rgba(25,19,8,.9) 100%)}
-  .flag{position:absolute;top:8px;left:8px;z-index:2;font-size:9.5px;letter-spacing:.1em;
-     text-transform:uppercase;padding:3px 8px;border-radius:20px;font-weight:700;
-     background:rgba(224,123,42,.92);color:#1a0f06}
-  .tinfo{flex:1;min-width:0;padding:13px 15px 13px 2px;display:flex;flex-direction:column;gap:7px}
-  .tfig{font-size:18px;font-weight:800;line-height:1.15}
-  .tera{font-size:11.5px;color:var(--gold);letter-spacing:.02em}
-  .tleg{font-size:13px;color:var(--dim);font-style:italic;line-height:1.4;flex:1}
-  .chips{display:flex;flex-wrap:wrap;gap:5px}
-  .chip{font-size:10px;color:var(--dim);border:1px solid var(--line);border-radius:20px;padding:2px 7px}
-  .row{display:flex;gap:8px;margin-top:2px}
-  .btn{padding:7px 14px;border-radius:8px;font-weight:700;font-size:12.5px;border:1px solid var(--line);
-     transition:.16s}
+  .story{border:1px solid var(--line);border-radius:13px;overflow:hidden;background:var(--card);
+     display:flex;flex-direction:column;transition:.2s}
+  a.story:hover{transform:translateY(-3px);border-color:rgba(232,182,74,.55);box-shadow:0 12px 28px rgba(0,0,0,.55)}
+  .sthumb{position:relative;aspect-ratio:16/10;background:#0a0806;overflow:hidden}
+  .sthumb img{width:100%;height:100%;object-fit:cover;object-position:50% 30%}
+  .sthumb::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,0) 45%,rgba(20,15,8,.92))}
+  .sflag{position:absolute;top:8px;left:8px;z-index:2;font-size:9px;letter-spacing:.1em;text-transform:uppercase;
+     padding:3px 8px;border-radius:20px;font-weight:700;background:rgba(224,123,42,.92);color:#1a0f06}
+  .snum{position:absolute;top:8px;right:8px;z-index:2;font-size:10.5px;color:var(--gold);background:rgba(0,0,0,.5);
+     border:1px solid var(--line);border-radius:20px;padding:2px 8px}
+  .sbody{padding:11px 13px 13px;display:flex;flex-direction:column;gap:6px;flex:1}
+  .sfig{font-size:16px;font-weight:800;line-height:1.15}
+  .sera{font-size:11px;color:var(--gold)}
+  .sleg{font-size:12.5px;color:var(--dim);font-style:italic;line-height:1.4;flex:1}
+  .srow{display:flex;gap:7px;margin-top:2px}
+  .btn{padding:6px 11px;border-radius:7px;font-weight:700;font-size:12px;border:1px solid var(--line);transition:.16s}
   .btn.en{background:linear-gradient(180deg,#f0c15a,#d1932f);color:#1a0f04}
   .btn.hi{background:rgba(255,255,255,.05);color:var(--ink)}
-  .btn:hover{filter:brightness(1.08);border-color:rgba(232,182,74,.6)}
-  .scenes{font-size:11px;color:var(--dim);align-self:center;margin-left:auto}
-  .empty{color:var(--dim);font-style:italic;padding:14px 0 6px 26px;font-size:13.5px}
+  .btn:hover{filter:brightness(1.08)}
+  .story.soon{opacity:.62;border-style:dashed}
+  .sthumb.soon{display:grid;place-items:center;aspect-ratio:16/10;
+     background:repeating-linear-gradient(45deg,#141009,#141009 12px,#181207 12px,#181207 24px)}
+  .soon-b{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--dim);border:1px solid var(--line);border-radius:20px;padding:4px 12px}
+
+  /* era timelines */
+  .period{border:1px solid var(--line);border-radius:14px;margin:14px 0;overflow:hidden;background:rgba(20,15,8,.4)}
+  .phead{display:flex;align-items:center;gap:14px;width:100%;border:0;cursor:pointer;padding:16px 20px;background:transparent;color:var(--ink);text-align:left}
+  .phead:hover{background:rgba(232,182,74,.05)}
+  .pnum{flex:none;width:38px;height:38px;border-radius:50%;display:grid;place-items:center;font-weight:800;color:#1a0f04;background:linear-gradient(180deg,#f0c15a,#cf8f2c)}
+  .pinfo{flex:1}.plabel{font-size:19px;font-weight:800}.pblurb{font-size:12.5px;color:var(--dim)}
+  .pmeta{flex:none;display:flex;align-items:center;gap:12px}.prange{font-size:12px;color:var(--gold)}
+  .pcount{font-size:11px;color:var(--dim);border:1px solid var(--line);border-radius:20px;padding:2px 9px}
+  .period .cwrap{display:grid;grid-template-rows:0fr;transition:grid-template-rows .4s}
+  .period.open .cwrap{grid-template-rows:1fr}
+  .timeline{padding:6px 20px 20px}
+  .entry{display:grid;grid-template-columns:88px 1fr}
+  .when{text-align:right;padding:18px 14px 0 0}.yr{font-weight:800;font-size:13px;color:var(--gold)}
+  .track{position:relative;border-left:2px solid var(--line);padding:14px 0 14px 24px}
+  .entry:last-child .track{border-left-color:transparent}
+  .track::before{content:"";position:absolute;left:-8px;top:22px;width:12px;height:12px;border-radius:50%;
+     background:linear-gradient(180deg,#f0c15a,#cf8f2c);box-shadow:0 0 0 4px var(--bg)}
+  .tcard{display:flex;gap:13px;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:var(--card);transition:.2s}
+  .tcard:hover{transform:translateY(-2px);border-color:rgba(232,182,74,.5)}
+  .tthumb{flex:none;width:150px;aspect-ratio:16/11}.tthumb img{width:100%;height:100%;object-fit:cover;object-position:50% 30%}
+  .tinfo{flex:1;min-width:0;padding:11px 13px}.tfig{font-size:16px;font-weight:800}.tera{font-size:11px;color:var(--gold);margin:2px 0 5px}
   footer{text-align:center;color:var(--dim);font-size:12px;padding:0 20px 40px}
-  @media(max-width:640px){
-    .tcard{flex-direction:column}.tthumb{width:100%;aspect-ratio:16/9}
-    .tthumb::after{background:linear-gradient(180deg,rgba(0,0,0,0) 55%,rgba(25,19,8,.9) 100%)}
-    .entry{grid-template-columns:64px 1fr}.pmeta .pblurb{display:none}
-  }
+  @media(max-width:600px){.tcard{flex-direction:column}.tthumb{width:100%}.entry{grid-template-columns:56px 1fr}}
 </style>
 </head>
 <body>
 <header>
   <div class="brand">Bhāratīya Itihāsa</div>
-  <h1>The Timeline of Indian History</h1>
-  <p class="sub">India's history as voiced, word-highlighted anime motion-comics — character-consistent
-     and historically accurate, in English &amp; हिंदी. Open an era to walk its timeline.</p>
+  <h1>Indian History, Told in Full</h1>
+  <p class="sub">Not half-told textbook footnotes — deep, voiced, animated chapters. We take one era
+     or empire at a time and build its whole saga: rise, heroes, wars, craft, innovations and legacy.</p>
   <div class="count" id="count"></div>
 </header>
-<main id="main"><p style="text-align:center;color:var(--dim);padding:50px">Loading timeline…</p></main>
-<footer>Click a hero to play the voiced motion-comic. New stories are still being built — refresh to see the timeline grow.</footer>
+<main id="main"><p style="text-align:center;color:var(--dim);padding:50px">Loading…</p></main>
+<footer>Each chapter is built story by story — ▶ plays a voiced motion-comic; “coming soon” cards are being written now. Refresh to watch a chapter fill in.</footer>
 
 <script>
 const NUM = {"Ancient":"I","Medieval":"II","Freedom Struggle":"III"};
-fetch("data/episodes.json?v=" + Date.now()).then(r => r.json()).then(data => {
-  const main = document.getElementById("main");
-  main.innerHTML = "";
-  document.getElementById("count").innerHTML =
-     "<b>" + data.count + "</b> stories · three eras · voiced &amp; animated · more building";
+function esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;");}
 
-  data.periods.forEach((p, i) => {
-    const sec = document.createElement("section");
-    sec.className = "period" + (p.count ? " open" : "");
-    const entries = p.episodes.map(ep => {
-      const hi = (ep.langs || ["en"]).includes("hi");
-      return `
-      <div class="entry">
-        <div class="when"><div class="yr">${ep.year_label || ""}</div></div>
-        <div class="track">
-          <a class="tcard" href="player/index.html?ep=${ep.id}&lang=en">
-            <div class="tthumb">${ep.flagship ? '<span class="flag">Flagship</span>' : ''}
-              <img loading="lazy" src="${ep.thumb}" alt="${ep.figure}"></div>
-            <div class="tinfo">
-              <div class="tfig">${ep.figure || ep.title}</div>
-              <div class="tera">${ep.era || ""}</div>
-              <div class="tleg">${ep.legend ? "“" + ep.legend + "”" : (ep.epithets || []).join(" · ")}</div>
-              <div class="chips">${(ep.epithets || []).map(e => `<span class="chip">${e}</span>`).join("")}
-                <span class="scenes">${ep.scenes} scenes</span></div>
-              <div class="row">
-                <span class="btn en" onclick="event.preventDefault();event.stopPropagation();location.href='player/index.html?ep=${ep.id}&lang=en'">▶ English</span>
-                ${hi ? `<span class="btn hi" onclick="event.preventDefault();event.stopPropagation();location.href='player/index.html?ep=${ep.id}&lang=hi'">▶ हिंदी</span>` : ""}
-              </div>
-            </div>
-          </a>
-        </div>
-      </div>`;
-    }).join("");
-    sec.innerHTML = `
-      <button class="phead">
-        <span class="pnum">${NUM[p.key] || (i + 1)}</span>
-        <span class="pinfo"><span class="plabel">${p.label}</span><span class="pblurb">${p.blurb}</span></span>
-        <span class="pmeta">
-          <span class="prange">${p.range || p.hint}</span>
-          <span class="pcount">${p.count} ${p.count === 1 ? "story" : "stories"}</span>
-          <span class="chev">▸</span>
-        </span>
-      </button>
-      <div class="pwrap"><div class="pbody"><div class="pinner">
-        ${p.count ? '<div class="timeline">' + entries + '</div>'
-                  : '<div class="empty">Stories from this era are being written — check back soon.</div>'}
-      </div></div></div>`;
-    sec.querySelector(".phead").addEventListener("click", () => sec.classList.toggle("open"));
-    main.appendChild(sec);
-  });
-}).catch(() => {
-  document.getElementById("main").innerHTML =
-     '<p style="text-align:center;color:var(--dim);padding:50px">Could not load episodes.json — run <code>python tools/gallery.py</code>.</p>';
-});
+function storyCard(e){
+  if(!e.built){
+    return `<div class="story soon"><div class="sthumb soon"><span class="soon-b">Coming soon</span></div>
+      <div class="sbody"><div class="sfig">${esc(e.figure||e.title)}</div>
+      <div class="sera">${esc(e.era)}</div><div class="sleg">${esc(e.legend)}</div></div></div>`;
+  }
+  const hi=(e.langs||["en"]).includes("hi");
+  return `<a class="story" href="player/index.html?ep=${e.id}&lang=en">
+    <div class="sthumb">${e.flagship?'<span class="sflag">Flagship</span>':''}<span class="snum">${e.scenes} scenes</span>
+      <img loading="lazy" src="${e.thumb}" alt="${esc(e.figure)}"></div>
+    <div class="sbody"><div class="sfig">${esc(e.figure||e.title)}</div><div class="sera">${esc(e.era)}</div>
+      <div class="sleg">${e.legend?"“"+esc(e.legend)+"”":""}</div>
+      <div class="srow"><span class="btn en" onclick="event.preventDefault();location.href='player/index.html?ep=${e.id}&lang=en'">▶ English</span>
+      ${hi?`<span class="btn hi" onclick="event.preventDefault();location.href='player/index.html?ep=${e.id}&lang=hi'">▶ हिंदी</span>`:''}</div>
+    </div></a>`;
+}
+
+fetch("data/episodes.json?v="+Date.now()).then(r=>r.json()).then(data=>{
+  const main=document.getElementById("main"); main.innerHTML="";
+  document.getElementById("count").innerHTML="<b>"+data.built+"</b> stories built · grouped into chapters · voiced in English &amp; हिंदी · more being written";
+
+  if(data.chapters && data.chapters.length){
+    const h=document.createElement("div"); h.className="shead";
+    h.innerHTML='<span class="k">Chapters</span><span class="t">complete, grouped sagas — built story by story</span>';
+    main.appendChild(h);
+    data.chapters.forEach(c=>{
+      const pct=c.total?Math.round(100*c.built/c.total):0;
+      const sec=document.createElement("section"); sec.className="chapter open";
+      const parts=c.parts.map(p=>`
+        <div class="part"><div class="ptitle">${esc(p.part)}</div>
+          <div class="stories">${p.episodes.map(storyCard).join("")}</div></div>`).join("");
+      sec.innerHTML=`<button class="chead"><span class="cbadge">📜</span>
+        <span class="cinfo"><span class="cname">${esc(c.chapter)}</span><span class="cblurb">${esc(c.blurb)}</span></span>
+        <span class="cprog"><span class="n">${c.built} of ${c.total} stories</span><span class="bar"><i style="width:${pct}%"></i></span></span>
+        <span class="chev">▸</span></button>
+        <div class="cwrap"><div class="cbody"><div class="cinner">${parts}</div></div></div>`;
+      sec.querySelector(".chead").addEventListener("click",()=>sec.classList.toggle("open"));
+      main.appendChild(sec);
+    });
+  }
+
+  const tl=(data.periods||[]).filter(p=>p.count>0);
+  if(tl.length){
+    const h=document.createElement("div"); h.className="shead";
+    h.innerHTML='<span class="k">More stories</span><span class="t">standalone heroes, by era — future chapters in the making</span>';
+    main.appendChild(h);
+    tl.forEach(p=>{
+      const sec=document.createElement("section"); sec.className="period open";
+      const entries=p.episodes.map(e=>{const hi=(e.langs||["en"]).includes("hi");return `
+        <div class="entry"><div class="when"><div class="yr">${e.year_label||""}</div></div>
+        <div class="track"><a class="tcard" href="player/index.html?ep=${e.id}&lang=en">
+          <div class="tthumb"><img loading="lazy" src="${e.thumb}" alt="${esc(e.figure)}"></div>
+          <div class="tinfo"><div class="tfig">${esc(e.figure||e.title)}</div><div class="tera">${esc(e.era)}</div>
+            <div class="sleg">${e.legend?"“"+esc(e.legend)+"”":""}</div>
+            <div class="srow"><span class="btn en" onclick="event.preventDefault();location.href='player/index.html?ep=${e.id}&lang=en'">▶ EN</span>
+            ${hi?`<span class="btn hi" onclick="event.preventDefault();location.href='player/index.html?ep=${e.id}&lang=hi'">▶ हिं</span>`:''}</div>
+          </div></a></div></div>`;}).join("");
+      sec.innerHTML=`<button class="phead"><span class="pnum">${NUM[p.key]||""}</span>
+        <span class="pinfo"><span class="plabel">${esc(p.label)}</span><span class="pblurb">${esc(p.blurb)}</span></span>
+        <span class="pmeta"><span class="prange">${p.range||p.hint}</span><span class="pcount">${p.count}</span><span class="chev">▸</span></span></button>
+        <div class="cwrap"><div class="cbody"><div class="timeline">${entries}</div></div></div>`;
+      sec.querySelector(".phead").addEventListener("click",()=>sec.classList.toggle("open"));
+      main.appendChild(sec);
+    });
+  }
+}).catch(()=>{document.getElementById("main").innerHTML='<p style="text-align:center;color:var(--dim);padding:50px">Could not load episodes.json — run <code>python tools/gallery.py</code>.</p>';});
 </script>
 </body>
 </html>
