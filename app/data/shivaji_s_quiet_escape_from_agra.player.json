@@ -875,6 +875,149 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/shivaji_s_quiet_escape_from_agra/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/shivaji_s_quiet_escape_from_agra/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Moving like a shadow through Mughal corridors, Shivaji measures each step, turning the enemy’s fortress into his own hunting ground.",
+            "hi": "मुग़ल गलियारों में साया बनकर चलते हुए, शिवाजी हर क़दम तोलते हैं, दुश्मन का क़िला अपना शिकार-मैदान बना देते हैं।"
+          },
+          "audio": {
+            "en": "assets/shivaji_s_quiet_escape_from_agra/audio/action/action_auto_en.mp3",
+            "hi": "assets/shivaji_s_quiet_escape_from_agra/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Moving",
+                "t": 80.0,
+                "d": 505.0
+              },
+              {
+                "w": "like",
+                "t": 586.0,
+                "d": 229.0
+              },
+              {
+                "w": "a",
+                "t": 816.0,
+                "d": 45.0
+              },
+              {
+                "w": "shadow",
+                "t": 862.0,
+                "d": 505.0
+              },
+              {
+                "w": "through",
+                "t": 1367.0,
+                "d": 551.0
+              },
+              {
+                "w": "Mughal",
+                "t": 1965.0,
+                "d": 275.0
+              },
+              {
+                "w": "corridors",
+                "t": 2241.0,
+                "d": 689.0
+              },
+              {
+                "w": "Shivaji",
+                "t": 2977.0,
+                "d": 735.0
+              },
+              {
+                "w": "measures",
+                "t": 3712.0,
+                "d": 551.0
+              },
+              {
+                "w": "each",
+                "t": 4264.0,
+                "d": 367.0
+              },
+              {
+                "w": "step",
+                "t": 4632.0,
+                "d": 919.0
+              },
+              {
+                "w": "turning",
+                "t": 5643.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 6103.0,
+                "d": 183.0
+              },
+              {
+                "w": "enemy’s",
+                "t": 6333.0,
+                "d": 505.0
+              },
+              {
+                "w": "fortress",
+                "t": 6839.0,
+                "d": 597.0
+              },
+              {
+                "w": "into",
+                "t": 7436.0,
+                "d": 321.0
+              },
+              {
+                "w": "his",
+                "t": 7758.0,
+                "d": 229.0
+              },
+              {
+                "w": "own",
+                "t": 7988.0,
+                "d": 413.0
+              },
+              {
+                "w": "hunting",
+                "t": 8402.0,
+                "d": 459.0
+              },
+              {
+                "w": "ground",
+                "t": 8862.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p03",
       "art": "assets/shivaji_s_quiet_escape_from_agra/img/p03.png",
       "shot": "over-the-shoulder on doorway",
@@ -1321,6 +1464,149 @@
       ]
     },
     {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/shivaji_s_quiet_escape_from_agra/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/shivaji_s_quiet_escape_from_agra/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With every stride toward the open fields, chains of captivity snap, and the night wind carries the promise of Swaraj.",
+            "hi": "हर कदम खुली ज़मीन की ओर, ज़ंजीरें टूटती हैं… रात की हवा स्वराज का वादा फुसफुसाती है।"
+          },
+          "audio": {
+            "en": "assets/shivaji_s_quiet_escape_from_agra/audio/action/action_auto2_en.mp3",
+            "hi": "assets/shivaji_s_quiet_escape_from_agra/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 70.0,
+                "d": 320.0
+              },
+              {
+                "w": "every",
+                "t": 390.0,
+                "d": 360.0
+              },
+              {
+                "w": "stride",
+                "t": 750.0,
+                "d": 480.0
+              },
+              {
+                "w": "toward",
+                "t": 1230.0,
+                "d": 360.0
+              },
+              {
+                "w": "the",
+                "t": 1590.0,
+                "d": 120.0
+              },
+              {
+                "w": "open",
+                "t": 1710.0,
+                "d": 319.0
+              },
+              {
+                "w": "fields",
+                "t": 2029.0,
+                "d": 641.0
+              },
+              {
+                "w": "chains",
+                "t": 2869.0,
+                "d": 480.0
+              },
+              {
+                "w": "of",
+                "t": 3349.0,
+                "d": 161.0
+              },
+              {
+                "w": "captivity",
+                "t": 3510.0,
+                "d": 600.0
+              },
+              {
+                "w": "snap",
+                "t": 4110.0,
+                "d": 800.0
+              },
+              {
+                "w": "and",
+                "t": 4950.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 5190.0,
+                "d": 120.0
+              },
+              {
+                "w": "night",
+                "t": 5310.0,
+                "d": 400.0
+              },
+              {
+                "w": "wind",
+                "t": 5710.0,
+                "d": 440.0
+              },
+              {
+                "w": "carries",
+                "t": 6150.0,
+                "d": 360.0
+              },
+              {
+                "w": "the",
+                "t": 6510.0,
+                "d": 160.0
+              },
+              {
+                "w": "promise",
+                "t": 6670.0,
+                "d": 520.0
+              },
+              {
+                "w": "of",
+                "t": 7230.0,
+                "d": 200.0
+              },
+              {
+                "w": "Swaraj",
+                "t": 7430.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p05",
       "art": "assets/shivaji_s_quiet_escape_from_agra/img/p05.png",
       "shot": "wide night shot on road leaving Agra",
@@ -1440,6 +1726,148 @@
                 "w": "live",
                 "t": 3618.4,
                 "d": 329.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/shivaji_s_quiet_escape_from_agra/split_auto/s0.png",
+          "slogan": {
+            "en": "Swaraj for Bharat, onward!",
+            "hi": "स्वराज्य हेतु, आगे बढ़ो!"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/shivaji_s_quiet_escape_from_agra/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/shivaji_s_quiet_escape_from_agra/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Mughal chains to Deccan heights, Shivaji’s daring escape kindles a fire that will blaze across the forts of Hindustan.",
+            "hi": "मुग़ल जंज़ीरों से दक्खनी शिखरों तक, शिवाजी की दिलेरी भाग निकासी वो चिंगारी बनी जो हिंदुस्तान के किलों में आग बनके फैली।"
+          },
+          "audio": {
+            "en": "assets/shivaji_s_quiet_escape_from_agra/audio/split/split_auto_en.mp3",
+            "hi": "assets/shivaji_s_quiet_escape_from_agra/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "Mughal",
+                "t": 364.0,
+                "d": 375.0
+              },
+              {
+                "w": "chains",
+                "t": 739.0,
+                "d": 375.0
+              },
+              {
+                "w": "to",
+                "t": 1114.0,
+                "d": 208.0
+              },
+              {
+                "w": "Deccan",
+                "t": 1322.0,
+                "d": 333.0
+              },
+              {
+                "w": "heights",
+                "t": 1656.0,
+                "d": 625.0
+              },
+              {
+                "w": "Shivaji’s",
+                "t": 2656.0,
+                "d": 708.0
+              },
+              {
+                "w": "daring",
+                "t": 3364.0,
+                "d": 375.0
+              },
+              {
+                "w": "escape",
+                "t": 3739.0,
+                "d": 373.0
+              },
+              {
+                "w": "kindles",
+                "t": 4113.0,
+                "d": 501.0
+              },
+              {
+                "w": "a",
+                "t": 4656.0,
+                "d": 125.0
+              },
+              {
+                "w": "fire",
+                "t": 4781.0,
+                "d": 708.0
+              },
+              {
+                "w": "that",
+                "t": 5531.0,
+                "d": 250.0
+              },
+              {
+                "w": "will",
+                "t": 5781.0,
+                "d": 208.0
+              },
+              {
+                "w": "blaze",
+                "t": 5989.0,
+                "d": 375.0
+              },
+              {
+                "w": "across",
+                "t": 6364.0,
+                "d": 458.0
+              },
+              {
+                "w": "the",
+                "t": 6822.0,
+                "d": 125.0
+              },
+              {
+                "w": "forts",
+                "t": 6947.0,
+                "d": 375.0
+              },
+              {
+                "w": "of",
+                "t": 7322.0,
+                "d": 125.0
+              },
+              {
+                "w": "Hindustan",
+                "t": 7447.0,
+                "d": 791.0
               }
             ],
             "hi": []
