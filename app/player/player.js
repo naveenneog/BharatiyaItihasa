@@ -5,6 +5,7 @@ const $ = s => document.querySelector(s);
 const qs = new URLSearchParams(location.search);
 let EP = qs.get("ep");
 let LANG = qs.get("lang") || "en";
+const CB = qs.get("v") || Date.now();   // cache-bust manifest + audio so re-voiced clips play fresh
 
 const NATIVE = { en: "English", hi: "हिन्दी", kn: "ಕನ್ನಡ", ta: "தமிழ்", te: "తెలుగు", de: "Deutsch" };
 
@@ -14,7 +15,7 @@ const bgs = [$("#bgA"), $("#bgB")]; let bgCur = 0, kbN = 0;
 
 async function boot() {
   if (!EP) { document.body.innerHTML = "<p style='color:#eee;padding:24px;font:16px sans-serif'>Add <b>?ep=&lt;episode-id&gt;</b> to the URL.</p>"; return; }
-  M = await fetch(`${BASE}data/${EP}.player.json`).then(r => r.json());
+  M = await fetch(`${BASE}data/${EP}.player.json?v=${CB}`).then(r => r.json());
   $("#startTitle").textContent = (M.title_i18n && M.title_i18n[LANG]) || M.title;
   $("#startSub").textContent = [M.figure, M.era].filter(Boolean).join(" · ");
   buildLangSel(); buildProgress(); wireControls();
@@ -302,7 +303,7 @@ function playLine(line, my) {
     const src = line.audio && line.audio[LANG];
     if (src) {
       audio.onended = null; audio.onerror = null;
-      audio.src = BASE + src; audio.muted = muted;
+      audio.src = BASE + src + "?v=" + CB; audio.muted = muted;
       const p = audio.play(); if (p) p.catch(() => {});
       const tick = () => {
         if (done) return;

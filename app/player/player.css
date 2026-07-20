@@ -136,3 +136,37 @@ html,body{height:100%;background:#000;overflow:hidden;font-family:var(--dlg)}
   padding:6px 12px;font-weight:700;font-size:clamp(13px,2vw,20px);white-space:nowrap;
   box-shadow:0 6px 20px rgba(0,0,0,.55)}
 .bg.mapfit{background-size:contain !important;background-repeat:no-repeat;background-color:#0b0a0c}
+
+/* ===================== mobile / touch ===================== */
+/* No hover on touch devices — keep the controls visible (otherwise they're unreachable). */
+@media (hover: none), (pointer: coarse){
+  .controls{opacity:1}
+}
+@media (max-width: 640px){
+  .layer{padding:0 5vw 15vh;gap:1.3vh}
+  .narration .box{font-size:clamp(17px,4.7vw,27px);line-height:1.34;padding:8px 14px}
+  .narration .box::before{margin-bottom:8px}
+  .speech .box,.thought .box{font-size:clamp(15px,4.2vw,22px);max-width:88%;padding:10px 14px}
+  .speech{margin-left:3vw}
+  .who{font-size:11px}
+  .splitlayer .slogan{max-width:60%;font-size:clamp(18px,6.2vw,34px)}
+  .herocard{top:10%;padding:0 5vw;gap:8px}
+  .hero-name{font-size:clamp(26px,9vw,54px)}
+  .hero-epithets{gap:6px 10px}
+  .hero-epithets span{font-size:clamp(11px,3.2vw,15px);padding:3px 9px}
+  .hero-legend{font-size:clamp(13px,4vw,20px)}
+  .epic-title{font-size:clamp(26px,8vw,52px)}
+  .epic-moral{font-size:clamp(17px,5vw,28px)}
+  /* compact control bar with safe-area padding; drop the long dot strip */
+  .controls{gap:6px;padding:9px 10px calc(9px + env(safe-area-inset-bottom))}
+  .controls button{width:42px;height:40px;font-size:16px}
+  .progress{display:none}
+  #langSel{padding:7px 6px;font-size:12px;max-width:104px}
+}
+/* Portrait: scenes were framed for landscape, so lift cut-outs above the control bar and
+   keep faces in view; the hero title starts a little higher. */
+@media (max-width: 760px) and (orientation: portrait){
+  .actlayer img{height:58%;bottom:9%}
+  .actlayer img.spirit{height:52%}
+  .layer{justify-content:flex-end;padding-bottom:17vh}
+}
