@@ -2326,6 +2326,124 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/bahadur_shah_zafar_and_the_red_fort_call/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/bahadur_shah_zafar_and_the_red_fort_call/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As British guns thunder below, Zafar’s frail frame holds the weight of a crumbling empire.",
+            "hi": "नीचे अंग्रेजी तोपें गरजती हैं, ऊपर ज़फ़र की नाज़ुक देह ढहते साम्राज्य का बोझ उठाए है।"
+          },
+          "audio": {
+            "en": "assets/bahadur_shah_zafar_and_the_red_fort_call/audio/action/action_auto_en.mp3",
+            "hi": "assets/bahadur_shah_zafar_and_the_red_fort_call/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "British",
+                "t": 372.0,
+                "d": 382.0
+              },
+              {
+                "w": "guns",
+                "t": 755.0,
+                "d": 340.0
+              },
+              {
+                "w": "thunder",
+                "t": 1095.0,
+                "d": 425.0
+              },
+              {
+                "w": "below",
+                "t": 1521.0,
+                "d": 425.0
+              },
+              {
+                "w": "Zafar’s",
+                "t": 2414.0,
+                "d": 594.0
+              },
+              {
+                "w": "frail",
+                "t": 3009.0,
+                "d": 341.0
+              },
+              {
+                "w": "frame",
+                "t": 3351.0,
+                "d": 638.0
+              },
+              {
+                "w": "holds",
+                "t": 3989.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 4414.0,
+                "d": 170.0
+              },
+              {
+                "w": "weight",
+                "t": 4585.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 4925.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 5053.0,
+                "d": 170.0
+              },
+              {
+                "w": "crumbling",
+                "t": 5223.0,
+                "d": 553.0
+              },
+              {
+                "w": "empire",
+                "t": 5776.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p12",
       "art": "assets/bahadur_shah_zafar_and_the_red_fort_call/img/p12.png",
       "shot": "interior mid-shot of Zafar receiving alarming news from a breathless messenger, papers scattered",
@@ -2658,6 +2776,143 @@
                 "w": "command",
                 "t": 12329.0,
                 "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "battle",
+      "slices": [
+        {
+          "img": "assets/bahadur_shah_zafar_and_the_red_fort_call/split_auto/s0.png",
+          "slogan": {
+            "en": "For faith, Delhi, and honor",
+            "hi": "धर्म, दिल्ली और इज़्ज़त के लिए"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/bahadur_shah_zafar_and_the_red_fort_call/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/bahadur_shah_zafar_and_the_red_fort_call/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across the torn city, faith, fear, and resolve collide as Zafar’s name becomes the last fragile banner of resistance.",
+            "hi": "टूटी हुई दिल्ली में भरोसा, डर और हिम्मत भिड़ते हैं, ज़फ़र का नाम आख़िरी नाज़ुक बग़ावत का झंडा बन जाता है।"
+          },
+          "audio": {
+            "en": "assets/bahadur_shah_zafar_and_the_red_fort_call/audio/split/split_auto_en.mp3",
+            "hi": "assets/bahadur_shah_zafar_and_the_red_fort_call/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 159.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 585.0,
+                "d": 212.0
+              },
+              {
+                "w": "torn",
+                "t": 797.0,
+                "d": 297.0
+              },
+              {
+                "w": "city",
+                "t": 1095.0,
+                "d": 595.0
+              },
+              {
+                "w": "faith",
+                "t": 1734.0,
+                "d": 764.0
+              },
+              {
+                "w": "fear",
+                "t": 2498.0,
+                "d": 724.0
+              },
+              {
+                "w": "and",
+                "t": 3223.0,
+                "d": 381.0
+              },
+              {
+                "w": "resolve",
+                "t": 3605.0,
+                "d": 510.0
+              },
+              {
+                "w": "collide",
+                "t": 4115.0,
+                "d": 511.0
+              },
+              {
+                "w": "as",
+                "t": 4627.0,
+                "d": 340.0
+              },
+              {
+                "w": "Zafar’s",
+                "t": 4968.0,
+                "d": 425.0
+              },
+              {
+                "w": "name",
+                "t": 5393.0,
+                "d": 510.0
+              },
+              {
+                "w": "becomes",
+                "t": 5946.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 6457.0,
+                "d": 170.0
+              },
+              {
+                "w": "last",
+                "t": 6627.0,
+                "d": 468.0
+              },
+              {
+                "w": "fragile",
+                "t": 7095.0,
+                "d": 595.0
+              },
+              {
+                "w": "banner",
+                "t": 7691.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 8244.0,
+                "d": 212.0
+              },
+              {
+                "w": "resistance",
+                "t": 8457.0,
+                "d": 851.0
               }
             ],
             "hi": []
