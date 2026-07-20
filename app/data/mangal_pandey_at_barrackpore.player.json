@@ -1971,6 +1971,114 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/mangal_pandey_at_barrackpore/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/mangal_pandey_at_barrackpore/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With each determined step, his defiance hardens, echoing along the dusty Barrackpore ground.",
+            "hi": "हर ठोस कदम के साथ उसकी जिद और सख्त होती, बरकपुर की धूल भरी ज़मीन पर गूंज उठी।"
+          },
+          "audio": {
+            "en": "assets/mangal_pandey_at_barrackpore/audio/action/action_auto_en.mp3",
+            "hi": "assets/mangal_pandey_at_barrackpore/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "each",
+                "t": 414.0,
+                "d": 425.0
+              },
+              {
+                "w": "determined",
+                "t": 840.0,
+                "d": 595.0
+              },
+              {
+                "w": "step",
+                "t": 1436.0,
+                "d": 765.0
+              },
+              {
+                "w": "his",
+                "t": 2244.0,
+                "d": 296.0
+              },
+              {
+                "w": "defiance",
+                "t": 2541.0,
+                "d": 595.0
+              },
+              {
+                "w": "hardens",
+                "t": 3137.0,
+                "d": 767.0
+              },
+              {
+                "w": "echoing",
+                "t": 4243.0,
+                "d": 596.0
+              },
+              {
+                "w": "along",
+                "t": 4840.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 5180.0,
+                "d": 127.0
+              },
+              {
+                "w": "dusty",
+                "t": 5308.0,
+                "d": 468.0
+              },
+              {
+                "w": "Barrackpore",
+                "t": 5776.0,
+                "d": 595.0
+              },
+              {
+                "w": "ground",
+                "t": 6372.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p11",
       "art": "assets/mangal_pandey_at_barrackpore/img/p11.png",
       "shot": "medium shot, slightly high angle",
@@ -2813,6 +2921,133 @@
                 "w": "why",
                 "t": 3676.5,
                 "d": 330.9
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/mangal_pandey_at_barrackpore/split_auto/s0.png",
+          "slogan": {
+            "en": "Rise, brothers, break their chains",
+            "hi": "उठो भाइयों, तोड़ो उनकी जंजीरें"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/mangal_pandey_at_barrackpore/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/mangal_pandey_at_barrackpore/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As he meets the noose with unblinking eyes, his courage races ahead through cantonments waiting to ignite.",
+            "hi": "फांसी की रस्सी को बिना पलक झपक देखता है, उसका हौसला छावनियों में दौड़ता, चिंगारी बनने को तैयार।"
+          },
+          "audio": {
+            "en": "assets/mangal_pandey_at_barrackpore/audio/split/split_auto_en.mp3",
+            "hi": "assets/mangal_pandey_at_barrackpore/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "he",
+                "t": 372.0,
+                "d": 170.0
+              },
+              {
+                "w": "meets",
+                "t": 542.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 882.0,
+                "d": 127.0
+              },
+              {
+                "w": "noose",
+                "t": 1010.0,
+                "d": 382.0
+              },
+              {
+                "w": "with",
+                "t": 1393.0,
+                "d": 255.0
+              },
+              {
+                "w": "unblinking",
+                "t": 1691.0,
+                "d": 723.0
+              },
+              {
+                "w": "eyes",
+                "t": 2414.0,
+                "d": 552.0
+              },
+              {
+                "w": "his",
+                "t": 3393.0,
+                "d": 254.0
+              },
+              {
+                "w": "courage",
+                "t": 3647.0,
+                "d": 382.0
+              },
+              {
+                "w": "races",
+                "t": 4030.0,
+                "d": 384.0
+              },
+              {
+                "w": "ahead",
+                "t": 4414.0,
+                "d": 382.0
+              },
+              {
+                "w": "through",
+                "t": 4797.0,
+                "d": 297.0
+              },
+              {
+                "w": "cantonments",
+                "t": 5095.0,
+                "d": 765.0
+              },
+              {
+                "w": "waiting",
+                "t": 5861.0,
+                "d": 468.0
+              },
+              {
+                "w": "to",
+                "t": 6329.0,
+                "d": 170.0
+              },
+              {
+                "w": "ignite",
+                "t": 6500.0,
+                "d": 638.0
               }
             ],
             "hi": []
