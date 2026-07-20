@@ -2056,6 +2056,149 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/khudiram_bose_s_young_resolve/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/khudiram_bose_s_young_resolve/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Khudiram runs into the dark countryside, heart steady even as the echo of the explosion rolls across the silent fields.",
+            "hi": "खुदीराम अँधेरे देहात में भागता है, धमाके की गूंज के बीच दिल बिल्कुल ठंडा।"
+          },
+          "audio": {
+            "en": "assets/khudiram_bose_s_young_resolve/audio/action/action_auto_en.mp3",
+            "hi": "assets/khudiram_bose_s_young_resolve/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Khudiram",
+                "t": 117.0,
+                "d": 510.0
+              },
+              {
+                "w": "runs",
+                "t": 670.0,
+                "d": 297.0
+              },
+              {
+                "w": "into",
+                "t": 1010.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 1223.0,
+                "d": 212.0
+              },
+              {
+                "w": "dark",
+                "t": 1436.0,
+                "d": 382.0
+              },
+              {
+                "w": "countryside",
+                "t": 1819.0,
+                "d": 1063.0
+              },
+              {
+                "w": "heart",
+                "t": 3052.0,
+                "d": 468.0
+              },
+              {
+                "w": "steady",
+                "t": 3520.0,
+                "d": 852.0
+              },
+              {
+                "w": "even",
+                "t": 4414.0,
+                "d": 382.0
+              },
+              {
+                "w": "as",
+                "t": 4797.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 4968.0,
+                "d": 127.0
+              },
+              {
+                "w": "echo",
+                "t": 5095.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 5521.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 5861.0,
+                "d": 127.0
+              },
+              {
+                "w": "explosion",
+                "t": 5989.0,
+                "d": 680.0
+              },
+              {
+                "w": "rolls",
+                "t": 6670.0,
+                "d": 595.0
+              },
+              {
+                "w": "across",
+                "t": 7351.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 7819.0,
+                "d": 170.0
+              },
+              {
+                "w": "silent",
+                "t": 7989.0,
+                "d": 468.0
+              },
+              {
+                "w": "fields",
+                "t": 8457.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p10",
       "art": "assets/khudiram_bose_s_young_resolve/img/p10.png",
       "shot": "early-morning rural roadside wide shot",
@@ -3358,6 +3501,143 @@
                 "w": "fire",
                 "t": 14584.0,
                 "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "battle",
+      "slices": [
+        {
+          "img": "assets/khudiram_bose_s_young_resolve/split_auto/s0.png",
+          "slogan": {
+            "en": "Long live Mother India",
+            "hi": "भारत माता की जय"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/khudiram_bose_s_young_resolve/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/khudiram_bose_s_young_resolve/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On the eve of his hanging, Khudiram’s calm resolve ripples across Bengal, stirring young hearts toward defiance and sacrifice.",
+            "hi": "फांसी की पूर्वसंध्या पर, खुदीराम की शांत दृढ़ता बंगाल भर में लहर बनकर उठती है, नौजवान दिलों में बगावत और बलिदान की आग जगा देती है।"
+          },
+          "audio": {
+            "en": "assets/khudiram_bose_s_young_resolve/audio/split/split_auto_en.mp3",
+            "hi": "assets/khudiram_bose_s_young_resolve/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 127.0
+              },
+              {
+                "w": "eve",
+                "t": 457.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 840.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 968.0,
+                "d": 127.0
+              },
+              {
+                "w": "hanging",
+                "t": 1095.0,
+                "d": 936.0
+              },
+              {
+                "w": "Khudiram’s",
+                "t": 2074.0,
+                "d": 680.0
+              },
+              {
+                "w": "calm",
+                "t": 2755.0,
+                "d": 381.0
+              },
+              {
+                "w": "resolve",
+                "t": 3137.0,
+                "d": 468.0
+              },
+              {
+                "w": "ripples",
+                "t": 3605.0,
+                "d": 468.0
+              },
+              {
+                "w": "across",
+                "t": 4073.0,
+                "d": 469.0
+              },
+              {
+                "w": "Bengal",
+                "t": 4542.0,
+                "d": 808.0
+              },
+              {
+                "w": "stirring",
+                "t": 5478.0,
+                "d": 510.0
+              },
+              {
+                "w": "young",
+                "t": 5989.0,
+                "d": 297.0
+              },
+              {
+                "w": "hearts",
+                "t": 6287.0,
+                "d": 425.0
+              },
+              {
+                "w": "toward",
+                "t": 6712.0,
+                "d": 297.0
+              },
+              {
+                "w": "defiance",
+                "t": 7010.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 7648.0,
+                "d": 255.0
+              },
+              {
+                "w": "sacrifice",
+                "t": 7904.0,
+                "d": 935.0
               }
             ],
             "hi": []
