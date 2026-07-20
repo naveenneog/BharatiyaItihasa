@@ -5,6 +5,31 @@ problems. Newest first.
 
 ---
 
+## 2026-07-20 (later) — Animated breadth episodes + multi-episode arcs + timeline home page
+
+@naveenneog: make the new episodes more animated (and show faces + actions clearly); build
+multi-episode arcs for major subjects (Cholas — glory, craft, conquest, rule) not just single
+episodes; and make the home page a three-era timeline.
+
+- **Every episode is now animated** — `grow.py` gives each breadth episode a gpt-4o-authored
+  **action beat** (hero cut-out striding/charging over era scenery) **and a 3-band montage**
+  (hero + battle-cry / a wide scene / an action clash), on top of the hero+map intro and voiced
+  story. Prompts enforce the **band-crop rule**: hero face clear in the top band, a WIDE scene in the
+  middle band (no cropped faces), a clearly-lit action in the bottom band. A `--backfill-beats` pass
+  adds these to the already-built episodes too.
+- **Multi-episode arcs** — the corpus was already arc-structured; `SERIES_ARCS.md` now maps the
+  arcs (Chola ×5, Maurya/Gupta, Rajput ×4, Maratha, Vijayanagara, Ahom, 1857, freedom struggle).
+  Breadth now builds the **Chola arc first** (Rajaraja's temple, the merchant-guild seas, the bronze
+  Nataraja, village self-government) then **round-robins the three series** so the Ancient, Medieval
+  and Freedom-Struggle timelines all grow together instead of one era at a time.
+- **Timeline home page** (`app/index.html`) — three collapsible era accordions (Ancient / Medieval /
+  Freedom Struggle); each opens a chronological timeline of that era's heroes (year marker, dot,
+  card with portrait/legend/EN+हिंदी). `tools/gallery.py` parses a year from each era and files it.
+- Verified the animated beats on Mangal Pandey (action beat + montage, faces & action read clearly),
+  0 JS errors.
+
+---
+
 ## 2026-07-20 — Expand the collection: QA + Rani-level growth of other stories (12h run)
 
 @naveenneog: do thorough visual QA and fix issues; expand the OTHER stories with everything we
