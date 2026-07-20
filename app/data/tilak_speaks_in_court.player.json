@@ -3061,6 +3061,134 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/tilak_speaks_in_court/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/tilak_speaks_in_court/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Even as the sentence looms, Tilak silently vows that truth and Swaraj will outlive any prison walls.",
+            "hi": "सज़ा पास है, पर तिलक मन ही मन कसम खाते हैं – सच और स्वराज किसी जेल से ज्यादा जिएंगे।"
+          },
+          "audio": {
+            "en": "assets/tilak_speaks_in_court/audio/action/action_auto_en.mp3",
+            "hi": "assets/tilak_speaks_in_court/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Even",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "as",
+                "t": 372.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 500.0,
+                "d": 170.0
+              },
+              {
+                "w": "sentence",
+                "t": 670.0,
+                "d": 510.0
+              },
+              {
+                "w": "looms",
+                "t": 1180.0,
+                "d": 638.0
+              },
+              {
+                "w": "Tilak",
+                "t": 2031.0,
+                "d": 424.0
+              },
+              {
+                "w": "silently",
+                "t": 2456.0,
+                "d": 638.0
+              },
+              {
+                "w": "vows",
+                "t": 3094.0,
+                "d": 384.0
+              },
+              {
+                "w": "that",
+                "t": 3478.0,
+                "d": 211.0
+              },
+              {
+                "w": "truth",
+                "t": 3690.0,
+                "d": 596.0
+              },
+              {
+                "w": "and",
+                "t": 4287.0,
+                "d": 340.0
+              },
+              {
+                "w": "Swaraj",
+                "t": 4627.0,
+                "d": 468.0
+              },
+              {
+                "w": "will",
+                "t": 5095.0,
+                "d": 255.0
+              },
+              {
+                "w": "outlive",
+                "t": 5351.0,
+                "d": 553.0
+              },
+              {
+                "w": "any",
+                "t": 5904.0,
+                "d": 382.0
+              },
+              {
+                "w": "prison",
+                "t": 6287.0,
+                "d": 297.0
+              },
+              {
+                "w": "walls",
+                "t": 6585.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p17",
       "art": "assets/tilak_speaks_in_court/img/p17.png",
       "shot": "medium shot outside the court as Tilak is led to a waiting carriage",
@@ -3563,6 +3691,143 @@
                 "w": "nation",
                 "t": 9647.0,
                 "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "battle",
+      "slices": [
+        {
+          "img": "assets/tilak_speaks_in_court/split_auto/s0.png",
+          "slogan": {
+            "en": "Swaraj is my birthright",
+            "hi": "स्वराज मेरा जन्मसिद्ध अधिकार है"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/tilak_speaks_in_court/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/tilak_speaks_in_court/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Mandalay’s silence, Tilak’s words ignite distant hearts, turning quiet streets and villages into a gathering storm of resolve.",
+            "hi": "मंडाले की ख़ामोशी से तिलक की बातें दूर के दिलों में आग लगा दें, सूनी गलियों और गाँवों को इरादों के उठते तूफ़ान में बदल दें।"
+          },
+          "audio": {
+            "en": "assets/tilak_speaks_in_court/audio/split/split_auto_en.mp3",
+            "hi": "assets/tilak_speaks_in_court/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "Mandalay’s",
+                "t": 372.0,
+                "d": 553.0
+              },
+              {
+                "w": "silence",
+                "t": 925.0,
+                "d": 765.0
+              },
+              {
+                "w": "Tilak’s",
+                "t": 2202.0,
+                "d": 468.0
+              },
+              {
+                "w": "words",
+                "t": 2670.0,
+                "d": 424.0
+              },
+              {
+                "w": "ignite",
+                "t": 3137.0,
+                "d": 468.0
+              },
+              {
+                "w": "distant",
+                "t": 3605.0,
+                "d": 425.0
+              },
+              {
+                "w": "hearts",
+                "t": 4030.0,
+                "d": 681.0
+              },
+              {
+                "w": "turning",
+                "t": 5308.0,
+                "d": 425.0
+              },
+              {
+                "w": "quiet",
+                "t": 5734.0,
+                "d": 297.0
+              },
+              {
+                "w": "streets",
+                "t": 6031.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 6755.0,
+                "d": 212.0
+              },
+              {
+                "w": "villages",
+                "t": 6968.0,
+                "d": 510.0
+              },
+              {
+                "w": "into",
+                "t": 7478.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 7861.0,
+                "d": 85.0
+              },
+              {
+                "w": "gathering",
+                "t": 7946.0,
+                "d": 468.0
+              },
+              {
+                "w": "storm",
+                "t": 8414.0,
+                "d": 339.0
+              },
+              {
+                "w": "of",
+                "t": 8754.0,
+                "d": 170.0
+              },
+              {
+                "w": "resolve",
+                "t": 8924.0,
+                "d": 681.0
               }
             ],
             "hi": []
