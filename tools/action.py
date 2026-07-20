@@ -112,7 +112,7 @@ def add_action_beat(eid, after_pid, figure, bg_desc, action_desc, narration, key
         print(f"  beat {key}: matted {matte.cutout(rawc, char)}", flush=True)
 
     adir = C.APP / "assets" / eid / "audio" / "action"
-    text_map, words_map, tok = voice.voice_multi(narration, adir, f"action_{key}", langs, "narrator", tok)
+    text_map, words_map, tok = voice.voice_multi(narration, adir, f"action_{key}", langs, "narrator", tok, mood="battle")
     audio = {lg: f"assets/{eid}/audio/action/action_{key}_{lg}.mp3" for lg in langs}
 
     scene = {"id": f"action_{key}", "type": "action", "mood": "battle",
@@ -192,7 +192,7 @@ def add_multi_beat(eid, after_pid, bg_desc, narration, cast, key="m1", langs=("e
         chars.append(cd)
 
     adir = C.APP / "assets" / eid / "audio" / "action"
-    text_map, words_map, tok = voice.voice_multi(narration, adir, f"action_{key}", langs, "narrator", tok)
+    text_map, words_map, tok = voice.voice_multi(narration, adir, f"action_{key}", langs, "narrator", tok, mood=mood)
     audio = {lg: f"assets/{eid}/audio/action/action_{key}_{lg}.mp3" for lg in langs}
 
     scene = {"id": f"action_{key}", "type": "action", "mood": mood,
@@ -265,7 +265,7 @@ def add_split_beat(eid, after_pid, narration, slices, key="s1", langs=("en",), r
         out_slices.append(so)
 
     adir = C.APP / "assets" / eid / "audio" / "split"
-    text_map, words_map, tok = voice.voice_multi(narration, adir, f"split_{key}", langs, "narrator", tok)
+    text_map, words_map, tok = voice.voice_multi(narration, adir, f"split_{key}", langs, "narrator", tok, mood=mood)
     audio = {lg: f"assets/{eid}/audio/split/split_{key}_{lg}.mp3" for lg in langs}
 
     scene = {"id": f"split_{key}", "type": "split", "mood": mood, "slices": out_slices,

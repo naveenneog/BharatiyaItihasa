@@ -89,8 +89,8 @@ def build_intro(eid, langs=("en",), tok=None, hero_art=None, hero_action=""):
 
     adir = C.APP / "assets" / eid / "audio" / "intro"
     print("  intro voice", flush=True)
-    htext, hwords, tok = voice.voice_multi(d.get("hero_intro", ""), adir, "hero", langs, "narrator", tok)
-    mtext, mwords, tok = voice.voice_multi(d.get("map_narration", ""), adir, "map", langs, "narrator", tok)
+    htext, hwords, tok = voice.voice_multi(d.get("hero_intro", ""), adir, "hero", langs, "narrator", tok, mood="triumph")
+    mtext, mwords, tok = voice.voice_multi(d.get("map_narration", ""), adir, "map", langs, "narrator", tok, mood="suspense")
     hero_audio = {lg: f"assets/{eid}/audio/intro/hero_{lg}.mp3" for lg in langs}
     map_audio = {lg: f"assets/{eid}/audio/intro/map_{lg}.mp3" for lg in langs}
 
@@ -163,7 +163,7 @@ def add_cast_intro(eid, after_pid, figure, action_desc, era="", region="", facts
     dj, tok = ai.chat_json(CAST_INTRO_SYS, user, tok=tok, max_tokens=700)
 
     adir = C.APP / "assets" / eid / "audio" / "cast"
-    itext, iwords, tok = voice.voice_multi(dj.get("intro", ""), adir, key, langs, "narrator", tok)
+    itext, iwords, tok = voice.voice_multi(dj.get("intro", ""), adir, key, langs, "narrator", tok, mood=mood)
     audio = {lg: f"assets/{eid}/audio/cast/{key}_{lg}.mp3" for lg in langs}
     scene = {"id": f"intro_{key}", "type": "hero", "mood": mood,
              "art": f"assets/{eid}/cast/{key}.png", "name": ent["display_name"],
