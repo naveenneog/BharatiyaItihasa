@@ -2781,6 +2781,149 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/kunwar_singh_returns_to_jagdispur/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/kunwar_singh_returns_to_jagdispur/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kunwar Singh steels his tired fighters, turning scattered resolve into a single sharpened will before the British column reaches Jagdispur.",
+            "hi": "कुँवर सिंह थके सिपाहियों में फिर जान भरते हैं, बिखरा हौसला जोड़कर उसे एक धारदार इरादे में बदल देते हैं, इससे पहले कि अंग्रेज टुकड़ी जगदीसपुर पहुँचे।"
+          },
+          "audio": {
+            "en": "assets/kunwar_singh_returns_to_jagdispur/audio/action/action_auto_en.mp3",
+            "hi": "assets/kunwar_singh_returns_to_jagdispur/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kunwar",
+                "t": 159.0,
+                "d": 382.0
+              },
+              {
+                "w": "Singh",
+                "t": 542.0,
+                "d": 255.0
+              },
+              {
+                "w": "steels",
+                "t": 797.0,
+                "d": 468.0
+              },
+              {
+                "w": "his",
+                "t": 1265.0,
+                "d": 255.0
+              },
+              {
+                "w": "tired",
+                "t": 1521.0,
+                "d": 425.0
+              },
+              {
+                "w": "fighters",
+                "t": 1946.0,
+                "d": 765.0
+              },
+              {
+                "w": "turning",
+                "t": 2882.0,
+                "d": 382.0
+              },
+              {
+                "w": "scattered",
+                "t": 3265.0,
+                "d": 510.0
+              },
+              {
+                "w": "resolve",
+                "t": 3776.0,
+                "d": 595.0
+              },
+              {
+                "w": "into",
+                "t": 4414.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 4712.0,
+                "d": 42.0
+              },
+              {
+                "w": "single",
+                "t": 4755.0,
+                "d": 510.0
+              },
+              {
+                "w": "sharpened",
+                "t": 5265.0,
+                "d": 553.0
+              },
+              {
+                "w": "will",
+                "t": 5819.0,
+                "d": 510.0
+              },
+              {
+                "w": "before",
+                "t": 6457.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 6882.0,
+                "d": 127.0
+              },
+              {
+                "w": "British",
+                "t": 7010.0,
+                "d": 340.0
+              },
+              {
+                "w": "column",
+                "t": 7351.0,
+                "d": 340.0
+              },
+              {
+                "w": "reaches",
+                "t": 7691.0,
+                "d": 468.0
+              },
+              {
+                "w": "Jagdispur",
+                "t": 8159.0,
+                "d": 893.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p15",
       "art": "assets/kunwar_singh_returns_to_jagdispur/img/p15.png",
       "shot": "low-angle shot of Kunwar Singh walking through Jagdispur’s gate with followers",
@@ -3303,6 +3446,143 @@
                 "w": "them",
                 "t": 13903.0,
                 "d": 340.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "battle",
+      "slices": [
+        {
+          "img": "assets/kunwar_singh_returns_to_jagdispur/split_auto/s0.png",
+          "slogan": {
+            "en": "To Jagdispur, no retreat",
+            "hi": "जगदीसपुर तक, न पीछे हटना"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/kunwar_singh_returns_to_jagdispur/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/kunwar_singh_returns_to_jagdispur/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As smoke rises and drums thunder, Jagdispur holds its breath while Kunwar Singh rallies hearts for one last stand.",
+            "hi": "धुआँ उठ रहा है, ढोल गरज रहे हैं, जगदीसपुर थम सा गया है, कुंवर सिंह आख़िरी जंग के लिए जोश भड़का रहे हैं।"
+          },
+          "audio": {
+            "en": "assets/kunwar_singh_returns_to_jagdispur/audio/split/split_auto_en.mp3",
+            "hi": "assets/kunwar_singh_returns_to_jagdispur/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "smoke",
+                "t": 329.0,
+                "d": 340.0
+              },
+              {
+                "w": "rises",
+                "t": 670.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 1010.0,
+                "d": 170.0
+              },
+              {
+                "w": "drums",
+                "t": 1180.0,
+                "d": 382.0
+              },
+              {
+                "w": "thunder",
+                "t": 1563.0,
+                "d": 594.0
+              },
+              {
+                "w": "Jagdispur",
+                "t": 2584.0,
+                "d": 724.0
+              },
+              {
+                "w": "holds",
+                "t": 3308.0,
+                "d": 468.0
+              },
+              {
+                "w": "its",
+                "t": 3776.0,
+                "d": 254.0
+              },
+              {
+                "w": "breath",
+                "t": 4030.0,
+                "d": 384.0
+              },
+              {
+                "w": "while",
+                "t": 4500.0,
+                "d": 297.0
+              },
+              {
+                "w": "Kunwar",
+                "t": 4797.0,
+                "d": 340.0
+              },
+              {
+                "w": "Singh",
+                "t": 5138.0,
+                "d": 255.0
+              },
+              {
+                "w": "rallies",
+                "t": 5393.0,
+                "d": 382.0
+              },
+              {
+                "w": "hearts",
+                "t": 5776.0,
+                "d": 382.0
+              },
+              {
+                "w": "for",
+                "t": 6159.0,
+                "d": 127.0
+              },
+              {
+                "w": "one",
+                "t": 6287.0,
+                "d": 255.0
+              },
+              {
+                "w": "last",
+                "t": 6542.0,
+                "d": 212.0
+              },
+              {
+                "w": "stand",
+                "t": 6755.0,
+                "d": 425.0
               }
             ],
             "hi": []
