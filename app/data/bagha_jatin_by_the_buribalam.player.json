@@ -1701,6 +1701,154 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/bagha_jatin_by_the_buribalam/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/bagha_jatin_by_the_buribalam/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Bagha Jatin steps forward into the open, choosing battle over retreat as the colonial line advances across the flat Balasore plain.",
+            "hi": "बाघा जतिन खुले मैदान में आगे बढ़ता है, पीछे हटने के बजाय जंग चुनता है, जब अंग्रेज़ी फौज बालासोर के मैदान पर बढ़ती चली आती है।"
+          },
+          "audio": {
+            "en": "assets/bagha_jatin_by_the_buribalam/audio/action/action_auto_en.mp3",
+            "hi": "assets/bagha_jatin_by_the_buribalam/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Bagha",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "Jatin",
+                "t": 585.0,
+                "d": 425.0
+              },
+              {
+                "w": "steps",
+                "t": 1010.0,
+                "d": 425.0
+              },
+              {
+                "w": "forward",
+                "t": 1436.0,
+                "d": 425.0
+              },
+              {
+                "w": "into",
+                "t": 1861.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 2074.0,
+                "d": 127.0
+              },
+              {
+                "w": "open",
+                "t": 2202.0,
+                "d": 680.0
+              },
+              {
+                "w": "choosing",
+                "t": 2967.0,
+                "d": 511.0
+              },
+              {
+                "w": "battle",
+                "t": 3478.0,
+                "d": 425.0
+              },
+              {
+                "w": "over",
+                "t": 3904.0,
+                "d": 339.0
+              },
+              {
+                "w": "retreat",
+                "t": 4243.0,
+                "d": 767.0
+              },
+              {
+                "w": "as",
+                "t": 5095.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 5351.0,
+                "d": 170.0
+              },
+              {
+                "w": "colonial",
+                "t": 5521.0,
+                "d": 468.0
+              },
+              {
+                "w": "line",
+                "t": 5989.0,
+                "d": 297.0
+              },
+              {
+                "w": "advances",
+                "t": 6287.0,
+                "d": 680.0
+              },
+              {
+                "w": "across",
+                "t": 6968.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 7436.0,
+                "d": 127.0
+              },
+              {
+                "w": "flat",
+                "t": 7563.0,
+                "d": 510.0
+              },
+              {
+                "w": "Balasore",
+                "t": 8159.0,
+                "d": 679.0
+              },
+              {
+                "w": "plain",
+                "t": 8839.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p11",
       "art": "assets/bagha_jatin_by_the_buribalam/img/p11.png",
       "shot": "low-angle crouched shot",
@@ -2328,6 +2476,158 @@
                 "w": "done",
                 "t": 3713.2,
                 "d": 355.4
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/bagha_jatin_by_the_buribalam/split_auto/s0.png",
+          "slogan": {
+            "en": "We die so Bengal rises",
+            "hi": "हम मरेंगे, बंगाल उठेगा"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/bagha_jatin_by_the_buribalam/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/bagha_jatin_by_the_buribalam/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As bullets tear the reeds, Bagha Jatin’s defiance blazes beyond the Buribalam, echoing from Bengal’s villages to distant seas and future generations.",
+            "hi": "गोलियों से नरकुल छिदते हैं, पर बाघा जतिन की जिद बुरीबलम से आगे, बंगाल के गांवों से समंदरों और आने वाली पीढ़ियों तक गूंज उठती है।"
+          },
+          "audio": {
+            "en": "assets/bagha_jatin_by_the_buribalam/audio/split/split_auto_en.mp3",
+            "hi": "assets/bagha_jatin_by_the_buribalam/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "bullets",
+                "t": 414.0,
+                "d": 425.0
+              },
+              {
+                "w": "tear",
+                "t": 840.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 1053.0,
+                "d": 127.0
+              },
+              {
+                "w": "reeds",
+                "t": 1180.0,
+                "d": 723.0
+              },
+              {
+                "w": "Bagha",
+                "t": 2202.0,
+                "d": 595.0
+              },
+              {
+                "w": "Jatin’s",
+                "t": 2797.0,
+                "d": 595.0
+              },
+              {
+                "w": "defiance",
+                "t": 3393.0,
+                "d": 637.0
+              },
+              {
+                "w": "blazes",
+                "t": 4030.0,
+                "d": 554.0
+              },
+              {
+                "w": "beyond",
+                "t": 4585.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 4968.0,
+                "d": 127.0
+              },
+              {
+                "w": "Buribalam",
+                "t": 5095.0,
+                "d": 1063.0
+              },
+              {
+                "w": "echoing",
+                "t": 6287.0,
+                "d": 595.0
+              },
+              {
+                "w": "from",
+                "t": 6882.0,
+                "d": 255.0
+              },
+              {
+                "w": "Bengal’s",
+                "t": 7138.0,
+                "d": 510.0
+              },
+              {
+                "w": "villages",
+                "t": 7648.0,
+                "d": 510.0
+              },
+              {
+                "w": "to",
+                "t": 8159.0,
+                "d": 212.0
+              },
+              {
+                "w": "distant",
+                "t": 8372.0,
+                "d": 467.0
+              },
+              {
+                "w": "seas",
+                "t": 8839.0,
+                "d": 511.0
+              },
+              {
+                "w": "and",
+                "t": 9351.0,
+                "d": 296.0
+              },
+              {
+                "w": "future",
+                "t": 9647.0,
+                "d": 340.0
+              },
+              {
+                "w": "generations",
+                "t": 9988.0,
+                "d": 1063.0
               }
             ],
             "hi": []
