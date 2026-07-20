@@ -53,10 +53,10 @@ def period_of(series, year):
     return "Ancient" if year < 700 else "Medieval"
 
 
-def item_for(ep):
+def item_for(ep, approved=None):
     eid = ep["id"]
     pj = C.APP / "data" / f"{eid}.player.json"
-    built = pj.exists()
+    built = pj.exists() and (approved is None or eid in approved)
     y = parse_year(ep.get("era", ""))
     it = {"id": eid, "figure": ep.get("figure", ""), "title": ep.get("title", ""),
           "era": ep.get("era", ""), "series": ep.get("series", ""), "built": built,
@@ -77,8 +77,8 @@ def item_for(ep):
     return it
 
 
-def build():
-    eps = [item_for(e) for e in C.load_episodes()]
+def build(approved=None, out=None):
+    eps = [item_for(e, approved) for e in C.load_episodes()]
     seen, uniq = set(), []
     for it in eps:
         if it["id"] not in seen:
@@ -116,10 +116,10 @@ def build():
         periods.append({**p, "range": rng, "count": len(e), "episodes": e})
 
     built_total = sum(1 for it in eps if it["built"])
-    C.save_json(C.APP / "data" / "episodes.json",
-                {"built": built_total, "chapters": chapters, "periods": periods})
+    out = out or (C.APP / "data" / "episodes.json")
+    C.save_json(out, {"built": built_total, "chapters": chapters, "periods": periods})
     cs = ", ".join(f"{c['chapter']} {c['built']}/{c['total']}" for c in chapters)
-    print(f"episodes.json: {built_total} built | chapters: {cs} | "
+    print(f"episodes.json -> {out}: {built_total} built | chapters: {cs} | "
           f"timelines: {', '.join(f'{p['label']}:{p['count']}' for p in periods)}", flush=True)
 
 

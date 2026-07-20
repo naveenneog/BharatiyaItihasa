@@ -1,0 +1,74 @@
+name: Build Android APK (Bharatiya Itihasa)
+
+# Builds the Capacitor Android APK for Bharatiya Itihasa (a thin client that loads
+# https://indian-history.web.app). JDK 21 is REQUIRED for Capacitor 7.
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version tag for the APK (e.g. v1.0.0)"
+        required: false
+        default: "dev"
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: mobile
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+      - uses: android-actions/setup-android@v3
+
+      - name: Assemble www/ (offline fallback shell)
+        shell: pwsh
+        run: ./build_www.ps1
+
+      - name: Install Capacitor
+        run: npm install
+
+      - name: Add Android platform
+        run: npx cap add android
+
+      - name: Sync web assets
+        run: npx cap sync android
+
+      - name: Build debug APK
+        run: |
+          cd android
+          chmod +x gradlew
+          ./gradlew assembleDebug --no-daemon
+
+      - name: Name the APK
+        run: |
+          VER="${{ github.event.release.tag_name || github.event.inputs.version || 'dev' }}"
+          cp android/app/build/outputs/apk/debug/app-debug.apk "BharatiyaItihasa-${VER}.apk"
+          cp android/app/build/outputs/apk/debug/app-debug.apk "BharatiyaItihasa.apk"
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: bharatiya-itihasa-apk
+          path: mobile/BharatiyaItihasa*.apk
+
+      - name: Attach APK to the release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.release.tag_name }}
+          files: |
+            mobile/BharatiyaItihasa-*.apk
+            mobile/BharatiyaItihasa.apk
