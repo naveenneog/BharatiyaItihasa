@@ -2226,6 +2226,169 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/lala_lajpat_rai_faces_the_simon_commission/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/lala_lajpat_rai_faces_the_simon_commission/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Lajpat Rai steels his frail body into a living wall between the people and imperial power, vowing that no baton can silence their protest.",
+            "hi": "लाल लाजपत राय अपना कमज़ोर जिस्म ढाल बना, जनता और हुकूमत के बीच दीवार बन जाते हैं, कसम खाकर कि कोई लाठी उनकी आवाज़ नहीं दबा पाएगी।"
+          },
+          "audio": {
+            "en": "assets/lala_lajpat_rai_faces_the_simon_commission/audio/action/action_auto_en.mp3",
+            "hi": "assets/lala_lajpat_rai_faces_the_simon_commission/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Lajpat",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "Rai",
+                "t": 712.0,
+                "d": 255.0
+              },
+              {
+                "w": "steels",
+                "t": 968.0,
+                "d": 468.0
+              },
+              {
+                "w": "his",
+                "t": 1436.0,
+                "d": 212.0
+              },
+              {
+                "w": "frail",
+                "t": 1648.0,
+                "d": 340.0
+              },
+              {
+                "w": "body",
+                "t": 1989.0,
+                "d": 425.0
+              },
+              {
+                "w": "into",
+                "t": 2414.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 2712.0,
+                "d": 42.0
+              },
+              {
+                "w": "living",
+                "t": 2755.0,
+                "d": 424.0
+              },
+              {
+                "w": "wall",
+                "t": 3179.0,
+                "d": 340.0
+              },
+              {
+                "w": "between",
+                "t": 3520.0,
+                "d": 384.0
+              },
+              {
+                "w": "the",
+                "t": 3904.0,
+                "d": 169.0
+              },
+              {
+                "w": "people",
+                "t": 4073.0,
+                "d": 511.0
+              },
+              {
+                "w": "and",
+                "t": 4585.0,
+                "d": 212.0
+              },
+              {
+                "w": "imperial",
+                "t": 4797.0,
+                "d": 638.0
+              },
+              {
+                "w": "power",
+                "t": 5436.0,
+                "d": 595.0
+              },
+              {
+                "w": "vowing",
+                "t": 6329.0,
+                "d": 510.0
+              },
+              {
+                "w": "that",
+                "t": 6840.0,
+                "d": 212.0
+              },
+              {
+                "w": "no",
+                "t": 7053.0,
+                "d": 255.0
+              },
+              {
+                "w": "baton",
+                "t": 7308.0,
+                "d": 595.0
+              },
+              {
+                "w": "can",
+                "t": 7946.0,
+                "d": 212.0
+              },
+              {
+                "w": "silence",
+                "t": 8159.0,
+                "d": 509.0
+              },
+              {
+                "w": "their",
+                "t": 8669.0,
+                "d": 213.0
+              },
+              {
+                "w": "protest",
+                "t": 8882.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p14",
       "art": "assets/lala_lajpat_rai_faces_the_simon_commission/img/p14.png",
       "shot": "dynamic side-angle wide shot as police advance with lathis raised",
@@ -2613,6 +2776,168 @@
                 "w": "day",
                 "t": 4326.0,
                 "d": 281.9
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "battle",
+      "slices": [
+        {
+          "img": "assets/lala_lajpat_rai_faces_the_simon_commission/split_auto/s0.png",
+          "slogan": {
+            "en": "My blood will rouse India",
+            "hi": "मेरा रक्त भारत जगाएगा"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/lala_lajpat_rai_faces_the_simon_commission/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/lala_lajpat_rai_faces_the_simon_commission/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Blow after blow carves Lajpat Rai’s name into the nation’s memory, his wounded resolve igniting unseen battles in streets, fields, and hearts across India.",
+            "hi": "हर वार से लाजपत राय का नाम देश की याद में खुदता गया, उनका घायल जज़्बा गलियों, खेतों और दिलों में अदृश्य लड़ाइयाँ भड़काता रहा।"
+          },
+          "audio": {
+            "en": "assets/lala_lajpat_rai_faces_the_simon_commission/audio/split/split_auto_en.mp3",
+            "hi": "assets/lala_lajpat_rai_faces_the_simon_commission/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Blow",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "after",
+                "t": 457.0,
+                "d": 255.0
+              },
+              {
+                "w": "blow",
+                "t": 712.0,
+                "d": 297.0
+              },
+              {
+                "w": "carves",
+                "t": 1010.0,
+                "d": 425.0
+              },
+              {
+                "w": "Lajpat",
+                "t": 1436.0,
+                "d": 553.0
+              },
+              {
+                "w": "Rai’s",
+                "t": 1989.0,
+                "d": 297.0
+              },
+              {
+                "w": "name",
+                "t": 2287.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 2712.0,
+                "d": 254.0
+              },
+              {
+                "w": "the",
+                "t": 2967.0,
+                "d": 127.0
+              },
+              {
+                "w": "nation’s",
+                "t": 3094.0,
+                "d": 468.0
+              },
+              {
+                "w": "memory",
+                "t": 3562.0,
+                "d": 852.0
+              },
+              {
+                "w": "his",
+                "t": 4414.0,
+                "d": 340.0
+              },
+              {
+                "w": "wounded",
+                "t": 4755.0,
+                "d": 425.0
+              },
+              {
+                "w": "resolve",
+                "t": 5180.0,
+                "d": 893.0
+              },
+              {
+                "w": "igniting",
+                "t": 6074.0,
+                "d": 553.0
+              },
+              {
+                "w": "unseen",
+                "t": 6627.0,
+                "d": 510.0
+              },
+              {
+                "w": "battles",
+                "t": 7138.0,
+                "d": 468.0
+              },
+              {
+                "w": "in",
+                "t": 7606.0,
+                "d": 170.0
+              },
+              {
+                "w": "streets",
+                "t": 7776.0,
+                "d": 764.0
+              },
+              {
+                "w": "fields",
+                "t": 8541.0,
+                "d": 809.0
+              },
+              {
+                "w": "and",
+                "t": 9393.0,
+                "d": 254.0
+              },
+              {
+                "w": "hearts",
+                "t": 9647.0,
+                "d": 384.0
+              },
+              {
+                "w": "across",
+                "t": 10031.0,
+                "d": 468.0
+              },
+              {
+                "w": "India",
+                "t": 10500.0,
+                "d": 510.0
               }
             ],
             "hi": []
