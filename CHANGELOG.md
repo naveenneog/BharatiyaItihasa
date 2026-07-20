@@ -5,6 +5,37 @@ problems. Newest first.
 
 ---
 
+## 2026-07-20 (later 3) — Deeper stories: 2 action beats, redo thin ones, 12h build
+
+@naveenneog: "redo ones whose slides are less than 15, with actions and animations … next 12h
+non-stop building the next stories … add more action scenes in a single story … do visual + audio
++ emotional QA for each story before marking it done."
+
+- **Two action beats per story (was one)** — `grow.py` `BEATS_SYS`/`author_beats` now author **two**
+  animated action beats at different dramatic moments (1st enters from the left, 2nd from the right)
+  **plus** the climactic 3-band montage. `has_beats` recognises `action_auto` + `action_auto2` +
+  `split_auto`. New + redone stories get the richer treatment; the 17 already-QA'd episodes
+  (all ≥20 scenes) keep their single beat.
+- **Redo the thin stories (<15 scenes)** — three were short: `ashoka` (11), `rajendra` (12),
+  `shivaji` (12). Per-episode policy so hand-crafted flagship content is never lost:
+  - **enrich** `rajendra` + `shivaji` — keep the bespoke storyboard **and co-star intro cards**
+    (Mahipala / Aurangzeb + Hiroji), just add 2 action beats + a montage → 15 scenes.
+  - **deep re-author** `ashoka` — genuinely thin narrative, no co-stars to lose, so re-author a
+    longer storyboard (the generic deep author makes ~18–20 panels) + beats + montage.
+  - New CLI: `grow.py --redo-thin [MIN]`, and single-episode `--enrich <eid>` / `--redo <eid>`
+    for the QA gate to repair any short story without a full rebuild.
+- **12h non-stop build** — one process now flows `--redo-thin → --chapter "The Chola Empire" →
+  --breadth N`: fix the thin ones, finish the Chola chapter (Kundavai, Srivijaya fleet, Kulottunga,
+  Kamban), then keep building more stories. Log: `<session>/files/build3.log`.
+- **QA gate before "done"** — the every-2h monitor now enforces, per story: **≥15 scenes**, **2
+  action beats + montage**, faces/action clear (band-crop rule, no baked captions), audio present
+  (en+hi), **varied moods** (emotional), and **regnal names spoken as words**. Short/one-beat
+  stories are auto-repaired with `--enrich`/`--redo` before being marked clean.
+- **CDN hold** — `rajendra` is live on the CDN; it is redone locally and re-QA'd only. No CDN
+  redeploy without explicit user OK (git commits remain auto-approved).
+
+---
+
 ## 2026-07-20 (later 2) — Emotional voice, name pronunciation, mobile-friendly
 
 @naveenneog: the hero speech felt robotic; names like "Rajaraja Chola I" were read as the letter
