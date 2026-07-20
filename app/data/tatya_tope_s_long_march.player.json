@@ -1826,6 +1826,159 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/tatya_tope_s_long_march/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/tatya_tope_s_long_march/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Tatya Tope steels his weary band, vowing to harry the advancing columns until the last ember of resistance is crushed or victorious.",
+            "hi": "थक चुकी टोली को तात्या टोपे सँभालता है, कसम खाकर कहता है – दुश्मन की हर बढ़ती टुकड़ी को आख़िरी चिंगारी तक दौड़ाएगा, चाहे कुचल जाए या जीत जाए।"
+          },
+          "audio": {
+            "en": "assets/tatya_tope_s_long_march/audio/action/action_auto_en.mp3",
+            "hi": "assets/tatya_tope_s_long_march/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Tatya",
+                "t": 159.0,
+                "d": 468.0
+              },
+              {
+                "w": "Tope",
+                "t": 627.0,
+                "d": 382.0
+              },
+              {
+                "w": "steels",
+                "t": 1010.0,
+                "d": 425.0
+              },
+              {
+                "w": "his",
+                "t": 1436.0,
+                "d": 170.0
+              },
+              {
+                "w": "weary",
+                "t": 1606.0,
+                "d": 340.0
+              },
+              {
+                "w": "band",
+                "t": 1946.0,
+                "d": 765.0
+              },
+              {
+                "w": "vowing",
+                "t": 2755.0,
+                "d": 510.0
+              },
+              {
+                "w": "to",
+                "t": 3265.0,
+                "d": 127.0
+              },
+              {
+                "w": "harry",
+                "t": 3393.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 3776.0,
+                "d": 127.0
+              },
+              {
+                "w": "advancing",
+                "t": 3904.0,
+                "d": 638.0
+              },
+              {
+                "w": "columns",
+                "t": 4542.0,
+                "d": 553.0
+              },
+              {
+                "w": "until",
+                "t": 5095.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 5393.0,
+                "d": 127.0
+              },
+              {
+                "w": "last",
+                "t": 5521.0,
+                "d": 382.0
+              },
+              {
+                "w": "ember",
+                "t": 5904.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 6202.0,
+                "d": 170.0
+              },
+              {
+                "w": "resistance",
+                "t": 6372.0,
+                "d": 765.0
+              },
+              {
+                "w": "is",
+                "t": 7265.0,
+                "d": 255.0
+              },
+              {
+                "w": "crushed",
+                "t": 7521.0,
+                "d": 595.0
+              },
+              {
+                "w": "or",
+                "t": 8202.0,
+                "d": 255.0
+              },
+              {
+                "w": "victorious",
+                "t": 8457.0,
+                "d": 936.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p11",
       "art": "assets/tatya_tope_s_long_march/img/p11.png",
       "shot": "intimate mid-shot around a small night council in a ruined temple",
@@ -3078,6 +3231,158 @@
                 "w": "erased",
                 "t": 11222.0,
                 "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/tatya_tope_s_long_march/split_auto/s0.png",
+          "slogan": {
+            "en": "Freedom lives in our blood",
+            "hi": "आजादी हमारे खून में है"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/tatya_tope_s_long_march/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/tatya_tope_s_long_march/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across plains and forts, the memory of Tatya Tope’s relentless marches and daring raids glows like embers in the dust of 1857.",
+            "hi": "मैदानों और किलों पर, तांत्या टोपे की थमी न जाने वाली चालें और जानलेवा धावे १८५७ की धूल में अंगारों-सी चमकते हैं।"
+          },
+          "audio": {
+            "en": "assets/tatya_tope_s_long_march/audio/split/split_auto_en.mp3",
+            "hi": "assets/tatya_tope_s_long_march/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "plains",
+                "t": 585.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 968.0,
+                "d": 170.0
+              },
+              {
+                "w": "forts",
+                "t": 1138.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 1946.0,
+                "d": 211.0
+              },
+              {
+                "w": "memory",
+                "t": 2158.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 2584.0,
+                "d": 213.0
+              },
+              {
+                "w": "Tatya",
+                "t": 2797.0,
+                "d": 468.0
+              },
+              {
+                "w": "Tope’s",
+                "t": 3265.0,
+                "d": 595.0
+              },
+              {
+                "w": "relentless",
+                "t": 3861.0,
+                "d": 638.0
+              },
+              {
+                "w": "marches",
+                "t": 4500.0,
+                "d": 893.0
+              },
+              {
+                "w": "and",
+                "t": 5436.0,
+                "d": 255.0
+              },
+              {
+                "w": "daring",
+                "t": 5691.0,
+                "d": 425.0
+              },
+              {
+                "w": "raids",
+                "t": 6117.0,
+                "d": 382.0
+              },
+              {
+                "w": "glows",
+                "t": 6500.0,
+                "d": 978.0
+              },
+              {
+                "w": "like",
+                "t": 7478.0,
+                "d": 340.0
+              },
+              {
+                "w": "embers",
+                "t": 7819.0,
+                "d": 553.0
+              },
+              {
+                "w": "in",
+                "t": 8372.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 8500.0,
+                "d": 211.0
+              },
+              {
+                "w": "dust",
+                "t": 8711.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 9009.0,
+                "d": 213.0
+              },
+              {
+                "w": "1857",
+                "t": 9223.0,
+                "d": 1234.0
               }
             ],
             "hi": []
