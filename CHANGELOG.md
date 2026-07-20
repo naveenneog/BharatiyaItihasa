@@ -5,6 +5,30 @@ problems. Newest first.
 
 ---
 
+## 2026-07-20 (later 2) — Emotional voice, name pronunciation, mobile-friendly
+
+@naveenneog: the hero speech felt robotic; names like "Rajaraja Chola I" were read as the letter
+"I" not "the First"; and the stories should be mobile-friendly.
+
+- **Emotional TTS** — narration + dialogue now carry emotion: an Azure `mstts:express-as` style plus
+  a pitch/rate contour chosen from each scene's **mood** (battle / suspense / triumph / spirit /
+  calm), with a plain-prosody fallback for voices that reject a style. Hindi **MAI voices are flaky
+  with express-as** (0-byte turns), so they use pitch/rate emotion only. Mood is threaded through
+  `voice_episode`, `voice_multi` (beats/intros) and the new re-voice path.
+- **Regnal numerals spoken as words** — `voice._expand_regnal` turns "Rajaraja Chola I" into
+  "Rajaraja Chola the First" (I→First … X→Tenth) for both audio and the on-screen line, while
+  leaving the pronoun "I" ("When I…") alone.
+- **`voice.revoice_manifest()`** — re-voices an episode **in place** (regenerates clips + word
+  timings, updates the text) WITHOUT rebuilding the manifest, so montage/intro inserts survive.
+  `voice.py <id> --revoice`. All built episodes re-voiced with emotion + the name fix.
+- **Player is mobile-friendly** — controls stay visible on touch (they were hover-only), a ≤640px
+  block scales narration/dialogue/hero-card/slogan fonts and the control bar (safe-area padding) and
+  hides the long progress-dot strip; a portrait block lifts character cut-outs above the controls.
+- **Cache-bust** — the player appends `?v=` to the manifest + audio URLs so re-voiced clips play
+  fresh instead of a stale cached mp3 (this was why re-voiced audio first still sounded old).
+
+---
+
 ## 2026-07-20 (later) — Animated breadth episodes + multi-episode arcs + timeline home page
 
 @naveenneog: make the new episodes more animated (and show faces + actions clearly); build
