@@ -3,113 +3,158 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>भारतीय इतिहास · Indian History — Motion Comics</title>
+<title>भारतीय इतिहास · Indian History — Timeline</title>
 <style>
   :root{
-    --bg:#0d0b09; --bg2:#14100c; --ink:#f3e7d0; --dim:#b9a888; --gold:#e8b64a;
-    --saffron:#e07b2a; --line:rgba(232,182,74,.22); --card:#191309;
+    --bg:#0d0b09; --ink:#f3e7d0; --dim:#b7a684; --gold:#e8b64a; --saffron:#e07b2a;
+    --green:#3f7d54; --line:rgba(232,182,74,.28); --card:#191308;
   }
   *{box-sizing:border-box}
   html,body{margin:0;background:
-     radial-gradient(1200px 600px at 50% -10%, #241a10 0%, var(--bg) 60%) fixed;
+     radial-gradient(1200px 640px at 50% -8%, #241a10 0%, var(--bg) 62%) fixed;
      color:var(--ink);font-family:"Segoe UI",system-ui,Roboto,sans-serif}
   a{color:inherit;text-decoration:none}
-  header{padding:38px 24px 10px;text-align:center}
-  .brand{font-size:12px;letter-spacing:.42em;color:var(--gold);text-transform:uppercase}
-  h1{margin:.28em 0 .1em;font-size:clamp(28px,5vw,52px);font-weight:800;letter-spacing:.01em;
+  header{padding:40px 24px 6px;text-align:center}
+  .brand{font-size:12px;letter-spacing:.44em;color:var(--gold);text-transform:uppercase}
+  h1{margin:.26em 0 .12em;font-size:clamp(28px,5vw,52px);font-weight:800;
      background:linear-gradient(180deg,#fff5df,#e8b64a 70%,#c8862f);
-     -webkit-background-clip:text;background-clip:text;color:transparent;
-     text-shadow:0 2px 30px rgba(232,182,74,.14)}
+     -webkit-background-clip:text;background-clip:text;color:transparent}
   .sub{color:var(--dim);font-size:15px;max-width:640px;margin:.2em auto 0;line-height:1.5}
-  .count{margin-top:14px;font-size:12.5px;color:var(--dim)}
+  .count{margin-top:12px;font-size:12.5px;color:var(--dim)}
   .count b{color:var(--gold)}
-  .grid{max-width:1240px;margin:26px auto 60px;padding:0 20px;display:grid;
-     grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
-  .card{position:relative;border:1px solid var(--line);border-radius:14px;overflow:hidden;
-     background:var(--card);box-shadow:0 10px 30px rgba(0,0,0,.5);transition:.25s;
-     display:flex;flex-direction:column}
-  .card:hover{transform:translateY(-4px);border-color:rgba(232,182,74,.55);
-     box-shadow:0 16px 40px rgba(0,0,0,.65)}
-  .thumb{position:relative;aspect-ratio:16/10;overflow:hidden;background:#000}
-  .thumb img{width:100%;height:100%;object-fit:cover;object-position:50% 32%;
-     transition:.5s;filter:saturate(1.05)}
-  .card:hover .thumb img{transform:scale(1.06)}
-  .thumb::after{content:"";position:absolute;inset:0;
-     background:linear-gradient(180deg,rgba(0,0,0,0) 38%,rgba(10,8,6,.92) 100%)}
-  .flag{position:absolute;top:10px;left:10px;z-index:2;font-size:10.5px;letter-spacing:.12em;
-     text-transform:uppercase;padding:4px 9px;border-radius:20px;font-weight:700;
-     background:rgba(224,123,42,.9);color:#1a0f06}
-  .scenes{position:absolute;top:10px;right:10px;z-index:2;font-size:11px;padding:4px 9px;
-     border-radius:20px;background:rgba(0,0,0,.55);color:var(--gold);border:1px solid var(--line)}
-  .meta{position:absolute;left:0;right:0;bottom:0;z-index:2;padding:12px 14px}
-  .figure{font-size:20px;font-weight:800;line-height:1.15;text-shadow:0 2px 12px #000}
-  .era{font-size:11.5px;color:var(--gold);letter-spacing:.04em;margin-top:2px}
-  .body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:10px;flex:1}
-  .legend{font-size:13px;color:var(--dim);line-height:1.45;font-style:italic;min-height:34px}
-  .eps{display:flex;flex-wrap:wrap;gap:6px}
-  .chip{font-size:10.5px;color:var(--dim);border:1px solid var(--line);border-radius:20px;
-     padding:2px 8px}
-  .row{display:flex;gap:8px;margin-top:auto}
-  .btn{flex:1;text-align:center;padding:9px 10px;border-radius:9px;font-weight:700;font-size:13px;
-     border:1px solid var(--line);transition:.18s}
+  main{max-width:1080px;margin:22px auto 70px;padding:0 18px}
+
+  /* ---- accordion ---- */
+  .period{border:1px solid var(--line);border-radius:16px;margin:16px 0;overflow:hidden;
+     background:linear-gradient(180deg,rgba(25,19,8,.72),rgba(13,11,9,.4))}
+  .phead{display:flex;align-items:center;gap:16px;width:100%;border:0;cursor:pointer;
+     padding:20px 22px;background:transparent;color:var(--ink);text-align:left;transition:.2s}
+  .phead:hover{background:rgba(232,182,74,.06)}
+  .pnum{flex:none;width:44px;height:44px;border-radius:50%;display:grid;place-items:center;
+     font-weight:800;font-size:18px;color:#1a0f04;background:linear-gradient(180deg,#f0c15a,#cf8f2c);
+     box-shadow:0 0 0 4px rgba(232,182,74,.12)}
+  .pinfo{flex:1;min-width:0}
+  .plabel{font-size:22px;font-weight:800;letter-spacing:.01em}
+  .pblurb{font-size:13px;color:var(--dim);margin-top:2px}
+  .pmeta{flex:none;text-align:right;display:flex;align-items:center;gap:14px}
+  .prange{font-size:12.5px;color:var(--gold);letter-spacing:.03em;white-space:nowrap}
+  .pcount{font-size:11.5px;color:var(--dim);border:1px solid var(--line);border-radius:20px;
+     padding:3px 10px;white-space:nowrap}
+  .chev{font-size:14px;color:var(--gold);transition:transform .3s;transform:rotate(90deg)}
+  .period.open .chev{transform:rotate(-90deg)}
+  .pwrap{display:grid;grid-template-rows:0fr;transition:grid-template-rows .4s ease}
+  .period.open .pwrap{grid-template-rows:1fr}
+  .pbody{overflow:hidden}
+  .pinner{padding:6px 22px 26px}
+
+  /* ---- timeline ---- */
+  .entry{display:grid;grid-template-columns:96px 1fr;gap:0}
+  .when{text-align:right;padding:22px 16px 0 0}
+  .yr{font-weight:800;font-size:14px;color:var(--gold);white-space:nowrap}
+  .track{position:relative;border-left:2px solid var(--line);padding:16px 0 16px 26px}
+  .entry:last-child .track{border-left-color:transparent}
+  .track::before{content:"";position:absolute;left:-8px;top:24px;width:13px;height:13px;
+     border-radius:50%;background:linear-gradient(180deg,#f0c15a,#cf8f2c);
+     box-shadow:0 0 0 4px var(--bg),0 0 14px rgba(232,182,74,.6)}
+  .tcard{display:flex;gap:14px;border:1px solid var(--line);border-radius:13px;overflow:hidden;
+     background:var(--card);box-shadow:0 8px 24px rgba(0,0,0,.45);transition:.22s}
+  .tcard:hover{transform:translateY(-3px);border-color:rgba(232,182,74,.55);
+     box-shadow:0 14px 32px rgba(0,0,0,.6)}
+  .tthumb{flex:none;width:190px;aspect-ratio:16/11;position:relative;background:#000}
+  .tthumb img{width:100%;height:100%;object-fit:cover;object-position:50% 30%}
+  .tthumb::after{content:"";position:absolute;inset:0;
+     background:linear-gradient(90deg,rgba(0,0,0,0) 55%,rgba(25,19,8,.9) 100%)}
+  .flag{position:absolute;top:8px;left:8px;z-index:2;font-size:9.5px;letter-spacing:.1em;
+     text-transform:uppercase;padding:3px 8px;border-radius:20px;font-weight:700;
+     background:rgba(224,123,42,.92);color:#1a0f06}
+  .tinfo{flex:1;min-width:0;padding:13px 15px 13px 2px;display:flex;flex-direction:column;gap:7px}
+  .tfig{font-size:18px;font-weight:800;line-height:1.15}
+  .tera{font-size:11.5px;color:var(--gold);letter-spacing:.02em}
+  .tleg{font-size:13px;color:var(--dim);font-style:italic;line-height:1.4;flex:1}
+  .chips{display:flex;flex-wrap:wrap;gap:5px}
+  .chip{font-size:10px;color:var(--dim);border:1px solid var(--line);border-radius:20px;padding:2px 7px}
+  .row{display:flex;gap:8px;margin-top:2px}
+  .btn{padding:7px 14px;border-radius:8px;font-weight:700;font-size:12.5px;border:1px solid var(--line);
+     transition:.16s}
   .btn.en{background:linear-gradient(180deg,#f0c15a,#d1932f);color:#1a0f04}
   .btn.hi{background:rgba(255,255,255,.05);color:var(--ink)}
   .btn:hover{filter:brightness(1.08);border-color:rgba(232,182,74,.6)}
+  .scenes{font-size:11px;color:var(--dim);align-self:center;margin-left:auto}
+  .empty{color:var(--dim);font-style:italic;padding:14px 0 6px 26px;font-size:13.5px}
   footer{text-align:center;color:var(--dim);font-size:12px;padding:0 20px 40px}
-  .loading{grid-column:1/-1;text-align:center;color:var(--dim);padding:60px}
+  @media(max-width:640px){
+    .tcard{flex-direction:column}.tthumb{width:100%;aspect-ratio:16/9}
+    .tthumb::after{background:linear-gradient(180deg,rgba(0,0,0,0) 55%,rgba(25,19,8,.9) 100%)}
+    .entry{grid-template-columns:64px 1fr}.pmeta .pblurb{display:none}
+  }
 </style>
 </head>
 <body>
 <header>
   <div class="brand">Bhāratīya Itihāsa</div>
-  <h1>Indian History · Motion Comics</h1>
-  <p class="sub">India's history retold as voiced, word-highlighted anime graphic novels —
-     character-consistent, historically accurate, in English &amp; हिंदी.</p>
+  <h1>The Timeline of Indian History</h1>
+  <p class="sub">India's history as voiced, word-highlighted anime motion-comics — character-consistent
+     and historically accurate, in English &amp; हिंदी. Open an era to walk its timeline.</p>
   <div class="count" id="count"></div>
 </header>
-<main class="grid" id="grid"><div class="loading">Loading episodes…</div></main>
-<footer>Click a card to play the voiced motion-comic. Tip: use the ◀ ▶ controls and the language toggle inside the player.</footer>
+<main id="main"><p style="text-align:center;color:var(--dim);padding:50px">Loading timeline…</p></main>
+<footer>Click a hero to play the voiced motion-comic. New stories are still being built — refresh to see the timeline grow.</footer>
 
 <script>
-const FLAG = ["rani_lakshmibai_s_stand_at_kotah_ki_serai","rajendra_brings_the_ganges_south",
-              "shivaji_s_quiet_escape_from_agra","ashoka_s_kalinga_change_of_heart"];
-const LANG_NATIVE = {en:"English", hi:"हिंदी", ta:"தமிழ்", te:"తెలుగు", kn:"ಕನ್ನಡ", de:"Deutsch"};
-
+const NUM = {"Ancient":"I","Medieval":"II","Freedom Struggle":"III"};
 fetch("data/episodes.json?v=" + Date.now()).then(r => r.json()).then(data => {
-  const grid = document.getElementById("grid");
-  grid.innerHTML = "";
+  const main = document.getElementById("main");
+  main.innerHTML = "";
   document.getElementById("count").innerHTML =
-     "<b>" + data.count + "</b> episodes · voiced &amp; animated · more building";
-  data.episodes.forEach(ep => {
-    const flagship = FLAG.includes(ep.id);
-    const langs = (ep.langs || ["en"]);
-    const hi = langs.includes("hi");
-    const c = document.createElement("a");
-    c.className = "card";
-    c.href = "player/index.html?ep=" + ep.id + "&lang=en";
-    c.innerHTML = `
-      <div class="thumb">
-        ${flagship ? '<span class="flag">Flagship</span>' : ''}
-        <span class="scenes">${ep.scenes} scenes</span>
-        <img loading="lazy" src="${ep.thumb}" alt="${ep.figure}">
-        <div class="meta">
-          <div class="figure">${ep.figure || ep.title}</div>
-          <div class="era">${ep.era || ''}</div>
-        </div>
-      </div>
-      <div class="body">
-        <div class="legend">${ep.legend ? '“' + ep.legend + '”' : (ep.epithets||[]).join(' · ')}</div>
-        <div class="eps">${(ep.epithets||[]).map(e=>`<span class="chip">${e}</span>`).join('')}</div>
-        <div class="row">
-          <span class="btn en" onclick="event.preventDefault();location.href='player/index.html?ep=${ep.id}&lang=en'">▶ English</span>
-          ${hi ? `<span class="btn hi" onclick="event.preventDefault();location.href='player/index.html?ep=${ep.id}&lang=hi'">▶ हिंदी</span>` : ''}
+     "<b>" + data.count + "</b> stories · three eras · voiced &amp; animated · more building";
+
+  data.periods.forEach((p, i) => {
+    const sec = document.createElement("section");
+    sec.className = "period" + (p.count ? " open" : "");
+    const entries = p.episodes.map(ep => {
+      const hi = (ep.langs || ["en"]).includes("hi");
+      return `
+      <div class="entry">
+        <div class="when"><div class="yr">${ep.year_label || ""}</div></div>
+        <div class="track">
+          <a class="tcard" href="player/index.html?ep=${ep.id}&lang=en">
+            <div class="tthumb">${ep.flagship ? '<span class="flag">Flagship</span>' : ''}
+              <img loading="lazy" src="${ep.thumb}" alt="${ep.figure}"></div>
+            <div class="tinfo">
+              <div class="tfig">${ep.figure || ep.title}</div>
+              <div class="tera">${ep.era || ""}</div>
+              <div class="tleg">${ep.legend ? "“" + ep.legend + "”" : (ep.epithets || []).join(" · ")}</div>
+              <div class="chips">${(ep.epithets || []).map(e => `<span class="chip">${e}</span>`).join("")}
+                <span class="scenes">${ep.scenes} scenes</span></div>
+              <div class="row">
+                <span class="btn en" onclick="event.preventDefault();event.stopPropagation();location.href='player/index.html?ep=${ep.id}&lang=en'">▶ English</span>
+                ${hi ? `<span class="btn hi" onclick="event.preventDefault();event.stopPropagation();location.href='player/index.html?ep=${ep.id}&lang=hi'">▶ हिंदी</span>` : ""}
+              </div>
+            </div>
+          </a>
         </div>
       </div>`;
-    grid.appendChild(c);
+    }).join("");
+    sec.innerHTML = `
+      <button class="phead">
+        <span class="pnum">${NUM[p.key] || (i + 1)}</span>
+        <span class="pinfo"><span class="plabel">${p.label}</span><span class="pblurb">${p.blurb}</span></span>
+        <span class="pmeta">
+          <span class="prange">${p.range || p.hint}</span>
+          <span class="pcount">${p.count} ${p.count === 1 ? "story" : "stories"}</span>
+          <span class="chev">▸</span>
+        </span>
+      </button>
+      <div class="pwrap"><div class="pbody"><div class="pinner">
+        ${p.count ? '<div class="timeline">' + entries + '</div>'
+                  : '<div class="empty">Stories from this era are being written — check back soon.</div>'}
+      </div></div></div>`;
+    sec.querySelector(".phead").addEventListener("click", () => sec.classList.toggle("open"));
+    main.appendChild(sec);
   });
-}).catch(e => {
-  document.getElementById("grid").innerHTML =
-     '<div class="loading">Could not load episodes.json — run <code>python tools/gallery.py</code>.</div>';
+}).catch(() => {
+  document.getElementById("main").innerHTML =
+     '<p style="text-align:center;color:var(--dim);padding:50px">Could not load episodes.json — run <code>python tools/gallery.py</code>.</p>';
 });
 </script>
 </body>
