@@ -3,8 +3,7 @@ _incomplete_hold/
 *.tmp
 __pycache__/
 
-# generated image masters + comic pages (large binaries; belong in a masters repo / regenerable)
-app/assets/
+# comic PAGE renders (large, regenerable). app/assets is a SUBMODULE (masters repo), not ignored.
 app/comics/
 
 # deploy / mobile build artifacts (regenerable)
