@@ -1,0 +1,3802 @@
+{
+  "id": "sushruta_and_the_healer_s_knife",
+  "title": "Sushruta and the Healer's Knife",
+  "title_i18n": {
+    "en": "Sushruta and the Healer's Knife",
+    "hi": "सुश्रुत और वैद्य की धारदार छुरी"
+  },
+  "figure": "Sushruta the Surgeon",
+  "era": "The Gupta redaction of Ayurveda, c. 4th-5th century CE",
+  "moral": "To heal is the highest craft - knowledge turned to mercy.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/sushruta_and_the_healer_s_knife/intro/hero.png",
+      "name": "Sushruta the Surgeon",
+      "epithets": [
+        "Father of Surgery",
+        "Pioneer of Plastic Surgery",
+        "Master of the Sushruta Samhita",
+        "Healer of Kashi"
+      ],
+      "legend": "He turned the knife of harm into a blade of mercy.",
+      "era": "The Gupta redaction of Ayurveda, c. 4th-5th century CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the learning halls of Kashi, Sushruta lifts a shining knife, not to wound, but to save. Every cut risks a life, a limb, and the honor of Ayurveda itself.",
+            "hi": "काशी के गुरुकुल में सुश्रुत चमकती धार उठाते हैं—घाव देने नहीं, जान बचाने। हर चीरा दांव पर लगा दे जान, अंग और खुद आयुर्वेद की इज़्ज़त।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/intro/hero_en.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 72.0,
+                "d": 208.0
+              },
+              {
+                "w": "the",
+                "t": 281.0,
+                "d": 125.0
+              },
+              {
+                "w": "learning",
+                "t": 406.0,
+                "d": 458.0
+              },
+              {
+                "w": "halls",
+                "t": 864.0,
+                "d": 250.0
+              },
+              {
+                "w": "of",
+                "t": 1114.0,
+                "d": 166.0
+              },
+              {
+                "w": "Kashi",
+                "t": 1281.0,
+                "d": 625.0
+              },
+              {
+                "w": "Sushruta",
+                "t": 2281.0,
+                "d": 583.0
+              },
+              {
+                "w": "lifts",
+                "t": 2864.0,
+                "d": 416.0
+              },
+              {
+                "w": "a",
+                "t": 3281.0,
+                "d": 83.0
+              },
+              {
+                "w": "shining",
+                "t": 3364.0,
+                "d": 541.0
+              },
+              {
+                "w": "knife",
+                "t": 3906.0,
+                "d": 708.0
+              },
+              {
+                "w": "not",
+                "t": 4656.0,
+                "d": 250.0
+              },
+              {
+                "w": "to",
+                "t": 4906.0,
+                "d": 166.0
+              },
+              {
+                "w": "wound",
+                "t": 5072.0,
+                "d": 666.0
+              },
+              {
+                "w": "but",
+                "t": 5781.0,
+                "d": 291.0
+              },
+              {
+                "w": "to",
+                "t": 6072.0,
+                "d": 125.0
+              },
+              {
+                "w": "save",
+                "t": 6197.0,
+                "d": 916.0
+              },
+              {
+                "w": "Every",
+                "t": 7406.0,
+                "d": 541.0
+              },
+              {
+                "w": "cut",
+                "t": 7947.0,
+                "d": 250.0
+              },
+              {
+                "w": "risks",
+                "t": 8197.0,
+                "d": 373.0
+              },
+              {
+                "w": "a",
+                "t": 8571.0,
+                "d": 42.0
+              },
+              {
+                "w": "life",
+                "t": 8614.0,
+                "d": 750.0
+              },
+              {
+                "w": "a",
+                "t": 9364.0,
+                "d": 165.0
+              },
+              {
+                "w": "limb",
+                "t": 9530.0,
+                "d": 416.0
+              },
+              {
+                "w": "and",
+                "t": 10281.0,
+                "d": 250.0
+              },
+              {
+                "w": "the",
+                "t": 10531.0,
+                "d": 207.0
+              },
+              {
+                "w": "honor",
+                "t": 10738.0,
+                "d": 333.0
+              },
+              {
+                "w": "of",
+                "t": 11071.0,
+                "d": 209.0
+              },
+              {
+                "w": "Ayurveda",
+                "t": 11281.0,
+                "d": 625.0
+              },
+              {
+                "w": "itself",
+                "t": 11906.0,
+                "d": 748.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/sushruta_and_the_healer_s_knife/intro/map.png",
+      "x": 0.63,
+      "y": 0.38,
+      "label": "Kashi (Varanasi), on the Ganga",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On the holy bend of the Ganga, Kashi hums with chants, herbs, and sharp steel ready to heal.",
+            "hi": "गंगा के पवित्र मोड़ पर, काशी गूंज रही है मंत्रों, जड़ी-बूटियों और तेज़ औज़ारों की खनक से।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/intro/map_en.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 183.0
+              },
+              {
+                "w": "holy",
+                "t": 494.0,
+                "d": 321.0
+              },
+              {
+                "w": "bend",
+                "t": 816.0,
+                "d": 275.0
+              },
+              {
+                "w": "of",
+                "t": 1091.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 1183.0,
+                "d": 137.0
+              },
+              {
+                "w": "Ganga",
+                "t": 1321.0,
+                "d": 597.0
+              },
+              {
+                "w": "Kashi",
+                "t": 2745.0,
+                "d": 414.0
+              },
+              {
+                "w": "hums",
+                "t": 3160.0,
+                "d": 367.0
+              },
+              {
+                "w": "with",
+                "t": 3528.0,
+                "d": 229.0
+              },
+              {
+                "w": "chants",
+                "t": 3758.0,
+                "d": 780.0
+              },
+              {
+                "w": "herbs",
+                "t": 4770.0,
+                "d": 873.0
+              },
+              {
+                "w": "and",
+                "t": 5735.0,
+                "d": 413.0
+              },
+              {
+                "w": "sharp",
+                "t": 6149.0,
+                "d": 367.0
+              },
+              {
+                "w": "steel",
+                "t": 6517.0,
+                "d": 459.0
+              },
+              {
+                "w": "ready",
+                "t": 6977.0,
+                "d": 321.0
+              },
+              {
+                "w": "to",
+                "t": 7298.0,
+                "d": 137.0
+              },
+              {
+                "w": "heal",
+                "t": 7436.0,
+                "d": 367.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/cover.png",
+      "shot": "low-angle three-quarter view of Sushruta in a lamplit hall, framed by shelves of palm-leaf manuscripts and neatly arrayed metal instruments",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Sushruta the Surgeon of Kashi, whose healer’s knife was forged before the Guptas and set in order in the golden age of learning.",
+            "hi": "काशी के सर्जन सुश्रुत, जिनकी वैद्य की छुरी गुप्तों से पहले ढली, पर सुव्यवस्था सुनहरे विद्या‑युग में मिली।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/cover_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Sushruta",
+                "t": 74.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 670.0,
+                "d": 212.0
+              },
+              {
+                "w": "Surgeon",
+                "t": 882.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 1308.0,
+                "d": 127.0
+              },
+              {
+                "w": "Kashi",
+                "t": 1436.0,
+                "d": 553.0
+              },
+              {
+                "w": "whose",
+                "t": 2414.0,
+                "d": 340.0
+              },
+              {
+                "w": "healer’s",
+                "t": 2755.0,
+                "d": 468.0
+              },
+              {
+                "w": "knife",
+                "t": 3223.0,
+                "d": 296.0
+              },
+              {
+                "w": "was",
+                "t": 3520.0,
+                "d": 170.0
+              },
+              {
+                "w": "forged",
+                "t": 3690.0,
+                "d": 639.0
+              },
+              {
+                "w": "before",
+                "t": 4372.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 4712.0,
+                "d": 127.0
+              },
+              {
+                "w": "Guptas",
+                "t": 4840.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 5776.0,
+                "d": 340.0
+              },
+              {
+                "w": "set",
+                "t": 6117.0,
+                "d": 255.0
+              },
+              {
+                "w": "in",
+                "t": 6372.0,
+                "d": 127.0
+              },
+              {
+                "w": "order",
+                "t": 6500.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 6882.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 7010.0,
+                "d": 127.0
+              },
+              {
+                "w": "golden",
+                "t": 7138.0,
+                "d": 425.0
+              },
+              {
+                "w": "age",
+                "t": 7563.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 7819.0,
+                "d": 170.0
+              },
+              {
+                "w": "learning",
+                "t": 7989.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p01.png",
+      "shot": "wide aerial over the Ganga and the city of Kashi at dawn",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On the high bank of the Ganga, in ancient Kashi, sages spoke of life, death and the art of healing, long before the Guptas lit their lamps across Aryavarta.",
+            "hi": "गंगा के ऊँचे तट पर, प्राचीन काशी में, ऋषि जीवन‑मरण और उपचार की विद्या पर चर्चा करते थे, गुप्तों के आर्यावर्त जगाने से बहुत पहले।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p01_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 127.0
+              },
+              {
+                "w": "high",
+                "t": 457.0,
+                "d": 255.0
+              },
+              {
+                "w": "bank",
+                "t": 712.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 1010.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 1138.0,
+                "d": 127.0
+              },
+              {
+                "w": "Ganga",
+                "t": 1265.0,
+                "d": 638.0
+              },
+              {
+                "w": "in",
+                "t": 2074.0,
+                "d": 212.0
+              },
+              {
+                "w": "ancient",
+                "t": 2287.0,
+                "d": 510.0
+              },
+              {
+                "w": "Kashi",
+                "t": 2797.0,
+                "d": 638.0
+              },
+              {
+                "w": "sages",
+                "t": 3734.0,
+                "d": 553.0
+              },
+              {
+                "w": "spoke",
+                "t": 4287.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 4627.0,
+                "d": 212.0
+              },
+              {
+                "w": "life",
+                "t": 4840.0,
+                "d": 595.0
+              },
+              {
+                "w": "death",
+                "t": 5478.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 6202.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 6542.0,
+                "d": 212.0
+              },
+              {
+                "w": "art",
+                "t": 6755.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 7053.0,
+                "d": 127.0
+              },
+              {
+                "w": "healing",
+                "t": 7180.0,
+                "d": 1063.0
+              },
+              {
+                "w": "long",
+                "t": 8287.0,
+                "d": 510.0
+              },
+              {
+                "w": "before",
+                "t": 8797.0,
+                "d": 296.0
+              },
+              {
+                "w": "the",
+                "t": 9094.0,
+                "d": 128.0
+              },
+              {
+                "w": "Guptas",
+                "t": 9223.0,
+                "d": 594.0
+              },
+              {
+                "w": "lit",
+                "t": 9818.0,
+                "d": 255.0
+              },
+              {
+                "w": "their",
+                "t": 10073.0,
+                "d": 255.0
+              },
+              {
+                "w": "lamps",
+                "t": 10328.0,
+                "d": 426.0
+              },
+              {
+                "w": "across",
+                "t": 10796.0,
+                "d": 510.0
+              },
+              {
+                "w": "Aryavarta",
+                "t": 11307.0,
+                "d": 767.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p02.png",
+      "shot": "medium shot inside a shaded grove classroom, teacher and pupils seated on the ground",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, in a surgeon’s gurukula, Sushruta taught the body’s hidden paths, arteries and bones, in words first sung by his school and later gathered as the Sushruta Samhita.",
+            "hi": "यहीं, सर्जन के गुरुकुल में, सुश्रुत ने देह की गुप्त राहें, नाड़ियाँ और हड्डियाँ पढ़ाईं, जो पहले शिष्यों ने गाईं, फिर सुश्रुत संहिता में संजोई गईं।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p02_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "in",
+                "t": 882.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 1095.0,
+                "d": 42.0
+              },
+              {
+                "w": "surgeon’s",
+                "t": 1138.0,
+                "d": 553.0
+              },
+              {
+                "w": "gurukula",
+                "t": 1691.0,
+                "d": 892.0
+              },
+              {
+                "w": "Sushruta",
+                "t": 2755.0,
+                "d": 723.0
+              },
+              {
+                "w": "taught",
+                "t": 3478.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 3819.0,
+                "d": 127.0
+              },
+              {
+                "w": "body’s",
+                "t": 3946.0,
+                "d": 468.0
+              },
+              {
+                "w": "hidden",
+                "t": 4414.0,
+                "d": 340.0
+              },
+              {
+                "w": "paths",
+                "t": 4755.0,
+                "d": 638.0
+              },
+              {
+                "w": "arteries",
+                "t": 5521.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 6074.0,
+                "d": 212.0
+              },
+              {
+                "w": "bones",
+                "t": 6287.0,
+                "d": 680.0
+              },
+              {
+                "w": "in",
+                "t": 7180.0,
+                "d": 255.0
+              },
+              {
+                "w": "words",
+                "t": 7436.0,
+                "d": 425.0
+              },
+              {
+                "w": "first",
+                "t": 7861.0,
+                "d": 425.0
+              },
+              {
+                "w": "sung",
+                "t": 8287.0,
+                "d": 296.0
+              },
+              {
+                "w": "by",
+                "t": 8584.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 8711.0,
+                "d": 171.0
+              },
+              {
+                "w": "school",
+                "t": 8882.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 9521.0,
+                "d": 340.0
+              },
+              {
+                "w": "later",
+                "t": 9861.0,
+                "d": 425.0
+              },
+              {
+                "w": "gathered",
+                "t": 10287.0,
+                "d": 764.0
+              },
+              {
+                "w": "as",
+                "t": 11095.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 11307.0,
+                "d": 128.0
+              },
+              {
+                "w": "Sushruta",
+                "t": 11436.0,
+                "d": 594.0
+              },
+              {
+                "w": "Samhita",
+                "t": 12030.0,
+                "d": 724.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p03.png",
+      "shot": "close-up of Sushruta’s hands arranging instruments on a cloth",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He spoke of one hundred and twenty instruments, each with a place and purpose, tools of iron shaped as finely as a goldsmith’s work.",
+            "hi": "वह सौ बीस औज़ारों की बात करते, हर एक का ठिकाना और काम, लोहे के उपकरण, सुनार की नफ़ासत से तराशे हुए।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p03_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "spoke",
+                "t": 244.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 627.0,
+                "d": 170.0
+              },
+              {
+                "w": "one",
+                "t": 797.0,
+                "d": 212.0
+              },
+              {
+                "w": "hundred",
+                "t": 1010.0,
+                "d": 297.0
+              },
+              {
+                "w": "and",
+                "t": 1308.0,
+                "d": 127.0
+              },
+              {
+                "w": "twenty",
+                "t": 1436.0,
+                "d": 382.0
+              },
+              {
+                "w": "instruments",
+                "t": 1819.0,
+                "d": 893.0
+              },
+              {
+                "w": "each",
+                "t": 3052.0,
+                "d": 510.0
+              },
+              {
+                "w": "with",
+                "t": 3562.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 3776.0,
+                "d": 85.0
+              },
+              {
+                "w": "place",
+                "t": 3861.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 4329.0,
+                "d": 255.0
+              },
+              {
+                "w": "purpose",
+                "t": 4585.0,
+                "d": 340.0
+              },
+              {
+                "w": "tools",
+                "t": 4925.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 5946.0,
+                "d": 510.0
+              },
+              {
+                "w": "iron",
+                "t": 6457.0,
+                "d": 340.0
+              },
+              {
+                "w": "shaped",
+                "t": 6797.0,
+                "d": 595.0
+              },
+              {
+                "w": "as",
+                "t": 7478.0,
+                "d": 255.0
+              },
+              {
+                "w": "finely",
+                "t": 7734.0,
+                "d": 595.0
+              },
+              {
+                "w": "as",
+                "t": 8329.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 8500.0,
+                "d": 126.0
+              },
+              {
+                "w": "goldsmith’s",
+                "t": 8626.0,
+                "d": 638.0
+              },
+              {
+                "w": "work",
+                "t": 9264.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/sushruta_and_the_healer_s_knife/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/sushruta_and_the_healer_s_knife/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Kashi’s light, steel and scripture meet in Sushruta’s hands, as surgery becomes sacred discipline, not mere craft.",
+            "hi": "काशी की रोशनी में, सुश्रुत के हाथों में लोहा और शास्त्र मिलकर शल्यकर्म को महाधर्म बना देते हैं।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/action/action_auto_en.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "Kashi’s",
+                "t": 356.0,
+                "d": 551.0
+              },
+              {
+                "w": "light",
+                "t": 908.0,
+                "d": 597.0
+              },
+              {
+                "w": "steel",
+                "t": 1597.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 2195.0,
+                "d": 183.0
+              },
+              {
+                "w": "scripture",
+                "t": 2379.0,
+                "d": 597.0
+              },
+              {
+                "w": "meet",
+                "t": 2977.0,
+                "d": 366.0
+              },
+              {
+                "w": "in",
+                "t": 3343.0,
+                "d": 185.0
+              },
+              {
+                "w": "Sushruta’s",
+                "t": 3528.0,
+                "d": 689.0
+              },
+              {
+                "w": "hands",
+                "t": 4218.0,
+                "d": 689.0
+              },
+              {
+                "w": "as",
+                "t": 5137.0,
+                "d": 321.0
+              },
+              {
+                "w": "surgery",
+                "t": 5459.0,
+                "d": 597.0
+              },
+              {
+                "w": "becomes",
+                "t": 6057.0,
+                "d": 413.0
+              },
+              {
+                "w": "sacred",
+                "t": 6471.0,
+                "d": 459.0
+              },
+              {
+                "w": "discipline",
+                "t": 6931.0,
+                "d": 735.0
+              },
+              {
+                "w": "not",
+                "t": 8034.0,
+                "d": 413.0
+              },
+              {
+                "w": "mere",
+                "t": 8448.0,
+                "d": 229.0
+              },
+              {
+                "w": "craft",
+                "t": 8678.0,
+                "d": 688.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p04.png",
+      "shot": "medium interior of a simple surgical hut, Sushruta examining a patient’s arm, students observing",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "To him, surgery was not only steel. It began with seeing, touching, listening, knowing the patient as a whole being before the knife ever moved.",
+            "hi": "उनके लिए शल्य केवल फ़ौलाद नहीं था; शुरुआत थी देखने, छूने, सुनने से—चिरफाड़ से पहले रोगी को पूरा मनुष्य समझने से।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p04_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "To",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "him",
+                "t": 244.0,
+                "d": 595.0
+              },
+              {
+                "w": "surgery",
+                "t": 968.0,
+                "d": 680.0
+              },
+              {
+                "w": "was",
+                "t": 1648.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 1861.0,
+                "d": 296.0
+              },
+              {
+                "w": "only",
+                "t": 2158.0,
+                "d": 256.0
+              },
+              {
+                "w": "steel",
+                "t": 2414.0,
+                "d": 382.0
+              },
+              {
+                "w": "It",
+                "t": 2797.0,
+                "d": 169.0
+              },
+              {
+                "w": "began",
+                "t": 3734.0,
+                "d": 424.0
+              },
+              {
+                "w": "with",
+                "t": 4158.0,
+                "d": 213.0
+              },
+              {
+                "w": "seeing",
+                "t": 4372.0,
+                "d": 765.0
+              },
+              {
+                "w": "touching",
+                "t": 5180.0,
+                "d": 851.0
+              },
+              {
+                "w": "listening",
+                "t": 6117.0,
+                "d": 1021.0
+              },
+              {
+                "w": "knowing",
+                "t": 7180.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 7563.0,
+                "d": 127.0
+              },
+              {
+                "w": "patient",
+                "t": 7691.0,
+                "d": 468.0
+              },
+              {
+                "w": "as",
+                "t": 8159.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 8329.0,
+                "d": 127.0
+              },
+              {
+                "w": "whole",
+                "t": 8457.0,
+                "d": 296.0
+              },
+              {
+                "w": "being",
+                "t": 8754.0,
+                "d": 767.0
+              },
+              {
+                "w": "before",
+                "t": 9521.0,
+                "d": 467.0
+              },
+              {
+                "w": "the",
+                "t": 9988.0,
+                "d": 128.0
+              },
+              {
+                "w": "knife",
+                "t": 10117.0,
+                "d": 425.0
+              },
+              {
+                "w": "ever",
+                "t": 10542.0,
+                "d": 339.0
+              },
+              {
+                "w": "moved",
+                "t": 10881.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p05.png",
+      "shot": "close-up on Sushruta’s face, lit by lamplight, with a palm-leaf manuscript in foreground",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The verses of his school traveled by memory and voice; in time scribes bound them to leaf and string, and later redactors under Gupta skies ordered them into the treatise we know.",
+            "hi": "उनकी परंपरा के श्लोक स्मृति और स्वर से चलते रहे; फिर लेखकों ने उन्हें पत्तों‑डोरों पर बाँधा, और गुप्त आकाश के नीचे संशोधकों ने उन्हें ग्रंथ में गढ़ा।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p05_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "verses",
+                "t": 329.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 712.0,
+                "d": 170.0
+              },
+              {
+                "w": "his",
+                "t": 882.0,
+                "d": 127.0
+              },
+              {
+                "w": "school",
+                "t": 1010.0,
+                "d": 425.0
+              },
+              {
+                "w": "traveled",
+                "t": 1436.0,
+                "d": 468.0
+              },
+              {
+                "w": "by",
+                "t": 1904.0,
+                "d": 170.0
+              },
+              {
+                "w": "memory",
+                "t": 2074.0,
+                "d": 424.0
+              },
+              {
+                "w": "and",
+                "t": 2498.0,
+                "d": 127.0
+              },
+              {
+                "w": "voice",
+                "t": 2626.0,
+                "d": 852.0
+              },
+              {
+                "w": "in",
+                "t": 3647.0,
+                "d": 213.0
+              },
+              {
+                "w": "time",
+                "t": 3861.0,
+                "d": 339.0
+              },
+              {
+                "w": "scribes",
+                "t": 4201.0,
+                "d": 511.0
+              },
+              {
+                "w": "bound",
+                "t": 4712.0,
+                "d": 255.0
+              },
+              {
+                "w": "them",
+                "t": 4968.0,
+                "d": 212.0
+              },
+              {
+                "w": "to",
+                "t": 5180.0,
+                "d": 127.0
+              },
+              {
+                "w": "leaf",
+                "t": 5308.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 5691.0,
+                "d": 127.0
+              },
+              {
+                "w": "string",
+                "t": 5819.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 6500.0,
+                "d": 382.0
+              },
+              {
+                "w": "later",
+                "t": 6882.0,
+                "d": 425.0
+              },
+              {
+                "w": "redactors",
+                "t": 7308.0,
+                "d": 680.0
+              },
+              {
+                "w": "under",
+                "t": 7989.0,
+                "d": 297.0
+              },
+              {
+                "w": "Gupta",
+                "t": 8287.0,
+                "d": 381.0
+              },
+              {
+                "w": "skies",
+                "t": 8669.0,
+                "d": 681.0
+              },
+              {
+                "w": "ordered",
+                "t": 9521.0,
+                "d": 467.0
+              },
+              {
+                "w": "them",
+                "t": 9988.0,
+                "d": 255.0
+              },
+              {
+                "w": "into",
+                "t": 10243.0,
+                "d": 256.0
+              },
+              {
+                "w": "the",
+                "t": 10500.0,
+                "d": 170.0
+              },
+              {
+                "w": "treatise",
+                "t": 10670.0,
+                "d": 467.0
+              },
+              {
+                "w": "we",
+                "t": 11137.0,
+                "d": 170.0
+              },
+              {
+                "w": "know",
+                "t": 11307.0,
+                "d": 426.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p06.png",
+      "shot": "wide shot of a Gupta-era city street leading to a charitable hospital building in Pataliputra",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the fourth century, as Gupta kings ruled from Pataliputra, visitors from distant China saw something rare: public hospitals where the poor received care and medicines freely.",
+            "hi": "चौथी शताब्दी में, जब गुप्त सम्राट पाटलिपुत्र से राज करते थे, दूर चीन से आए यात्रियों ने एक दुर्लभ दृश्य देखा: सार्वजनिक चिकित्साले, जहाँ निर्धनों को निःशुल्क दवा और देखभाल मिलती थी।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p06_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 202.0,
+                "d": 127.0
+              },
+              {
+                "w": "fourth",
+                "t": 329.0,
+                "d": 382.0
+              },
+              {
+                "w": "century",
+                "t": 712.0,
+                "d": 936.0
+              },
+              {
+                "w": "as",
+                "t": 1691.0,
+                "d": 297.0
+              },
+              {
+                "w": "Gupta",
+                "t": 1989.0,
+                "d": 382.0
+              },
+              {
+                "w": "kings",
+                "t": 2372.0,
+                "d": 382.0
+              },
+              {
+                "w": "ruled",
+                "t": 2755.0,
+                "d": 339.0
+              },
+              {
+                "w": "from",
+                "t": 3094.0,
+                "d": 256.0
+              },
+              {
+                "w": "Pataliputra",
+                "t": 3351.0,
+                "d": 892.0
+              },
+              {
+                "w": "visitors",
+                "t": 4670.0,
+                "d": 595.0
+              },
+              {
+                "w": "from",
+                "t": 5265.0,
+                "d": 255.0
+              },
+              {
+                "w": "distant",
+                "t": 5521.0,
+                "d": 340.0
+              },
+              {
+                "w": "China",
+                "t": 5861.0,
+                "d": 425.0
+              },
+              {
+                "w": "saw",
+                "t": 6287.0,
+                "d": 255.0
+              },
+              {
+                "w": "something",
+                "t": 6542.0,
+                "d": 553.0
+              },
+              {
+                "w": "rare",
+                "t": 7095.0,
+                "d": 595.0
+              },
+              {
+                "w": "public",
+                "t": 8457.0,
+                "d": 381.0
+              },
+              {
+                "w": "hospitals",
+                "t": 8839.0,
+                "d": 852.0
+              },
+              {
+                "w": "where",
+                "t": 9861.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 10117.0,
+                "d": 170.0
+              },
+              {
+                "w": "poor",
+                "t": 10287.0,
+                "d": 297.0
+              },
+              {
+                "w": "received",
+                "t": 10585.0,
+                "d": 467.0
+              },
+              {
+                "w": "care",
+                "t": 11052.0,
+                "d": 554.0
+              },
+              {
+                "w": "and",
+                "t": 11606.0,
+                "d": 254.0
+              },
+              {
+                "w": "medicines",
+                "t": 11860.0,
+                "d": 554.0
+              },
+              {
+                "w": "freely",
+                "t": 12414.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p07.png",
+      "shot": "interior wide shot of a hospital ward, with rows of patients and physicians moving among them",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "These houses of mercy stood on the foundations of Caraka and Sushruta, their teachings refined and redacted by later hands like Dridhabala in this same age of polished learning.",
+            "hi": "ये करुणा‑निकेतन चरक और सुश्रुत की नींव पर खड़े थे, जिनकी विद्या को द्रढबल जैसे आचार्यों ने इसी निखरे विद्या‑युग में सँवारा और संशोधित किया।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p07_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "These",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "houses",
+                "t": 457.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 840.0,
+                "d": 212.0
+              },
+              {
+                "w": "mercy",
+                "t": 1053.0,
+                "d": 425.0
+              },
+              {
+                "w": "stood",
+                "t": 1478.0,
+                "d": 297.0
+              },
+              {
+                "w": "on",
+                "t": 1776.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 1861.0,
+                "d": 127.0
+              },
+              {
+                "w": "foundations",
+                "t": 1989.0,
+                "d": 680.0
+              },
+              {
+                "w": "of",
+                "t": 2670.0,
+                "d": 170.0
+              },
+              {
+                "w": "Caraka",
+                "t": 2840.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 3223.0,
+                "d": 424.0
+              },
+              {
+                "w": "Sushruta",
+                "t": 3647.0,
+                "d": 681.0
+              },
+              {
+                "w": "their",
+                "t": 4925.0,
+                "d": 297.0
+              },
+              {
+                "w": "teachings",
+                "t": 5223.0,
+                "d": 510.0
+              },
+              {
+                "w": "refined",
+                "t": 5734.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 6244.0,
+                "d": 212.0
+              },
+              {
+                "w": "redacted",
+                "t": 6457.0,
+                "d": 553.0
+              },
+              {
+                "w": "by",
+                "t": 7010.0,
+                "d": 212.0
+              },
+              {
+                "w": "later",
+                "t": 7223.0,
+                "d": 340.0
+              },
+              {
+                "w": "hands",
+                "t": 7563.0,
+                "d": 340.0
+              },
+              {
+                "w": "like",
+                "t": 7904.0,
+                "d": 212.0
+              },
+              {
+                "w": "Dridhabala",
+                "t": 8117.0,
+                "d": 1062.0
+              },
+              {
+                "w": "in",
+                "t": 9179.0,
+                "d": 128.0
+              },
+              {
+                "w": "this",
+                "t": 9308.0,
+                "d": 170.0
+              },
+              {
+                "w": "same",
+                "t": 9478.0,
+                "d": 382.0
+              },
+              {
+                "w": "age",
+                "t": 9861.0,
+                "d": 211.0
+              },
+              {
+                "w": "of",
+                "t": 10073.0,
+                "d": 170.0
+              },
+              {
+                "w": "polished",
+                "t": 10243.0,
+                "d": 426.0
+              },
+              {
+                "w": "learning",
+                "t": 10670.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p08.png",
+      "shot": "wide shot of an open courtyard classroom where Sushruta demonstrates surgical practice on a vegetable or model, not a living body",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "First learn on wood and fruit. The living body is not for practice.",
+            "hi": "पहले लकड़ी और फल पर अभ्यास करो; जीवित देह अभ्यास का मैदान नहीं।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p08_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "First",
+                "t": 49.0,
+                "d": 379.9
+              },
+              {
+                "w": "learn",
+                "t": 478.0,
+                "d": 416.7
+              },
+              {
+                "w": "on",
+                "t": 980.4,
+                "d": 220.6
+              },
+              {
+                "w": "wood",
+                "t": 1201.0,
+                "d": 281.9
+              },
+              {
+                "w": "and",
+                "t": 1531.9,
+                "d": 232.8
+              },
+              {
+                "w": "fruit",
+                "t": 1764.7,
+                "d": 441.2
+              },
+              {
+                "w": "The",
+                "t": 3063.7,
+                "d": 110.3
+              },
+              {
+                "w": "living",
+                "t": 3174.0,
+                "d": 367.7
+              },
+              {
+                "w": "body",
+                "t": 3541.7,
+                "d": 428.9
+              },
+              {
+                "w": "is",
+                "t": 4044.1,
+                "d": 171.5
+              },
+              {
+                "w": "not",
+                "t": 4215.7,
+                "d": 294.1
+              },
+              {
+                "w": "for",
+                "t": 4509.8,
+                "d": 257.3
+              },
+              {
+                "w": "practice",
+                "t": 4767.2,
+                "d": 612.8
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p09.png",
+      "shot": "medium shot of Sushruta teaching with a chart or painted board showing anatomy",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He taught that no incision should cut a vessel by ignorance, that the healer must know veins, nerves and bones as a farmer knows his field.",
+            "hi": "वह सिखाते थे कि अज्ञान से कोई चीरा नाड़ी न काटे; वैद्य को शिराएँ, स्नायु और हड्डियाँ ऐसे जाननी चाहिए जैसे किसान अपनी ज़मीन।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p09_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "taught",
+                "t": 329.0,
+                "d": 297.0
+              },
+              {
+                "w": "that",
+                "t": 627.0,
+                "d": 255.0
+              },
+              {
+                "w": "no",
+                "t": 882.0,
+                "d": 297.0
+              },
+              {
+                "w": "incision",
+                "t": 1180.0,
+                "d": 595.0
+              },
+              {
+                "w": "should",
+                "t": 1776.0,
+                "d": 255.0
+              },
+              {
+                "w": "cut",
+                "t": 2031.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 2244.0,
+                "d": 85.0
+              },
+              {
+                "w": "vessel",
+                "t": 2329.0,
+                "d": 382.0
+              },
+              {
+                "w": "by",
+                "t": 2712.0,
+                "d": 254.0
+              },
+              {
+                "w": "ignorance",
+                "t": 2967.0,
+                "d": 894.0
+              },
+              {
+                "w": "that",
+                "t": 4500.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 4755.0,
+                "d": 170.0
+              },
+              {
+                "w": "healer",
+                "t": 4925.0,
+                "d": 340.0
+              },
+              {
+                "w": "must",
+                "t": 5265.0,
+                "d": 297.0
+              },
+              {
+                "w": "know",
+                "t": 5563.0,
+                "d": 255.0
+              },
+              {
+                "w": "veins",
+                "t": 5819.0,
+                "d": 851.0
+              },
+              {
+                "w": "nerves",
+                "t": 6840.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 7819.0,
+                "d": 297.0
+              },
+              {
+                "w": "bones",
+                "t": 8117.0,
+                "d": 680.0
+              },
+              {
+                "w": "as",
+                "t": 9179.0,
+                "d": 256.0
+              },
+              {
+                "w": "a",
+                "t": 9436.0,
+                "d": 85.0
+              },
+              {
+                "w": "farmer",
+                "t": 9521.0,
+                "d": 510.0
+              },
+              {
+                "w": "knows",
+                "t": 10031.0,
+                "d": 296.0
+              },
+              {
+                "w": "his",
+                "t": 10328.0,
+                "d": 213.0
+              },
+              {
+                "w": "field",
+                "t": 10542.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p10.png",
+      "shot": "close-up of Sushruta preparing a leaf with herbal paste beside instruments",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Surgery, in his teaching, was never naked steel alone: oils, decoctions, pastes and diet bound the wound to the rest of the body and guided healing.",
+            "hi": "उनकी शल्यविद्या में नंगी धार अकेली नहीं थी; तेल, क्वाथ, लेप और आहार से घाव को पूरे शरीर से जोड़ा जाता, और वहीं से आरोग्य की राह निकलती।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p10_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Surgery",
+                "t": 74.0,
+                "d": 851.0
+              },
+              {
+                "w": "in",
+                "t": 968.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 1095.0,
+                "d": 212.0
+              },
+              {
+                "w": "teaching",
+                "t": 1308.0,
+                "d": 850.0
+              },
+              {
+                "w": "was",
+                "t": 2158.0,
+                "d": 297.0
+              },
+              {
+                "w": "never",
+                "t": 2456.0,
+                "d": 298.0
+              },
+              {
+                "w": "naked",
+                "t": 2755.0,
+                "d": 339.0
+              },
+              {
+                "w": "steel",
+                "t": 3094.0,
+                "d": 384.0
+              },
+              {
+                "w": "alone",
+                "t": 3478.0,
+                "d": 936.0
+              },
+              {
+                "w": "oils",
+                "t": 4500.0,
+                "d": 808.0
+              },
+              {
+                "w": "decoctions",
+                "t": 5436.0,
+                "d": 1148.0
+              },
+              {
+                "w": "pastes",
+                "t": 6712.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 7521.0,
+                "d": 340.0
+              },
+              {
+                "w": "diet",
+                "t": 7861.0,
+                "d": 425.0
+              },
+              {
+                "w": "bound",
+                "t": 8287.0,
+                "d": 296.0
+              },
+              {
+                "w": "the",
+                "t": 8584.0,
+                "d": 170.0
+              },
+              {
+                "w": "wound",
+                "t": 8754.0,
+                "d": 425.0
+              },
+              {
+                "w": "to",
+                "t": 9179.0,
+                "d": 128.0
+              },
+              {
+                "w": "the",
+                "t": 9308.0,
+                "d": 127.0
+              },
+              {
+                "w": "rest",
+                "t": 9436.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 9691.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 9776.0,
+                "d": 126.0
+              },
+              {
+                "w": "body",
+                "t": 9903.0,
+                "d": 639.0
+              },
+              {
+                "w": "and",
+                "t": 10542.0,
+                "d": 424.0
+              },
+              {
+                "w": "guided",
+                "t": 10967.0,
+                "d": 384.0
+              },
+              {
+                "w": "healing",
+                "t": 11351.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p11.png",
+      "shot": "medium shot of Sushruta counseling a disfigured patient in a shaded veranda before surgery",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "We cannot restore what the law has taken, but we may give you a new form.",
+            "hi": "कानून जो छीन चुका, उसे लौटा नहीं सकते; पर हम तुम्हें एक नई आकृति दे सकते हैं।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p11_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 49.0,
+                "d": 171.6
+              },
+              {
+                "w": "cannot",
+                "t": 245.1,
+                "d": 416.7
+              },
+              {
+                "w": "restore",
+                "t": 686.3,
+                "d": 539.2
+              },
+              {
+                "w": "what",
+                "t": 1250.0,
+                "d": 281.9
+              },
+              {
+                "w": "the",
+                "t": 1531.9,
+                "d": 171.5
+              },
+              {
+                "w": "law",
+                "t": 1703.4,
+                "d": 269.6
+              },
+              {
+                "w": "has",
+                "t": 1973.0,
+                "d": 318.6
+              },
+              {
+                "w": "taken",
+                "t": 2303.9,
+                "d": 428.9
+              },
+              {
+                "w": "but",
+                "t": 3088.2,
+                "d": 220.6
+              },
+              {
+                "w": "we",
+                "t": 3308.8,
+                "d": 220.6
+              },
+              {
+                "w": "may",
+                "t": 3541.7,
+                "d": 245.1
+              },
+              {
+                "w": "give",
+                "t": 3799.0,
+                "d": 245.1
+              },
+              {
+                "w": "you",
+                "t": 4044.1,
+                "d": 159.3
+              },
+              {
+                "w": "a",
+                "t": 4277.0,
+                "d": 98.0
+              },
+              {
+                "w": "new",
+                "t": 4375.0,
+                "d": 245.1
+              },
+              {
+                "w": "form",
+                "t": 4644.6,
+                "d": 502.4
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p12.png",
+      "shot": "overhead shot of a prepared patient lying on a simple couch, with Sushruta and assistants ready, instruments nearby",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Among his three hundred procedures, he described the rebuilding of a nose from the patient’s own skin, a method our age calls plastic surgery.",
+            "hi": "उनकी तीन सौ विधियों में, उन्होंने नाक को रोगी की ही त्वचा से पुनर्निर्मित करने की रीति लिखी, जिसे आज का युग प्लास्टिक सर्जरी कहता है।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p12_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Among",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "his",
+                "t": 457.0,
+                "d": 170.0
+              },
+              {
+                "w": "three",
+                "t": 627.0,
+                "d": 255.0
+              },
+              {
+                "w": "hundred",
+                "t": 882.0,
+                "d": 297.0
+              },
+              {
+                "w": "procedures",
+                "t": 1180.0,
+                "d": 851.0
+              },
+              {
+                "w": "he",
+                "t": 2117.0,
+                "d": 255.0
+              },
+              {
+                "w": "described",
+                "t": 2372.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 2925.0,
+                "d": 169.0
+              },
+              {
+                "w": "rebuilding",
+                "t": 3094.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 3647.0,
+                "d": 171.0
+              },
+              {
+                "w": "a",
+                "t": 3819.0,
+                "d": 42.0
+              },
+              {
+                "w": "nose",
+                "t": 3861.0,
+                "d": 425.0
+              },
+              {
+                "w": "from",
+                "t": 4287.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 4457.0,
+                "d": 127.0
+              },
+              {
+                "w": "patient’s",
+                "t": 4585.0,
+                "d": 510.0
+              },
+              {
+                "w": "own",
+                "t": 5095.0,
+                "d": 297.0
+              },
+              {
+                "w": "skin",
+                "t": 5393.0,
+                "d": 595.0
+              },
+              {
+                "w": "a",
+                "t": 6329.0,
+                "d": 127.0
+              },
+              {
+                "w": "method",
+                "t": 6457.0,
+                "d": 468.0
+              },
+              {
+                "w": "our",
+                "t": 6968.0,
+                "d": 297.0
+              },
+              {
+                "w": "age",
+                "t": 7265.0,
+                "d": 340.0
+              },
+              {
+                "w": "calls",
+                "t": 7606.0,
+                "d": 425.0
+              },
+              {
+                "w": "plastic",
+                "t": 8031.0,
+                "d": 468.0
+              },
+              {
+                "w": "surgery",
+                "t": 8500.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p13.png",
+      "shot": "tight medium focusing on Sushruta’s hands as he marks the patient’s forehead skin with gentle pressure, avoiding graphic detail",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He counseled how to raise a flap from the forehead or cheek, to swing it down and shape it carefully, joining new tissue to old with fine sutures.",
+            "hi": "उन्होंने बताया कैसे माथे या गाल से त्वचा की पट्टी उठाकर नीचे घुमाएँ, सावधानी से गढ़ें, और बारीक टाँकों से नए माँस को पुराने से जोड़ें।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p13_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "counseled",
+                "t": 329.0,
+                "d": 468.0
+              },
+              {
+                "w": "how",
+                "t": 797.0,
+                "d": 212.0
+              },
+              {
+                "w": "to",
+                "t": 1010.0,
+                "d": 127.0
+              },
+              {
+                "w": "raise",
+                "t": 1138.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 1393.0,
+                "d": 85.0
+              },
+              {
+                "w": "flap",
+                "t": 1478.0,
+                "d": 340.0
+              },
+              {
+                "w": "from",
+                "t": 1819.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 1989.0,
+                "d": 127.0
+              },
+              {
+                "w": "forehead",
+                "t": 2117.0,
+                "d": 424.0
+              },
+              {
+                "w": "or",
+                "t": 2541.0,
+                "d": 213.0
+              },
+              {
+                "w": "cheek",
+                "t": 2755.0,
+                "d": 723.0
+              },
+              {
+                "w": "to",
+                "t": 3734.0,
+                "d": 127.0
+              },
+              {
+                "w": "swing",
+                "t": 3861.0,
+                "d": 296.0
+              },
+              {
+                "w": "it",
+                "t": 4158.0,
+                "d": 85.0
+              },
+              {
+                "w": "down",
+                "t": 4243.0,
+                "d": 384.0
+              },
+              {
+                "w": "and",
+                "t": 4627.0,
+                "d": 212.0
+              },
+              {
+                "w": "shape",
+                "t": 4840.0,
+                "d": 297.0
+              },
+              {
+                "w": "it",
+                "t": 5138.0,
+                "d": 127.0
+              },
+              {
+                "w": "carefully",
+                "t": 5265.0,
+                "d": 936.0
+              },
+              {
+                "w": "joining",
+                "t": 6457.0,
+                "d": 510.0
+              },
+              {
+                "w": "new",
+                "t": 6968.0,
+                "d": 255.0
+              },
+              {
+                "w": "tissue",
+                "t": 7223.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 7563.0,
+                "d": 85.0
+              },
+              {
+                "w": "old",
+                "t": 7648.0,
+                "d": 510.0
+              },
+              {
+                "w": "with",
+                "t": 8287.0,
+                "d": 296.0
+              },
+              {
+                "w": "fine",
+                "t": 8584.0,
+                "d": 298.0
+              },
+              {
+                "w": "sutures",
+                "t": 8882.0,
+                "d": 764.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p14.png",
+      "shot": "medium shot of Sushruta bandaging the patient’s nose area after the unseen procedure",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He warned of swelling, infection, failure; he weighed danger against the shame of disfigurement, and set rules so that mercy did not become recklessness.",
+            "hi": "उन्होंने सूजन, संक्रमण, असफलता की चेतावनी दी; वे संकट और विद्रूपता की लज्जा को तोलते रहे, और नियम बाँधे ताकि करुणा उच्छृंखलता न बन जाए।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p14_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "warned",
+                "t": 372.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 797.0,
+                "d": 170.0
+              },
+              {
+                "w": "swelling",
+                "t": 968.0,
+                "d": 723.0
+              },
+              {
+                "w": "infection",
+                "t": 1734.0,
+                "d": 978.0
+              },
+              {
+                "w": "failure",
+                "t": 2755.0,
+                "d": 680.0
+              },
+              {
+                "w": "he",
+                "t": 4073.0,
+                "d": 384.0
+              },
+              {
+                "w": "weighed",
+                "t": 4457.0,
+                "d": 297.0
+              },
+              {
+                "w": "danger",
+                "t": 4755.0,
+                "d": 468.0
+              },
+              {
+                "w": "against",
+                "t": 5223.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 5691.0,
+                "d": 127.0
+              },
+              {
+                "w": "shame",
+                "t": 5819.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 6244.0,
+                "d": 212.0
+              },
+              {
+                "w": "disfigurement",
+                "t": 6457.0,
+                "d": 1106.0
+              },
+              {
+                "w": "and",
+                "t": 7606.0,
+                "d": 425.0
+              },
+              {
+                "w": "set",
+                "t": 8031.0,
+                "d": 297.0
+              },
+              {
+                "w": "rules",
+                "t": 8329.0,
+                "d": 381.0
+              },
+              {
+                "w": "so",
+                "t": 8711.0,
+                "d": 468.0
+              },
+              {
+                "w": "that",
+                "t": 9179.0,
+                "d": 256.0
+              },
+              {
+                "w": "mercy",
+                "t": 9436.0,
+                "d": 510.0
+              },
+              {
+                "w": "did",
+                "t": 9946.0,
+                "d": 211.0
+              },
+              {
+                "w": "not",
+                "t": 10158.0,
+                "d": 341.0
+              },
+              {
+                "w": "become",
+                "t": 10500.0,
+                "d": 340.0
+              },
+              {
+                "w": "recklessness",
+                "t": 10840.0,
+                "d": 978.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "triumph",
+      "bg": "assets/sushruta_and_the_healer_s_knife/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/sushruta_and_the_healer_s_knife/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Each healed face steels his resolve, as Sushruta walks back to the hall where courage and steel reopen fragile futures.",
+            "hi": "हर ठीक चेहरा उसकी हिम्मत सँभाल देता है, जब सुश्रुत उस सभा की ओर लौटता है जहाँ जिगर और धार से नाज़ुक भविष्य फिर खुलते हैं।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/action/action_auto2_en.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Each",
+                "t": 72.0,
+                "d": 375.0
+              },
+              {
+                "w": "healed",
+                "t": 447.0,
+                "d": 333.0
+              },
+              {
+                "w": "face",
+                "t": 781.0,
+                "d": 416.0
+              },
+              {
+                "w": "steels",
+                "t": 1197.0,
+                "d": 416.0
+              },
+              {
+                "w": "his",
+                "t": 1614.0,
+                "d": 208.0
+              },
+              {
+                "w": "resolve",
+                "t": 1822.0,
+                "d": 707.0
+              },
+              {
+                "w": "as",
+                "t": 2864.0,
+                "d": 291.0
+              },
+              {
+                "w": "Sushruta",
+                "t": 3156.0,
+                "d": 625.0
+              },
+              {
+                "w": "walks",
+                "t": 3781.0,
+                "d": 373.0
+              },
+              {
+                "w": "back",
+                "t": 4155.0,
+                "d": 209.0
+              },
+              {
+                "w": "to",
+                "t": 4364.0,
+                "d": 125.0
+              },
+              {
+                "w": "the",
+                "t": 4489.0,
+                "d": 166.0
+              },
+              {
+                "w": "hall",
+                "t": 4656.0,
+                "d": 500.0
+              },
+              {
+                "w": "where",
+                "t": 5364.0,
+                "d": 333.0
+              },
+              {
+                "w": "courage",
+                "t": 5697.0,
+                "d": 458.0
+              },
+              {
+                "w": "and",
+                "t": 6156.0,
+                "d": 208.0
+              },
+              {
+                "w": "steel",
+                "t": 6364.0,
+                "d": 416.0
+              },
+              {
+                "w": "reopen",
+                "t": 6781.0,
+                "d": 750.0
+              },
+              {
+                "w": "fragile",
+                "t": 7572.0,
+                "d": 666.0
+              },
+              {
+                "w": "futures",
+                "t": 8239.0,
+                "d": 832.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p15.png",
+      "shot": "medium shot of the same patient some days later, sitting up with a bandaged but formed nose, Sushruta observing",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In time, such reconstructions would echo through centuries, cited by distant surgeons as proof of India’s early mastery of reshaping the human form.",
+            "hi": "समय के साथ ऐसी पुनर्रचनाएँ सदियों तक गूँजती रहीं, दूर देशों के सर्जन उन्हें भारत की प्राचीन देह‑संधान‑कला के प्रमाण के रूप में उद्धृत करते रहे।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p15_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "time",
+                "t": 287.0,
+                "d": 680.0
+              },
+              {
+                "w": "such",
+                "t": 1010.0,
+                "d": 425.0
+              },
+              {
+                "w": "reconstructions",
+                "t": 1436.0,
+                "d": 1020.0
+              },
+              {
+                "w": "would",
+                "t": 2456.0,
+                "d": 213.0
+              },
+              {
+                "w": "echo",
+                "t": 2670.0,
+                "d": 381.0
+              },
+              {
+                "w": "through",
+                "t": 3052.0,
+                "d": 341.0
+              },
+              {
+                "w": "centuries",
+                "t": 3393.0,
+                "d": 1021.0
+              },
+              {
+                "w": "cited",
+                "t": 4712.0,
+                "d": 468.0
+              },
+              {
+                "w": "by",
+                "t": 5180.0,
+                "d": 212.0
+              },
+              {
+                "w": "distant",
+                "t": 5393.0,
+                "d": 468.0
+              },
+              {
+                "w": "surgeons",
+                "t": 5861.0,
+                "d": 808.0
+              },
+              {
+                "w": "as",
+                "t": 6755.0,
+                "d": 297.0
+              },
+              {
+                "w": "proof",
+                "t": 7053.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 7351.0,
+                "d": 212.0
+              },
+              {
+                "w": "India’s",
+                "t": 7563.0,
+                "d": 510.0
+              },
+              {
+                "w": "early",
+                "t": 8117.0,
+                "d": 340.0
+              },
+              {
+                "w": "mastery",
+                "t": 8457.0,
+                "d": 851.0
+              },
+              {
+                "w": "of",
+                "t": 9308.0,
+                "d": 339.0
+              },
+              {
+                "w": "reshaping",
+                "t": 9647.0,
+                "d": 595.0
+              },
+              {
+                "w": "the",
+                "t": 10243.0,
+                "d": 171.0
+              },
+              {
+                "w": "human",
+                "t": 10414.0,
+                "d": 381.0
+              },
+              {
+                "w": "form",
+                "t": 10796.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p16.png",
+      "shot": "medium shot of Sushruta examining the eye of an elderly patient, holding a small instrument, students behind",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He also described couching the cataract, pressing the opaque lens aside so that clouded eyes might again catch the sun, though danger ever walked close beside such daring.",
+            "hi": "उन्होंने मोतियाबिंद हरने की विधि भी बताई—अपारदर्शी लेंस को एक ओर दबाकर, ताकि धुंधली आँखें फिर सूरज को पकड़ सकें, भले ही ऐसा साहस ख़तरे की परछाईं के साथ चलता हो।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p16_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "also",
+                "t": 287.0,
+                "d": 340.0
+              },
+              {
+                "w": "described",
+                "t": 627.0,
+                "d": 595.0
+              },
+              {
+                "w": "couching",
+                "t": 1223.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 1691.0,
+                "d": 127.0
+              },
+              {
+                "w": "cataract",
+                "t": 1819.0,
+                "d": 936.0
+              },
+              {
+                "w": "pressing",
+                "t": 2967.0,
+                "d": 469.0
+              },
+              {
+                "w": "the",
+                "t": 3436.0,
+                "d": 169.0
+              },
+              {
+                "w": "opaque",
+                "t": 3605.0,
+                "d": 510.0
+              },
+              {
+                "w": "lens",
+                "t": 4115.0,
+                "d": 298.0
+              },
+              {
+                "w": "aside",
+                "t": 4414.0,
+                "d": 851.0
+              },
+              {
+                "w": "so",
+                "t": 5308.0,
+                "d": 212.0
+              },
+              {
+                "w": "that",
+                "t": 5521.0,
+                "d": 255.0
+              },
+              {
+                "w": "clouded",
+                "t": 5776.0,
+                "d": 468.0
+              },
+              {
+                "w": "eyes",
+                "t": 6244.0,
+                "d": 595.0
+              },
+              {
+                "w": "might",
+                "t": 7138.0,
+                "d": 340.0
+              },
+              {
+                "w": "again",
+                "t": 7478.0,
+                "d": 425.0
+              },
+              {
+                "w": "catch",
+                "t": 7904.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 8244.0,
+                "d": 170.0
+              },
+              {
+                "w": "sun",
+                "t": 8414.0,
+                "d": 553.0
+              },
+              {
+                "w": "though",
+                "t": 9818.0,
+                "d": 340.0
+              },
+              {
+                "w": "danger",
+                "t": 10158.0,
+                "d": 384.0
+              },
+              {
+                "w": "ever",
+                "t": 10542.0,
+                "d": 339.0
+              },
+              {
+                "w": "walked",
+                "t": 10881.0,
+                "d": 425.0
+              },
+              {
+                "w": "close",
+                "t": 11307.0,
+                "d": 468.0
+              },
+              {
+                "w": "beside",
+                "t": 11775.0,
+                "d": 425.0
+              },
+              {
+                "w": "such",
+                "t": 12201.0,
+                "d": 384.0
+              },
+              {
+                "w": "daring",
+                "t": 12585.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p17.png",
+      "shot": "wide shot of Sushruta teaching midwives and younger physicians about childbirth, using a model of the womb",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "His compendium spoke, too, of childbirth and instruments for obstructed births, of how to turn the infant and lessen the peril for mother and child.",
+            "hi": "उनकी संहिता प्रसव पर भी बोलती है—कठिन जन्मों के औज़ारों पर, गर्भस्थ शिशु को कैसे घुमाएँ और माँ‑शिशु दोनों पर संकट को कैसे घटाएँ।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p17_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "His",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "compendium",
+                "t": 372.0,
+                "d": 638.0
+              },
+              {
+                "w": "spoke",
+                "t": 1010.0,
+                "d": 553.0
+              },
+              {
+                "w": "too",
+                "t": 1606.0,
+                "d": 127.0
+              },
+              {
+                "w": "of",
+                "t": 1734.0,
+                "d": 722.0
+              },
+              {
+                "w": "childbirth",
+                "t": 2456.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 3179.0,
+                "d": 171.0
+              },
+              {
+                "w": "instruments",
+                "t": 3436.0,
+                "d": 893.0
+              },
+              {
+                "w": "for",
+                "t": 4329.0,
+                "d": 255.0
+              },
+              {
+                "w": "obstructed",
+                "t": 4585.0,
+                "d": 680.0
+              },
+              {
+                "w": "births",
+                "t": 5265.0,
+                "d": 680.0
+              },
+              {
+                "w": "of",
+                "t": 6244.0,
+                "d": 297.0
+              },
+              {
+                "w": "how",
+                "t": 6542.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 6797.0,
+                "d": 127.0
+              },
+              {
+                "w": "turn",
+                "t": 6925.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 7180.0,
+                "d": 212.0
+              },
+              {
+                "w": "infant",
+                "t": 7393.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 8159.0,
+                "d": 212.0
+              },
+              {
+                "w": "lessen",
+                "t": 8372.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 8882.0,
+                "d": 126.0
+              },
+              {
+                "w": "peril",
+                "t": 9009.0,
+                "d": 596.0
+              },
+              {
+                "w": "for",
+                "t": 9606.0,
+                "d": 255.0
+              },
+              {
+                "w": "mother",
+                "t": 9861.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 10414.0,
+                "d": 212.0
+              },
+              {
+                "w": "child",
+                "t": 10627.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p18.png",
+      "shot": "slow push-in on Sushruta seated alone at night, stacking manuscripts, with a faint outline of future doctors behind him like ghosts",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Sushruta Samhita we know is no single hand, but a river of teachers and redactors, its course set in an age that loved order, analysis and careful revision.",
+            "hi": "जो सुश्रुत संहिता आज हमारे पास है, वह किसी एक हाथ की नहीं, बल्कि आचार्यों और संपादकों की धारा है, जिसकी दिशा उस युग ने तय की जो अनुशासन, विश्लेषण और सूक्ष्म संशोधन को प्यार करता था।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p18_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Sushruta",
+                "t": 329.0,
+                "d": 553.0
+              },
+              {
+                "w": "Samhita",
+                "t": 882.0,
+                "d": 510.0
+              },
+              {
+                "w": "we",
+                "t": 1393.0,
+                "d": 170.0
+              },
+              {
+                "w": "know",
+                "t": 1563.0,
+                "d": 425.0
+              },
+              {
+                "w": "is",
+                "t": 2117.0,
+                "d": 255.0
+              },
+              {
+                "w": "no",
+                "t": 2372.0,
+                "d": 211.0
+              },
+              {
+                "w": "single",
+                "t": 2584.0,
+                "d": 425.0
+              },
+              {
+                "w": "hand",
+                "t": 3009.0,
+                "d": 724.0
+              },
+              {
+                "w": "but",
+                "t": 4115.0,
+                "d": 256.0
+              },
+              {
+                "w": "a",
+                "t": 4372.0,
+                "d": 42.0
+              },
+              {
+                "w": "river",
+                "t": 4414.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 4797.0,
+                "d": 212.0
+              },
+              {
+                "w": "teachers",
+                "t": 5010.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 5606.0,
+                "d": 255.0
+              },
+              {
+                "w": "redactors",
+                "t": 5861.0,
+                "d": 936.0
+              },
+              {
+                "w": "its",
+                "t": 7308.0,
+                "d": 382.0
+              },
+              {
+                "w": "course",
+                "t": 7691.0,
+                "d": 340.0
+              },
+              {
+                "w": "set",
+                "t": 8031.0,
+                "d": 255.0
+              },
+              {
+                "w": "in",
+                "t": 8287.0,
+                "d": 85.0
+              },
+              {
+                "w": "an",
+                "t": 8372.0,
+                "d": 169.0
+              },
+              {
+                "w": "age",
+                "t": 8541.0,
+                "d": 382.0
+              },
+              {
+                "w": "that",
+                "t": 8924.0,
+                "d": 255.0
+              },
+              {
+                "w": "loved",
+                "t": 9179.0,
+                "d": 384.0
+              },
+              {
+                "w": "order",
+                "t": 9563.0,
+                "d": 764.0
+              },
+              {
+                "w": "analysis",
+                "t": 10372.0,
+                "d": 1063.0
+              },
+              {
+                "w": "and",
+                "t": 11521.0,
+                "d": 424.0
+              },
+              {
+                "w": "careful",
+                "t": 11945.0,
+                "d": 425.0
+              },
+              {
+                "w": "revision",
+                "t": 12371.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/sushruta_and_the_healer_s_knife/split_auto/s0.png",
+          "slogan": {
+            "en": "Let skill honor every life",
+            "hi": "कौशल से हर जीवन सम्मानित"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/sushruta_and_the_healer_s_knife/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/sushruta_and_the_healer_s_knife/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across centuries, Sushruta’s teachings march from Kashi’s halls into distant kingdoms, binding steel, herb, and discipline into enduring science.",
+            "hi": "सदियों से काशी के गुरुकुलों से सुश्रुत की विद्या दूर–दूर के राज्‍यों तक बढ़ती गई, जहाँ इस्पात, औषधि और अनुशासन मिलकर अमर विज्ञान बने।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/split/split_auto_en.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 72.0,
+                "d": 541.0
+              },
+              {
+                "w": "centuries",
+                "t": 614.0,
+                "d": 833.0
+              },
+              {
+                "w": "Sushruta’s",
+                "t": 1572.0,
+                "d": 832.0
+              },
+              {
+                "w": "teachings",
+                "t": 2405.0,
+                "d": 500.0
+              },
+              {
+                "w": "march",
+                "t": 2905.0,
+                "d": 459.0
+              },
+              {
+                "w": "from",
+                "t": 3364.0,
+                "d": 291.0
+              },
+              {
+                "w": "Kashi’s",
+                "t": 3656.0,
+                "d": 498.0
+              },
+              {
+                "w": "halls",
+                "t": 4155.0,
+                "d": 417.0
+              },
+              {
+                "w": "into",
+                "t": 4572.0,
+                "d": 375.0
+              },
+              {
+                "w": "distant",
+                "t": 4947.0,
+                "d": 458.0
+              },
+              {
+                "w": "kingdoms",
+                "t": 5406.0,
+                "d": 916.0
+              },
+              {
+                "w": "binding",
+                "t": 6364.0,
+                "d": 625.0
+              },
+              {
+                "w": "steel",
+                "t": 6989.0,
+                "d": 458.0
+              },
+              {
+                "w": "herb",
+                "t": 7739.0,
+                "d": 915.0
+              },
+              {
+                "w": "and",
+                "t": 8655.0,
+                "d": 376.0
+              },
+              {
+                "w": "discipline",
+                "t": 9031.0,
+                "d": 582.0
+              },
+              {
+                "w": "into",
+                "t": 9656.0,
+                "d": 290.0
+              },
+              {
+                "w": "enduring",
+                "t": 9946.0,
+                "d": 1041.0
+              },
+              {
+                "w": "science",
+                "t": 10988.0,
+                "d": 0.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p19",
+      "art": "assets/sushruta_and_the_healer_s_knife/img/p19.png",
+      "shot": "epic wide shot blending Kashi’s ancient gurukula with a Gupta hospital and a distant modern operating theatre in faint outline",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Kashi’s courtyards to Gupta hospitals and beyond, his healer’s knife reminds us that the highest craft turns knowledge into mercy, and that to cut in order to heal is a sacred trust.",
+            "hi": "काशी के आँगनों से गुप्त चिकित्सालयों और आगे तक, उनकी वैद्य की छुरी याद दिलाती है कि सर्वोच्च कौशल ज्ञान को करुणा में बदल देता है, और यह कि घाव करके चंगा करना एक पवित्र विश्वास है।"
+          },
+          "audio": {
+            "en": "assets/sushruta_and_the_healer_s_knife/audio/en/p19_0.mp3",
+            "hi": "assets/sushruta_and_the_healer_s_knife/audio/hi/p19_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "Kashi’s",
+                "t": 414.0,
+                "d": 553.0
+              },
+              {
+                "w": "courtyards",
+                "t": 968.0,
+                "d": 638.0
+              },
+              {
+                "w": "to",
+                "t": 1606.0,
+                "d": 170.0
+              },
+              {
+                "w": "Gupta",
+                "t": 1776.0,
+                "d": 425.0
+              },
+              {
+                "w": "hospitals",
+                "t": 2202.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 2840.0,
+                "d": 169.0
+              },
+              {
+                "w": "beyond",
+                "t": 3009.0,
+                "d": 767.0
+              },
+              {
+                "w": "his",
+                "t": 3819.0,
+                "d": 339.0
+              },
+              {
+                "w": "healer’s",
+                "t": 4158.0,
+                "d": 469.0
+              },
+              {
+                "w": "knife",
+                "t": 4627.0,
+                "d": 382.0
+              },
+              {
+                "w": "reminds",
+                "t": 5010.0,
+                "d": 468.0
+              },
+              {
+                "w": "us",
+                "t": 5478.0,
+                "d": 468.0
+              },
+              {
+                "w": "that",
+                "t": 5989.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 6244.0,
+                "d": 127.0
+              },
+              {
+                "w": "highest",
+                "t": 6372.0,
+                "d": 468.0
+              },
+              {
+                "w": "craft",
+                "t": 6840.0,
+                "d": 468.0
+              },
+              {
+                "w": "turns",
+                "t": 7308.0,
+                "d": 340.0
+              },
+              {
+                "w": "knowledge",
+                "t": 7648.0,
+                "d": 425.0
+              },
+              {
+                "w": "into",
+                "t": 8074.0,
+                "d": 212.0
+              },
+              {
+                "w": "mercy",
+                "t": 8287.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 9138.0,
+                "d": 297.0
+              },
+              {
+                "w": "that",
+                "t": 9436.0,
+                "d": 170.0
+              },
+              {
+                "w": "to",
+                "t": 9606.0,
+                "d": 255.0
+              },
+              {
+                "w": "cut",
+                "t": 9861.0,
+                "d": 296.0
+              },
+              {
+                "w": "in",
+                "t": 10158.0,
+                "d": 85.0
+              },
+              {
+                "w": "order",
+                "t": 10243.0,
+                "d": 298.0
+              },
+              {
+                "w": "to",
+                "t": 10542.0,
+                "d": 127.0
+              },
+              {
+                "w": "heal",
+                "t": 10670.0,
+                "d": 425.0
+              },
+              {
+                "w": "is",
+                "t": 11222.0,
+                "d": 256.0
+              },
+              {
+                "w": "a",
+                "t": 11478.0,
+                "d": 85.0
+              },
+              {
+                "w": "sacred",
+                "t": 11563.0,
+                "d": 595.0
+              },
+              {
+                "w": "trust",
+                "t": 12159.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Sushruta the Surgeon",
+    "epithets": [
+      "Father of Surgery",
+      "Pioneer of Plastic Surgery",
+      "Master of the Sushruta Samhita",
+      "Healer of Kashi"
+    ],
+    "legend": "He turned the knife of harm into a blade of mercy."
+  }
+}
