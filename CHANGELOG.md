@@ -22,8 +22,12 @@ carry **two animated action beats + a 3-band montage**, faces & action clear, em
 spoken as words. Vijayalaya + The Village Chooses Its Guardians are grandfathered from an earlier session
 (one action beat + montage, 23/27 scenes) and QA-clean.
 
-The 12-hour build continues into **breadth** (round-robin across eras) per the non-stop ask. CDN still holds
-at the original 5 approved Chola stories — no redeploy without explicit user OK.
+The 12-hour build continues into **breadth** (round-robin across eras) per the non-stop ask.
+
+**Deployed to CDN (user-approved):** all **13** Chola stories are now live on
+https://indian-history.web.app (was 5). `deploy/approved.json` `approved` = full Chola chapter; `publish.py`
+re-encoded 363 images → WebP (176 MB, 981 files) and Firebase deploy released them. Live QA verified:
+home manifest 13/13, every new story's manifest + WebP art + en/hi mp3 audio return 200.
 
 ---
 
