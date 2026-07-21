@@ -1,0 +1,2992 @@
+{
+  "id": "abbakka_s_refusal_at_ullal",
+  "title": "Abbakka's Refusal at Ullal",
+  "title_i18n": {
+    "en": "Abbakka's Refusal at Ullal",
+    "hi": "उल्लाल में अब्बक्का की ना"
+  },
+  "figure": "Rani Abbakka Chowta",
+  "era": "Coastal resistance to Portuguese expansion, 16th century",
+  "moral": "Courage can be as firm in refusing unfair demands as it is in battle.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/abbakka_s_refusal_at_ullal/intro/hero.png",
+      "name": "Rani Abbakka Chowta",
+      "epithets": [
+        "Queen of Ullal",
+        "Warrior Queen of the Western Coast",
+        "Defender of the Arabian Sea",
+        "Nemesis of the Portuguese"
+      ],
+      "legend": "She faced an empire’s fleet and refused to bow.",
+      "era": "Coastal resistance to Portuguese expansion, 16th century",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Rani Abbakka Chowta, fierce queen of Ullal, stands before foreign guns and cold demands. Her answer will decide if this small coastal kingdom lives free or kneels in fear.",
+            "hi": "उल्लाल की वीर रानी अब्बक्का चौटा पराये तोपों और सख्त फरमानों के सामने डटी है। उसका जवाब तय करेगा, ये छोटा सा तटीय राज्य आज़ाद रहेगा या डर के साए में घुटने टेक देगा।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/intro/hero_en.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Rani",
+                "t": 114.0,
+                "d": 458.0
+              },
+              {
+                "w": "Abbakka",
+                "t": 614.0,
+                "d": 500.0
+              },
+              {
+                "w": "Chowta",
+                "t": 1114.0,
+                "d": 625.0
+              },
+              {
+                "w": "fierce",
+                "t": 1947.0,
+                "d": 416.0
+              },
+              {
+                "w": "queen",
+                "t": 2364.0,
+                "d": 250.0
+              },
+              {
+                "w": "of",
+                "t": 2614.0,
+                "d": 166.0
+              },
+              {
+                "w": "Ullal",
+                "t": 2781.0,
+                "d": 541.0
+              },
+              {
+                "w": "stands",
+                "t": 3613.0,
+                "d": 500.0
+              },
+              {
+                "w": "before",
+                "t": 4113.0,
+                "d": 376.0
+              },
+              {
+                "w": "foreign",
+                "t": 4489.0,
+                "d": 375.0
+              },
+              {
+                "w": "guns",
+                "t": 4864.0,
+                "d": 416.0
+              },
+              {
+                "w": "and",
+                "t": 5322.0,
+                "d": 208.0
+              },
+              {
+                "w": "cold",
+                "t": 5531.0,
+                "d": 250.0
+              },
+              {
+                "w": "demands",
+                "t": 5781.0,
+                "d": 1208.0
+              },
+              {
+                "w": "Her",
+                "t": 7072.0,
+                "d": 333.0
+              },
+              {
+                "w": "answer",
+                "t": 7406.0,
+                "d": 416.0
+              },
+              {
+                "w": "will",
+                "t": 7822.0,
+                "d": 166.0
+              },
+              {
+                "w": "decide",
+                "t": 7989.0,
+                "d": 791.0
+              },
+              {
+                "w": "if",
+                "t": 8947.0,
+                "d": 250.0
+              },
+              {
+                "w": "this",
+                "t": 9197.0,
+                "d": 166.0
+              },
+              {
+                "w": "small",
+                "t": 9364.0,
+                "d": 458.0
+              },
+              {
+                "w": "coastal",
+                "t": 9822.0,
+                "d": 458.0
+              },
+              {
+                "w": "kingdom",
+                "t": 10281.0,
+                "d": 373.0
+              },
+              {
+                "w": "lives",
+                "t": 10655.0,
+                "d": 333.0
+              },
+              {
+                "w": "free",
+                "t": 10988.0,
+                "d": 501.0
+              },
+              {
+                "w": "or",
+                "t": 11530.0,
+                "d": 250.0
+              },
+              {
+                "w": "kneels",
+                "t": 11780.0,
+                "d": 459.0
+              },
+              {
+                "w": "in",
+                "t": 12239.0,
+                "d": 166.0
+              },
+              {
+                "w": "fear",
+                "t": 12406.0,
+                "d": 458.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/abbakka_s_refusal_at_ullal/intro/map.png",
+      "x": 0.27,
+      "y": 0.53,
+      "label": "Ullal & Mangalore, Coastal Karnataka",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, where waves crash on laterite cliffs, Ullal’s queen faces the Portuguese cannons for her people’s freedom.",
+            "hi": "यहाँ, जहाँ लहरें लालचट चट्टानों से टकराती हैं, उल्लाल की रानी आज़ादी के लिए पुर्तगाली तोपों से भिड़ती है।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/intro/map_en.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "where",
+                "t": 448.0,
+                "d": 413.0
+              },
+              {
+                "w": "waves",
+                "t": 862.0,
+                "d": 459.0
+              },
+              {
+                "w": "crash",
+                "t": 1321.0,
+                "d": 413.0
+              },
+              {
+                "w": "on",
+                "t": 1735.0,
+                "d": 137.0
+              },
+              {
+                "w": "laterite",
+                "t": 1873.0,
+                "d": 597.0
+              },
+              {
+                "w": "cliffs",
+                "t": 2471.0,
+                "d": 689.0
+              },
+              {
+                "w": "Ullal’s",
+                "t": 3389.0,
+                "d": 597.0
+              },
+              {
+                "w": "queen",
+                "t": 3987.0,
+                "d": 322.0
+              },
+              {
+                "w": "faces",
+                "t": 4310.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 4770.0,
+                "d": 183.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 4954.0,
+                "d": 643.0
+              },
+              {
+                "w": "cannons",
+                "t": 5597.0,
+                "d": 459.0
+              },
+              {
+                "w": "for",
+                "t": 6057.0,
+                "d": 183.0
+              },
+              {
+                "w": "her",
+                "t": 6241.0,
+                "d": 137.0
+              },
+              {
+                "w": "people’s",
+                "t": 6379.0,
+                "d": 505.0
+              },
+              {
+                "w": "freedom",
+                "t": 6885.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/cover.png",
+      "shot": "epic low-angle wide of the shoreline kingdom with fleets on the horizon",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the sixteenth century, when the ocean brought an empire to Ullal’s door, Rani Abbakka Chowta chose to stand between a small port and the hunger of the Portuguese crown.",
+            "hi": "सोलहवीं सदी में, जब समुंदर ने साम्राज्य को उल्लाल के दरवाज़े ला खड़ा किया, रानी अब्बक्का चौटा एक छोटे बंदरगाह और पुर्तगाली ताज की भूख के बीच दीवार बन गईं।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/cover_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 137.0
+              },
+              {
+                "w": "sixteenth",
+                "t": 448.0,
+                "d": 597.0
+              },
+              {
+                "w": "century",
+                "t": 1045.0,
+                "d": 827.0
+              },
+              {
+                "w": "when",
+                "t": 1919.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 2195.0,
+                "d": 183.0
+              },
+              {
+                "w": "ocean",
+                "t": 2379.0,
+                "d": 458.0
+              },
+              {
+                "w": "brought",
+                "t": 2837.0,
+                "d": 367.0
+              },
+              {
+                "w": "an",
+                "t": 3205.0,
+                "d": 91.0
+              },
+              {
+                "w": "empire",
+                "t": 3297.0,
+                "d": 643.0
+              },
+              {
+                "w": "to",
+                "t": 3941.0,
+                "d": 231.0
+              },
+              {
+                "w": "Ullal’s",
+                "t": 4172.0,
+                "d": 459.0
+              },
+              {
+                "w": "door",
+                "t": 4632.0,
+                "d": 597.0
+              },
+              {
+                "w": "Rani",
+                "t": 5597.0,
+                "d": 505.0
+              },
+              {
+                "w": "Abbakka",
+                "t": 6149.0,
+                "d": 551.0
+              },
+              {
+                "w": "Chowta",
+                "t": 6701.0,
+                "d": 873.0
+              },
+              {
+                "w": "chose",
+                "t": 7620.0,
+                "d": 413.0
+              },
+              {
+                "w": "to",
+                "t": 8034.0,
+                "d": 137.0
+              },
+              {
+                "w": "stand",
+                "t": 8172.0,
+                "d": 413.0
+              },
+              {
+                "w": "between",
+                "t": 8586.0,
+                "d": 367.0
+              },
+              {
+                "w": "a",
+                "t": 8954.0,
+                "d": 45.0
+              },
+              {
+                "w": "small",
+                "t": 9000.0,
+                "d": 458.0
+              },
+              {
+                "w": "port",
+                "t": 9458.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 9965.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 10195.0,
+                "d": 137.0
+              },
+              {
+                "w": "hunger",
+                "t": 10333.0,
+                "d": 366.0
+              },
+              {
+                "w": "of",
+                "t": 10700.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 10791.0,
+                "d": 183.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 10975.0,
+                "d": 689.0
+              },
+              {
+                "w": "crown",
+                "t": 11665.0,
+                "d": 598.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p01.png",
+      "shot": "wide establishing shot from high above the coastline",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On the Kanara coast, Ullal and Mangalore breathed with the monsoon trade. Pepper, rice and horses moved through their rivers, watched over by the Chowtas and their queen.",
+            "hi": "कानरा तट पर, उल्लाल और मंगळूर मानसून के सौदे से सांस लेते थे। काली मिर्च, चावल और घोड़े उनकी नदियों से गुजरते, चौटा राजघराना और उनकी रानी निगरानी करतीं।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p01_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 137.0
+              },
+              {
+                "w": "Kanara",
+                "t": 448.0,
+                "d": 459.0
+              },
+              {
+                "w": "coast",
+                "t": 908.0,
+                "d": 735.0
+              },
+              {
+                "w": "Ullal",
+                "t": 1781.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 2241.0,
+                "d": 183.0
+              },
+              {
+                "w": "Mangalore",
+                "t": 2425.0,
+                "d": 505.0
+              },
+              {
+                "w": "breathed",
+                "t": 2931.0,
+                "d": 597.0
+              },
+              {
+                "w": "with",
+                "t": 3528.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 3712.0,
+                "d": 136.0
+              },
+              {
+                "w": "monsoon",
+                "t": 3849.0,
+                "d": 551.0
+              },
+              {
+                "w": "trade",
+                "t": 4401.0,
+                "d": 828.0
+              },
+              {
+                "w": "Pepper",
+                "t": 5643.0,
+                "d": 459.0
+              },
+              {
+                "w": "rice",
+                "t": 6103.0,
+                "d": 873.0
+              },
+              {
+                "w": "and",
+                "t": 6977.0,
+                "d": 137.0
+              },
+              {
+                "w": "horses",
+                "t": 7114.0,
+                "d": 551.0
+              },
+              {
+                "w": "moved",
+                "t": 7666.0,
+                "d": 367.0
+              },
+              {
+                "w": "through",
+                "t": 8034.0,
+                "d": 321.0
+              },
+              {
+                "w": "their",
+                "t": 8356.0,
+                "d": 229.0
+              },
+              {
+                "w": "rivers",
+                "t": 8586.0,
+                "d": 597.0
+              },
+              {
+                "w": "watched",
+                "t": 9550.0,
+                "d": 459.0
+              },
+              {
+                "w": "over",
+                "t": 10010.0,
+                "d": 277.0
+              },
+              {
+                "w": "by",
+                "t": 10287.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 10471.0,
+                "d": 136.0
+              },
+              {
+                "w": "Chowtas",
+                "t": 10608.0,
+                "d": 736.0
+              },
+              {
+                "w": "and",
+                "t": 11344.0,
+                "d": 183.0
+              },
+              {
+                "w": "their",
+                "t": 11528.0,
+                "d": 228.0
+              },
+              {
+                "w": "queen",
+                "t": 11757.0,
+                "d": 598.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p02.png",
+      "shot": "medium interior shot in a dim audience hall",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By mid-century, Portuguese captains haunted these waters, claiming the king of Portugal’s right to the sea and its spice. Treaties and tributes were their first weapons.",
+            "hi": "सदी के बीच तक, पुर्तगाली कप्तान इन जलों में डटे रहे, पुर्तगाल के राजा का समंदर और मसाले पर अधिकार जताते हुए। शुरुआत में उनके हथियार थे समझौते और नज़राने।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p02_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 74.0,
+                "d": 85.0
+              },
+              {
+                "w": "mid-century",
+                "t": 159.0,
+                "d": 808.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 1138.0,
+                "d": 595.0
+              },
+              {
+                "w": "captains",
+                "t": 1734.0,
+                "d": 510.0
+              },
+              {
+                "w": "haunted",
+                "t": 2244.0,
+                "d": 468.0
+              },
+              {
+                "w": "these",
+                "t": 2712.0,
+                "d": 212.0
+              },
+              {
+                "w": "waters",
+                "t": 2925.0,
+                "d": 808.0
+              },
+              {
+                "w": "claiming",
+                "t": 3734.0,
+                "d": 467.0
+              },
+              {
+                "w": "the",
+                "t": 4201.0,
+                "d": 171.0
+              },
+              {
+                "w": "king",
+                "t": 4372.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 4627.0,
+                "d": 170.0
+              },
+              {
+                "w": "Portugal’s",
+                "t": 4797.0,
+                "d": 723.0
+              },
+              {
+                "w": "right",
+                "t": 5563.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 5946.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 6074.0,
+                "d": 127.0
+              },
+              {
+                "w": "sea",
+                "t": 6202.0,
+                "d": 297.0
+              },
+              {
+                "w": "and",
+                "t": 6712.0,
+                "d": 297.0
+              },
+              {
+                "w": "its",
+                "t": 7010.0,
+                "d": 127.0
+              },
+              {
+                "w": "spice",
+                "t": 7138.0,
+                "d": 851.0
+              },
+              {
+                "w": "Treaties",
+                "t": 8711.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 9264.0,
+                "d": 256.0
+              },
+              {
+                "w": "tributes",
+                "t": 9521.0,
+                "d": 467.0
+              },
+              {
+                "w": "were",
+                "t": 9988.0,
+                "d": 170.0
+              },
+              {
+                "w": "their",
+                "t": 10158.0,
+                "d": 213.0
+              },
+              {
+                "w": "first",
+                "t": 10372.0,
+                "d": 339.0
+              },
+              {
+                "w": "weapons",
+                "t": 10711.0,
+                "d": 809.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p03.png",
+      "shot": "medium shot focused on Abbakka and a rolled parchment",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Ullal’s queen had once agreed to tribute, buying an uncertain peace. But each year, demands grew heavier, and each ship of theirs pressed deeper into her creeks.",
+            "hi": "उल्लाल की रानी कभी नज़राना मान चुकी थीं, बस एक डगमगाती शांति खरीदने को। पर हर साल मांगें भारी होती गईं, और उनके जहाज़ हर धारा में और भीतर घुसते गए।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p03_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Ullal’s",
+                "t": 159.0,
+                "d": 468.0
+              },
+              {
+                "w": "queen",
+                "t": 627.0,
+                "d": 297.0
+              },
+              {
+                "w": "had",
+                "t": 925.0,
+                "d": 170.0
+              },
+              {
+                "w": "once",
+                "t": 1095.0,
+                "d": 297.0
+              },
+              {
+                "w": "agreed",
+                "t": 1393.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 1776.0,
+                "d": 170.0
+              },
+              {
+                "w": "tribute",
+                "t": 1946.0,
+                "d": 679.0
+              },
+              {
+                "w": "buying",
+                "t": 2755.0,
+                "d": 468.0
+              },
+              {
+                "w": "an",
+                "t": 3223.0,
+                "d": 127.0
+              },
+              {
+                "w": "uncertain",
+                "t": 3351.0,
+                "d": 722.0
+              },
+              {
+                "w": "peace",
+                "t": 4073.0,
+                "d": 852.0
+              },
+              {
+                "w": "But",
+                "t": 5180.0,
+                "d": 382.0
+              },
+              {
+                "w": "each",
+                "t": 5606.0,
+                "d": 340.0
+              },
+              {
+                "w": "year",
+                "t": 5946.0,
+                "d": 510.0
+              },
+              {
+                "w": "demands",
+                "t": 6627.0,
+                "d": 553.0
+              },
+              {
+                "w": "grew",
+                "t": 7180.0,
+                "d": 297.0
+              },
+              {
+                "w": "heavier",
+                "t": 7478.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 7861.0,
+                "d": 850.0
+              },
+              {
+                "w": "each",
+                "t": 8754.0,
+                "d": 340.0
+              },
+              {
+                "w": "ship",
+                "t": 9094.0,
+                "d": 213.0
+              },
+              {
+                "w": "of",
+                "t": 9308.0,
+                "d": 170.0
+              },
+              {
+                "w": "theirs",
+                "t": 9478.0,
+                "d": 297.0
+              },
+              {
+                "w": "pressed",
+                "t": 9776.0,
+                "d": 381.0
+              },
+              {
+                "w": "deeper",
+                "t": 10202.0,
+                "d": 594.0
+              },
+              {
+                "w": "into",
+                "t": 10796.0,
+                "d": 298.0
+              },
+              {
+                "w": "her",
+                "t": 11095.0,
+                "d": 126.0
+              },
+              {
+                "w": "creeks",
+                "t": 11222.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p04.png",
+      "shot": "tight close-up on Abbakka’s face in thought",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "female",
+          "text": {
+            "en": "If a queen pays as a subject, what remains of her throne?",
+            "hi": "जब रानी प्रजा की तरह चुकाए, तो उसके तख़्त का बचता ही क्या है?"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p04_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "If",
+                "t": 50.0,
+                "d": 237.5
+              },
+              {
+                "w": "a",
+                "t": 300.0,
+                "d": 50.0
+              },
+              {
+                "w": "queen",
+                "t": 362.5,
+                "d": 337.5
+              },
+              {
+                "w": "pays",
+                "t": 712.5,
+                "d": 337.5
+              },
+              {
+                "w": "as",
+                "t": 1062.5,
+                "d": 187.5
+              },
+              {
+                "w": "a",
+                "t": 1262.5,
+                "d": 50.0
+              },
+              {
+                "w": "subject",
+                "t": 1325.0,
+                "d": 587.5
+              },
+              {
+                "w": "what",
+                "t": 2112.5,
+                "d": 312.5
+              },
+              {
+                "w": "remains",
+                "t": 2437.5,
+                "d": 437.5
+              },
+              {
+                "w": "of",
+                "t": 2887.5,
+                "d": 137.5
+              },
+              {
+                "w": "her",
+                "t": 3037.5,
+                "d": 125.0
+              },
+              {
+                "w": "throne",
+                "t": 3175.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p05.png",
+      "shot": "medium shot of Abbakka addressing a small council",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "She listened to chiefs and merchants. Some feared ruin if tribute stopped. Others whispered of honour and the old rights of the coast.",
+            "hi": "उन्होंने सरदारों और सौदागरों की सुनी। कुछ को डर था कि नज़राना रुकेगा तो बरबादी आएगी। कुछ ने फुसफुसाकर इज़्ज़त और तट के पुराने हकों की बात की।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p05_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "She",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "listened",
+                "t": 310.0,
+                "d": 413.0
+              },
+              {
+                "w": "to",
+                "t": 724.0,
+                "d": 137.0
+              },
+              {
+                "w": "chiefs",
+                "t": 862.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 1459.0,
+                "d": 229.0
+              },
+              {
+                "w": "merchants",
+                "t": 1689.0,
+                "d": 873.0
+              },
+              {
+                "w": "Some",
+                "t": 3160.0,
+                "d": 459.0
+              },
+              {
+                "w": "feared",
+                "t": 3620.0,
+                "d": 366.0
+              },
+              {
+                "w": "ruin",
+                "t": 3987.0,
+                "d": 459.0
+              },
+              {
+                "w": "if",
+                "t": 4447.0,
+                "d": 231.0
+              },
+              {
+                "w": "tribute",
+                "t": 4678.0,
+                "d": 459.0
+              },
+              {
+                "w": "stopped",
+                "t": 5137.0,
+                "d": 735.0
+              },
+              {
+                "w": "Others",
+                "t": 6701.0,
+                "d": 505.0
+              },
+              {
+                "w": "whispered",
+                "t": 7206.0,
+                "d": 551.0
+              },
+              {
+                "w": "of",
+                "t": 7758.0,
+                "d": 183.0
+              },
+              {
+                "w": "honour",
+                "t": 7942.0,
+                "d": 275.0
+              },
+              {
+                "w": "and",
+                "t": 8218.0,
+                "d": 735.0
+              },
+              {
+                "w": "the",
+                "t": 8954.0,
+                "d": 183.0
+              },
+              {
+                "w": "old",
+                "t": 9137.0,
+                "d": 367.0
+              },
+              {
+                "w": "rights",
+                "t": 9505.0,
+                "d": 275.0
+              },
+              {
+                "w": "of",
+                "t": 9781.0,
+                "d": 136.0
+              },
+              {
+                "w": "the",
+                "t": 9918.0,
+                "d": 139.0
+              },
+              {
+                "w": "coast",
+                "t": 10057.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p06.png",
+      "shot": "dramatic three-quarter shot as Abbakka rises",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "female",
+          "text": {
+            "en": "We will trade as equals. We will not pay to be chained.",
+            "hi": "हम बराबरी से सौदा करेंगे। ज़ंजीर पहनने के पैसे नहीं देंगे।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p06_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 50.0,
+                "d": 275.0
+              },
+              {
+                "w": "will",
+                "t": 337.5,
+                "d": 162.5
+              },
+              {
+                "w": "trade",
+                "t": 512.5,
+                "d": 400.0
+              },
+              {
+                "w": "as",
+                "t": 925.0,
+                "d": 287.5
+              },
+              {
+                "w": "equals",
+                "t": 1225.0,
+                "d": 612.5
+              },
+              {
+                "w": "We",
+                "t": 2700.0,
+                "d": 250.0
+              },
+              {
+                "w": "will",
+                "t": 2962.5,
+                "d": 187.5
+              },
+              {
+                "w": "not",
+                "t": 3162.5,
+                "d": 287.5
+              },
+              {
+                "w": "pay",
+                "t": 3462.5,
+                "d": 150.0
+              },
+              {
+                "w": "to",
+                "t": 3625.0,
+                "d": 112.5
+              },
+              {
+                "w": "be",
+                "t": 3750.0,
+                "d": 162.5
+              },
+              {
+                "w": "chained",
+                "t": 3925.0,
+                "d": 437.5
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/abbakka_s_refusal_at_ullal/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/abbakka_s_refusal_at_ullal/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "She claimed the night as her ally, reading every wave and wind as signals in a war for her coastline.",
+            "hi": "उसने रात को अपना साथी बना लिया, हर लहर और हवा को अपने तट की जंग का इशारा पढ़ा।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/action/action_auto_en.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "She",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "claimed",
+                "t": 402.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 724.0,
+                "d": 137.0
+              },
+              {
+                "w": "night",
+                "t": 862.0,
+                "d": 413.0
+              },
+              {
+                "w": "as",
+                "t": 1321.0,
+                "d": 229.0
+              },
+              {
+                "w": "her",
+                "t": 1551.0,
+                "d": 137.0
+              },
+              {
+                "w": "ally",
+                "t": 1689.0,
+                "d": 505.0
+              },
+              {
+                "w": "reading",
+                "t": 2654.0,
+                "d": 643.0
+              },
+              {
+                "w": "every",
+                "t": 3297.0,
+                "d": 505.0
+              },
+              {
+                "w": "wave",
+                "t": 3803.0,
+                "d": 368.0
+              },
+              {
+                "w": "and",
+                "t": 4172.0,
+                "d": 137.0
+              },
+              {
+                "w": "wind",
+                "t": 4310.0,
+                "d": 781.0
+              },
+              {
+                "w": "as",
+                "t": 5137.0,
+                "d": 229.0
+              },
+              {
+                "w": "signals",
+                "t": 5367.0,
+                "d": 597.0
+              },
+              {
+                "w": "in",
+                "t": 5965.0,
+                "d": 137.0
+              },
+              {
+                "w": "a",
+                "t": 6103.0,
+                "d": 91.0
+              },
+              {
+                "w": "war",
+                "t": 6195.0,
+                "d": 459.0
+              },
+              {
+                "w": "for",
+                "t": 6655.0,
+                "d": 229.0
+              },
+              {
+                "w": "her",
+                "t": 6885.0,
+                "d": 137.0
+              },
+              {
+                "w": "coastline",
+                "t": 7022.0,
+                "d": 735.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p07.png",
+      "shot": "wide sea horizon shot with distant ships",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Her refusal travelled quickly. In 1555, Lisbon’s answer came riding the waves: twenty-one sails under Dom Álvaro da Silveira, sent to correct a defiant queen of 'Olala'.",
+            "hi": "उनकी ना की खबर दूर तक पहुंची। १५५५ में लिस्बन का जवाब लहरों पर चढ़कर आया—इक्कीस जहाज़, डोम आल्वारो दा सिलवेइरा के झंडे तले, 'ओलाला' की ज़िद्दी रानी को सीधा करने भेजे गए।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p07_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Her",
+                "t": 117.0,
+                "d": 170.0
+              },
+              {
+                "w": "refusal",
+                "t": 287.0,
+                "d": 595.0
+              },
+              {
+                "w": "travelled",
+                "t": 882.0,
+                "d": 468.0
+              },
+              {
+                "w": "quickly",
+                "t": 1351.0,
+                "d": 1021.0
+              },
+              {
+                "w": "In 1555",
+                "t": 2712.0,
+                "d": 1574.0
+              },
+              {
+                "w": "Lisbon’s",
+                "t": 4329.0,
+                "d": 638.0
+              },
+              {
+                "w": "answer",
+                "t": 4968.0,
+                "d": 468.0
+              },
+              {
+                "w": "came",
+                "t": 5436.0,
+                "d": 297.0
+              },
+              {
+                "w": "riding",
+                "t": 5734.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 6117.0,
+                "d": 127.0
+              },
+              {
+                "w": "waves",
+                "t": 6244.0,
+                "d": 680.0
+              },
+              {
+                "w": "twenty-one",
+                "t": 7308.0,
+                "d": 553.0
+              },
+              {
+                "w": "sails",
+                "t": 7861.0,
+                "d": 382.0
+              },
+              {
+                "w": "under",
+                "t": 8244.0,
+                "d": 255.0
+              },
+              {
+                "w": "Dom",
+                "t": 8500.0,
+                "d": 339.0
+              },
+              {
+                "w": "Álvaro",
+                "t": 8839.0,
+                "d": 724.0
+              },
+              {
+                "w": "da",
+                "t": 9563.0,
+                "d": 978.0
+              },
+              {
+                "w": "Silveira",
+                "t": 10627.0,
+                "d": 382.0
+              },
+              {
+                "w": "sent",
+                "t": 11010.0,
+                "d": 85.0
+              },
+              {
+                "w": "to",
+                "t": 11095.0,
+                "d": 340.0
+              },
+              {
+                "w": "correct",
+                "t": 11436.0,
+                "d": 42.0
+              },
+              {
+                "w": "a",
+                "t": 11478.0,
+                "d": 552.0
+              },
+              {
+                "w": "defiant",
+                "t": 12030.0,
+                "d": 255.0
+              },
+              {
+                "w": "queen",
+                "t": 12286.0,
+                "d": 213.0
+              },
+              {
+                "w": "of",
+                "t": 12500.0,
+                "d": 638.0
+              },
+              {
+                "w": "Olala",
+                "t": 13138.0,
+                "d": 0.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p08.png",
+      "shot": "low-angle shot from the deck of a Portuguese ship toward the coast",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "To them she was just 'the queen of Ullal', a coastal ruler to be bent. Yet their own chroniclers would remember her as a persistent thorn along the Mangalore shore.",
+            "hi": "उनके लिए वो बस 'उल्लाल की रानी' थीं, एक तटी शासक, जिसे मोड़ा जा सके। पर उनके खुद के इतिहासकार उन्हें मंगळूर किनारे की एक चुभती हुई कांटा मानकर लिख गए।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p08_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "To",
+                "t": 74.0,
+                "d": 127.0
+              },
+              {
+                "w": "them",
+                "t": 202.0,
+                "d": 255.0
+              },
+              {
+                "w": "she",
+                "t": 457.0,
+                "d": 212.0
+              },
+              {
+                "w": "was",
+                "t": 670.0,
+                "d": 212.0
+              },
+              {
+                "w": "just",
+                "t": 882.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 1265.0,
+                "d": 255.0
+              },
+              {
+                "w": "queen",
+                "t": 1521.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 1904.0,
+                "d": 170.0
+              },
+              {
+                "w": "Ullal",
+                "t": 2074.0,
+                "d": 595.0
+              },
+              {
+                "w": "a",
+                "t": 3052.0,
+                "d": 256.0
+              },
+              {
+                "w": "coastal",
+                "t": 3308.0,
+                "d": 468.0
+              },
+              {
+                "w": "ruler",
+                "t": 3776.0,
+                "d": 339.0
+              },
+              {
+                "w": "to",
+                "t": 4115.0,
+                "d": 127.0
+              },
+              {
+                "w": "be",
+                "t": 4243.0,
+                "d": 128.0
+              },
+              {
+                "w": "bent",
+                "t": 4372.0,
+                "d": 723.0
+              },
+              {
+                "w": "Yet",
+                "t": 5776.0,
+                "d": 340.0
+              },
+              {
+                "w": "their",
+                "t": 6117.0,
+                "d": 297.0
+              },
+              {
+                "w": "own",
+                "t": 6414.0,
+                "d": 170.0
+              },
+              {
+                "w": "chroniclers",
+                "t": 6585.0,
+                "d": 723.0
+              },
+              {
+                "w": "would",
+                "t": 7308.0,
+                "d": 212.0
+              },
+              {
+                "w": "remember",
+                "t": 7521.0,
+                "d": 425.0
+              },
+              {
+                "w": "her",
+                "t": 7946.0,
+                "d": 425.0
+              },
+              {
+                "w": "as",
+                "t": 8372.0,
+                "d": 339.0
+              },
+              {
+                "w": "a",
+                "t": 8711.0,
+                "d": 86.0
+              },
+              {
+                "w": "persistent",
+                "t": 8797.0,
+                "d": 638.0
+              },
+              {
+                "w": "thorn",
+                "t": 9436.0,
+                "d": 425.0
+              },
+              {
+                "w": "along",
+                "t": 9861.0,
+                "d": 381.0
+              },
+              {
+                "w": "the",
+                "t": 10243.0,
+                "d": 128.0
+              },
+              {
+                "w": "Mangalore",
+                "t": 10372.0,
+                "d": 468.0
+              },
+              {
+                "w": "shore",
+                "t": 10840.0,
+                "d": 467.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p09.png",
+      "shot": "medium shot at a seaside outpost, combining land and sea",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "She prepared Ullal first for endurance. Watchmen for every creek, envoys to inland allies, orders that fields be hidden and boats drawn up beyond easy reach.",
+            "hi": "उन्होंने पहले उल्लाल को सहने लायक बनाया। हर धारा पर निगरानी, भीतर के साथियों को दूत, खेत छिपाने और नावें दूर, सुरक्षित खींच ले जाने के हुक्म।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p09_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "She",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "prepared",
+                "t": 356.0,
+                "d": 597.0
+              },
+              {
+                "w": "Ullal",
+                "t": 954.0,
+                "d": 459.0
+              },
+              {
+                "w": "first",
+                "t": 1413.0,
+                "d": 505.0
+              },
+              {
+                "w": "for",
+                "t": 1919.0,
+                "d": 229.0
+              },
+              {
+                "w": "endurance",
+                "t": 2149.0,
+                "d": 1011.0
+              },
+              {
+                "w": "Watchmen",
+                "t": 3758.0,
+                "d": 642.0
+              },
+              {
+                "w": "for",
+                "t": 4401.0,
+                "d": 231.0
+              },
+              {
+                "w": "every",
+                "t": 4678.0,
+                "d": 459.0
+              },
+              {
+                "w": "creek",
+                "t": 5137.0,
+                "d": 873.0
+              },
+              {
+                "w": "envoys",
+                "t": 6103.0,
+                "d": 551.0
+              },
+              {
+                "w": "to",
+                "t": 6655.0,
+                "d": 183.0
+              },
+              {
+                "w": "inland",
+                "t": 6839.0,
+                "d": 459.0
+              },
+              {
+                "w": "allies",
+                "t": 7298.0,
+                "d": 873.0
+              },
+              {
+                "w": "orders",
+                "t": 8586.0,
+                "d": 551.0
+              },
+              {
+                "w": "that",
+                "t": 9137.0,
+                "d": 228.0
+              },
+              {
+                "w": "fields",
+                "t": 9366.0,
+                "d": 459.0
+              },
+              {
+                "w": "be",
+                "t": 9826.0,
+                "d": 183.0
+              },
+              {
+                "w": "hidden",
+                "t": 10010.0,
+                "d": 736.0
+              },
+              {
+                "w": "and",
+                "t": 10839.0,
+                "d": 320.0
+              },
+              {
+                "w": "boats",
+                "t": 11159.0,
+                "d": 368.0
+              },
+              {
+                "w": "drawn",
+                "t": 11528.0,
+                "d": 367.0
+              },
+              {
+                "w": "up",
+                "t": 11896.0,
+                "d": 136.0
+              },
+              {
+                "w": "beyond",
+                "t": 12033.0,
+                "d": 506.0
+              },
+              {
+                "w": "easy",
+                "t": 12540.0,
+                "d": 413.0
+              },
+              {
+                "w": "reach",
+                "t": 12954.0,
+                "d": 735.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p10.png",
+      "shot": "intimate medium shot of Abbakka with village heads",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "female",
+          "text": {
+            "en": "Whatever comes by sea, remember: Ullal is not for sale.",
+            "hi": "समंदर से जो भी आए, याद रखो—उल्लाल बिकाऊ नहीं है।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p10_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Whatever",
+                "t": 50.0,
+                "d": 625.0
+              },
+              {
+                "w": "comes",
+                "t": 687.5,
+                "d": 362.5
+              },
+              {
+                "w": "by",
+                "t": 1062.5,
+                "d": 237.5
+              },
+              {
+                "w": "sea",
+                "t": 1312.5,
+                "d": 362.5
+              },
+              {
+                "w": "remember",
+                "t": 1787.5,
+                "d": 650.0
+              },
+              {
+                "w": "Ullal",
+                "t": 2650.0,
+                "d": 487.5
+              },
+              {
+                "w": "is",
+                "t": 3150.0,
+                "d": 200.0
+              },
+              {
+                "w": "not",
+                "t": 3362.5,
+                "d": 275.0
+              },
+              {
+                "w": "for",
+                "t": 3650.0,
+                "d": 225.0
+              },
+              {
+                "w": "sale",
+                "t": 3887.5,
+                "d": 400.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p11.png",
+      "shot": "dramatic wide shot of Portuguese longboats approaching the river mouth",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The fleet did not find a meek vassal. They found a shore already hardened, its queen unwilling to yield river, port or coin to foreign order.",
+            "hi": "बेड़े को कोई झुकी हुई जागीरदार नहीं मिली। उन्हें मिला एक सख़्त पड़ा तट, जिसकी रानी ने नदी, बंदरगाह या सिक्का किसी पराए हुक्म को देने से मना कर दिया।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p11_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 80.0,
+                "d": 183.0
+              },
+              {
+                "w": "fleet",
+                "t": 264.0,
+                "d": 367.0
+              },
+              {
+                "w": "did",
+                "t": 632.0,
+                "d": 183.0
+              },
+              {
+                "w": "not",
+                "t": 816.0,
+                "d": 275.0
+              },
+              {
+                "w": "find",
+                "t": 1091.0,
+                "d": 367.0
+              },
+              {
+                "w": "a",
+                "t": 1459.0,
+                "d": 91.0
+              },
+              {
+                "w": "meek",
+                "t": 1551.0,
+                "d": 321.0
+              },
+              {
+                "w": "vassal",
+                "t": 1873.0,
+                "d": 1057.0
+              },
+              {
+                "w": "They",
+                "t": 3297.0,
+                "d": 231.0
+              },
+              {
+                "w": "found",
+                "t": 3528.0,
+                "d": 320.0
+              },
+              {
+                "w": "a",
+                "t": 3849.0,
+                "d": 45.0
+              },
+              {
+                "w": "shore",
+                "t": 3895.0,
+                "d": 505.0
+              },
+              {
+                "w": "already",
+                "t": 4401.0,
+                "d": 552.0
+              },
+              {
+                "w": "hardened",
+                "t": 4954.0,
+                "d": 735.0
+              },
+              {
+                "w": "its",
+                "t": 6241.0,
+                "d": 321.0
+              },
+              {
+                "w": "queen",
+                "t": 6563.0,
+                "d": 459.0
+              },
+              {
+                "w": "unwilling",
+                "t": 7022.0,
+                "d": 597.0
+              },
+              {
+                "w": "to",
+                "t": 7620.0,
+                "d": 137.0
+              },
+              {
+                "w": "yield",
+                "t": 7758.0,
+                "d": 367.0
+              },
+              {
+                "w": "river",
+                "t": 8126.0,
+                "d": 643.0
+              },
+              {
+                "w": "port",
+                "t": 9045.0,
+                "d": 504.0
+              },
+              {
+                "w": "or",
+                "t": 9597.0,
+                "d": 275.0
+              },
+              {
+                "w": "coin",
+                "t": 9873.0,
+                "d": 413.0
+              },
+              {
+                "w": "to",
+                "t": 10287.0,
+                "d": 183.0
+              },
+              {
+                "w": "foreign",
+                "t": 10471.0,
+                "d": 459.0
+              },
+              {
+                "w": "order",
+                "t": 10931.0,
+                "d": 505.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/abbakka_s_refusal_at_ullal/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/abbakka_s_refusal_at_ullal/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Her signal arrow blazed over the river, unleashing hidden batteries and ambushes long prepared in silence.",
+            "hi": "उसका संकेत वाला तीर नदी के ऊपर दहका, और छुपी तोपें व घातक घातें अचानक बरस पड़ीं।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/action/action_auto2_en.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Her",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "signal",
+                "t": 310.0,
+                "d": 480.0
+              },
+              {
+                "w": "arrow",
+                "t": 830.0,
+                "d": 360.0
+              },
+              {
+                "w": "blazed",
+                "t": 1190.0,
+                "d": 320.0
+              },
+              {
+                "w": "over",
+                "t": 1510.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 1710.0,
+                "d": 120.0
+              },
+              {
+                "w": "river",
+                "t": 1830.0,
+                "d": 599.0
+              },
+              {
+                "w": "unleashing",
+                "t": 2670.0,
+                "d": 560.0
+              },
+              {
+                "w": "hidden",
+                "t": 3230.0,
+                "d": 280.0
+              },
+              {
+                "w": "batteries",
+                "t": 3510.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 4030.0,
+                "d": 160.0
+              },
+              {
+                "w": "ambushes",
+                "t": 4190.0,
+                "d": 560.0
+              },
+              {
+                "w": "long",
+                "t": 4750.0,
+                "d": 280.0
+              },
+              {
+                "w": "prepared",
+                "t": 5030.0,
+                "d": 440.0
+              },
+              {
+                "w": "in",
+                "t": 5470.0,
+                "d": 80.0
+              },
+              {
+                "w": "silence",
+                "t": 5550.0,
+                "d": 760.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p12.png",
+      "shot": "medium shot on Abbakka overseeing defenses at dusk",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Exact blows and counterblows blur in the surviving lines of Portuguese record. But they agree on this: Ullal did not fall into their pattern of tribute and control.",
+            "hi": "घात और पलटवार की सही तस्वीर पुर्तगाली रिकॉर्ड की बची पंक्तियों में धुंधली है। पर एक बात पर सब सहमत हैं—उल्लाल उनके नज़राने और गिरफ्त वाले ढांचे में नहीं ढला।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p12_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Exact",
+                "t": 80.0,
+                "d": 643.0
+              },
+              {
+                "w": "blows",
+                "t": 724.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 1183.0,
+                "d": 229.0
+              },
+              {
+                "w": "counterblows",
+                "t": 1413.0,
+                "d": 827.0
+              },
+              {
+                "w": "blur",
+                "t": 2241.0,
+                "d": 412.0
+              },
+              {
+                "w": "in",
+                "t": 2654.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 2791.0,
+                "d": 139.0
+              },
+              {
+                "w": "surviving",
+                "t": 2931.0,
+                "d": 735.0
+              },
+              {
+                "w": "lines",
+                "t": 3666.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 4034.0,
+                "d": 137.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 4172.0,
+                "d": 643.0
+              },
+              {
+                "w": "record",
+                "t": 4816.0,
+                "d": 827.0
+              },
+              {
+                "w": "But",
+                "t": 6701.0,
+                "d": 229.0
+              },
+              {
+                "w": "they",
+                "t": 6931.0,
+                "d": 183.0
+              },
+              {
+                "w": "agree",
+                "t": 7114.0,
+                "d": 275.0
+              },
+              {
+                "w": "on",
+                "t": 7390.0,
+                "d": 137.0
+              },
+              {
+                "w": "this",
+                "t": 7528.0,
+                "d": 551.0
+              },
+              {
+                "w": "Ullal",
+                "t": 8954.0,
+                "d": 458.0
+              },
+              {
+                "w": "did",
+                "t": 9412.0,
+                "d": 229.0
+              },
+              {
+                "w": "not",
+                "t": 9642.0,
+                "d": 139.0
+              },
+              {
+                "w": "fall",
+                "t": 9781.0,
+                "d": 367.0
+              },
+              {
+                "w": "into",
+                "t": 10149.0,
+                "d": 229.0
+              },
+              {
+                "w": "their",
+                "t": 10379.0,
+                "d": 228.0
+              },
+              {
+                "w": "pattern",
+                "t": 10608.0,
+                "d": 506.0
+              },
+              {
+                "w": "of",
+                "t": 11114.0,
+                "d": 183.0
+              },
+              {
+                "w": "tribute",
+                "t": 11298.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/abbakka_s_refusal_at_ullal/split_auto/s0.png",
+          "slogan": {
+            "en": "No empire owns our seas",
+            "hi": "कोई साम्राज्य हमारे सागर नहीं"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/abbakka_s_refusal_at_ullal/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/abbakka_s_refusal_at_ullal/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Amid smoke and salt spray, Ullal rose as one, hurling empire back into the churning Arabian Sea.",
+            "hi": "धुएँ और खारे छींटों के बीच, उडुप्पी एक होकर उठा और साम्राज्य को उफनती अरब सागर में धकेल दिया।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/split/split_auto_en.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Amid",
+                "t": 72.0,
+                "d": 375.0
+              },
+              {
+                "w": "smoke",
+                "t": 447.0,
+                "d": 416.0
+              },
+              {
+                "w": "and",
+                "t": 864.0,
+                "d": 166.0
+              },
+              {
+                "w": "salt",
+                "t": 1031.0,
+                "d": 333.0
+              },
+              {
+                "w": "spray",
+                "t": 1364.0,
+                "d": 541.0
+              },
+              {
+                "w": "Ullal",
+                "t": 2322.0,
+                "d": 416.0
+              },
+              {
+                "w": "rose",
+                "t": 2739.0,
+                "d": 290.0
+              },
+              {
+                "w": "as",
+                "t": 3030.0,
+                "d": 251.0
+              },
+              {
+                "w": "one",
+                "t": 3281.0,
+                "d": 748.0
+              },
+              {
+                "w": "hurling",
+                "t": 4155.0,
+                "d": 584.0
+              },
+              {
+                "w": "empire",
+                "t": 4739.0,
+                "d": 583.0
+              },
+              {
+                "w": "back",
+                "t": 5322.0,
+                "d": 375.0
+              },
+              {
+                "w": "into",
+                "t": 5697.0,
+                "d": 208.0
+              },
+              {
+                "w": "the",
+                "t": 5906.0,
+                "d": 166.0
+              },
+              {
+                "w": "churning",
+                "t": 6072.0,
+                "d": 500.0
+              },
+              {
+                "w": "Arabian",
+                "t": 6614.0,
+                "d": 583.0
+              },
+              {
+                "w": "Sea",
+                "t": 7197.0,
+                "d": 333.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p13.png",
+      "shot": "somber interior shot after the fleet’s withdrawal",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The expedition of twenty-one sail did not secure the obedience they sought. The queen of Ullal remained what the gazetteers would later call her: a persistent opponent along the Kanara coast.",
+            "hi": "इक्कीस जहाज़ों का यह धावा वह फ़रमांबरदारी नहीं ला सका जो वे चाहते थे। उल्लाल की रानी वही रहीं, जैसा राज-गज़ट बाद में लिखेगा—कानरा तट की अडिग दुश्मन।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p13_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 80.0,
+                "d": 183.0
+              },
+              {
+                "w": "expedition",
+                "t": 264.0,
+                "d": 689.0
+              },
+              {
+                "w": "of",
+                "t": 954.0,
+                "d": 229.0
+              },
+              {
+                "w": "twenty-one",
+                "t": 1183.0,
+                "d": 505.0
+              },
+              {
+                "w": "sail",
+                "t": 1689.0,
+                "d": 413.0
+              },
+              {
+                "w": "did",
+                "t": 2103.0,
+                "d": 183.0
+              },
+              {
+                "w": "not",
+                "t": 2287.0,
+                "d": 321.0
+              },
+              {
+                "w": "secure",
+                "t": 2609.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 3068.0,
+                "d": 136.0
+              },
+              {
+                "w": "obedience",
+                "t": 3205.0,
+                "d": 689.0
+              },
+              {
+                "w": "they",
+                "t": 3895.0,
+                "d": 185.0
+              },
+              {
+                "w": "sought",
+                "t": 4080.0,
+                "d": 1287.0
+              },
+              {
+                "w": "The",
+                "t": 5505.0,
+                "d": 229.0
+              },
+              {
+                "w": "queen",
+                "t": 5735.0,
+                "d": 275.0
+              },
+              {
+                "w": "of",
+                "t": 6011.0,
+                "d": 183.0
+              },
+              {
+                "w": "Ullal",
+                "t": 6195.0,
+                "d": 735.0
+              },
+              {
+                "w": "remained",
+                "t": 6977.0,
+                "d": 597.0
+              },
+              {
+                "w": "what",
+                "t": 7574.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 7758.0,
+                "d": 183.0
+              },
+              {
+                "w": "gazetteers",
+                "t": 7942.0,
+                "d": 827.0
+              },
+              {
+                "w": "would",
+                "t": 8770.0,
+                "d": 229.0
+              },
+              {
+                "w": "later",
+                "t": 9000.0,
+                "d": 366.0
+              },
+              {
+                "w": "call",
+                "t": 9366.0,
+                "d": 322.0
+              },
+              {
+                "w": "her",
+                "t": 9689.0,
+                "d": 413.0
+              },
+              {
+                "w": "a",
+                "t": 10333.0,
+                "d": 321.0
+              },
+              {
+                "w": "persistent",
+                "t": 10655.0,
+                "d": 643.0
+              },
+              {
+                "w": "opponent",
+                "t": 11298.0,
+                "d": 689.0
+              },
+              {
+                "w": "along",
+                "t": 11988.0,
+                "d": 413.0
+              },
+              {
+                "w": "the",
+                "t": 12402.0,
+                "d": 137.0
+              },
+              {
+                "w": "Kanara",
+                "t": 12540.0,
+                "d": 458.0
+              },
+              {
+                "w": "coast",
+                "t": 12998.0,
+                "d": 690.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p14.png",
+      "shot": "close-up of Abbakka’s hand on a map and a ship token",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "female",
+          "text": {
+            "en": "They will write their version. Our rivers will remember ours.",
+            "hi": "वे अपनी कहानी लिखेंगे। हमारी नदियाँ हमारी याद रखेंगी।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p14_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "They",
+                "t": 50.0,
+                "d": 275.0
+              },
+              {
+                "w": "will",
+                "t": 337.5,
+                "d": 200.0
+              },
+              {
+                "w": "write",
+                "t": 550.0,
+                "d": 325.0
+              },
+              {
+                "w": "their",
+                "t": 887.5,
+                "d": 200.0
+              },
+              {
+                "w": "version",
+                "t": 1100.0,
+                "d": 512.5
+              },
+              {
+                "w": "Our",
+                "t": 2475.0,
+                "d": 250.0
+              },
+              {
+                "w": "rivers",
+                "t": 2737.5,
+                "d": 437.5
+              },
+              {
+                "w": "will",
+                "t": 3187.5,
+                "d": 175.0
+              },
+              {
+                "w": "remember",
+                "t": 3375.0,
+                "d": 500.0
+              },
+              {
+                "w": "ours",
+                "t": 3887.5,
+                "d": 412.5
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/abbakka_s_refusal_at_ullal/img/p15.png",
+      "shot": "wide epilogue shot of the modern Mangalore-Ullal coastline",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today, the records name a 'queen of Ullal' who refused tribute, and coastal lore gives her the name Abbakka Chowta—a reminder that even small ports can say no to an ocean empire.",
+            "hi": "आज के रिकॉर्ड में 'उल्लाल की रानी' दर्ज है, जिसने नज़राना ठुकराया, और तट की लोककथाएँ उसे अब्बक्का चौटा कहती हैं—याद दिलाती हुई कि छोटा सा बंदरगाह भी सागर साम्राज्य को ना कह सकता है।"
+          },
+          "audio": {
+            "en": "assets/abbakka_s_refusal_at_ullal/audio/en/p15_0.mp3",
+            "hi": "assets/abbakka_s_refusal_at_ullal/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 755.0,
+                "d": 212.0
+              },
+              {
+                "w": "records",
+                "t": 968.0,
+                "d": 468.0
+              },
+              {
+                "w": "name",
+                "t": 1436.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 1734.0,
+                "d": 212.0
+              },
+              {
+                "w": "queen",
+                "t": 1946.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 2329.0,
+                "d": 296.0
+              },
+              {
+                "w": "Ullal",
+                "t": 2626.0,
+                "d": 767.0
+              },
+              {
+                "w": "who",
+                "t": 3393.0,
+                "d": 211.0
+              },
+              {
+                "w": "refused",
+                "t": 3605.0,
+                "d": 510.0
+              },
+              {
+                "w": "tribute",
+                "t": 4115.0,
+                "d": 639.0
+              },
+              {
+                "w": "and",
+                "t": 4797.0,
+                "d": 340.0
+              },
+              {
+                "w": "coastal",
+                "t": 5138.0,
+                "d": 382.0
+              },
+              {
+                "w": "lore",
+                "t": 5521.0,
+                "d": 382.0
+              },
+              {
+                "w": "gives",
+                "t": 5904.0,
+                "d": 340.0
+              },
+              {
+                "w": "her",
+                "t": 6244.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 6372.0,
+                "d": 127.0
+              },
+              {
+                "w": "name",
+                "t": 6500.0,
+                "d": 340.0
+              },
+              {
+                "w": "Abbakka",
+                "t": 6882.0,
+                "d": 468.0
+              },
+              {
+                "w": "Chowta",
+                "t": 7351.0,
+                "d": 595.0
+              },
+              {
+                "w": "a",
+                "t": 8414.0,
+                "d": 169.0
+              },
+              {
+                "w": "reminder",
+                "t": 8584.0,
+                "d": 510.0
+              },
+              {
+                "w": "that",
+                "t": 9094.0,
+                "d": 170.0
+              },
+              {
+                "w": "even",
+                "t": 9264.0,
+                "d": 341.0
+              },
+              {
+                "w": "small",
+                "t": 9606.0,
+                "d": 425.0
+              },
+              {
+                "w": "ports",
+                "t": 10031.0,
+                "d": 340.0
+              },
+              {
+                "w": "can",
+                "t": 10372.0,
+                "d": 212.0
+              },
+              {
+                "w": "say",
+                "t": 10585.0,
+                "d": 255.0
+              },
+              {
+                "w": "no",
+                "t": 10840.0,
+                "d": 296.0
+              },
+              {
+                "w": "to",
+                "t": 11137.0,
+                "d": 170.0
+              },
+              {
+                "w": "an",
+                "t": 11307.0,
+                "d": 128.0
+              },
+              {
+                "w": "ocean",
+                "t": 11436.0,
+                "d": 424.0
+              },
+              {
+                "w": "empire",
+                "t": 11860.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Rani Abbakka Chowta",
+    "epithets": [
+      "Queen of Ullal",
+      "Warrior Queen of the Western Coast",
+      "Defender of the Arabian Sea",
+      "Nemesis of the Portuguese"
+    ],
+    "legend": "She faced an empire’s fleet and refused to bow."
+  }
+}
