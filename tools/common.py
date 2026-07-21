@@ -18,6 +18,14 @@ def slug(s):
     return re.sub(r"_+", "_", s)[:48]
 
 
+def clean_regnal(name):
+    """Drop a redundant spelled-out ordinal after a roman numeral in a DISPLAY name, e.g.
+    'Chandragupta I the First' -> 'Chandragupta I'. The hero card keeps the numeral (written
+    convention); only the spoken/line text expands 'I' -> 'the First' (see voice._expand_regnal)."""
+    return re.sub(r"\b([IVX]{1,4})\s+the\s+(First|Second|Third|Fourth|Fifth|Sixth|Seventh|Eighth|Ninth|Tenth)\b",
+                  r"\1", name or "", flags=re.I).strip()
+
+
 def load_json(p, default):
     p = pathlib.Path(p)
     try:

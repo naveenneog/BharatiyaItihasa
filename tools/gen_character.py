@@ -51,7 +51,7 @@ def ensure_character(figure, era="", region="", facts="", tok=None, force=False)
     if not sheet.exists():
         raise RuntimeError(f"model sheet failed for {figure}")
 
-    entry = {"display_name": bible.get("display_name", figure),
+    entry = {"display_name": C.clean_regnal(bible.get("display_name", figure)),
              "figure": figure, "ref_desc": bible.get("ref_desc", ""),
              "sheet": f"assets/_characters/{figkey}/sheet.png"}
     C.registry_put(figkey, entry)
