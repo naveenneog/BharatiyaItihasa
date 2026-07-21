@@ -1,0 +1,4142 @@
+{
+  "id": "faxian_s_road_through_a_golden_land",
+  "title": "Faxian's Road Through a Golden Land",
+  "title_i18n": {
+    "en": "Faxian's Road Through a Golden Land",
+    "hi": "स्वर्ण भूमि में फाशियान की राह"
+  },
+  "figure": "Faxian the Pilgrim",
+  "era": "Gupta zenith, the traveller's years c. 399-414 CE",
+  "moral": "A land is judged by how it treats its poorest, not only by the gold in its markets.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/faxian_s_road_through_a_golden_land/intro/hero.png",
+      "name": "Faxian the Pilgrim",
+      "epithets": [
+        "Faxian the Pilgrim",
+        "Fa-hsien the Monk",
+        "Seeker of the Vinaya",
+        "Chinese Buddhist Traveller"
+      ],
+      "legend": "He walked half the world to save the Buddha’s words.",
+      "era": "Gupta zenith, the traveller's years c. 399-414 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From distant China, the monk Faxian walks barefoot into Gupta India, hunting lost holy books. His calm eyes weigh a golden empire by its poor, not its coins.",
+            "hi": "दूर चीन से भिक्षु फ़ा-शियान नंगे पाँव गुप्त भारत में आता है, गुम पवित्र ग्रंथों की तलाश में। उसके शांत नज़रिए में सोने की नहीं, ग़रीबों से साम्राज्य की कीमत तय होती है।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/intro/hero_en.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 375.0
+              },
+              {
+                "w": "distant",
+                "t": 447.0,
+                "d": 458.0
+              },
+              {
+                "w": "China",
+                "t": 906.0,
+                "d": 708.0
+              },
+              {
+                "w": "the",
+                "t": 1697.0,
+                "d": 208.0
+              },
+              {
+                "w": "monk",
+                "t": 1906.0,
+                "d": 291.0
+              },
+              {
+                "w": "Faxian",
+                "t": 2197.0,
+                "d": 541.0
+              },
+              {
+                "w": "walks",
+                "t": 2739.0,
+                "d": 500.0
+              },
+              {
+                "w": "barefoot",
+                "t": 3239.0,
+                "d": 541.0
+              },
+              {
+                "w": "into",
+                "t": 3781.0,
+                "d": 332.0
+              },
+              {
+                "w": "Gupta",
+                "t": 4113.0,
+                "d": 334.0
+              },
+              {
+                "w": "India",
+                "t": 4447.0,
+                "d": 666.0
+              },
+              {
+                "w": "hunting",
+                "t": 5531.0,
+                "d": 458.0
+              },
+              {
+                "w": "lost",
+                "t": 5989.0,
+                "d": 375.0
+              },
+              {
+                "w": "holy",
+                "t": 6364.0,
+                "d": 333.0
+              },
+              {
+                "w": "books",
+                "t": 6697.0,
+                "d": 541.0
+              },
+              {
+                "w": "His",
+                "t": 7906.0,
+                "d": 250.0
+              },
+              {
+                "w": "calm",
+                "t": 8156.0,
+                "d": 332.0
+              },
+              {
+                "w": "eyes",
+                "t": 8488.0,
+                "d": 250.0
+              },
+              {
+                "w": "weigh",
+                "t": 8738.0,
+                "d": 376.0
+              },
+              {
+                "w": "a",
+                "t": 9281.0,
+                "d": 291.0
+              },
+              {
+                "w": "golden",
+                "t": 9572.0,
+                "d": 416.0
+              },
+              {
+                "w": "empire",
+                "t": 9989.0,
+                "d": 458.0
+              },
+              {
+                "w": "by",
+                "t": 10447.0,
+                "d": 207.0
+              },
+              {
+                "w": "its",
+                "t": 10655.0,
+                "d": 250.0
+              },
+              {
+                "w": "poor",
+                "t": 10905.0,
+                "d": 542.0
+              },
+              {
+                "w": "not",
+                "t": 11656.0,
+                "d": 373.0
+              },
+              {
+                "w": "its",
+                "t": 12030.0,
+                "d": 209.0
+              },
+              {
+                "w": "coins",
+                "t": 12239.0,
+                "d": 665.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/faxian_s_road_through_a_golden_land/intro/map.png",
+      "x": 0.64,
+      "y": 0.41,
+      "label": "Pataliputra and the Middle Ganga plain",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, along the wide Ganga, rich cities and quiet monasteries meet a pilgrim’s hungry steps.",
+            "hi": "यहीं चौड़ी गंगा के किनारे, धनवान नगर और शांत विहार मिलते हैं यात्री के भूखे कदमों से।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/intro/map_en.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 827.0
+              },
+              {
+                "w": "along",
+                "t": 1000.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 1459.0,
+                "d": 137.0
+              },
+              {
+                "w": "wide",
+                "t": 1597.0,
+                "d": 321.0
+              },
+              {
+                "w": "Ganga",
+                "t": 1919.0,
+                "d": 689.0
+              },
+              {
+                "w": "rich",
+                "t": 2931.0,
+                "d": 366.0
+              },
+              {
+                "w": "cities",
+                "t": 3297.0,
+                "d": 643.0
+              },
+              {
+                "w": "and",
+                "t": 3987.0,
+                "d": 277.0
+              },
+              {
+                "w": "quiet",
+                "t": 4264.0,
+                "d": 367.0
+              },
+              {
+                "w": "monasteries",
+                "t": 4632.0,
+                "d": 827.0
+              },
+              {
+                "w": "meet",
+                "t": 5459.0,
+                "d": 275.0
+              },
+              {
+                "w": "a",
+                "t": 5735.0,
+                "d": 137.0
+              },
+              {
+                "w": "pilgrim’s",
+                "t": 5873.0,
+                "d": 689.0
+              },
+              {
+                "w": "hungry",
+                "t": 6563.0,
+                "d": 459.0
+              },
+              {
+                "w": "steps",
+                "t": 7022.0,
+                "d": 781.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/cover.png",
+      "shot": "wide, low-angle view of Faxian standing at the edge of a great Indian city with distant stupas and palace towers glowing in dusk light",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the age of Gupta kings, a lone monk from China walks into India, seeking sacred words and finding a golden land whose splendour and scars he quietly records.",
+            "hi": "गुप्त राजाओं के युग में, चीन से आया अकेला भिक्षु भारत में प्रवेश करता है, धर्म की खोज में, और एक स्वर्ण देश देखता है जिसकी चमक और चोटें वह चुपचाप लिखता जाता है।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/cover_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 264.0,
+                "d": 229.0
+              },
+              {
+                "w": "age",
+                "t": 494.0,
+                "d": 183.0
+              },
+              {
+                "w": "of",
+                "t": 678.0,
+                "d": 137.0
+              },
+              {
+                "w": "Gupta",
+                "t": 816.0,
+                "d": 459.0
+              },
+              {
+                "w": "kings",
+                "t": 1275.0,
+                "d": 505.0
+              },
+              {
+                "w": "a",
+                "t": 1827.0,
+                "d": 91.0
+              },
+              {
+                "w": "lone",
+                "t": 1919.0,
+                "d": 367.0
+              },
+              {
+                "w": "monk",
+                "t": 2287.0,
+                "d": 275.0
+              },
+              {
+                "w": "from",
+                "t": 2563.0,
+                "d": 274.0
+              },
+              {
+                "w": "China",
+                "t": 2837.0,
+                "d": 459.0
+              },
+              {
+                "w": "walks",
+                "t": 3297.0,
+                "d": 414.0
+              },
+              {
+                "w": "into",
+                "t": 3712.0,
+                "d": 321.0
+              },
+              {
+                "w": "India",
+                "t": 4034.0,
+                "d": 597.0
+              },
+              {
+                "w": "seeking",
+                "t": 4862.0,
+                "d": 551.0
+              },
+              {
+                "w": "sacred",
+                "t": 5413.0,
+                "d": 505.0
+              },
+              {
+                "w": "words",
+                "t": 5919.0,
+                "d": 689.0
+              },
+              {
+                "w": "and",
+                "t": 6793.0,
+                "d": 367.0
+              },
+              {
+                "w": "finding",
+                "t": 7160.0,
+                "d": 413.0
+              },
+              {
+                "w": "a",
+                "t": 7574.0,
+                "d": 137.0
+              },
+              {
+                "w": "golden",
+                "t": 7712.0,
+                "d": 505.0
+              },
+              {
+                "w": "land",
+                "t": 8218.0,
+                "d": 551.0
+              },
+              {
+                "w": "whose",
+                "t": 8816.0,
+                "d": 275.0
+              },
+              {
+                "w": "splendour",
+                "t": 9091.0,
+                "d": 781.0
+              },
+              {
+                "w": "and",
+                "t": 9873.0,
+                "d": 229.0
+              },
+              {
+                "w": "scars",
+                "t": 10103.0,
+                "d": 827.0
+              },
+              {
+                "w": "he",
+                "t": 11022.0,
+                "d": 275.0
+              },
+              {
+                "w": "quietly",
+                "t": 11298.0,
+                "d": 550.0
+              },
+              {
+                "w": "records",
+                "t": 11849.0,
+                "d": 782.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p01.png",
+      "shot": "medium shot, side view, desert road fading into distant mountains",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "For ten long years, Faxian has left behind the valleys of China, crossing deserts and passes, walking west and south in search of the Buddha’s words lost in his homeland.",
+            "hi": "दस लंबे वर्षों से फाशियान चीन की घाटियाँ छोड़, रेगिस्तान और दर्रे पार कर, पश्चिम–दक्षिण की ओर चल पड़ा है, बुद्ध के वे वचन खोजने जो उसके देश में खो गए हैं।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p01_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "For",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "ten",
+                "t": 329.0,
+                "d": 212.0
+              },
+              {
+                "w": "long",
+                "t": 542.0,
+                "d": 255.0
+              },
+              {
+                "w": "years",
+                "t": 797.0,
+                "d": 723.0
+              },
+              {
+                "w": "Faxian",
+                "t": 1691.0,
+                "d": 638.0
+              },
+              {
+                "w": "has",
+                "t": 2329.0,
+                "d": 169.0
+              },
+              {
+                "w": "left",
+                "t": 2498.0,
+                "d": 341.0
+              },
+              {
+                "w": "behind",
+                "t": 2840.0,
+                "d": 339.0
+              },
+              {
+                "w": "the",
+                "t": 3179.0,
+                "d": 128.0
+              },
+              {
+                "w": "valleys",
+                "t": 3308.0,
+                "d": 381.0
+              },
+              {
+                "w": "of",
+                "t": 3690.0,
+                "d": 128.0
+              },
+              {
+                "w": "China",
+                "t": 3819.0,
+                "d": 723.0
+              },
+              {
+                "w": "crossing",
+                "t": 4755.0,
+                "d": 468.0
+              },
+              {
+                "w": "deserts",
+                "t": 5223.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 5734.0,
+                "d": 212.0
+              },
+              {
+                "w": "passes",
+                "t": 5946.0,
+                "d": 851.0
+              },
+              {
+                "w": "walking",
+                "t": 7010.0,
+                "d": 553.0
+              },
+              {
+                "w": "west",
+                "t": 7563.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 7946.0,
+                "d": 212.0
+              },
+              {
+                "w": "south",
+                "t": 8159.0,
+                "d": 552.0
+              },
+              {
+                "w": "in",
+                "t": 8839.0,
+                "d": 255.0
+              },
+              {
+                "w": "search",
+                "t": 9094.0,
+                "d": 426.0
+              },
+              {
+                "w": "of",
+                "t": 9521.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 9647.0,
+                "d": 170.0
+              },
+              {
+                "w": "Buddha’s",
+                "t": 9818.0,
+                "d": 469.0
+              },
+              {
+                "w": "words",
+                "t": 10287.0,
+                "d": 468.0
+              },
+              {
+                "w": "lost",
+                "t": 10796.0,
+                "d": 469.0
+              },
+              {
+                "w": "in",
+                "t": 11265.0,
+                "d": 85.0
+              },
+              {
+                "w": "his",
+                "t": 11351.0,
+                "d": 212.0
+              },
+              {
+                "w": "homeland",
+                "t": 11563.0,
+                "d": 637.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p02.png",
+      "shot": "bird's-eye wide shot of a caravan trail descending from a pass into greener plains",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At last the land softens. Beyond the stony heights of the northwest, the plains of India open, rich and green, threaded with rivers, villages, and roads alive with merchants and monks.",
+            "hi": "आख़िर भूमि मुलायम होती है। उत्तर–पश्चिम की पत्थरीली ऊँचाइयों के पार, भारत के समृद्ध हरे मैदान खुलते हैं, नदियों, गाँवों और व्यापारियों–भिक्षुओं से भरी राहों के साथ।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p02_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 117.0,
+                "d": 212.0
+              },
+              {
+                "w": "last",
+                "t": 329.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 1053.0,
+                "d": 212.0
+              },
+              {
+                "w": "land",
+                "t": 1265.0,
+                "d": 297.0
+              },
+              {
+                "w": "softens",
+                "t": 1563.0,
+                "d": 892.0
+              },
+              {
+                "w": "Beyond",
+                "t": 3308.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 3776.0,
+                "d": 127.0
+              },
+              {
+                "w": "stony",
+                "t": 3904.0,
+                "d": 425.0
+              },
+              {
+                "w": "heights",
+                "t": 4329.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 4670.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 4755.0,
+                "d": 127.0
+              },
+              {
+                "w": "northwest",
+                "t": 4882.0,
+                "d": 978.0
+              },
+              {
+                "w": "the",
+                "t": 5989.0,
+                "d": 255.0
+              },
+              {
+                "w": "plains",
+                "t": 6244.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 6585.0,
+                "d": 170.0
+              },
+              {
+                "w": "India",
+                "t": 6755.0,
+                "d": 340.0
+              },
+              {
+                "w": "open",
+                "t": 7095.0,
+                "d": 851.0
+              },
+              {
+                "w": "rich",
+                "t": 8031.0,
+                "d": 509.0
+              },
+              {
+                "w": "and",
+                "t": 8541.0,
+                "d": 297.0
+              },
+              {
+                "w": "green",
+                "t": 8839.0,
+                "d": 681.0
+              },
+              {
+                "w": "threaded",
+                "t": 9776.0,
+                "d": 467.0
+              },
+              {
+                "w": "with",
+                "t": 10243.0,
+                "d": 213.0
+              },
+              {
+                "w": "rivers",
+                "t": 10457.0,
+                "d": 723.0
+              },
+              {
+                "w": "villages",
+                "t": 11307.0,
+                "d": 893.0
+              },
+              {
+                "w": "and",
+                "t": 12456.0,
+                "d": 298.0
+              },
+              {
+                "w": "roads",
+                "t": 12755.0,
+                "d": 382.0
+              },
+              {
+                "w": "alive",
+                "t": 13138.0,
+                "d": 381.0
+              },
+              {
+                "w": "with",
+                "t": 13520.0,
+                "d": 213.0
+              },
+              {
+                "w": "merchants",
+                "t": 13734.0,
+                "d": 594.0
+              },
+              {
+                "w": "and",
+                "t": 14328.0,
+                "d": 213.0
+              },
+              {
+                "w": "monks",
+                "t": 14542.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p03.png",
+      "shot": "slow push-in on Faxian’s face as he watches a busy highway",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He enters a realm held together by roads. Royal highways bind city to city, ferrying grain, soldiers, pilgrims, and gold coins stamped with kings whose names he does not yet know.",
+            "hi": "वह ऐसे राज्य में प्रवेश करता है जो सड़कों से बँधा है। राज–मार्ग नगरों को जोड़ते हैं, अनाज, सैनिक, यात्री और सुनहरी मुद्राएँ ढोते हुए, उन राजाओं के नाम लिए जो उसे अभी अनजान हैं।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p03_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "enters",
+                "t": 310.0,
+                "d": 505.0
+              },
+              {
+                "w": "a",
+                "t": 816.0,
+                "d": 45.0
+              },
+              {
+                "w": "realm",
+                "t": 862.0,
+                "d": 505.0
+              },
+              {
+                "w": "held",
+                "t": 1367.0,
+                "d": 275.0
+              },
+              {
+                "w": "together",
+                "t": 1643.0,
+                "d": 597.0
+              },
+              {
+                "w": "by",
+                "t": 2241.0,
+                "d": 229.0
+              },
+              {
+                "w": "roads",
+                "t": 2471.0,
+                "d": 734.0
+              },
+              {
+                "w": "Royal",
+                "t": 4126.0,
+                "d": 412.0
+              },
+              {
+                "w": "highways",
+                "t": 4539.0,
+                "d": 552.0
+              },
+              {
+                "w": "bind",
+                "t": 5091.0,
+                "d": 321.0
+              },
+              {
+                "w": "city",
+                "t": 5413.0,
+                "d": 367.0
+              },
+              {
+                "w": "to",
+                "t": 5781.0,
+                "d": 137.0
+              },
+              {
+                "w": "city",
+                "t": 5919.0,
+                "d": 505.0
+              },
+              {
+                "w": "ferrying",
+                "t": 6977.0,
+                "d": 459.0
+              },
+              {
+                "w": "grain",
+                "t": 7436.0,
+                "d": 597.0
+              },
+              {
+                "w": "soldiers",
+                "t": 8126.0,
+                "d": 1011.0
+              },
+              {
+                "w": "pilgrims",
+                "t": 9412.0,
+                "d": 874.0
+              },
+              {
+                "w": "and",
+                "t": 10608.0,
+                "d": 322.0
+              },
+              {
+                "w": "gold",
+                "t": 10931.0,
+                "d": 367.0
+              },
+              {
+                "w": "coins",
+                "t": 11298.0,
+                "d": 366.0
+              },
+              {
+                "w": "stamped",
+                "t": 11665.0,
+                "d": 459.0
+              },
+              {
+                "w": "with",
+                "t": 12125.0,
+                "d": 231.0
+              },
+              {
+                "w": "kings",
+                "t": 12356.0,
+                "d": 734.0
+              },
+              {
+                "w": "whose",
+                "t": 13366.0,
+                "d": 368.0
+              },
+              {
+                "w": "names",
+                "t": 13735.0,
+                "d": 412.0
+              },
+              {
+                "w": "he",
+                "t": 14148.0,
+                "d": 231.0
+              },
+              {
+                "w": "does",
+                "t": 14379.0,
+                "d": 228.0
+              },
+              {
+                "w": "not",
+                "t": 14608.0,
+                "d": 277.0
+              },
+              {
+                "w": "yet",
+                "t": 14885.0,
+                "d": 183.0
+              },
+              {
+                "w": "know",
+                "t": 15068.0,
+                "d": 459.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/faxian_s_road_through_a_golden_land/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/faxian_s_road_through_a_golden_land/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "A sudden gust lashes dust and river spray, but Faxian plants his staff, vowing to cross every land between scripture and homeland.",
+            "hi": "अचानक तेज़ झोंका धूल और नदी की फुहार उड़ाता है, पर फाशियन लाठी गाड़कर कसम खाता है—शास्त्र से लेकर अपने वतन तक हर धरती पार करेगा।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/action/action_auto_en.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "A",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "sudden",
+                "t": 310.0,
+                "d": 459.0
+              },
+              {
+                "w": "gust",
+                "t": 770.0,
+                "d": 413.0
+              },
+              {
+                "w": "lashes",
+                "t": 1183.0,
+                "d": 505.0
+              },
+              {
+                "w": "dust",
+                "t": 1689.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 2103.0,
+                "d": 183.0
+              },
+              {
+                "w": "river",
+                "t": 2287.0,
+                "d": 275.0
+              },
+              {
+                "w": "spray",
+                "t": 2563.0,
+                "d": 1057.0
+              },
+              {
+                "w": "but",
+                "t": 3666.0,
+                "d": 274.0
+              },
+              {
+                "w": "Faxian",
+                "t": 3941.0,
+                "d": 597.0
+              },
+              {
+                "w": "plants",
+                "t": 4539.0,
+                "d": 414.0
+              },
+              {
+                "w": "his",
+                "t": 4954.0,
+                "d": 137.0
+              },
+              {
+                "w": "staff",
+                "t": 5091.0,
+                "d": 781.0
+              },
+              {
+                "w": "vowing",
+                "t": 6011.0,
+                "d": 597.0
+              },
+              {
+                "w": "to",
+                "t": 6609.0,
+                "d": 91.0
+              },
+              {
+                "w": "cross",
+                "t": 6701.0,
+                "d": 413.0
+              },
+              {
+                "w": "every",
+                "t": 7114.0,
+                "d": 459.0
+              },
+              {
+                "w": "land",
+                "t": 7574.0,
+                "d": 367.0
+              },
+              {
+                "w": "between",
+                "t": 7942.0,
+                "d": 367.0
+              },
+              {
+                "w": "scripture",
+                "t": 8310.0,
+                "d": 873.0
+              },
+              {
+                "w": "and",
+                "t": 9183.0,
+                "d": 274.0
+              },
+              {
+                "w": "homeland",
+                "t": 9458.0,
+                "d": 690.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p04.png",
+      "shot": "wide shot of city gate with guards and bustle",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From his bamboo records we hear his wonder: cities well-governed, streets clean, laws enforced, no chaos at the gates. In this kingdom, he writes, the people are not harried by harsh imposts.",
+            "hi": "उसकी बाँस की पोटली से उसकी हैरानी झाँकती है: सुशासित नगर, साफ़ सड़कें, क़ानून सख़्ती से लागू, फाटक पर कोई अराजकता नहीं। वह लिखता है, यहाँ प्रजा पर ज़ुल्मी करों की मार नहीं।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p04_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "his",
+                "t": 372.0,
+                "d": 170.0
+              },
+              {
+                "w": "bamboo",
+                "t": 542.0,
+                "d": 382.0
+              },
+              {
+                "w": "records",
+                "t": 925.0,
+                "d": 553.0
+              },
+              {
+                "w": "we",
+                "t": 1478.0,
+                "d": 255.0
+              },
+              {
+                "w": "hear",
+                "t": 1734.0,
+                "d": 297.0
+              },
+              {
+                "w": "his",
+                "t": 2031.0,
+                "d": 255.0
+              },
+              {
+                "w": "wonder",
+                "t": 2287.0,
+                "d": 595.0
+              },
+              {
+                "w": "cities",
+                "t": 3562.0,
+                "d": 595.0
+              },
+              {
+                "w": "well-governed",
+                "t": 4158.0,
+                "d": 852.0
+              },
+              {
+                "w": "streets",
+                "t": 5265.0,
+                "d": 553.0
+              },
+              {
+                "w": "clean",
+                "t": 5819.0,
+                "d": 765.0
+              },
+              {
+                "w": "laws",
+                "t": 6840.0,
+                "d": 468.0
+              },
+              {
+                "w": "enforced",
+                "t": 7308.0,
+                "d": 808.0
+              },
+              {
+                "w": "no",
+                "t": 8372.0,
+                "d": 381.0
+              },
+              {
+                "w": "chaos",
+                "t": 8754.0,
+                "d": 425.0
+              },
+              {
+                "w": "at",
+                "t": 9179.0,
+                "d": 128.0
+              },
+              {
+                "w": "the",
+                "t": 9308.0,
+                "d": 127.0
+              },
+              {
+                "w": "gates",
+                "t": 9436.0,
+                "d": 1445.0
+              },
+              {
+                "w": "In",
+                "t": 10925.0,
+                "d": 255.0
+              },
+              {
+                "w": "this",
+                "t": 11180.0,
+                "d": 211.0
+              },
+              {
+                "w": "kingdom",
+                "t": 11392.0,
+                "d": 893.0
+              },
+              {
+                "w": "he",
+                "t": 12329.0,
+                "d": 340.0
+              },
+              {
+                "w": "writes",
+                "t": 12670.0,
+                "d": 764.0
+              },
+              {
+                "w": "the",
+                "t": 13734.0,
+                "d": 297.0
+              },
+              {
+                "w": "people",
+                "t": 14031.0,
+                "d": 467.0
+              },
+              {
+                "w": "are",
+                "t": 14498.0,
+                "d": 213.0
+              },
+              {
+                "w": "not",
+                "t": 14712.0,
+                "d": 382.0
+              },
+              {
+                "w": "harried",
+                "t": 15095.0,
+                "d": 467.0
+              },
+              {
+                "w": "by",
+                "t": 15562.0,
+                "d": 213.0
+              },
+              {
+                "w": "harsh",
+                "t": 15776.0,
+                "d": 382.0
+              },
+              {
+                "w": "imposts",
+                "t": 16159.0,
+                "d": 978.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p05.png",
+      "shot": "medium interior shot in a merchant house",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He sees gold dinaras in merchant hands, bright discs of the Gupta mint, and notes how trade has fattened the markets. To him, it seems a land without want and without forced levies.",
+            "hi": "वह व्यापारियों के हाथों में सुनहरे दीनार देखता है, गुप्त टकसाल की चमकती मुद्राएँ, और नोट करता है कि व्यापार ने बाज़ारों को तृप्त कर दिया है। उसे यह भूमि कमी और जबरन वसूली से मुक्त दिखती है।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p05_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "sees",
+                "t": 329.0,
+                "d": 297.0
+              },
+              {
+                "w": "gold",
+                "t": 627.0,
+                "d": 255.0
+              },
+              {
+                "w": "dinaras",
+                "t": 882.0,
+                "d": 595.0
+              },
+              {
+                "w": "in",
+                "t": 1478.0,
+                "d": 212.0
+              },
+              {
+                "w": "merchant",
+                "t": 1691.0,
+                "d": 425.0
+              },
+              {
+                "w": "hands",
+                "t": 2117.0,
+                "d": 595.0
+              },
+              {
+                "w": "bright",
+                "t": 2925.0,
+                "d": 425.0
+              },
+              {
+                "w": "discs",
+                "t": 3351.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 3861.0,
+                "d": 169.0
+              },
+              {
+                "w": "the",
+                "t": 4030.0,
+                "d": 127.0
+              },
+              {
+                "w": "Gupta",
+                "t": 4158.0,
+                "d": 341.0
+              },
+              {
+                "w": "mint",
+                "t": 4500.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 5138.0,
+                "d": 382.0
+              },
+              {
+                "w": "notes",
+                "t": 5521.0,
+                "d": 340.0
+              },
+              {
+                "w": "how",
+                "t": 5861.0,
+                "d": 297.0
+              },
+              {
+                "w": "trade",
+                "t": 6159.0,
+                "d": 340.0
+              },
+              {
+                "w": "has",
+                "t": 6500.0,
+                "d": 170.0
+              },
+              {
+                "w": "fattened",
+                "t": 6670.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 7095.0,
+                "d": 127.0
+              },
+              {
+                "w": "markets",
+                "t": 7223.0,
+                "d": 723.0
+              },
+              {
+                "w": "To",
+                "t": 8457.0,
+                "d": 211.0
+              },
+              {
+                "w": "him",
+                "t": 8669.0,
+                "d": 554.0
+              },
+              {
+                "w": "it",
+                "t": 9264.0,
+                "d": 298.0
+              },
+              {
+                "w": "seems",
+                "t": 9563.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 9861.0,
+                "d": 85.0
+              },
+              {
+                "w": "land",
+                "t": 9946.0,
+                "d": 296.0
+              },
+              {
+                "w": "without",
+                "t": 10243.0,
+                "d": 468.0
+              },
+              {
+                "w": "want",
+                "t": 10711.0,
+                "d": 554.0
+              },
+              {
+                "w": "and",
+                "t": 11307.0,
+                "d": 213.0
+              },
+              {
+                "w": "without",
+                "t": 11521.0,
+                "d": 424.0
+              },
+              {
+                "w": "forced",
+                "t": 11945.0,
+                "d": 425.0
+              },
+              {
+                "w": "levies",
+                "t": 12371.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p06.png",
+      "shot": "low-angle wide of royal land grant ceremony under a tree, viewed from behind villagers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Yet beyond his gaze, royal grants of village and field flow to Brahmins and officers. Copper plates carve out agraharas, where old village rights and dues now bend toward new lords.",
+            "hi": "पर उसकी नज़र से परे, गाँव और खेतों के शाही दान ब्राह्मणों और अधिकारियों को बहते हैं। ताम्रपट पर उकेरे जाते हैं अग्रहार, जहाँ पुराने गाँव–अधिकार अब नए स्वामियों की ओर झुकते हैं।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p06_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Yet",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "beyond",
+                "t": 414.0,
+                "d": 382.0
+              },
+              {
+                "w": "his",
+                "t": 797.0,
+                "d": 212.0
+              },
+              {
+                "w": "gaze",
+                "t": 1010.0,
+                "d": 680.0
+              },
+              {
+                "w": "royal",
+                "t": 1861.0,
+                "d": 468.0
+              },
+              {
+                "w": "grants",
+                "t": 2329.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 2712.0,
+                "d": 127.0
+              },
+              {
+                "w": "village",
+                "t": 2840.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 3436.0,
+                "d": 297.0
+              },
+              {
+                "w": "field",
+                "t": 3734.0,
+                "d": 296.0
+              },
+              {
+                "w": "flow",
+                "t": 4030.0,
+                "d": 341.0
+              },
+              {
+                "w": "to",
+                "t": 4372.0,
+                "d": 127.0
+              },
+              {
+                "w": "Brahmins",
+                "t": 4500.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 5180.0,
+                "d": 255.0
+              },
+              {
+                "w": "officers",
+                "t": 5436.0,
+                "d": 851.0
+              },
+              {
+                "w": "Copper",
+                "t": 7138.0,
+                "d": 382.0
+              },
+              {
+                "w": "plates",
+                "t": 7521.0,
+                "d": 468.0
+              },
+              {
+                "w": "carve",
+                "t": 7989.0,
+                "d": 340.0
+              },
+              {
+                "w": "out",
+                "t": 8329.0,
+                "d": 170.0
+              },
+              {
+                "w": "agraharas",
+                "t": 8500.0,
+                "d": 1021.0
+              },
+              {
+                "w": "where",
+                "t": 9732.0,
+                "d": 340.0
+              },
+              {
+                "w": "old",
+                "t": 10073.0,
+                "d": 298.0
+              },
+              {
+                "w": "village",
+                "t": 10372.0,
+                "d": 339.0
+              },
+              {
+                "w": "rights",
+                "t": 10711.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 11137.0,
+                "d": 255.0
+              },
+              {
+                "w": "dues",
+                "t": 11392.0,
+                "d": 638.0
+              },
+              {
+                "w": "now",
+                "t": 12244.0,
+                "d": 382.0
+              },
+              {
+                "w": "bend",
+                "t": 12627.0,
+                "d": 467.0
+              },
+              {
+                "w": "toward",
+                "t": 13138.0,
+                "d": 296.0
+              },
+              {
+                "w": "new",
+                "t": 13435.0,
+                "d": 256.0
+              },
+              {
+                "w": "lords",
+                "t": 13691.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p07.png",
+      "shot": "medium shot of peasants in the background being directed by an overseer, Faxian passing on the road nearby",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "R.S. Sharma and later scholars read behind the glitter: labourers bound by vishti, compelled service; villages pledged to grantees, peasants carrying the weight beneath the royal shine.",
+            "hi": "आर.एस. शर्मा और आगे के विद्वान चमक के पीछे को पढ़ते हैं: विश्टि से बँधे मज़दूर, मजबूर सेवा; दान में बँधे गाँव, राज–चमक के नीचे बोझ ढोते किसान।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p07_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "R.S.",
+                "t": 74.0,
+                "d": 85.0
+              },
+              {
+                "w": "Sharma",
+                "t": 159.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 925.0,
+                "d": 382.0
+              },
+              {
+                "w": "later",
+                "t": 1308.0,
+                "d": 382.0
+              },
+              {
+                "w": "scholars",
+                "t": 1691.0,
+                "d": 595.0
+              },
+              {
+                "w": "read",
+                "t": 2287.0,
+                "d": 211.0
+              },
+              {
+                "w": "behind",
+                "t": 2498.0,
+                "d": 298.0
+              },
+              {
+                "w": "the",
+                "t": 2797.0,
+                "d": 127.0
+              },
+              {
+                "w": "glitter",
+                "t": 2925.0,
+                "d": 637.0
+              },
+              {
+                "w": "labourers",
+                "t": 3904.0,
+                "d": 638.0
+              },
+              {
+                "w": "bound",
+                "t": 4542.0,
+                "d": 297.0
+              },
+              {
+                "w": "by",
+                "t": 4840.0,
+                "d": 170.0
+              },
+              {
+                "w": "vishti",
+                "t": 5010.0,
+                "d": 510.0
+              },
+              {
+                "w": "compelled",
+                "t": 5691.0,
+                "d": 595.0
+              },
+              {
+                "w": "service",
+                "t": 6287.0,
+                "d": 638.0
+              },
+              {
+                "w": "villages",
+                "t": 7308.0,
+                "d": 595.0
+              },
+              {
+                "w": "pledged",
+                "t": 7904.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 8202.0,
+                "d": 127.0
+              },
+              {
+                "w": "grantees",
+                "t": 8329.0,
+                "d": 808.0
+              },
+              {
+                "w": "peasants",
+                "t": 9521.0,
+                "d": 510.0
+              },
+              {
+                "w": "carrying",
+                "t": 10031.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 10414.0,
+                "d": 170.0
+              },
+              {
+                "w": "weight",
+                "t": 10585.0,
+                "d": 296.0
+              },
+              {
+                "w": "beneath",
+                "t": 10881.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 11222.0,
+                "d": 128.0
+              },
+              {
+                "w": "royal",
+                "t": 11351.0,
+                "d": 255.0
+              },
+              {
+                "w": "shine",
+                "t": 11606.0,
+                "d": 509.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p08.png",
+      "shot": "wide shot of a monastery complex on a hilltop overlooking a river",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across this golden realm, monasteries thrive. Gupta kings and guilds endow vihāras; monks study, debate, and copy. For Faxian, each cloister is a haven, each library a long-sought treasure.",
+            "hi": "इस स्वर्ण realm भर में विहार फलते हैं। गुप्त राजा और श्रेणियाँ विहारों को दान देते हैं; भिक्षु पढ़ते, वाद करते, प्रतिलिपि करते हैं। फाशियान के लिए हर मठ शरण है, हर पुस्तकालय मिला–जुला ख़ज़ाना।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p08_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "this",
+                "t": 542.0,
+                "d": 255.0
+              },
+              {
+                "w": "golden",
+                "t": 797.0,
+                "d": 382.0
+              },
+              {
+                "w": "realm",
+                "t": 1180.0,
+                "d": 510.0
+              },
+              {
+                "w": "monasteries",
+                "t": 1734.0,
+                "d": 722.0
+              },
+              {
+                "w": "thrive",
+                "t": 2456.0,
+                "d": 937.0
+              },
+              {
+                "w": "Gupta",
+                "t": 3690.0,
+                "d": 553.0
+              },
+              {
+                "w": "kings",
+                "t": 4243.0,
+                "d": 298.0
+              },
+              {
+                "w": "and",
+                "t": 4542.0,
+                "d": 212.0
+              },
+              {
+                "w": "guilds",
+                "t": 4755.0,
+                "d": 340.0
+              },
+              {
+                "w": "endow",
+                "t": 5095.0,
+                "d": 382.0
+              },
+              {
+                "w": "vihāras",
+                "t": 5478.0,
+                "d": 127.0
+              },
+              {
+                "w": "monks",
+                "t": 5606.0,
+                "d": 510.0
+              },
+              {
+                "w": "study",
+                "t": 6712.0,
+                "d": 595.0
+              },
+              {
+                "w": "debate",
+                "t": 7351.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 8031.0,
+                "d": 212.0
+              },
+              {
+                "w": "copy",
+                "t": 8244.0,
+                "d": 723.0
+              },
+              {
+                "w": "For",
+                "t": 9521.0,
+                "d": 211.0
+              },
+              {
+                "w": "Faxian",
+                "t": 9732.0,
+                "d": 809.0
+              },
+              {
+                "w": "each",
+                "t": 10711.0,
+                "d": 384.0
+              },
+              {
+                "w": "cloister",
+                "t": 11095.0,
+                "d": 553.0
+              },
+              {
+                "w": "is",
+                "t": 11648.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 11819.0,
+                "d": 85.0
+              },
+              {
+                "w": "haven",
+                "t": 11904.0,
+                "d": 851.0
+              },
+              {
+                "w": "each",
+                "t": 12924.0,
+                "d": 340.0
+              },
+              {
+                "w": "library",
+                "t": 13264.0,
+                "d": 638.0
+              },
+              {
+                "w": "a",
+                "t": 13903.0,
+                "d": 128.0
+              },
+              {
+                "w": "long-sought",
+                "t": 14031.0,
+                "d": 680.0
+              },
+              {
+                "w": "treasure",
+                "t": 14712.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p09.png",
+      "shot": "interior medium shot in a monastery library",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "At last, the Vinaya as the Buddha taught it…",
+            "hi": "आख़िर वही विनय, जैसा बुद्ध ने बताया…"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p09_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 49.0,
+                "d": 183.8
+              },
+              {
+                "w": "last",
+                "t": 245.1,
+                "d": 416.7
+              },
+              {
+                "w": "the",
+                "t": 870.1,
+                "d": 110.3
+              },
+              {
+                "w": "Vinaya",
+                "t": 992.7,
+                "d": 404.4
+              },
+              {
+                "w": "as",
+                "t": 1470.6,
+                "d": 245.1
+              },
+              {
+                "w": "the",
+                "t": 1715.7,
+                "d": 134.8
+              },
+              {
+                "w": "Buddha",
+                "t": 1850.5,
+                "d": 379.9
+              },
+              {
+                "w": "taught",
+                "t": 2242.7,
+                "d": 281.8
+              },
+              {
+                "w": "it",
+                "t": 2524.5,
+                "d": 220.6
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p10.png",
+      "shot": "wide establishing shot of Pataliputra with river, walls, and palaces",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In time he reaches Pataliputra, once the city of Ashoka, now a capital of Gupta power. Here, he will witness what he calls a land where mercy for the poor is a public duty.",
+            "hi": "चलते–चलते वह पाटलिपुत्र पहुँचता है, कभी अशोक की नगरी, अब गुप्त शक्ति की राजधानी। यहीं वह उस देश को देखेगा जिसे वह गरीबों के प्रति दया का सार्वजनिक कर्तव्य कहता है।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p10_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "time",
+                "t": 329.0,
+                "d": 297.0
+              },
+              {
+                "w": "he",
+                "t": 627.0,
+                "d": 127.0
+              },
+              {
+                "w": "reaches",
+                "t": 755.0,
+                "d": 468.0
+              },
+              {
+                "w": "Pataliputra",
+                "t": 1223.0,
+                "d": 935.0
+              },
+              {
+                "w": "once",
+                "t": 2498.0,
+                "d": 384.0
+              },
+              {
+                "w": "the",
+                "t": 2882.0,
+                "d": 126.0
+              },
+              {
+                "w": "city",
+                "t": 3009.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 3308.0,
+                "d": 211.0
+              },
+              {
+                "w": "Ashoka",
+                "t": 3520.0,
+                "d": 723.0
+              },
+              {
+                "w": "now",
+                "t": 4670.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 4925.0,
+                "d": 127.0
+              },
+              {
+                "w": "capital",
+                "t": 5053.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 5521.0,
+                "d": 170.0
+              },
+              {
+                "w": "Gupta",
+                "t": 5691.0,
+                "d": 340.0
+              },
+              {
+                "w": "power",
+                "t": 6031.0,
+                "d": 553.0
+              },
+              {
+                "w": "Here",
+                "t": 7138.0,
+                "d": 765.0
+              },
+              {
+                "w": "he",
+                "t": 7904.0,
+                "d": 340.0
+              },
+              {
+                "w": "will",
+                "t": 8244.0,
+                "d": 170.0
+              },
+              {
+                "w": "witness",
+                "t": 8414.0,
+                "d": 509.0
+              },
+              {
+                "w": "what",
+                "t": 8924.0,
+                "d": 170.0
+              },
+              {
+                "w": "he",
+                "t": 9094.0,
+                "d": 170.0
+              },
+              {
+                "w": "calls",
+                "t": 9264.0,
+                "d": 298.0
+              },
+              {
+                "w": "a",
+                "t": 9563.0,
+                "d": 84.0
+              },
+              {
+                "w": "land",
+                "t": 9647.0,
+                "d": 724.0
+              },
+              {
+                "w": "where",
+                "t": 10414.0,
+                "d": 296.0
+              },
+              {
+                "w": "mercy",
+                "t": 10711.0,
+                "d": 384.0
+              },
+              {
+                "w": "for",
+                "t": 11095.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 11222.0,
+                "d": 170.0
+              },
+              {
+                "w": "poor",
+                "t": 11392.0,
+                "d": 511.0
+              },
+              {
+                "w": "is",
+                "t": 11945.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 12159.0,
+                "d": 170.0
+              },
+              {
+                "w": "public",
+                "t": 12329.0,
+                "d": 340.0
+              },
+              {
+                "w": "duty",
+                "t": 12670.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p11.png",
+      "shot": "medium street-level shot in Pataliputra",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He notes the city’s order. Streets swept, markets regulated, punishments measured, not wild. In his record, he marvels that the law does not crush people with petty exactions.",
+            "hi": "वह नगर की अनुशासन देखता है। झाड़ी हुई सड़कें, नियंत्रित बाज़ार, सज़ाएँ नाप–तौल कर, न बेख़ौफ़। अपने लेख में वह चकित है कि क़ानून लोग को छोटे–छोटे करों से नहीं पीसता।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p11_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "notes",
+                "t": 287.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 585.0,
+                "d": 170.0
+              },
+              {
+                "w": "city’s",
+                "t": 755.0,
+                "d": 382.0
+              },
+              {
+                "w": "order",
+                "t": 1138.0,
+                "d": 425.0
+              },
+              {
+                "w": "Streets",
+                "t": 2031.0,
+                "d": 467.0
+              },
+              {
+                "w": "swept",
+                "t": 2498.0,
+                "d": 680.0
+              },
+              {
+                "w": "markets",
+                "t": 3308.0,
+                "d": 553.0
+              },
+              {
+                "w": "regulated",
+                "t": 3861.0,
+                "d": 1234.0
+              },
+              {
+                "w": "punishments",
+                "t": 5138.0,
+                "d": 595.0
+              },
+              {
+                "w": "measured",
+                "t": 5734.0,
+                "d": 723.0
+              },
+              {
+                "w": "not",
+                "t": 6585.0,
+                "d": 340.0
+              },
+              {
+                "w": "wild",
+                "t": 6925.0,
+                "d": 510.0
+              },
+              {
+                "w": "In",
+                "t": 8159.0,
+                "d": 212.0
+              },
+              {
+                "w": "his",
+                "t": 8372.0,
+                "d": 169.0
+              },
+              {
+                "w": "record",
+                "t": 8541.0,
+                "d": 638.0
+              },
+              {
+                "w": "he",
+                "t": 9223.0,
+                "d": 255.0
+              },
+              {
+                "w": "marvels",
+                "t": 9478.0,
+                "d": 553.0
+              },
+              {
+                "w": "that",
+                "t": 10031.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 10202.0,
+                "d": 126.0
+              },
+              {
+                "w": "law",
+                "t": 10328.0,
+                "d": 298.0
+              },
+              {
+                "w": "does",
+                "t": 10627.0,
+                "d": 254.0
+              },
+              {
+                "w": "not",
+                "t": 10881.0,
+                "d": 255.0
+              },
+              {
+                "w": "crush",
+                "t": 11137.0,
+                "d": 255.0
+              },
+              {
+                "w": "people",
+                "t": 11392.0,
+                "d": 382.0
+              },
+              {
+                "w": "with",
+                "t": 11775.0,
+                "d": 213.0
+              },
+              {
+                "w": "petty",
+                "t": 11989.0,
+                "d": 296.0
+              },
+              {
+                "w": "exactions",
+                "t": 12286.0,
+                "d": 1022.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p12.png",
+      "shot": "medium interior shot of a charitable hospital hall",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here he finds what few of his world could imagine: charitable hospitals. He writes of houses where the poor, destitute, crippled and diseased may come, receive food and medicine without payment.",
+            "hi": "यहाँ वह वह चीज़ देखता है जिसका उसके संसार में कम ही ख़याल था: दान–अस्पताल। वह उन घरों का वर्णन करता है जहाँ गरीब, निराश्रित, अपाहिज और रोगी आकर बिना मूल्य भोजन और औषधि पाते हैं।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p12_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "he",
+                "t": 329.0,
+                "d": 170.0
+              },
+              {
+                "w": "finds",
+                "t": 500.0,
+                "d": 425.0
+              },
+              {
+                "w": "what",
+                "t": 925.0,
+                "d": 212.0
+              },
+              {
+                "w": "few",
+                "t": 1138.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 1478.0,
+                "d": 85.0
+              },
+              {
+                "w": "his",
+                "t": 1563.0,
+                "d": 170.0
+              },
+              {
+                "w": "world",
+                "t": 1734.0,
+                "d": 340.0
+              },
+              {
+                "w": "could",
+                "t": 2074.0,
+                "d": 212.0
+              },
+              {
+                "w": "imagine",
+                "t": 2287.0,
+                "d": 510.0
+              },
+              {
+                "w": "charitable",
+                "t": 3605.0,
+                "d": 595.0
+              },
+              {
+                "w": "hospitals",
+                "t": 4201.0,
+                "d": 894.0
+              },
+              {
+                "w": "He",
+                "t": 5819.0,
+                "d": 297.0
+              },
+              {
+                "w": "writes",
+                "t": 6117.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 6414.0,
+                "d": 127.0
+              },
+              {
+                "w": "houses",
+                "t": 6542.0,
+                "d": 425.0
+              },
+              {
+                "w": "where",
+                "t": 6968.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 7180.0,
+                "d": 127.0
+              },
+              {
+                "w": "poor",
+                "t": 7308.0,
+                "d": 510.0
+              },
+              {
+                "w": "destitute",
+                "t": 7861.0,
+                "d": 1147.0
+              },
+              {
+                "w": "crippled",
+                "t": 9009.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 9732.0,
+                "d": 255.0
+              },
+              {
+                "w": "diseased",
+                "t": 9988.0,
+                "d": 469.0
+              },
+              {
+                "w": "may",
+                "t": 10457.0,
+                "d": 170.0
+              },
+              {
+                "w": "come",
+                "t": 10627.0,
+                "d": 509.0
+              },
+              {
+                "w": "receive",
+                "t": 11563.0,
+                "d": 467.0
+              },
+              {
+                "w": "food",
+                "t": 12030.0,
+                "d": 384.0
+              },
+              {
+                "w": "and",
+                "t": 12414.0,
+                "d": 212.0
+              },
+              {
+                "w": "medicine",
+                "t": 12627.0,
+                "d": 510.0
+              },
+              {
+                "w": "without",
+                "t": 13138.0,
+                "d": 425.0
+              },
+              {
+                "w": "payment",
+                "t": 13563.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p13.png",
+      "shot": "close-up of Faxian’s face as he watches a doctor examine a patient",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "A kingdom is judged by the care it gives the helpless.",
+            "hi": "राज्य उसी से आँका जाता है कि वह असहायों की कैसी देखभाल करता है।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p13_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "A",
+                "t": 52.6,
+                "d": 39.5
+              },
+              {
+                "w": "kingdom",
+                "t": 118.4,
+                "d": 513.2
+              },
+              {
+                "w": "is",
+                "t": 723.7,
+                "d": 210.5
+              },
+              {
+                "w": "judged",
+                "t": 934.2,
+                "d": 460.5
+              },
+              {
+                "w": "by",
+                "t": 1447.4,
+                "d": 236.8
+              },
+              {
+                "w": "the",
+                "t": 1684.2,
+                "d": 131.6
+              },
+              {
+                "w": "care",
+                "t": 1815.8,
+                "d": 407.9
+              },
+              {
+                "w": "it",
+                "t": 2302.6,
+                "d": 171.0
+              },
+              {
+                "w": "gives",
+                "t": 2473.7,
+                "d": 342.1
+              },
+              {
+                "w": "the",
+                "t": 2815.8,
+                "d": 171.0
+              },
+              {
+                "w": "helpless",
+                "t": 2986.8,
+                "d": 671.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p14.png",
+      "shot": "medium interior shot of a wealthy household with veiled women in an upper balcony",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "But other currents run under the calm surface. Caste coils tighter around birth; women’s worlds shrink behind screens. Later historians will note how new laws narrow their rights and freedom.",
+            "hi": "पर सतह की इस शांति के नीचे और धाराएँ बहती हैं। जाति जन्म पर और कसी जाती है; स्त्रियों की दुनिया परदे के भीतर सिमटती जाती है। आगे के इतिहासकार लिखेंगे कि नए क़ानून उनके अधिकार और आज़ादी घटाते हैं।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p14_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "But",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "other",
+                "t": 350.0,
+                "d": 280.0
+              },
+              {
+                "w": "currents",
+                "t": 630.0,
+                "d": 440.0
+              },
+              {
+                "w": "run",
+                "t": 1070.0,
+                "d": 280.0
+              },
+              {
+                "w": "under",
+                "t": 1350.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 1630.0,
+                "d": 160.0
+              },
+              {
+                "w": "calm",
+                "t": 1790.0,
+                "d": 320.0
+              },
+              {
+                "w": "surface",
+                "t": 2110.0,
+                "d": 759.0
+              },
+              {
+                "w": "Caste",
+                "t": 3510.0,
+                "d": 399.0
+              },
+              {
+                "w": "coils",
+                "t": 3909.0,
+                "d": 401.0
+              },
+              {
+                "w": "tighter",
+                "t": 4310.0,
+                "d": 400.0
+              },
+              {
+                "w": "around",
+                "t": 4710.0,
+                "d": 360.0
+              },
+              {
+                "w": "birth",
+                "t": 5070.0,
+                "d": 520.0
+              },
+              {
+                "w": "women’s",
+                "t": 6110.0,
+                "d": 480.0
+              },
+              {
+                "w": "worlds",
+                "t": 6590.0,
+                "d": 400.0
+              },
+              {
+                "w": "shrink",
+                "t": 6990.0,
+                "d": 640.0
+              },
+              {
+                "w": "behind",
+                "t": 7630.0,
+                "d": 320.0
+              },
+              {
+                "w": "screens",
+                "t": 7950.0,
+                "d": 1320.0
+              },
+              {
+                "w": "Later",
+                "t": 9430.0,
+                "d": 799.0
+              },
+              {
+                "w": "historians",
+                "t": 10229.0,
+                "d": 721.0
+              },
+              {
+                "w": "will",
+                "t": 10950.0,
+                "d": 160.0
+              },
+              {
+                "w": "note",
+                "t": 11110.0,
+                "d": 320.0
+              },
+              {
+                "w": "how",
+                "t": 11430.0,
+                "d": 360.0
+              },
+              {
+                "w": "new",
+                "t": 11790.0,
+                "d": 240.0
+              },
+              {
+                "w": "laws",
+                "t": 12030.0,
+                "d": 359.0
+              },
+              {
+                "w": "narrow",
+                "t": 12389.0,
+                "d": 320.0
+              },
+              {
+                "w": "their",
+                "t": 12709.0,
+                "d": 241.0
+              },
+              {
+                "w": "rights",
+                "t": 12950.0,
+                "d": 439.0
+              },
+              {
+                "w": "and",
+                "t": 13430.0,
+                "d": 240.0
+              },
+              {
+                "w": "freedom",
+                "t": 13670.0,
+                "d": 559.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p15.png",
+      "shot": "wide shot of a village scene where a Brahmin teacher instructs upper-caste boys while labourers work nearby",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Learning flourishes, but not for all. Sanskrit schools bloom for the few, while lower orders and untouchables bear fields and streets on their shoulders, their stories barely entering any record.",
+            "hi": "विद्या खिलती है, पर सबके लिए नहीं। संस्कृत पाठशालाएँ चुनिंदा के लिए हैं, जबकि निचली जातियाँ और अछूत कंधों पर खेत और सड़कें उठाए हैं, उनकी कथाएँ मुश्किल से किसी अभिलेख में पहुँचती हैं।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p15_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Learning",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "flourishes",
+                "t": 585.0,
+                "d": 851.0
+              },
+              {
+                "w": "but",
+                "t": 1691.0,
+                "d": 255.0
+              },
+              {
+                "w": "not",
+                "t": 1946.0,
+                "d": 255.0
+              },
+              {
+                "w": "for",
+                "t": 2202.0,
+                "d": 127.0
+              },
+              {
+                "w": "all",
+                "t": 2329.0,
+                "d": 510.0
+              },
+              {
+                "w": "Sanskrit",
+                "t": 3308.0,
+                "d": 638.0
+              },
+              {
+                "w": "schools",
+                "t": 3946.0,
+                "d": 468.0
+              },
+              {
+                "w": "bloom",
+                "t": 4414.0,
+                "d": 297.0
+              },
+              {
+                "w": "for",
+                "t": 4712.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 4840.0,
+                "d": 127.0
+              },
+              {
+                "w": "few",
+                "t": 4968.0,
+                "d": 212.0
+              },
+              {
+                "w": "while",
+                "t": 5180.0,
+                "d": 723.0
+              },
+              {
+                "w": "lower",
+                "t": 5904.0,
+                "d": 340.0
+              },
+              {
+                "w": "orders",
+                "t": 6244.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 6840.0,
+                "d": 212.0
+              },
+              {
+                "w": "untouchables",
+                "t": 7053.0,
+                "d": 765.0
+              },
+              {
+                "w": "bear",
+                "t": 7819.0,
+                "d": 297.0
+              },
+              {
+                "w": "fields",
+                "t": 8117.0,
+                "d": 552.0
+              },
+              {
+                "w": "and",
+                "t": 8711.0,
+                "d": 171.0
+              },
+              {
+                "w": "streets",
+                "t": 8882.0,
+                "d": 381.0
+              },
+              {
+                "w": "on",
+                "t": 9264.0,
+                "d": 128.0
+              },
+              {
+                "w": "their",
+                "t": 9393.0,
+                "d": 212.0
+              },
+              {
+                "w": "shoulders",
+                "t": 9606.0,
+                "d": 765.0
+              },
+              {
+                "w": "their",
+                "t": 10840.0,
+                "d": 255.0
+              },
+              {
+                "w": "stories",
+                "t": 11095.0,
+                "d": 510.0
+              },
+              {
+                "w": "barely",
+                "t": 11606.0,
+                "d": 424.0
+              },
+              {
+                "w": "entering",
+                "t": 12030.0,
+                "d": 554.0
+              },
+              {
+                "w": "any",
+                "t": 12585.0,
+                "d": 297.0
+              },
+              {
+                "w": "record",
+                "t": 12882.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p16.png",
+      "shot": "medium shot of Faxian writing by lamplight in a modest lodging",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the quiet of his lodging, he gathers his days into ink. He records the monasteries, the discipline, the charity, the coins, the laws, always with the eyes of a monk seeking the Dharma.",
+            "hi": "अपने निवास की शांति में वह अपने दिनों को स्याही में बाँधता है। वह विहारों, अनुशासन, दान, मुद्राएँ, क़ानून सब दर्ज करता है, हमेशा उस भिक्षु की नज़र से जो धर्म की खोज में है।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p16_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "quiet",
+                "t": 414.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 797.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 925.0,
+                "d": 170.0
+              },
+              {
+                "w": "lodging",
+                "t": 1095.0,
+                "d": 936.0
+              },
+              {
+                "w": "he",
+                "t": 2074.0,
+                "d": 297.0
+              },
+              {
+                "w": "gathers",
+                "t": 2372.0,
+                "d": 510.0
+              },
+              {
+                "w": "his",
+                "t": 2882.0,
+                "d": 169.0
+              },
+              {
+                "w": "days",
+                "t": 3052.0,
+                "d": 384.0
+              },
+              {
+                "w": "into",
+                "t": 3436.0,
+                "d": 425.0
+              },
+              {
+                "w": "ink",
+                "t": 3861.0,
+                "d": 723.0
+              },
+              {
+                "w": "He",
+                "t": 5223.0,
+                "d": 170.0
+              },
+              {
+                "w": "records",
+                "t": 5393.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 5861.0,
+                "d": 127.0
+              },
+              {
+                "w": "monasteries",
+                "t": 5989.0,
+                "d": 978.0
+              },
+              {
+                "w": "the",
+                "t": 7265.0,
+                "d": 212.0
+              },
+              {
+                "w": "discipline",
+                "t": 7478.0,
+                "d": 765.0
+              },
+              {
+                "w": "the",
+                "t": 8500.0,
+                "d": 254.0
+              },
+              {
+                "w": "charity",
+                "t": 8754.0,
+                "d": 893.0
+              },
+              {
+                "w": "the",
+                "t": 9691.0,
+                "d": 211.0
+              },
+              {
+                "w": "coins",
+                "t": 9903.0,
+                "d": 808.0
+              },
+              {
+                "w": "the",
+                "t": 10796.0,
+                "d": 213.0
+              },
+              {
+                "w": "laws",
+                "t": 11010.0,
+                "d": 680.0
+              },
+              {
+                "w": "always",
+                "t": 12585.0,
+                "d": 509.0
+              },
+              {
+                "w": "with",
+                "t": 13094.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 13264.0,
+                "d": 128.0
+              },
+              {
+                "w": "eyes",
+                "t": 13393.0,
+                "d": 509.0
+              },
+              {
+                "w": "of",
+                "t": 13946.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 14117.0,
+                "d": 85.0
+              },
+              {
+                "w": "monk",
+                "t": 14202.0,
+                "d": 595.0
+              },
+              {
+                "w": "seeking",
+                "t": 14797.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 15351.0,
+                "d": 126.0
+              },
+              {
+                "w": "Dharma",
+                "t": 15477.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p17.png",
+      "shot": "wide shot of a ship on the sea with storm clouds, Faxian visible on deck",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At last, bearing scriptures and memories, he turns seaward. Storms lash him on the ocean road, yet he clings to his chest of texts, to carry India’s words back to distant Luoyang.",
+            "hi": "आख़िर, ग्रंथ और स्मृतियाँ सँभाले, वह सागर की ओर मुड़ता है। समुद्री राह पर आँधियाँ उसे झकझोरती हैं, फिर भी वह अपने ग्रंथ–संदूक से चिपका रहता है, ताकि भारत के वचन दूरस्थ लुओयांग पहुँचा सके।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p17_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "last",
+                "t": 310.0,
+                "d": 640.0
+              },
+              {
+                "w": "bearing",
+                "t": 1110.0,
+                "d": 440.0
+              },
+              {
+                "w": "scriptures",
+                "t": 1550.0,
+                "d": 560.0
+              },
+              {
+                "w": "and",
+                "t": 2110.0,
+                "d": 120.0
+              },
+              {
+                "w": "memories",
+                "t": 2230.0,
+                "d": 800.0
+              },
+              {
+                "w": "he",
+                "t": 3070.0,
+                "d": 279.0
+              },
+              {
+                "w": "turns",
+                "t": 3349.0,
+                "d": 281.0
+              },
+              {
+                "w": "seaward",
+                "t": 3630.0,
+                "d": 1000.0
+              },
+              {
+                "w": "Storms",
+                "t": 4910.0,
+                "d": 520.0
+              },
+              {
+                "w": "lash",
+                "t": 5430.0,
+                "d": 360.0
+              },
+              {
+                "w": "him",
+                "t": 5790.0,
+                "d": 120.0
+              },
+              {
+                "w": "on",
+                "t": 5910.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 6030.0,
+                "d": 160.0
+              },
+              {
+                "w": "ocean",
+                "t": 6190.0,
+                "d": 400.0
+              },
+              {
+                "w": "road",
+                "t": 6590.0,
+                "d": 760.0
+              },
+              {
+                "w": "yet",
+                "t": 7630.0,
+                "d": 240.0
+              },
+              {
+                "w": "he",
+                "t": 7870.0,
+                "d": 159.0
+              },
+              {
+                "w": "clings",
+                "t": 8029.0,
+                "d": 321.0
+              },
+              {
+                "w": "to",
+                "t": 8350.0,
+                "d": 119.0
+              },
+              {
+                "w": "his",
+                "t": 8469.0,
+                "d": 201.0
+              },
+              {
+                "w": "chest",
+                "t": 8670.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 8990.0,
+                "d": 200.0
+              },
+              {
+                "w": "texts",
+                "t": 9190.0,
+                "d": 680.0
+              },
+              {
+                "w": "to",
+                "t": 10069.0,
+                "d": 201.0
+              },
+              {
+                "w": "carry",
+                "t": 10270.0,
+                "d": 359.0
+              },
+              {
+                "w": "India’s",
+                "t": 10629.0,
+                "d": 481.0
+              },
+              {
+                "w": "words",
+                "t": 11110.0,
+                "d": 480.0
+              },
+              {
+                "w": "back",
+                "t": 11590.0,
+                "d": 280.0
+              },
+              {
+                "w": "to",
+                "t": 11870.0,
+                "d": 160.0
+              },
+              {
+                "w": "distant",
+                "t": 12030.0,
+                "d": 439.0
+              },
+              {
+                "w": "Luoyang",
+                "t": 12469.0,
+                "d": 721.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "triumph",
+      "bg": "assets/faxian_s_road_through_a_golden_land/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/faxian_s_road_through_a_golden_land/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Cast ashore from storm-torn seas, Faxian rises unbroken, clutching the rescued scriptures like a warrior defending his only standard.",
+            "hi": "तूफ़ानी समुंदर से किनारे फेंका गया फाशियन उठ खड़ा होता है, बचाई हुई धर्म-पुस्तकें ऐसे थामे जैसे योद्धा अपना इकलौता ध्वज बचा रहा हो।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/action/action_auto2_en.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Cast",
+                "t": 114.0,
+                "d": 375.0
+              },
+              {
+                "w": "ashore",
+                "t": 489.0,
+                "d": 375.0
+              },
+              {
+                "w": "from",
+                "t": 864.0,
+                "d": 208.0
+              },
+              {
+                "w": "storm-torn",
+                "t": 1072.0,
+                "d": 666.0
+              },
+              {
+                "w": "seas",
+                "t": 1739.0,
+                "d": 665.0
+              },
+              {
+                "w": "Faxian",
+                "t": 2530.0,
+                "d": 583.0
+              },
+              {
+                "w": "rises",
+                "t": 3113.0,
+                "d": 416.0
+              },
+              {
+                "w": "unbroken",
+                "t": 3530.0,
+                "d": 1126.0
+              },
+              {
+                "w": "clutching",
+                "t": 4781.0,
+                "d": 416.0
+              },
+              {
+                "w": "the",
+                "t": 5197.0,
+                "d": 125.0
+              },
+              {
+                "w": "rescued",
+                "t": 5322.0,
+                "d": 416.0
+              },
+              {
+                "w": "scriptures",
+                "t": 5739.0,
+                "d": 583.0
+              },
+              {
+                "w": "like",
+                "t": 6322.0,
+                "d": 291.0
+              },
+              {
+                "w": "a",
+                "t": 6614.0,
+                "d": 41.0
+              },
+              {
+                "w": "warrior",
+                "t": 6656.0,
+                "d": 416.0
+              },
+              {
+                "w": "defending",
+                "t": 7072.0,
+                "d": 541.0
+              },
+              {
+                "w": "his",
+                "t": 7614.0,
+                "d": 250.0
+              },
+              {
+                "w": "only",
+                "t": 7906.0,
+                "d": 375.0
+              },
+              {
+                "w": "standard",
+                "t": 8281.0,
+                "d": 707.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p18.png",
+      "shot": "medium shot in a Chinese hall where Faxian reads to a small group of monks",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In China his Record of Buddhist Kingdoms takes shape. Through his careful lines, later ages glimpse Gupta India: its hospitals and highways, its gilded courts and silent labourers, its light and its shadow.",
+            "hi": "चीन में उसका ‘बुद्ध–राज्यों का वृत्तांत’ आकार लेता है। उसकी सँभली पंक्तियों से आगे की पीढ़ियाँ गुप्त भारत को झाँकती हैं: उसके अस्पताल और राज–मार्ग, उसके स्वर्णिम दरबार और नि:शब्द श्रमिक, उसकी रोशनी और उसका अँधेरा।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p18_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "China",
+                "t": 356.0,
+                "d": 597.0
+              },
+              {
+                "w": "his",
+                "t": 954.0,
+                "d": 275.0
+              },
+              {
+                "w": "Record",
+                "t": 1229.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 1643.0,
+                "d": 183.0
+              },
+              {
+                "w": "Buddhist",
+                "t": 1827.0,
+                "d": 413.0
+              },
+              {
+                "w": "Kingdoms",
+                "t": 2241.0,
+                "d": 643.0
+              },
+              {
+                "w": "takes",
+                "t": 2885.0,
+                "d": 320.0
+              },
+              {
+                "w": "shape",
+                "t": 3205.0,
+                "d": 781.0
+              },
+              {
+                "w": "Through",
+                "t": 4493.0,
+                "d": 552.0
+              },
+              {
+                "w": "his",
+                "t": 5045.0,
+                "d": 137.0
+              },
+              {
+                "w": "careful",
+                "t": 5183.0,
+                "d": 321.0
+              },
+              {
+                "w": "lines",
+                "t": 5505.0,
+                "d": 597.0
+              },
+              {
+                "w": "later",
+                "t": 6241.0,
+                "d": 505.0
+              },
+              {
+                "w": "ages",
+                "t": 6747.0,
+                "d": 413.0
+              },
+              {
+                "w": "glimpse",
+                "t": 7160.0,
+                "d": 413.0
+              },
+              {
+                "w": "Gupta",
+                "t": 7574.0,
+                "d": 413.0
+              },
+              {
+                "w": "India",
+                "t": 7988.0,
+                "d": 781.0
+              },
+              {
+                "w": "its",
+                "t": 9091.0,
+                "d": 228.0
+              },
+              {
+                "w": "hospitals",
+                "t": 9320.0,
+                "d": 736.0
+              },
+              {
+                "w": "and",
+                "t": 10057.0,
+                "d": 275.0
+              },
+              {
+                "w": "highways",
+                "t": 10333.0,
+                "d": 826.0
+              },
+              {
+                "w": "its",
+                "t": 11573.0,
+                "d": 367.0
+              },
+              {
+                "w": "gilded",
+                "t": 11941.0,
+                "d": 460.0
+              },
+              {
+                "w": "courts",
+                "t": 12402.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 12954.0,
+                "d": 412.0
+              },
+              {
+                "w": "silent",
+                "t": 13366.0,
+                "d": 414.0
+              },
+              {
+                "w": "labourers",
+                "t": 13781.0,
+                "d": 873.0
+              },
+              {
+                "w": "its",
+                "t": 14747.0,
+                "d": 366.0
+              },
+              {
+                "w": "light",
+                "t": 15113.0,
+                "d": 643.0
+              },
+              {
+                "w": "and",
+                "t": 15896.0,
+                "d": 274.0
+              },
+              {
+                "w": "its",
+                "t": 16171.0,
+                "d": 139.0
+              },
+              {
+                "w": "shadow",
+                "t": 16310.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/faxian_s_road_through_a_golden_land/split_auto/s0.png",
+          "slogan": {
+            "en": "Across seas, the Dharma endures",
+            "hi": "सागरों पार, धर्म अमर है"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/faxian_s_road_through_a_golden_land/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/faxian_s_road_through_a_golden_land/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across kingdoms and centuries, Faxian’s journey binds distant lands in one continuous thread of faith, memory, and meticulous record.",
+            "hi": "सदियों और राजाओं को पार करते फैशियन की यात्रा, आस्था, यादों और बारीक लिखी दास्तानों को एक डोर में बाँध देती है।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/split/split_auto_en.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 114.0,
+                "d": 541.0
+              },
+              {
+                "w": "kingdoms",
+                "t": 656.0,
+                "d": 458.0
+              },
+              {
+                "w": "and",
+                "t": 1114.0,
+                "d": 208.0
+              },
+              {
+                "w": "centuries",
+                "t": 1322.0,
+                "d": 916.0
+              },
+              {
+                "w": "Faxian’s",
+                "t": 2405.0,
+                "d": 751.0
+              },
+              {
+                "w": "journey",
+                "t": 3156.0,
+                "d": 415.0
+              },
+              {
+                "w": "binds",
+                "t": 3571.0,
+                "d": 375.0
+              },
+              {
+                "w": "distant",
+                "t": 3946.0,
+                "d": 501.0
+              },
+              {
+                "w": "lands",
+                "t": 4447.0,
+                "d": 625.0
+              },
+              {
+                "w": "in",
+                "t": 5114.0,
+                "d": 250.0
+              },
+              {
+                "w": "one",
+                "t": 5364.0,
+                "d": 333.0
+              },
+              {
+                "w": "continuous",
+                "t": 5697.0,
+                "d": 666.0
+              },
+              {
+                "w": "thread",
+                "t": 6364.0,
+                "d": 291.0
+              },
+              {
+                "w": "of",
+                "t": 6656.0,
+                "d": 125.0
+              },
+              {
+                "w": "faith",
+                "t": 6781.0,
+                "d": 583.0
+              },
+              {
+                "w": "memory",
+                "t": 7489.0,
+                "d": 833.0
+              },
+              {
+                "w": "and",
+                "t": 8363.0,
+                "d": 334.0
+              },
+              {
+                "w": "meticulous",
+                "t": 8697.0,
+                "d": 708.0
+              },
+              {
+                "w": "record",
+                "t": 9406.0,
+                "d": 583.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p19",
+      "art": "assets/faxian_s_road_through_a_golden_land/img/p19.png",
+      "shot": "slow pull-back from a modern scholar’s desk stacked with books, with Faxian’s figure imagined faintly in the background",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today, historians place his gentle praise beside hard evidence, seeing the Gupta age as bright yet uneven. Through Faxian’s foreign eyes, we weigh a kingdom not only by its gold, but by its grace to the least.",
+            "hi": "आज इतिहासकार उसकी सौम्य प्रशंसा को कठोर सबूतों के साथ रखते हैं, गुप्त युग को तेज पर असमान मानते हुए। फाशियान की विदेशी आँखों के सहारे हम राज्य को केवल सोने से नहीं, सबसे छोटे पर उसकी कृपा से भी तौलते हैं।"
+          },
+          "audio": {
+            "en": "assets/faxian_s_road_through_a_golden_land/audio/en/p19_0.mp3",
+            "hi": "assets/faxian_s_road_through_a_golden_land/audio/hi/p19_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "historians",
+                "t": 840.0,
+                "d": 723.0
+              },
+              {
+                "w": "place",
+                "t": 1563.0,
+                "d": 297.0
+              },
+              {
+                "w": "his",
+                "t": 1861.0,
+                "d": 170.0
+              },
+              {
+                "w": "gentle",
+                "t": 2031.0,
+                "d": 509.0
+              },
+              {
+                "w": "praise",
+                "t": 2541.0,
+                "d": 425.0
+              },
+              {
+                "w": "beside",
+                "t": 2967.0,
+                "d": 384.0
+              },
+              {
+                "w": "hard",
+                "t": 3351.0,
+                "d": 296.0
+              },
+              {
+                "w": "evidence",
+                "t": 3647.0,
+                "d": 681.0
+              },
+              {
+                "w": "seeing",
+                "t": 4627.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 5053.0,
+                "d": 170.0
+              },
+              {
+                "w": "Gupta",
+                "t": 5223.0,
+                "d": 340.0
+              },
+              {
+                "w": "age",
+                "t": 5563.0,
+                "d": 680.0
+              },
+              {
+                "w": "as",
+                "t": 6287.0,
+                "d": 297.0
+              },
+              {
+                "w": "bright",
+                "t": 6585.0,
+                "d": 553.0
+              },
+              {
+                "w": "yet",
+                "t": 7223.0,
+                "d": 297.0
+              },
+              {
+                "w": "uneven",
+                "t": 7521.0,
+                "d": 1403.0
+              },
+              {
+                "w": "Through",
+                "t": 9179.0,
+                "d": 341.0
+              },
+              {
+                "w": "Faxian’s",
+                "t": 9521.0,
+                "d": 595.0
+              },
+              {
+                "w": "foreign",
+                "t": 10117.0,
+                "d": 638.0
+              },
+              {
+                "w": "eyes",
+                "t": 10755.0,
+                "d": 255.0
+              },
+              {
+                "w": "we",
+                "t": 11436.0,
+                "d": 297.0
+              },
+              {
+                "w": "weigh",
+                "t": 11734.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 11989.0,
+                "d": 41.0
+              },
+              {
+                "w": "kingdom",
+                "t": 12030.0,
+                "d": 681.0
+              },
+              {
+                "w": "not",
+                "t": 12712.0,
+                "d": 340.0
+              },
+              {
+                "w": "only",
+                "t": 13053.0,
+                "d": 255.0
+              },
+              {
+                "w": "by",
+                "t": 13308.0,
+                "d": 170.0
+              },
+              {
+                "w": "its",
+                "t": 13478.0,
+                "d": 170.0
+              },
+              {
+                "w": "gold",
+                "t": 13648.0,
+                "d": 679.0
+              },
+              {
+                "w": "but",
+                "t": 14413.0,
+                "d": 256.0
+              },
+              {
+                "w": "by",
+                "t": 14670.0,
+                "d": 170.0
+              },
+              {
+                "w": "its",
+                "t": 14840.0,
+                "d": 211.0
+              },
+              {
+                "w": "grace",
+                "t": 15052.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 15392.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 15562.0,
+                "d": 128.0
+              },
+              {
+                "w": "least",
+                "t": 15691.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Faxian the Pilgrim",
+    "epithets": [
+      "Faxian the Pilgrim",
+      "Fa-hsien the Monk",
+      "Seeker of the Vinaya",
+      "Chinese Buddhist Traveller"
+    ],
+    "legend": "He walked half the world to save the Buddha’s words."
+  }
+}
