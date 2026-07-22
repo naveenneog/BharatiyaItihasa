@@ -10,7 +10,7 @@ dialogue + i18n), synthesises one clip per line per language, and writes
   python voice.py ashoka_s_kalinga_change_of_heart --langs en      # quick (one language)
   python voice.py ashoka_s_kalinga_change_of_heart                 # all 6 languages
 """
-import argparse, html, re, subprocess, sys, time
+import argparse, html, re, subprocess, sys, time, unicodedata
 import azure.cognitiveservices.speech as speechsdk
 import common as C
 
@@ -74,6 +74,26 @@ def _expand_regnal(text):
             return m.group(0)
         return f"{prev} {_ORD[num]}"
     return _REGNAL.sub(rep, text or "")
+
+
+_SMART = {"\u2019": "'", "\u2018": "'", "\u201c": '"', "\u201d": '"',
+          "\u2013": "-", "\u2014": "-", "\u2026": "...", "\u00a0": " "}
+
+
+def _deaccent(t):
+    """Strip IAST/Latin diacritics to plain ASCII so the neural TTS pronounces Sanskrit words
+    correctly ('Aryabhata', 'Kalidasa', 'ganita' — not 'Āryabhaṭa', 'Kālidāsa', 'gaṇita'); also
+    normalise smart punctuation. Only applied to ENGLISH text — never to Devanagari (Hindi)."""
+    t = "".join(_SMART.get(c, c) for c in (t or ""))
+    t = unicodedata.normalize("NFKD", t)
+    return "".join(c for c in t if not unicodedata.combining(c))
+
+
+def _norm(text, lg):
+    """Normalise a line for a given language: expand regnal numerals to words, and (English only)
+    de-accent Sanskrit/IAST diacritics so the TTS says them right. Hindi Devanagari is left intact."""
+    text = _expand_regnal(text)
+    return _deaccent(text) if lg == "en" else text
 
 
 def _token():
@@ -150,7 +170,7 @@ def voice_multi(text, outdir, key, langs, role="narrator", tok=None, mood="calm"
     import translate
     import pathlib as _p
     outdir = _p.Path(outdir); outdir.mkdir(parents=True, exist_ok=True)
-    text = _expand_regnal(text)
+    text = _norm(text, "en")
     syn = None
     text_map, words_map = {}, {}
     for lg in langs:
@@ -236,7 +256,7 @@ def voice_episode(eid, langs, force=False):
             text, audio, words = {}, {}, {}
             for lg in langs:
                 txt = (dl.get("i18n", {}).get(lg) if lg != "en" else dl.get("text", "")) or ""
-                txt = _expand_regnal(txt)
+                txt = _norm(txt, lg)
                 text[lg] = txt
                 if not txt.strip():
                     continue
@@ -282,7 +302,7 @@ def revoice_manifest(eid, langs=("en", "hi"), force=True):
         for ln in p.get("lines", []):
             role = ln.get("role", "narrator")
             for lg in langs:
-                txt = _expand_regnal((ln.get("text", {}) or {}).get(lg, ""))
+                txt = _norm((ln.get("text", {}) or {}).get(lg, ""), lg)
                 rel = (ln.get("audio", {}) or {}).get(lg, "")
                 if not (txt and txt.strip() and rel):
                     continue
