@@ -1,0 +1,3942 @@
+{
+  "id": "nalanda_the_ocean_of_learning",
+  "title": "Nalanda, the Ocean of Learning",
+  "title_i18n": {
+    "en": "Nalanda, the Ocean of Learning",
+    "hi": "नालंदा, ज्ञान का सागर"
+  },
+  "figure": "Kumaragupta I",
+  "era": "Founded under Kumaragupta I, c. 427 CE",
+  "moral": "The greatest wealth a ruler can leave is a place where knowledge is free to grow.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/nalanda_the_ocean_of_learning/intro/hero.png",
+      "name": "Kumaragupta the First",
+      "epithets": [
+        "Mahendraditya",
+        "Gupta Emperor",
+        "Founder of Nalanda",
+        "Protector of Dharma"
+      ],
+      "legend": "The king who planted a monastery and grew a world of minds.",
+      "era": "Founded under Kumaragupta I, c. 427 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kumaragupta the First stands over Magadha’s red earth and chooses books over more battles, endowing a quiet monastery that will blaze into Nalanda, the ocean of learning for seven centuries.",
+            "hi": "कुमारगुप्त प्रथम मगध की लाल धरती पर खड़े हैं, तलवार छोड़ किताब चुनते हैं, एक शांत विहार बसाते हैं जो नालंदा बनकर सात सदियों तक ज्ञान का सागर जलाएगा।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/intro/hero_en.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kumaragupta",
+                "t": 114.0,
+                "d": 708.0
+              },
+              {
+                "w": "the",
+                "t": 822.0,
+                "d": 166.0
+              },
+              {
+                "w": "First",
+                "t": 989.0,
+                "d": 416.0
+              },
+              {
+                "w": "stands",
+                "t": 1406.0,
+                "d": 541.0
+              },
+              {
+                "w": "over",
+                "t": 1947.0,
+                "d": 333.0
+              },
+              {
+                "w": "Magadha’s",
+                "t": 2281.0,
+                "d": 748.0
+              },
+              {
+                "w": "red",
+                "t": 3030.0,
+                "d": 376.0
+              },
+              {
+                "w": "earth",
+                "t": 3446.0,
+                "d": 209.0
+              },
+              {
+                "w": "and",
+                "t": 3656.0,
+                "d": 166.0
+              },
+              {
+                "w": "chooses",
+                "t": 3822.0,
+                "d": 500.0
+              },
+              {
+                "w": "books",
+                "t": 4322.0,
+                "d": 333.0
+              },
+              {
+                "w": "over",
+                "t": 4656.0,
+                "d": 291.0
+              },
+              {
+                "w": "more",
+                "t": 4947.0,
+                "d": 250.0
+              },
+              {
+                "w": "battles",
+                "t": 5197.0,
+                "d": 750.0
+              },
+              {
+                "w": "endowing",
+                "t": 6114.0,
+                "d": 625.0
+              },
+              {
+                "w": "a",
+                "t": 6739.0,
+                "d": 166.0
+              },
+              {
+                "w": "quiet",
+                "t": 6906.0,
+                "d": 375.0
+              },
+              {
+                "w": "monastery",
+                "t": 7281.0,
+                "d": 833.0
+              },
+              {
+                "w": "that",
+                "t": 8156.0,
+                "d": 207.0
+              },
+              {
+                "w": "will",
+                "t": 8363.0,
+                "d": 208.0
+              },
+              {
+                "w": "blaze",
+                "t": 8571.0,
+                "d": 333.0
+              },
+              {
+                "w": "into",
+                "t": 8905.0,
+                "d": 209.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 9114.0,
+                "d": 665.0
+              },
+              {
+                "w": "the",
+                "t": 10156.0,
+                "d": 250.0
+              },
+              {
+                "w": "ocean",
+                "t": 10406.0,
+                "d": 375.0
+              },
+              {
+                "w": "of",
+                "t": 10781.0,
+                "d": 207.0
+              },
+              {
+                "w": "learning",
+                "t": 10988.0,
+                "d": 417.0
+              },
+              {
+                "w": "for",
+                "t": 11406.0,
+                "d": 166.0
+              },
+              {
+                "w": "seven",
+                "t": 11572.0,
+                "d": 416.0
+              },
+              {
+                "w": "centuries",
+                "t": 11989.0,
+                "d": 875.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/nalanda_the_ocean_of_learning/intro/map.png",
+      "x": 0.69,
+      "y": 0.38,
+      "label": "Nalanda, Magadha (Bihar)",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the rich plains of Magadha, near the old Ganga roads, Nalanda rises as a calm red-brick sea of learning.",
+            "hi": "समृद्ध मगध की धरती पर, पुरानी गंगा राहों के पास, नालंदा ज्ञान का शांत लाल-ईंटों का समंदर बनकर उठता है।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/intro/map_en.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 137.0
+              },
+              {
+                "w": "rich",
+                "t": 448.0,
+                "d": 275.0
+              },
+              {
+                "w": "plains",
+                "t": 724.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 1091.0,
+                "d": 229.0
+              },
+              {
+                "w": "Magadha",
+                "t": 1321.0,
+                "d": 597.0
+              },
+              {
+                "w": "near",
+                "t": 2425.0,
+                "d": 366.0
+              },
+              {
+                "w": "the",
+                "t": 2791.0,
+                "d": 185.0
+              },
+              {
+                "w": "old",
+                "t": 3022.0,
+                "d": 320.0
+              },
+              {
+                "w": "Ganga",
+                "t": 3343.0,
+                "d": 414.0
+              },
+              {
+                "w": "roads",
+                "t": 3758.0,
+                "d": 642.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 4770.0,
+                "d": 551.0
+              },
+              {
+                "w": "rises",
+                "t": 5321.0,
+                "d": 643.0
+              },
+              {
+                "w": "as",
+                "t": 5965.0,
+                "d": 229.0
+              },
+              {
+                "w": "a",
+                "t": 6195.0,
+                "d": 137.0
+              },
+              {
+                "w": "calm",
+                "t": 6333.0,
+                "d": 459.0
+              },
+              {
+                "w": "red-brick",
+                "t": 6793.0,
+                "d": 827.0
+              },
+              {
+                "w": "sea",
+                "t": 7620.0,
+                "d": 137.0
+              },
+              {
+                "w": "of",
+                "t": 7804.0,
+                "d": 275.0
+              },
+              {
+                "w": "learning",
+                "t": 8080.0,
+                "d": 643.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/nalanda_the_ocean_of_learning/img/cover.png",
+      "shot": "sweeping low-angle wide of a vast red-brick monastery complex rising from green plains",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Nalanda, in the age of Kumaragupta the First: a monastery sown in Magadha that grew into an ocean of learning for seven hundred years.",
+            "hi": "कुमारगुप्त प्रथम के युग में नालंदा: मगध में बोया गया विहार, जो सात सौ साल तक ज्ञान का सागर बना रहा।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/cover_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Nalanda",
+                "t": 74.0,
+                "d": 680.0
+              },
+              {
+                "w": "in",
+                "t": 755.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 882.0,
+                "d": 170.0
+              },
+              {
+                "w": "age",
+                "t": 1053.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 1308.0,
+                "d": 127.0
+              },
+              {
+                "w": "Kumaragupta",
+                "t": 1436.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 2117.0,
+                "d": 170.0
+              },
+              {
+                "w": "First",
+                "t": 2287.0,
+                "d": 764.0
+              },
+              {
+                "w": "a",
+                "t": 3265.0,
+                "d": 170.0
+              },
+              {
+                "w": "monastery",
+                "t": 3436.0,
+                "d": 553.0
+              },
+              {
+                "w": "sown",
+                "t": 3989.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 4372.0,
+                "d": 127.0
+              },
+              {
+                "w": "Magadha",
+                "t": 4500.0,
+                "d": 510.0
+              },
+              {
+                "w": "that",
+                "t": 5265.0,
+                "d": 255.0
+              },
+              {
+                "w": "grew",
+                "t": 5521.0,
+                "d": 297.0
+              },
+              {
+                "w": "into",
+                "t": 5819.0,
+                "d": 255.0
+              },
+              {
+                "w": "an",
+                "t": 6074.0,
+                "d": 127.0
+              },
+              {
+                "w": "ocean",
+                "t": 6202.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 6627.0,
+                "d": 170.0
+              },
+              {
+                "w": "learning",
+                "t": 6797.0,
+                "d": 382.0
+              },
+              {
+                "w": "for",
+                "t": 7180.0,
+                "d": 170.0
+              },
+              {
+                "w": "seven",
+                "t": 7351.0,
+                "d": 382.0
+              },
+              {
+                "w": "hundred",
+                "t": 7734.0,
+                "d": 297.0
+              },
+              {
+                "w": "years",
+                "t": 8031.0,
+                "d": 509.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p01.png",
+      "shot": "wide establishing shot of the Gangetic plains at dawn",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the fifth century, under the Guptas, the Ganga plains glowed with new order, coin and song. Yet beyond temples and conquests, another hunger stirred in Magadha.",
+            "hi": "पाँचवीं सदी में, गुप्तों के समय, गंगा का मैदानी इलाका नए नियम, सिक्कों और गीतों से चमक उठा। पर मंदिरों और विजय के आगे, मगध में एक और भूख जागी।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p01_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 202.0,
+                "d": 170.0
+              },
+              {
+                "w": "fifth",
+                "t": 372.0,
+                "d": 340.0
+              },
+              {
+                "w": "century",
+                "t": 712.0,
+                "d": 638.0
+              },
+              {
+                "w": "under",
+                "t": 1351.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 1648.0,
+                "d": 127.0
+              },
+              {
+                "w": "Guptas",
+                "t": 1776.0,
+                "d": 893.0
+              },
+              {
+                "w": "the",
+                "t": 2882.0,
+                "d": 254.0
+              },
+              {
+                "w": "Ganga",
+                "t": 3137.0,
+                "d": 341.0
+              },
+              {
+                "w": "plains",
+                "t": 3478.0,
+                "d": 468.0
+              },
+              {
+                "w": "glowed",
+                "t": 3946.0,
+                "d": 382.0
+              },
+              {
+                "w": "with",
+                "t": 4329.0,
+                "d": 212.0
+              },
+              {
+                "w": "new",
+                "t": 4542.0,
+                "d": 297.0
+              },
+              {
+                "w": "order",
+                "t": 4840.0,
+                "d": 595.0
+              },
+              {
+                "w": "coin",
+                "t": 5478.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 5946.0,
+                "d": 297.0
+              },
+              {
+                "w": "song",
+                "t": 6244.0,
+                "d": 1276.0
+              },
+              {
+                "w": "Yet",
+                "t": 7691.0,
+                "d": 425.0
+              },
+              {
+                "w": "beyond",
+                "t": 8117.0,
+                "d": 382.0
+              },
+              {
+                "w": "temples",
+                "t": 8500.0,
+                "d": 594.0
+              },
+              {
+                "w": "and",
+                "t": 9094.0,
+                "d": 170.0
+              },
+              {
+                "w": "conquests",
+                "t": 9264.0,
+                "d": 937.0
+              },
+              {
+                "w": "another",
+                "t": 10585.0,
+                "d": 467.0
+              },
+              {
+                "w": "hunger",
+                "t": 11052.0,
+                "d": 384.0
+              },
+              {
+                "w": "stirred",
+                "t": 11436.0,
+                "d": 468.0
+              },
+              {
+                "w": "in",
+                "t": 11904.0,
+                "d": 211.0
+              },
+              {
+                "w": "Magadha",
+                "t": 12115.0,
+                "d": 511.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p02.png",
+      "shot": "medium close-up three-quarter profile of Kumaragupta in court",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kumaragupta the First, heir to Chandragupta and Samudragupta, ruled a realm that called itself golden. Poets praised him, merchants paid him, but his advisors spoke of another gift a king could leave.",
+            "hi": "चंद्रगुप्त और समुद्रगुप्त के उत्तराधिकारी कुमारगुप्त प्रथम पर एक ‘सुवर्ण’ साम्राज्य राज करता था। कवि गाते, व्यापारी कर चुकाते, पर मंत्रियों ने एक और विरासत की बात की, जो राजा छोड़ सकता है।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p02_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kumaragupta",
+                "t": 117.0,
+                "d": 723.0
+              },
+              {
+                "w": "the",
+                "t": 840.0,
+                "d": 170.0
+              },
+              {
+                "w": "First",
+                "t": 1010.0,
+                "d": 851.0
+              },
+              {
+                "w": "heir",
+                "t": 1946.0,
+                "d": 170.0
+              },
+              {
+                "w": "to",
+                "t": 2117.0,
+                "d": 212.0
+              },
+              {
+                "w": "Chandragupta",
+                "t": 2329.0,
+                "d": 936.0
+              },
+              {
+                "w": "and",
+                "t": 3393.0,
+                "d": 296.0
+              },
+              {
+                "w": "Samudragupta",
+                "t": 3690.0,
+                "d": 852.0
+              },
+              {
+                "w": "ruled",
+                "t": 5095.0,
+                "d": 425.0
+              },
+              {
+                "w": "a",
+                "t": 5521.0,
+                "d": 42.0
+              },
+              {
+                "w": "realm",
+                "t": 5563.0,
+                "d": 680.0
+              },
+              {
+                "w": "that",
+                "t": 6244.0,
+                "d": 340.0
+              },
+              {
+                "w": "called",
+                "t": 6585.0,
+                "d": 425.0
+              },
+              {
+                "w": "itself",
+                "t": 7010.0,
+                "d": 595.0
+              },
+              {
+                "w": "golden",
+                "t": 7606.0,
+                "d": 723.0
+              },
+              {
+                "w": "Poets",
+                "t": 9053.0,
+                "d": 468.0
+              },
+              {
+                "w": "praised",
+                "t": 9521.0,
+                "d": 340.0
+              },
+              {
+                "w": "him",
+                "t": 9861.0,
+                "d": 170.0
+              },
+              {
+                "w": "merchants",
+                "t": 10031.0,
+                "d": 1275.0
+              },
+              {
+                "w": "paid",
+                "t": 11307.0,
+                "d": 213.0
+              },
+              {
+                "w": "him",
+                "t": 11521.0,
+                "d": 764.0
+              },
+              {
+                "w": "but",
+                "t": 12542.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 12670.0,
+                "d": 169.0
+              },
+              {
+                "w": "advisors",
+                "t": 12839.0,
+                "d": 595.0
+              },
+              {
+                "w": "spoke",
+                "t": 13435.0,
+                "d": 426.0
+              },
+              {
+                "w": "of",
+                "t": 13861.0,
+                "d": 126.0
+              },
+              {
+                "w": "another",
+                "t": 13988.0,
+                "d": 384.0
+              },
+              {
+                "w": "gift",
+                "t": 14372.0,
+                "d": 679.0
+              },
+              {
+                "w": "a",
+                "t": 15095.0,
+                "d": 255.0
+              },
+              {
+                "w": "king",
+                "t": 15351.0,
+                "d": 255.0
+              },
+              {
+                "w": "could",
+                "t": 15606.0,
+                "d": 255.0
+              },
+              {
+                "w": "leave",
+                "t": 15861.0,
+                "d": 339.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p03.png",
+      "shot": "over-the-shoulder shot from behind Kumaragupta towards the scholars",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "A monastery that welcomes all sharp minds… in Magadha’s very heart?",
+            "hi": "मगध के दिल में ऐसा विहार, जहाँ हर तेज दिमाग का स्वागत हो?"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p03_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "A",
+                "t": 49.0,
+                "d": 49.0
+              },
+              {
+                "w": "monastery",
+                "t": 98.0,
+                "d": 576.0
+              },
+              {
+                "w": "that",
+                "t": 674.0,
+                "d": 257.3
+              },
+              {
+                "w": "welcomes",
+                "t": 931.4,
+                "d": 563.7
+              },
+              {
+                "w": "all",
+                "t": 1568.6,
+                "d": 220.6
+              },
+              {
+                "w": "sharp",
+                "t": 1789.2,
+                "d": 379.9
+              },
+              {
+                "w": "minds",
+                "t": 2169.1,
+                "d": 453.4
+              },
+              {
+                "w": "in",
+                "t": 2745.1,
+                "d": 122.5
+              },
+              {
+                "w": "Magadha’s",
+                "t": 2892.2,
+                "d": 441.2
+              },
+              {
+                "w": "very",
+                "t": 3370.1,
+                "d": 318.6
+              },
+              {
+                "w": "heart",
+                "t": 3688.7,
+                "d": 416.7
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p04.png",
+      "shot": "high-angle wide of the chosen site at Nalanda as a barren field",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Near an older shrine in Nalanda, in Magadha, the king chose a site. Copper-plate grants would later remember his gift, naming him as the founder of a new mahavihara.",
+            "hi": "मगध के नालंदा में एक प्राचीन देवालय के पास, राजा ने स्थल चुना। ताम्रपत्र भविष्य में उसकी दानभूमि याद करेंगे, उसे नए महाविहार का संस्थापक कहेंगे।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p04_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Near",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "an",
+                "t": 414.0,
+                "d": 85.0
+              },
+              {
+                "w": "older",
+                "t": 500.0,
+                "d": 340.0
+              },
+              {
+                "w": "shrine",
+                "t": 840.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 1351.0,
+                "d": 85.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 1436.0,
+                "d": 595.0
+              },
+              {
+                "w": "in",
+                "t": 2414.0,
+                "d": 211.0
+              },
+              {
+                "w": "Magadha",
+                "t": 2626.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 3478.0,
+                "d": 211.0
+              },
+              {
+                "w": "king",
+                "t": 3690.0,
+                "d": 256.0
+              },
+              {
+                "w": "chose",
+                "t": 3946.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 4287.0,
+                "d": 42.0
+              },
+              {
+                "w": "site",
+                "t": 4329.0,
+                "d": 765.0
+              },
+              {
+                "w": "Copper-plate",
+                "t": 5819.0,
+                "d": 595.0
+              },
+              {
+                "w": "grants",
+                "t": 6414.0,
+                "d": 468.0
+              },
+              {
+                "w": "would",
+                "t": 6882.0,
+                "d": 212.0
+              },
+              {
+                "w": "later",
+                "t": 7095.0,
+                "d": 340.0
+              },
+              {
+                "w": "remember",
+                "t": 7436.0,
+                "d": 425.0
+              },
+              {
+                "w": "his",
+                "t": 7861.0,
+                "d": 212.0
+              },
+              {
+                "w": "gift",
+                "t": 8074.0,
+                "d": 764.0
+              },
+              {
+                "w": "naming",
+                "t": 8968.0,
+                "d": 468.0
+              },
+              {
+                "w": "him",
+                "t": 9436.0,
+                "d": 296.0
+              },
+              {
+                "w": "as",
+                "t": 9732.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 9946.0,
+                "d": 126.0
+              },
+              {
+                "w": "founder",
+                "t": 10073.0,
+                "d": 511.0
+              },
+              {
+                "w": "of",
+                "t": 10585.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 10755.0,
+                "d": 41.0
+              },
+              {
+                "w": "new",
+                "t": 10796.0,
+                "d": 340.0
+              },
+              {
+                "w": "mahavihara",
+                "t": 11137.0,
+                "d": 937.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/nalanda_the_ocean_of_learning/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/nalanda_the_ocean_of_learning/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kumaragupta inspects the sacred ground himself, turning royal vision into measured lines upon the Magadhan earth.",
+            "hi": "कुमारगुप्त खुद पवित्र धरती नापते हैं, शाही नज़र को मगध की मिट्टी पर सीधी रेखाओं में बदलते हुए।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/action/action_auto_en.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kumaragupta",
+                "t": 126.0,
+                "d": 873.0
+              },
+              {
+                "w": "inspects",
+                "t": 1000.0,
+                "d": 643.0
+              },
+              {
+                "w": "the",
+                "t": 1643.0,
+                "d": 183.0
+              },
+              {
+                "w": "sacred",
+                "t": 1827.0,
+                "d": 551.0
+              },
+              {
+                "w": "ground",
+                "t": 2379.0,
+                "d": 366.0
+              },
+              {
+                "w": "himself",
+                "t": 2745.0,
+                "d": 828.0
+              },
+              {
+                "w": "turning",
+                "t": 3849.0,
+                "d": 505.0
+              },
+              {
+                "w": "royal",
+                "t": 4355.0,
+                "d": 368.0
+              },
+              {
+                "w": "vision",
+                "t": 4724.0,
+                "d": 505.0
+              },
+              {
+                "w": "into",
+                "t": 5229.0,
+                "d": 321.0
+              },
+              {
+                "w": "measured",
+                "t": 5551.0,
+                "d": 505.0
+              },
+              {
+                "w": "lines",
+                "t": 6057.0,
+                "d": 459.0
+              },
+              {
+                "w": "upon",
+                "t": 6517.0,
+                "d": 413.0
+              },
+              {
+                "w": "the",
+                "t": 6931.0,
+                "d": 137.0
+              },
+              {
+                "w": "Magadhan",
+                "t": 7068.0,
+                "d": 597.0
+              },
+              {
+                "w": "earth",
+                "t": 7712.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p05.png",
+      "shot": "low-angle shot of foundation ceremony",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With ritual water and royal seal, he endowed the monastery. Land, revenue, and protection were tied to Nalanda, so that teachers could teach without fear of hunger or tax.",
+            "hi": "विधि से जल चढ़ाकर, राजमुद्रा लगा कर उसने विहार को दान दिया। भूमि, आमदनी और सुरक्षा नालंदा से जुड़ गई, ताकि गुरु बिना भूख या कर के डर के पढ़ा सकें।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p05_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "ritual",
+                "t": 356.0,
+                "d": 413.0
+              },
+              {
+                "w": "water",
+                "t": 770.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 1321.0,
+                "d": 275.0
+              },
+              {
+                "w": "royal",
+                "t": 1597.0,
+                "d": 275.0
+              },
+              {
+                "w": "seal",
+                "t": 1873.0,
+                "d": 413.0
+              },
+              {
+                "w": "he",
+                "t": 2287.0,
+                "d": 91.0
+              },
+              {
+                "w": "endowed",
+                "t": 2745.0,
+                "d": 782.0
+              },
+              {
+                "w": "the",
+                "t": 3528.0,
+                "d": 183.0
+              },
+              {
+                "w": "monastery",
+                "t": 3712.0,
+                "d": 1103.0
+              },
+              {
+                "w": "Land",
+                "t": 5000.0,
+                "d": 689.0
+              },
+              {
+                "w": "revenue",
+                "t": 5689.0,
+                "d": 827.0
+              },
+              {
+                "w": "and",
+                "t": 6563.0,
+                "d": 275.0
+              },
+              {
+                "w": "protection",
+                "t": 6839.0,
+                "d": 597.0
+              },
+              {
+                "w": "were",
+                "t": 7436.0,
+                "d": 229.0
+              },
+              {
+                "w": "tied",
+                "t": 7666.0,
+                "d": 321.0
+              },
+              {
+                "w": "to",
+                "t": 7988.0,
+                "d": 137.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 8126.0,
+                "d": 597.0
+              },
+              {
+                "w": "so",
+                "t": 9183.0,
+                "d": 274.0
+              },
+              {
+                "w": "that",
+                "t": 9458.0,
+                "d": 231.0
+              },
+              {
+                "w": "teachers",
+                "t": 9689.0,
+                "d": 551.0
+              },
+              {
+                "w": "could",
+                "t": 10241.0,
+                "d": 274.0
+              },
+              {
+                "w": "teach",
+                "t": 10516.0,
+                "d": 322.0
+              },
+              {
+                "w": "without",
+                "t": 10839.0,
+                "d": 367.0
+              },
+              {
+                "w": "fear",
+                "t": 11206.0,
+                "d": 321.0
+              },
+              {
+                "w": "of",
+                "t": 11528.0,
+                "d": 136.0
+              },
+              {
+                "w": "hunger",
+                "t": 11665.0,
+                "d": 643.0
+              },
+              {
+                "w": "or",
+                "t": 12309.0,
+                "d": 277.0
+              },
+              {
+                "w": "tax",
+                "t": 12586.0,
+                "d": 643.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p06.png",
+      "shot": "time-lapse style wide shot of construction",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Brick by brick, the red monasteries rose. Cells, lecture halls, shrines and wells formed a city of study, as the Gupta king’s donation took shape in fired clay and stone.",
+            "hi": "ईंट पर ईंट, लाल विहार उठे। कक्ष, पाठशालाएँ, देवालय और कुएँ—सब मिलकर एक अध्ययन-नगरी बने, जहाँ गुप्त सम्राट का दान मिट्टी और पत्थर में आकार लेने लगा।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p06_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Brick",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "by",
+                "t": 457.0,
+                "d": 212.0
+              },
+              {
+                "w": "brick",
+                "t": 670.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 1095.0,
+                "d": 170.0
+              },
+              {
+                "w": "red",
+                "t": 1265.0,
+                "d": 212.0
+              },
+              {
+                "w": "monasteries",
+                "t": 1478.0,
+                "d": 679.0
+              },
+              {
+                "w": "rose",
+                "t": 2158.0,
+                "d": 171.0
+              },
+              {
+                "w": "Cells",
+                "t": 2329.0,
+                "d": 382.0
+              },
+              {
+                "w": "lecture",
+                "t": 2967.0,
+                "d": 298.0
+              },
+              {
+                "w": "halls",
+                "t": 3265.0,
+                "d": 553.0
+              },
+              {
+                "w": "shrines",
+                "t": 3946.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 4372.0,
+                "d": 127.0
+              },
+              {
+                "w": "wells",
+                "t": 4500.0,
+                "d": 595.0
+              },
+              {
+                "w": "formed",
+                "t": 5436.0,
+                "d": 553.0
+              },
+              {
+                "w": "a",
+                "t": 6159.0,
+                "d": 1234.0
+              },
+              {
+                "w": "city",
+                "t": 7393.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 7734.0,
+                "d": 127.0
+              },
+              {
+                "w": "study",
+                "t": 7861.0,
+                "d": 722.0
+              },
+              {
+                "w": "as",
+                "t": 8626.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 8924.0,
+                "d": 128.0
+              },
+              {
+                "w": "Gupta",
+                "t": 9053.0,
+                "d": 340.0
+              },
+              {
+                "w": "king’s",
+                "t": 9393.0,
+                "d": 297.0
+              },
+              {
+                "w": "donation",
+                "t": 9691.0,
+                "d": 552.0
+              },
+              {
+                "w": "took",
+                "t": 10243.0,
+                "d": 213.0
+              },
+              {
+                "w": "shape",
+                "t": 10457.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 10840.0,
+                "d": 170.0
+              },
+              {
+                "w": "fired",
+                "t": 11010.0,
+                "d": 468.0
+              },
+              {
+                "w": "clay",
+                "t": 11478.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 11945.0,
+                "d": 255.0
+              },
+              {
+                "w": "stone",
+                "t": 12201.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p07.png",
+      "shot": "wide top-down schematic-like shot of early Nalanda complex",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In time, Nalanda grew beyond a mere monastery. It became a planned mahavihara, a cluster of courts and shrines, where hundreds of residents could live, debate and meditate within its walls.",
+            "hi": "धीरे-धीरे नालंदा साधारण विहार से आगे बढ़ा। वह एक योजनाबद्ध महाविहार बना—आँगनों और देवालयों का समूह, जहाँ सैकड़ों निवासी दीवारों के भीतर रह सकें, बहस कर सकें, ध्यान कर सकें।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p07_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "time",
+                "t": 372.0,
+                "d": 638.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 1180.0,
+                "d": 638.0
+              },
+              {
+                "w": "grew",
+                "t": 1819.0,
+                "d": 255.0
+              },
+              {
+                "w": "beyond",
+                "t": 2074.0,
+                "d": 381.0
+              },
+              {
+                "w": "a",
+                "t": 2456.0,
+                "d": 85.0
+              },
+              {
+                "w": "mere",
+                "t": 2541.0,
+                "d": 256.0
+              },
+              {
+                "w": "monastery",
+                "t": 2797.0,
+                "d": 1021.0
+              },
+              {
+                "w": "It",
+                "t": 4115.0,
+                "d": 171.0
+              },
+              {
+                "w": "became",
+                "t": 4287.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 4670.0,
+                "d": 127.0
+              },
+              {
+                "w": "planned",
+                "t": 4797.0,
+                "d": 382.0
+              },
+              {
+                "w": "mahavihara",
+                "t": 5180.0,
+                "d": 1063.0
+              },
+              {
+                "w": "a",
+                "t": 6329.0,
+                "d": 255.0
+              },
+              {
+                "w": "cluster",
+                "t": 6585.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 7010.0,
+                "d": 212.0
+              },
+              {
+                "w": "courts",
+                "t": 7223.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 7691.0,
+                "d": 255.0
+              },
+              {
+                "w": "shrines",
+                "t": 7946.0,
+                "d": 807.0
+              },
+              {
+                "w": "where",
+                "t": 8839.0,
+                "d": 298.0
+              },
+              {
+                "w": "hundreds",
+                "t": 9138.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 9563.0,
+                "d": 84.0
+              },
+              {
+                "w": "residents",
+                "t": 9647.0,
+                "d": 510.0
+              },
+              {
+                "w": "could",
+                "t": 10158.0,
+                "d": 213.0
+              },
+              {
+                "w": "live",
+                "t": 10372.0,
+                "d": 594.0
+              },
+              {
+                "w": "debate",
+                "t": 11010.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 11691.0,
+                "d": 339.0
+              },
+              {
+                "w": "meditate",
+                "t": 12030.0,
+                "d": 511.0
+              },
+              {
+                "w": "within",
+                "t": 12542.0,
+                "d": 296.0
+              },
+              {
+                "w": "its",
+                "t": 12839.0,
+                "d": 170.0
+              },
+              {
+                "w": "walls",
+                "t": 13009.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p08.png",
+      "shot": "medium interior shot of a lecture hall",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, learning was not a side ritual but the very purpose. Logic, grammar, medicine and mathematics stood beside Buddhist thought, as teachers trained minds to argue as sharply as they prayed.",
+            "hi": "यहाँ अध्ययन कोई अतिरिक्त कर्मकांड नहीं, बल्कि लक्ष्य ही लक्ष्य था। तर्क, व्याकरण, चिकित्साशास्त्र और गणित, बौद्ध विचार के साथ खड़े थे, जब गुरु दिमागों को उतना ही तेज तर्क सिखाते, जितना गहन प्रार्थना।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p08_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 74.0,
+                "d": 723.0
+              },
+              {
+                "w": "learning",
+                "t": 797.0,
+                "d": 553.0
+              },
+              {
+                "w": "was",
+                "t": 1351.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 1563.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 1776.0,
+                "d": 42.0
+              },
+              {
+                "w": "side",
+                "t": 1819.0,
+                "d": 468.0
+              },
+              {
+                "w": "ritual",
+                "t": 2287.0,
+                "d": 595.0
+              },
+              {
+                "w": "but",
+                "t": 3052.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 3265.0,
+                "d": 127.0
+              },
+              {
+                "w": "very",
+                "t": 3393.0,
+                "d": 382.0
+              },
+              {
+                "w": "purpose",
+                "t": 3776.0,
+                "d": 723.0
+              },
+              {
+                "w": "Logic",
+                "t": 4840.0,
+                "d": 808.0
+              },
+              {
+                "w": "grammar",
+                "t": 5776.0,
+                "d": 595.0
+              },
+              {
+                "w": "medicine",
+                "t": 6627.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 7265.0,
+                "d": 212.0
+              },
+              {
+                "w": "mathematics",
+                "t": 7478.0,
+                "d": 723.0
+              },
+              {
+                "w": "stood",
+                "t": 8202.0,
+                "d": 637.0
+              },
+              {
+                "w": "beside",
+                "t": 8839.0,
+                "d": 384.0
+              },
+              {
+                "w": "Buddhist",
+                "t": 9223.0,
+                "d": 382.0
+              },
+              {
+                "w": "thought",
+                "t": 9606.0,
+                "d": 978.0
+              },
+              {
+                "w": "as",
+                "t": 10627.0,
+                "d": 339.0
+              },
+              {
+                "w": "teachers",
+                "t": 10967.0,
+                "d": 469.0
+              },
+              {
+                "w": "trained",
+                "t": 11436.0,
+                "d": 339.0
+              },
+              {
+                "w": "minds",
+                "t": 11775.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 12115.0,
+                "d": 213.0
+              },
+              {
+                "w": "argue",
+                "t": 12329.0,
+                "d": 553.0
+              },
+              {
+                "w": "as",
+                "t": 12968.0,
+                "d": 296.0
+              },
+              {
+                "w": "sharply",
+                "t": 13264.0,
+                "d": 638.0
+              },
+              {
+                "w": "as",
+                "t": 13903.0,
+                "d": 213.0
+              },
+              {
+                "w": "they",
+                "t": 14117.0,
+                "d": 170.0
+              },
+              {
+                "w": "prayed",
+                "t": 14287.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p09.png",
+      "shot": "medium shot of a debate in a courtyard",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Debate was sport and discipline. A careless argument could bar a student from higher instruction. A clear, fearless answer could open doors to the most guarded teachings of the monastery.",
+            "hi": "वाद-विवाद खेल भी था, साधना भी। ढीली दलील पर छात्र को ऊँची शिक्षा से रोका जा सकता था। साफ, निडर जवाब से विहार की सबसे गुप्त शिक्षा के द्वार खुल सकते थे।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p09_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Debate",
+                "t": 80.0,
+                "d": 459.0
+              },
+              {
+                "w": "was",
+                "t": 540.0,
+                "d": 183.0
+              },
+              {
+                "w": "sport",
+                "t": 724.0,
+                "d": 505.0
+              },
+              {
+                "w": "and",
+                "t": 1229.0,
+                "d": 275.0
+              },
+              {
+                "w": "discipline",
+                "t": 1505.0,
+                "d": 643.0
+              },
+              {
+                "w": "A",
+                "t": 2654.0,
+                "d": 277.0
+              },
+              {
+                "w": "careless",
+                "t": 2931.0,
+                "d": 412.0
+              },
+              {
+                "w": "argument",
+                "t": 3343.0,
+                "d": 690.0
+              },
+              {
+                "w": "could",
+                "t": 4126.0,
+                "d": 274.0
+              },
+              {
+                "w": "bar",
+                "t": 4401.0,
+                "d": 322.0
+              },
+              {
+                "w": "a",
+                "t": 4724.0,
+                "d": 45.0
+              },
+              {
+                "w": "student",
+                "t": 4770.0,
+                "d": 505.0
+              },
+              {
+                "w": "from",
+                "t": 5275.0,
+                "d": 275.0
+              },
+              {
+                "w": "higher",
+                "t": 5551.0,
+                "d": 413.0
+              },
+              {
+                "w": "instruction",
+                "t": 5965.0,
+                "d": 1103.0
+              },
+              {
+                "w": "A",
+                "t": 7114.0,
+                "d": 275.0
+              },
+              {
+                "w": "clear",
+                "t": 7390.0,
+                "d": 505.0
+              },
+              {
+                "w": "fearless",
+                "t": 8356.0,
+                "d": 689.0
+              },
+              {
+                "w": "answer",
+                "t": 9091.0,
+                "d": 689.0
+              },
+              {
+                "w": "could",
+                "t": 9873.0,
+                "d": 229.0
+              },
+              {
+                "w": "open",
+                "t": 10103.0,
+                "d": 412.0
+              },
+              {
+                "w": "doors",
+                "t": 10516.0,
+                "d": 322.0
+              },
+              {
+                "w": "to",
+                "t": 10839.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 10931.0,
+                "d": 136.0
+              },
+              {
+                "w": "most",
+                "t": 11067.0,
+                "d": 322.0
+              },
+              {
+                "w": "guarded",
+                "t": 11390.0,
+                "d": 458.0
+              },
+              {
+                "w": "teachings",
+                "t": 11849.0,
+                "d": 506.0
+              },
+              {
+                "w": "of",
+                "t": 12356.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 12448.0,
+                "d": 137.0
+              },
+              {
+                "w": "monastery",
+                "t": 12586.0,
+                "d": 688.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p10.png",
+      "shot": "wide shot of Dharmaganja library complex exterior",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In later centuries a vast library grew within Nalanda, remembered as Dharmaganja, the Treasury of the Dharma. Its buildings gained names like Ratnasagara, Ratnodadhi, Ratnaranjaka—the Sea, the Ocean, the Adorner of Jewels.",
+            "hi": "सदियों बाद नालंदा के भीतर एक विशाल पुस्तकालय उगा, जिसे धर्मगंज, यानी धर्म का भंडार कहा गया। इसके भवनों के नाम पड़े—रत्नसागर, रत्नोदधि, रत्नरंजक—रत्नों का सागर, महासागर, श्रृंगार।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p10_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "later",
+                "t": 287.0,
+                "d": 382.0
+              },
+              {
+                "w": "centuries",
+                "t": 670.0,
+                "d": 723.0
+              },
+              {
+                "w": "a",
+                "t": 1393.0,
+                "d": 212.0
+              },
+              {
+                "w": "vast",
+                "t": 1606.0,
+                "d": 382.0
+              },
+              {
+                "w": "library",
+                "t": 1989.0,
+                "d": 552.0
+              },
+              {
+                "w": "grew",
+                "t": 2541.0,
+                "d": 256.0
+              },
+              {
+                "w": "within",
+                "t": 2797.0,
+                "d": 296.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 3094.0,
+                "d": 510.0
+              },
+              {
+                "w": "remembered",
+                "t": 3605.0,
+                "d": 1277.0
+              },
+              {
+                "w": "as",
+                "t": 4882.0,
+                "d": 212.0
+              },
+              {
+                "w": "Dharmaganja",
+                "t": 5095.0,
+                "d": 936.0
+              },
+              {
+                "w": "the",
+                "t": 6287.0,
+                "d": 212.0
+              },
+              {
+                "w": "Treasury",
+                "t": 6500.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 6968.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 7095.0,
+                "d": 127.0
+              },
+              {
+                "w": "Dharma",
+                "t": 7223.0,
+                "d": 510.0
+              },
+              {
+                "w": "Its",
+                "t": 8711.0,
+                "d": 212.0
+              },
+              {
+                "w": "buildings",
+                "t": 8924.0,
+                "d": 511.0
+              },
+              {
+                "w": "gained",
+                "t": 9436.0,
+                "d": 296.0
+              },
+              {
+                "w": "names",
+                "t": 9732.0,
+                "d": 340.0
+              },
+              {
+                "w": "like",
+                "t": 10073.0,
+                "d": 213.0
+              },
+              {
+                "w": "Ratnasagara",
+                "t": 10287.0,
+                "d": 764.0
+              },
+              {
+                "w": "Ratnodadhi",
+                "t": 11052.0,
+                "d": 1447.0
+              },
+              {
+                "w": "Ratnaranjaka",
+                "t": 12712.0,
+                "d": 1063.0
+              },
+              {
+                "w": "the",
+                "t": 14117.0,
+                "d": 211.0
+              },
+              {
+                "w": "Sea",
+                "t": 14328.0,
+                "d": 341.0
+              },
+              {
+                "w": "the",
+                "t": 14967.0,
+                "d": 213.0
+              },
+              {
+                "w": "Ocean",
+                "t": 15222.0,
+                "d": 639.0
+              },
+              {
+                "w": "the",
+                "t": 15989.0,
+                "d": 211.0
+              },
+              {
+                "w": "Adorner",
+                "t": 16201.0,
+                "d": 469.0
+              },
+              {
+                "w": "of",
+                "t": 16670.0,
+                "d": 170.0
+              },
+              {
+                "w": "Jewels",
+                "t": 16840.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/nalanda_the_ocean_of_learning/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/nalanda_the_ocean_of_learning/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As Nalanda thrives, the emperor steels his armies, guarding learning with vigilant bows and disciplined ranks.",
+            "hi": "नालंदा खिल रहा है, सम्राट की फ़ौजें तने धनुष और सख़्त अनुशासन से ज्ञान की रखवाली कर रही हैं।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/action/action_auto2_en.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 110.0,
+                "d": 200.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 310.0,
+                "d": 440.0
+              },
+              {
+                "w": "thrives",
+                "t": 750.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 1590.0,
+                "d": 240.0
+              },
+              {
+                "w": "emperor",
+                "t": 1830.0,
+                "d": 479.0
+              },
+              {
+                "w": "steels",
+                "t": 2309.0,
+                "d": 401.0
+              },
+              {
+                "w": "his",
+                "t": 2710.0,
+                "d": 159.0
+              },
+              {
+                "w": "armies",
+                "t": 2869.0,
+                "d": 681.0
+              },
+              {
+                "w": "guarding",
+                "t": 3750.0,
+                "d": 440.0
+              },
+              {
+                "w": "learning",
+                "t": 4190.0,
+                "d": 400.0
+              },
+              {
+                "w": "with",
+                "t": 4590.0,
+                "d": 200.0
+              },
+              {
+                "w": "vigilant",
+                "t": 4790.0,
+                "d": 480.0
+              },
+              {
+                "w": "bows",
+                "t": 5270.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 5910.0,
+                "d": 240.0
+              },
+              {
+                "w": "disciplined",
+                "t": 6150.0,
+                "d": 560.0
+              },
+              {
+                "w": "ranks",
+                "t": 6710.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p11.png",
+      "shot": "intimate interior shot inside the library stacks",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Palm leaves inked and bound, texts copied and recited—the library was called the Sea of Gems. It held Buddhist sutras and treatises, but also works on arts, sciences and rival philosophies.",
+            "hi": "ताड़-पत्रों पर स्याही, नकलें, पाठ—इस पुस्तकालय को ‘रत्नों का सागर’ कहा गया। इसमें बौद्ध सूत्र और ग्रंथ ही नहीं, कला, विज्ञान और प्रतिद्वंद्वी दर्शन भी रखे थे।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p11_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Palm",
+                "t": 159.0,
+                "d": 297.0
+              },
+              {
+                "w": "leaves",
+                "t": 457.0,
+                "d": 382.0
+              },
+              {
+                "w": "inked",
+                "t": 882.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 1393.0,
+                "d": 297.0
+              },
+              {
+                "w": "bound",
+                "t": 1691.0,
+                "d": 764.0
+              },
+              {
+                "w": "texts",
+                "t": 2456.0,
+                "d": 384.0
+              },
+              {
+                "w": "copied",
+                "t": 2840.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 3478.0,
+                "d": 169.0
+              },
+              {
+                "w": "recited",
+                "t": 3647.0,
+                "d": 937.0
+              },
+              {
+                "w": "the",
+                "t": 4968.0,
+                "d": 212.0
+              },
+              {
+                "w": "library",
+                "t": 5180.0,
+                "d": 510.0
+              },
+              {
+                "w": "was",
+                "t": 5691.0,
+                "d": 212.0
+              },
+              {
+                "w": "called",
+                "t": 5904.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 6202.0,
+                "d": 127.0
+              },
+              {
+                "w": "Sea",
+                "t": 6329.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 6712.0,
+                "d": 255.0
+              },
+              {
+                "w": "Gems",
+                "t": 6968.0,
+                "d": 680.0
+              },
+              {
+                "w": "It",
+                "t": 7989.0,
+                "d": 340.0
+              },
+              {
+                "w": "held",
+                "t": 8329.0,
+                "d": 254.0
+              },
+              {
+                "w": "Buddhist",
+                "t": 8584.0,
+                "d": 510.0
+              },
+              {
+                "w": "sutras",
+                "t": 9094.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 9732.0,
+                "d": 298.0
+              },
+              {
+                "w": "treatises",
+                "t": 10031.0,
+                "d": 850.0
+              },
+              {
+                "w": "but",
+                "t": 11052.0,
+                "d": 298.0
+              },
+              {
+                "w": "also",
+                "t": 11351.0,
+                "d": 340.0
+              },
+              {
+                "w": "works",
+                "t": 11691.0,
+                "d": 339.0
+              },
+              {
+                "w": "on",
+                "t": 12030.0,
+                "d": 213.0
+              },
+              {
+                "w": "arts",
+                "t": 12286.0,
+                "d": 426.0
+              },
+              {
+                "w": "sciences",
+                "t": 12712.0,
+                "d": 1148.0
+              },
+              {
+                "w": "and",
+                "t": 13903.0,
+                "d": 340.0
+              },
+              {
+                "w": "rival",
+                "t": 14243.0,
+                "d": 340.0
+              },
+              {
+                "w": "philosophies",
+                "t": 14584.0,
+                "d": 937.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p12.png",
+      "shot": "wide shot of the monastery gate with travelers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Students came not only from nearby villages but from far kingdoms. In later ages, seekers would journey from Kucha, Korea and beyond, drawn by Nalanda’s reputation across Asia.",
+            "hi": "विद्यार्थी सिर्फ आसपास के गाँवों से नहीं, दूर-दूर के राज्यों से आए। बाद के युगों में कूचा, कोरिया और उससे भी आगे से साधक नालंदा की एशिया-भर की ख्याति से खिंचे चले आए।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p12_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Students",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "came",
+                "t": 670.0,
+                "d": 297.0
+              },
+              {
+                "w": "not",
+                "t": 968.0,
+                "d": 212.0
+              },
+              {
+                "w": "only",
+                "t": 1180.0,
+                "d": 255.0
+              },
+              {
+                "w": "from",
+                "t": 1436.0,
+                "d": 212.0
+              },
+              {
+                "w": "nearby",
+                "t": 1648.0,
+                "d": 382.0
+              },
+              {
+                "w": "villages",
+                "t": 2031.0,
+                "d": 552.0
+              },
+              {
+                "w": "but",
+                "t": 2584.0,
+                "d": 298.0
+              },
+              {
+                "w": "from",
+                "t": 2882.0,
+                "d": 211.0
+              },
+              {
+                "w": "far",
+                "t": 3094.0,
+                "d": 425.0
+              },
+              {
+                "w": "kingdoms",
+                "t": 3520.0,
+                "d": 894.0
+              },
+              {
+                "w": "In",
+                "t": 4670.0,
+                "d": 212.0
+              },
+              {
+                "w": "later",
+                "t": 4882.0,
+                "d": 382.0
+              },
+              {
+                "w": "ages",
+                "t": 5265.0,
+                "d": 680.0
+              },
+              {
+                "w": "seekers",
+                "t": 6031.0,
+                "d": 553.0
+              },
+              {
+                "w": "would",
+                "t": 6585.0,
+                "d": 212.0
+              },
+              {
+                "w": "journey",
+                "t": 6797.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 7180.0,
+                "d": 297.0
+              },
+              {
+                "w": "Kucha",
+                "t": 7478.0,
+                "d": 595.0
+              },
+              {
+                "w": "Korea",
+                "t": 8159.0,
+                "d": 552.0
+              },
+              {
+                "w": "and",
+                "t": 8754.0,
+                "d": 298.0
+              },
+              {
+                "w": "beyond",
+                "t": 9053.0,
+                "d": 808.0
+              },
+              {
+                "w": "drawn",
+                "t": 9903.0,
+                "d": 511.0
+              },
+              {
+                "w": "by",
+                "t": 10414.0,
+                "d": 170.0
+              },
+              {
+                "w": "Nalanda’s",
+                "t": 10585.0,
+                "d": 680.0
+              },
+              {
+                "w": "reputation",
+                "t": 11265.0,
+                "d": 723.0
+              },
+              {
+                "w": "across",
+                "t": 11989.0,
+                "d": 425.0
+              },
+              {
+                "w": "Asia",
+                "t": 12414.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p13.png",
+      "shot": "medium shot of a foreign monk in the crowd, evoking Xuanzang",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Centuries after Kumaragupta, the Chinese pilgrim Xuanzang would walk these courtyards. He wrote of thriving monasteries, thousands of residents and famed teachers whose names echoed back to his homeland.",
+            "hi": "कुमारगुप्त के बहुत बाद, चीनी यात्री श्वेनज़ांग ने इन्हीं प्रांगणों में कदम रखे। उसने समृद्ध विहारों, हज़ारों निवासियों और ऐसे आचार्यों का वर्णन किया, जिनके नाम चीन तक गूँज उठे।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p13_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Centuries",
+                "t": 117.0,
+                "d": 723.0
+              },
+              {
+                "w": "after",
+                "t": 840.0,
+                "d": 382.0
+              },
+              {
+                "w": "Kumaragupta",
+                "t": 1223.0,
+                "d": 893.0
+              },
+              {
+                "w": "the",
+                "t": 2287.0,
+                "d": 211.0
+              },
+              {
+                "w": "Chinese",
+                "t": 2498.0,
+                "d": 553.0
+              },
+              {
+                "w": "pilgrim",
+                "t": 3052.0,
+                "d": 468.0
+              },
+              {
+                "w": "Xuanzang",
+                "t": 3520.0,
+                "d": 809.0
+              },
+              {
+                "w": "would",
+                "t": 4329.0,
+                "d": 212.0
+              },
+              {
+                "w": "walk",
+                "t": 4542.0,
+                "d": 340.0
+              },
+              {
+                "w": "these",
+                "t": 4882.0,
+                "d": 255.0
+              },
+              {
+                "w": "courtyards",
+                "t": 5138.0,
+                "d": 765.0
+              },
+              {
+                "w": "He",
+                "t": 6159.0,
+                "d": 297.0
+              },
+              {
+                "w": "wrote",
+                "t": 6500.0,
+                "d": 212.0
+              },
+              {
+                "w": "of",
+                "t": 6712.0,
+                "d": 85.0
+              },
+              {
+                "w": "thriving",
+                "t": 6797.0,
+                "d": 425.0
+              },
+              {
+                "w": "monasteries",
+                "t": 7223.0,
+                "d": 936.0
+              },
+              {
+                "w": "thousands",
+                "t": 8202.0,
+                "d": 509.0
+              },
+              {
+                "w": "of",
+                "t": 8711.0,
+                "d": 171.0
+              },
+              {
+                "w": "residents",
+                "t": 8882.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 9606.0,
+                "d": 381.0
+              },
+              {
+                "w": "famed",
+                "t": 9988.0,
+                "d": 426.0
+              },
+              {
+                "w": "teachers",
+                "t": 10414.0,
+                "d": 765.0
+              },
+              {
+                "w": "whose",
+                "t": 11222.0,
+                "d": 298.0
+              },
+              {
+                "w": "names",
+                "t": 11521.0,
+                "d": 424.0
+              },
+              {
+                "w": "echoed",
+                "t": 11945.0,
+                "d": 425.0
+              },
+              {
+                "w": "back",
+                "t": 12371.0,
+                "d": 298.0
+              },
+              {
+                "w": "to",
+                "t": 12670.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 12797.0,
+                "d": 170.0
+              },
+              {
+                "w": "homeland",
+                "t": 12968.0,
+                "d": 765.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p14.png",
+      "shot": "high-angle shot of densely populated Nalanda at its peak",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Xuanzang spoke of around ten thousand students and two thousand teachers. His numbers may be rounded praise, but they show how Nalanda impressed those who saw it at its height.",
+            "hi": "श्वेनज़ांग ने लगभग दस हज़ार छात्रों और दो हज़ार आचार्यों का ज़िक्र किया। शायद आँकड़े बढ़ाए गए हों, पर बताते हैं कि अपने उत्कर्ष पर नालंदा देखने वालों को कितना चकित कर गया।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p14_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Xuanzang",
+                "t": 117.0,
+                "d": 765.0
+              },
+              {
+                "w": "spoke",
+                "t": 882.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 1308.0,
+                "d": 170.0
+              },
+              {
+                "w": "around",
+                "t": 1478.0,
+                "d": 340.0
+              },
+              {
+                "w": "ten",
+                "t": 1861.0,
+                "d": 212.0
+              },
+              {
+                "w": "thousand",
+                "t": 2074.0,
+                "d": 467.0
+              },
+              {
+                "w": "students",
+                "t": 2541.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 3094.0,
+                "d": 298.0
+              },
+              {
+                "w": "two",
+                "t": 3393.0,
+                "d": 169.0
+              },
+              {
+                "w": "thousand",
+                "t": 3562.0,
+                "d": 384.0
+              },
+              {
+                "w": "teachers",
+                "t": 3946.0,
+                "d": 808.0
+              },
+              {
+                "w": "His",
+                "t": 5223.0,
+                "d": 255.0
+              },
+              {
+                "w": "numbers",
+                "t": 5478.0,
+                "d": 468.0
+              },
+              {
+                "w": "may",
+                "t": 5946.0,
+                "d": 212.0
+              },
+              {
+                "w": "be",
+                "t": 6159.0,
+                "d": 85.0
+              },
+              {
+                "w": "rounded",
+                "t": 6244.0,
+                "d": 382.0
+              },
+              {
+                "w": "praise",
+                "t": 6627.0,
+                "d": 680.0
+              },
+              {
+                "w": "but",
+                "t": 7691.0,
+                "d": 212.0
+              },
+              {
+                "w": "they",
+                "t": 7904.0,
+                "d": 212.0
+              },
+              {
+                "w": "show",
+                "t": 8117.0,
+                "d": 255.0
+              },
+              {
+                "w": "how",
+                "t": 8372.0,
+                "d": 211.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 8584.0,
+                "d": 595.0
+              },
+              {
+                "w": "impressed",
+                "t": 9179.0,
+                "d": 596.0
+              },
+              {
+                "w": "those",
+                "t": 9776.0,
+                "d": 381.0
+              },
+              {
+                "w": "who",
+                "t": 10158.0,
+                "d": 213.0
+              },
+              {
+                "w": "saw",
+                "t": 10372.0,
+                "d": 255.0
+              },
+              {
+                "w": "it",
+                "t": 10627.0,
+                "d": 169.0
+              },
+              {
+                "w": "at",
+                "t": 10796.0,
+                "d": 128.0
+              },
+              {
+                "w": "its",
+                "t": 10925.0,
+                "d": 211.0
+              },
+              {
+                "w": "height",
+                "t": 11137.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p15.png",
+      "shot": "medium shot of multiple classes in different spaces",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Curricula reached beyond devotion. Doctors trained with herbs and case histories, logicians tested inference, mathematicians scratched figures into dust. The mind was treated as a field to be tilled.",
+            "hi": "पाठ्यक्रम भक्ति से भी आगे जाते थे। वैद्य जड़ी-बूटियों और रोगों से सीखते, तर्कशास्त्री अनुमान परखते, गणितज्ञ धूल में अंकों की रेखा खींचते। मन को जोतने की ज़मीन माना जाता था।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p15_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Curricula",
+                "t": 117.0,
+                "d": 553.0
+              },
+              {
+                "w": "reached",
+                "t": 670.0,
+                "d": 468.0
+              },
+              {
+                "w": "beyond",
+                "t": 1138.0,
+                "d": 510.0
+              },
+              {
+                "w": "devotion",
+                "t": 1648.0,
+                "d": 1106.0
+              },
+              {
+                "w": "Doctors",
+                "t": 2967.0,
+                "d": 595.0
+              },
+              {
+                "w": "trained",
+                "t": 3562.0,
+                "d": 384.0
+              },
+              {
+                "w": "with",
+                "t": 3946.0,
+                "d": 169.0
+              },
+              {
+                "w": "herbs",
+                "t": 4115.0,
+                "d": 511.0
+              },
+              {
+                "w": "and",
+                "t": 4627.0,
+                "d": 340.0
+              },
+              {
+                "w": "case",
+                "t": 4968.0,
+                "d": 255.0
+              },
+              {
+                "w": "histories",
+                "t": 5223.0,
+                "d": 808.0
+              },
+              {
+                "w": "logicians",
+                "t": 6287.0,
+                "d": 808.0
+              },
+              {
+                "w": "tested",
+                "t": 7095.0,
+                "d": 425.0
+              },
+              {
+                "w": "inference",
+                "t": 7521.0,
+                "d": 851.0
+              },
+              {
+                "w": "mathematicians",
+                "t": 8711.0,
+                "d": 936.0
+              },
+              {
+                "w": "scratched",
+                "t": 9647.0,
+                "d": 554.0
+              },
+              {
+                "w": "figures",
+                "t": 10202.0,
+                "d": 553.0
+              },
+              {
+                "w": "into",
+                "t": 10755.0,
+                "d": 296.0
+              },
+              {
+                "w": "dust",
+                "t": 11052.0,
+                "d": 1234.0
+              },
+              {
+                "w": "The",
+                "t": 12371.0,
+                "d": 256.0
+              },
+              {
+                "w": "mind",
+                "t": 12627.0,
+                "d": 296.0
+              },
+              {
+                "w": "was",
+                "t": 12924.0,
+                "d": 213.0
+              },
+              {
+                "w": "treated",
+                "t": 13138.0,
+                "d": 638.0
+              },
+              {
+                "w": "as",
+                "t": 13776.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 14031.0,
+                "d": 126.0
+              },
+              {
+                "w": "field",
+                "t": 14158.0,
+                "d": 511.0
+              },
+              {
+                "w": "to",
+                "t": 14670.0,
+                "d": 127.0
+              },
+              {
+                "w": "be",
+                "t": 14797.0,
+                "d": 212.0
+              },
+              {
+                "w": "tilled",
+                "t": 15010.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p16.png",
+      "shot": "melancholic wide shot of Nalanda many centuries later, partly damaged",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the late twelfth century, the armies of Bakhtiyar Khilji struck Magadha. Tradition speaks of a sudden end, but traces suggest Nalanda declined in phases, lingering in reduced form before silence settled.",
+            "hi": "बारहवीं सदी के उत्तरार्ध में बख़्तियार खिलजी की सेनाएँ मगध पर टूटीं। परंपरा अचानक अंत की बात करती है, लेकिन साक्ष्य दिखाते हैं कि नालंदा चरणों में ढला, सिमटता गया, फिर एक दिन चुप्पी छा गई।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p16_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 137.0
+              },
+              {
+                "w": "late",
+                "t": 448.0,
+                "d": 505.0
+              },
+              {
+                "w": "twelfth",
+                "t": 954.0,
+                "d": 505.0
+              },
+              {
+                "w": "century",
+                "t": 1459.0,
+                "d": 827.0
+              },
+              {
+                "w": "the",
+                "t": 2332.0,
+                "d": 321.0
+              },
+              {
+                "w": "armies",
+                "t": 2654.0,
+                "d": 414.0
+              },
+              {
+                "w": "of",
+                "t": 3068.0,
+                "d": 136.0
+              },
+              {
+                "w": "Bakhtiyar",
+                "t": 3205.0,
+                "d": 552.0
+              },
+              {
+                "w": "Khilji",
+                "t": 3758.0,
+                "d": 551.0
+              },
+              {
+                "w": "struck",
+                "t": 4355.0,
+                "d": 552.0
+              },
+              {
+                "w": "Magadha",
+                "t": 4908.0,
+                "d": 505.0
+              },
+              {
+                "w": "Tradition",
+                "t": 6471.0,
+                "d": 551.0
+              },
+              {
+                "w": "speaks",
+                "t": 7022.0,
+                "d": 459.0
+              },
+              {
+                "w": "of",
+                "t": 7482.0,
+                "d": 137.0
+              },
+              {
+                "w": "a",
+                "t": 7620.0,
+                "d": 91.0
+              },
+              {
+                "w": "sudden",
+                "t": 7712.0,
+                "d": 459.0
+              },
+              {
+                "w": "end",
+                "t": 8172.0,
+                "d": 1011.0
+              },
+              {
+                "w": "but",
+                "t": 9183.0,
+                "d": 274.0
+              },
+              {
+                "w": "traces",
+                "t": 9458.0,
+                "d": 459.0
+              },
+              {
+                "w": "suggest",
+                "t": 9918.0,
+                "d": 644.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 10608.0,
+                "d": 644.0
+              },
+              {
+                "w": "declined",
+                "t": 11252.0,
+                "d": 504.0
+              },
+              {
+                "w": "in",
+                "t": 11757.0,
+                "d": 139.0
+              },
+              {
+                "w": "phases",
+                "t": 11896.0,
+                "d": 965.0
+              },
+              {
+                "w": "lingering",
+                "t": 12906.0,
+                "d": 598.0
+              },
+              {
+                "w": "in",
+                "t": 13505.0,
+                "d": 137.0
+              },
+              {
+                "w": "reduced",
+                "t": 13643.0,
+                "d": 504.0
+              },
+              {
+                "w": "form",
+                "t": 14148.0,
+                "d": 736.0
+              },
+              {
+                "w": "before",
+                "t": 14885.0,
+                "d": 504.0
+              },
+              {
+                "w": "silence",
+                "t": 15389.0,
+                "d": 506.0
+              },
+              {
+                "w": "settled",
+                "t": 15896.0,
+                "d": 781.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p17.png",
+      "shot": "modern aerial shot of Nalanda ruins",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today only a fraction of Nalanda is unearthed. In 2016 these ruins were inscribed as a UNESCO World Heritage site, rows of brick and stair telling of what once stood in full form.",
+            "hi": "आज के नालंदा का बस थोड़ा हिस्सा ही ज़मीन से निकला है। 2016 में ये खंडहर यूनेस्को विश्व धरोहर बने—ईंटों की कतारें और सीढ़ियाँ बताती हैं कि कभी क्या शान से खड़ा था।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p17_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "only",
+                "t": 500.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 840.0,
+                "d": 85.0
+              },
+              {
+                "w": "fraction",
+                "t": 925.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 1478.0,
+                "d": 170.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 1648.0,
+                "d": 638.0
+              },
+              {
+                "w": "is",
+                "t": 2287.0,
+                "d": 254.0
+              },
+              {
+                "w": "unearthed",
+                "t": 2541.0,
+                "d": 595.0
+              },
+              {
+                "w": "In 2016 ",
+                "t": 3647.0,
+                "d": 1533.0
+              },
+              {
+                "w": "these",
+                "t": 5223.0,
+                "d": 425.0
+              },
+              {
+                "w": "ruins",
+                "t": 5648.0,
+                "d": 340.0
+              },
+              {
+                "w": "were",
+                "t": 5989.0,
+                "d": 170.0
+              },
+              {
+                "w": "inscribed",
+                "t": 6159.0,
+                "d": 808.0
+              },
+              {
+                "w": "as",
+                "t": 6968.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 7265.0,
+                "d": 85.0
+              },
+              {
+                "w": "UNESCO",
+                "t": 7351.0,
+                "d": 553.0
+              },
+              {
+                "w": "World",
+                "t": 7904.0,
+                "d": 297.0
+              },
+              {
+                "w": "Heritage",
+                "t": 8202.0,
+                "d": 424.0
+              },
+              {
+                "w": "site",
+                "t": 8626.0,
+                "d": 767.0
+              },
+              {
+                "w": "rows",
+                "t": 9521.0,
+                "d": 381.0
+              },
+              {
+                "w": "of",
+                "t": 9903.0,
+                "d": 213.0
+              },
+              {
+                "w": "brick",
+                "t": 10117.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 10585.0,
+                "d": 296.0
+              },
+              {
+                "w": "stair",
+                "t": 10881.0,
+                "d": 384.0
+              },
+              {
+                "w": "telling",
+                "t": 11265.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 11648.0,
+                "d": 296.0
+              },
+              {
+                "w": "what",
+                "t": 11945.0,
+                "d": 298.0
+              },
+              {
+                "w": "once",
+                "t": 12244.0,
+                "d": 340.0
+              },
+              {
+                "w": "stood",
+                "t": 12585.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 13009.0,
+                "d": 170.0
+              },
+              {
+                "w": "full",
+                "t": 13179.0,
+                "d": 340.0
+              },
+              {
+                "w": "form",
+                "t": 13520.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/nalanda_the_ocean_of_learning/split_auto/s0.png",
+          "slogan": {
+            "en": "Knowledge is our eternal fortress",
+            "hi": "ज्ञान हमारा शाश्वत किला है"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/nalanda_the_ocean_of_learning/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/nalanda_the_ocean_of_learning/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across centuries of ruin and remembrance, Kumaragupta’s vow echoes through every surviving brick of Nalanda.",
+            "hi": "सदियों की राख और यादों के बीच, कुमारगुप्त की प्रतिज्ञा नालंदा की हर बची ईंट में गूंजती है।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/split/split_auto_en.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 72.0,
+                "d": 541.0
+              },
+              {
+                "w": "centuries",
+                "t": 614.0,
+                "d": 500.0
+              },
+              {
+                "w": "of",
+                "t": 1114.0,
+                "d": 166.0
+              },
+              {
+                "w": "ruin",
+                "t": 1281.0,
+                "d": 291.0
+              },
+              {
+                "w": "and",
+                "t": 1572.0,
+                "d": 125.0
+              },
+              {
+                "w": "remembrance",
+                "t": 1697.0,
+                "d": 748.0
+              },
+              {
+                "w": "Kumaragupta’s",
+                "t": 2864.0,
+                "d": 875.0
+              },
+              {
+                "w": "vow",
+                "t": 3739.0,
+                "d": 290.0
+              },
+              {
+                "w": "echoes",
+                "t": 4030.0,
+                "d": 542.0
+              },
+              {
+                "w": "through",
+                "t": 4572.0,
+                "d": 333.0
+              },
+              {
+                "w": "every",
+                "t": 4906.0,
+                "d": 416.0
+              },
+              {
+                "w": "surviving",
+                "t": 5322.0,
+                "d": 583.0
+              },
+              {
+                "w": "brick",
+                "t": 5906.0,
+                "d": 333.0
+              },
+              {
+                "w": "of",
+                "t": 6281.0,
+                "d": 208.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 6489.0,
+                "d": 583.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/nalanda_the_ocean_of_learning/img/p18.png",
+      "shot": "slow push-in on a contemplative statue-like image of Kumaragupta in faded glory",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kumaragupta the First’s grant outlived his dynasty. Nalanda shows that a ruler’s richest legacy is not in gold or walls alone, but in a place where minds from many lands may grow freely together.",
+            "hi": "कुमारगुप्त प्रथम का दान उसकी वंश-रेखा से भी लंबा चला। नालंदा दिखाता है कि राजा की सबसे अमीर विरासत सिर्फ सोना या किले नहीं, बल्कि वह जगह है जहाँ दूर-दूर की बुद्धियाँ साथ मिलकर स्वतंत्र रूप से बढ़ सकें।"
+          },
+          "audio": {
+            "en": "assets/nalanda_the_ocean_of_learning/audio/en/p18_0.mp3",
+            "hi": "assets/nalanda_the_ocean_of_learning/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kumaragupta",
+                "t": 74.0,
+                "d": 851.0
+              },
+              {
+                "w": "the",
+                "t": 1053.0,
+                "d": 212.0
+              },
+              {
+                "w": "First’s",
+                "t": 1265.0,
+                "d": 553.0
+              },
+              {
+                "w": "grant",
+                "t": 1819.0,
+                "d": 468.0
+              },
+              {
+                "w": "outlived",
+                "t": 2329.0,
+                "d": 510.0
+              },
+              {
+                "w": "his",
+                "t": 2840.0,
+                "d": 126.0
+              },
+              {
+                "w": "dynasty",
+                "t": 2967.0,
+                "d": 1191.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 4287.0,
+                "d": 553.0
+              },
+              {
+                "w": "shows",
+                "t": 4840.0,
+                "d": 340.0
+              },
+              {
+                "w": "that",
+                "t": 5180.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 5393.0,
+                "d": 85.0
+              },
+              {
+                "w": "ruler’s",
+                "t": 5478.0,
+                "d": 425.0
+              },
+              {
+                "w": "richest",
+                "t": 5904.0,
+                "d": 425.0
+              },
+              {
+                "w": "legacy",
+                "t": 6329.0,
+                "d": 595.0
+              },
+              {
+                "w": "is",
+                "t": 6925.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 7138.0,
+                "d": 297.0
+              },
+              {
+                "w": "in",
+                "t": 7436.0,
+                "d": 85.0
+              },
+              {
+                "w": "gold",
+                "t": 7521.0,
+                "d": 382.0
+              },
+              {
+                "w": "or",
+                "t": 7904.0,
+                "d": 127.0
+              },
+              {
+                "w": "walls",
+                "t": 8031.0,
+                "d": 297.0
+              },
+              {
+                "w": "alone",
+                "t": 8329.0,
+                "d": 638.0
+              },
+              {
+                "w": "but",
+                "t": 9179.0,
+                "d": 213.0
+              },
+              {
+                "w": "in",
+                "t": 9393.0,
+                "d": 85.0
+              },
+              {
+                "w": "a",
+                "t": 9478.0,
+                "d": 85.0
+              },
+              {
+                "w": "place",
+                "t": 9563.0,
+                "d": 382.0
+              },
+              {
+                "w": "where",
+                "t": 9946.0,
+                "d": 211.0
+              },
+              {
+                "w": "minds",
+                "t": 10158.0,
+                "d": 384.0
+              },
+              {
+                "w": "from",
+                "t": 10542.0,
+                "d": 212.0
+              },
+              {
+                "w": "many",
+                "t": 10755.0,
+                "d": 296.0
+              },
+              {
+                "w": "lands",
+                "t": 11052.0,
+                "d": 681.0
+              },
+              {
+                "w": "may",
+                "t": 11819.0,
+                "d": 255.0
+              },
+              {
+                "w": "grow",
+                "t": 12074.0,
+                "d": 255.0
+              },
+              {
+                "w": "freely",
+                "t": 12329.0,
+                "d": 382.0
+              },
+              {
+                "w": "together",
+                "t": 12712.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Kumaragupta the First",
+    "epithets": [
+      "Mahendraditya",
+      "Gupta Emperor",
+      "Founder of Nalanda",
+      "Protector of Dharma"
+    ],
+    "legend": "The king who planted a monastery and grew a world of minds."
+  }
+}
