@@ -5,6 +5,27 @@ problems. Newest first.
 
 ---
 
+## 2026-07-22 — 🌸 Gupta Golden Age COMPLETE (13/13) · voice fix · autonomous continuous build
+
+- **The Gupta Golden Age chapter is COMPLETE (13/13, all QA-clean):** Chandragupta I, Samudragupta,
+  Chandragupta II, Prabhavatigupta (regent queen), Faxian, Aryabhata, the birth of Zero (Brahmagupta),
+  the Iron Pillar, Sushruta, Nalanda, Kalidasa, Gupta sculpture, Skandagupta. Innovation stories woven
+  throughout (astronomy/zero, metallurgy, medicine, learning). Every story carries recent scholarship
+  (pi as *asanna* not "proven irrational"; the 2017 Bakhshali dating rebuttal; iron-pillar phosphorus
+  passive layer; Alchon-Hun numismatics; Nalanda's phased decline; the "golden age for whom?" nuance).
+- **Voice fix — Sanskrit pronunciation:** `voice.py` now **de-accents English/IAST diacritics to plain
+  ASCII** for the TTS (`Āryabhaṭa`→`Aryabhata`), leaving Hindi Devanagari intact; the 4 affected stories
+  were re-voiced. Added **voice QA via `gpt-4o-transcribe`** (transcribe → compare → flag mispronounced
+  names) to the QA loop.
+- **Autonomous continuous build:** a chapter **queue + backlog + driver** now builds era after era
+  unattended — Gupta → Maurya → Vijayanagara, then **self-extends** by researching + seeding the next
+  backlog era when the queue runs low. Each chapter is deep and includes **social/scientific/economic/
+  scholarly innovation** stories. Every cycle QAs each story (visual+audio+voice+emotional+regnal+
+  accuracy) and **version-controls code + assets to GitHub** (main repo + `app/assets` masters submodule).
+- **Assets** are a submodule (`bharatiya-itihasa-masters`), pushed in ≤600 MB chunks.
+
+---
+
 ## 2026-07-21 — 🏛️ The Chola Empire chapter is COMPLETE (13/13)
 
 All thirteen Chola stories are built and QA-clean (visual + audio + emotional + regnal), forming the

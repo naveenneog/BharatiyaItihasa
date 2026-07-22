@@ -42,14 +42,32 @@ A deep, grouped saga — rise, heroes, wars, craft, rule and the innovations of 
 12. **Tamil Merchant Guilds Sail the Indian Ocean** — ✅ — the Ainnurruvar/Manigramam guilds and Chola trade.
 13. **Kamban Sings the Tamil Ramayana** — ✅ — the poet Kambar's *Ramavataram*; Tamil letters at their peak.
 
-## ☸️ Maurya & 🌸 Gupta — the Classical Age  *(Ancient)*
-- **Chandragupta and Chanakya Build an Empire** ⏳ · **Ashoka's Kalinga Change of Heart** ✅ ·
-  **Samudragupta's Pillar of Many Realms** ⏳ · **Vikramaditya and the Iron Pillar's Riddle** ⏳ ·
-  **Aryabhata and Brahmagupta Measure the Sky** ⏳ *(science & the golden age)*.
+## 🌸 The Gupta Golden Age  *(Ancient — the classical high-water mark)*  — **✅ CHAPTER COMPLETE (13/13)**
+1. **Chandragupta I Founds an Age of Gold** ✅ — the Licchavi marriage; the empire's dawn.
+2. **Samudragupta, the Poet Who Conquered the World** ✅ — the Allahabad *prashasti*; conquest + veena.
+3. **Chandragupta II and the Height of the Age** ✅ — Vikramaditya; the Vakataka alliance; Ujjain's splendour.
+4. **Prabhavatigupta Rules the Deccan** ✅ — the Gupta princess who governed the Vakataka realm as regent queen.
+5. **Faxian's Long Walk Through the Golden Land** ✅ — the Chinese pilgrim's eyewitness of a gentle, prosperous realm.
+6. **Aryabhata Sets the Earth Spinning** ✅ — the rotating earth, π as *āsanna* (a close value), planetary reckoning.
+7. **The Birth of Zero** ✅ — *śūnya* as number and place; Brahmagupta's rules; the Bakhshali dating debate.
+8. **The Iron Pillar That Would Not Rust** ✅ — the phosphorus passive-layer metallurgy of Delhi's marvel.
+9. **Sushruta's Healing Hands** ✅ — the compiled surgical tradition; cataract & rhinoplasty; the Gupta medical canon.
+10. **The Lamp of Nalanda** ✅ — the great monastic university; its rise (and its later, phased decline).
+11. **Kalidasa, the Voice of the Age** ✅ — *Shakuntala*, *Meghaduta*; Sanskrit poetry at its zenith.
+12. **The Gods Take Shape at Deogarh** ✅ — classical Gupta sculpture; the Sarnath Buddha; the "Gupta calm born in stone."
+13. **Skandagupta Holds Back the Huns** ✅ — the Bhitari inscription; the Alchon-Hun invasions; the age begins to fray.
+
+## ☸️ Maurya — India's First Great Empire  *(Ancient)*  — **🔨 BUILDING (autonomous)**
+- **Chandragupta Raises the Peacock Standard** 🔨 · **Chanakya's Arthashastra** ⏳ ·
+  **Ashoka's Kalinga Change of Heart** ✅ · **The Edicts in Stone** ⏳ · **Megasthenes at Pataliputra** ⏳ ·
+  **The Grand Trunk Road & Mauryan economy** ⏳ *(economic innovation)*.
+
+## 🕌 Vijayanagara — the City of Victory  *(Medieval)*  — **🌱 SEEDED (queued)**
 
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
+
 
 ## 🚩 Maratha Swaraj  *(Medieval → early modern)*
 - **Shivaji's Quiet Escape from Agra** ✅ · **Bajirao's Swift Ride to Delhi** ⏳.
