@@ -57,12 +57,22 @@ A deep, grouped saga — rise, heroes, wars, craft, rule and the innovations of 
 12. **The Gods Take Shape at Deogarh** ✅ — classical Gupta sculpture; the Sarnath Buddha; the "Gupta calm born in stone."
 13. **Skandagupta Holds Back the Huns** ✅ — the Bhitari inscription; the Alchon-Hun invasions; the age begins to fray.
 
-## ☸️ Maurya — India's First Great Empire  *(Ancient)*  — **🔨 BUILDING (autonomous)**
-- **Chandragupta Raises the Peacock Standard** 🔨 · **Chanakya's Arthashastra** ⏳ ·
-  **Ashoka's Kalinga Change of Heart** ✅ · **The Edicts in Stone** ⏳ · **Megasthenes at Pataliputra** ⏳ ·
-  **The Grand Trunk Road & Mauryan economy** ⏳ *(economic innovation)*.
+## ☸️ The Maurya Empire  *(Ancient — India's first great empire)*  — **✅ CHAPTER COMPLETE (13/13)**
+1. **Chandragupta Raises the Peacock Standard** ✅ — the founding; Chanakya's tradition; the Nanda fall.
+2. **Kautilya's Manual of Spies and Kings** ✅ — the *Arthashastra*; saptanga, one-sixth tax, mandala theory.
+3. **Five Hundred Elephants for Seleucus** ✅ — the ~303 BCE treaty; the elephants decisive at Ipsus.
+4. **Megasthenes at the Wooden Capital** ✅ — the *Indika*; Palibothra as a parallelogram; the timber palisade.
+5. **Bindusara's Figs, Wine and a Philosopher** ✅ — Amitraghata; the Athenaeus anecdote; sparse-source honesty.
+6. **Ashoka Appoints the Dhamma Officers** ✅ — the dhamma-mahamatras; Edict XII tolerance; *eusebeia* at Kandahar.
+7. **Prinsep Reads the Forgotten King** ✅ — the 1837 Brahmi decipherment; Turnour + the Mahavamsa; Maski 1915.
+8. **The Four Lions of Sarnath** ✅ — the capital → India's national emblem (Ashoka Chakra; Jan 26, 1950).
+9. **Mahinda's Bodhi Sapling Voyage** ✅ — Buddhism to Lanka; Mihintale; the Sri Maha Bodhi at Anuradhapura.
+10. **The Echoing Caves for Ajivikas** ✅ — Barabar/Nagarjuni; India's oldest rock-cut architecture; tolerance.
+11. **The Didarganj Yakshi's Polished Secret** ✅ — the Mauryan-vs-Kushan dating debate; honest wonder.
+12. **The Parade That Ended the Mauryas** ✅ — Brihadratha & Pushyamitra Shunga (185 BCE); Thapar's structural reading.
+13. **Chandragupta's Last Fast at Shravanabelagola** ✅ — the founder's Jain renunciation and *sallekhana*.
 
-## 🕌 Vijayanagara — the City of Victory  *(Medieval)*  — **🌱 SEEDED (queued)**
+## 🕌 Vijayanagara — the City of Victory  *(Medieval)*  — **🔨 BUILDING (autonomous)**
 
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·

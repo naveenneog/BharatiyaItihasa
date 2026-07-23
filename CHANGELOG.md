@@ -5,6 +5,30 @@ problems. Newest first.
 
 ---
 
+## 2026-07-23 — ☸️ Maurya Empire COMPLETE (13/13) · pipeline hardening (token-hang + image-safety)
+
+- **The Maurya Empire chapter is COMPLETE (13/13, all QA-clean):** Chandragupta Maurya (founding),
+  Kautilya/Chanakya (Arthashastra), Five Hundred Elephants for Seleucus, Megasthenes at the Wooden
+  Capital, Bindusara (figs/wine/philosopher), Ashoka's Dhamma Officers, Prinsep Reads the Forgotten
+  King (the 1837 Brahmi decipherment), The Four Lions of Sarnath (→ national emblem), Mahinda's Bodhi
+  Sapling Voyage (Buddhism to Lanka), The Echoing Caves for Ajivikas (Barabar), The Didarganj Yakshi,
+  The Parade That Ended the Mauryas (Pushyamitra Shunga), Chandragupta's Last Fast at Shravanabelagola.
+  Deep social/scientific/economic/scholarly innovation throughout (statecraft, taxation, epigraphy,
+  metallurgy of polish, rock-cut architecture) with rigorous source-criticism (Thapar, Harle, Jansari).
+- **Pipeline hardening (two production bugs found + fixed this session):**
+  - **Token-hang auto-recovery** — `aiclient.py token()` used `subprocess.run(capture_output=True,
+    shell=True, timeout=…)`, which on Windows DEADLOCKS when the timeout fires (the `az` grandchild
+    holds the stdout pipe open). This stalled the build ~9h overnight. Now writes `az` output to a temp
+    FILE (no pipe) → a live token-expiry 401 was observed **auto-recovering in one retry**. Also added a
+    **staleness watchdog** to the build driver (kills + relaunches any build whose log stops advancing).
+  - **Image-safety draping** — gpt-image-2 rejected the Didarganj Yakshi model sheet 5× (the sculpture
+    is historically bare-chested). Added a family-safe "fully clothed / draped stone" rule to
+    `CHARACTER_SYS`; the story rebuilt cleanly with a dignified draped depiction.
+- Autonomous system now self-heals failed stories (rebuilds on the next driver pass) and self-extends
+  the chapter queue. Driver auto-advanced to **Vijayanagara**; the self-extender is seeding the next era.
+
+---
+
 ## 2026-07-22 — 🌸 Gupta Golden Age COMPLETE (13/13) · voice fix · autonomous continuous build
 
 - **The Gupta Golden Age chapter is COMPLETE (13/13, all QA-clean):** Chandragupta I, Samudragupta,
