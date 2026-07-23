@@ -1,0 +1,3547 @@
+{
+  "id": "the_tanks_that_fed_an_empire",
+  "title": "The Tanks That Fed an Empire",
+  "title_i18n": {
+    "en": "The Tanks That Fed an Empire",
+    "hi": "साम्राज्य को पालने वाले टैंक"
+  },
+  "figure": "Kamalapura Tank and the Bukka Aqueduct",
+  "era": "Vijayanagara hydraulic works, especially 15th-16th centuries CE",
+  "moral": "Civilization depends on patient care for water.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_tanks_that_fed_an_empire/intro/hero.png",
+      "name": "Vijayanagara Water Engineer",
+      "epithets": [
+        "Lifeline of Vijayanagara",
+        "Stone River of Kamalapura",
+        "Bukka’s Great Aqueduct",
+        "Tanks of the Tungabhadra"
+      ],
+      "legend": "Stone and water together kept a mighty empire alive.",
+      "era": "Vijayanagara hydraulic works, especially 15th-16th centuries CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In a harsh dry land, Kamalapura Tank and Bukka's aqueduct catch and guide the Tungabhadra's strength, feeding fields, palaces, and temples so a vast stone capital can breathe.",
+            "hi": "सूखी कड़ी धरती पर, कमलापुरा टैंक और बुक्का की नहर तुंगभद्रा की ताकत को थामकर खेतों, महलों और मंदिरों तक ले जाती है, ताकि पत्थरों का विशाल नगर साँस ले सके।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/intro/hero_en.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 72.0,
+                "d": 166.0
+              },
+              {
+                "w": "a",
+                "t": 239.0,
+                "d": 83.0
+              },
+              {
+                "w": "harsh",
+                "t": 322.0,
+                "d": 333.0
+              },
+              {
+                "w": "dry",
+                "t": 656.0,
+                "d": 250.0
+              },
+              {
+                "w": "land",
+                "t": 906.0,
+                "d": 583.0
+              },
+              {
+                "w": "Kamalapura",
+                "t": 1572.0,
+                "d": 625.0
+              },
+              {
+                "w": "Tank",
+                "t": 2197.0,
+                "d": 541.0
+              },
+              {
+                "w": "and",
+                "t": 2739.0,
+                "d": 248.0
+              },
+              {
+                "w": "Bukka's",
+                "t": 2988.0,
+                "d": 458.0
+              },
+              {
+                "w": "aqueduct",
+                "t": 3446.0,
+                "d": 583.0
+              },
+              {
+                "w": "catch",
+                "t": 4030.0,
+                "d": 626.0
+              },
+              {
+                "w": "and",
+                "t": 4656.0,
+                "d": 333.0
+              },
+              {
+                "w": "guide",
+                "t": 4989.0,
+                "d": 333.0
+              },
+              {
+                "w": "the",
+                "t": 5322.0,
+                "d": 166.0
+              },
+              {
+                "w": "Tungabhadra's",
+                "t": 5489.0,
+                "d": 833.0
+              },
+              {
+                "w": "strength",
+                "t": 6322.0,
+                "d": 541.0
+              },
+              {
+                "w": "feeding",
+                "t": 7072.0,
+                "d": 541.0
+              },
+              {
+                "w": "fields",
+                "t": 7614.0,
+                "d": 708.0
+              },
+              {
+                "w": "palaces",
+                "t": 8446.0,
+                "d": 792.0
+              },
+              {
+                "w": "and",
+                "t": 9322.0,
+                "d": 290.0
+              },
+              {
+                "w": "temples",
+                "t": 9613.0,
+                "d": 542.0
+              },
+              {
+                "w": "so",
+                "t": 10156.0,
+                "d": 708.0
+              },
+              {
+                "w": "a",
+                "t": 10864.0,
+                "d": 40.0
+              },
+              {
+                "w": "vast",
+                "t": 10905.0,
+                "d": 584.0
+              },
+              {
+                "w": "stone",
+                "t": 11489.0,
+                "d": 457.0
+              },
+              {
+                "w": "capital",
+                "t": 11946.0,
+                "d": 667.0
+              },
+              {
+                "w": "can",
+                "t": 12697.0,
+                "d": 333.0
+              },
+              {
+                "w": "breathe",
+                "t": 13031.0,
+                "d": 500.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_tanks_that_fed_an_empire/intro/map.png",
+      "x": 0.47,
+      "y": 0.58,
+      "label": "Kamalapura & Royal Centre, near Hampi, Tungabhadra basin",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, among black boulders and ruined gopurams, stone tanks still hold the river's memory and the quiet skill that once fed an empire.",
+            "hi": "काले पत्थरों और टूटे गोपुरमों के बीच, पत्थर के कुंड आज भी नदी की यादें और उस हुनर को समेटे हैं जिसने कभी साम्राज्य को खिलाया था।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/intro/map_en.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 459.0
+              },
+              {
+                "w": "among",
+                "t": 770.0,
+                "d": 505.0
+              },
+              {
+                "w": "black",
+                "t": 1275.0,
+                "d": 367.0
+              },
+              {
+                "w": "boulders",
+                "t": 1643.0,
+                "d": 735.0
+              },
+              {
+                "w": "and",
+                "t": 2379.0,
+                "d": 274.0
+              },
+              {
+                "w": "ruined",
+                "t": 2654.0,
+                "d": 414.0
+              },
+              {
+                "w": "gopurams",
+                "t": 3068.0,
+                "d": 965.0
+              },
+              {
+                "w": "stone",
+                "t": 4080.0,
+                "d": 735.0
+              },
+              {
+                "w": "tanks",
+                "t": 4816.0,
+                "d": 413.0
+              },
+              {
+                "w": "still",
+                "t": 5229.0,
+                "d": 505.0
+              },
+              {
+                "w": "hold",
+                "t": 5735.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 6057.0,
+                "d": 137.0
+              },
+              {
+                "w": "river's",
+                "t": 6195.0,
+                "d": 413.0
+              },
+              {
+                "w": "memory",
+                "t": 6609.0,
+                "d": 735.0
+              },
+              {
+                "w": "and",
+                "t": 7344.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 7574.0,
+                "d": 137.0
+              },
+              {
+                "w": "quiet",
+                "t": 7712.0,
+                "d": 367.0
+              },
+              {
+                "w": "skill",
+                "t": 8080.0,
+                "d": 551.0
+              },
+              {
+                "w": "that",
+                "t": 8678.0,
+                "d": 275.0
+              },
+              {
+                "w": "once",
+                "t": 8954.0,
+                "d": 412.0
+              },
+              {
+                "w": "fed",
+                "t": 9366.0,
+                "d": 322.0
+              },
+              {
+                "w": "an",
+                "t": 9689.0,
+                "d": 183.0
+              },
+              {
+                "w": "empire",
+                "t": 9873.0,
+                "d": 826.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_tanks_that_fed_an_empire/img/cover.png",
+      "shot": "epic wide of boulder-strewn Hampi landscape with a vast tank shimmering beneath the hills",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Vijayanagara's stony heartland, Kamalapura Tank and the Bukka Aqueduct gathered water like treasure, feeding fields, palaces and the sacred City of Victory.",
+            "hi": "विजयनगर की पत्थरीली धरती में कमलापुर टैंक और बुक्का नहर ने खज़ाने सा पानी जोड़ा, खेतों, महलों और पावन विजय नगरी को सींचते हुए।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/cover_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Vijayanagara's",
+                "t": 287.0,
+                "d": 851.0
+              },
+              {
+                "w": "stony",
+                "t": 1180.0,
+                "d": 510.0
+              },
+              {
+                "w": "heartland",
+                "t": 1691.0,
+                "d": 807.0
+              },
+              {
+                "w": "Kamalapura",
+                "t": 2584.0,
+                "d": 553.0
+              },
+              {
+                "w": "Tank",
+                "t": 3137.0,
+                "d": 596.0
+              },
+              {
+                "w": "and",
+                "t": 3734.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 3946.0,
+                "d": 126.0
+              },
+              {
+                "w": "Bukka",
+                "t": 4073.0,
+                "d": 298.0
+              },
+              {
+                "w": "Aqueduct",
+                "t": 4372.0,
+                "d": 638.0
+              },
+              {
+                "w": "gathered",
+                "t": 5010.0,
+                "d": 510.0
+              },
+              {
+                "w": "water",
+                "t": 5521.0,
+                "d": 340.0
+              },
+              {
+                "w": "like",
+                "t": 5861.0,
+                "d": 255.0
+              },
+              {
+                "w": "treasure",
+                "t": 6117.0,
+                "d": 680.0
+              },
+              {
+                "w": "feeding",
+                "t": 6882.0,
+                "d": 510.0
+              },
+              {
+                "w": "fields",
+                "t": 7393.0,
+                "d": 723.0
+              },
+              {
+                "w": "palaces",
+                "t": 8202.0,
+                "d": 892.0
+              },
+              {
+                "w": "and",
+                "t": 9179.0,
+                "d": 256.0
+              },
+              {
+                "w": "the",
+                "t": 9436.0,
+                "d": 127.0
+              },
+              {
+                "w": "sacred",
+                "t": 9563.0,
+                "d": 509.0
+              },
+              {
+                "w": "City",
+                "t": 10073.0,
+                "d": 384.0
+              },
+              {
+                "w": "of",
+                "t": 10457.0,
+                "d": 170.0
+              },
+              {
+                "w": "Victory",
+                "t": 10627.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p01.png",
+      "shot": "high-angle wide showing parched ground, scattered monoliths, and distant Tungabhadra river ribbon",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "This was no lush river valley. Around Vijayanagara, rain was fickle and the Tungabhadra flowed far from the palaces and crowded suburbs.",
+            "hi": "ये कोई हरा-भरा नदी घाटी नहीं थी। विजयनगर के चारों ओर बारिश धोखेबाज़, और तुंगभद्रा महलों और भीड़भाड़ वाली बस्तियों से दूर बहती थी।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p01_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "This",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "was",
+                "t": 372.0,
+                "d": 170.0
+              },
+              {
+                "w": "no",
+                "t": 542.0,
+                "d": 212.0
+              },
+              {
+                "w": "lush",
+                "t": 755.0,
+                "d": 340.0
+              },
+              {
+                "w": "river",
+                "t": 1095.0,
+                "d": 297.0
+              },
+              {
+                "w": "valley",
+                "t": 1393.0,
+                "d": 638.0
+              },
+              {
+                "w": "Around",
+                "t": 2498.0,
+                "d": 384.0
+              },
+              {
+                "w": "Vijayanagara",
+                "t": 2882.0,
+                "d": 595.0
+              },
+              {
+                "w": "rain",
+                "t": 3478.0,
+                "d": 808.0
+              },
+              {
+                "w": "was",
+                "t": 4287.0,
+                "d": 212.0
+              },
+              {
+                "w": "fickle",
+                "t": 4500.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 5138.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 5393.0,
+                "d": 127.0
+              },
+              {
+                "w": "Tungabhadra",
+                "t": 5521.0,
+                "d": 638.0
+              },
+              {
+                "w": "flowed",
+                "t": 6159.0,
+                "d": 382.0
+              },
+              {
+                "w": "far",
+                "t": 6542.0,
+                "d": 297.0
+              },
+              {
+                "w": "from",
+                "t": 6840.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 7010.0,
+                "d": 127.0
+              },
+              {
+                "w": "palaces",
+                "t": 7138.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 7904.0,
+                "d": 297.0
+              },
+              {
+                "w": "crowded",
+                "t": 8202.0,
+                "d": 424.0
+              },
+              {
+                "w": "suburbs",
+                "t": 8626.0,
+                "d": 724.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p02.png",
+      "shot": "slow push-in mid-shot on engineer kneeling, drawing lines in dust with a stick",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "To hold an empire here, water had to be guided, stored and shared. Engineers and kings turned stone and slope into a vast hidden machine.",
+            "hi": "साम्राज्य बचाना था तो पानी को संभालना, चलाना, बाँटना था। इंजीनियरों और राजाओं ने पत्थर और ढलान को विशाल गुप्त मशीन बना दिया।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p02_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "To",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "hold",
+                "t": 244.0,
+                "d": 255.0
+              },
+              {
+                "w": "an",
+                "t": 500.0,
+                "d": 127.0
+              },
+              {
+                "w": "empire",
+                "t": 627.0,
+                "d": 468.0
+              },
+              {
+                "w": "here",
+                "t": 1095.0,
+                "d": 468.0
+              },
+              {
+                "w": "water",
+                "t": 2031.0,
+                "d": 467.0
+              },
+              {
+                "w": "had",
+                "t": 2498.0,
+                "d": 171.0
+              },
+              {
+                "w": "to",
+                "t": 2670.0,
+                "d": 85.0
+              },
+              {
+                "w": "be",
+                "t": 2755.0,
+                "d": 170.0
+              },
+              {
+                "w": "guided",
+                "t": 2925.0,
+                "d": 679.0
+              },
+              {
+                "w": "stored",
+                "t": 3647.0,
+                "d": 724.0
+              },
+              {
+                "w": "and",
+                "t": 4414.0,
+                "d": 212.0
+              },
+              {
+                "w": "shared",
+                "t": 4627.0,
+                "d": 723.0
+              },
+              {
+                "w": "Engineers",
+                "t": 5989.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 6755.0,
+                "d": 255.0
+              },
+              {
+                "w": "kings",
+                "t": 7010.0,
+                "d": 468.0
+              },
+              {
+                "w": "turned",
+                "t": 7478.0,
+                "d": 382.0
+              },
+              {
+                "w": "stone",
+                "t": 7861.0,
+                "d": 764.0
+              },
+              {
+                "w": "and",
+                "t": 8626.0,
+                "d": 382.0
+              },
+              {
+                "w": "slope",
+                "t": 9009.0,
+                "d": 469.0
+              },
+              {
+                "w": "into",
+                "t": 9478.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 9861.0,
+                "d": 41.0
+              },
+              {
+                "w": "vast",
+                "t": 9903.0,
+                "d": 554.0
+              },
+              {
+                "w": "hidden",
+                "t": 10457.0,
+                "d": 382.0
+              },
+              {
+                "w": "machine",
+                "t": 10840.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p03.png",
+      "shot": "epic bird’s-eye over Kamalapura Tank under construction",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "South of the royal centre, a great tank rose at Kamalapura. Its embankments and sluices were planned to catch rain and canal water, then release it into waiting fields.",
+            "hi": "राजकीय केन्द्र के दक्षिण में कमलापुर में बड़ा टैंक उठा। उसकी मेड़ें और निकास ऐसे रचे गए कि बरसात और नहर का पानी पकड़कर इंतज़ार करते खेतों में छोड़ा जाए।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p03_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "South",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 448.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 540.0,
+                "d": 137.0
+              },
+              {
+                "w": "royal",
+                "t": 678.0,
+                "d": 367.0
+              },
+              {
+                "w": "centre",
+                "t": 1045.0,
+                "d": 413.0
+              },
+              {
+                "w": "a",
+                "t": 1459.0,
+                "d": 91.0
+              },
+              {
+                "w": "great",
+                "t": 2103.0,
+                "d": 367.0
+              },
+              {
+                "w": "tank",
+                "t": 2471.0,
+                "d": 413.0
+              },
+              {
+                "w": "rose",
+                "t": 2885.0,
+                "d": 320.0
+              },
+              {
+                "w": "at",
+                "t": 3205.0,
+                "d": 137.0
+              },
+              {
+                "w": "Kamalapura",
+                "t": 3343.0,
+                "d": 874.0
+              },
+              {
+                "w": "Its",
+                "t": 4770.0,
+                "d": 321.0
+              },
+              {
+                "w": "embankments",
+                "t": 5091.0,
+                "d": 873.0
+              },
+              {
+                "w": "and",
+                "t": 5965.0,
+                "d": 229.0
+              },
+              {
+                "w": "sluices",
+                "t": 6195.0,
+                "d": 551.0
+              },
+              {
+                "w": "were",
+                "t": 6747.0,
+                "d": 229.0
+              },
+              {
+                "w": "planned",
+                "t": 6977.0,
+                "d": 321.0
+              },
+              {
+                "w": "to",
+                "t": 7298.0,
+                "d": 137.0
+              },
+              {
+                "w": "catch",
+                "t": 7436.0,
+                "d": 413.0
+              },
+              {
+                "w": "rain",
+                "t": 7850.0,
+                "d": 275.0
+              },
+              {
+                "w": "and",
+                "t": 8126.0,
+                "d": 275.0
+              },
+              {
+                "w": "canal",
+                "t": 8402.0,
+                "d": 413.0
+              },
+              {
+                "w": "water",
+                "t": 8816.0,
+                "d": 734.0
+              },
+              {
+                "w": "then",
+                "t": 9918.0,
+                "d": 368.0
+              },
+              {
+                "w": "release",
+                "t": 10287.0,
+                "d": 459.0
+              },
+              {
+                "w": "it",
+                "t": 10747.0,
+                "d": 183.0
+              },
+              {
+                "w": "into",
+                "t": 10931.0,
+                "d": 321.0
+              },
+              {
+                "w": "waiting",
+                "t": 11252.0,
+                "d": 367.0
+              },
+              {
+                "w": "fields",
+                "t": 11620.0,
+                "d": 735.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_tanks_that_fed_an_empire/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_tanks_that_fed_an_empire/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He commands the shaping of earth and stone, turning barren rocklands into a vast reservoir that will outlast kings.",
+            "hi": "वो मिट्टी‑पत्थर को साध कर सूखी चट्टानों को एक विशाल जलाशय बना देता है, जो राजाओं से भी ज़्यादा टिकेगा।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "commands",
+                "t": 310.0,
+                "d": 480.0
+              },
+              {
+                "w": "the",
+                "t": 790.0,
+                "d": 120.0
+              },
+              {
+                "w": "shaping",
+                "t": 910.0,
+                "d": 480.0
+              },
+              {
+                "w": "of",
+                "t": 1390.0,
+                "d": 320.0
+              },
+              {
+                "w": "earth",
+                "t": 1710.0,
+                "d": 319.0
+              },
+              {
+                "w": "and",
+                "t": 2070.0,
+                "d": 239.0
+              },
+              {
+                "w": "stone",
+                "t": 2309.0,
+                "d": 881.0
+              },
+              {
+                "w": "turning",
+                "t": 3309.0,
+                "d": 480.0
+              },
+              {
+                "w": "barren",
+                "t": 3789.0,
+                "d": 361.0
+              },
+              {
+                "w": "rocklands",
+                "t": 4150.0,
+                "d": 600.0
+              },
+              {
+                "w": "into",
+                "t": 4750.0,
+                "d": 400.0
+              },
+              {
+                "w": "a",
+                "t": 5150.0,
+                "d": 40.0
+              },
+              {
+                "w": "vast",
+                "t": 5190.0,
+                "d": 480.0
+              },
+              {
+                "w": "reservoir",
+                "t": 5670.0,
+                "d": 680.0
+              },
+              {
+                "w": "that",
+                "t": 6670.0,
+                "d": 240.0
+              },
+              {
+                "w": "will",
+                "t": 6910.0,
+                "d": 200.0
+              },
+              {
+                "w": "outlast",
+                "t": 7150.0,
+                "d": 640.0
+              },
+              {
+                "w": "kings",
+                "t": 7790.0,
+                "d": 599.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p04.png",
+      "shot": "tight shot along stone-faced bund with sluice mouth",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Through this mouth, we will feed every furrow, season after season.",
+            "hi": "यही मुँह हर मेड़ तक पानी पहुँचाएगा, मौसम दर मौसम।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p04_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Through",
+                "t": 49.0,
+                "d": 294.1
+              },
+              {
+                "w": "this",
+                "t": 343.1,
+                "d": 245.1
+              },
+              {
+                "w": "mouth",
+                "t": 588.2,
+                "d": 343.1
+              },
+              {
+                "w": "we",
+                "t": 1274.5,
+                "d": 208.3
+              },
+              {
+                "w": "will",
+                "t": 1495.1,
+                "d": 245.1
+              },
+              {
+                "w": "feed",
+                "t": 1740.2,
+                "d": 355.4
+              },
+              {
+                "w": "every",
+                "t": 2181.4,
+                "d": 330.9
+              },
+              {
+                "w": "furrow",
+                "t": 2524.5,
+                "d": 428.9
+              },
+              {
+                "w": "season",
+                "t": 3259.8,
+                "d": 465.7
+              },
+              {
+                "w": "after",
+                "t": 3786.8,
+                "d": 404.4
+              },
+              {
+                "w": "season",
+                "t": 4191.2,
+                "d": 465.7
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p05.png",
+      "shot": "medium wide of inscription being carved on stone slab beside the tank",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "An inscription at Kamalapura recorded the tank. It spoke of a perennial water body that nourished the suburb and fields, tying royal ambition to local soil.",
+            "hi": "कमलापुर की एक शिला-लेख ने टैंक का ज़िक्र किया। उसमें सदानीरा जलाशय की बात थी जो उपनगर और खेतों को पालता, राज-इच्छा को स्थानीय मिट्टी से जोड़ता था।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p05_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "An",
+                "t": 74.0,
+                "d": 127.0
+              },
+              {
+                "w": "inscription",
+                "t": 202.0,
+                "d": 765.0
+              },
+              {
+                "w": "at",
+                "t": 968.0,
+                "d": 255.0
+              },
+              {
+                "w": "Kamalapura",
+                "t": 1223.0,
+                "d": 553.0
+              },
+              {
+                "w": "recorded",
+                "t": 1776.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 2329.0,
+                "d": 169.0
+              },
+              {
+                "w": "tank",
+                "t": 2498.0,
+                "d": 894.0
+              },
+              {
+                "w": "It",
+                "t": 3436.0,
+                "d": 211.0
+              },
+              {
+                "w": "spoke",
+                "t": 3647.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 4073.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 4201.0,
+                "d": 86.0
+              },
+              {
+                "w": "perennial",
+                "t": 4287.0,
+                "d": 510.0
+              },
+              {
+                "w": "water",
+                "t": 4797.0,
+                "d": 340.0
+              },
+              {
+                "w": "body",
+                "t": 5138.0,
+                "d": 638.0
+              },
+              {
+                "w": "that",
+                "t": 5819.0,
+                "d": 297.0
+              },
+              {
+                "w": "nourished",
+                "t": 6117.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 6585.0,
+                "d": 127.0
+              },
+              {
+                "w": "suburb",
+                "t": 6712.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 7180.0,
+                "d": 170.0
+              },
+              {
+                "w": "fields",
+                "t": 7351.0,
+                "d": 638.0
+              },
+              {
+                "w": "tying",
+                "t": 8372.0,
+                "d": 381.0
+              },
+              {
+                "w": "royal",
+                "t": 8754.0,
+                "d": 340.0
+              },
+              {
+                "w": "ambition",
+                "t": 9094.0,
+                "d": 511.0
+              },
+              {
+                "w": "to",
+                "t": 9606.0,
+                "d": 170.0
+              },
+              {
+                "w": "local",
+                "t": 9776.0,
+                "d": 381.0
+              },
+              {
+                "w": "soil",
+                "t": 10158.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p06.png",
+      "shot": "epic wide of watered fields below full tank at dawn",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From the tank's full body, water slipped into channels, turning brittle earth into sheets of paddy and sugarcane. The tank became a quiet granary of liquid grain.",
+            "hi": "भरे टैंक से पानी नालों में फिसलता, सूखी मिट्टी को धान और गन्ने की चादरों में बदल देता। टैंक चुपचाप तरल अनाज का कोठार बन गया।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p06_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 170.0
+              },
+              {
+                "w": "tank's",
+                "t": 500.0,
+                "d": 340.0
+              },
+              {
+                "w": "full",
+                "t": 840.0,
+                "d": 255.0
+              },
+              {
+                "w": "body",
+                "t": 1095.0,
+                "d": 765.0
+              },
+              {
+                "w": "water",
+                "t": 1946.0,
+                "d": 468.0
+              },
+              {
+                "w": "slipped",
+                "t": 2414.0,
+                "d": 468.0
+              },
+              {
+                "w": "into",
+                "t": 2882.0,
+                "d": 254.0
+              },
+              {
+                "w": "channels",
+                "t": 3137.0,
+                "d": 936.0
+              },
+              {
+                "w": "turning",
+                "t": 4329.0,
+                "d": 468.0
+              },
+              {
+                "w": "brittle",
+                "t": 4797.0,
+                "d": 425.0
+              },
+              {
+                "w": "earth",
+                "t": 5223.0,
+                "d": 255.0
+              },
+              {
+                "w": "into",
+                "t": 5521.0,
+                "d": 255.0
+              },
+              {
+                "w": "sheets",
+                "t": 5776.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 6202.0,
+                "d": 170.0
+              },
+              {
+                "w": "paddy",
+                "t": 6372.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 6968.0,
+                "d": 255.0
+              },
+              {
+                "w": "sugarcane",
+                "t": 7223.0,
+                "d": 680.0
+              },
+              {
+                "w": "The",
+                "t": 8500.0,
+                "d": 297.0
+              },
+              {
+                "w": "tank",
+                "t": 8797.0,
+                "d": 425.0
+              },
+              {
+                "w": "became",
+                "t": 9223.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 9563.0,
+                "d": 127.0
+              },
+              {
+                "w": "quiet",
+                "t": 9691.0,
+                "d": 381.0
+              },
+              {
+                "w": "granary",
+                "t": 10073.0,
+                "d": 638.0
+              },
+              {
+                "w": "of",
+                "t": 10711.0,
+                "d": 213.0
+              },
+              {
+                "w": "liquid",
+                "t": 10925.0,
+                "d": 381.0
+              },
+              {
+                "w": "grain",
+                "t": 11307.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p07.png",
+      "shot": "wide shot from tank toward distant royal centre on the horizon",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kamalapura did more than feed farmers. Canals and channels carried its water toward the royal centre, sustaining kitchens, gardens and ritual spaces of the court.",
+            "hi": "कमलापुर ने सिर्फ़ किसानों को नहीं पाला। नहरें और नाले उसका पानी राजकीय केन्द्र तक ले गए, रसोई, बाग़ और दरबार के पूजा-स्थलों को ज़िंदा रखते हुए।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p07_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kamalapura",
+                "t": 159.0,
+                "d": 595.0
+              },
+              {
+                "w": "did",
+                "t": 755.0,
+                "d": 212.0
+              },
+              {
+                "w": "more",
+                "t": 968.0,
+                "d": 297.0
+              },
+              {
+                "w": "than",
+                "t": 1265.0,
+                "d": 212.0
+              },
+              {
+                "w": "feed",
+                "t": 1478.0,
+                "d": 340.0
+              },
+              {
+                "w": "farmers",
+                "t": 1819.0,
+                "d": 722.0
+              },
+              {
+                "w": "Canals",
+                "t": 2840.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 3308.0,
+                "d": 170.0
+              },
+              {
+                "w": "channels",
+                "t": 3478.0,
+                "d": 552.0
+              },
+              {
+                "w": "carried",
+                "t": 4030.0,
+                "d": 426.0
+              },
+              {
+                "w": "its",
+                "t": 4457.0,
+                "d": 255.0
+              },
+              {
+                "w": "water",
+                "t": 4712.0,
+                "d": 510.0
+              },
+              {
+                "w": "toward",
+                "t": 5223.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 5563.0,
+                "d": 127.0
+              },
+              {
+                "w": "royal",
+                "t": 5691.0,
+                "d": 340.0
+              },
+              {
+                "w": "centre",
+                "t": 6031.0,
+                "d": 468.0
+              },
+              {
+                "w": "sustaining",
+                "t": 6840.0,
+                "d": 680.0
+              },
+              {
+                "w": "kitchens",
+                "t": 7521.0,
+                "d": 765.0
+              },
+              {
+                "w": "gardens",
+                "t": 8329.0,
+                "d": 850.0
+              },
+              {
+                "w": "and",
+                "t": 9223.0,
+                "d": 424.0
+              },
+              {
+                "w": "ritual",
+                "t": 9647.0,
+                "d": 340.0
+              },
+              {
+                "w": "spaces",
+                "t": 9988.0,
+                "d": 554.0
+              },
+              {
+                "w": "of",
+                "t": 10542.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 10670.0,
+                "d": 170.0
+              },
+              {
+                "w": "court",
+                "t": 10840.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p08.png",
+      "shot": "medium shot inside royal precinct, engineer examining terracotta pipes set in trench",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Excavations centuries later revealed terracotta pipes around royal buildings. Their neat joints show how water was carried underfoot, kept flowing yet unseen.",
+            "hi": "सदियों बाद खुदाई में महलों के पास मिट्टी के पाइप मिले। उनके साफ़ जोड़ बताते हैं कि पानी पैर के नीचे से गुजरता था, चलता हुआ पर नज़र से ओझल।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p08_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Excavations",
+                "t": 117.0,
+                "d": 893.0
+              },
+              {
+                "w": "centuries",
+                "t": 1010.0,
+                "d": 553.0
+              },
+              {
+                "w": "later",
+                "t": 1563.0,
+                "d": 382.0
+              },
+              {
+                "w": "revealed",
+                "t": 1946.0,
+                "d": 382.0
+              },
+              {
+                "w": "terracotta",
+                "t": 2329.0,
+                "d": 553.0
+              },
+              {
+                "w": "pipes",
+                "t": 2882.0,
+                "d": 382.0
+              },
+              {
+                "w": "around",
+                "t": 3265.0,
+                "d": 381.0
+              },
+              {
+                "w": "royal",
+                "t": 3647.0,
+                "d": 256.0
+              },
+              {
+                "w": "buildings",
+                "t": 3904.0,
+                "d": 1191.0
+              },
+              {
+                "w": "Their",
+                "t": 5138.0,
+                "d": 297.0
+              },
+              {
+                "w": "neat",
+                "t": 5436.0,
+                "d": 212.0
+              },
+              {
+                "w": "joints",
+                "t": 5648.0,
+                "d": 382.0
+              },
+              {
+                "w": "show",
+                "t": 6031.0,
+                "d": 297.0
+              },
+              {
+                "w": "how",
+                "t": 6329.0,
+                "d": 170.0
+              },
+              {
+                "w": "water",
+                "t": 6500.0,
+                "d": 382.0
+              },
+              {
+                "w": "was",
+                "t": 6882.0,
+                "d": 212.0
+              },
+              {
+                "w": "carried",
+                "t": 7095.0,
+                "d": 297.0
+              },
+              {
+                "w": "underfoot",
+                "t": 7393.0,
+                "d": 680.0
+              },
+              {
+                "w": "kept",
+                "t": 8414.0,
+                "d": 254.0
+              },
+              {
+                "w": "flowing",
+                "t": 8669.0,
+                "d": 469.0
+              },
+              {
+                "w": "yet",
+                "t": 9138.0,
+                "d": 170.0
+              },
+              {
+                "w": "unseen",
+                "t": 9308.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p09.png",
+      "shot": "low-angle view along rock-cut channel hugging boulders",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Stone itself was carved into channels. Along slopes and between hills, narrow cuts guided water, using gravity and gradient instead of brute force.",
+            "hi": "पत्थर खुद चैनलों में तराशा गया। ढलानों पर और पहाड़ियों के बीच पतली कटिंग ने पानी को राह दी, बल के बजाय गुरुत्व और ढलान का सहारा लेते हुए।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p09_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Stone",
+                "t": 70.0,
+                "d": 480.0
+              },
+              {
+                "w": "itself",
+                "t": 550.0,
+                "d": 440.0
+              },
+              {
+                "w": "was",
+                "t": 990.0,
+                "d": 200.0
+              },
+              {
+                "w": "carved",
+                "t": 1190.0,
+                "d": 360.0
+              },
+              {
+                "w": "into",
+                "t": 1550.0,
+                "d": 240.0
+              },
+              {
+                "w": "channels",
+                "t": 1790.0,
+                "d": 760.0
+              },
+              {
+                "w": "Along",
+                "t": 2949.0,
+                "d": 400.0
+              },
+              {
+                "w": "slopes",
+                "t": 3349.0,
+                "d": 640.0
+              },
+              {
+                "w": "and",
+                "t": 3989.0,
+                "d": 321.0
+              },
+              {
+                "w": "between",
+                "t": 4310.0,
+                "d": 320.0
+              },
+              {
+                "w": "hills",
+                "t": 4630.0,
+                "d": 600.0
+              },
+              {
+                "w": "narrow",
+                "t": 5510.0,
+                "d": 520.0
+              },
+              {
+                "w": "cuts",
+                "t": 6030.0,
+                "d": 240.0
+              },
+              {
+                "w": "guided",
+                "t": 6270.0,
+                "d": 400.0
+              },
+              {
+                "w": "water",
+                "t": 6670.0,
+                "d": 640.0
+              },
+              {
+                "w": "using",
+                "t": 7390.0,
+                "d": 400.0
+              },
+              {
+                "w": "gravity",
+                "t": 7790.0,
+                "d": 560.0
+              },
+              {
+                "w": "and",
+                "t": 8389.0,
+                "d": 201.0
+              },
+              {
+                "w": "gradient",
+                "t": 8590.0,
+                "d": 680.0
+              },
+              {
+                "w": "instead",
+                "t": 9309.0,
+                "d": 441.0
+              },
+              {
+                "w": "of",
+                "t": 9750.0,
+                "d": 120.0
+              },
+              {
+                "w": "brute",
+                "t": 9870.0,
+                "d": 279.0
+              },
+              {
+                "w": "force",
+                "t": 10149.0,
+                "d": 601.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p10.png",
+      "shot": "epic wide of Bukka Aqueduct bridging ravine near Anegundi",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "To move river water across broken ground, they raised it on stone. The Bukka Aqueduct near Anegundi stands today, a long channel on pillars, carrying flow over uneven land.",
+            "hi": "टूटी-फूटी ज़मीन पर नदी का पानी चढ़ाने को उन्होंने उसे पत्थर पर उठाया। आज भी आनेगुंडी के पास बुक्का एक्वेडक्ट खड़ा है — खंभों पर उठा लंबा चैनल जो बहाव को ऊबड़-खाबड़ ज़मीन के ऊपर ले जाता है।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p10_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "To",
+                "t": 70.0,
+                "d": 120.0
+              },
+              {
+                "w": "move",
+                "t": 190.0,
+                "d": 240.0
+              },
+              {
+                "w": "river",
+                "t": 430.0,
+                "d": 240.0
+              },
+              {
+                "w": "water",
+                "t": 670.0,
+                "d": 400.0
+              },
+              {
+                "w": "across",
+                "t": 1070.0,
+                "d": 440.0
+              },
+              {
+                "w": "broken",
+                "t": 1510.0,
+                "d": 360.0
+              },
+              {
+                "w": "ground",
+                "t": 1870.0,
+                "d": 519.0
+              },
+              {
+                "w": "they",
+                "t": 2590.0,
+                "d": 279.0
+              },
+              {
+                "w": "raised",
+                "t": 2869.0,
+                "d": 401.0
+              },
+              {
+                "w": "it",
+                "t": 3270.0,
+                "d": 79.0
+              },
+              {
+                "w": "on",
+                "t": 3349.0,
+                "d": 201.0
+              },
+              {
+                "w": "stone",
+                "t": 3550.0,
+                "d": 680.0
+              },
+              {
+                "w": "The",
+                "t": 4710.0,
+                "d": 240.0
+              },
+              {
+                "w": "Bukka",
+                "t": 4950.0,
+                "d": 280.0
+              },
+              {
+                "w": "Aqueduct",
+                "t": 5230.0,
+                "d": 600.0
+              },
+              {
+                "w": "near",
+                "t": 5830.0,
+                "d": 240.0
+              },
+              {
+                "w": "Anegundi",
+                "t": 6070.0,
+                "d": 520.0
+              },
+              {
+                "w": "stands",
+                "t": 6590.0,
+                "d": 400.0
+              },
+              {
+                "w": "today",
+                "t": 6990.0,
+                "d": 680.0
+              },
+              {
+                "w": "a",
+                "t": 7710.0,
+                "d": 200.0
+              },
+              {
+                "w": "long",
+                "t": 7910.0,
+                "d": 319.0
+              },
+              {
+                "w": "channel",
+                "t": 8229.0,
+                "d": 400.0
+              },
+              {
+                "w": "on",
+                "t": 8629.0,
+                "d": 201.0
+              },
+              {
+                "w": "pillars",
+                "t": 8830.0,
+                "d": 680.0
+              },
+              {
+                "w": "carrying",
+                "t": 9590.0,
+                "d": 440.0
+              },
+              {
+                "w": "flow",
+                "t": 10030.0,
+                "d": 400.0
+              },
+              {
+                "w": "over",
+                "t": 10430.0,
+                "d": 400.0
+              },
+              {
+                "w": "uneven",
+                "t": 10830.0,
+                "d": 399.0
+              },
+              {
+                "w": "land",
+                "t": 11229.0,
+                "d": 521.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p11.png",
+      "shot": "close-up of engineer’s hand feeling inner surface of aqueduct channel",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "If the river will not come to the city, the city must climb to the river.",
+            "hi": "जब नदी शहर तक नहीं आएगी, तो शहर ही नदी तक चढ़ेगा।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p11_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "If",
+                "t": 49.0,
+                "d": 147.0
+              },
+              {
+                "w": "the",
+                "t": 196.1,
+                "d": 122.5
+              },
+              {
+                "w": "river",
+                "t": 318.6,
+                "d": 355.4
+              },
+              {
+                "w": "will",
+                "t": 686.3,
+                "d": 245.1
+              },
+              {
+                "w": "not",
+                "t": 931.4,
+                "d": 294.1
+              },
+              {
+                "w": "come",
+                "t": 1225.5,
+                "d": 281.9
+              },
+              {
+                "w": "to",
+                "t": 1519.6,
+                "d": 85.8
+              },
+              {
+                "w": "the",
+                "t": 1605.4,
+                "d": 147.0
+              },
+              {
+                "w": "city",
+                "t": 1752.5,
+                "d": 404.4
+              },
+              {
+                "w": "the",
+                "t": 2414.2,
+                "d": 98.0
+              },
+              {
+                "w": "city",
+                "t": 2512.2,
+                "d": 355.4
+              },
+              {
+                "w": "must",
+                "t": 2867.7,
+                "d": 294.1
+              },
+              {
+                "w": "climb",
+                "t": 3235.3,
+                "d": 330.9
+              },
+              {
+                "w": "to",
+                "t": 3578.4,
+                "d": 98.0
+              },
+              {
+                "w": "the",
+                "t": 3676.5,
+                "d": 134.8
+              },
+              {
+                "w": "river",
+                "t": 3811.3,
+                "d": 379.9
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "triumph",
+      "bg": "assets/the_tanks_that_fed_an_empire/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_tanks_that_fed_an_empire/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With every measured stride, he forces river and gravity into alliance, lifting life-giving water toward the sacred city.",
+            "hi": "हर नपे कदम के साथ, वो नदी और गुरुत्व को मिलाकर जीवनदायी जल को पवित्र नगर की ओर उठाता है।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "every",
+                "t": 364.0,
+                "d": 500.0
+              },
+              {
+                "w": "measured",
+                "t": 864.0,
+                "d": 500.0
+              },
+              {
+                "w": "stride",
+                "t": 1364.0,
+                "d": 833.0
+              },
+              {
+                "w": "he",
+                "t": 2322.0,
+                "d": 207.0
+              },
+              {
+                "w": "forces",
+                "t": 2530.0,
+                "d": 541.0
+              },
+              {
+                "w": "river",
+                "t": 3071.0,
+                "d": 626.0
+              },
+              {
+                "w": "and",
+                "t": 3697.0,
+                "d": 373.0
+              },
+              {
+                "w": "gravity",
+                "t": 4071.0,
+                "d": 542.0
+              },
+              {
+                "w": "into",
+                "t": 4614.0,
+                "d": 291.0
+              },
+              {
+                "w": "alliance",
+                "t": 4906.0,
+                "d": 708.0
+              },
+              {
+                "w": "lifting",
+                "t": 6156.0,
+                "d": 541.0
+              },
+              {
+                "w": "life-giving",
+                "t": 6697.0,
+                "d": 625.0
+              },
+              {
+                "w": "water",
+                "t": 7322.0,
+                "d": 500.0
+              },
+              {
+                "w": "toward",
+                "t": 7822.0,
+                "d": 375.0
+              },
+              {
+                "w": "the",
+                "t": 8197.0,
+                "d": 125.0
+              },
+              {
+                "w": "sacred",
+                "t": 8322.0,
+                "d": 541.0
+              },
+              {
+                "w": "city",
+                "t": 8864.0,
+                "d": 541.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p12.png",
+      "shot": "medium shot of stepped tank inside ceremonial area",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Water was not only for crops and kitchens. Stepped tanks held it for ritual, their descending tiers turning storage into sacred geometry and reflecting towers and sky.",
+            "hi": "पानी सिर्फ़ खेतों और रसोई के लिए नहीं था। सीढ़ीदार टैंकों ने उसे पूजा के लिए थामा, उतरती परतों ने भंडार को पावन ज्यामिति में बदला, टावर और आसमान को पानी में उकेरा।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p12_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Water",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "was",
+                "t": 585.0,
+                "d": 255.0
+              },
+              {
+                "w": "not",
+                "t": 840.0,
+                "d": 297.0
+              },
+              {
+                "w": "only",
+                "t": 1138.0,
+                "d": 255.0
+              },
+              {
+                "w": "for",
+                "t": 1393.0,
+                "d": 170.0
+              },
+              {
+                "w": "crops",
+                "t": 1563.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 1904.0,
+                "d": 170.0
+              },
+              {
+                "w": "kitchens",
+                "t": 2074.0,
+                "d": 851.0
+              },
+              {
+                "w": "Stepped",
+                "t": 3094.0,
+                "d": 639.0
+              },
+              {
+                "w": "tanks",
+                "t": 3734.0,
+                "d": 339.0
+              },
+              {
+                "w": "held",
+                "t": 4073.0,
+                "d": 256.0
+              },
+              {
+                "w": "it",
+                "t": 4329.0,
+                "d": 127.0
+              },
+              {
+                "w": "for",
+                "t": 4457.0,
+                "d": 170.0
+              },
+              {
+                "w": "ritual",
+                "t": 4627.0,
+                "d": 1148.0
+              },
+              {
+                "w": "their",
+                "t": 5819.0,
+                "d": 297.0
+              },
+              {
+                "w": "descending",
+                "t": 6117.0,
+                "d": 553.0
+              },
+              {
+                "w": "tiers",
+                "t": 6670.0,
+                "d": 808.0
+              },
+              {
+                "w": "turning",
+                "t": 7819.0,
+                "d": 340.0
+              },
+              {
+                "w": "storage",
+                "t": 8159.0,
+                "d": 552.0
+              },
+              {
+                "w": "into",
+                "t": 8711.0,
+                "d": 256.0
+              },
+              {
+                "w": "sacred",
+                "t": 8968.0,
+                "d": 468.0
+              },
+              {
+                "w": "geometry",
+                "t": 9436.0,
+                "d": 936.0
+              },
+              {
+                "w": "and",
+                "t": 10372.0,
+                "d": 339.0
+              },
+              {
+                "w": "reflecting",
+                "t": 10711.0,
+                "d": 639.0
+              },
+              {
+                "w": "towers",
+                "t": 11351.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 11904.0,
+                "d": 211.0
+              },
+              {
+                "w": "sky",
+                "t": 12115.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p13.png",
+      "shot": "slow push-in on royal centre courtyard near Hazara Rama temple",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Recent work near Hazara Rama revealed stone drains and a long canal within the ceremonial core, proving water and ritual were woven together in the city's very heart.",
+            "hi": "हज़ारा राम के पास हाल की खुदाई में रस्मी क्षेत्र के भीतर पत्थर की नालियाँ और लंबी नहर मिलीं, साबित हुआ कि पानी और पूजा शहर के दिल में ही एक-दूसरे में बुने थे।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p13_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Recent",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "work",
+                "t": 670.0,
+                "d": 468.0
+              },
+              {
+                "w": "near",
+                "t": 1138.0,
+                "d": 212.0
+              },
+              {
+                "w": "Hazara",
+                "t": 1351.0,
+                "d": 510.0
+              },
+              {
+                "w": "Rama",
+                "t": 1861.0,
+                "d": 340.0
+              },
+              {
+                "w": "revealed",
+                "t": 2202.0,
+                "d": 553.0
+              },
+              {
+                "w": "stone",
+                "t": 2755.0,
+                "d": 381.0
+              },
+              {
+                "w": "drains",
+                "t": 3137.0,
+                "d": 596.0
+              },
+              {
+                "w": "and",
+                "t": 4073.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 4287.0,
+                "d": 42.0
+              },
+              {
+                "w": "long",
+                "t": 4329.0,
+                "d": 468.0
+              },
+              {
+                "w": "canal",
+                "t": 4797.0,
+                "d": 382.0
+              },
+              {
+                "w": "within",
+                "t": 5180.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 5478.0,
+                "d": 127.0
+              },
+              {
+                "w": "ceremonial",
+                "t": 5606.0,
+                "d": 723.0
+              },
+              {
+                "w": "core",
+                "t": 6329.0,
+                "d": 765.0
+              },
+              {
+                "w": "proving",
+                "t": 7265.0,
+                "d": 510.0
+              },
+              {
+                "w": "water",
+                "t": 7776.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 8287.0,
+                "d": 254.0
+              },
+              {
+                "w": "ritual",
+                "t": 8541.0,
+                "d": 767.0
+              },
+              {
+                "w": "were",
+                "t": 9351.0,
+                "d": 296.0
+              },
+              {
+                "w": "woven",
+                "t": 9647.0,
+                "d": 425.0
+              },
+              {
+                "w": "together",
+                "t": 10073.0,
+                "d": 554.0
+              },
+              {
+                "w": "in",
+                "t": 10627.0,
+                "d": 84.0
+              },
+              {
+                "w": "the",
+                "t": 10711.0,
+                "d": 128.0
+              },
+              {
+                "w": "city's",
+                "t": 10840.0,
+                "d": 467.0
+              },
+              {
+                "w": "very",
+                "t": 11307.0,
+                "d": 341.0
+              },
+              {
+                "w": "heart",
+                "t": 11648.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p14.png",
+      "shot": "medium shot of engineer overseeing sluice adjustments during dry season",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Control was everything. Sluices and shutters were adjusted with care so that water lasted through lean months, balancing the thirst of city and countryside.",
+            "hi": "काबू ही सब कुछ था। फाटकों और पट्टों को सोच-समझकर चलाया गया, ताकि दुबले महीनों तक पानी टिके, शहर और गाँव की प्यास का संतुलन बना रहे।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p14_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Control",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "was",
+                "t": 585.0,
+                "d": 255.0
+              },
+              {
+                "w": "everything",
+                "t": 840.0,
+                "d": 1234.0
+              },
+              {
+                "w": "Sluices",
+                "t": 2158.0,
+                "d": 681.0
+              },
+              {
+                "w": "and",
+                "t": 2840.0,
+                "d": 169.0
+              },
+              {
+                "w": "shutters",
+                "t": 3009.0,
+                "d": 510.0
+              },
+              {
+                "w": "were",
+                "t": 3520.0,
+                "d": 213.0
+              },
+              {
+                "w": "adjusted",
+                "t": 3734.0,
+                "d": 638.0
+              },
+              {
+                "w": "with",
+                "t": 4372.0,
+                "d": 212.0
+              },
+              {
+                "w": "care",
+                "t": 4585.0,
+                "d": 680.0
+              },
+              {
+                "w": "so",
+                "t": 5308.0,
+                "d": 255.0
+              },
+              {
+                "w": "that",
+                "t": 5563.0,
+                "d": 212.0
+              },
+              {
+                "w": "water",
+                "t": 5776.0,
+                "d": 425.0
+              },
+              {
+                "w": "lasted",
+                "t": 6202.0,
+                "d": 553.0
+              },
+              {
+                "w": "through",
+                "t": 6755.0,
+                "d": 297.0
+              },
+              {
+                "w": "lean",
+                "t": 7053.0,
+                "d": 297.0
+              },
+              {
+                "w": "months",
+                "t": 7351.0,
+                "d": 765.0
+              },
+              {
+                "w": "balancing",
+                "t": 8500.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 9138.0,
+                "d": 170.0
+              },
+              {
+                "w": "thirst",
+                "t": 9308.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 9691.0,
+                "d": 126.0
+              },
+              {
+                "w": "city",
+                "t": 9818.0,
+                "d": 681.0
+              },
+              {
+                "w": "and",
+                "t": 10542.0,
+                "d": 297.0
+              },
+              {
+                "w": "countryside",
+                "t": 10840.0,
+                "d": 978.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "battle",
+      "slices": [
+        {
+          "img": "assets/the_tanks_that_fed_an_empire/split_auto/s0.png",
+          "slogan": {
+            "en": "Stone and water, we endure",
+            "hi": "पत्थर और पानी, हम डटे हैं"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_tanks_that_fed_an_empire/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_tanks_that_fed_an_empire/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From drought to abundance, his designs bind river, tank, and aqueduct, shielding Vijayanagara's people from the cruelty of failed monsoons.",
+            "hi": "सूखे से समृद्धि तक, उसकी योजनाएँ नदी, टैंक और नहर को जोड़कर विजयनगर के लोगों को टूटे मानसून की मार से बचाती हैं।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "drought",
+                "t": 350.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 670.0,
+                "d": 80.0
+              },
+              {
+                "w": "abundance",
+                "t": 750.0,
+                "d": 520.0
+              },
+              {
+                "w": "his",
+                "t": 1270.0,
+                "d": 160.0
+              },
+              {
+                "w": "designs",
+                "t": 1590.0,
+                "d": 280.0
+              },
+              {
+                "w": "bind",
+                "t": 1870.0,
+                "d": 800.0
+              },
+              {
+                "w": "river",
+                "t": 2670.0,
+                "d": 440.0
+              },
+              {
+                "w": "tank",
+                "t": 3309.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 3869.0,
+                "d": 201.0
+              },
+              {
+                "w": "aqueduct",
+                "t": 4070.0,
+                "d": 720.0
+              },
+              {
+                "w": "shielding",
+                "t": 4990.0,
+                "d": 560.0
+              },
+              {
+                "w": "Vijayanagara's",
+                "t": 5550.0,
+                "d": 640.0
+              },
+              {
+                "w": "people",
+                "t": 6190.0,
+                "d": 360.0
+              },
+              {
+                "w": "from",
+                "t": 6550.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 6750.0,
+                "d": 120.0
+              },
+              {
+                "w": "cruelty",
+                "t": 6870.0,
+                "d": 600.0
+              },
+              {
+                "w": "of",
+                "t": 7470.0,
+                "d": 120.0
+              },
+              {
+                "w": "failed",
+                "t": 7590.0,
+                "d": 400.0
+              },
+              {
+                "w": "monsoons",
+                "t": 7990.0,
+                "d": 800.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p15.png",
+      "shot": "wide shot of bustling bazaar and palace kitchens drawing from channels",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From tanks and aqueducts, the flow reached markets and halls. Food, trade and ceremony rested on an unseen lattice of channels, pipes and drains.",
+            "hi": "टैंकों और एक्वेडक्ट से निकला बहाव बाज़ारों और दीवानखानों तक पहुँचा। अनाज, व्यापार और रस्में एक अदृश्य जाल पर टिकी थीं — चैनलों, पाइपों और नालियों के।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p15_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "tanks",
+                "t": 414.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 797.0,
+                "d": 127.0
+              },
+              {
+                "w": "aqueducts",
+                "t": 925.0,
+                "d": 851.0
+              },
+              {
+                "w": "the",
+                "t": 1904.0,
+                "d": 254.0
+              },
+              {
+                "w": "flow",
+                "t": 2158.0,
+                "d": 297.0
+              },
+              {
+                "w": "reached",
+                "t": 2456.0,
+                "d": 341.0
+              },
+              {
+                "w": "markets",
+                "t": 2797.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 3308.0,
+                "d": 127.0
+              },
+              {
+                "w": "halls",
+                "t": 3436.0,
+                "d": 978.0
+              },
+              {
+                "w": "Food",
+                "t": 4670.0,
+                "d": 765.0
+              },
+              {
+                "w": "trade",
+                "t": 5478.0,
+                "d": 297.0
+              },
+              {
+                "w": "and",
+                "t": 5776.0,
+                "d": 340.0
+              },
+              {
+                "w": "ceremony",
+                "t": 6457.0,
+                "d": 893.0
+              },
+              {
+                "w": "rested",
+                "t": 7478.0,
+                "d": 425.0
+              },
+              {
+                "w": "on",
+                "t": 7904.0,
+                "d": 127.0
+              },
+              {
+                "w": "an",
+                "t": 8031.0,
+                "d": 170.0
+              },
+              {
+                "w": "unseen",
+                "t": 8202.0,
+                "d": 552.0
+              },
+              {
+                "w": "lattice",
+                "t": 8754.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 9179.0,
+                "d": 128.0
+              },
+              {
+                "w": "channels",
+                "t": 9308.0,
+                "d": 808.0
+              },
+              {
+                "w": "pipes",
+                "t": 10414.0,
+                "d": 552.0
+              },
+              {
+                "w": "and",
+                "t": 10967.0,
+                "d": 255.0
+              },
+              {
+                "w": "drains",
+                "t": 11222.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p16.png",
+      "shot": "melancholic wide of ruined Vijayanagara with surviving tank and aqueduct",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The empire fell, its palaces broken by war and time. Yet tanks, channels and aqueducts endure, their forms still catching rain and river for today's villages.",
+            "hi": "साम्राज्य गिर गया, महल युद्ध और समय से टूट गए। पर टैंक, नाले और एक्वेडक्ट अब भी हैं, आज की बस्तियों के लिए बारिश और नदी को पकड़ते हुए।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p16_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "empire",
+                "t": 270.0,
+                "d": 480.0
+              },
+              {
+                "w": "fell",
+                "t": 750.0,
+                "d": 520.0
+              },
+              {
+                "w": "its",
+                "t": 1350.0,
+                "d": 320.0
+              },
+              {
+                "w": "palaces",
+                "t": 1670.0,
+                "d": 480.0
+              },
+              {
+                "w": "broken",
+                "t": 2150.0,
+                "d": 400.0
+              },
+              {
+                "w": "by",
+                "t": 2550.0,
+                "d": 200.0
+              },
+              {
+                "w": "war",
+                "t": 2750.0,
+                "d": 280.0
+              },
+              {
+                "w": "and",
+                "t": 3030.0,
+                "d": 279.0
+              },
+              {
+                "w": "time",
+                "t": 3309.0,
+                "d": 761.0
+              },
+              {
+                "w": "Yet",
+                "t": 4190.0,
+                "d": 280.0
+              },
+              {
+                "w": "tanks",
+                "t": 4470.0,
+                "d": 840.0
+              },
+              {
+                "w": "channels",
+                "t": 5350.0,
+                "d": 640.0
+              },
+              {
+                "w": "and",
+                "t": 5990.0,
+                "d": 200.0
+              },
+              {
+                "w": "aqueducts",
+                "t": 6190.0,
+                "d": 600.0
+              },
+              {
+                "w": "endure",
+                "t": 6790.0,
+                "d": 560.0
+              },
+              {
+                "w": "their",
+                "t": 7990.0,
+                "d": 280.0
+              },
+              {
+                "w": "forms",
+                "t": 8270.0,
+                "d": 320.0
+              },
+              {
+                "w": "still",
+                "t": 8590.0,
+                "d": 280.0
+              },
+              {
+                "w": "catching",
+                "t": 8870.0,
+                "d": 439.0
+              },
+              {
+                "w": "rain",
+                "t": 9309.0,
+                "d": 361.0
+              },
+              {
+                "w": "and",
+                "t": 9670.0,
+                "d": 280.0
+              },
+              {
+                "w": "river",
+                "t": 9950.0,
+                "d": 240.0
+              },
+              {
+                "w": "for",
+                "t": 10190.0,
+                "d": 160.0
+              },
+              {
+                "w": "today's",
+                "t": 10350.0,
+                "d": 400.0
+              },
+              {
+                "w": "villages",
+                "t": 10750.0,
+                "d": 719.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p17.png",
+      "shot": "close-up of engineer’s weathered face looking at ripples in water",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Archaeologists now trace terracotta pipes, stone drains and canals like veins. They read old inscriptions and new trenches to map the lifeblood of the City of Victory.",
+            "hi": "पुरातत्वविद अब मिट्टी के पाइप, पत्थर की नालियाँ और नहरों को नसों सा पढ़ते हैं। वे पुराने शिला-लेख और नई खाइयाँ पढ़कर विजय नगरी की जीवन-धारा का नक्शा बनाते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p17_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Archaeologists",
+                "t": 117.0,
+                "d": 978.0
+              },
+              {
+                "w": "now",
+                "t": 1095.0,
+                "d": 297.0
+              },
+              {
+                "w": "trace",
+                "t": 1393.0,
+                "d": 297.0
+              },
+              {
+                "w": "terracotta",
+                "t": 1691.0,
+                "d": 680.0
+              },
+              {
+                "w": "pipes",
+                "t": 2372.0,
+                "d": 594.0
+              },
+              {
+                "w": "stone",
+                "t": 3094.0,
+                "d": 468.0
+              },
+              {
+                "w": "drains",
+                "t": 3562.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 4158.0,
+                "d": 298.0
+              },
+              {
+                "w": "canals",
+                "t": 4457.0,
+                "d": 510.0
+              },
+              {
+                "w": "like",
+                "t": 4968.0,
+                "d": 255.0
+              },
+              {
+                "w": "veins",
+                "t": 5223.0,
+                "d": 638.0
+              },
+              {
+                "w": "They",
+                "t": 6244.0,
+                "d": 297.0
+              },
+              {
+                "w": "read",
+                "t": 6542.0,
+                "d": 297.0
+              },
+              {
+                "w": "old",
+                "t": 6840.0,
+                "d": 297.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 7138.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 7946.0,
+                "d": 212.0
+              },
+              {
+                "w": "new",
+                "t": 8159.0,
+                "d": 255.0
+              },
+              {
+                "w": "trenches",
+                "t": 8414.0,
+                "d": 850.0
+              },
+              {
+                "w": "to",
+                "t": 9308.0,
+                "d": 170.0
+              },
+              {
+                "w": "map",
+                "t": 9478.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 9776.0,
+                "d": 126.0
+              },
+              {
+                "w": "lifeblood",
+                "t": 9903.0,
+                "d": 554.0
+              },
+              {
+                "w": "of",
+                "t": 10457.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 10585.0,
+                "d": 126.0
+              },
+              {
+                "w": "City",
+                "t": 10711.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 11010.0,
+                "d": 170.0
+              },
+              {
+                "w": "Victory",
+                "t": 11180.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/the_tanks_that_fed_an_empire/img/p18.png",
+      "shot": "epic wide of Kamalapura Tank at sunset, fields and ruins framed together",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The tanks of Kamalapura and the Bukka Aqueduct remind us: empires rise not only on swords and stone, but on patient care for water flowing quietly through their land.",
+            "hi": "कमलापुर के टैंक और बुक्का एक्वेडक्ट याद दिलाते हैं: साम्राज्य सिर्फ़ तलवार और पत्थर पर नहीं, बल्कि बहते पानी की धीरजभरी देखभाल पर खड़े होते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_tanks_that_fed_an_empire/audio/en/p18_0.mp3",
+            "hi": "assets/the_tanks_that_fed_an_empire/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "tanks",
+                "t": 270.0,
+                "d": 280.0
+              },
+              {
+                "w": "of",
+                "t": 550.0,
+                "d": 160.0
+              },
+              {
+                "w": "Kamalapura",
+                "t": 710.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 1230.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 1510.0,
+                "d": 160.0
+              },
+              {
+                "w": "Bukka",
+                "t": 1670.0,
+                "d": 320.0
+              },
+              {
+                "w": "Aqueduct",
+                "t": 1990.0,
+                "d": 560.0
+              },
+              {
+                "w": "remind",
+                "t": 2550.0,
+                "d": 399.0
+              },
+              {
+                "w": "us",
+                "t": 2949.0,
+                "d": 601.0
+              },
+              {
+                "w": "empires",
+                "t": 3829.0,
+                "d": 641.0
+              },
+              {
+                "w": "rise",
+                "t": 4470.0,
+                "d": 520.0
+              },
+              {
+                "w": "not",
+                "t": 5030.0,
+                "d": 280.0
+              },
+              {
+                "w": "only",
+                "t": 5310.0,
+                "d": 200.0
+              },
+              {
+                "w": "on",
+                "t": 5510.0,
+                "d": 160.0
+              },
+              {
+                "w": "swords",
+                "t": 5670.0,
+                "d": 400.0
+              },
+              {
+                "w": "and",
+                "t": 6070.0,
+                "d": 160.0
+              },
+              {
+                "w": "stone",
+                "t": 6230.0,
+                "d": 640.0
+              },
+              {
+                "w": "but",
+                "t": 6990.0,
+                "d": 200.0
+              },
+              {
+                "w": "on",
+                "t": 7190.0,
+                "d": 160.0
+              },
+              {
+                "w": "patient",
+                "t": 7350.0,
+                "d": 440.0
+              },
+              {
+                "w": "care",
+                "t": 7790.0,
+                "d": 239.0
+              },
+              {
+                "w": "for",
+                "t": 8029.0,
+                "d": 120.0
+              },
+              {
+                "w": "water",
+                "t": 8149.0,
+                "d": 361.0
+              },
+              {
+                "w": "flowing",
+                "t": 8510.0,
+                "d": 520.0
+              },
+              {
+                "w": "quietly",
+                "t": 9069.0,
+                "d": 400.0
+              },
+              {
+                "w": "through",
+                "t": 9469.0,
+                "d": 281.0
+              },
+              {
+                "w": "their",
+                "t": 9750.0,
+                "d": 200.0
+              },
+              {
+                "w": "land",
+                "t": 9950.0,
+                "d": 439.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Vijayanagara Water Engineer",
+    "epithets": [
+      "Lifeline of Vijayanagara",
+      "Stone River of Kamalapura",
+      "Bukka’s Great Aqueduct",
+      "Tanks of the Tungabhadra"
+    ],
+    "legend": "Stone and water together kept a mighty empire alive."
+  }
+}
