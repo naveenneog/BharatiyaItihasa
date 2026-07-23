@@ -12,7 +12,7 @@ Auth = `Bearer <token>` where the token comes from
 `az account get-access-token --resource https://cognitiveservices.azure.com`.
 Each high-quality 1024-1536px image call takes ~2 min, so KEEP the keepactive guard running.
 """
-import base64, io, json, pathlib, subprocess, sys, time
+import base64, io, json, os, pathlib, subprocess, sys, tempfile, time
 import urllib.error, urllib.request
 
 ENDPOINT = "https://ai-contosohub530569751908.cognitiveservices.azure.com"
@@ -24,16 +24,37 @@ CS_SCOPE = "https://cognitiveservices.azure.com"
 
 
 def token(tries=3):
+    """Fetch an AAD bearer token for the cognitiveservices resource.
+
+    `az` output is written to a temp FILE (not a PIPE): on Windows a piped
+    subprocess whose grandchild (az.cmd -> python) keeps the pipe open will
+    DEADLOCK when `timeout` fires (kill hits cmd.exe but communicate() blocks
+    on the still-open inherited pipe). Writing to a file has no pipe to drain,
+    so a hung `az` is killed cleanly and we retry instead of hanging forever.
+    """
     for i in range(1, tries + 1):
+        tf = None
         try:
-            r = subprocess.run(["az", "account", "get-access-token", "--resource", CS_SCOPE,
+            tf = tempfile.NamedTemporaryFile(prefix="aad_", suffix=".txt", delete=False)
+            tf.close()
+            with open(tf.name, "w") as fh:
+                subprocess.run(["az", "account", "get-access-token", "--resource", CS_SCOPE,
                                 "--query", "accessToken", "-o", "tsv"],
-                               capture_output=True, text=True, shell=True, timeout=120)
-            t = r.stdout.strip()
+                               stdout=fh, stderr=subprocess.DEVNULL, stdin=subprocess.DEVNULL,
+                               shell=True, timeout=90)
+            t = pathlib.Path(tf.name).read_text().strip()
             if t:
                 return t
         except subprocess.TimeoutExpired:
             print(f"    az token timed out (try {i}/{tries})", flush=True)
+        except Exception as e:  # noqa: BLE001
+            print(f"    az token err (try {i}/{tries}): {e!r}", flush=True)
+        finally:
+            if tf is not None:
+                try:
+                    os.unlink(tf.name)
+                except OSError:
+                    pass
         time.sleep(3 * i)
     raise RuntimeError("No AAD token after retries. Run `az login`.")
 
