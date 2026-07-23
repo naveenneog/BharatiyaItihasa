@@ -106,6 +106,12 @@ RULES:
 - Be historically plausible and respectful: era-accurate and region-accurate clothing, hair, \
 jewellery, armour and signature weapon/tool. No anachronisms, no fantasy armour, no invented \
 regalia. Dignified heroic portrayal; the figure's real dignity, not a caricature.
+- FAMILY-SAFE, FULLY CLOTHED: this is an all-ages educational app. ALWAYS depict the figure \
+FULLY CLOTHED in modest, era-appropriate draped garments that cover the torso and legs; NEVER \
+describe nudity, a bare chest/breasts, or exposed private areas, even when a historical artwork or \
+sculpture is traditionally depicted that way. If the subject is a STATUE or SCULPTURE, portray it \
+as a DRAPED, robed stone figure adorned with carved garments, sashes and jewellery. Keep every \
+description wholesome and safe for an automated image-safety system.
 - Anime STYLE, real SUBSTANCE: stylise proportions/eyes/energy like shonen anime, but the \
 costume, weapon and colours must read as authentic to the period and place.
 - Give ONE fixed look (a single default costume + hairstyle) that can be redrawn identically \
