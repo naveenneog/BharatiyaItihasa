@@ -87,7 +87,7 @@ def chat_json(system, user, tok=None, max_tokens=6500, tries=4):
     raise RuntimeError(f"chat_json failed: {last}")
 
 
-def gen_image(prompt, out, tok, size="1024x1024", quality="high", tries=5):
+def gen_image(prompt, out, tok, size="1024x1024", quality="high", tries=8):
     """images/generations (text -> image). Returns tok (refreshed on 401). Writes `out`.
     Returns None-token only on hard failure (leaves `out` absent)."""
     url = f"{ENDPOINT}/openai/deployments/{IMG_DEPLOY}/images/generations?api-version={IMG_APIV}"
@@ -110,6 +110,8 @@ def gen_image(prompt, out, tok, size="1024x1024", quality="high", tries=5):
                 tok = token(); wait = 3
             elif e.code == 429:
                 ra = e.headers.get("Retry-After"); wait = (int(ra) + 3) if (ra and ra.isdigit()) else 45
+            elif e.code >= 500:
+                wait = 12 * i  # transient Azure server error (500/502/503) — back off longer
             else:
                 wait = 5 * i
             time.sleep(wait)
@@ -120,7 +122,7 @@ def gen_image(prompt, out, tok, size="1024x1024", quality="high", tries=5):
 
 
 def edit_image(prompt, refs, out, tok, size="1024x1024", quality="high",
-               input_fidelity="high", tries=5):
+               input_fidelity="high", tries=8):
     """images/edits with reference image(s) -> a character-consistent image.
 
     `refs` = list of image paths fed as `image[]`. `input_fidelity="high"` asks the model
@@ -169,6 +171,8 @@ def edit_image(prompt, refs, out, tok, size="1024x1024", quality="high",
                 tok = token(); wait = 3
             elif e.code == 429:
                 ra = e.headers.get("Retry-After"); wait = (int(ra) + 3) if (ra and ra.isdigit()) else 45
+            elif e.code >= 500:
+                wait = 12 * i  # transient Azure server error (500/502/503) — back off longer
             else:
                 wait = 5 * i
             time.sleep(wait)
