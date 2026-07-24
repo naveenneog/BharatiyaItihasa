@@ -150,3 +150,32 @@ Tanguturi Prakasam · Parbati Giri.
    **character consistency** (Naruto-style action + comic dialogue). See `CHANGELOG.md`.
 3. Section taxonomy (the list in §2) — approve or adjust.
 4. Scope of Phase 0 corpus (target episode count) and any must-include figures.
+
+---
+
+## 10. Pipeline performance & engineering roadmap
+
+**Shipped (2026-07-23/24):**
+- **Panel-level parallelism** — `comic_engine.render_episode` renders a story's panels in a
+  thread pool (`IH_PANEL_CONCURRENCY`, default 5). Panels are independent `images/edits` against
+  the same locked-in model sheet, so this is **consistency-neutral** and gives ~4–5× on the
+  image-render phase (real-tested: 6 panels in 301s vs ~900s serial). Commit `cee43a0`.
+- **Resilience** — hang-proof `az` token fetch (temp-file, no pipe deadlock); build-driver
+  staleness watchdog (auto kill+relaunch); family-safe/draped `CHARACTER_SYS` (image-safety);
+  8-try image retry with 5xx backoff. All proven live this session.
+
+**Next (deferred — user chose "keep it simple/safe" 2026-07-24, revisit for the 15-era backlog):**
+- **Story-level parallelism** — build N stories concurrently (thread pool over unbuilt episodes in
+  `grow.build_chapter`) to also parallelize voicing + beats, not just panels. Extra throughput on
+  top of panel-parallelism.
+  - **Hazards to lock before enabling** (this is why it's deferred, not done):
+    1. **git index race** — concurrent `commit_episode` git add/commit will corrupt `.git/index`.
+       Needs a process-wide commit `threading.Lock` (serialize commits; they're fast).
+    2. **character registry race** — concurrent `ensure_character` → `common.registry_put`
+       read-modify-writes `characters/registry.json` and lose updates. Needs a lock around the
+       registry read+write (lock only the fast file op, **not** the ~140s sheet gen, so different
+       characters still generate in parallel).
+    3. **total concurrency budget** — `STORY_CONCURRENCY × PANEL_CONCURRENCY` image calls at once;
+       bound it (e.g. 2 stories × 3 panels) to avoid re-triggering 429 `EngineOverloaded`.
+  - **Plan:** implement behind `IH_STORY_CONCURRENCY` (default 1 = current behavior), stub-test the
+    locking + ordering, then enable at modest concurrency. Version-control before activating.
