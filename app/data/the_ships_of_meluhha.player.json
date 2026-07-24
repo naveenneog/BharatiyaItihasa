@@ -1,0 +1,4212 @@
+{
+  "id": "the_ships_of_meluhha",
+  "title": "The Ships of Meluhha",
+  "title_i18n": {
+    "en": "The Ships of Meluhha",
+    "hi": "मेलुह्हा के जहाज़"
+  },
+  "figure": "Harappan Sea Traders",
+  "era": "Harappan-Mesopotamian trade, c. 2500-1900 BCE",
+  "moral": "Trade turns distant shores into neighbours.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_ships_of_meluhha/intro/hero.png",
+      "name": "Harappan Sea Trader of Lothal",
+      "epithets": [
+        "Merchants of Meluhha",
+        "Harappan Sea Traders",
+        "Sailors of the Indus",
+        "Masters of the Gulf Route"
+      ],
+      "legend": "From silent seals, their ships still cross the western seas.",
+      "era": "Harappan-Mesopotamian trade, c. 2500-1900 BCE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "They carved seals, loaded beads, and sailed from Indus creeks to distant kings. Each voyage from Lothal to Ur risked storm, reef and hunger for wealth and kin.",
+            "hi": "वे मुहरें गढ़ते, मनके भरते, और सिन्धु की खाड़ियों से दूर देशों के राजाओं तक जहाज़ चलाते थे। हर यात्रा, लोथल से ऊर तक, तूफ़ान, चट्टान और भूख का जुआ थी — दौलत और अपनों के लिए।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/intro/hero_en.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "They",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "carved",
+                "t": 364.0,
+                "d": 333.0
+              },
+              {
+                "w": "seals",
+                "t": 697.0,
+                "d": 750.0
+              },
+              {
+                "w": "loaded",
+                "t": 1489.0,
+                "d": 541.0
+              },
+              {
+                "w": "beads",
+                "t": 2031.0,
+                "d": 625.0
+              },
+              {
+                "w": "and",
+                "t": 2697.0,
+                "d": 415.0
+              },
+              {
+                "w": "sailed",
+                "t": 3113.0,
+                "d": 375.0
+              },
+              {
+                "w": "from",
+                "t": 3488.0,
+                "d": 251.0
+              },
+              {
+                "w": "Indus",
+                "t": 3739.0,
+                "d": 415.0
+              },
+              {
+                "w": "creeks",
+                "t": 4155.0,
+                "d": 417.0
+              },
+              {
+                "w": "to",
+                "t": 4572.0,
+                "d": 125.0
+              },
+              {
+                "w": "distant",
+                "t": 4697.0,
+                "d": 500.0
+              },
+              {
+                "w": "kings",
+                "t": 5197.0,
+                "d": 791.0
+              },
+              {
+                "w": "Each",
+                "t": 6239.0,
+                "d": 375.0
+              },
+              {
+                "w": "voyage",
+                "t": 6614.0,
+                "d": 458.0
+              },
+              {
+                "w": "from",
+                "t": 7072.0,
+                "d": 208.0
+              },
+              {
+                "w": "Lothal",
+                "t": 7281.0,
+                "d": 500.0
+              },
+              {
+                "w": "to",
+                "t": 7781.0,
+                "d": 333.0
+              },
+              {
+                "w": "Ur",
+                "t": 8114.0,
+                "d": 83.0
+              },
+              {
+                "w": "risked",
+                "t": 8197.0,
+                "d": 290.0
+              },
+              {
+                "w": "storm",
+                "t": 8488.0,
+                "d": 917.0
+              },
+              {
+                "w": "reef",
+                "t": 9446.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 9906.0,
+                "d": 166.0
+              },
+              {
+                "w": "hunger",
+                "t": 10072.0,
+                "d": 375.0
+              },
+              {
+                "w": "for",
+                "t": 10447.0,
+                "d": 207.0
+              },
+              {
+                "w": "wealth",
+                "t": 10655.0,
+                "d": 376.0
+              },
+              {
+                "w": "and",
+                "t": 11114.0,
+                "d": 291.0
+              },
+              {
+                "w": "kin",
+                "t": 11406.0,
+                "d": 457.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_ships_of_meluhha/intro/map.png",
+      "x": 0.37,
+      "y": 0.47,
+      "label": "Lothal & Gulf of Khambhat, Gujarat",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here muddy creeks meet the open sea, and Harappan boats slip out toward Dilmun, Magan, and shining Sumerian cities.",
+            "hi": "यहीं कीचड़ भरी नदियाँ सागर से मिलती हैं, और हड़प्पा की नावें दिल्मुन, मagan और चमकते सुमेरी नगरों की ओर फिसल जाती हैं।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/intro/map_en.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "muddy",
+                "t": 402.0,
+                "d": 413.0
+              },
+              {
+                "w": "creeks",
+                "t": 816.0,
+                "d": 459.0
+              },
+              {
+                "w": "meet",
+                "t": 1275.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 1597.0,
+                "d": 137.0
+              },
+              {
+                "w": "open",
+                "t": 1735.0,
+                "d": 367.0
+              },
+              {
+                "w": "sea",
+                "t": 2103.0,
+                "d": 321.0
+              },
+              {
+                "w": "and",
+                "t": 2931.0,
+                "d": 274.0
+              },
+              {
+                "w": "Harappan",
+                "t": 3205.0,
+                "d": 506.0
+              },
+              {
+                "w": "boats",
+                "t": 3712.0,
+                "d": 367.0
+              },
+              {
+                "w": "slip",
+                "t": 4080.0,
+                "d": 551.0
+              },
+              {
+                "w": "out",
+                "t": 4632.0,
+                "d": 183.0
+              },
+              {
+                "w": "toward",
+                "t": 4816.0,
+                "d": 459.0
+              },
+              {
+                "w": "Dilmun",
+                "t": 5275.0,
+                "d": 505.0
+              },
+              {
+                "w": "Magan",
+                "t": 5781.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 6425.0,
+                "d": 413.0
+              },
+              {
+                "w": "shining",
+                "t": 6839.0,
+                "d": 505.0
+              },
+              {
+                "w": "Sumerian",
+                "t": 7344.0,
+                "d": 689.0
+              },
+              {
+                "w": "cities",
+                "t": 8034.0,
+                "d": 873.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_ships_of_meluhha/img/cover.png",
+      "shot": "sweeping low-angle hero wide",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the age of baked brick and silent seals, the ships of Meluhha carried the Indus to the lands of Sumer and Akkad.",
+            "hi": "पकी ईंटों और मौन मुहरों के युग में, मेलुह्हा के जहाज़ सिंधु को सूमेर और अक्कद की धरती तक ले जाते थे।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/cover_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 170.0
+              },
+              {
+                "w": "age",
+                "t": 457.0,
+                "d": 170.0
+              },
+              {
+                "w": "of",
+                "t": 627.0,
+                "d": 170.0
+              },
+              {
+                "w": "baked",
+                "t": 797.0,
+                "d": 297.0
+              },
+              {
+                "w": "brick",
+                "t": 1095.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 1478.0,
+                "d": 127.0
+              },
+              {
+                "w": "silent",
+                "t": 1606.0,
+                "d": 468.0
+              },
+              {
+                "w": "seals",
+                "t": 2074.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 3052.0,
+                "d": 171.0
+              },
+              {
+                "w": "ships",
+                "t": 3223.0,
+                "d": 339.0
+              },
+              {
+                "w": "of",
+                "t": 3562.0,
+                "d": 213.0
+              },
+              {
+                "w": "Meluhha",
+                "t": 3776.0,
+                "d": 553.0
+              },
+              {
+                "w": "carried",
+                "t": 4329.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 4712.0,
+                "d": 212.0
+              },
+              {
+                "w": "Indus",
+                "t": 4925.0,
+                "d": 595.0
+              },
+              {
+                "w": "to",
+                "t": 5521.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 5734.0,
+                "d": 127.0
+              },
+              {
+                "w": "lands",
+                "t": 5861.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 6244.0,
+                "d": 212.0
+              },
+              {
+                "w": "Sumer",
+                "t": 6457.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 7010.0,
+                "d": 255.0
+              },
+              {
+                "w": "Akkad",
+                "t": 7265.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_ships_of_meluhha/img/p01.png",
+      "shot": "epic bird's-eye wide",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Around 2500 BCE, from Harappa to Mohenjo-daro, a quiet civilisation of brick and order spread along the rivers that fed the western sea.",
+            "hi": "करीब २५०० ईसा पूर्व, हरप्पा से मोहनजोदड़ो तक, ईंट और अनुशासन की शांत सभ्यता उन नदियों के सहारे फैली जो पश्चिमी सागर में गिरती थीं।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p01_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Around",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "2500",
+                "t": 457.0,
+                "d": 935.0
+              },
+              {
+                "w": "BCE",
+                "t": 1393.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 2498.0,
+                "d": 341.0
+              },
+              {
+                "w": "Harappa",
+                "t": 2840.0,
+                "d": 553.0
+              },
+              {
+                "w": "to",
+                "t": 3393.0,
+                "d": 126.0
+              },
+              {
+                "w": "Mohenjo-daro",
+                "t": 3520.0,
+                "d": 723.0
+              },
+              {
+                "w": "a",
+                "t": 4755.0,
+                "d": 212.0
+              },
+              {
+                "w": "quiet",
+                "t": 4968.0,
+                "d": 297.0
+              },
+              {
+                "w": "civilisation",
+                "t": 5308.0,
+                "d": 723.0
+              },
+              {
+                "w": "of",
+                "t": 6031.0,
+                "d": 127.0
+              },
+              {
+                "w": "brick",
+                "t": 6159.0,
+                "d": 297.0
+              },
+              {
+                "w": "and",
+                "t": 6457.0,
+                "d": 127.0
+              },
+              {
+                "w": "order",
+                "t": 6585.0,
+                "d": 425.0
+              },
+              {
+                "w": "spread",
+                "t": 7180.0,
+                "d": 425.0
+              },
+              {
+                "w": "along",
+                "t": 7606.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 7904.0,
+                "d": 127.0
+              },
+              {
+                "w": "rivers",
+                "t": 8031.0,
+                "d": 425.0
+              },
+              {
+                "w": "that",
+                "t": 8457.0,
+                "d": 211.0
+              },
+              {
+                "w": "fed",
+                "t": 8669.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 9009.0,
+                "d": 170.0
+              },
+              {
+                "w": "western",
+                "t": 9179.0,
+                "d": 468.0
+              },
+              {
+                "w": "sea",
+                "t": 9647.0,
+                "d": 384.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_ships_of_meluhha/img/p02.png",
+      "shot": "slow push-in street-level",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Its strength was not in kings carved on stone, but in craftsmen, merchants and measured streets, in weights, seals and the rhythm of steady exchange.",
+            "hi": "उसकी ताकत पत्थर पर खुदे राजाओं में नहीं, बल्कि कारीगरों, सौदागरों, नपी-तुली गलियों, बाटों, मुहरों और स्थिर लेन-देन की धुन में थी।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p02_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Its",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "strength",
+                "t": 329.0,
+                "d": 425.0
+              },
+              {
+                "w": "was",
+                "t": 755.0,
+                "d": 297.0
+              },
+              {
+                "w": "not",
+                "t": 1053.0,
+                "d": 297.0
+              },
+              {
+                "w": "in",
+                "t": 1351.0,
+                "d": 212.0
+              },
+              {
+                "w": "kings",
+                "t": 1563.0,
+                "d": 382.0
+              },
+              {
+                "w": "carved",
+                "t": 1946.0,
+                "d": 382.0
+              },
+              {
+                "w": "on",
+                "t": 2329.0,
+                "d": 169.0
+              },
+              {
+                "w": "stone",
+                "t": 2498.0,
+                "d": 680.0
+              },
+              {
+                "w": "but",
+                "t": 3223.0,
+                "d": 296.0
+              },
+              {
+                "w": "in",
+                "t": 3520.0,
+                "d": 170.0
+              },
+              {
+                "w": "craftsmen",
+                "t": 3690.0,
+                "d": 852.0
+              },
+              {
+                "w": "merchants",
+                "t": 4542.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 5351.0,
+                "d": 297.0
+              },
+              {
+                "w": "measured",
+                "t": 5648.0,
+                "d": 340.0
+              },
+              {
+                "w": "streets",
+                "t": 5989.0,
+                "d": 808.0
+              },
+              {
+                "w": "in",
+                "t": 6968.0,
+                "d": 255.0
+              },
+              {
+                "w": "weights",
+                "t": 7223.0,
+                "d": 425.0
+              },
+              {
+                "w": "seals",
+                "t": 7648.0,
+                "d": 1190.0
+              },
+              {
+                "w": "and",
+                "t": 8839.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 9094.0,
+                "d": 128.0
+              },
+              {
+                "w": "rhythm",
+                "t": 9223.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 9521.0,
+                "d": 85.0
+              },
+              {
+                "w": "steady",
+                "t": 9606.0,
+                "d": 340.0
+              },
+              {
+                "w": "exchange",
+                "t": 9946.0,
+                "d": 850.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_ships_of_meluhha/img/p03.png",
+      "shot": "high-angle view over dock basin",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On the Gulf of Khambhat, at Lothal, they built a great brick basin by an ancient channel, likely a dock where river and sea-borne craft gathered with the tides.",
+            "hi": "खंभात की खाड़ी पर लोथल में, उन्होंने पुराने चैनल के किनारे ईंटों का बड़ा घाट बनाया—शायद ऐसा गोदी जहाँ नदी और सागर की नावें ज्वार के साथ जुटती थीं।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p03_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "Gulf",
+                "t": 414.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 670.0,
+                "d": 127.0
+              },
+              {
+                "w": "Khambhat",
+                "t": 797.0,
+                "d": 425.0
+              },
+              {
+                "w": "at",
+                "t": 1223.0,
+                "d": 85.0
+              },
+              {
+                "w": "Lothal",
+                "t": 1308.0,
+                "d": 1190.0
+              },
+              {
+                "w": "they",
+                "t": 2925.0,
+                "d": 254.0
+              },
+              {
+                "w": "built",
+                "t": 3179.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 3393.0,
+                "d": 85.0
+              },
+              {
+                "w": "great",
+                "t": 3478.0,
+                "d": 340.0
+              },
+              {
+                "w": "brick",
+                "t": 3819.0,
+                "d": 296.0
+              },
+              {
+                "w": "basin",
+                "t": 4115.0,
+                "d": 511.0
+              },
+              {
+                "w": "by",
+                "t": 4627.0,
+                "d": 170.0
+              },
+              {
+                "w": "an",
+                "t": 4797.0,
+                "d": 127.0
+              },
+              {
+                "w": "ancient",
+                "t": 4925.0,
+                "d": 510.0
+              },
+              {
+                "w": "channel",
+                "t": 5436.0,
+                "d": 680.0
+              },
+              {
+                "w": "likely",
+                "t": 6457.0,
+                "d": 468.0
+              },
+              {
+                "w": "a",
+                "t": 6925.0,
+                "d": 127.0
+              },
+              {
+                "w": "dock",
+                "t": 7053.0,
+                "d": 340.0
+              },
+              {
+                "w": "where",
+                "t": 7393.0,
+                "d": 255.0
+              },
+              {
+                "w": "river",
+                "t": 7648.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 8202.0,
+                "d": 424.0
+              },
+              {
+                "w": "sea-borne",
+                "t": 8626.0,
+                "d": 511.0
+              },
+              {
+                "w": "craft",
+                "t": 9138.0,
+                "d": 468.0
+              },
+              {
+                "w": "gathered",
+                "t": 9606.0,
+                "d": 381.0
+              },
+              {
+                "w": "with",
+                "t": 9988.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 10158.0,
+                "d": 128.0
+              },
+              {
+                "w": "tides",
+                "t": 10287.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_ships_of_meluhha/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_ships_of_meluhha/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With monsoon charts in his mind, he commits his cargo and crew to the uncertain pulse of the Arabian Sea.",
+            "hi": "मानसून के नक्शे दिमाग में लिए, वह अपना माल और दल अरबी सागर की अनजान धड़कन पर सौंप देता है।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 126.0,
+                "d": 321.0
+              },
+              {
+                "w": "monsoon",
+                "t": 448.0,
+                "d": 505.0
+              },
+              {
+                "w": "charts",
+                "t": 954.0,
+                "d": 367.0
+              },
+              {
+                "w": "in",
+                "t": 1321.0,
+                "d": 91.0
+              },
+              {
+                "w": "his",
+                "t": 1413.0,
+                "d": 137.0
+              },
+              {
+                "w": "mind",
+                "t": 1551.0,
+                "d": 643.0
+              },
+              {
+                "w": "he",
+                "t": 2241.0,
+                "d": 275.0
+              },
+              {
+                "w": "commits",
+                "t": 2517.0,
+                "d": 367.0
+              },
+              {
+                "w": "his",
+                "t": 2885.0,
+                "d": 183.0
+              },
+              {
+                "w": "cargo",
+                "t": 3068.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 3482.0,
+                "d": 183.0
+              },
+              {
+                "w": "crew",
+                "t": 3666.0,
+                "d": 551.0
+              },
+              {
+                "w": "to",
+                "t": 4355.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 4539.0,
+                "d": 185.0
+              },
+              {
+                "w": "uncertain",
+                "t": 4724.0,
+                "d": 735.0
+              },
+              {
+                "w": "pulse",
+                "t": 5459.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 5873.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 5965.0,
+                "d": 229.0
+              },
+              {
+                "w": "Arabian",
+                "t": 6195.0,
+                "d": 505.0
+              },
+              {
+                "w": "Sea",
+                "t": 6701.0,
+                "d": 367.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_ships_of_meluhha/img/p04.png",
+      "shot": "medium shot from behind trader",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Gujarat's bead-makers and Sindh's ivory carvers, from copper workers and sesame fields, goods flowed down to these tidal edges, weighed and sealed for distant mouths.",
+            "hi": "गुजरात के मनके-कारों और सिंध के हाथी-दाँत काटने वालों से, ताँबा-कारों और तिल के खेतों से, माल ज्वारी किनारों तक बहता आया, तौला और सील किया गया दूर के मुँहों के लिए।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p04_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "Gujarat's",
+                "t": 372.0,
+                "d": 638.0
+              },
+              {
+                "w": "bead-makers",
+                "t": 1010.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 1861.0,
+                "d": 212.0
+              },
+              {
+                "w": "Sindh's",
+                "t": 2074.0,
+                "d": 552.0
+              },
+              {
+                "w": "ivory",
+                "t": 2626.0,
+                "d": 510.0
+              },
+              {
+                "w": "carvers",
+                "t": 3137.0,
+                "d": 936.0
+              },
+              {
+                "w": "from",
+                "t": 4201.0,
+                "d": 384.0
+              },
+              {
+                "w": "copper",
+                "t": 4585.0,
+                "d": 340.0
+              },
+              {
+                "w": "workers",
+                "t": 4925.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 5521.0,
+                "d": 170.0
+              },
+              {
+                "w": "sesame",
+                "t": 5691.0,
+                "d": 468.0
+              },
+              {
+                "w": "fields",
+                "t": 6159.0,
+                "d": 595.0
+              },
+              {
+                "w": "goods",
+                "t": 7180.0,
+                "d": 425.0
+              },
+              {
+                "w": "flowed",
+                "t": 7606.0,
+                "d": 340.0
+              },
+              {
+                "w": "down",
+                "t": 7946.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 8202.0,
+                "d": 127.0
+              },
+              {
+                "w": "these",
+                "t": 8329.0,
+                "d": 296.0
+              },
+              {
+                "w": "tidal",
+                "t": 8626.0,
+                "d": 382.0
+              },
+              {
+                "w": "edges",
+                "t": 9009.0,
+                "d": 808.0
+              },
+              {
+                "w": "weighed",
+                "t": 10202.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 10925.0,
+                "d": 381.0
+              },
+              {
+                "w": "sealed",
+                "t": 11307.0,
+                "d": 384.0
+              },
+              {
+                "w": "for",
+                "t": 11691.0,
+                "d": 212.0
+              },
+              {
+                "w": "distant",
+                "t": 11904.0,
+                "d": 510.0
+              },
+              {
+                "w": "mouths",
+                "t": 12414.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_ships_of_meluhha/img/p05.png",
+      "shot": "close-up on hands and seal",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Each package bore a mark: an animal, a sign, perhaps a name. Stone weights, carefully graded, turned trust into number, and number into trade.",
+            "hi": "हर पार्सल पर कोई निशान था: कोई जानवर, कोई चिह्न, शायद कोई नाम। तराशे पत्थर के बाटों ने भरोसे को गिनती में, और गिनती को कारोबार में बदला।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p05_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Each",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "package",
+                "t": 457.0,
+                "d": 510.0
+              },
+              {
+                "w": "bore",
+                "t": 968.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 1223.0,
+                "d": 42.0
+              },
+              {
+                "w": "mark",
+                "t": 1265.0,
+                "d": 765.0
+              },
+              {
+                "w": "an",
+                "t": 2031.0,
+                "d": 212.0
+              },
+              {
+                "w": "animal",
+                "t": 2244.0,
+                "d": 680.0
+              },
+              {
+                "w": "a",
+                "t": 2967.0,
+                "d": 170.0
+              },
+              {
+                "w": "sign",
+                "t": 3137.0,
+                "d": 510.0
+              },
+              {
+                "w": "perhaps",
+                "t": 3861.0,
+                "d": 425.0
+              },
+              {
+                "w": "a",
+                "t": 4287.0,
+                "d": 85.0
+              },
+              {
+                "w": "name",
+                "t": 4372.0,
+                "d": 553.0
+              },
+              {
+                "w": "Stone",
+                "t": 5308.0,
+                "d": 468.0
+              },
+              {
+                "w": "weights",
+                "t": 5776.0,
+                "d": 680.0
+              },
+              {
+                "w": "carefully",
+                "t": 6585.0,
+                "d": 553.0
+              },
+              {
+                "w": "graded",
+                "t": 7138.0,
+                "d": 978.0
+              },
+              {
+                "w": "turned",
+                "t": 8117.0,
+                "d": 255.0
+              },
+              {
+                "w": "trust",
+                "t": 8372.0,
+                "d": 339.0
+              },
+              {
+                "w": "into",
+                "t": 8711.0,
+                "d": 256.0
+              },
+              {
+                "w": "number",
+                "t": 8968.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 9606.0,
+                "d": 340.0
+              },
+              {
+                "w": "number",
+                "t": 9946.0,
+                "d": 425.0
+              },
+              {
+                "w": "into",
+                "t": 10372.0,
+                "d": 339.0
+              },
+              {
+                "w": "trade",
+                "t": 10711.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_ships_of_meluhha/img/p06.png",
+      "shot": "wide shot of dock bustle",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Scholars still debate every brick, but by shore and palaeochannel, Lothal looks like a port town, its basin and warehouses tuned to the pull of the Arabian Sea.",
+            "hi": "विद्वान आज भी हर ईंट पर बहस करते हैं, पर किनारे और पुराने जलमार्ग बैठा कर देखें तो लोथल एक बंदरगाह नगर लगता है, जिसकी झील और गोदाम अरब सागर की लय पर सधे थे।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p06_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Scholars",
+                "t": 74.0,
+                "d": 553.0
+              },
+              {
+                "w": "still",
+                "t": 627.0,
+                "d": 340.0
+              },
+              {
+                "w": "debate",
+                "t": 968.0,
+                "d": 382.0
+              },
+              {
+                "w": "every",
+                "t": 1351.0,
+                "d": 468.0
+              },
+              {
+                "w": "brick",
+                "t": 1819.0,
+                "d": 510.0
+              },
+              {
+                "w": "but",
+                "t": 2498.0,
+                "d": 298.0
+              },
+              {
+                "w": "by",
+                "t": 2797.0,
+                "d": 211.0
+              },
+              {
+                "w": "shore",
+                "t": 3009.0,
+                "d": 384.0
+              },
+              {
+                "w": "and",
+                "t": 3393.0,
+                "d": 211.0
+              },
+              {
+                "w": "palaeochannel",
+                "t": 3605.0,
+                "d": 979.0
+              },
+              {
+                "w": "Lothal",
+                "t": 4840.0,
+                "d": 553.0
+              },
+              {
+                "w": "looks",
+                "t": 5393.0,
+                "d": 297.0
+              },
+              {
+                "w": "like",
+                "t": 5691.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 5861.0,
+                "d": 85.0
+              },
+              {
+                "w": "port",
+                "t": 5946.0,
+                "d": 297.0
+              },
+              {
+                "w": "town",
+                "t": 6244.0,
+                "d": 595.0
+              },
+              {
+                "w": "its",
+                "t": 7095.0,
+                "d": 255.0
+              },
+              {
+                "w": "basin",
+                "t": 7351.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 8031.0,
+                "d": 212.0
+              },
+              {
+                "w": "warehouses",
+                "t": 8244.0,
+                "d": 638.0
+              },
+              {
+                "w": "tuned",
+                "t": 8882.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 9223.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 9436.0,
+                "d": 211.0
+              },
+              {
+                "w": "pull",
+                "t": 9647.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 9946.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 10117.0,
+                "d": 170.0
+              },
+              {
+                "w": "Arabian",
+                "t": 10287.0,
+                "d": 468.0
+              },
+              {
+                "w": "Sea",
+                "t": 10755.0,
+                "d": 255.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_ships_of_meluhha/img/p07.png",
+      "shot": "low-angle shot of loaded boat departing",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From such creeks, Harappan craft slipped out with the tides, hugging coasts and islands, moving slowly west towards Dilmun and Magan, stepping-stones on the road to Mesopotamia.",
+            "hi": "ऐसी ही खाड़ियों से हरप्पन नावें ज्वार के साथ फिसलती निकलतीं, तट और टापू पकड़े, धीमे-धीमे दिलमुन और मगन की ओर, मेसोपोटामिया जाने वाली सीढ़ियों की तरह बढ़तीं।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p07_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "such",
+                "t": 414.0,
+                "d": 340.0
+              },
+              {
+                "w": "creeks",
+                "t": 755.0,
+                "d": 680.0
+              },
+              {
+                "w": "Harappan",
+                "t": 1563.0,
+                "d": 638.0
+              },
+              {
+                "w": "craft",
+                "t": 2202.0,
+                "d": 339.0
+              },
+              {
+                "w": "slipped",
+                "t": 2541.0,
+                "d": 425.0
+              },
+              {
+                "w": "out",
+                "t": 2967.0,
+                "d": 170.0
+              },
+              {
+                "w": "with",
+                "t": 3137.0,
+                "d": 171.0
+              },
+              {
+                "w": "the",
+                "t": 3308.0,
+                "d": 127.0
+              },
+              {
+                "w": "tides",
+                "t": 3436.0,
+                "d": 722.0
+              },
+              {
+                "w": "hugging",
+                "t": 4287.0,
+                "d": 553.0
+              },
+              {
+                "w": "coasts",
+                "t": 4840.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 5223.0,
+                "d": 127.0
+              },
+              {
+                "w": "islands",
+                "t": 5351.0,
+                "d": 765.0
+              },
+              {
+                "w": "moving",
+                "t": 6287.0,
+                "d": 425.0
+              },
+              {
+                "w": "slowly",
+                "t": 6712.0,
+                "d": 468.0
+              },
+              {
+                "w": "west",
+                "t": 7180.0,
+                "d": 297.0
+              },
+              {
+                "w": "towards",
+                "t": 7478.0,
+                "d": 468.0
+              },
+              {
+                "w": "Dilmun",
+                "t": 7946.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 8414.0,
+                "d": 211.0
+              },
+              {
+                "w": "Magan",
+                "t": 8626.0,
+                "d": 724.0
+              },
+              {
+                "w": "stepping-stones",
+                "t": 9563.0,
+                "d": 893.0
+              },
+              {
+                "w": "on",
+                "t": 10457.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 10670.0,
+                "d": 126.0
+              },
+              {
+                "w": "road",
+                "t": 10796.0,
+                "d": 298.0
+              },
+              {
+                "w": "to",
+                "t": 11095.0,
+                "d": 126.0
+              },
+              {
+                "w": "Mesopotamia",
+                "t": 11222.0,
+                "d": 1063.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_ships_of_meluhha/img/p08.png",
+      "shot": "wide seascape mid-journey",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Not every sailor from the Indus reached Ur or Kish. Often, middlemen of Dilmun and Magan carried Meluhhan wares onwards, passing carnelian and copper like whispers down the Gulf.",
+            "hi": "हर सिंधु नाविक ऊर या किश तक न पहुँचता था। अक्सर दिलमुन और मगन के बिचौलिए ही मेलुह्हा का सामान आगे ले जाते, लाल माणिक और ताँबा फुसफुसाहटों की तरह खाड़ी में पास करते।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p08_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Not",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "every",
+                "t": 372.0,
+                "d": 425.0
+              },
+              {
+                "w": "sailor",
+                "t": 797.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 1180.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 1393.0,
+                "d": 170.0
+              },
+              {
+                "w": "Indus",
+                "t": 1563.0,
+                "d": 382.0
+              },
+              {
+                "w": "reached",
+                "t": 1946.0,
+                "d": 382.0
+              },
+              {
+                "w": "Ur",
+                "t": 2414.0,
+                "d": 255.0
+              },
+              {
+                "w": "or",
+                "t": 2670.0,
+                "d": 255.0
+              },
+              {
+                "w": "Kish",
+                "t": 2925.0,
+                "d": 893.0
+              },
+              {
+                "w": "Often",
+                "t": 4073.0,
+                "d": 596.0
+              },
+              {
+                "w": "middlemen",
+                "t": 4968.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 5521.0,
+                "d": 170.0
+              },
+              {
+                "w": "Dilmun",
+                "t": 5691.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 6074.0,
+                "d": 255.0
+              },
+              {
+                "w": "Magan",
+                "t": 6329.0,
+                "d": 340.0
+              },
+              {
+                "w": "carried",
+                "t": 6670.0,
+                "d": 382.0
+              },
+              {
+                "w": "Meluhhan",
+                "t": 7053.0,
+                "d": 510.0
+              },
+              {
+                "w": "wares",
+                "t": 7563.0,
+                "d": 255.0
+              },
+              {
+                "w": "onwards",
+                "t": 7819.0,
+                "d": 807.0
+              },
+              {
+                "w": "passing",
+                "t": 8968.0,
+                "d": 468.0
+              },
+              {
+                "w": "carnelian",
+                "t": 9436.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 10031.0,
+                "d": 255.0
+              },
+              {
+                "w": "copper",
+                "t": 10287.0,
+                "d": 723.0
+              },
+              {
+                "w": "like",
+                "t": 11095.0,
+                "d": 296.0
+              },
+              {
+                "w": "whispers",
+                "t": 11392.0,
+                "d": 638.0
+              },
+              {
+                "w": "down",
+                "t": 12030.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 12244.0,
+                "d": 126.0
+              },
+              {
+                "w": "Gulf",
+                "t": 12371.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_ships_of_meluhha/img/p09.png",
+      "shot": "establishing wide of Dilmun harbour",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On islands we now call Bahrain and its neighbours, ancient Dilmun watched both east and west. Here, texts speak of Meluhhan ships and goods, and Harappan beads have turned up in the soil.",
+            "hi": "जिन द्वीपों को आज हम बहरीन और उसके पड़ोसी कहते हैं, वहाँ पुराना दिलमुन पूरब और पश्चिम दोनों पर नज़र रखता था। यहीं के लेखों में मेलुह्हा के जहाज़ों और माल का ज़िक्र है, और मिट्टी में हरप्पा के मनके मिले हैं।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p09_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "islands",
+                "t": 356.0,
+                "d": 459.0
+              },
+              {
+                "w": "we",
+                "t": 816.0,
+                "d": 183.0
+              },
+              {
+                "w": "now",
+                "t": 1000.0,
+                "d": 275.0
+              },
+              {
+                "w": "call",
+                "t": 1275.0,
+                "d": 275.0
+              },
+              {
+                "w": "Bahrain",
+                "t": 1551.0,
+                "d": 643.0
+              },
+              {
+                "w": "and",
+                "t": 2195.0,
+                "d": 229.0
+              },
+              {
+                "w": "its",
+                "t": 2425.0,
+                "d": 228.0
+              },
+              {
+                "w": "neighbours",
+                "t": 2654.0,
+                "d": 781.0
+              },
+              {
+                "w": "ancient",
+                "t": 3574.0,
+                "d": 689.0
+              },
+              {
+                "w": "Dilmun",
+                "t": 4264.0,
+                "d": 551.0
+              },
+              {
+                "w": "watched",
+                "t": 4862.0,
+                "d": 459.0
+              },
+              {
+                "w": "both",
+                "t": 5321.0,
+                "d": 321.0
+              },
+              {
+                "w": "east",
+                "t": 5689.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 6103.0,
+                "d": 275.0
+              },
+              {
+                "w": "west",
+                "t": 6379.0,
+                "d": 873.0
+              },
+              {
+                "w": "Here",
+                "t": 7390.0,
+                "d": 873.0
+              },
+              {
+                "w": "texts",
+                "t": 8310.0,
+                "d": 551.0
+              },
+              {
+                "w": "speak",
+                "t": 8862.0,
+                "d": 366.0
+              },
+              {
+                "w": "of",
+                "t": 9228.0,
+                "d": 183.0
+              },
+              {
+                "w": "Meluhhan",
+                "t": 9412.0,
+                "d": 552.0
+              },
+              {
+                "w": "ships",
+                "t": 9965.0,
+                "d": 321.0
+              },
+              {
+                "w": "and",
+                "t": 10287.0,
+                "d": 136.0
+              },
+              {
+                "w": "goods",
+                "t": 10424.0,
+                "d": 598.0
+              },
+              {
+                "w": "and",
+                "t": 11436.0,
+                "d": 275.0
+              },
+              {
+                "w": "Harappan",
+                "t": 11712.0,
+                "d": 551.0
+              },
+              {
+                "w": "beads",
+                "t": 12264.0,
+                "d": 367.0
+              },
+              {
+                "w": "have",
+                "t": 12632.0,
+                "d": 229.0
+              },
+              {
+                "w": "turned",
+                "t": 12862.0,
+                "d": 367.0
+              },
+              {
+                "w": "up",
+                "t": 13229.0,
+                "d": 183.0
+              },
+              {
+                "w": "in",
+                "t": 13413.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 13505.0,
+                "d": 183.0
+              },
+              {
+                "w": "soil",
+                "t": 13689.0,
+                "d": 550.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_ships_of_meluhha/img/p10.png",
+      "shot": "interior medium of Dilmun merchant and Meluhhan goods",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "To Gulf traders, Meluhha meant a far river land of red stone beads, ivory, exotic woods and fine black sesame, coming in from the east to be turned westward again.",
+            "hi": "खाड़ी के सौदागरों के लिए मेलुह्हा दूर की नदी-भूमि था—लाल पत्थर के मनके, हाथी-दाँत, अनोखी लकड़ियाँ और महीन काला तिल, जो पूरब से आकर फिर पश्चिम की ओर मुड़ता था।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p10_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "To",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "Gulf",
+                "t": 244.0,
+                "d": 297.0
+              },
+              {
+                "w": "traders",
+                "t": 542.0,
+                "d": 808.0
+              },
+              {
+                "w": "Meluhha",
+                "t": 1436.0,
+                "d": 510.0
+              },
+              {
+                "w": "meant",
+                "t": 1946.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 2287.0,
+                "d": 42.0
+              },
+              {
+                "w": "far",
+                "t": 2329.0,
+                "d": 382.0
+              },
+              {
+                "w": "river",
+                "t": 2712.0,
+                "d": 296.0
+              },
+              {
+                "w": "land",
+                "t": 3009.0,
+                "d": 341.0
+              },
+              {
+                "w": "of",
+                "t": 3351.0,
+                "d": 169.0
+              },
+              {
+                "w": "red",
+                "t": 3520.0,
+                "d": 213.0
+              },
+              {
+                "w": "stone",
+                "t": 3734.0,
+                "d": 381.0
+              },
+              {
+                "w": "beads",
+                "t": 4115.0,
+                "d": 596.0
+              },
+              {
+                "w": "ivory",
+                "t": 4840.0,
+                "d": 936.0
+              },
+              {
+                "w": "exotic",
+                "t": 5776.0,
+                "d": 638.0
+              },
+              {
+                "w": "woods",
+                "t": 6414.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 7180.0,
+                "d": 297.0
+              },
+              {
+                "w": "fine",
+                "t": 7478.0,
+                "d": 382.0
+              },
+              {
+                "w": "black",
+                "t": 7861.0,
+                "d": 255.0
+              },
+              {
+                "w": "sesame",
+                "t": 8117.0,
+                "d": 680.0
+              },
+              {
+                "w": "coming",
+                "t": 9264.0,
+                "d": 341.0
+              },
+              {
+                "w": "in",
+                "t": 9606.0,
+                "d": 126.0
+              },
+              {
+                "w": "from",
+                "t": 9732.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 9946.0,
+                "d": 126.0
+              },
+              {
+                "w": "east",
+                "t": 10073.0,
+                "d": 426.0
+              },
+              {
+                "w": "to",
+                "t": 10500.0,
+                "d": 296.0
+              },
+              {
+                "w": "be",
+                "t": 10796.0,
+                "d": 170.0
+              },
+              {
+                "w": "turned",
+                "t": 10967.0,
+                "d": 425.0
+              },
+              {
+                "w": "westward",
+                "t": 11436.0,
+                "d": 638.0
+              },
+              {
+                "w": "again",
+                "t": 12074.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_ships_of_meluhha/img/p11.png",
+      "shot": "wide shot of Mesopotamian city Ur",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Far up the Gulf, the cities of Sumer and Akkad-Ur, Uruk, Kish-watched the water as keenly as the fields, for from the sea came copper, wood and the rarities of Meluhha.",
+            "hi": "खाड़ी के ऊपरी सिरे पर, सूमेर और अक्कद—ऊर, ऊरुक, किश—के शहर खेतों जितनी तन्मयता से पानी को देखते थे, क्योंकि सागर से ही ताँबा, लकड़ी और मेलुह्हा की दुर्लभ चीज़ें आती थीं।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p11_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Far",
+                "t": 80.0,
+                "d": 459.0
+              },
+              {
+                "w": "up",
+                "t": 540.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 724.0,
+                "d": 137.0
+              },
+              {
+                "w": "Gulf",
+                "t": 862.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 1183.0,
+                "d": 367.0
+              },
+              {
+                "w": "cities",
+                "t": 1827.0,
+                "d": 321.0
+              },
+              {
+                "w": "of",
+                "t": 2471.0,
+                "d": 137.0
+              },
+              {
+                "w": "Sumer",
+                "t": 2609.0,
+                "d": 505.0
+              },
+              {
+                "w": "and",
+                "t": 3114.0,
+                "d": 228.0
+              },
+              {
+                "w": "Akkad-Ur",
+                "t": 3343.0,
+                "d": 690.0
+              },
+              {
+                "w": "Uruk",
+                "t": 4585.0,
+                "d": 874.0
+              },
+              {
+                "w": "Kish-watched",
+                "t": 5505.0,
+                "d": 597.0
+              },
+              {
+                "w": "the",
+                "t": 6103.0,
+                "d": 137.0
+              },
+              {
+                "w": "water",
+                "t": 6241.0,
+                "d": 505.0
+              },
+              {
+                "w": "as",
+                "t": 6747.0,
+                "d": 321.0
+              },
+              {
+                "w": "keenly",
+                "t": 7068.0,
+                "d": 551.0
+              },
+              {
+                "w": "as",
+                "t": 7620.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 7850.0,
+                "d": 137.0
+              },
+              {
+                "w": "fields",
+                "t": 7988.0,
+                "d": 735.0
+              },
+              {
+                "w": "for",
+                "t": 9045.0,
+                "d": 274.0
+              },
+              {
+                "w": "from",
+                "t": 9320.0,
+                "d": 277.0
+              },
+              {
+                "w": "the",
+                "t": 9597.0,
+                "d": 136.0
+              },
+              {
+                "w": "sea",
+                "t": 9734.0,
+                "d": 275.0
+              },
+              {
+                "w": "came",
+                "t": 10010.0,
+                "d": 460.0
+              },
+              {
+                "w": "copper",
+                "t": 10471.0,
+                "d": 781.0
+              },
+              {
+                "w": "wood",
+                "t": 11436.0,
+                "d": 780.0
+              },
+              {
+                "w": "and",
+                "t": 12217.0,
+                "d": 322.0
+              },
+              {
+                "w": "the",
+                "t": 12540.0,
+                "d": 137.0
+              },
+              {
+                "w": "rarities",
+                "t": 12678.0,
+                "d": 688.0
+              },
+              {
+                "w": "of",
+                "t": 13366.0,
+                "d": 231.0
+              },
+              {
+                "w": "Meluhha",
+                "t": 13597.0,
+                "d": 826.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_ships_of_meluhha/img/p12.png",
+      "shot": "close-up of Mesopotamian clay tablet",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Akkadian and Sumerian tablets name this distant source as Meluhha. They list Meluhhan wood, ivory, gemstones and strange goods in contracts and royal boasts.",
+            "hi": "अक्कदी और सूमेरी पट्टिकाएँ इस दूर स्रोत को मेलुह्हा कहती हैं। वे अपने करारनामा और शाही डींगों में मेलुह्हा की लकड़ी, हाथी-दाँत, रत्न और अजीब माल गिनाती हैं।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p12_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Akkadian",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 670.0,
+                "d": 297.0
+              },
+              {
+                "w": "Sumerian",
+                "t": 968.0,
+                "d": 553.0
+              },
+              {
+                "w": "tablets",
+                "t": 1521.0,
+                "d": 468.0
+              },
+              {
+                "w": "name",
+                "t": 1989.0,
+                "d": 212.0
+              },
+              {
+                "w": "this",
+                "t": 2202.0,
+                "d": 212.0
+              },
+              {
+                "w": "distant",
+                "t": 2414.0,
+                "d": 425.0
+              },
+              {
+                "w": "source",
+                "t": 2840.0,
+                "d": 425.0
+              },
+              {
+                "w": "as",
+                "t": 3265.0,
+                "d": 254.0
+              },
+              {
+                "w": "Meluhha",
+                "t": 3520.0,
+                "d": 680.0
+              },
+              {
+                "w": "They",
+                "t": 4755.0,
+                "d": 255.0
+              },
+              {
+                "w": "list",
+                "t": 5010.0,
+                "d": 255.0
+              },
+              {
+                "w": "Meluhhan",
+                "t": 5265.0,
+                "d": 553.0
+              },
+              {
+                "w": "wood",
+                "t": 5819.0,
+                "d": 638.0
+              },
+              {
+                "w": "ivory",
+                "t": 6500.0,
+                "d": 765.0
+              },
+              {
+                "w": "gemstones",
+                "t": 7308.0,
+                "d": 978.0
+              },
+              {
+                "w": "and",
+                "t": 8287.0,
+                "d": 339.0
+              },
+              {
+                "w": "strange",
+                "t": 8626.0,
+                "d": 426.0
+              },
+              {
+                "w": "goods",
+                "t": 9053.0,
+                "d": 297.0
+              },
+              {
+                "w": "in",
+                "t": 9351.0,
+                "d": 127.0
+              },
+              {
+                "w": "contracts",
+                "t": 9478.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 10117.0,
+                "d": 255.0
+              },
+              {
+                "w": "royal",
+                "t": 10372.0,
+                "d": 297.0
+              },
+              {
+                "w": "boasts",
+                "t": 10670.0,
+                "d": 637.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_ships_of_meluhha/img/p13.png",
+      "shot": "medium shot of scribe reading aloud to an official",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When Mesopotamian kings claimed to have ruled or received tribute from Meluhha, their words were part record, part royal self-praise. Historians weigh them carefully against the silent stones.",
+            "hi": "जब मेसोपोटामियन राजा खुद को मेलुह्हा पर राज करने या वहाँ से कर पाने वाला बताते थे, तो उनकी बातें आधी सच्ची ख़बर, आधी शाही शेख़ी होती थीं। इतिहासकार उन्हें चुप पत्थरों के वजन से तौलते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p13_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Mesopotamian",
+                "t": 287.0,
+                "d": 851.0
+              },
+              {
+                "w": "kings",
+                "t": 1138.0,
+                "d": 425.0
+              },
+              {
+                "w": "claimed",
+                "t": 1563.0,
+                "d": 425.0
+              },
+              {
+                "w": "to",
+                "t": 1989.0,
+                "d": 127.0
+              },
+              {
+                "w": "have",
+                "t": 2117.0,
+                "d": 255.0
+              },
+              {
+                "w": "ruled",
+                "t": 2372.0,
+                "d": 425.0
+              },
+              {
+                "w": "or",
+                "t": 2797.0,
+                "d": 169.0
+              },
+              {
+                "w": "received",
+                "t": 2967.0,
+                "d": 426.0
+              },
+              {
+                "w": "tribute",
+                "t": 3393.0,
+                "d": 468.0
+              },
+              {
+                "w": "from",
+                "t": 3861.0,
+                "d": 211.0
+              },
+              {
+                "w": "Meluhha",
+                "t": 4073.0,
+                "d": 639.0
+              },
+              {
+                "w": "their",
+                "t": 5180.0,
+                "d": 340.0
+              },
+              {
+                "w": "words",
+                "t": 5521.0,
+                "d": 425.0
+              },
+              {
+                "w": "were",
+                "t": 5946.0,
+                "d": 212.0
+              },
+              {
+                "w": "part",
+                "t": 6159.0,
+                "d": 340.0
+              },
+              {
+                "w": "record",
+                "t": 6500.0,
+                "d": 765.0
+              },
+              {
+                "w": "part",
+                "t": 7478.0,
+                "d": 382.0
+              },
+              {
+                "w": "royal",
+                "t": 7861.0,
+                "d": 340.0
+              },
+              {
+                "w": "self-praise",
+                "t": 8202.0,
+                "d": 807.0
+              },
+              {
+                "w": "Historians",
+                "t": 9606.0,
+                "d": 765.0
+              },
+              {
+                "w": "weigh",
+                "t": 10372.0,
+                "d": 255.0
+              },
+              {
+                "w": "them",
+                "t": 10627.0,
+                "d": 297.0
+              },
+              {
+                "w": "carefully",
+                "t": 10925.0,
+                "d": 680.0
+              },
+              {
+                "w": "against",
+                "t": 11606.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 12074.0,
+                "d": 126.0
+              },
+              {
+                "w": "silent",
+                "t": 12201.0,
+                "d": 469.0
+              },
+              {
+                "w": "stones",
+                "t": 12670.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_ships_of_meluhha/img/p14.png",
+      "shot": "tabletop close-up at Ur excavation view",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Ur and Kish, excavations have brought up Harappan seals and etched carnelian beads, quiet proof that Meluhhan merchants, their agents or their wares reached these river cities.",
+            "hi": "ऊर और किश की खुदाइयों से हरप्पन मुहरें और नक्काशीदार लाल माणिक मनके निकले हैं—यह शांत सबूत कि मेलुह्हा के व्यापारी, उनके कारिंदे या उनका सामान वहाँ की नदी-नगरियों तक पहुँचा।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p14_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "Ur",
+                "t": 457.0,
+                "d": 170.0
+              },
+              {
+                "w": "and",
+                "t": 627.0,
+                "d": 212.0
+              },
+              {
+                "w": "Kish",
+                "t": 840.0,
+                "d": 638.0
+              },
+              {
+                "w": "excavations",
+                "t": 1734.0,
+                "d": 764.0
+              },
+              {
+                "w": "have",
+                "t": 2498.0,
+                "d": 171.0
+              },
+              {
+                "w": "brought",
+                "t": 2670.0,
+                "d": 424.0
+              },
+              {
+                "w": "up",
+                "t": 3094.0,
+                "d": 85.0
+              },
+              {
+                "w": "Harappan",
+                "t": 3179.0,
+                "d": 340.0
+              },
+              {
+                "w": "seals",
+                "t": 3520.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 4073.0,
+                "d": 298.0
+              },
+              {
+                "w": "etched",
+                "t": 4372.0,
+                "d": 382.0
+              },
+              {
+                "w": "carnelian",
+                "t": 4755.0,
+                "d": 595.0
+              },
+              {
+                "w": "beads",
+                "t": 5351.0,
+                "d": 595.0
+              },
+              {
+                "w": "quiet",
+                "t": 6414.0,
+                "d": 340.0
+              },
+              {
+                "w": "proof",
+                "t": 6755.0,
+                "d": 255.0
+              },
+              {
+                "w": "that",
+                "t": 7010.0,
+                "d": 212.0
+              },
+              {
+                "w": "Meluhhan",
+                "t": 7223.0,
+                "d": 468.0
+              },
+              {
+                "w": "merchants",
+                "t": 7691.0,
+                "d": 765.0
+              },
+              {
+                "w": "their",
+                "t": 8711.0,
+                "d": 341.0
+              },
+              {
+                "w": "agents",
+                "t": 9053.0,
+                "d": 808.0
+              },
+              {
+                "w": "or",
+                "t": 9903.0,
+                "d": 170.0
+              },
+              {
+                "w": "their",
+                "t": 10073.0,
+                "d": 255.0
+              },
+              {
+                "w": "wares",
+                "t": 10328.0,
+                "d": 298.0
+              },
+              {
+                "w": "reached",
+                "t": 10627.0,
+                "d": 339.0
+              },
+              {
+                "w": "these",
+                "t": 10967.0,
+                "d": 255.0
+              },
+              {
+                "w": "river",
+                "t": 11222.0,
+                "d": 256.0
+              },
+              {
+                "w": "cities",
+                "t": 11478.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_ships_of_meluhha/img/p15.png",
+      "shot": "imaginative cross-cultural market scene, medium wide",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "We do not know every face or language at those meetings. But between Meluhha, Dilmun, Magan and Mesopotamia, a chain of ports and people turned the sea into a trading road.",
+            "hi": "हम उन मुलाक़ातों के हर चेहरे और भाषा को नहीं जानते। मगर मेलुह्हा, दिलमुन, मगन और मेसोपोटामिया के बीच बंदरगाहों और लोगों की कड़ी ने सागर को व्यापार की सड़क बना दिया।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p15_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "do",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "not",
+                "t": 414.0,
+                "d": 255.0
+              },
+              {
+                "w": "know",
+                "t": 670.0,
+                "d": 212.0
+              },
+              {
+                "w": "every",
+                "t": 882.0,
+                "d": 425.0
+              },
+              {
+                "w": "face",
+                "t": 1308.0,
+                "d": 340.0
+              },
+              {
+                "w": "or",
+                "t": 1648.0,
+                "d": 170.0
+              },
+              {
+                "w": "language",
+                "t": 1819.0,
+                "d": 595.0
+              },
+              {
+                "w": "at",
+                "t": 2456.0,
+                "d": 170.0
+              },
+              {
+                "w": "those",
+                "t": 2626.0,
+                "d": 298.0
+              },
+              {
+                "w": "meetings",
+                "t": 2925.0,
+                "d": 1147.0
+              },
+              {
+                "w": "But",
+                "t": 4158.0,
+                "d": 256.0
+              },
+              {
+                "w": "between",
+                "t": 4414.0,
+                "d": 340.0
+              },
+              {
+                "w": "Meluhha",
+                "t": 4755.0,
+                "d": 638.0
+              },
+              {
+                "w": "Dilmun",
+                "t": 5478.0,
+                "d": 425.0
+              },
+              {
+                "w": "Magan",
+                "t": 5904.0,
+                "d": 297.0
+              },
+              {
+                "w": "and",
+                "t": 6202.0,
+                "d": 127.0
+              },
+              {
+                "w": "Mesopotamia",
+                "t": 6329.0,
+                "d": 723.0
+              },
+              {
+                "w": "a",
+                "t": 7053.0,
+                "d": 808.0
+              },
+              {
+                "w": "chain",
+                "t": 7861.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 8159.0,
+                "d": 212.0
+              },
+              {
+                "w": "ports",
+                "t": 8372.0,
+                "d": 381.0
+              },
+              {
+                "w": "and",
+                "t": 8754.0,
+                "d": 255.0
+              },
+              {
+                "w": "people",
+                "t": 9009.0,
+                "d": 469.0
+              },
+              {
+                "w": "turned",
+                "t": 9478.0,
+                "d": 254.0
+              },
+              {
+                "w": "the",
+                "t": 9732.0,
+                "d": 128.0
+              },
+              {
+                "w": "sea",
+                "t": 9861.0,
+                "d": 340.0
+              },
+              {
+                "w": "into",
+                "t": 10202.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 10542.0,
+                "d": 85.0
+              },
+              {
+                "w": "trading",
+                "t": 10627.0,
+                "d": 382.0
+              },
+              {
+                "w": "road",
+                "t": 11010.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "triumph",
+      "bg": "assets/the_ships_of_meluhha/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_ships_of_meluhha/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Far from Meluhha, he stakes his name in foreign scripts and seals, claiming his place among river kings of trade.",
+            "hi": "मेलुह्हा से दूर, वो परदेस की लिपियों और मुहरों पर अपना नाम गाड़ता है, व्यापार के नदी-राजाओं में जगह बनाते हुए।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Far",
+                "t": 72.0,
+                "d": 458.0
+              },
+              {
+                "w": "from",
+                "t": 531.0,
+                "d": 250.0
+              },
+              {
+                "w": "Meluhha",
+                "t": 781.0,
+                "d": 583.0
+              },
+              {
+                "w": "he",
+                "t": 1697.0,
+                "d": 250.0
+              },
+              {
+                "w": "stakes",
+                "t": 1947.0,
+                "d": 375.0
+              },
+              {
+                "w": "his",
+                "t": 2322.0,
+                "d": 165.0
+              },
+              {
+                "w": "name",
+                "t": 2488.0,
+                "d": 334.0
+              },
+              {
+                "w": "in",
+                "t": 2822.0,
+                "d": 165.0
+              },
+              {
+                "w": "foreign",
+                "t": 2988.0,
+                "d": 376.0
+              },
+              {
+                "w": "scripts",
+                "t": 3364.0,
+                "d": 333.0
+              },
+              {
+                "w": "and",
+                "t": 3697.0,
+                "d": 125.0
+              },
+              {
+                "w": "seals",
+                "t": 3822.0,
+                "d": 666.0
+              },
+              {
+                "w": "claiming",
+                "t": 4656.0,
+                "d": 500.0
+              },
+              {
+                "w": "his",
+                "t": 5156.0,
+                "d": 166.0
+              },
+              {
+                "w": "place",
+                "t": 5322.0,
+                "d": 458.0
+              },
+              {
+                "w": "among",
+                "t": 5781.0,
+                "d": 333.0
+              },
+              {
+                "w": "river",
+                "t": 6114.0,
+                "d": 333.0
+              },
+              {
+                "w": "kings",
+                "t": 6447.0,
+                "d": 291.0
+              },
+              {
+                "w": "of",
+                "t": 6739.0,
+                "d": 166.0
+              },
+              {
+                "w": "trade",
+                "t": 6906.0,
+                "d": 541.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_ships_of_meluhha/img/p16.png",
+      "shot": "return-journey wide at dusk",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In return, copper from Oman, perhaps dates, woollen cloth and crafted goods from Mesopotamia sailed back towards the Indus, feeding workshops and households far from their source.",
+            "hi": "इसके बदले ओमान का ताँबा, शायद खजूर, ऊनी कपड़ा और मेसोपोटामिया की कारीगरी सिंधु की ओर लौटती, अपने स्रोत से दूर बसे कारखानों और घरों को भरती।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p16_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "return",
+                "t": 310.0,
+                "d": 781.0
+              },
+              {
+                "w": "copper",
+                "t": 1229.0,
+                "d": 459.0
+              },
+              {
+                "w": "from",
+                "t": 1689.0,
+                "d": 229.0
+              },
+              {
+                "w": "Oman",
+                "t": 1919.0,
+                "d": 551.0
+              },
+              {
+                "w": "perhaps",
+                "t": 2471.0,
+                "d": 459.0
+              },
+              {
+                "w": "dates",
+                "t": 2931.0,
+                "d": 643.0
+              },
+              {
+                "w": "woollen",
+                "t": 3758.0,
+                "d": 505.0
+              },
+              {
+                "w": "cloth",
+                "t": 4264.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 4678.0,
+                "d": 275.0
+              },
+              {
+                "w": "crafted",
+                "t": 4954.0,
+                "d": 551.0
+              },
+              {
+                "w": "goods",
+                "t": 5505.0,
+                "d": 275.0
+              },
+              {
+                "w": "from",
+                "t": 5781.0,
+                "d": 183.0
+              },
+              {
+                "w": "Mesopotamia",
+                "t": 5965.0,
+                "d": 873.0
+              },
+              {
+                "w": "sailed",
+                "t": 6839.0,
+                "d": 413.0
+              },
+              {
+                "w": "back",
+                "t": 7252.0,
+                "d": 275.0
+              },
+              {
+                "w": "towards",
+                "t": 7528.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 7896.0,
+                "d": 229.0
+              },
+              {
+                "w": "Indus",
+                "t": 8126.0,
+                "d": 689.0
+              },
+              {
+                "w": "feeding",
+                "t": 9000.0,
+                "d": 505.0
+              },
+              {
+                "w": "workshops",
+                "t": 9505.0,
+                "d": 735.0
+              },
+              {
+                "w": "and",
+                "t": 10241.0,
+                "d": 182.0
+              },
+              {
+                "w": "households",
+                "t": 10424.0,
+                "d": 828.0
+              },
+              {
+                "w": "far",
+                "t": 11252.0,
+                "d": 459.0
+              },
+              {
+                "w": "from",
+                "t": 11712.0,
+                "d": 228.0
+              },
+              {
+                "w": "their",
+                "t": 11941.0,
+                "d": 231.0
+              },
+              {
+                "w": "source",
+                "t": 12172.0,
+                "d": 642.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_ships_of_meluhha/img/p17.png",
+      "shot": "medium shot on Lothal warehouse interior",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Within Lothal's storerooms, foreign and local goods mixed. To the Harappans, these were not trophies, but materials-things to weigh, to barter, to work into the quiet wealth of their cities.",
+            "hi": "लोथल के भंडारों में परदेशी और देसी माल घुल-मिल गया। हरप्पनों के लिए ये ट्रॉफी नहीं, सामान थे—तौलने, सटोरने और अपनी शहरों की शांत दौलत में ढालने की चीज़ें।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p17_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Within",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "Lothal's",
+                "t": 457.0,
+                "d": 468.0
+              },
+              {
+                "w": "storerooms",
+                "t": 925.0,
+                "d": 893.0
+              },
+              {
+                "w": "foreign",
+                "t": 1861.0,
+                "d": 637.0
+              },
+              {
+                "w": "and",
+                "t": 2498.0,
+                "d": 256.0
+              },
+              {
+                "w": "local",
+                "t": 2755.0,
+                "d": 381.0
+              },
+              {
+                "w": "goods",
+                "t": 3137.0,
+                "d": 341.0
+              },
+              {
+                "w": "mixed",
+                "t": 3478.0,
+                "d": 382.0
+              },
+              {
+                "w": "To",
+                "t": 3861.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 4627.0,
+                "d": 297.0
+              },
+              {
+                "w": "Harappans",
+                "t": 4925.0,
+                "d": 851.0
+              },
+              {
+                "w": "these",
+                "t": 5904.0,
+                "d": 340.0
+              },
+              {
+                "w": "were",
+                "t": 6244.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 6414.0,
+                "d": 212.0
+              },
+              {
+                "w": "trophies",
+                "t": 6627.0,
+                "d": 851.0
+              },
+              {
+                "w": "but",
+                "t": 7819.0,
+                "d": 170.0
+              },
+              {
+                "w": "materials-things",
+                "t": 7989.0,
+                "d": 764.0
+              },
+              {
+                "w": "to",
+                "t": 8754.0,
+                "d": 170.0
+              },
+              {
+                "w": "weigh",
+                "t": 8924.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 9563.0,
+                "d": 212.0
+              },
+              {
+                "w": "barter",
+                "t": 9776.0,
+                "d": 765.0
+              },
+              {
+                "w": "to",
+                "t": 10711.0,
+                "d": 213.0
+              },
+              {
+                "w": "work",
+                "t": 10925.0,
+                "d": 296.0
+              },
+              {
+                "w": "into",
+                "t": 11222.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 11436.0,
+                "d": 170.0
+              },
+              {
+                "w": "quiet",
+                "t": 11606.0,
+                "d": 339.0
+              },
+              {
+                "w": "wealth",
+                "t": 11945.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 12244.0,
+                "d": 126.0
+              },
+              {
+                "w": "their",
+                "t": 12371.0,
+                "d": 213.0
+              },
+              {
+                "w": "cities",
+                "t": 12585.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "battle",
+      "slices": [
+        {
+          "img": "assets/the_ships_of_meluhha/split_auto/s0.png",
+          "slogan": {
+            "en": "Across seas, our name endures",
+            "hi": "समुद्र पार, हमारा नाम अमर"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_ships_of_meluhha/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_ships_of_meluhha/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across tides and tongues, his voyages stitch distant rivers, deserts, and seas into one echoing Bronze Age world.",
+            "hi": "लहरों और बोलियों के पार, उसकी यात्राएँ दूर-दूर की नदियों, रेगिस्तानों और समुद्रों को एक गूँजती कांस्य युग की दुनिया में पिरो देती हैं।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 110.0,
+                "d": 480.0
+              },
+              {
+                "w": "tides",
+                "t": 590.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 1030.0,
+                "d": 160.0
+              },
+              {
+                "w": "tongues",
+                "t": 1190.0,
+                "d": 600.0
+              },
+              {
+                "w": "his",
+                "t": 1950.0,
+                "d": 320.0
+              },
+              {
+                "w": "voyages",
+                "t": 2270.0,
+                "d": 480.0
+              },
+              {
+                "w": "stitch",
+                "t": 2750.0,
+                "d": 440.0
+              },
+              {
+                "w": "distant",
+                "t": 3190.0,
+                "d": 400.0
+              },
+              {
+                "w": "rivers",
+                "t": 3590.0,
+                "d": 680.0
+              },
+              {
+                "w": "deserts",
+                "t": 4390.0,
+                "d": 920.0
+              },
+              {
+                "w": "and",
+                "t": 5390.0,
+                "d": 320.0
+              },
+              {
+                "w": "seas",
+                "t": 5710.0,
+                "d": 320.0
+              },
+              {
+                "w": "into",
+                "t": 6030.0,
+                "d": 200.0
+              },
+              {
+                "w": "one",
+                "t": 6230.0,
+                "d": 400.0
+              },
+              {
+                "w": "echoing",
+                "t": 6630.0,
+                "d": 600.0
+              },
+              {
+                "w": "Bronze",
+                "t": 7230.0,
+                "d": 440.0
+              },
+              {
+                "w": "Age",
+                "t": 7670.0,
+                "d": 320.0
+              },
+              {
+                "w": "world",
+                "t": 7990.0,
+                "d": 520.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/the_ships_of_meluhha/img/p18.png",
+      "shot": "time-lapse style wide of Lothal ruins to modern survey",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Millennia later, Lothal lies as weathered bricks, its channels traced by new geospatial tools. From seal to satellite, scholars slowly recover the shape of its harbour and its sea-road.",
+            "hi": "हज़ारों साल बाद, लोथल घिसी ईंटों की तरह पड़ा है, उसके चैनल नए भौगोलिक औज़ारों से नापे जा रहे हैं। मुहर से सैटेलाइट तक, विद्वान उसके बंदरगाह और समुंद्री रास्ते की आकृति धीरे-धीरे जोड़ रहे हैं।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p18_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Millennia",
+                "t": 117.0,
+                "d": 510.0
+              },
+              {
+                "w": "later",
+                "t": 627.0,
+                "d": 638.0
+              },
+              {
+                "w": "Lothal",
+                "t": 1478.0,
+                "d": 510.0
+              },
+              {
+                "w": "lies",
+                "t": 1989.0,
+                "d": 425.0
+              },
+              {
+                "w": "as",
+                "t": 2414.0,
+                "d": 255.0
+              },
+              {
+                "w": "weathered",
+                "t": 2670.0,
+                "d": 424.0
+              },
+              {
+                "w": "bricks",
+                "t": 3094.0,
+                "d": 595.0
+              },
+              {
+                "w": "its",
+                "t": 4115.0,
+                "d": 384.0
+              },
+              {
+                "w": "channels",
+                "t": 4500.0,
+                "d": 595.0
+              },
+              {
+                "w": "traced",
+                "t": 5095.0,
+                "d": 382.0
+              },
+              {
+                "w": "by",
+                "t": 5478.0,
+                "d": 255.0
+              },
+              {
+                "w": "new",
+                "t": 5734.0,
+                "d": 340.0
+              },
+              {
+                "w": "geospatial",
+                "t": 6074.0,
+                "d": 765.0
+              },
+              {
+                "w": "tools",
+                "t": 6840.0,
+                "d": 978.0
+              },
+              {
+                "w": "From",
+                "t": 7861.0,
+                "d": 382.0
+              },
+              {
+                "w": "seal",
+                "t": 8244.0,
+                "d": 339.0
+              },
+              {
+                "w": "to",
+                "t": 8584.0,
+                "d": 127.0
+              },
+              {
+                "w": "satellite",
+                "t": 8711.0,
+                "d": 979.0
+              },
+              {
+                "w": "scholars",
+                "t": 9732.0,
+                "d": 595.0
+              },
+              {
+                "w": "slowly",
+                "t": 10328.0,
+                "d": 468.0
+              },
+              {
+                "w": "recover",
+                "t": 10796.0,
+                "d": 384.0
+              },
+              {
+                "w": "the",
+                "t": 11180.0,
+                "d": 170.0
+              },
+              {
+                "w": "shape",
+                "t": 11351.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 11691.0,
+                "d": 169.0
+              },
+              {
+                "w": "its",
+                "t": 11860.0,
+                "d": 170.0
+              },
+              {
+                "w": "harbour",
+                "t": 12030.0,
+                "d": 554.0
+              },
+              {
+                "w": "and",
+                "t": 12585.0,
+                "d": 424.0
+              },
+              {
+                "w": "its",
+                "t": 13009.0,
+                "d": 170.0
+              },
+              {
+                "w": "sea-road",
+                "t": 13179.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p19",
+      "art": "assets/the_ships_of_meluhha/img/p19.png",
+      "shot": "contemplative close-up on trader against map overlay",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "We still cannot read their script, yet their routes are clear: from the Indus and Gujarat to the Gulf and beyond, Meluhha was part of an early world economy of rivers and seas.",
+            "hi": "हम अब भी उनकी लिपि नहीं पढ़ पाते, पर उनके रास्ते साफ़ हैं: सिंधु और गुजरात से खाड़ी और आगे तक, मेलुह्हा नदियों और समुद्रों की शुरुआती वैश्विक अर्थव्यवस्था का हिस्सा था।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p19_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p19_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "still",
+                "t": 287.0,
+                "d": 297.0
+              },
+              {
+                "w": "cannot",
+                "t": 585.0,
+                "d": 382.0
+              },
+              {
+                "w": "read",
+                "t": 968.0,
+                "d": 212.0
+              },
+              {
+                "w": "their",
+                "t": 1180.0,
+                "d": 212.0
+              },
+              {
+                "w": "script",
+                "t": 1393.0,
+                "d": 638.0
+              },
+              {
+                "w": "yet",
+                "t": 2158.0,
+                "d": 340.0
+              },
+              {
+                "w": "their",
+                "t": 2498.0,
+                "d": 298.0
+              },
+              {
+                "w": "routes",
+                "t": 2797.0,
+                "d": 381.0
+              },
+              {
+                "w": "are",
+                "t": 3179.0,
+                "d": 171.0
+              },
+              {
+                "w": "clear",
+                "t": 3351.0,
+                "d": 510.0
+              },
+              {
+                "w": "from",
+                "t": 4372.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 4627.0,
+                "d": 212.0
+              },
+              {
+                "w": "Indus",
+                "t": 4840.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 5223.0,
+                "d": 170.0
+              },
+              {
+                "w": "Gujarat",
+                "t": 5393.0,
+                "d": 595.0
+              },
+              {
+                "w": "to",
+                "t": 6031.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 6159.0,
+                "d": 170.0
+              },
+              {
+                "w": "Gulf",
+                "t": 6329.0,
+                "d": 297.0
+              },
+              {
+                "w": "and",
+                "t": 6627.0,
+                "d": 170.0
+              },
+              {
+                "w": "beyond",
+                "t": 6797.0,
+                "d": 851.0
+              },
+              {
+                "w": "Meluhha",
+                "t": 8159.0,
+                "d": 509.0
+              },
+              {
+                "w": "was",
+                "t": 8669.0,
+                "d": 298.0
+              },
+              {
+                "w": "part",
+                "t": 8968.0,
+                "d": 296.0
+              },
+              {
+                "w": "of",
+                "t": 9264.0,
+                "d": 128.0
+              },
+              {
+                "w": "an",
+                "t": 9393.0,
+                "d": 170.0
+              },
+              {
+                "w": "early",
+                "t": 9563.0,
+                "d": 382.0
+              },
+              {
+                "w": "world",
+                "t": 9946.0,
+                "d": 296.0
+              },
+              {
+                "w": "economy",
+                "t": 10243.0,
+                "d": 596.0
+              },
+              {
+                "w": "of",
+                "t": 10840.0,
+                "d": 211.0
+              },
+              {
+                "w": "rivers",
+                "t": 11052.0,
+                "d": 511.0
+              },
+              {
+                "w": "and",
+                "t": 11563.0,
+                "d": 255.0
+              },
+              {
+                "w": "seas",
+                "t": 11819.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p20",
+      "art": "assets/the_ships_of_meluhha/img/p20.png",
+      "shot": "majestic wide of trader on shore at sunrise",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the story of India, the ships of Meluhha remind us that long before empires marched, traders had already made distant shores into neighbours, and the sea into a shared horizon.",
+            "hi": "भारत की कहानी में, मेलुह्हा के जहाज़ याद दिलाते हैं कि साम्राज्य चलने से बहुत पहले, व्यापारी दूर तटों को पड़ोसी बना चुके थे, और समुद्र को साझा क्षितिज।"
+          },
+          "audio": {
+            "en": "assets/the_ships_of_meluhha/audio/en/p20_0.mp3",
+            "hi": "assets/the_ships_of_meluhha/audio/hi/p20_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 117.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 127.0
+              },
+              {
+                "w": "story",
+                "t": 457.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 797.0,
+                "d": 170.0
+              },
+              {
+                "w": "India",
+                "t": 968.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 1776.0,
+                "d": 255.0
+              },
+              {
+                "w": "ships",
+                "t": 2031.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 2329.0,
+                "d": 211.0
+              },
+              {
+                "w": "Meluhha",
+                "t": 2541.0,
+                "d": 468.0
+              },
+              {
+                "w": "remind",
+                "t": 3009.0,
+                "d": 469.0
+              },
+              {
+                "w": "us",
+                "t": 3478.0,
+                "d": 255.0
+              },
+              {
+                "w": "that",
+                "t": 3734.0,
+                "d": 212.0
+              },
+              {
+                "w": "long",
+                "t": 3946.0,
+                "d": 425.0
+              },
+              {
+                "w": "before",
+                "t": 4372.0,
+                "d": 340.0
+              },
+              {
+                "w": "empires",
+                "t": 4712.0,
+                "d": 595.0
+              },
+              {
+                "w": "marched",
+                "t": 5308.0,
+                "d": 936.0
+              },
+              {
+                "w": "traders",
+                "t": 6329.0,
+                "d": 680.0
+              },
+              {
+                "w": "had",
+                "t": 7010.0,
+                "d": 212.0
+              },
+              {
+                "w": "already",
+                "t": 7223.0,
+                "d": 510.0
+              },
+              {
+                "w": "made",
+                "t": 7734.0,
+                "d": 255.0
+              },
+              {
+                "w": "distant",
+                "t": 7989.0,
+                "d": 468.0
+              },
+              {
+                "w": "shores",
+                "t": 8457.0,
+                "d": 381.0
+              },
+              {
+                "w": "into",
+                "t": 8839.0,
+                "d": 255.0
+              },
+              {
+                "w": "neighbours",
+                "t": 9094.0,
+                "d": 767.0
+              },
+              {
+                "w": "and",
+                "t": 10031.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 10243.0,
+                "d": 128.0
+              },
+              {
+                "w": "sea",
+                "t": 10372.0,
+                "d": 339.0
+              },
+              {
+                "w": "into",
+                "t": 10755.0,
+                "d": 296.0
+              },
+              {
+                "w": "a",
+                "t": 11052.0,
+                "d": 43.0
+              },
+              {
+                "w": "shared",
+                "t": 11095.0,
+                "d": 468.0
+              },
+              {
+                "w": "horizon",
+                "t": 11563.0,
+                "d": 722.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Harappan Sea Trader of Lothal",
+    "epithets": [
+      "Merchants of Meluhha",
+      "Harappan Sea Traders",
+      "Sailors of the Indus",
+      "Masters of the Gulf Route"
+    ],
+    "legend": "From silent seals, their ships still cross the western seas."
+  }
+}
