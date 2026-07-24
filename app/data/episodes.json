@@ -1,5 +1,5 @@
 {
-  "built": 67,
+  "built": 68,
   "chapters": [
     {
       "chapter": "The Chola Empire",
@@ -1436,7 +1436,7 @@
     {
       "chapter": "The Indus Valley Civilisation",
       "blurb": "",
-      "built": 0,
+      "built": 1,
       "total": 13,
       "parts": [
         {
@@ -1448,7 +1448,7 @@
               "title": "The Village That Began Everything",
               "era": "Neolithic and Chalcolithic Mehrgarh, c. 7000-3300 BCE",
               "series": "Ancient & Medieval India",
-              "built": false,
+              "built": true,
               "flagship": false,
               "chapter": "The Indus Valley Civilisation",
               "chapter_part": "I. The Great Emergence",
@@ -1457,9 +1457,12 @@
               "year_label": "3300 BCE",
               "legend": "In mud-brick rooms beside the Bolan Pass, South Asia's earliest known farmers grow grain, tend cattle, drill teeth, spin cotton, and begin the long road to Harappan cities.",
               "epithets": [],
-              "scenes": 0,
-              "langs": [],
-              "thumb": ""
+              "scenes": 19,
+              "langs": [
+                "en",
+                "hi"
+              ],
+              "thumb": "assets/the_village_that_began_everything/img/cover.png"
             },
             {
               "id": "the_city_that_drew_itself_in_straight_lines",
@@ -1704,6 +1707,286 @@
               "year": -1300,
               "year_label": "1300 BCE",
               "legend": "As monsoons weaken and rivers change, the great cities shrink rather than fall in a single blow, while one Rakhigarhi genome proves the story was not an invasion massacre.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "The Mughal Empire",
+      "blurb": "",
+      "built": 0,
+      "total": 13,
+      "parts": [
+        {
+          "part": "I. Fire and Iron",
+          "episodes": [
+            {
+              "id": "babur_s_thunder_at_panipat",
+              "figure": "Babur",
+              "title": "Babur's Thunder at Panipat",
+              "era": "First Battle of Panipat, 21 April 1526",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Mughal Empire",
+              "chapter_part": "I. Fire and Iron",
+              "chapter_order": 1,
+              "year": 1526,
+              "year_label": "1526 CE",
+              "legend": "On a dusty plain north of Delhi, Babur chains carts, fires cannon, and defeats Ibrahim Lodi to begin a new empire.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "the_princess_who_wrote_history",
+              "figure": "Gulbadan Begum",
+              "title": "The Princess Who Wrote History",
+              "era": "Gulbadan Begum's memoir, c. 1587",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Mughal Empire",
+              "chapter_part": "I. Fire and Iron",
+              "chapter_order": 2,
+              "year": 1587,
+              "year_label": "1587 CE",
+              "legend": "Asked by Akbar to remember the past, Gulbadan Begum writes the only first-person Mughal court memoir by a woman.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "II. Akbar's Forge",
+          "episodes": [
+            {
+              "id": "the_city_akbar_built_and_left",
+              "figure": "Akbar",
+              "title": "The City Akbar Built and Left",
+              "era": "Fatehpur Sikri as imperial capital, c. 1571-1585",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Mughal Empire",
+              "chapter_part": "II. Akbar's Forge",
+              "chapter_order": 3,
+              "year": 1571,
+              "year_label": "1571 CE",
+              "legend": "Akbar raises a red sandstone capital around a Sufi blessing, fills it with debate, and then leaves it for the frontier.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "the_mansab_opens_the_gate",
+              "figure": "Akbar and Man Singh",
+              "title": "The Mansab Opens the Gate",
+              "era": "Akbar's mansabdari reforms, c. 1560s-1595",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Mughal Empire",
+              "chapter_part": "II. Akbar's Forge",
+              "chapter_order": 4,
+              "year": 1595,
+              "year_label": "1595 CE",
+              "legend": "Akbar turns nobles of many backgrounds into ranked servants of one empire, measuring honor in zat and cavalry in sawar.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "todar_mal_counts_every_bigha",
+              "figure": "Raja Todar Mal",
+              "title": "Todar Mal Counts Every Bigha",
+              "era": "Dahsala revenue reforms, c. 1580-1582",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Mughal Empire",
+              "chapter_part": "II. Akbar's Forge",
+              "chapter_order": 5,
+              "year": 1580,
+              "year_label": "1580 CE",
+              "legend": "Todar Mal's surveyors measure fields with iron-ringed rods so tax can follow crops, prices and the land itself.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "III. Brush and Science",
+          "episodes": [
+            {
+              "id": "the_giant_book_of_heroes",
+              "figure": "Mir Sayyid Ali and Abdus Samad",
+              "title": "The Giant Book of Heroes",
+              "era": "Akbar's Hamzanama project, c. 1562-1577",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Mughal Empire",
+              "chapter_part": "III. Brush and Science",
+              "chapter_order": 6,
+              "year": 1562,
+              "year_label": "1562 CE",
+              "legend": "Akbar's painters turn the tales of Amir Hamza into huge cloth pages where Persian line meets Indian color.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "jahangir_watches_the_birds",
+              "figure": "Jahangir and Ustad Mansur",
+              "title": "Jahangir Watches the Birds",
+              "era": "Jahangir's natural history court, c. 1605-1627",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Mughal Empire",
+              "chapter_part": "III. Brush and Science",
+              "chapter_order": 7,
+              "year": 1605,
+              "year_label": "1605 CE",
+              "legend": "When rare animals reach court, Jahangir observes them closely and Ustad Mansur paints them before memory can fade.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "nur_jahan_s_name_on_gold",
+              "figure": "Nur Jahan",
+              "title": "Nur Jahan's Name on Gold",
+              "era": "Nur Jahan's political power, 1611-1627",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Mughal Empire",
+              "chapter_part": "III. Brush and Science",
+              "chapter_order": 8,
+              "year": 1611,
+              "year_label": "1611 CE",
+              "legend": "Nur Jahan signs decrees, guides diplomacy, and sends coins through the empire bearing an empress's name.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "IV. Marble and Mind",
+          "episodes": [
+            {
+              "id": "the_mausoleum_at_the_yamuna",
+              "figure": "Shah Jahan and Mumtaz Mahal",
+              "title": "The Mausoleum at the Yamuna",
+              "era": "Construction of the Taj Mahal, 1631-1653",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Mughal Empire",
+              "chapter_part": "IV. Marble and Mind",
+              "chapter_order": 9,
+              "year": 1631,
+              "year_label": "1631 CE",
+              "legend": "After Mumtaz Mahal dies at Burhanpur, Shah Jahan builds a riverfront tomb where engineering, calligraphy and marble meet.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "the_prince_who_read_the_hidden_books",
+              "figure": "Dara Shukoh",
+              "title": "The Prince Who Read the Hidden Books",
+              "era": "Dara Shukoh's translations, 1655-1657",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Mughal Empire",
+              "chapter_part": "IV. Marble and Mind",
+              "chapter_order": 10,
+              "year": 1655,
+              "year_label": "1655 CE",
+              "legend": "Dara Shukoh gathers Sanskrit scholars to translate the Upanishads into Persian, searching for a meeting of Sufi and Vedantic thought.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "samugarh_and_the_empty_elephant",
+              "figure": "Dara Shukoh and Aurangzeb",
+              "title": "Samugarh and the Empty Elephant",
+              "era": "Mughal war of succession, 29 May 1658",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Mughal Empire",
+              "chapter_part": "IV. Marble and Mind",
+              "chapter_order": 11,
+              "year": 1658,
+              "year_label": "1658 CE",
+              "legend": "At Samugarh, Dara Shukoh leaves his elephant and a rumor of flight opens the road for Aurangzeb's throne.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "V. The Vast and Broken Realm",
+          "episodes": [
+            {
+              "id": "the_port_that_fed_an_empire",
+              "figure": "Virji Vora and the Surat merchants",
+              "title": "The Port That Fed an Empire",
+              "era": "Mughal Surat, c. 1572-1680",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Mughal Empire",
+              "chapter_part": "V. The Vast and Broken Realm",
+              "chapter_order": 12,
+              "year": 1572,
+              "year_label": "1572 CE",
+              "legend": "At Surat, merchants, pilgrims and European factories crowd a Mughal port whose customs and credit help feed an empire.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "aurangzeb_s_last_tent_in_the_deccan",
+              "figure": "Aurangzeb Alamgir",
+              "title": "Aurangzeb's Last Tent in the Deccan",
+              "era": "Aurangzeb's Deccan campaigns, 1682-1707",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Mughal Empire",
+              "chapter_part": "V. The Vast and Broken Realm",
+              "chapter_order": 13,
+              "year": 1682,
+              "year_label": "1682 CE",
+              "legend": "Aurangzeb wins forts across the Deccan, yet spends his last decades in a moving camp while the empire strains beneath him.",
               "epithets": [],
               "scenes": 0,
               "langs": [],
