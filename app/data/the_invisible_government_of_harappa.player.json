@@ -1,0 +1,3112 @@
+{
+  "id": "the_invisible_government_of_harappa",
+  "title": "The Invisible Government of Harappa",
+  "title_i18n": {
+    "en": "The Invisible Government of Harappa",
+    "hi": "हड़प्पा की अदृश्य हुकूमत"
+  },
+  "figure": "Harappan Civic Councils",
+  "era": "Mature Harappan civic organisation, c. 2600-1900 BCE",
+  "moral": "Leadership is not always carved as a crown.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_invisible_government_of_harappa/intro/hero.png",
+      "name": "Harappan Civic Councillor",
+      "epithets": [
+        "Urban planners of the Indus",
+        "Masters of the Great Bath and Granaries",
+        "Keepers of Standard Weights and Bricks",
+        "Silent Councils of Harappa and Mohenjo-daro"
+      ],
+      "legend": "They ruled a vast land without crowns, palaces, or kings.",
+      "era": "Mature Harappan civic organisation, c. 2600-1900 BCE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across a land of baked brick and straight streets, unseen councils set rules for trade, drains, and grain. Their power was order itself, not a single throne.",
+            "hi": "तानभरी ईंटों और सीधी गलियों वाली धरती पर, गुप्त सभाएँ व्यापार, नालों और अनाज के नियम बनाती थीं। उनकी ताकत थी उनका अनुशासन, कोई अकेला तख़्त नहीं।"
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/intro/hero_en.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 114.0,
+                "d": 458.0
+              },
+              {
+                "w": "a",
+                "t": 572.0,
+                "d": 41.0
+              },
+              {
+                "w": "land",
+                "t": 614.0,
+                "d": 375.0
+              },
+              {
+                "w": "of",
+                "t": 989.0,
+                "d": 166.0
+              },
+              {
+                "w": "baked",
+                "t": 1156.0,
+                "d": 416.0
+              },
+              {
+                "w": "brick",
+                "t": 1572.0,
+                "d": 333.0
+              },
+              {
+                "w": "and",
+                "t": 1906.0,
+                "d": 207.0
+              },
+              {
+                "w": "straight",
+                "t": 2113.0,
+                "d": 416.0
+              },
+              {
+                "w": "streets",
+                "t": 2530.0,
+                "d": 751.0
+              },
+              {
+                "w": "unseen",
+                "t": 3656.0,
+                "d": 541.0
+              },
+              {
+                "w": "councils",
+                "t": 4197.0,
+                "d": 666.0
+              },
+              {
+                "w": "set",
+                "t": 4906.0,
+                "d": 333.0
+              },
+              {
+                "w": "rules",
+                "t": 5239.0,
+                "d": 416.0
+              },
+              {
+                "w": "for",
+                "t": 5656.0,
+                "d": 166.0
+              },
+              {
+                "w": "trade",
+                "t": 5822.0,
+                "d": 375.0
+              },
+              {
+                "w": "drains",
+                "t": 6197.0,
+                "d": 1000.0
+              },
+              {
+                "w": "and",
+                "t": 7239.0,
+                "d": 250.0
+              },
+              {
+                "w": "grain",
+                "t": 7489.0,
+                "d": 500.0
+              },
+              {
+                "w": "Their",
+                "t": 8738.0,
+                "d": 292.0
+              },
+              {
+                "w": "power",
+                "t": 9031.0,
+                "d": 415.0
+              },
+              {
+                "w": "was",
+                "t": 9446.0,
+                "d": 250.0
+              },
+              {
+                "w": "order",
+                "t": 9696.0,
+                "d": 376.0
+              },
+              {
+                "w": "itself",
+                "t": 10072.0,
+                "d": 791.0
+              },
+              {
+                "w": "not",
+                "t": 10947.0,
+                "d": 333.0
+              },
+              {
+                "w": "a",
+                "t": 11281.0,
+                "d": 41.0
+              },
+              {
+                "w": "single",
+                "t": 11322.0,
+                "d": 373.0
+              },
+              {
+                "w": "throne",
+                "t": 11696.0,
+                "d": 500.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_invisible_government_of_harappa/intro/map.png",
+      "x": 0.24,
+      "y": 0.27,
+      "label": "Harappa & Mohenjo-daro, Indus Valley",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here the Indus cities rose in baked brick rows, where quiet civic minds shaped streets, drains, and trade for a thousand shining years.",
+            "hi": "यहाँ सिंधु नगर पकी ईंटों संग उठे, जहाँ समझदार लोगनें सहस्र साल तक सड़कें, नालियाँ और कारोबार रचे।"
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/intro/map_en.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 356.0,
+                "d": 183.0
+              },
+              {
+                "w": "Indus",
+                "t": 540.0,
+                "d": 413.0
+              },
+              {
+                "w": "cities",
+                "t": 954.0,
+                "d": 459.0
+              },
+              {
+                "w": "rose",
+                "t": 1413.0,
+                "d": 413.0
+              },
+              {
+                "w": "in",
+                "t": 1827.0,
+                "d": 321.0
+              },
+              {
+                "w": "baked",
+                "t": 2149.0,
+                "d": 413.0
+              },
+              {
+                "w": "brick",
+                "t": 2563.0,
+                "d": 321.0
+              },
+              {
+                "w": "rows",
+                "t": 2885.0,
+                "d": 550.0
+              },
+              {
+                "w": "where",
+                "t": 3666.0,
+                "d": 320.0
+              },
+              {
+                "w": "quiet",
+                "t": 3987.0,
+                "d": 322.0
+              },
+              {
+                "w": "civic",
+                "t": 4310.0,
+                "d": 321.0
+              },
+              {
+                "w": "minds",
+                "t": 4632.0,
+                "d": 459.0
+              },
+              {
+                "w": "shaped",
+                "t": 5091.0,
+                "d": 551.0
+              },
+              {
+                "w": "streets",
+                "t": 5643.0,
+                "d": 689.0
+              },
+              {
+                "w": "drains",
+                "t": 6379.0,
+                "d": 873.0
+              },
+              {
+                "w": "and",
+                "t": 7390.0,
+                "d": 321.0
+              },
+              {
+                "w": "trade",
+                "t": 7712.0,
+                "d": 321.0
+              },
+              {
+                "w": "for",
+                "t": 8034.0,
+                "d": 275.0
+              },
+              {
+                "w": "a",
+                "t": 8310.0,
+                "d": 45.0
+              },
+              {
+                "w": "thousand",
+                "t": 8356.0,
+                "d": 597.0
+              },
+              {
+                "w": "shining",
+                "t": 8954.0,
+                "d": 643.0
+              },
+              {
+                "w": "years",
+                "t": 9597.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_invisible_government_of_harappa/img/cover.png",
+      "shot": "sweeping low-angle hero wide of an immense Harappan cityscape",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Harappa, Mohenjo-daro, Dholavira: cities of brick and silence, where power flows like water, unseen yet shaping all.",
+            "hi": "हड़प्पा, मोहनजोदड़ो, ढोलावीरा: ईंटों और सन्नाटे के शहर, जहाँ ताकत पानी-सी बहती है, दिखती नहीं, पर सबको ढालती है."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/cover_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Harappa",
+                "t": 126.0,
+                "d": 781.0
+              },
+              {
+                "w": "Mohenjo-daro",
+                "t": 1183.0,
+                "d": 919.0
+              },
+              {
+                "w": "Dholavira",
+                "t": 2700.0,
+                "d": 735.0
+              },
+              {
+                "w": "cities",
+                "t": 3987.0,
+                "d": 277.0
+              },
+              {
+                "w": "of",
+                "t": 4493.0,
+                "d": 231.0
+              },
+              {
+                "w": "brick",
+                "t": 4724.0,
+                "d": 321.0
+              },
+              {
+                "w": "and",
+                "t": 5045.0,
+                "d": 229.0
+              },
+              {
+                "w": "silence",
+                "t": 5275.0,
+                "d": 827.0
+              },
+              {
+                "w": "where",
+                "t": 6655.0,
+                "d": 367.0
+              },
+              {
+                "w": "power",
+                "t": 7022.0,
+                "d": 321.0
+              },
+              {
+                "w": "flows",
+                "t": 7344.0,
+                "d": 413.0
+              },
+              {
+                "w": "like",
+                "t": 7758.0,
+                "d": 275.0
+              },
+              {
+                "w": "water",
+                "t": 8034.0,
+                "d": 781.0
+              },
+              {
+                "w": "unseen",
+                "t": 9000.0,
+                "d": 642.0
+              },
+              {
+                "w": "yet",
+                "t": 9642.0,
+                "d": 275.0
+              },
+              {
+                "w": "shaping",
+                "t": 9918.0,
+                "d": 505.0
+              },
+              {
+                "w": "all",
+                "t": 10424.0,
+                "d": 506.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_invisible_government_of_harappa/img/p01.png",
+      "shot": "epic bird's-eye of the northwestern subcontinent",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Around 2600 BCE, from Sind to Gujarat, the land hums with new cities, bound not by an emperor's name, but by shared ways of living.",
+            "hi": "करीब 2600 ईसा पूर्व, सिंध से गुजरात तक ज़मीन नई बस्तियों से गूंजती है, न किसी सम्राट के नाम से, बल्कि जीने के एक से ढर्रे से बंधी."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p01_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Around",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "2600",
+                "t": 414.0,
+                "d": 936.0
+              },
+              {
+                "w": "BCE",
+                "t": 1351.0,
+                "d": 425.0
+              },
+              {
+                "w": "from",
+                "t": 2372.0,
+                "d": 340.0
+              },
+              {
+                "w": "Sind",
+                "t": 2712.0,
+                "d": 339.0
+              },
+              {
+                "w": "to",
+                "t": 3052.0,
+                "d": 213.0
+              },
+              {
+                "w": "Gujarat",
+                "t": 3265.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 4243.0,
+                "d": 213.0
+              },
+              {
+                "w": "land",
+                "t": 4457.0,
+                "d": 297.0
+              },
+              {
+                "w": "hums",
+                "t": 4755.0,
+                "d": 255.0
+              },
+              {
+                "w": "with",
+                "t": 5010.0,
+                "d": 255.0
+              },
+              {
+                "w": "new",
+                "t": 5265.0,
+                "d": 255.0
+              },
+              {
+                "w": "cities",
+                "t": 5521.0,
+                "d": 680.0
+              },
+              {
+                "w": "bound",
+                "t": 6542.0,
+                "d": 425.0
+              },
+              {
+                "w": "not",
+                "t": 6968.0,
+                "d": 340.0
+              },
+              {
+                "w": "by",
+                "t": 7308.0,
+                "d": 212.0
+              },
+              {
+                "w": "an",
+                "t": 7521.0,
+                "d": 85.0
+              },
+              {
+                "w": "emperor's",
+                "t": 7606.0,
+                "d": 553.0
+              },
+              {
+                "w": "name",
+                "t": 8159.0,
+                "d": 808.0
+              },
+              {
+                "w": "but",
+                "t": 9009.0,
+                "d": 255.0
+              },
+              {
+                "w": "by",
+                "t": 9264.0,
+                "d": 171.0
+              },
+              {
+                "w": "shared",
+                "t": 9436.0,
+                "d": 381.0
+              },
+              {
+                "w": "ways",
+                "t": 9818.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 10117.0,
+                "d": 170.0
+              },
+              {
+                "w": "living",
+                "t": 10287.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_invisible_government_of_harappa/img/p02.png",
+      "shot": "slow push-in over a Harappan street grid",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Standard bricks, straight streets, deep drains, shared measures: every line of the city whispers, 'Someone decided this.'",
+            "hi": "एक जैसी ईंटें, सीधी गलियाँ, गहरी नालियाँ, एक से बाट–हर रेखा फुसफुसाती है, 'किसी ने ये तय किया है.'"
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p02_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Standard",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "bricks",
+                "t": 670.0,
+                "d": 638.0
+              },
+              {
+                "w": "straight",
+                "t": 1393.0,
+                "d": 510.0
+              },
+              {
+                "w": "streets",
+                "t": 1904.0,
+                "d": 637.0
+              },
+              {
+                "w": "deep",
+                "t": 2626.0,
+                "d": 382.0
+              },
+              {
+                "w": "drains",
+                "t": 3009.0,
+                "d": 680.0
+              },
+              {
+                "w": "shared",
+                "t": 3776.0,
+                "d": 553.0
+              },
+              {
+                "w": "measures",
+                "t": 4329.0,
+                "d": 1106.0
+              },
+              {
+                "w": "every",
+                "t": 5776.0,
+                "d": 510.0
+              },
+              {
+                "w": "line",
+                "t": 6287.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 6585.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 6670.0,
+                "d": 170.0
+              },
+              {
+                "w": "city",
+                "t": 6840.0,
+                "d": 382.0
+              },
+              {
+                "w": "whispers",
+                "t": 7223.0,
+                "d": 936.0
+              },
+              {
+                "w": "Someone",
+                "t": 8541.0,
+                "d": 553.0
+              },
+              {
+                "w": "decided",
+                "t": 9094.0,
+                "d": 553.0
+              },
+              {
+                "w": "this",
+                "t": 9647.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_invisible_government_of_harappa/img/p03.png",
+      "shot": "tracking aerial over several different city layouts",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Yet each city is its own world in baked brick, suggesting not one empire, but a constellation of powers sharing a common language of planning.",
+            "hi": "पर हर शहर अपनी पकी ईंटों की अलग दुनिया, मानो एक साम्राज्य नहीं, योजनाओं की एक जैसी भाषा बोलते ताकतों के नक्षत्र हों."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p03_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Yet",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "each",
+                "t": 457.0,
+                "d": 340.0
+              },
+              {
+                "w": "city",
+                "t": 797.0,
+                "d": 553.0
+              },
+              {
+                "w": "is",
+                "t": 1351.0,
+                "d": 255.0
+              },
+              {
+                "w": "its",
+                "t": 1606.0,
+                "d": 170.0
+              },
+              {
+                "w": "own",
+                "t": 1776.0,
+                "d": 297.0
+              },
+              {
+                "w": "world",
+                "t": 2074.0,
+                "d": 509.0
+              },
+              {
+                "w": "in",
+                "t": 2626.0,
+                "d": 256.0
+              },
+              {
+                "w": "baked",
+                "t": 2882.0,
+                "d": 382.0
+              },
+              {
+                "w": "brick",
+                "t": 3265.0,
+                "d": 595.0
+              },
+              {
+                "w": "suggesting",
+                "t": 4115.0,
+                "d": 724.0
+              },
+              {
+                "w": "not",
+                "t": 4840.0,
+                "d": 255.0
+              },
+              {
+                "w": "one",
+                "t": 5095.0,
+                "d": 255.0
+              },
+              {
+                "w": "empire",
+                "t": 5351.0,
+                "d": 893.0
+              },
+              {
+                "w": "but",
+                "t": 6457.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 6627.0,
+                "d": 85.0
+              },
+              {
+                "w": "constellation",
+                "t": 6712.0,
+                "d": 765.0
+              },
+              {
+                "w": "of",
+                "t": 7478.0,
+                "d": 212.0
+              },
+              {
+                "w": "powers",
+                "t": 7691.0,
+                "d": 680.0
+              },
+              {
+                "w": "sharing",
+                "t": 8500.0,
+                "d": 509.0
+              },
+              {
+                "w": "a",
+                "t": 9009.0,
+                "d": 170.0
+              },
+              {
+                "w": "common",
+                "t": 9179.0,
+                "d": 384.0
+              },
+              {
+                "w": "language",
+                "t": 9563.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 10031.0,
+                "d": 170.0
+              },
+              {
+                "w": "planning",
+                "t": 10202.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_invisible_government_of_harappa/img/p04.png",
+      "shot": "interior high-angle of a council-like gathering in a large hall",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "We do not see a throne. We see, instead, spaces for meetings, weighing, storing, and deciding together.",
+            "hi": "तख्त नज़र नहीं आता. दिखती हैं मिलबैठक की जगहें–तौलने, रखने, और मिलकर फैसला करने की."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p04_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "do",
+                "t": 329.0,
+                "d": 127.0
+              },
+              {
+                "w": "not",
+                "t": 457.0,
+                "d": 255.0
+              },
+              {
+                "w": "see",
+                "t": 712.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 925.0,
+                "d": 85.0
+              },
+              {
+                "w": "throne",
+                "t": 1010.0,
+                "d": 680.0
+              },
+              {
+                "w": "We",
+                "t": 2372.0,
+                "d": 254.0
+              },
+              {
+                "w": "see",
+                "t": 2626.0,
+                "d": 596.0
+              },
+              {
+                "w": "instead",
+                "t": 3223.0,
+                "d": 850.0
+              },
+              {
+                "w": "spaces",
+                "t": 4115.0,
+                "d": 596.0
+              },
+              {
+                "w": "for",
+                "t": 4712.0,
+                "d": 170.0
+              },
+              {
+                "w": "meetings",
+                "t": 4882.0,
+                "d": 893.0
+              },
+              {
+                "w": "weighing",
+                "t": 5861.0,
+                "d": 936.0
+              },
+              {
+                "w": "storing",
+                "t": 6797.0,
+                "d": 978.0
+              },
+              {
+                "w": "and",
+                "t": 7819.0,
+                "d": 212.0
+              },
+              {
+                "w": "deciding",
+                "t": 8031.0,
+                "d": 509.0
+              },
+              {
+                "w": "together",
+                "t": 8541.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_invisible_government_of_harappa/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_invisible_government_of_harappa/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Leaving debate behind, the Councillor steps into sunlit streets to test their plans against brick, water, and onrushing crowds.",
+            "hi": "बहस छोड़कर, मंत्री धूप भरी गलियों में उतरता है, ताकि अपनी योजनाएँ ईंटों, पानी और उमड़ती भीड़ पर आज़मा सके।"
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Leaving",
+                "t": 80.0,
+                "d": 505.0
+              },
+              {
+                "w": "debate",
+                "t": 586.0,
+                "d": 367.0
+              },
+              {
+                "w": "behind",
+                "t": 954.0,
+                "d": 643.0
+              },
+              {
+                "w": "the",
+                "t": 1873.0,
+                "d": 229.0
+              },
+              {
+                "w": "Councillor",
+                "t": 2103.0,
+                "d": 550.0
+              },
+              {
+                "w": "steps",
+                "t": 2654.0,
+                "d": 414.0
+              },
+              {
+                "w": "into",
+                "t": 3068.0,
+                "d": 274.0
+              },
+              {
+                "w": "sunlit",
+                "t": 3343.0,
+                "d": 459.0
+              },
+              {
+                "w": "streets",
+                "t": 3803.0,
+                "d": 460.0
+              },
+              {
+                "w": "to",
+                "t": 4264.0,
+                "d": 136.0
+              },
+              {
+                "w": "test",
+                "t": 4401.0,
+                "d": 414.0
+              },
+              {
+                "w": "their",
+                "t": 4816.0,
+                "d": 229.0
+              },
+              {
+                "w": "plans",
+                "t": 5045.0,
+                "d": 413.0
+              },
+              {
+                "w": "against",
+                "t": 5459.0,
+                "d": 459.0
+              },
+              {
+                "w": "brick",
+                "t": 5919.0,
+                "d": 781.0
+              },
+              {
+                "w": "water",
+                "t": 6701.0,
+                "d": 873.0
+              },
+              {
+                "w": "and",
+                "t": 7620.0,
+                "d": 321.0
+              },
+              {
+                "w": "onrushing",
+                "t": 7942.0,
+                "d": 689.0
+              },
+              {
+                "w": "crowds",
+                "t": 8632.0,
+                "d": 688.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_invisible_government_of_harappa/img/p05.png",
+      "shot": "medium close-up on the Councillor’s hands arranging weights",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Baluchistan to Saurashtra, the same sequence of weights appears. This is not chance. It is agreement, enforced and remembered.",
+            "hi": "बलूचिस्तान से सौराष्ट्र तक वही वज़न का तरतीब. ये संयोग नहीं, ये समझौता है–मनवाया भी गया, याद भी रखा गया."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p05_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "Baluchistan",
+                "t": 414.0,
+                "d": 765.0
+              },
+              {
+                "w": "to",
+                "t": 1180.0,
+                "d": 127.0
+              },
+              {
+                "w": "Saurashtra",
+                "t": 1308.0,
+                "d": 936.0
+              },
+              {
+                "w": "the",
+                "t": 2456.0,
+                "d": 213.0
+              },
+              {
+                "w": "same",
+                "t": 2670.0,
+                "d": 339.0
+              },
+              {
+                "w": "sequence",
+                "t": 3009.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 3562.0,
+                "d": 171.0
+              },
+              {
+                "w": "weights",
+                "t": 3734.0,
+                "d": 381.0
+              },
+              {
+                "w": "appears",
+                "t": 4115.0,
+                "d": 1320.0
+              },
+              {
+                "w": "This",
+                "t": 5478.0,
+                "d": 382.0
+              },
+              {
+                "w": "is",
+                "t": 5861.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 6031.0,
+                "d": 255.0
+              },
+              {
+                "w": "chance",
+                "t": 6287.0,
+                "d": 680.0
+              },
+              {
+                "w": "It",
+                "t": 7308.0,
+                "d": 255.0
+              },
+              {
+                "w": "is",
+                "t": 7563.0,
+                "d": 127.0
+              },
+              {
+                "w": "agreement",
+                "t": 7691.0,
+                "d": 808.0
+              },
+              {
+                "w": "enforced",
+                "t": 8584.0,
+                "d": 852.0
+              },
+              {
+                "w": "and",
+                "t": 9521.0,
+                "d": 296.0
+              },
+              {
+                "w": "remembered",
+                "t": 9818.0,
+                "d": 767.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_invisible_government_of_harappa/img/p06.png",
+      "shot": "slow push-in on a standardized brick wall",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "If every brick fits the order, every city fits the river's rhythm.",
+            "hi": "जब हर ईंट हुक्म में फिट बैठे, हर शहर नदी की लय में जम बैठता है."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p06_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "If",
+                "t": 49.0,
+                "d": 147.0
+              },
+              {
+                "w": "every",
+                "t": 269.6,
+                "d": 367.6
+              },
+              {
+                "w": "brick",
+                "t": 637.2,
+                "d": 281.9
+              },
+              {
+                "w": "fits",
+                "t": 919.1,
+                "d": 330.9
+              },
+              {
+                "w": "the",
+                "t": 1250.0,
+                "d": 171.6
+              },
+              {
+                "w": "order",
+                "t": 1433.8,
+                "d": 416.7
+              },
+              {
+                "w": "every",
+                "t": 2107.8,
+                "d": 379.9
+              },
+              {
+                "w": "city",
+                "t": 2487.8,
+                "d": 355.4
+              },
+              {
+                "w": "fits",
+                "t": 2843.1,
+                "d": 306.4
+              },
+              {
+                "w": "the",
+                "t": 3149.5,
+                "d": 122.5
+              },
+              {
+                "w": "river's",
+                "t": 3272.0,
+                "d": 453.4
+              },
+              {
+                "w": "rhythm",
+                "t": 3737.8,
+                "d": 465.7
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_invisible_government_of_harappa/img/p07.png",
+      "shot": "low-angle along a great drain",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Drains must be built, covered, cleaned. Such work needs plans, schedules, and someone to insist that tomorrow's muck is cleared today.",
+            "hi": "नालियाँ बनानी, ढकनी, साफ़ करनी हैं. इसके लिए नक्शे, समय-बंदी, और कोई चाहिए जो कहे–कल की गंदगी आज ही साफ़ होगी."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p07_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Drains",
+                "t": 117.0,
+                "d": 510.0
+              },
+              {
+                "w": "must",
+                "t": 627.0,
+                "d": 255.0
+              },
+              {
+                "w": "be",
+                "t": 882.0,
+                "d": 127.0
+              },
+              {
+                "w": "built",
+                "t": 1010.0,
+                "d": 595.0
+              },
+              {
+                "w": "covered",
+                "t": 1904.0,
+                "d": 808.0
+              },
+              {
+                "w": "cleaned",
+                "t": 2755.0,
+                "d": 978.0
+              },
+              {
+                "w": "Such",
+                "t": 4158.0,
+                "d": 469.0
+              },
+              {
+                "w": "work",
+                "t": 4627.0,
+                "d": 340.0
+              },
+              {
+                "w": "needs",
+                "t": 4968.0,
+                "d": 297.0
+              },
+              {
+                "w": "plans",
+                "t": 5265.0,
+                "d": 680.0
+              },
+              {
+                "w": "schedules",
+                "t": 6074.0,
+                "d": 893.0
+              },
+              {
+                "w": "and",
+                "t": 7138.0,
+                "d": 212.0
+              },
+              {
+                "w": "someone",
+                "t": 7351.0,
+                "d": 468.0
+              },
+              {
+                "w": "to",
+                "t": 7819.0,
+                "d": 170.0
+              },
+              {
+                "w": "insist",
+                "t": 8031.0,
+                "d": 552.0
+              },
+              {
+                "w": "that",
+                "t": 8584.0,
+                "d": 170.0
+              },
+              {
+                "w": "tomorrow's",
+                "t": 8754.0,
+                "d": 554.0
+              },
+              {
+                "w": "muck",
+                "t": 9308.0,
+                "d": 638.0
+              },
+              {
+                "w": "is",
+                "t": 9988.0,
+                "d": 340.0
+              },
+              {
+                "w": "cleared",
+                "t": 10328.0,
+                "d": 426.0
+              },
+              {
+                "w": "today",
+                "t": 10755.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_invisible_government_of_harappa/img/p08.png",
+      "shot": "over-the-shoulder of the Councillor watching drain workers",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "If the street floods, it is not the river's fault, but ours.",
+            "hi": "गली डूबे, तो कसूर नदी का नहीं, हमारा है."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p08_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "If",
+                "t": 52.6,
+                "d": 157.9
+              },
+              {
+                "w": "the",
+                "t": 210.5,
+                "d": 144.7
+              },
+              {
+                "w": "street",
+                "t": 355.2,
+                "d": 421.0
+              },
+              {
+                "w": "floods",
+                "t": 776.3,
+                "d": 526.3
+              },
+              {
+                "w": "it",
+                "t": 1447.4,
+                "d": 131.6
+              },
+              {
+                "w": "is",
+                "t": 1697.4,
+                "d": 157.9
+              },
+              {
+                "w": "not",
+                "t": 1855.2,
+                "d": 329.0
+              },
+              {
+                "w": "the",
+                "t": 2184.2,
+                "d": 171.0
+              },
+              {
+                "w": "river's",
+                "t": 2355.2,
+                "d": 500.0
+              },
+              {
+                "w": "fault",
+                "t": 2855.2,
+                "d": 407.9
+              },
+              {
+                "w": "but",
+                "t": 3394.8,
+                "d": 263.2
+              },
+              {
+                "w": "ours",
+                "t": 3723.7,
+                "d": 500.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_invisible_government_of_harappa/img/p09.png",
+      "shot": "tabletop close-up of seals and sealings",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Seals press images into wet clay, marking who sent a basket, who received it, and under whose unseen authority grain and copper move.",
+            "hi": "मुहरें गीली मिट्टी पर निशान छोड़ती हैं–किसने टोकरी भेजी, किसने पाई, और किस अदृश्य हुक्म पर अनाज और तांबा चलता है."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p09_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Seals",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "press",
+                "t": 542.0,
+                "d": 297.0
+              },
+              {
+                "w": "images",
+                "t": 840.0,
+                "d": 468.0
+              },
+              {
+                "w": "into",
+                "t": 1308.0,
+                "d": 297.0
+              },
+              {
+                "w": "wet",
+                "t": 1606.0,
+                "d": 297.0
+              },
+              {
+                "w": "clay",
+                "t": 1904.0,
+                "d": 808.0
+              },
+              {
+                "w": "marking",
+                "t": 2712.0,
+                "d": 467.0
+              },
+              {
+                "w": "who",
+                "t": 3179.0,
+                "d": 128.0
+              },
+              {
+                "w": "sent",
+                "t": 3308.0,
+                "d": 296.0
+              },
+              {
+                "w": "a",
+                "t": 3605.0,
+                "d": 42.0
+              },
+              {
+                "w": "basket",
+                "t": 3647.0,
+                "d": 852.0
+              },
+              {
+                "w": "who",
+                "t": 4585.0,
+                "d": 212.0
+              },
+              {
+                "w": "received",
+                "t": 4797.0,
+                "d": 893.0
+              },
+              {
+                "w": "it",
+                "t": 5691.0,
+                "d": 85.0
+              },
+              {
+                "w": "and",
+                "t": 6031.0,
+                "d": 255.0
+              },
+              {
+                "w": "under",
+                "t": 6287.0,
+                "d": 297.0
+              },
+              {
+                "w": "whose",
+                "t": 6585.0,
+                "d": 255.0
+              },
+              {
+                "w": "unseen",
+                "t": 6840.0,
+                "d": 553.0
+              },
+              {
+                "w": "authority",
+                "t": 7393.0,
+                "d": 595.0
+              },
+              {
+                "w": "grain",
+                "t": 7989.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 8457.0,
+                "d": 211.0
+              },
+              {
+                "w": "copper",
+                "t": 8669.0,
+                "d": 384.0
+              },
+              {
+                "w": "move",
+                "t": 9053.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_invisible_government_of_harappa/img/p10.png",
+      "shot": "medium shot of the Councillor handing a seal to a trader",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "With this mark, your goods join more than a journey; they join a system.",
+            "hi": "इस निशान से तुम्हारा माल सिर्फ सफ़र नहीं, एक पूरे तंत्र का हिस्सा बन जाता है."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p10_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 49.0,
+                "d": 208.3
+              },
+              {
+                "w": "this",
+                "t": 330.9,
+                "d": 269.6
+              },
+              {
+                "w": "mark",
+                "t": 600.5,
+                "d": 416.7
+              },
+              {
+                "w": "your",
+                "t": 1384.8,
+                "d": 269.6
+              },
+              {
+                "w": "goods",
+                "t": 1654.4,
+                "d": 367.7
+              },
+              {
+                "w": "join",
+                "t": 2058.8,
+                "d": 355.4
+              },
+              {
+                "w": "more",
+                "t": 2414.2,
+                "d": 343.1
+              },
+              {
+                "w": "than",
+                "t": 2757.3,
+                "d": 294.1
+              },
+              {
+                "w": "a",
+                "t": 3112.8,
+                "d": 73.5
+              },
+              {
+                "w": "journey",
+                "t": 3186.3,
+                "d": 527.0
+              },
+              {
+                "w": "they",
+                "t": 3909.3,
+                "d": 208.3
+              },
+              {
+                "w": "join",
+                "t": 4129.9,
+                "d": 330.9
+              },
+              {
+                "w": "a",
+                "t": 4534.3,
+                "d": 85.8
+              },
+              {
+                "w": "system",
+                "t": 4620.1,
+                "d": 490.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_invisible_government_of_harappa/img/p11.png",
+      "shot": "wide shot of a dockside at a coastal town like Lothal",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Ports, inland marts, and distant villages all keep the same measures. No royal edict survives, only the quiet force of habit and shared interest.",
+            "hi": "बंदरगाह, भीतरी मंडियाँ, दूर के गाँव–सब एक से बाट रखते हैं. कोई शाही फ़रमान नहीं मिलता, बस आदत और साझे फ़ायदे की ख़ामोश ताकत."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p11_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Ports",
+                "t": 117.0,
+                "d": 680.0
+              },
+              {
+                "w": "inland",
+                "t": 1095.0,
+                "d": 510.0
+              },
+              {
+                "w": "marts",
+                "t": 1606.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 2372.0,
+                "d": 297.0
+              },
+              {
+                "w": "distant",
+                "t": 2670.0,
+                "d": 424.0
+              },
+              {
+                "w": "villages",
+                "t": 3094.0,
+                "d": 767.0
+              },
+              {
+                "w": "all",
+                "t": 3904.0,
+                "d": 382.0
+              },
+              {
+                "w": "keep",
+                "t": 4287.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 4542.0,
+                "d": 170.0
+              },
+              {
+                "w": "same",
+                "t": 4712.0,
+                "d": 382.0
+              },
+              {
+                "w": "measures",
+                "t": 5095.0,
+                "d": 808.0
+              },
+              {
+                "w": "No",
+                "t": 6500.0,
+                "d": 382.0
+              },
+              {
+                "w": "royal",
+                "t": 6882.0,
+                "d": 340.0
+              },
+              {
+                "w": "edict",
+                "t": 7223.0,
+                "d": 382.0
+              },
+              {
+                "w": "survives",
+                "t": 7606.0,
+                "d": 851.0
+              },
+              {
+                "w": "only",
+                "t": 8711.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 9094.0,
+                "d": 213.0
+              },
+              {
+                "w": "quiet",
+                "t": 9308.0,
+                "d": 382.0
+              },
+              {
+                "w": "force",
+                "t": 9691.0,
+                "d": 296.0
+              },
+              {
+                "w": "of",
+                "t": 9988.0,
+                "d": 170.0
+              },
+              {
+                "w": "habit",
+                "t": 10158.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 10796.0,
+                "d": 213.0
+              },
+              {
+                "w": "shared",
+                "t": 11010.0,
+                "d": 425.0
+              },
+              {
+                "w": "interest",
+                "t": 11436.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_invisible_government_of_harappa/img/p12.png",
+      "shot": "interior shot of a large ‘granary’ structure from above",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Public buildings rise: platforms, halls, storehouses. They suggest organized collection and redistribution, yet no name is carved upon them.",
+            "hi": "ऊँची इमारतें उठती हैं–मंच, सभागार, कोठार. वे जुटाकर बाँटने की व्यवस्था दिखाती हैं, पर उन पर किसी का नाम नहीं खुदा."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p12_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Public",
+                "t": 74.0,
+                "d": 425.0
+              },
+              {
+                "w": "buildings",
+                "t": 500.0,
+                "d": 425.0
+              },
+              {
+                "w": "rise",
+                "t": 925.0,
+                "d": 553.0
+              },
+              {
+                "w": "platforms",
+                "t": 1776.0,
+                "d": 1021.0
+              },
+              {
+                "w": "halls",
+                "t": 2840.0,
+                "d": 850.0
+              },
+              {
+                "w": "storehouses",
+                "t": 3776.0,
+                "d": 1191.0
+              },
+              {
+                "w": "They",
+                "t": 5563.0,
+                "d": 212.0
+              },
+              {
+                "w": "suggest",
+                "t": 5776.0,
+                "d": 468.0
+              },
+              {
+                "w": "organized",
+                "t": 6287.0,
+                "d": 595.0
+              },
+              {
+                "w": "collection",
+                "t": 6882.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 7478.0,
+                "d": 255.0
+              },
+              {
+                "w": "redistribution",
+                "t": 7734.0,
+                "d": 1445.0
+              },
+              {
+                "w": "yet",
+                "t": 9223.0,
+                "d": 382.0
+              },
+              {
+                "w": "no",
+                "t": 9606.0,
+                "d": 211.0
+              },
+              {
+                "w": "name",
+                "t": 9818.0,
+                "d": 384.0
+              },
+              {
+                "w": "is",
+                "t": 10202.0,
+                "d": 126.0
+              },
+              {
+                "w": "carved",
+                "t": 10328.0,
+                "d": 382.0
+              },
+              {
+                "w": "upon",
+                "t": 10711.0,
+                "d": 298.0
+              },
+              {
+                "w": "them",
+                "t": 11010.0,
+                "d": 381.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_invisible_government_of_harappa/img/p13.png",
+      "shot": "medium shot of the Councillor standing near the Great Bath",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Some spaces speak of ritual and gathering. Civic order and sacred habit may have shared the same platforms and councils.",
+            "hi": "कुछ जगहें पूजा और सभा की लगती हैं. शायद नगर-व्यवस्था और आचरण-धर्म ने एक ही मंच और परिषदें बाँटी हों."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p13_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Some",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "spaces",
+                "t": 329.0,
+                "d": 468.0
+              },
+              {
+                "w": "speak",
+                "t": 797.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 1095.0,
+                "d": 170.0
+              },
+              {
+                "w": "ritual",
+                "t": 1265.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 1734.0,
+                "d": 212.0
+              },
+              {
+                "w": "gathering",
+                "t": 1946.0,
+                "d": 1147.0
+              },
+              {
+                "w": "Civic",
+                "t": 3223.0,
+                "d": 381.0
+              },
+              {
+                "w": "order",
+                "t": 3605.0,
+                "d": 384.0
+              },
+              {
+                "w": "and",
+                "t": 3989.0,
+                "d": 211.0
+              },
+              {
+                "w": "sacred",
+                "t": 4201.0,
+                "d": 469.0
+              },
+              {
+                "w": "habit",
+                "t": 4670.0,
+                "d": 425.0
+              },
+              {
+                "w": "may",
+                "t": 5138.0,
+                "d": 170.0
+              },
+              {
+                "w": "have",
+                "t": 5308.0,
+                "d": 212.0
+              },
+              {
+                "w": "shared",
+                "t": 5521.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 5819.0,
+                "d": 127.0
+              },
+              {
+                "w": "same",
+                "t": 5946.0,
+                "d": 382.0
+              },
+              {
+                "w": "platforms",
+                "t": 6329.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 6968.0,
+                "d": 212.0
+              },
+              {
+                "w": "councils",
+                "t": 7180.0,
+                "d": 851.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_invisible_government_of_harappa/img/p14.png",
+      "shot": "somber close-up on a rich burial pit",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Graves tell us there were differences: some lay with fine carnelian, others with little. The cities were ordered, but not equal.",
+            "hi": "कब्रें बताती हैं–फ़र्क थे: कोई लाल मणी के गहनों संग, कोई लगभग खाली. नगर सधे थे, पर बराबर नहीं."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p14_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Graves",
+                "t": 74.0,
+                "d": 553.0
+              },
+              {
+                "w": "tell",
+                "t": 627.0,
+                "d": 212.0
+              },
+              {
+                "w": "us",
+                "t": 840.0,
+                "d": 127.0
+              },
+              {
+                "w": "there",
+                "t": 968.0,
+                "d": 297.0
+              },
+              {
+                "w": "were",
+                "t": 1265.0,
+                "d": 170.0
+              },
+              {
+                "w": "differences",
+                "t": 1436.0,
+                "d": 851.0
+              },
+              {
+                "w": "some",
+                "t": 2498.0,
+                "d": 384.0
+              },
+              {
+                "w": "lay",
+                "t": 2882.0,
+                "d": 211.0
+              },
+              {
+                "w": "with",
+                "t": 3094.0,
+                "d": 213.0
+              },
+              {
+                "w": "fine",
+                "t": 3308.0,
+                "d": 339.0
+              },
+              {
+                "w": "carnelian",
+                "t": 3647.0,
+                "d": 767.0
+              },
+              {
+                "w": "others",
+                "t": 4585.0,
+                "d": 382.0
+              },
+              {
+                "w": "with",
+                "t": 4968.0,
+                "d": 212.0
+              },
+              {
+                "w": "little",
+                "t": 5180.0,
+                "d": 936.0
+              },
+              {
+                "w": "The",
+                "t": 6585.0,
+                "d": 212.0
+              },
+              {
+                "w": "cities",
+                "t": 6797.0,
+                "d": 425.0
+              },
+              {
+                "w": "were",
+                "t": 7223.0,
+                "d": 170.0
+              },
+              {
+                "w": "ordered",
+                "t": 7393.0,
+                "d": 680.0
+              },
+              {
+                "w": "but",
+                "t": 8159.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 8372.0,
+                "d": 254.0
+              },
+              {
+                "w": "equal",
+                "t": 8626.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_invisible_government_of_harappa/img/p15.png",
+      "shot": "circular wide shot of a mixed gathering",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Power may have sat in many hands at once-traders, ritual leaders, elders-none absolute, all bound by shared standards and negotiation.",
+            "hi": "ताकत शायद कई हाथों में बंटी थी–सौदागर, अनुष्ठान के अगुआ, बुज़ुर्ग–कोई सर्वशक्तिमान नहीं, सब साझा नियमों और सौदेबाज़ी से बंधे."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p15_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Power",
+                "t": 117.0,
+                "d": 297.0
+              },
+              {
+                "w": "may",
+                "t": 414.0,
+                "d": 170.0
+              },
+              {
+                "w": "have",
+                "t": 585.0,
+                "d": 170.0
+              },
+              {
+                "w": "sat",
+                "t": 755.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 1095.0,
+                "d": 170.0
+              },
+              {
+                "w": "many",
+                "t": 1265.0,
+                "d": 297.0
+              },
+              {
+                "w": "hands",
+                "t": 1563.0,
+                "d": 382.0
+              },
+              {
+                "w": "at",
+                "t": 1946.0,
+                "d": 211.0
+              },
+              {
+                "w": "once-traders",
+                "t": 2158.0,
+                "d": 767.0
+              },
+              {
+                "w": "ritual",
+                "t": 3223.0,
+                "d": 467.0
+              },
+              {
+                "w": "leaders",
+                "t": 3690.0,
+                "d": 809.0
+              },
+              {
+                "w": "elders-none",
+                "t": 4670.0,
+                "d": 595.0
+              },
+              {
+                "w": "absolute",
+                "t": 5265.0,
+                "d": 978.0
+              },
+              {
+                "w": "all",
+                "t": 6542.0,
+                "d": 425.0
+              },
+              {
+                "w": "bound",
+                "t": 6968.0,
+                "d": 297.0
+              },
+              {
+                "w": "by",
+                "t": 7265.0,
+                "d": 212.0
+              },
+              {
+                "w": "shared",
+                "t": 7478.0,
+                "d": 340.0
+              },
+              {
+                "w": "standards",
+                "t": 7819.0,
+                "d": 764.0
+              },
+              {
+                "w": "and",
+                "t": 8584.0,
+                "d": 298.0
+              },
+              {
+                "w": "negotiation",
+                "t": 8882.0,
+                "d": 935.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_invisible_government_of_harappa/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_invisible_government_of_harappa/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As factions murmur below, the Councillor claims the rooftop, vowing to hold the city's grid together through failing drains and doubt.",
+            "hi": "नीचे गुट बड़बड़ा रहे हैं, छत पर चढ़ा सभासद कसम खाता है—नालियाँ टूटें या भरोसा, शहर की नसें वो नहीं टूटने देगा।"
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 110.0,
+                "d": 240.0
+              },
+              {
+                "w": "factions",
+                "t": 350.0,
+                "d": 520.0
+              },
+              {
+                "w": "murmur",
+                "t": 870.0,
+                "d": 320.0
+              },
+              {
+                "w": "below",
+                "t": 1190.0,
+                "d": 560.0
+              },
+              {
+                "w": "the",
+                "t": 1790.0,
+                "d": 200.0
+              },
+              {
+                "w": "Councillor",
+                "t": 1990.0,
+                "d": 520.0
+              },
+              {
+                "w": "claims",
+                "t": 2510.0,
+                "d": 279.0
+              },
+              {
+                "w": "the",
+                "t": 2789.0,
+                "d": 120.0
+              },
+              {
+                "w": "rooftop",
+                "t": 2909.0,
+                "d": 960.0
+              },
+              {
+                "w": "vowing",
+                "t": 3949.0,
+                "d": 481.0
+              },
+              {
+                "w": "to",
+                "t": 4430.0,
+                "d": 120.0
+              },
+              {
+                "w": "hold",
+                "t": 4550.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 4830.0,
+                "d": 120.0
+              },
+              {
+                "w": "city's",
+                "t": 4950.0,
+                "d": 400.0
+              },
+              {
+                "w": "grid",
+                "t": 5350.0,
+                "d": 240.0
+              },
+              {
+                "w": "together",
+                "t": 5590.0,
+                "d": 480.0
+              },
+              {
+                "w": "through",
+                "t": 6070.0,
+                "d": 280.0
+              },
+              {
+                "w": "failing",
+                "t": 6350.0,
+                "d": 320.0
+              },
+              {
+                "w": "drains",
+                "t": 6670.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 7110.0,
+                "d": 280.0
+              },
+              {
+                "w": "doubt",
+                "t": 7390.0,
+                "d": 560.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_invisible_government_of_harappa/img/p16.png",
+      "shot": "moody wide shot of a Harappan neighbourhood in decline",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By 1900 BCE, some drains silt up, bricks are reused, quarters thin out. Whatever councils guided the cities, their grip loosens in the slow drift of change.",
+            "hi": "1900 ईसा पूर्व तक कुछ नालियाँ भर जाती हैं, ईंटें उखड़ कर दुबारा लगती हैं, मुहल्ले सूखने लगते हैं. जो भी परिषदें शहर चलाती थीं, बदलती रफ़्तार में उनकी पकड़ ढीली पड़ती है."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p16_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By 1900 ",
+                "t": 74.0,
+                "d": 1999.0
+              },
+              {
+                "w": "BCE",
+                "t": 2074.0,
+                "d": 127.0
+              },
+              {
+                "w": "some",
+                "t": 2372.0,
+                "d": 425.0
+              },
+              {
+                "w": "drains",
+                "t": 2797.0,
+                "d": 296.0
+              },
+              {
+                "w": "silt",
+                "t": 3094.0,
+                "d": 298.0
+              },
+              {
+                "w": "up",
+                "t": 3393.0,
+                "d": 722.0
+              },
+              {
+                "w": "bricks",
+                "t": 4158.0,
+                "d": 469.0
+              },
+              {
+                "w": "are",
+                "t": 4627.0,
+                "d": 255.0
+              },
+              {
+                "w": "reused",
+                "t": 4882.0,
+                "d": 723.0
+              },
+              {
+                "w": "quarters",
+                "t": 5819.0,
+                "d": 553.0
+              },
+              {
+                "w": "thin",
+                "t": 6372.0,
+                "d": 212.0
+              },
+              {
+                "w": "out",
+                "t": 6585.0,
+                "d": 680.0
+              },
+              {
+                "w": "Whatever",
+                "t": 7606.0,
+                "d": 553.0
+              },
+              {
+                "w": "councils",
+                "t": 8159.0,
+                "d": 552.0
+              },
+              {
+                "w": "guided",
+                "t": 8711.0,
+                "d": 426.0
+              },
+              {
+                "w": "the",
+                "t": 9138.0,
+                "d": 126.0
+              },
+              {
+                "w": "cities",
+                "t": 9264.0,
+                "d": 723.0
+              },
+              {
+                "w": "their",
+                "t": 10328.0,
+                "d": 341.0
+              },
+              {
+                "w": "grip",
+                "t": 10670.0,
+                "d": 296.0
+              },
+              {
+                "w": "loosens",
+                "t": 10967.0,
+                "d": 596.0
+              },
+              {
+                "w": "in",
+                "t": 11563.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 11691.0,
+                "d": 169.0
+              },
+              {
+                "w": "slow",
+                "t": 11860.0,
+                "d": 340.0
+              },
+              {
+                "w": "drift",
+                "t": 12201.0,
+                "d": 341.0
+              },
+              {
+                "w": "of",
+                "t": 12542.0,
+                "d": 127.0
+              },
+              {
+                "w": "change",
+                "t": 12670.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_invisible_government_of_harappa/split_auto/s0.png",
+          "slogan": {
+            "en": "Order endures beyond falling bricks",
+            "hi": "ईंटों के बाद भी व्यवस्था रहे"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_invisible_government_of_harappa/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_invisible_government_of_harappa/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Even as walls crumble, the Councillor's design threads through brick, water and memory, binding distant mounds into one long deliberation.",
+            "hi": "दीवारें टूटती रहीं, पर मंत्री की युक्ति ईंट, पानी और यादों में बुनती गई, दूर‑दूर टीले एक लम्बी सभा में बंध गए।"
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Even",
+                "t": 72.0,
+                "d": 250.0
+              },
+              {
+                "w": "as",
+                "t": 322.0,
+                "d": 166.0
+              },
+              {
+                "w": "walls",
+                "t": 489.0,
+                "d": 375.0
+              },
+              {
+                "w": "crumble",
+                "t": 864.0,
+                "d": 625.0
+              },
+              {
+                "w": "the",
+                "t": 1947.0,
+                "d": 208.0
+              },
+              {
+                "w": "Councillor's",
+                "t": 2156.0,
+                "d": 625.0
+              },
+              {
+                "w": "design",
+                "t": 2781.0,
+                "d": 416.0
+              },
+              {
+                "w": "threads",
+                "t": 3197.0,
+                "d": 458.0
+              },
+              {
+                "w": "through",
+                "t": 3656.0,
+                "d": 332.0
+              },
+              {
+                "w": "brick",
+                "t": 3988.0,
+                "d": 667.0
+              },
+              {
+                "w": "water",
+                "t": 4697.0,
+                "d": 625.0
+              },
+              {
+                "w": "and",
+                "t": 5322.0,
+                "d": 208.0
+              },
+              {
+                "w": "memory",
+                "t": 5531.0,
+                "d": 791.0
+              },
+              {
+                "w": "binding",
+                "t": 6531.0,
+                "d": 541.0
+              },
+              {
+                "w": "distant",
+                "t": 7072.0,
+                "d": 458.0
+              },
+              {
+                "w": "mounds",
+                "t": 7531.0,
+                "d": 458.0
+              },
+              {
+                "w": "into",
+                "t": 7989.0,
+                "d": 291.0
+              },
+              {
+                "w": "one",
+                "t": 8281.0,
+                "d": 500.0
+              },
+              {
+                "w": "long",
+                "t": 8781.0,
+                "d": 333.0
+              },
+              {
+                "w": "deliberation",
+                "t": 9114.0,
+                "d": 791.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_invisible_government_of_harappa/img/p17.png",
+      "shot": "melancholic medium shot of the ageing Councillor leaving the council hall",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "Our names may pass, but the pattern we set will travel far.",
+            "hi": "नाम मिट जाते हैं, पर जो ढांचा हम गढ़ते हैं, वो दूर तक सफ़र करता है."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p17_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Our",
+                "t": 49.0,
+                "d": 208.3
+              },
+              {
+                "w": "names",
+                "t": 257.3,
+                "d": 441.2
+              },
+              {
+                "w": "may",
+                "t": 698.5,
+                "d": 220.6
+              },
+              {
+                "w": "pass",
+                "t": 931.4,
+                "d": 441.2
+              },
+              {
+                "w": "but",
+                "t": 1678.9,
+                "d": 196.1
+              },
+              {
+                "w": "the",
+                "t": 1875.0,
+                "d": 159.3
+              },
+              {
+                "w": "pattern",
+                "t": 2034.3,
+                "d": 527.0
+              },
+              {
+                "w": "we",
+                "t": 2561.3,
+                "d": 232.8
+              },
+              {
+                "w": "set",
+                "t": 2794.1,
+                "d": 306.4
+              },
+              {
+                "w": "will",
+                "t": 3112.8,
+                "d": 281.9
+              },
+              {
+                "w": "travel",
+                "t": 3394.6,
+                "d": 379.9
+              },
+              {
+                "w": "far",
+                "t": 3774.5,
+                "d": 355.4
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/the_invisible_government_of_harappa/img/p18.png",
+      "shot": "timelapse-style pull-back from ruins to modern excavations",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "No king boasts from a pillar, yet the cities endure as proof: leadership can be woven into bricks, drains, standards and councils, unseen but enduring across four thousand years.",
+            "hi": "कोई राजा स्तंभ पर शेखी नहीं बघारता, फिर भी शहर गवाही दे रहे हैं–नेतृत्व ईंटों, नालियों, पैमानों और परिषदों में बुन भी सकता है, अदृश्य रहकर भी चार हज़ार साल तक टिका रह सकता है."
+          },
+          "audio": {
+            "en": "assets/the_invisible_government_of_harappa/audio/en/p18_0.mp3",
+            "hi": "assets/the_invisible_government_of_harappa/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "No",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "king",
+                "t": 329.0,
+                "d": 255.0
+              },
+              {
+                "w": "boasts",
+                "t": 585.0,
+                "d": 425.0
+              },
+              {
+                "w": "from",
+                "t": 1010.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 1180.0,
+                "d": 127.0
+              },
+              {
+                "w": "pillar",
+                "t": 1308.0,
+                "d": 510.0
+              },
+              {
+                "w": "yet",
+                "t": 2202.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 2414.0,
+                "d": 126.0
+              },
+              {
+                "w": "cities",
+                "t": 2541.0,
+                "d": 468.0
+              },
+              {
+                "w": "endure",
+                "t": 3009.0,
+                "d": 553.0
+              },
+              {
+                "w": "as",
+                "t": 3562.0,
+                "d": 298.0
+              },
+              {
+                "w": "proof",
+                "t": 3861.0,
+                "d": 723.0
+              },
+              {
+                "w": "leadership",
+                "t": 5095.0,
+                "d": 595.0
+              },
+              {
+                "w": "can",
+                "t": 5691.0,
+                "d": 212.0
+              },
+              {
+                "w": "be",
+                "t": 5904.0,
+                "d": 127.0
+              },
+              {
+                "w": "woven",
+                "t": 6031.0,
+                "d": 340.0
+              },
+              {
+                "w": "into",
+                "t": 6372.0,
+                "d": 255.0
+              },
+              {
+                "w": "bricks",
+                "t": 6627.0,
+                "d": 680.0
+              },
+              {
+                "w": "drains",
+                "t": 7436.0,
+                "d": 723.0
+              },
+              {
+                "w": "standards",
+                "t": 8202.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 8968.0,
+                "d": 211.0
+              },
+              {
+                "w": "councils",
+                "t": 9179.0,
+                "d": 808.0
+              },
+              {
+                "w": "unseen",
+                "t": 10287.0,
+                "d": 638.0
+              },
+              {
+                "w": "but",
+                "t": 10925.0,
+                "d": 255.0
+              },
+              {
+                "w": "enduring",
+                "t": 11180.0,
+                "d": 553.0
+              },
+              {
+                "w": "across",
+                "t": 11734.0,
+                "d": 425.0
+              },
+              {
+                "w": "four",
+                "t": 12159.0,
+                "d": 255.0
+              },
+              {
+                "w": "thousand",
+                "t": 12414.0,
+                "d": 468.0
+              },
+              {
+                "w": "years",
+                "t": 12882.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Harappan Civic Councillor",
+    "epithets": [
+      "Urban planners of the Indus",
+      "Masters of the Great Bath and Granaries",
+      "Keepers of Standard Weights and Bricks",
+      "Silent Councils of Harappa and Mohenjo-daro"
+    ],
+    "legend": "They ruled a vast land without crowns, palaces, or kings."
+  }
+}
