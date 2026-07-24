@@ -11,13 +11,20 @@ caption / SFX lettering overlay, assemble a comic page, and write a data record.
   python comic_engine.py "Ashoka" --max 4           # cap panels (faster)
   python comic_engine.py --n 5                       # batch the next 5 unbuilt episodes
 """
-import argparse, sys
+import argparse, os, sys
+import concurrent.futures as cf
 
 sys.stdout.reconfigure(encoding="utf-8")
 import aiclient as ai
 import style_bible as sb
 import common as C
 import gen_character as gc
+
+# How many panel images to render concurrently. gpt-image-2 calls are network-bound (~150s
+# each) and every panel is an INDEPENDENT images/edit against the same character sheet, so
+# rendering them in a thread pool is a near-linear speedup without touching consistency.
+# Tunable via env (raise it when the deployment's rate limit allows).
+PANEL_CONCURRENCY = int(os.environ.get("IH_PANEL_CONCURRENCY", "5"))
 
 
 def author_storyboard(ep, roster, tok):
@@ -56,29 +63,45 @@ def render_episode(ep, tok=None, max_panels=None, force=False, co_stars=None, la
         panels = panels[:max_panels]
     C.save_json(C.APP / "data" / f"{eid}.storyboard.json", {**story, "panels": panels})
 
-    # 3. render each panel (text-free art) via images/edits with the model sheet reference
+    # 3. render each panel (text-free art) via images/edits with the model sheet reference.
+    #    Panels are INDEPENDENT edits against the same sheet, so render them concurrently.
     rawdir = C.APP / "assets" / eid / "img"
     rawdir.mkdir(parents=True, exist_ok=True)
     reg = C.load_registry()["characters"]
-    out_panels, rendered = [], 0
-    for p in panels:
+    tok = ai.token()   # one fresh token for the whole (short) parallel batch + downstream steps
+
+    def _render_panel(p):
         pid = p["id"]
         cast = [c for c in p.get("cast", []) if c in reg]
         entries = [reg[c] for c in cast]
         raw = rawdir / f"{pid}.png"
         if force or not raw.exists():
             print(f"  panel {pid} ({', '.join(cast) or 'scenery'})", flush=True)
-            prompt = _panel_prompt(ep, p, entries)
-            if entries:
-                refs = [C.APP / e["sheet"] for e in entries]
-                tok = ai.edit_image(prompt, refs, raw, tok, size="1024x1024")
-            else:
-                tok = ai.gen_image(prompt, raw, tok, size="1024x1024")
+            try:
+                prompt = _panel_prompt(ep, p, entries)
+                if entries:
+                    refs = [C.APP / e["sheet"] for e in entries]
+                    ai.edit_image(prompt, refs, raw, tok, size="1024x1024")
+                else:
+                    ai.gen_image(prompt, raw, tok, size="1024x1024")
+            except Exception as e:  # noqa: BLE001
+                print(f"    panel {pid} error: {e!r}", flush=True)
+        return p, raw
+
+    workers = max(1, min(PANEL_CONCURRENCY, len(panels)))
+    if workers > 1:
+        with cf.ThreadPoolExecutor(max_workers=workers) as ex:
+            results = list(ex.map(_render_panel, panels))   # ex.map preserves input order
+    else:
+        results = [_render_panel(p) for p in panels]
+
+    out_panels, rendered = [], 0
+    for p, raw in results:
         if not raw.exists():
-            print(f"    skip {pid} (blocked/failed)", flush=True)
+            print(f"    skip {p['id']} (blocked/failed)", flush=True)
             continue
         rendered += 1
-        out_panels.append({"id": pid, "shot": p.get("shot", ""), "sfx": p.get("sfx", []),
+        out_panels.append({"id": p["id"], "shot": p.get("shot", ""), "sfx": p.get("sfx", []),
                            "dialogue": p.get("dialogue", [])})
 
     if not rendered:
