@@ -72,7 +72,20 @@ A deep, grouped saga — rise, heroes, wars, craft, rule and the innovations of 
 12. **The Parade That Ended the Mauryas** ✅ — Brihadratha & Pushyamitra Shunga (185 BCE); Thapar's structural reading.
 13. **Chandragupta's Last Fast at Shravanabelagola** ✅ — the founder's Jain renunciation and *sallekhana*.
 
-## 🕌 Vijayanagara — the City of Victory  *(Medieval)*  — **🔨 BUILDING (autonomous)**
+## 🕌 The Vijayanagara Empire — the City of Victory  *(Medieval)*  — **✅ CHAPTER COMPLETE (13/13)**
+1. **Harihara and Bukka Raise a City of Victory** ✅ — the 1336 Sangama founding; the Vidyaranya debate.
+2. **Hampi, the Boulder-Crowned Capital** ✅ — Virupaksha, the Mahanavami Dibba, the sacred/royal zones.
+3. **The Tanks That Fed an Empire** ✅ — the Kamalapura tank + Bukka Aqueduct; terracotta-pipe hydraulics.
+4. **Krishnadevaraya Takes Raichur** ✅ — the 1520 gunpowder battle; Paes; the seed of Talikota.
+5. **The King Who Wrote Amuktamalyada** ✅ — Krishnadevaraya's Telugu masterpiece; the Ashtadiggajas.
+6. **The Stone Chariot and Singing Pillars** ✅ — Vittala temple; the SaReGaMa musical pillars.
+7. **Four Travelers Enter the City** ✅ — Conti, Abdur Razzaq, Paes, Nunes; testing sources vs archaeology.
+8. **Diamonds, Horses and Pagodas in the Bazaar** ✅ — the gold varaha; the war-horse trade (Subrahmanyam).
+9. **The Nayakas Who Held the Sword** ✅ — the amara-nayaka system; the segmentary-state debate.
+10. **Rakkasa-Tangadi Breaks the Capital** ✅ — the 1565 fall; the Gilani defection; the sack of Hampi.
+11. **Purandara Dasa Sets the First Notes** ✅ — the father of Carnatic music; sarali varase.
+12. **Tenali Rama Between Poet and Folktale** ✅ — the real poet vs the folk-hero; *Panduranga Mahatmyam*.
+13. **Hampi Becomes a World Heritage Memory** ✅ — the Aravidu heirs; 1986 UNESCO; the living ruin.
 
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·

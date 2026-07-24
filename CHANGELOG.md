@@ -5,6 +5,25 @@ problems. Newest first.
 
 ---
 
+## 2026-07-24 — 🕌 Vijayanagara Empire COMPLETE (13/13) · panel-parallel rendering
+
+- **The Vijayanagara Empire chapter is COMPLETE (13/13, all QA-clean):** Harihara & Bukka (founding),
+  Hampi (the boulder capital), the Tanks/Bukka Aqueduct (hydraulics), Krishnadevaraya at Raichur
+  (1520 gunpowder war), Amuktamalyada (his Telugu poem), the Stone Chariot & musical pillars, the Four
+  Travelers (Conti/Razzaq/Paes/Nunes), the bazaar economy (diamonds/horses/pagodas), the Amara-Nayakas,
+  Rakkasa-Tangadi/Talikota (the 1565 fall), Purandara Dasa (Carnatic music), Tenali Rama (poet vs
+  folktale), and Hampi → World Heritage. Deep political/economic/scientific/cultural innovation, with
+  rigorous source-criticism throughout (segmentary-state debate, non-communal framing of Talikota,
+  Eaton/Subrahmanyam/Ferishta) and a one-date accuracy fix (Hampi off the Danger List in **2006**).
+- **Panel-parallel rendering (perf):** `comic_engine` now renders a story's panels concurrently
+  (`IH_PANEL_CONCURRENCY`, default 5) — real-tested ~4–5× on the image phase, **consistency-neutral**
+  (same locked-in model sheet per panel). Version-controlled + tested before activating. Story-level
+  parallelism deferred to `ROADMAP.md §10` (needs git/registry locks) — user chose "keep it simple".
+- Autonomous engine auto-advanced to **Indus Valley Civilisation** (5th chapter) and self-seeded the
+  next backlog era.
+
+---
+
 ## 2026-07-23 — ☸️ Maurya Empire COMPLETE (13/13) · pipeline hardening (token-hang + image-safety)
 
 - **The Maurya Empire chapter is COMPLETE (13/13, all QA-clean):** Chandragupta Maurya (founding),
