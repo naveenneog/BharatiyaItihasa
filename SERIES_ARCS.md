@@ -87,6 +87,21 @@ A deep, grouped saga — rise, heroes, wars, craft, rule and the innovations of 
 12. **Tenali Rama Between Poet and Folktale** ✅ — the real poet vs the folk-hero; *Panduranga Mahatmyam*.
 13. **Hampi Becomes a World Heritage Memory** ✅ — the Aravidu heirs; 1986 UNESCO; the living ruin.
 
+## 🏺 The Indus Valley Civilisation  *(Ancient — the deep origin, c. 7000–1300 BCE)*  — **✅ CHAPTER COMPLETE (13/13)**
+1. **The Village That Began Everything** ✅ — Mehrgarh; the Neolithic roots (wheat, cattle, cotton).
+2. **The City That Drew Itself in Straight Lines** ✅ — the grid, 1:2:4 bricks, the Great-Bath engineers.
+3. **The Invisible Government of Harappa** ✅ — a uniform civilisation with no kings; the "constellation of powers".
+4. **The Pool at the Heart of the City** ✅ — Mohenjo-daro's Great Bath; gypsum + bitumen waterproofing.
+5. **The City That Did Not Smell** ✅ — the world's first urban sanitation; the unsung drain-workers.
+6. **Water in the Desert** ✅ — Dholavira's 16 reservoirs; monsoon harvesting (2021 UNESCO).
+7. **The Bead That Crossed the World** ✅ — carnelian craft (heat-treatment) at Chanhudaro.
+8. **The Same Weight from Harappa to Shortughai** ✅ — the binary(1:2:4:8:16) chert-weight metrology.
+9. **The Ships of Meluhha** ✅ — Lothal's dock; the Gulf trade route (Dilmun/Magan → Ur/Kish).
+10. **The One-Horned Bull and the Mark of the Maker** ✅ — steatite seals; the "unicorn" motif.
+11. **Four Thousand Signs and Silence** ✅ — the undeciphered script (Parpola vs Farmer-Sproat-Witzel).
+12. **A Face in Stone, a Body in Bronze** ✅ — lost-wax casting; the Dancing Girl (with its naming caveat).
+13. **When the Monsoons Changed** ✅ — the Late-Harappan decline; the 2019 Rakhigarhi aDNA genome.
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.

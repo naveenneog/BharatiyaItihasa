@@ -5,6 +5,25 @@ problems. Newest first.
 
 ---
 
+## 2026-07-25 — 🏺 Indus Valley Civilisation COMPLETE (13/13) · self-extend to 7 eras
+
+- **The Indus Valley Civilisation chapter is COMPLETE (13/13, all QA-clean):** Mehrgarh farmers
+  (Neolithic origin), the grid city-builders (1:2:4 bricks, drainage), the "invisible government"
+  (no kings, standardized weights), Mohenjo-daro's Great Bath, the sanitation workers (unsung), the
+  Dholavira desert reservoirs, the carnelian bead craft, the weighmasters (binary metrology), the
+  Meluhha sea trade (Dilmun/Magan→Ur), the seal cutters, the undeciphered Indus script (Parpola vs
+  Farmer-Sproat-Witzel), the Harappan artists (Dancing Girl), and the Late-Harappan decline. The
+  finale weaves in **recent research** — the Kotla Dahar monsoon study and the **2019 Rakhigarhi
+  ancient-DNA genome** (Iranian-farmer + South-Asian ancestry, no Steppe) — handled evidence-based
+  and **neutrally** (no communal framing), exactly per the guardrails.
+- **Autonomous engine now spans 7 eras:** 5 chapters COMPLETE (Chola, Gupta, Maurya, Vijayanagara,
+  Indus Valley = 65 QA-clean stories) + **Mughal Empire** (building) and **Chalukyas & Rashtrakutas**
+  (seeded) queued. Panel-parallelism holding; self-extend/self-heal proven repeatedly.
+- Note: a ~14h overnight gap was the host device being asleep (no build, no schedule ticks); the
+  system resumed cleanly on wake with no corruption (the last story committed before sleep).
+
+---
+
 ## 2026-07-24 — 🕌 Vijayanagara Empire COMPLETE (13/13) · panel-parallel rendering
 
 - **The Vijayanagara Empire chapter is COMPLETE (13/13, all QA-clean):** Harihara & Bukka (founding),
