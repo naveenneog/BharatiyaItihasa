@@ -1,5 +1,5 @@
 {
-  "built": 93,
+  "built": 94,
   "chapters": [
     {
       "chapter": "The Chola Empire",
@@ -2152,7 +2152,7 @@
     {
       "chapter": "The Chalukyas and Rashtrakutas",
       "blurb": "",
-      "built": 0,
+      "built": 1,
       "total": 13,
       "parts": [
         {
@@ -2164,18 +2164,24 @@
               "title": "Pulakeshin I Builds the Red Rock Fort",
               "era": "Early Chalukya rise, c. 543-566 CE",
               "series": "Ancient & Medieval India",
-              "built": false,
+              "built": true,
               "flagship": false,
               "chapter": "The Chalukyas and Rashtrakutas",
               "chapter_part": "I. The Eagle Throne",
               "chapter_order": 1,
               "year": 543,
               "year_label": "543 CE",
-              "legend": "On a red sandstone bluff above a lake, Pulakeshin I turns Vatapi into a fortress and gives a local Deccan house the confidence of kings.",
-              "epithets": [],
-              "scenes": 0,
-              "langs": [],
-              "thumb": ""
+              "legend": "He carved a future empire into the red rock of Vatapi.",
+              "epithets": [
+                "Founder of the Chalukya dynasty",
+                "Mahārājādhirāja of Vatapi"
+              ],
+              "scenes": 22,
+              "langs": [
+                "en",
+                "hi"
+              ],
+              "thumb": "assets/pulakeshin_i_builds_the_red_rock_fort/intro/hero.png"
             },
             {
               "id": "mangalesa_lets_the_rock_speak_kannada",
@@ -2420,6 +2426,286 @@
               "year": 820,
               "year_label": "820 CE",
               "legend": "Mahaviracharya gathers rules for fractions, measures, shadows and combinations into a dedicated mathematics book for a practical world.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "The Delhi Sultanate",
+      "blurb": "",
+      "built": 0,
+      "total": 13,
+      "parts": [
+        {
+          "part": "I. Sultans from Dust",
+          "episodes": [
+            {
+              "id": "lakhbaksh_starts_the_tower_of_delhi",
+              "figure": "Qutb-ud-Din Aibak",
+              "title": "Lakhbaksh Starts the Tower of Delhi",
+              "era": "Early Delhi Sultanate, c. 1192-1210 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Delhi Sultanate",
+              "chapter_part": "I. Sultans from Dust",
+              "chapter_order": 1,
+              "year": 1192,
+              "year_label": "1192 CE",
+              "legend": "A Turkic slave-general breaks from the Ghurids, rules from Delhi and Lahore, and begins the sandstone tower that still marks the first Sultanate horizon.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "iltutmish_wins_a_throne_and_a_caliph",
+              "figure": "Shams-ud-Din Iltutmish",
+              "title": "Iltutmish Wins a Throne and a Caliph",
+              "era": "Mamluk consolidation, 1211-1236 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Delhi Sultanate",
+              "chapter_part": "I. Sultans from Dust",
+              "chapter_order": 2,
+              "year": 1211,
+              "year_label": "1211 CE",
+              "legend": "Iltutmish turns a fragile conquest into a recognized sultanate with coins, iqta grants, a caliphal diploma, and a daughter he dares to name heir.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "razia_sultan_rides_through_the_gate",
+              "figure": "Razia Sultan",
+              "title": "Razia Sultan Rides Through the Gate",
+              "era": "Mamluk Delhi, 1236-1240 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Delhi Sultanate",
+              "chapter_part": "I. Sultans from Dust",
+              "chapter_order": 3,
+              "year": 1236,
+              "year_label": "1236 CE",
+              "legend": "Her coins call her Sultan, and for four fierce years Razia governs in her own name while nobles fear the woman they cannot control.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "II. Iron, Oath and Frontier",
+          "episodes": [
+            {
+              "id": "balban_builds_the_shadow_of_god",
+              "figure": "Ghiyas-ud-Din Balban",
+              "title": "Balban Builds the Shadow of God",
+              "era": "Late Mamluk Sultanate, 1266-1287 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Delhi Sultanate",
+              "chapter_part": "II. Iron, Oath and Frontier",
+              "chapter_order": 4,
+              "year": 1266,
+              "year_label": "1266 CE",
+              "legend": "A former slave turns kingship into ceremony, spies on governors, breaks the Forty, and loses his heir defending Delhi from the Mongol storm.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "malik_kafur_marches_beyond_the_vindhyas",
+              "figure": "Malik Kafur",
+              "title": "Malik Kafur Marches Beyond the Vindhyas",
+              "era": "Khalji southern campaigns, 1307-1311 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Delhi Sultanate",
+              "chapter_part": "II. Iron, Oath and Frontier",
+              "chapter_order": 5,
+              "year": 1307,
+              "year_label": "1307 CE",
+              "legend": "Bought for a thousand dinars, Malik Kafur leads Alauddin's armies across the Deccan and returns with tribute that changes Delhi's imagination of India.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "III. The Fires around Delhi",
+          "episodes": [
+            {
+              "id": "alauddin_holds_siri_against_the_mongols",
+              "figure": "Alauddin Khalji",
+              "title": "Alauddin Holds Siri Against the Mongols",
+              "era": "Khalji wars with the Mongols, 1297-1306 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Delhi Sultanate",
+              "chapter_part": "III. The Fires around Delhi",
+              "chapter_order": 6,
+              "year": 1297,
+              "year_label": "1297 CE",
+              "legend": "Five times the Mongols press toward Delhi, and Alauddin answers with forts, armies, hard discipline, and the city of Siri.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "muhammad_bin_tughlaq_tests_the_impossible",
+              "figure": "Muhammad bin Tughlaq",
+              "title": "Muhammad bin Tughlaq Tests the Impossible",
+              "era": "Tughlaq experiments, 1325-1351 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Delhi Sultanate",
+              "chapter_part": "III. The Fires around Delhi",
+              "chapter_order": 7,
+              "year": 1325,
+              "year_label": "1325 CE",
+              "legend": "A brilliant sultan moves a capital, issues token coins, dreams across mountains, and leaves Ibn Battuta amazed by genius and terror in the same court.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "timur_leaves_delhi_empty",
+              "figure": "Timur",
+              "title": "Timur Leaves Delhi Empty",
+              "era": "Timurid invasion of north India, 1398-1399 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Delhi Sultanate",
+              "chapter_part": "III. The Fires around Delhi",
+              "chapter_order": 8,
+              "year": 1398,
+              "year_label": "1398 CE",
+              "legend": "Timur storms into a weakened Sultanate, sacks Delhi in December 1398, and marches away with treasure, captives and artisans for Samarkand.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "IV. Craft, Markets and Water",
+          "episodes": [
+            {
+              "id": "stone_speaks_at_the_qutb_complex",
+              "figure": "The Builders of Mehrauli",
+              "title": "Stone Speaks at the Qutb Complex",
+              "era": "Qutb Complex building phases, c. 1193-1368 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Delhi Sultanate",
+              "chapter_part": "IV. Craft, Markets and Water",
+              "chapter_order": 9,
+              "year": 1193,
+              "year_label": "1193 CE",
+              "legend": "Across 170 years, masons, calligraphers and sultans turn reused columns, true arches, domes and repairs into the first great archive of Sultanate stone.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "alauddin_fixes_the_price_of_wheat",
+              "figure": "Alauddin Khalji",
+              "title": "Alauddin Fixes the Price of Wheat",
+              "era": "Khalji market reforms, c. 1303-1316 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Delhi Sultanate",
+              "chapter_part": "IV. Craft, Markets and Water",
+              "chapter_order": 10,
+              "year": 1303,
+              "year_label": "1303 CE",
+              "legend": "After siege hunger frightens Delhi, Alauddin fixes prices, licenses traders, fills granaries and posts spies so an enormous army can eat cheaply.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "firuz_shah_turns_water_into_villages",
+              "figure": "Firuz Shah Tughlaq",
+              "title": "Firuz Shah Turns Water into Villages",
+              "era": "Tughlaq welfare and infrastructure, 1351-1388 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Delhi Sultanate",
+              "chapter_part": "IV. Craft, Markets and Water",
+              "chapter_order": 11,
+              "year": 1351,
+              "year_label": "1351 CE",
+              "legend": "Firuz Shah digs canals, restores tanks, founds villages, moves Ashokan pillars, and writes a memoir that lists both welfare works and hard-edged intolerance.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "V. Words, Song and the Open Door",
+          "episodes": [
+            {
+              "id": "amir_khusrau_sings_hind_and_iran",
+              "figure": "Amir Khusrau",
+              "title": "Amir Khusrau Sings Hind and Iran",
+              "era": "Indo-Persian literary culture, 1253-1325 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Delhi Sultanate",
+              "chapter_part": "V. Words, Song and the Open Door",
+              "chapter_order": 12,
+              "year": 1253,
+              "year_label": "1253 CE",
+              "legend": "Serving eight sultans and loving one saint, Amir Khusrau writes Persian for courts, Hindavi for the street, and songs that still echo at Nizamuddin.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "nizamuddin_opens_the_khanqah_door",
+              "figure": "Nizamuddin Auliya",
+              "title": "Nizamuddin Opens the Khanqah Door",
+              "era": "Chishti Delhi, c. 1270s-1325 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Delhi Sultanate",
+              "chapter_part": "V. Words, Song and the Open Door",
+              "chapter_order": 13,
+              "year": 1325,
+              "year_label": "1325 CE",
+              "legend": "While sultans summon and threaten, Nizamuddin Auliya keeps his khanqah open to the poor, the stranger and the singer at the edge of Delhi.",
               "epithets": [],
               "scenes": 0,
               "langs": [],
