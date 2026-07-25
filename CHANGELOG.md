@@ -5,6 +5,31 @@ problems. Newest first.
 
 ---
 
+## 2026-07-26 — 👑 Mughal Empire COMPLETE (13/13) · 6 chapters · self-extend to 8th era
+
+- **The Mughal Empire chapter is COMPLETE (13/13, all QA-clean):** Babur at Panipat (1526 field
+  artillery), Gulbadan Begum's *Humayun-nama* (a woman's chronicle), Fatehpur Sikri (Akbar's planned
+  capital), the *mansabdari* rank system (Akbar & Man Singh), Todar Mal's *dahsala/zabt* revenue survey,
+  the *Hamzanama* atelier (Mir Sayyid Ali & Abdus Samad), Jahangir & Ustad Mansur's empirical
+  natural-history art (the dodo, the turkey), Nur Jahan's coin-couplet power, the Taj Mahal (Makrana
+  marble, double dome, *parchin kari*, Amanat Khan), Dara Shukoh's *Sirr-i-Akbar* (52 Upanishads in
+  Persian), the 1658 Samugarh succession war (the empty-howdah rout, eyewitness Bernier), Virji Vora &
+  the Surat trade economy, and Aurangzeb's Deccan campaigns (Bijapur 1686 / Golconda 1687, the Maratha
+  war, the *jagirdari* strain). Deep **innovation** coverage — governance (*mansab*, *zabt*), art/science
+  (atelier, natural history), economy (Surat credit networks), and thought (Dara's comparative philosophy)
+  — with **source-critical, non-communal** framing throughout (Bernier as eyewitness, Dara vs Aurangzeb as
+  a political/ideological contest, Aurangzeb rendered with nuance — piety + administrative strain, not caricature).
+- **Voice QA (gpt-4o-transcribe) clean on all 13** — every proper noun (Majma-ul-Bahrain, Sirr-i-Akbar,
+  Golconda, Adil Shahi, Qutb Shahi, Virji Vora, Amanat Khan) transcribes correctly; the few flags were
+  benign STT artifacts (em-dash adjacency, name-splits like "Virji"→"Vira Ji").
+- **Autonomous engine now spans 6 COMPLETE chapters (78 QA-clean stories):** Chola, Gupta, Maurya,
+  Vijayanagara, Indus Valley, Mughal. The driver auto-advanced to **The Chalukyas & Rashtrakutas** (7th,
+  now building) and the self-extender was triggered (`SEED_NEEDED`) to research + seed the **8th** backlog era.
+- Note: a transient WinError 10054 + 401 during the Aurangzeb build auto-recovered via the hardened
+  image retry (token refresh + 5xx backoff); no manual intervention.
+
+---
+
 ## 2026-07-25 — 🏺 Indus Valley Civilisation COMPLETE (13/13) · self-extend to 7 eras
 
 - **The Indus Valley Civilisation chapter is COMPLETE (13/13, all QA-clean):** Mehrgarh farmers

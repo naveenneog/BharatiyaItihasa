@@ -102,6 +102,28 @@ A deep, grouped saga — rise, heroes, wars, craft, rule and the innovations of 
 12. **A Face in Stone, a Body in Bronze** ✅ — lost-wax casting; the Dancing Girl (with its naming caveat).
 13. **When the Monsoons Changed** ✅ — the Late-Harappan decline; the 2019 Rakhigarhi aDNA genome.
 
+## 👑 The Mughal Empire  *(Early modern — c. 1526–1707)*  — **✅ CHAPTER COMPLETE (13/13)**
+A deep, grouped saga of a cosmopolitan empire — its founding, its administration and its **innovations**
+in governance, art, science, economy and thought — with rigorous, non-communal, source-critical framing.
+**Founding & chronicle**
+1. **Babur's Thunder at Panipat** ✅ — the First Battle of Panipat (1526); field artillery + *tulughma* tactics end the Lodi sultanate.
+2. **The Princess Who Wrote History** ✅ — Gulbadan Begum's *Humayun-nama*; the only surviving woman's memoir of the early empire. *(scholarly — a woman's chronicle)*
+**Rule & administration** *(innovation — governance & economy)*
+3. **The City Akbar Built and Left** ✅ — Fatehpur Sikri; Akbar's planned red-sandstone capital and its water problem.
+4. **The Mansab Opens the Gate** ✅ — Akbar & Man Singh; the *mansabdari* rank system that fused Rajput and Mughal service.
+5. **Todar Mal Counts Every Bigha** ✅ — the *dahsala*/*zabt* revenue survey; measured land, averaged prices, cash assessment.
+**Art & science** *(innovation — atelier & natural history)*
+6. **The Giant Book of Heroes** ✅ — Mir Sayyid Ali & Abdus Samad; the *Hamzanama* atelier that fused Persian and Indian hands.
+7. **Jahangir Watches the Birds** ✅ — Jahangir & Ustad Mansur; empirical natural-history painting (the dodo, the turkey, Kashmir's flowers).
+**Power & the Taj**
+8. **Nur Jahan's Name on Gold** ✅ — the empress whose *farmans* and coin-couplet made her the power behind the throne. *(social — women & power)*
+9. **The Mausoleum at the Yamuna** ✅ — Shah Jahan & Mumtaz Mahal; the Taj (Makrana marble, the double dome, *parchin kari*, Amanat Khan). *(craft — engineering)*
+**Ideas, succession & economy**
+10. **The Prince Who Read the Hidden Books** ✅ — Dara Shukoh's *Majma-ul-Bahrain* and *Sirr-i-Akbar* (52 Upanishads in Persian). *(scholarly — comparative philosophy)*
+11. **Samugarh and the Empty Elephant** ✅ — the 1658 war of succession; the empty-howdah rout (eyewitness Bernier).
+12. **The Port That Fed an Empire** ✅ — Virji Vora & Surat; the merchant-financier and a cosmopolitan trade economy. *(economic — commerce & credit)*
+13. **Aurangzeb's Last Tent in the Deccan** ✅ — Bijapur/Golconda, the Maratha war and the *jagirdari* strain; the hollow cost of endless conquest.
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
