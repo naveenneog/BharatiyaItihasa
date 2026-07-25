@@ -1,0 +1,4782 @@
+{
+  "id": "the_princess_who_wrote_history",
+  "title": "The Princess Who Wrote History",
+  "title_i18n": {
+    "en": "The Princess Who Wrote History",
+    "hi": "इतिहास लिखने वाली राजकुमारी"
+  },
+  "figure": "Gulbadan Begum",
+  "era": "Gulbadan Begum's memoir, c. 1587",
+  "moral": "History grows wiser when more voices are allowed to speak.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_princess_who_wrote_history/intro/hero.png",
+      "name": "Gulbadan Begum",
+      "epithets": [
+        "Mughal Princess",
+        "Daughter of Babur",
+        "Aunt of Akbar",
+        "First Woman Memoirist of the Mughals"
+      ],
+      "legend": "She turned a princess’s memory into the empire’s living heart.",
+      "era": "Gulbadan Begum's memoir, c. 1587",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Born in war tents and marble courts, Gulbadan Begum holds the past in her hands. If she stays silent, the story of the Mughals will never be whole.",
+            "hi": "युद्ध के तंबुओं से लेकर संगमरमर के दरबारों तक जन्मी गुलबदन बेगम, अतीत की रखवाली है।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/intro/hero_en.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Born",
+                "t": 72.0,
+                "d": 375.0
+              },
+              {
+                "w": "in",
+                "t": 447.0,
+                "d": 166.0
+              },
+              {
+                "w": "war",
+                "t": 614.0,
+                "d": 291.0
+              },
+              {
+                "w": "tents",
+                "t": 906.0,
+                "d": 458.0
+              },
+              {
+                "w": "and",
+                "t": 1364.0,
+                "d": 250.0
+              },
+              {
+                "w": "marble",
+                "t": 1614.0,
+                "d": 375.0
+              },
+              {
+                "w": "courts",
+                "t": 1989.0,
+                "d": 625.0
+              },
+              {
+                "w": "Gulbadan",
+                "t": 3113.0,
+                "d": 667.0
+              },
+              {
+                "w": "Begum",
+                "t": 3781.0,
+                "d": 458.0
+              },
+              {
+                "w": "holds",
+                "t": 4239.0,
+                "d": 375.0
+              },
+              {
+                "w": "the",
+                "t": 4614.0,
+                "d": 166.0
+              },
+              {
+                "w": "past",
+                "t": 4781.0,
+                "d": 375.0
+              },
+              {
+                "w": "in",
+                "t": 5156.0,
+                "d": 125.0
+              },
+              {
+                "w": "her",
+                "t": 5281.0,
+                "d": 166.0
+              },
+              {
+                "w": "hands",
+                "t": 5447.0,
+                "d": 1208.0
+              },
+              {
+                "w": "If",
+                "t": 6697.0,
+                "d": 291.0
+              },
+              {
+                "w": "she",
+                "t": 6989.0,
+                "d": 125.0
+              },
+              {
+                "w": "stays",
+                "t": 7114.0,
+                "d": 416.0
+              },
+              {
+                "w": "silent",
+                "t": 7531.0,
+                "d": 708.0
+              },
+              {
+                "w": "the",
+                "t": 8530.0,
+                "d": 208.0
+              },
+              {
+                "w": "story",
+                "t": 8738.0,
+                "d": 417.0
+              },
+              {
+                "w": "of",
+                "t": 9156.0,
+                "d": 125.0
+              },
+              {
+                "w": "the",
+                "t": 9281.0,
+                "d": 125.0
+              },
+              {
+                "w": "Mughals",
+                "t": 9406.0,
+                "d": 500.0
+              },
+              {
+                "w": "will",
+                "t": 9906.0,
+                "d": 250.0
+              },
+              {
+                "w": "never",
+                "t": 10156.0,
+                "d": 332.0
+              },
+              {
+                "w": "be",
+                "t": 10488.0,
+                "d": 126.0
+              },
+              {
+                "w": "whole",
+                "t": 10614.0,
+                "d": 416.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_princess_who_wrote_history/intro/map.png",
+      "x": 0.55,
+      "y": 0.43,
+      "label": "Kabul to Agra & Fatehpur Sikri, and the long road to Mecca",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Kabul's cold hills to Agra's burning plains and the far deserts of the Hajj road, her pen carries the wandering home of emperors.",
+            "hi": "काबुल की ठंडी पहाड़ियों से आगरा की तपती धरती और हज की दूर रेगिस्तानी राह तक, उसकी कलम बादशाहों का भटकता घर लिखती चलती है।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/intro/map_en.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "Kabul's",
+                "t": 448.0,
+                "d": 551.0
+              },
+              {
+                "w": "cold",
+                "t": 1000.0,
+                "d": 321.0
+              },
+              {
+                "w": "hills",
+                "t": 1321.0,
+                "d": 321.0
+              },
+              {
+                "w": "to",
+                "t": 1643.0,
+                "d": 229.0
+              },
+              {
+                "w": "Agra's",
+                "t": 1873.0,
+                "d": 643.0
+              },
+              {
+                "w": "burning",
+                "t": 2517.0,
+                "d": 413.0
+              },
+              {
+                "w": "plains",
+                "t": 2931.0,
+                "d": 689.0
+              },
+              {
+                "w": "and",
+                "t": 3849.0,
+                "d": 277.0
+              },
+              {
+                "w": "the",
+                "t": 4126.0,
+                "d": 137.0
+              },
+              {
+                "w": "far",
+                "t": 4264.0,
+                "d": 367.0
+              },
+              {
+                "w": "deserts",
+                "t": 4632.0,
+                "d": 597.0
+              },
+              {
+                "w": "of",
+                "t": 5229.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 5367.0,
+                "d": 137.0
+              },
+              {
+                "w": "Hajj road, ",
+                "t": 5505.0,
+                "d": 1104.0
+              },
+              {
+                "w": "her",
+                "t": 6839.0,
+                "d": 137.0
+              },
+              {
+                "w": "pen",
+                "t": 6977.0,
+                "d": 505.0
+              },
+              {
+                "w": "carries",
+                "t": 7482.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 7942.0,
+                "d": 183.0
+              },
+              {
+                "w": "wandering",
+                "t": 8126.0,
+                "d": 551.0
+              },
+              {
+                "w": "home",
+                "t": 8678.0,
+                "d": 321.0
+              },
+              {
+                "w": "of",
+                "t": 9000.0,
+                "d": 228.0
+              },
+              {
+                "w": "emperors",
+                "t": 9228.0,
+                "d": 966.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_princess_who_wrote_history/img/cover.png",
+      "shot": "slow three-quarter view, medium close-up, with architectural backdrop",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Akbar's marble halls, one woman of Babur's blood sharpened her reed pen and quietly set an empire's memory to paper.",
+            "hi": "अकबर के संगमरमर महलों में, बाबर की वंशज एक औरत ने सरक़ कलम तेज़ की और चुपचाप साम्राज्य की यादें काग़ज़ पर उतार दीं।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/cover_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Akbar's",
+                "t": 287.0,
+                "d": 382.0
+              },
+              {
+                "w": "marble",
+                "t": 670.0,
+                "d": 382.0
+              },
+              {
+                "w": "halls",
+                "t": 1053.0,
+                "d": 553.0
+              },
+              {
+                "w": "one",
+                "t": 1776.0,
+                "d": 340.0
+              },
+              {
+                "w": "woman",
+                "t": 2117.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 2414.0,
+                "d": 169.0
+              },
+              {
+                "w": "Babur's",
+                "t": 2584.0,
+                "d": 510.0
+              },
+              {
+                "w": "blood",
+                "t": 3094.0,
+                "d": 341.0
+              },
+              {
+                "w": "sharpened",
+                "t": 3436.0,
+                "d": 553.0
+              },
+              {
+                "w": "her",
+                "t": 3989.0,
+                "d": 126.0
+              },
+              {
+                "w": "reed",
+                "t": 4115.0,
+                "d": 426.0
+              },
+              {
+                "w": "pen",
+                "t": 4542.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 5138.0,
+                "d": 297.0
+              },
+              {
+                "w": "quietly",
+                "t": 5436.0,
+                "d": 510.0
+              },
+              {
+                "w": "set",
+                "t": 5946.0,
+                "d": 255.0
+              },
+              {
+                "w": "an",
+                "t": 6202.0,
+                "d": 170.0
+              },
+              {
+                "w": "empire's",
+                "t": 6372.0,
+                "d": 553.0
+              },
+              {
+                "w": "memory",
+                "t": 6925.0,
+                "d": 425.0
+              },
+              {
+                "w": "to",
+                "t": 7351.0,
+                "d": 170.0
+              },
+              {
+                "w": "paper",
+                "t": 7521.0,
+                "d": 382.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_princess_who_wrote_history/img/p01.png",
+      "shot": "wide interior establishing shot, slightly high angle",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By the late 1580s, Fatehpur Sikri rang with arguments of scholars and the marching feet of soldiers, but in one quiet women's apartment, a princess turned the past over in her hands like a string of beads.",
+            "hi": "1580 के आख़िर तक, फ़तेहपुर सीकरी में विद्वानों की बहस और सिपाहियों की चाल गूंजती थी, पर एक शांत ज़ेनाना कमरे में एक राजकुमारी अतीत को मनके की माला-सा उलट-पलट रही थी।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p01_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 172.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 356.0,
+                "d": 137.0
+              },
+              {
+                "w": "late",
+                "t": 494.0,
+                "d": 321.0
+              },
+              {
+                "w": "1580s,",
+                "t": 816.0,
+                "d": 1746.0
+              },
+              {
+                "w": "Fatehpur",
+                "t": 2563.0,
+                "d": 642.0
+              },
+              {
+                "w": "Sikri",
+                "t": 3205.0,
+                "d": 460.0
+              },
+              {
+                "w": "rang",
+                "t": 3666.0,
+                "d": 597.0
+              },
+              {
+                "w": "with",
+                "t": 4310.0,
+                "d": 321.0
+              },
+              {
+                "w": "arguments",
+                "t": 4632.0,
+                "d": 643.0
+              },
+              {
+                "w": "of",
+                "t": 5275.0,
+                "d": 137.0
+              },
+              {
+                "w": "scholars",
+                "t": 5413.0,
+                "d": 919.0
+              },
+              {
+                "w": "and",
+                "t": 6425.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 6655.0,
+                "d": 137.0
+              },
+              {
+                "w": "marching",
+                "t": 6793.0,
+                "d": 551.0
+              },
+              {
+                "w": "feet",
+                "t": 7344.0,
+                "d": 229.0
+              },
+              {
+                "w": "of",
+                "t": 7574.0,
+                "d": 137.0
+              },
+              {
+                "w": "soldiers",
+                "t": 7712.0,
+                "d": 1057.0
+              },
+              {
+                "w": "but",
+                "t": 9183.0,
+                "d": 321.0
+              },
+              {
+                "w": "in",
+                "t": 9505.0,
+                "d": 136.0
+              },
+              {
+                "w": "one",
+                "t": 9642.0,
+                "d": 367.0
+              },
+              {
+                "w": "quiet",
+                "t": 10010.0,
+                "d": 322.0
+              },
+              {
+                "w": "women's",
+                "t": 10333.0,
+                "d": 413.0
+              },
+              {
+                "w": "apartment",
+                "t": 10747.0,
+                "d": 1010.0
+              },
+              {
+                "w": "a",
+                "t": 12125.0,
+                "d": 277.0
+              },
+              {
+                "w": "princess",
+                "t": 12402.0,
+                "d": 551.0
+              },
+              {
+                "w": "turned",
+                "t": 12954.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 13274.0,
+                "d": 183.0
+              },
+              {
+                "w": "past",
+                "t": 13458.0,
+                "d": 460.0
+              },
+              {
+                "w": "over",
+                "t": 13919.0,
+                "d": 504.0
+              },
+              {
+                "w": "in",
+                "t": 14424.0,
+                "d": 183.0
+              },
+              {
+                "w": "her",
+                "t": 14608.0,
+                "d": 139.0
+              },
+              {
+                "w": "hands",
+                "t": 14747.0,
+                "d": 689.0
+              },
+              {
+                "w": "like",
+                "t": 15528.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 15850.0,
+                "d": 45.0
+              },
+              {
+                "w": "string",
+                "t": 15896.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 16310.0,
+                "d": 228.0
+              },
+              {
+                "w": "beads",
+                "t": 16539.0,
+                "d": 690.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_princess_who_wrote_history/img/p02.png",
+      "shot": "medium shot, low angle to give subtle prominence",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Gulbadan Begum, daughter of Babur, half-sister of Humayun, aunt of Akbar, had seen Kabul's mountain winds and the dust of Indian plains. Now, her nephew asked her to write of those days.",
+            "hi": "बाबर की बेटी, हुमायूँ की सौतेली बहन, अकबर की फूफी — गुलबदन बेगम ने काबुल की पहाड़ी हवा और हिन्दुस्तान की धूल दोनों देखी थीं। अब उनका भतीजा उनसे उन दिनों को लिखने की दरख़्वास्त कर रहा था।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p02_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Gulbadan",
+                "t": 117.0,
+                "d": 595.0
+              },
+              {
+                "w": "Begum",
+                "t": 712.0,
+                "d": 638.0
+              },
+              {
+                "w": "daughter",
+                "t": 1393.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 1946.0,
+                "d": 127.0
+              },
+              {
+                "w": "Babur",
+                "t": 2074.0,
+                "d": 723.0
+              },
+              {
+                "w": "half-sister",
+                "t": 2797.0,
+                "d": 722.0
+              },
+              {
+                "w": "of",
+                "t": 3520.0,
+                "d": 170.0
+              },
+              {
+                "w": "Humayun",
+                "t": 3690.0,
+                "d": 425.0
+              },
+              {
+                "w": "aunt",
+                "t": 4158.0,
+                "d": 171.0
+              },
+              {
+                "w": "of",
+                "t": 4585.0,
+                "d": 468.0
+              },
+              {
+                "w": "Akbar",
+                "t": 5053.0,
+                "d": 553.0
+              },
+              {
+                "w": "had",
+                "t": 5861.0,
+                "d": 340.0
+              },
+              {
+                "w": "seen",
+                "t": 6202.0,
+                "d": 297.0
+              },
+              {
+                "w": "Kabul's",
+                "t": 6500.0,
+                "d": 382.0
+              },
+              {
+                "w": "mountain",
+                "t": 6882.0,
+                "d": 425.0
+              },
+              {
+                "w": "winds",
+                "t": 7308.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 7861.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 8074.0,
+                "d": 170.0
+              },
+              {
+                "w": "dust",
+                "t": 8244.0,
+                "d": 296.0
+              },
+              {
+                "w": "of",
+                "t": 8541.0,
+                "d": 127.0
+              },
+              {
+                "w": "Indian",
+                "t": 8669.0,
+                "d": 340.0
+              },
+              {
+                "w": "plains",
+                "t": 9009.0,
+                "d": 1192.0
+              },
+              {
+                "w": "Now",
+                "t": 10202.0,
+                "d": 594.0
+              },
+              {
+                "w": "her",
+                "t": 10796.0,
+                "d": 213.0
+              },
+              {
+                "w": "nephew",
+                "t": 11010.0,
+                "d": 425.0
+              },
+              {
+                "w": "asked",
+                "t": 11436.0,
+                "d": 424.0
+              },
+              {
+                "w": "her",
+                "t": 11860.0,
+                "d": 170.0
+              },
+              {
+                "w": "to",
+                "t": 12030.0,
+                "d": 170.0
+              },
+              {
+                "w": "write",
+                "t": 12201.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 12456.0,
+                "d": 86.0
+              },
+              {
+                "w": "those",
+                "t": 12542.0,
+                "d": 255.0
+              },
+              {
+                "w": "days",
+                "t": 12797.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_princess_who_wrote_history/img/p03.png",
+      "shot": "tight close-up on Gulbadan’s face, eyes distant",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "female",
+          "text": {
+            "en": "How many lives lie between my father's tents and this stone city?",
+            "hi": "मेरे बाप के ख़ेमों से इस पत्थर के शहर तक कितनी ज़िंदगियाँ बिछी हैं?"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p03_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "How",
+                "t": 50.0,
+                "d": 337.5
+              },
+              {
+                "w": "many",
+                "t": 400.0,
+                "d": 312.5
+              },
+              {
+                "w": "lives",
+                "t": 725.0,
+                "d": 412.5
+              },
+              {
+                "w": "lie",
+                "t": 1150.0,
+                "d": 237.5
+              },
+              {
+                "w": "between",
+                "t": 1400.0,
+                "d": 425.0
+              },
+              {
+                "w": "my",
+                "t": 1837.5,
+                "d": 200.0
+              },
+              {
+                "w": "father's",
+                "t": 2050.0,
+                "d": 537.5
+              },
+              {
+                "w": "tents",
+                "t": 2600.0,
+                "d": 475.0
+              },
+              {
+                "w": "and",
+                "t": 3087.5,
+                "d": 187.5
+              },
+              {
+                "w": "this",
+                "t": 3287.5,
+                "d": 162.5
+              },
+              {
+                "w": "stone",
+                "t": 3462.5,
+                "d": 325.0
+              },
+              {
+                "w": "city",
+                "t": 3800.0,
+                "d": 437.5
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_princess_who_wrote_history/img/p04.png",
+      "shot": "soft-edged memory tableau, wide landscape shot",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Her earliest memories were not marble pavilions but the rough camps of Babur's household, women and children moving with the army, their lives tied to a line of kings chasing fortune across Kabul and Hindustan.",
+            "hi": "उसकी सबसे पहली यादें संगमरमर के महल नहीं, बाबर के उखड़े हुए डेरों की थीं—औरतें-बच्चे फ़ौज के साथ चलते, उनकी ज़िंदगी राजाओं की उस कड़ी से बंधी जो क़िस्मत के पीछे काबुल और हिन्दुस्तान में दौड़ती थी।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p04_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Her",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "earliest",
+                "t": 402.0,
+                "d": 551.0
+              },
+              {
+                "w": "memories",
+                "t": 954.0,
+                "d": 597.0
+              },
+              {
+                "w": "were",
+                "t": 1551.0,
+                "d": 229.0
+              },
+              {
+                "w": "not",
+                "t": 1781.0,
+                "d": 275.0
+              },
+              {
+                "w": "marble",
+                "t": 2057.0,
+                "d": 413.0
+              },
+              {
+                "w": "pavilions",
+                "t": 2471.0,
+                "d": 1011.0
+              },
+              {
+                "w": "but",
+                "t": 3666.0,
+                "d": 274.0
+              },
+              {
+                "w": "the",
+                "t": 3941.0,
+                "d": 139.0
+              },
+              {
+                "w": "rough",
+                "t": 4080.0,
+                "d": 274.0
+              },
+              {
+                "w": "camps",
+                "t": 4355.0,
+                "d": 414.0
+              },
+              {
+                "w": "of",
+                "t": 4770.0,
+                "d": 183.0
+              },
+              {
+                "w": "Babur's",
+                "t": 4954.0,
+                "d": 459.0
+              },
+              {
+                "w": "household",
+                "t": 5413.0,
+                "d": 1011.0
+              },
+              {
+                "w": "women",
+                "t": 6471.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 7068.0,
+                "d": 275.0
+              },
+              {
+                "w": "children",
+                "t": 7344.0,
+                "d": 459.0
+              },
+              {
+                "w": "moving",
+                "t": 7804.0,
+                "d": 413.0
+              },
+              {
+                "w": "with",
+                "t": 8218.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 8402.0,
+                "d": 229.0
+              },
+              {
+                "w": "army",
+                "t": 8632.0,
+                "d": 688.0
+              },
+              {
+                "w": "their",
+                "t": 10287.0,
+                "d": 228.0
+              },
+              {
+                "w": "lives",
+                "t": 10516.0,
+                "d": 414.0
+              },
+              {
+                "w": "tied",
+                "t": 10931.0,
+                "d": 275.0
+              },
+              {
+                "w": "to",
+                "t": 11206.0,
+                "d": 183.0
+              },
+              {
+                "w": "a",
+                "t": 11390.0,
+                "d": 45.0
+              },
+              {
+                "w": "line",
+                "t": 11436.0,
+                "d": 275.0
+              },
+              {
+                "w": "of",
+                "t": 11712.0,
+                "d": 228.0
+              },
+              {
+                "w": "kings",
+                "t": 11941.0,
+                "d": 736.0
+              },
+              {
+                "w": "chasing",
+                "t": 12722.0,
+                "d": 551.0
+              },
+              {
+                "w": "fortune",
+                "t": 13274.0,
+                "d": 597.0
+              },
+              {
+                "w": "across",
+                "t": 13872.0,
+                "d": 459.0
+              },
+              {
+                "w": "Kabul",
+                "t": 14332.0,
+                "d": 506.0
+              },
+              {
+                "w": "and",
+                "t": 14839.0,
+                "d": 229.0
+              },
+              {
+                "w": "Hindustan",
+                "t": 15068.0,
+                "d": 827.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_princess_who_wrote_history/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_princess_who_wrote_history/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Even as a child, she faced the harsh Afghan passes with a clear gaze, memorising every perilous turn for the stories to come.",
+            "hi": "बचपन से ही वो सख़्त अफ़गानी दर्रों को टकटकी लगाकर देखती, हर खतरनाक मोड़ दिमाग़ में बसाती जाती थी, आगे की कहानियों के लिए।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Even",
+                "t": 126.0,
+                "d": 321.0
+              },
+              {
+                "w": "as",
+                "t": 448.0,
+                "d": 137.0
+              },
+              {
+                "w": "a",
+                "t": 586.0,
+                "d": 91.0
+              },
+              {
+                "w": "child",
+                "t": 678.0,
+                "d": 597.0
+              },
+              {
+                "w": "she",
+                "t": 1413.0,
+                "d": 275.0
+              },
+              {
+                "w": "faced",
+                "t": 1689.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 2011.0,
+                "d": 137.0
+              },
+              {
+                "w": "harsh",
+                "t": 2149.0,
+                "d": 367.0
+              },
+              {
+                "w": "Afghan",
+                "t": 2517.0,
+                "d": 459.0
+              },
+              {
+                "w": "passes",
+                "t": 2977.0,
+                "d": 505.0
+              },
+              {
+                "w": "with",
+                "t": 3482.0,
+                "d": 229.0
+              },
+              {
+                "w": "a",
+                "t": 3712.0,
+                "d": 90.0
+              },
+              {
+                "w": "clear",
+                "t": 3803.0,
+                "d": 368.0
+              },
+              {
+                "w": "gaze",
+                "t": 4172.0,
+                "d": 689.0
+              },
+              {
+                "w": "memorising",
+                "t": 5183.0,
+                "d": 919.0
+              },
+              {
+                "w": "every",
+                "t": 6149.0,
+                "d": 505.0
+              },
+              {
+                "w": "perilous",
+                "t": 6655.0,
+                "d": 597.0
+              },
+              {
+                "w": "turn",
+                "t": 7252.0,
+                "d": 413.0
+              },
+              {
+                "w": "for",
+                "t": 7666.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 7850.0,
+                "d": 137.0
+              },
+              {
+                "w": "stories",
+                "t": 7988.0,
+                "d": 505.0
+              },
+              {
+                "w": "to",
+                "t": 8494.0,
+                "d": 183.0
+              },
+              {
+                "w": "come",
+                "t": 8678.0,
+                "d": 505.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_princess_who_wrote_history/img/p05.png",
+      "shot": "medium shot, interior memory of the haram, eye-level",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As Humayun took Babur's place, Gulbadan grew into one of the senior women of the dynasty, watching brothers, cousins and rivals move in and out of favour, alliance and exile.",
+            "hi": "हुमायूँ ने बाबर की गद्दी सँभाली तो गुलबदन सल्तनत की बुज़ुर्ग बेगमों में गिनी जाने लगी—भाइयों, चचेरों और दुश्मनों को रुतबे, रिश्तों और जला-वतनियों में उठते-गिरते देखती रही।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p05_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "Humayun",
+                "t": 356.0,
+                "d": 459.0
+              },
+              {
+                "w": "took",
+                "t": 816.0,
+                "d": 183.0
+              },
+              {
+                "w": "Babur's",
+                "t": 1000.0,
+                "d": 459.0
+              },
+              {
+                "w": "place",
+                "t": 1459.0,
+                "d": 735.0
+              },
+              {
+                "w": "Gulbadan",
+                "t": 2287.0,
+                "d": 689.0
+              },
+              {
+                "w": "grew",
+                "t": 2977.0,
+                "d": 274.0
+              },
+              {
+                "w": "into",
+                "t": 3251.0,
+                "d": 231.0
+              },
+              {
+                "w": "one",
+                "t": 3482.0,
+                "d": 229.0
+              },
+              {
+                "w": "of",
+                "t": 3712.0,
+                "d": 90.0
+              },
+              {
+                "w": "the",
+                "t": 3803.0,
+                "d": 137.0
+              },
+              {
+                "w": "senior",
+                "t": 3941.0,
+                "d": 459.0
+              },
+              {
+                "w": "women",
+                "t": 4401.0,
+                "d": 322.0
+              },
+              {
+                "w": "of",
+                "t": 4724.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 4816.0,
+                "d": 137.0
+              },
+              {
+                "w": "dynasty",
+                "t": 4954.0,
+                "d": 1011.0
+              },
+              {
+                "w": "watching",
+                "t": 6103.0,
+                "d": 551.0
+              },
+              {
+                "w": "brothers",
+                "t": 6655.0,
+                "d": 873.0
+              },
+              {
+                "w": "cousins",
+                "t": 7620.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 8218.0,
+                "d": 367.0
+              },
+              {
+                "w": "rivals",
+                "t": 8586.0,
+                "d": 459.0
+              },
+              {
+                "w": "move",
+                "t": 9045.0,
+                "d": 366.0
+              },
+              {
+                "w": "in",
+                "t": 9458.0,
+                "d": 183.0
+              },
+              {
+                "w": "and",
+                "t": 9642.0,
+                "d": 183.0
+              },
+              {
+                "w": "out",
+                "t": 9826.0,
+                "d": 183.0
+              },
+              {
+                "w": "of",
+                "t": 10010.0,
+                "d": 93.0
+              },
+              {
+                "w": "favour",
+                "t": 10103.0,
+                "d": 735.0
+              },
+              {
+                "w": "alliance",
+                "t": 11114.0,
+                "d": 642.0
+              },
+              {
+                "w": "and",
+                "t": 11757.0,
+                "d": 367.0
+              },
+              {
+                "w": "exile",
+                "t": 12125.0,
+                "d": 644.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_princess_who_wrote_history/img/p06.png",
+      "shot": "wide shot of a courtyard, slightly elevated angle",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "She saw the empire crumble under Humayun, heard of his hurried flights and uneasy shelters. For the women, defeat meant new journeys, uncertain loyalties, and the careful keeping of kin in dangerous times.",
+            "hi": "उसने हुमायूँ के दौर में साम्राज्य को बिखरते देखा, उसकी हड़बड़ी भागों और बेचैन पनाहों की ख़बरें सुनीं। औरतों के लिए हार का मतलब था नए सफ़र, डगमग वफ़ादारियाँ और ख़तरे के दिनों में ख़ून के रिश्‍तों को सँभालकर रखना।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p06_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "She",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "saw",
+                "t": 356.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 540.0,
+                "d": 137.0
+              },
+              {
+                "w": "empire",
+                "t": 678.0,
+                "d": 597.0
+              },
+              {
+                "w": "crumble",
+                "t": 1275.0,
+                "d": 551.0
+              },
+              {
+                "w": "under",
+                "t": 1827.0,
+                "d": 321.0
+              },
+              {
+                "w": "Humayun",
+                "t": 2149.0,
+                "d": 642.0
+              },
+              {
+                "w": "heard",
+                "t": 3251.0,
+                "d": 322.0
+              },
+              {
+                "w": "of",
+                "t": 3574.0,
+                "d": 137.0
+              },
+              {
+                "w": "his",
+                "t": 3712.0,
+                "d": 182.0
+              },
+              {
+                "w": "hurried",
+                "t": 3895.0,
+                "d": 322.0
+              },
+              {
+                "w": "flights",
+                "t": 4218.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 4816.0,
+                "d": 275.0
+              },
+              {
+                "w": "uneasy",
+                "t": 5091.0,
+                "d": 459.0
+              },
+              {
+                "w": "shelters",
+                "t": 5551.0,
+                "d": 873.0
+              },
+              {
+                "w": "For",
+                "t": 7022.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 7344.0,
+                "d": 137.0
+              },
+              {
+                "w": "women",
+                "t": 7482.0,
+                "d": 597.0
+              },
+              {
+                "w": "defeat",
+                "t": 8172.0,
+                "d": 643.0
+              },
+              {
+                "w": "meant",
+                "t": 8816.0,
+                "d": 275.0
+              },
+              {
+                "w": "new",
+                "t": 9091.0,
+                "d": 274.0
+              },
+              {
+                "w": "journeys",
+                "t": 9366.0,
+                "d": 782.0
+              },
+              {
+                "w": "uncertain",
+                "t": 10333.0,
+                "d": 689.0
+              },
+              {
+                "w": "loyalties",
+                "t": 11022.0,
+                "d": 918.0
+              },
+              {
+                "w": "and",
+                "t": 12125.0,
+                "d": 231.0
+              },
+              {
+                "w": "the",
+                "t": 12356.0,
+                "d": 183.0
+              },
+              {
+                "w": "careful",
+                "t": 12540.0,
+                "d": 505.0
+              },
+              {
+                "w": "keeping",
+                "t": 13045.0,
+                "d": 412.0
+              },
+              {
+                "w": "of",
+                "t": 13458.0,
+                "d": 185.0
+              },
+              {
+                "w": "kin",
+                "t": 13643.0,
+                "d": 367.0
+              },
+              {
+                "w": "in",
+                "t": 14011.0,
+                "d": 275.0
+              },
+              {
+                "w": "dangerous",
+                "t": 14287.0,
+                "d": 551.0
+              },
+              {
+                "w": "times",
+                "t": 14839.0,
+                "d": 734.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_princess_who_wrote_history/img/p07.png",
+      "shot": "medium shot, dimly lit interior, candlelight",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "She lived through the dizzy swing of fortune: Humayun's return to power, his fall from the library steps in Delhi, the child Akbar's narrow escapes and coronation on a dusty platform far from any city.",
+            "hi": "उसने तक़दीर के झूले को झूलते देखा—हुमायूँ की वापसी, दिल्ली की लाइब्रेरी की सीढ़ियों से उसका गिरना, नन्हे अकबर की बाल-बाल बचतें और किसी शहर से दूर धूल भरे चबूतरे पर उसका ताजपोशी।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p07_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "She",
+                "t": 70.0,
+                "d": 120.0
+              },
+              {
+                "w": "lived",
+                "t": 190.0,
+                "d": 360.0
+              },
+              {
+                "w": "through",
+                "t": 550.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 870.0,
+                "d": 120.0
+              },
+              {
+                "w": "dizzy",
+                "t": 990.0,
+                "d": 320.0
+              },
+              {
+                "w": "swing",
+                "t": 1310.0,
+                "d": 240.0
+              },
+              {
+                "w": "of",
+                "t": 1550.0,
+                "d": 120.0
+              },
+              {
+                "w": "fortune",
+                "t": 1670.0,
+                "d": 920.0
+              },
+              {
+                "w": "Humayun's",
+                "t": 2949.0,
+                "d": 520.0
+              },
+              {
+                "w": "return",
+                "t": 3469.0,
+                "d": 360.0
+              },
+              {
+                "w": "to",
+                "t": 3829.0,
+                "d": 120.0
+              },
+              {
+                "w": "power",
+                "t": 3949.0,
+                "d": 681.0
+              },
+              {
+                "w": "his",
+                "t": 4830.0,
+                "d": 320.0
+              },
+              {
+                "w": "fall",
+                "t": 5150.0,
+                "d": 320.0
+              },
+              {
+                "w": "from",
+                "t": 5470.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 5630.0,
+                "d": 120.0
+              },
+              {
+                "w": "library",
+                "t": 5750.0,
+                "d": 480.0
+              },
+              {
+                "w": "steps",
+                "t": 6230.0,
+                "d": 360.0
+              },
+              {
+                "w": "in",
+                "t": 6590.0,
+                "d": 120.0
+              },
+              {
+                "w": "Delhi",
+                "t": 6710.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 7550.0,
+                "d": 200.0
+              },
+              {
+                "w": "child",
+                "t": 7750.0,
+                "d": 439.0
+              },
+              {
+                "w": "Akbar's",
+                "t": 8189.0,
+                "d": 520.0
+              },
+              {
+                "w": "narrow",
+                "t": 8709.0,
+                "d": 360.0
+              },
+              {
+                "w": "escapes",
+                "t": 9069.0,
+                "d": 721.0
+              },
+              {
+                "w": "and",
+                "t": 9910.0,
+                "d": 319.0
+              },
+              {
+                "w": "coronation",
+                "t": 10229.0,
+                "d": 681.0
+              },
+              {
+                "w": "on",
+                "t": 10910.0,
+                "d": 120.0
+              },
+              {
+                "w": "a",
+                "t": 11030.0,
+                "d": 160.0
+              },
+              {
+                "w": "dusty",
+                "t": 11190.0,
+                "d": 400.0
+              },
+              {
+                "w": "platform",
+                "t": 11590.0,
+                "d": 760.0
+              },
+              {
+                "w": "far",
+                "t": 12389.0,
+                "d": 481.0
+              },
+              {
+                "w": "from",
+                "t": 12870.0,
+                "d": 240.0
+              },
+              {
+                "w": "any",
+                "t": 13110.0,
+                "d": 279.0
+              },
+              {
+                "w": "city",
+                "t": 13389.0,
+                "d": 521.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_princess_who_wrote_history/img/p08.png",
+      "shot": "medium shot, intimate interior of Akbar’s courtly audience with women, side angle",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Under Akbar, Gulbadan became more than a shadow of the past. As senior aunt she advised, negotiated marriages, and represented a living bridge to Babur and Humayun in a court hungry for its own origin story.",
+            "hi": "अकबर के राज में गुलबदन सिर्फ़ अतीत की परछाईं नहीं रहीं। सीनियर फूफी के तौर पर वो सलाह देती, शादियाँ तय करातीं और बाबर-हुमायूँ से जोड़ी हुई ज़िंदा कड़ी बनकर उस दरबार को उसकी जड़ें दिखातीं जो अपनी कहानी का भूखा था।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p08_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Under",
+                "t": 126.0,
+                "d": 367.0
+              },
+              {
+                "w": "Akbar",
+                "t": 494.0,
+                "d": 873.0
+              },
+              {
+                "w": "Gulbadan",
+                "t": 1505.0,
+                "d": 643.0
+              },
+              {
+                "w": "became",
+                "t": 2149.0,
+                "d": 413.0
+              },
+              {
+                "w": "more",
+                "t": 2563.0,
+                "d": 274.0
+              },
+              {
+                "w": "than",
+                "t": 2837.0,
+                "d": 185.0
+              },
+              {
+                "w": "a",
+                "t": 3022.0,
+                "d": 91.0
+              },
+              {
+                "w": "shadow",
+                "t": 3114.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 3482.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 3666.0,
+                "d": 136.0
+              },
+              {
+                "w": "past",
+                "t": 3803.0,
+                "d": 1012.0
+              },
+              {
+                "w": "As",
+                "t": 5137.0,
+                "d": 183.0
+              },
+              {
+                "w": "senior",
+                "t": 5321.0,
+                "d": 551.0
+              },
+              {
+                "w": "aunt",
+                "t": 5873.0,
+                "d": 551.0
+              },
+              {
+                "w": "she",
+                "t": 6563.0,
+                "d": 275.0
+              },
+              {
+                "w": "advised",
+                "t": 6839.0,
+                "d": 965.0
+              },
+              {
+                "w": "negotiated",
+                "t": 7896.0,
+                "d": 873.0
+              },
+              {
+                "w": "marriages",
+                "t": 8770.0,
+                "d": 780.0
+              },
+              {
+                "w": "and",
+                "t": 9734.0,
+                "d": 275.0
+              },
+              {
+                "w": "represented",
+                "t": 10010.0,
+                "d": 644.0
+              },
+              {
+                "w": "a",
+                "t": 10655.0,
+                "d": 44.0
+              },
+              {
+                "w": "living",
+                "t": 10700.0,
+                "d": 459.0
+              },
+              {
+                "w": "bridge",
+                "t": 11159.0,
+                "d": 597.0
+              },
+              {
+                "w": "to",
+                "t": 11757.0,
+                "d": 183.0
+              },
+              {
+                "w": "Babur",
+                "t": 11941.0,
+                "d": 460.0
+              },
+              {
+                "w": "and",
+                "t": 12402.0,
+                "d": 229.0
+              },
+              {
+                "w": "Humayun",
+                "t": 12632.0,
+                "d": 458.0
+              },
+              {
+                "w": "in",
+                "t": 13090.0,
+                "d": 91.0
+              },
+              {
+                "w": "a",
+                "t": 13182.0,
+                "d": 322.0
+              },
+              {
+                "w": "court",
+                "t": 13505.0,
+                "d": 275.0
+              },
+              {
+                "w": "hungry",
+                "t": 13781.0,
+                "d": 642.0
+              },
+              {
+                "w": "for",
+                "t": 14471.0,
+                "d": 275.0
+              },
+              {
+                "w": "its",
+                "t": 14747.0,
+                "d": 229.0
+              },
+              {
+                "w": "own",
+                "t": 14977.0,
+                "d": 367.0
+              },
+              {
+                "w": "origin",
+                "t": 15344.0,
+                "d": 412.0
+              },
+              {
+                "w": "story",
+                "t": 15757.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_princess_who_wrote_history/img/p09.png",
+      "shot": "medium close-up on Gulbadan presenting a petition-like scroll, three-quarter view",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When she and other royal women sought permission for the Hajj, their voices carried weight. Through petitions and quiet insistence, they argued for a journey many deemed too perilous for the haram.",
+            "hi": "जब उसने और दूसरी शाही औरतों ने हज की इजाज़त माँगी, उनकी आवाज़ हल्की नहीं थी। अरज़दारियों और चुप मगर सख़्त ज़िद से उन्होंने उस सफ़र का हक़ माँगा जिसे कई लोग हरम के लिए हद से ज़्यादा ख़तरनाक कहते थे।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p09_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "she",
+                "t": 402.0,
+                "d": 367.0
+              },
+              {
+                "w": "and",
+                "t": 770.0,
+                "d": 275.0
+              },
+              {
+                "w": "other",
+                "t": 1045.0,
+                "d": 321.0
+              },
+              {
+                "w": "royal",
+                "t": 1367.0,
+                "d": 367.0
+              },
+              {
+                "w": "women",
+                "t": 1735.0,
+                "d": 367.0
+              },
+              {
+                "w": "sought",
+                "t": 2103.0,
+                "d": 413.0
+              },
+              {
+                "w": "permission",
+                "t": 2517.0,
+                "d": 505.0
+              },
+              {
+                "w": "for",
+                "t": 3022.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 3160.0,
+                "d": 780.0
+              },
+              {
+                "w": "Hajj",
+                "t": 3941.0,
+                "d": 185.0
+              },
+              {
+                "w": "their",
+                "t": 4310.0,
+                "d": 321.0
+              },
+              {
+                "w": "voices",
+                "t": 4632.0,
+                "d": 505.0
+              },
+              {
+                "w": "carried",
+                "t": 5137.0,
+                "d": 413.0
+              },
+              {
+                "w": "weight",
+                "t": 5551.0,
+                "d": 551.0
+              },
+              {
+                "w": "Through",
+                "t": 6977.0,
+                "d": 367.0
+              },
+              {
+                "w": "petitions",
+                "t": 7344.0,
+                "d": 689.0
+              },
+              {
+                "w": "and",
+                "t": 8080.0,
+                "d": 183.0
+              },
+              {
+                "w": "quiet",
+                "t": 8264.0,
+                "d": 413.0
+              },
+              {
+                "w": "insistence",
+                "t": 8678.0,
+                "d": 872.0
+              },
+              {
+                "w": "they",
+                "t": 9965.0,
+                "d": 275.0
+              },
+              {
+                "w": "argued",
+                "t": 10241.0,
+                "d": 550.0
+              },
+              {
+                "w": "for",
+                "t": 10791.0,
+                "d": 275.0
+              },
+              {
+                "w": "a",
+                "t": 11067.0,
+                "d": 47.0
+              },
+              {
+                "w": "journey",
+                "t": 11114.0,
+                "d": 505.0
+              },
+              {
+                "w": "many",
+                "t": 11620.0,
+                "d": 412.0
+              },
+              {
+                "w": "deemed",
+                "t": 12033.0,
+                "d": 322.0
+              },
+              {
+                "w": "too",
+                "t": 12494.0,
+                "d": 367.0
+              },
+              {
+                "w": "perilous",
+                "t": 12862.0,
+                "d": 643.0
+              },
+              {
+                "w": "for",
+                "t": 13505.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 13643.0,
+                "d": 137.0
+              },
+              {
+                "w": "haram",
+                "t": 13781.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_princess_who_wrote_history/img/p10.png",
+      "shot": "epic wide shot of caravan on the move, slightly low angle",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In 1575, Gulbadan led an imperial caravan towards the sea, bound for the Hajj. For seven years she and other women of the dynasty traveled, prayed and negotiated the long route between Hindustan and the Holy Cities.",
+            "hi": "1575 में गुलबदन ने शाही क़ाफ़िला समंदर की ओर हज के लिए रवाना किया। सात बरस तक वो और सल्तनत की और औरतें चलती रहीं, इबादत करती रहीं और हिन्दुस्तान से पवित्र शहरों तक हर मोड़ पर सौदे और समझौते करती रहीं।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p10_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In 1575",
+                "t": 80.0,
+                "d": 1792.0
+              },
+              {
+                "w": "Gulbadan",
+                "t": 1919.0,
+                "d": 689.0
+              },
+              {
+                "w": "led",
+                "t": 2609.0,
+                "d": 228.0
+              },
+              {
+                "w": "an",
+                "t": 2837.0,
+                "d": 139.0
+              },
+              {
+                "w": "imperial",
+                "t": 2977.0,
+                "d": 735.0
+              },
+              {
+                "w": "caravan",
+                "t": 3712.0,
+                "d": 734.0
+              },
+              {
+                "w": "towards",
+                "t": 4493.0,
+                "d": 460.0
+              },
+              {
+                "w": "the",
+                "t": 4954.0,
+                "d": 827.0
+              },
+              {
+                "w": "sea",
+                "t": 5827.0,
+                "d": 137.0
+              },
+              {
+                "w": "bound",
+                "t": 5965.0,
+                "d": 505.0
+              },
+              {
+                "w": "for",
+                "t": 6471.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 6655.0,
+                "d": 137.0
+              },
+              {
+                "w": "Hajj",
+                "t": 6793.0,
+                "d": 321.0
+              },
+              {
+                "w": "For",
+                "t": 8080.0,
+                "d": 229.0
+              },
+              {
+                "w": "seven",
+                "t": 8310.0,
+                "d": 321.0
+              },
+              {
+                "w": "years",
+                "t": 8632.0,
+                "d": 413.0
+              },
+              {
+                "w": "she",
+                "t": 9045.0,
+                "d": 919.0
+              },
+              {
+                "w": "and",
+                "t": 9965.0,
+                "d": 229.0
+              },
+              {
+                "w": "other",
+                "t": 10241.0,
+                "d": 321.0
+              },
+              {
+                "w": "women",
+                "t": 10563.0,
+                "d": 412.0
+              },
+              {
+                "w": "of",
+                "t": 10975.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 11159.0,
+                "d": 139.0
+              },
+              {
+                "w": "dynasty",
+                "t": 11298.0,
+                "d": 597.0
+              },
+              {
+                "w": "traveled",
+                "t": 11896.0,
+                "d": 1057.0
+              },
+              {
+                "w": "prayed",
+                "t": 13137.0,
+                "d": 643.0
+              },
+              {
+                "w": "and",
+                "t": 13827.0,
+                "d": 228.0
+              },
+              {
+                "w": "negotiated",
+                "t": 14056.0,
+                "d": 828.0
+              },
+              {
+                "w": "the",
+                "t": 14885.0,
+                "d": 183.0
+              },
+              {
+                "w": "long",
+                "t": 15068.0,
+                "d": 367.0
+              },
+              {
+                "w": "route",
+                "t": 15436.0,
+                "d": 413.0
+              },
+              {
+                "w": "between",
+                "t": 15896.0,
+                "d": 458.0
+              },
+              {
+                "w": "Hindustan",
+                "t": 16355.0,
+                "d": 874.0
+              },
+              {
+                "w": "and",
+                "t": 17275.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 17459.0,
+                "d": 136.0
+              },
+              {
+                "w": "Holy",
+                "t": 17596.0,
+                "d": 322.0
+              },
+              {
+                "w": "Cities",
+                "t": 17919.0,
+                "d": 735.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_princess_who_wrote_history/img/p11.png",
+      "shot": "wide shot of a coastal port, bird’s-eye angle",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "They crossed seas from an Indian port toward Arabia, part pilgrims, part diplomats, their presence weaving Mughal authority into the wider currents of Indian Ocean trade, Ottoman power and sacred travel.",
+            "hi": "वे हिन्दुस्तानी बन्दरगाह से अरब की तरफ़ समंदर पार गए—आधा मुसाफ़िर, आधा एलची—अपनी मौजूदगी से मुग़ल असर को हिन्द महासागर की गिरोह में, उस्मानी ताक़त में और मुक़द्दस सफ़रों की राहों में पिरोते हुए।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p11_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "They",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "crossed",
+                "t": 287.0,
+                "d": 425.0
+              },
+              {
+                "w": "seas",
+                "t": 712.0,
+                "d": 425.0
+              },
+              {
+                "w": "from",
+                "t": 1138.0,
+                "d": 212.0
+              },
+              {
+                "w": "an",
+                "t": 1351.0,
+                "d": 85.0
+              },
+              {
+                "w": "Indian",
+                "t": 1436.0,
+                "d": 510.0
+              },
+              {
+                "w": "port",
+                "t": 1946.0,
+                "d": 255.0
+              },
+              {
+                "w": "toward",
+                "t": 2202.0,
+                "d": 296.0
+              },
+              {
+                "w": "Arabia",
+                "t": 2498.0,
+                "d": 852.0
+              },
+              {
+                "w": "part",
+                "t": 3436.0,
+                "d": 297.0
+              },
+              {
+                "w": "pilgrims",
+                "t": 3734.0,
+                "d": 1021.0
+              },
+              {
+                "w": "part",
+                "t": 4755.0,
+                "d": 297.0
+              },
+              {
+                "w": "diplomats",
+                "t": 5053.0,
+                "d": 936.0
+              },
+              {
+                "w": "their",
+                "t": 6329.0,
+                "d": 297.0
+              },
+              {
+                "w": "presence",
+                "t": 6627.0,
+                "d": 468.0
+              },
+              {
+                "w": "weaving",
+                "t": 7095.0,
+                "d": 468.0
+              },
+              {
+                "w": "Mughal",
+                "t": 7563.0,
+                "d": 255.0
+              },
+              {
+                "w": "authority",
+                "t": 7819.0,
+                "d": 595.0
+              },
+              {
+                "w": "into",
+                "t": 8457.0,
+                "d": 254.0
+              },
+              {
+                "w": "the",
+                "t": 8711.0,
+                "d": 171.0
+              },
+              {
+                "w": "wider",
+                "t": 8882.0,
+                "d": 425.0
+              },
+              {
+                "w": "currents",
+                "t": 9308.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 9691.0,
+                "d": 296.0
+              },
+              {
+                "w": "Indian",
+                "t": 9988.0,
+                "d": 384.0
+              },
+              {
+                "w": "Ocean",
+                "t": 10372.0,
+                "d": 424.0
+              },
+              {
+                "w": "trade",
+                "t": 10796.0,
+                "d": 595.0
+              },
+              {
+                "w": "Ottoman",
+                "t": 11691.0,
+                "d": 509.0
+              },
+              {
+                "w": "power",
+                "t": 12201.0,
+                "d": 554.0
+              },
+              {
+                "w": "and",
+                "t": 12755.0,
+                "d": 424.0
+              },
+              {
+                "w": "sacred",
+                "t": 13179.0,
+                "d": 469.0
+              },
+              {
+                "w": "travel",
+                "t": 13648.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_princess_who_wrote_history/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_princess_who_wrote_history/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At the threshold of the Arabian Sea, she steadied herself between empire and ocean, resolved to carry her journey's truth home.",
+            "hi": "अरब सागर की दहलीज़ पर, वो साम्राज्य और समंदर के बीच संभली, तय किया सच लेकर घर लौटेगी।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 270.0,
+                "d": 120.0
+              },
+              {
+                "w": "threshold",
+                "t": 390.0,
+                "d": 440.0
+              },
+              {
+                "w": "of",
+                "t": 830.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 950.0,
+                "d": 160.0
+              },
+              {
+                "w": "Arabian",
+                "t": 1110.0,
+                "d": 440.0
+              },
+              {
+                "w": "Sea",
+                "t": 1550.0,
+                "d": 200.0
+              },
+              {
+                "w": "she",
+                "t": 1750.0,
+                "d": 160.0
+              },
+              {
+                "w": "steadied",
+                "t": 2230.0,
+                "d": 719.0
+              },
+              {
+                "w": "herself",
+                "t": 2949.0,
+                "d": 520.0
+              },
+              {
+                "w": "between",
+                "t": 3469.0,
+                "d": 400.0
+              },
+              {
+                "w": "empire",
+                "t": 3869.0,
+                "d": 601.0
+              },
+              {
+                "w": "and",
+                "t": 4470.0,
+                "d": 280.0
+              },
+              {
+                "w": "ocean",
+                "t": 4750.0,
+                "d": 760.0
+              },
+              {
+                "w": "resolved",
+                "t": 5670.0,
+                "d": 840.0
+              },
+              {
+                "w": "to",
+                "t": 6510.0,
+                "d": 240.0
+              },
+              {
+                "w": "carry",
+                "t": 6750.0,
+                "d": 280.0
+              },
+              {
+                "w": "her",
+                "t": 7030.0,
+                "d": 160.0
+              },
+              {
+                "w": "journey's",
+                "t": 7190.0,
+                "d": 480.0
+              },
+              {
+                "w": "truth",
+                "t": 7670.0,
+                "d": 320.0
+              },
+              {
+                "w": "home",
+                "t": 7990.0,
+                "d": 360.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_princess_who_wrote_history/img/p12.png",
+      "shot": "medium wide shot of a camp near the Haramain, twilight",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In and around the Holy Places, Gulbadan's life braided devotion with politics: receiving envoys, managing finances, responding to news from Akbar's court, and preserving the dignity of Mughal women far from home.",
+            "hi": "पवित्र जगहों में और उनके आस-पास गुलबदन की ज़िंदगी में इबादत और सियासत घुल-मिल गई—वो रुके हुए एलचियों को मिलती, हिसाब-किताब सँभालती, अकबर के दरबार से आती खबरों पर जवाब भेजती और घर से दूर रहते हुए भी मुग़ल बेगमों की इज़्ज़त बचाए रखती।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p12_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "and",
+                "t": 310.0,
+                "d": 137.0
+              },
+              {
+                "w": "around",
+                "t": 448.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 770.0,
+                "d": 137.0
+              },
+              {
+                "w": "Holy",
+                "t": 908.0,
+                "d": 367.0
+              },
+              {
+                "w": "Places",
+                "t": 1275.0,
+                "d": 919.0
+              },
+              {
+                "w": "Gulbadan's",
+                "t": 2241.0,
+                "d": 781.0
+              },
+              {
+                "w": "life",
+                "t": 3022.0,
+                "d": 366.0
+              },
+              {
+                "w": "braided",
+                "t": 3389.0,
+                "d": 413.0
+              },
+              {
+                "w": "devotion",
+                "t": 3803.0,
+                "d": 597.0
+              },
+              {
+                "w": "with",
+                "t": 4401.0,
+                "d": 183.0
+              },
+              {
+                "w": "politics",
+                "t": 4585.0,
+                "d": 874.0
+              },
+              {
+                "w": "receiving",
+                "t": 5735.0,
+                "d": 643.0
+              },
+              {
+                "w": "envoys",
+                "t": 6379.0,
+                "d": 781.0
+              },
+              {
+                "w": "managing",
+                "t": 7390.0,
+                "d": 597.0
+              },
+              {
+                "w": "finances",
+                "t": 7988.0,
+                "d": 1103.0
+              },
+              {
+                "w": "responding",
+                "t": 9228.0,
+                "d": 689.0
+              },
+              {
+                "w": "to",
+                "t": 9918.0,
+                "d": 91.0
+              },
+              {
+                "w": "news",
+                "t": 10010.0,
+                "d": 413.0
+              },
+              {
+                "w": "from",
+                "t": 10424.0,
+                "d": 275.0
+              },
+              {
+                "w": "Akbar's",
+                "t": 10700.0,
+                "d": 459.0
+              },
+              {
+                "w": "court",
+                "t": 11159.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 11804.0,
+                "d": 459.0
+              },
+              {
+                "w": "preserving",
+                "t": 12264.0,
+                "d": 597.0
+              },
+              {
+                "w": "the",
+                "t": 12862.0,
+                "d": 136.0
+              },
+              {
+                "w": "dignity",
+                "t": 12998.0,
+                "d": 598.0
+              },
+              {
+                "w": "of",
+                "t": 13597.0,
+                "d": 274.0
+              },
+              {
+                "w": "Mughal",
+                "t": 13872.0,
+                "d": 367.0
+              },
+              {
+                "w": "women",
+                "t": 14240.0,
+                "d": 414.0
+              },
+              {
+                "w": "far",
+                "t": 14655.0,
+                "d": 321.0
+              },
+              {
+                "w": "from",
+                "t": 14977.0,
+                "d": 228.0
+              },
+              {
+                "w": "home",
+                "t": 15205.0,
+                "d": 598.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_princess_who_wrote_history/img/p13.png",
+      "shot": "medium shot on ship’s deck, horizon level",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By the early 1580s she returned, seasoned by years of movement, storms and negotiations. The journey itself would leave only scattered traces, but it had sharpened her eye for how fragile power and safety could be.",
+            "hi": "1580 के शुरू में वो लौटी—सालों के सफ़र, तूफ़ानों और बातचीतों से तपकर। इस सफ़र के चिह्न तो इतिहास में बिखरे रह गए, पर इसने उसकी नज़र को सत्ता और अमन की नाज़ुकी पर और तेज़ कर दिया।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p13_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 110.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 350.0,
+                "d": 120.0
+              },
+              {
+                "w": "early",
+                "t": 470.0,
+                "d": 400.0
+              },
+              {
+                "w": "1580s",
+                "t": 870.0,
+                "d": 960.0
+              },
+              {
+                "w": "she",
+                "t": 1830.0,
+                "d": 360.0
+              },
+              {
+                "w": "returned",
+                "t": 2190.0,
+                "d": 679.0
+              },
+              {
+                "w": "seasoned",
+                "t": 2909.0,
+                "d": 601.0
+              },
+              {
+                "w": "by",
+                "t": 3510.0,
+                "d": 120.0
+              },
+              {
+                "w": "years",
+                "t": 3630.0,
+                "d": 520.0
+              },
+              {
+                "w": "of",
+                "t": 4150.0,
+                "d": 200.0
+              },
+              {
+                "w": "movement",
+                "t": 4350.0,
+                "d": 880.0
+              },
+              {
+                "w": "storms",
+                "t": 5270.0,
+                "d": 800.0
+              },
+              {
+                "w": "and",
+                "t": 6070.0,
+                "d": 240.0
+              },
+              {
+                "w": "negotiations",
+                "t": 6310.0,
+                "d": 1400.0
+              },
+              {
+                "w": "The",
+                "t": 8189.0,
+                "d": 200.0
+              },
+              {
+                "w": "journey",
+                "t": 8389.0,
+                "d": 361.0
+              },
+              {
+                "w": "itself",
+                "t": 8750.0,
+                "d": 479.0
+              },
+              {
+                "w": "would",
+                "t": 9229.0,
+                "d": 201.0
+              },
+              {
+                "w": "leave",
+                "t": 9430.0,
+                "d": 279.0
+              },
+              {
+                "w": "only",
+                "t": 9709.0,
+                "d": 360.0
+              },
+              {
+                "w": "scattered",
+                "t": 10069.0,
+                "d": 521.0
+              },
+              {
+                "w": "traces",
+                "t": 10590.0,
+                "d": 719.0
+              },
+              {
+                "w": "but",
+                "t": 11709.0,
+                "d": 201.0
+              },
+              {
+                "w": "it",
+                "t": 11910.0,
+                "d": 120.0
+              },
+              {
+                "w": "had",
+                "t": 12030.0,
+                "d": 160.0
+              },
+              {
+                "w": "sharpened",
+                "t": 12190.0,
+                "d": 480.0
+              },
+              {
+                "w": "her",
+                "t": 12670.0,
+                "d": 160.0
+              },
+              {
+                "w": "eye",
+                "t": 12830.0,
+                "d": 200.0
+              },
+              {
+                "w": "for",
+                "t": 13190.0,
+                "d": 199.0
+              },
+              {
+                "w": "how",
+                "t": 13389.0,
+                "d": 201.0
+              },
+              {
+                "w": "fragile",
+                "t": 13590.0,
+                "d": 520.0
+              },
+              {
+                "w": "power",
+                "t": 14110.0,
+                "d": 560.0
+              },
+              {
+                "w": "and",
+                "t": 14670.0,
+                "d": 280.0
+              },
+              {
+                "w": "safety",
+                "t": 14950.0,
+                "d": 400.0
+              },
+              {
+                "w": "could",
+                "t": 15350.0,
+                "d": 199.0
+              },
+              {
+                "w": "be",
+                "t": 15549.0,
+                "d": 281.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_princess_who_wrote_history/img/p14.png",
+      "shot": "medium interior shot, low angle behind her shoulder, focusing on page",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When Akbar called for histories of his house, Gulbadan answered not as an ornament but as an author. She set herself to write the Humayun-Nama, a woman's view onto the storms of a man's reign.",
+            "hi": "जब अकबर ने अपने ख़ानदान की तवारीख़ माँगी, गुलबदन ने ज़ेवर की तरह नहीं, लेखक की तरह जवाब दिया। उसने हुमायूँनामा लिखने का बीड़ा उठाया—एक औरत की नज़र से मर्द के तख़्त की आंधियाँ।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p14_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "Akbar",
+                "t": 350.0,
+                "d": 440.0
+              },
+              {
+                "w": "called",
+                "t": 790.0,
+                "d": 320.0
+              },
+              {
+                "w": "for",
+                "t": 1110.0,
+                "d": 200.0
+              },
+              {
+                "w": "histories",
+                "t": 1310.0,
+                "d": 440.0
+              },
+              {
+                "w": "of",
+                "t": 1750.0,
+                "d": 120.0
+              },
+              {
+                "w": "his",
+                "t": 1870.0,
+                "d": 120.0
+              },
+              {
+                "w": "house",
+                "t": 1990.0,
+                "d": 720.0
+              },
+              {
+                "w": "Gulbadan",
+                "t": 2869.0,
+                "d": 600.0
+              },
+              {
+                "w": "answered",
+                "t": 3469.0,
+                "d": 841.0
+              },
+              {
+                "w": "not",
+                "t": 4350.0,
+                "d": 320.0
+              },
+              {
+                "w": "as",
+                "t": 4670.0,
+                "d": 120.0
+              },
+              {
+                "w": "an",
+                "t": 4790.0,
+                "d": 160.0
+              },
+              {
+                "w": "ornament",
+                "t": 4950.0,
+                "d": 760.0
+              },
+              {
+                "w": "but",
+                "t": 5750.0,
+                "d": 200.0
+              },
+              {
+                "w": "as",
+                "t": 5950.0,
+                "d": 120.0
+              },
+              {
+                "w": "an",
+                "t": 6070.0,
+                "d": 80.0
+              },
+              {
+                "w": "author",
+                "t": 6150.0,
+                "d": 880.0
+              },
+              {
+                "w": "She",
+                "t": 7390.0,
+                "d": 240.0
+              },
+              {
+                "w": "set",
+                "t": 7630.0,
+                "d": 240.0
+              },
+              {
+                "w": "herself",
+                "t": 7870.0,
+                "d": 439.0
+              },
+              {
+                "w": "to",
+                "t": 8309.0,
+                "d": 121.0
+              },
+              {
+                "w": "write",
+                "t": 8430.0,
+                "d": 279.0
+              },
+              {
+                "w": "the",
+                "t": 8709.0,
+                "d": 161.0
+              },
+              {
+                "w": "Humayun-Nama",
+                "t": 8870.0,
+                "d": 560.0
+              },
+              {
+                "w": "a",
+                "t": 9430.0,
+                "d": 799.0
+              },
+              {
+                "w": "woman's",
+                "t": 10229.0,
+                "d": 361.0
+              },
+              {
+                "w": "view",
+                "t": 10590.0,
+                "d": 320.0
+              },
+              {
+                "w": "onto",
+                "t": 10910.0,
+                "d": 319.0
+              },
+              {
+                "w": "the",
+                "t": 11229.0,
+                "d": 121.0
+              },
+              {
+                "w": "storms",
+                "t": 11350.0,
+                "d": 480.0
+              },
+              {
+                "w": "of",
+                "t": 11830.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 11990.0,
+                "d": 79.0
+              },
+              {
+                "w": "man's",
+                "t": 12069.0,
+                "d": 361.0
+              },
+              {
+                "w": "reign",
+                "t": 12430.0,
+                "d": 480.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_princess_who_wrote_history/img/p15.png",
+      "shot": "tight shot on her hand and pen, extreme close-up",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "She wrote in Persian of quarrels in the haram, of brothers' divisions, of everyday routines and sudden disasters, anchoring grand events in small, observed moments rather than in the flattery expected of courtly chronicles.",
+            "hi": "उसने फ़ारसी में हरम के झगड़ों, भाइयों के फूट, रोज़मर्रा की दिनचर्या और अचानक टूट पड़ने वाली आफ़तों को लिखा—बड़े वाकियात को उन छोटे, देखे हुए पलों में बाँधते हुए, जहाँ दरबारी तारीख़ों वाली चापलूसी की जगह नहीं थी।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p15_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "She",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "wrote",
+                "t": 356.0,
+                "d": 321.0
+              },
+              {
+                "w": "in",
+                "t": 678.0,
+                "d": 137.0
+              },
+              {
+                "w": "Persian",
+                "t": 816.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 1229.0,
+                "d": 183.0
+              },
+              {
+                "w": "quarrels",
+                "t": 1413.0,
+                "d": 551.0
+              },
+              {
+                "w": "in",
+                "t": 1965.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 2057.0,
+                "d": 137.0
+              },
+              {
+                "w": "haram",
+                "t": 2195.0,
+                "d": 781.0
+              },
+              {
+                "w": "of",
+                "t": 3022.0,
+                "d": 366.0
+              },
+              {
+                "w": "brothers'",
+                "t": 3389.0,
+                "d": 459.0
+              },
+              {
+                "w": "divisions",
+                "t": 3849.0,
+                "d": 874.0
+              },
+              {
+                "w": "of",
+                "t": 5045.0,
+                "d": 367.0
+              },
+              {
+                "w": "everyday",
+                "t": 5413.0,
+                "d": 551.0
+              },
+              {
+                "w": "routines",
+                "t": 5965.0,
+                "d": 919.0
+              },
+              {
+                "w": "and",
+                "t": 6885.0,
+                "d": 321.0
+              },
+              {
+                "w": "sudden",
+                "t": 7206.0,
+                "d": 413.0
+              },
+              {
+                "w": "disasters",
+                "t": 7620.0,
+                "d": 1195.0
+              },
+              {
+                "w": "anchoring",
+                "t": 9091.0,
+                "d": 642.0
+              },
+              {
+                "w": "grand",
+                "t": 9734.0,
+                "d": 322.0
+              },
+              {
+                "w": "events",
+                "t": 10057.0,
+                "d": 597.0
+              },
+              {
+                "w": "in",
+                "t": 10700.0,
+                "d": 183.0
+              },
+              {
+                "w": "small",
+                "t": 10883.0,
+                "d": 828.0
+              },
+              {
+                "w": "observed",
+                "t": 11757.0,
+                "d": 736.0
+              },
+              {
+                "w": "moments",
+                "t": 12494.0,
+                "d": 872.0
+              },
+              {
+                "w": "rather",
+                "t": 13551.0,
+                "d": 459.0
+              },
+              {
+                "w": "than",
+                "t": 14011.0,
+                "d": 367.0
+              },
+              {
+                "w": "in",
+                "t": 14379.0,
+                "d": 136.0
+              },
+              {
+                "w": "the",
+                "t": 14516.0,
+                "d": 139.0
+              },
+              {
+                "w": "flattery",
+                "t": 14655.0,
+                "d": 597.0
+              },
+              {
+                "w": "expected",
+                "t": 15252.0,
+                "d": 965.0
+              },
+              {
+                "w": "of",
+                "t": 16218.0,
+                "d": 367.0
+              },
+              {
+                "w": "courtly",
+                "t": 16586.0,
+                "d": 551.0
+              },
+              {
+                "w": "chronicles",
+                "t": 17137.0,
+                "d": 965.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_princess_who_wrote_history/img/p16.png",
+      "shot": "medium shot, two female attendants nearby, side angle",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Sometimes she wrote with her own hand, sometimes she dictated. In either case, the choices of what to tell and how to tell it were hers, shaped by loyalty to Humayun and by a clear memory of his failings.",
+            "hi": "कभी वो खुद लिखती, कभी बोलकर लिखवाती। दोनों ही हाल में क्या कहना है, कैसे कहना है, ये चुनाव उसी का था—जो हुमायूँ से वफ़ादारी और उसकी कमज़ोरियों की साफ़ याद दोनों से आकार लेता था।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p16_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Sometimes",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "she",
+                "t": 712.0,
+                "d": 212.0
+              },
+              {
+                "w": "wrote",
+                "t": 925.0,
+                "d": 255.0
+              },
+              {
+                "w": "with",
+                "t": 1180.0,
+                "d": 170.0
+              },
+              {
+                "w": "her",
+                "t": 1351.0,
+                "d": 170.0
+              },
+              {
+                "w": "own",
+                "t": 1521.0,
+                "d": 212.0
+              },
+              {
+                "w": "hand",
+                "t": 1734.0,
+                "d": 510.0
+              },
+              {
+                "w": "sometimes",
+                "t": 2498.0,
+                "d": 724.0
+              },
+              {
+                "w": "she",
+                "t": 3223.0,
+                "d": 638.0
+              },
+              {
+                "w": "dictated",
+                "t": 3861.0,
+                "d": 1234.0
+              },
+              {
+                "w": "In",
+                "t": 5351.0,
+                "d": 255.0
+              },
+              {
+                "w": "either",
+                "t": 5606.0,
+                "d": 297.0
+              },
+              {
+                "w": "case",
+                "t": 5904.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 6244.0,
+                "d": 127.0
+              },
+              {
+                "w": "choices",
+                "t": 6372.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 6840.0,
+                "d": 85.0
+              },
+              {
+                "w": "what",
+                "t": 6925.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 7180.0,
+                "d": 127.0
+              },
+              {
+                "w": "tell",
+                "t": 7308.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 7691.0,
+                "d": 212.0
+              },
+              {
+                "w": "how",
+                "t": 7904.0,
+                "d": 170.0
+              },
+              {
+                "w": "to",
+                "t": 8074.0,
+                "d": 127.0
+              },
+              {
+                "w": "tell",
+                "t": 8202.0,
+                "d": 212.0
+              },
+              {
+                "w": "it",
+                "t": 8414.0,
+                "d": 85.0
+              },
+              {
+                "w": "were",
+                "t": 8500.0,
+                "d": 169.0
+              },
+              {
+                "w": "hers",
+                "t": 8669.0,
+                "d": 595.0
+              },
+              {
+                "w": "shaped",
+                "t": 9521.0,
+                "d": 425.0
+              },
+              {
+                "w": "by",
+                "t": 9946.0,
+                "d": 211.0
+              },
+              {
+                "w": "loyalty",
+                "t": 10158.0,
+                "d": 469.0
+              },
+              {
+                "w": "to",
+                "t": 10627.0,
+                "d": 127.0
+              },
+              {
+                "w": "Humayun",
+                "t": 10755.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 11563.0,
+                "d": 170.0
+              },
+              {
+                "w": "by",
+                "t": 11734.0,
+                "d": 296.0
+              },
+              {
+                "w": "a",
+                "t": 12030.0,
+                "d": 43.0
+              },
+              {
+                "w": "clear",
+                "t": 12074.0,
+                "d": 211.0
+              },
+              {
+                "w": "memory",
+                "t": 12286.0,
+                "d": 384.0
+              },
+              {
+                "w": "of",
+                "t": 12670.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 12797.0,
+                "d": 170.0
+              },
+              {
+                "w": "failings",
+                "t": 12968.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_princess_who_wrote_history/img/p17.png",
+      "shot": "memory montage, soft focus, medium-wide interior",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Her narrative did not stride like an official victory scroll. It moved between private rooms and public decisions, between letters and journeys, letting readers feel how imperial choices rippled through the lives of wives, sisters and daughters.",
+            "hi": "उसकी कहानी कोई सरकारी फ़तहनामा की तरह सीधी march नहीं करती। वो निजी कमरों और सार्वजनिक फ़ैसलों के बीच, ख़तों और सफ़रों के बीच घूमती है, ताकि पाठक महसूस करें कि बादशाहों के फ़ैसले बीवियों, बहनों और बेटियों की ज़िंदगी में कैसे लहर बनकर घुसते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p17_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Her",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "narrative",
+                "t": 244.0,
+                "d": 553.0
+              },
+              {
+                "w": "did",
+                "t": 797.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 1010.0,
+                "d": 297.0
+              },
+              {
+                "w": "stride",
+                "t": 1308.0,
+                "d": 468.0
+              },
+              {
+                "w": "like",
+                "t": 1776.0,
+                "d": 212.0
+              },
+              {
+                "w": "an",
+                "t": 1989.0,
+                "d": 85.0
+              },
+              {
+                "w": "official",
+                "t": 2074.0,
+                "d": 509.0
+              },
+              {
+                "w": "victory",
+                "t": 2584.0,
+                "d": 382.0
+              },
+              {
+                "w": "scroll",
+                "t": 2967.0,
+                "d": 426.0
+              },
+              {
+                "w": "It",
+                "t": 3393.0,
+                "d": 85.0
+              },
+              {
+                "w": "moved",
+                "t": 3478.0,
+                "d": 594.0
+              },
+              {
+                "w": "between",
+                "t": 4414.0,
+                "d": 1063.0
+              },
+              {
+                "w": "private",
+                "t": 5478.0,
+                "d": 425.0
+              },
+              {
+                "w": "rooms",
+                "t": 5904.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 6287.0,
+                "d": 297.0
+              },
+              {
+                "w": "public",
+                "t": 6585.0,
+                "d": 382.0
+              },
+              {
+                "w": "decisions",
+                "t": 6968.0,
+                "d": 1021.0
+              },
+              {
+                "w": "between",
+                "t": 8202.0,
+                "d": 467.0
+              },
+              {
+                "w": "letters",
+                "t": 8669.0,
+                "d": 554.0
+              },
+              {
+                "w": "and",
+                "t": 9223.0,
+                "d": 255.0
+              },
+              {
+                "w": "journeys",
+                "t": 9478.0,
+                "d": 850.0
+              },
+              {
+                "w": "letting",
+                "t": 10881.0,
+                "d": 425.0
+              },
+              {
+                "w": "readers",
+                "t": 11307.0,
+                "d": 511.0
+              },
+              {
+                "w": "feel",
+                "t": 11819.0,
+                "d": 340.0
+              },
+              {
+                "w": "how",
+                "t": 12159.0,
+                "d": 296.0
+              },
+              {
+                "w": "imperial",
+                "t": 12456.0,
+                "d": 638.0
+              },
+              {
+                "w": "choices",
+                "t": 13094.0,
+                "d": 554.0
+              },
+              {
+                "w": "rippled",
+                "t": 13648.0,
+                "d": 638.0
+              },
+              {
+                "w": "through",
+                "t": 14287.0,
+                "d": 296.0
+              },
+              {
+                "w": "the",
+                "t": 14584.0,
+                "d": 128.0
+              },
+              {
+                "w": "lives",
+                "t": 14712.0,
+                "d": 339.0
+              },
+              {
+                "w": "of",
+                "t": 15052.0,
+                "d": 213.0
+              },
+              {
+                "w": "wives",
+                "t": 15265.0,
+                "d": 680.0
+              },
+              {
+                "w": "sisters",
+                "t": 16030.0,
+                "d": 767.0
+              },
+              {
+                "w": "and",
+                "t": 16840.0,
+                "d": 212.0
+              },
+              {
+                "w": "daughters",
+                "t": 17053.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/the_princess_who_wrote_history/img/p18.png",
+      "shot": "medium shot, contemplative, window light on her face",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "She wrote within the bounds of family loyalty, sometimes veiling conflict, sometimes hinting at it. Even in what she left unsaid, her careful omissions reveal how a woman at court navigated truth, discretion and authority.",
+            "hi": "उसने ख़ानदान की वफ़ादारी की हदों के भीतर लिखा—कहीं टकराव को ढका, कहीं बस इशारा किया। जो कुछ उसने नहीं कहा, वो भी दिखा देता है कि दरबार की औरत सच, राज़दारी और अपने असर के बीच कैसे राह निकालती थी।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p18_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "She",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "wrote",
+                "t": 329.0,
+                "d": 255.0
+              },
+              {
+                "w": "within",
+                "t": 585.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 882.0,
+                "d": 170.0
+              },
+              {
+                "w": "bounds",
+                "t": 1053.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 1393.0,
+                "d": 127.0
+              },
+              {
+                "w": "family",
+                "t": 1521.0,
+                "d": 425.0
+              },
+              {
+                "w": "loyalty",
+                "t": 1946.0,
+                "d": 808.0
+              },
+              {
+                "w": "sometimes",
+                "t": 2882.0,
+                "d": 1021.0
+              },
+              {
+                "w": "veiling",
+                "t": 3946.0,
+                "d": 510.0
+              },
+              {
+                "w": "conflict",
+                "t": 4457.0,
+                "d": 808.0
+              },
+              {
+                "w": "sometimes",
+                "t": 5436.0,
+                "d": 723.0
+              },
+              {
+                "w": "hinting",
+                "t": 6159.0,
+                "d": 382.0
+              },
+              {
+                "w": "at",
+                "t": 6542.0,
+                "d": 127.0
+              },
+              {
+                "w": "it",
+                "t": 6670.0,
+                "d": 382.0
+              },
+              {
+                "w": "Even",
+                "t": 7861.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 8287.0,
+                "d": 127.0
+              },
+              {
+                "w": "what",
+                "t": 8414.0,
+                "d": 211.0
+              },
+              {
+                "w": "she",
+                "t": 8626.0,
+                "d": 171.0
+              },
+              {
+                "w": "left",
+                "t": 8797.0,
+                "d": 255.0
+              },
+              {
+                "w": "unsaid",
+                "t": 9053.0,
+                "d": 935.0
+              },
+              {
+                "w": "her",
+                "t": 10202.0,
+                "d": 297.0
+              },
+              {
+                "w": "careful",
+                "t": 10500.0,
+                "d": 467.0
+              },
+              {
+                "w": "omissions",
+                "t": 10967.0,
+                "d": 511.0
+              },
+              {
+                "w": "reveal",
+                "t": 11478.0,
+                "d": 381.0
+              },
+              {
+                "w": "how",
+                "t": 11860.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 12030.0,
+                "d": 85.0
+              },
+              {
+                "w": "woman",
+                "t": 12115.0,
+                "d": 469.0
+              },
+              {
+                "w": "at",
+                "t": 12585.0,
+                "d": 297.0
+              },
+              {
+                "w": "court",
+                "t": 12882.0,
+                "d": 381.0
+              },
+              {
+                "w": "navigated",
+                "t": 13264.0,
+                "d": 681.0
+              },
+              {
+                "w": "truth",
+                "t": 13946.0,
+                "d": 510.0
+              },
+              {
+                "w": "discretion",
+                "t": 14712.0,
+                "d": 893.0
+              },
+              {
+                "w": "and",
+                "t": 15647.0,
+                "d": 171.0
+              },
+              {
+                "w": "authority",
+                "t": 15819.0,
+                "d": 765.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_princess_who_wrote_history/split_auto/s0.png",
+          "slogan": {
+            "en": "My journey becomes our history",
+            "hi": "मेरी यात्रा हमारी इतिहास बनती है"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_princess_who_wrote_history/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_princess_who_wrote_history/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Memories of exile and return fuse into ink and light, as her quiet witness shapes the Mughal world into enduring words.",
+            "hi": "निर्वासन की यादें, वापसी की चमक — उसकी खामोश नज़र से मुगल दुनिया स्याही में अमर बनती है।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Memories",
+                "t": 72.0,
+                "d": 583.0
+              },
+              {
+                "w": "of",
+                "t": 656.0,
+                "d": 125.0
+              },
+              {
+                "w": "exile",
+                "t": 781.0,
+                "d": 541.0
+              },
+              {
+                "w": "and",
+                "t": 1322.0,
+                "d": 208.0
+              },
+              {
+                "w": "return",
+                "t": 1531.0,
+                "d": 416.0
+              },
+              {
+                "w": "fuse",
+                "t": 1947.0,
+                "d": 416.0
+              },
+              {
+                "w": "into",
+                "t": 2364.0,
+                "d": 416.0
+              },
+              {
+                "w": "ink",
+                "t": 2781.0,
+                "d": 332.0
+              },
+              {
+                "w": "and",
+                "t": 3113.0,
+                "d": 251.0
+              },
+              {
+                "w": "light",
+                "t": 3364.0,
+                "d": 500.0
+              },
+              {
+                "w": "as",
+                "t": 4281.0,
+                "d": 291.0
+              },
+              {
+                "w": "her",
+                "t": 4572.0,
+                "d": 166.0
+              },
+              {
+                "w": "quiet",
+                "t": 4739.0,
+                "d": 416.0
+              },
+              {
+                "w": "witness",
+                "t": 5156.0,
+                "d": 458.0
+              },
+              {
+                "w": "shapes",
+                "t": 5614.0,
+                "d": 416.0
+              },
+              {
+                "w": "the",
+                "t": 6031.0,
+                "d": 125.0
+              },
+              {
+                "w": "Mughal",
+                "t": 6156.0,
+                "d": 333.0
+              },
+              {
+                "w": "world",
+                "t": 6489.0,
+                "d": 416.0
+              },
+              {
+                "w": "into",
+                "t": 6947.0,
+                "d": 333.0
+              },
+              {
+                "w": "enduring",
+                "t": 7281.0,
+                "d": 625.0
+              },
+              {
+                "w": "words",
+                "t": 7906.0,
+                "d": 623.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p19",
+      "art": "assets/the_princess_who_wrote_history/img/p19.png",
+      "shot": "wide shot of an imperial library room, slightly high angle",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Her work joined the growing pile of histories ordered by Akbar, but it was unlike the others-a first-person record by a Mughal woman, preserving not only battles and treaties but the textures of a shared household past.",
+            "hi": "उसकी किताब अकबर के हुक्म पर लिखी जा रही तवारीख़ के ढेर में जा लगी, पर वो उन सबसे अलग थी—एक मुग़ल औरत की पहली शख़्सी गवाही, जिसमें जंगों और मुआहिदों के साथ-साथ साझा घर की रोज़मर्रा की बनावट भी महफ़ूज़ हो गई।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p19_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p19_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Her",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "work",
+                "t": 230.0,
+                "d": 360.0
+              },
+              {
+                "w": "joined",
+                "t": 590.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 990.0,
+                "d": 120.0
+              },
+              {
+                "w": "growing",
+                "t": 1110.0,
+                "d": 360.0
+              },
+              {
+                "w": "pile",
+                "t": 1470.0,
+                "d": 280.0
+              },
+              {
+                "w": "of",
+                "t": 1750.0,
+                "d": 80.0
+              },
+              {
+                "w": "histories",
+                "t": 1830.0,
+                "d": 639.0
+              },
+              {
+                "w": "ordered",
+                "t": 2510.0,
+                "d": 399.0
+              },
+              {
+                "w": "by",
+                "t": 2909.0,
+                "d": 241.0
+              },
+              {
+                "w": "Akbar",
+                "t": 3150.0,
+                "d": 600.0
+              },
+              {
+                "w": "but",
+                "t": 4190.0,
+                "d": 240.0
+              },
+              {
+                "w": "it",
+                "t": 4430.0,
+                "d": 80.0
+              },
+              {
+                "w": "was",
+                "t": 4510.0,
+                "d": 200.0
+              },
+              {
+                "w": "unlike",
+                "t": 4710.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 5110.0,
+                "d": 160.0
+              },
+              {
+                "w": "others-a",
+                "t": 5270.0,
+                "d": 480.0
+              },
+              {
+                "w": "first-person",
+                "t": 5750.0,
+                "d": 760.0
+              },
+              {
+                "w": "record",
+                "t": 6510.0,
+                "d": 680.0
+              },
+              {
+                "w": "by",
+                "t": 7230.0,
+                "d": 240.0
+              },
+              {
+                "w": "a",
+                "t": 7470.0,
+                "d": 40.0
+              },
+              {
+                "w": "Mughal",
+                "t": 7510.0,
+                "d": 360.0
+              },
+              {
+                "w": "woman",
+                "t": 7870.0,
+                "d": 560.0
+              },
+              {
+                "w": "preserving",
+                "t": 8670.0,
+                "d": 639.0
+              },
+              {
+                "w": "not",
+                "t": 9309.0,
+                "d": 201.0
+              },
+              {
+                "w": "only",
+                "t": 9510.0,
+                "d": 280.0
+              },
+              {
+                "w": "battles",
+                "t": 9790.0,
+                "d": 480.0
+              },
+              {
+                "w": "and",
+                "t": 10270.0,
+                "d": 199.0
+              },
+              {
+                "w": "treaties",
+                "t": 10469.0,
+                "d": 680.0
+              },
+              {
+                "w": "but",
+                "t": 11309.0,
+                "d": 201.0
+              },
+              {
+                "w": "the",
+                "t": 11510.0,
+                "d": 160.0
+              },
+              {
+                "w": "textures",
+                "t": 11670.0,
+                "d": 600.0
+              },
+              {
+                "w": "of",
+                "t": 12270.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 12430.0,
+                "d": 39.0
+              },
+              {
+                "w": "shared",
+                "t": 12469.0,
+                "d": 401.0
+              },
+              {
+                "w": "household",
+                "t": 12870.0,
+                "d": 519.0
+              },
+              {
+                "w": "past",
+                "t": 13389.0,
+                "d": 601.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p20",
+      "art": "assets/the_princess_who_wrote_history/img/p20.png",
+      "shot": "symbolic wide shot of a single manuscript on a table, lamp-lit, overhead angle",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Only one incomplete manuscript of her Humayun-Nama survives, carried far from the court to a distant library. Yet in those surviving pages, Gulbadan Begum's voice still widens our understanding of empire, family and who may write history.",
+            "hi": "उसके हुमायूँनामा का सिर्फ़ एक अधूरा नुस्ख़ा बचा है, जो दरबार से दूर किसी अजनबी कुतुबख़ाने तक जा पहुँचा। फिर भी उन बचे पन्नों में गुलबदन बेगम की आवाज़ आज भी हमारे लिए साम्राज्य, ख़ानदान और 'इतिहास लिखने का हक़ किसका है'—इन सब की हदें फैलाए रखती है।"
+          },
+          "audio": {
+            "en": "assets/the_princess_who_wrote_history/audio/en/p20_0.mp3",
+            "hi": "assets/the_princess_who_wrote_history/audio/hi/p20_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Only",
+                "t": 117.0,
+                "d": 340.0
+              },
+              {
+                "w": "one",
+                "t": 457.0,
+                "d": 468.0
+              },
+              {
+                "w": "incomplete",
+                "t": 925.0,
+                "d": 680.0
+              },
+              {
+                "w": "manuscript",
+                "t": 1606.0,
+                "d": 638.0
+              },
+              {
+                "w": "of",
+                "t": 2244.0,
+                "d": 170.0
+              },
+              {
+                "w": "her",
+                "t": 2414.0,
+                "d": 169.0
+              },
+              {
+                "w": "Humayun-Nama",
+                "t": 2584.0,
+                "d": 553.0
+              },
+              {
+                "w": "survives",
+                "t": 3137.0,
+                "d": 893.0
+              },
+              {
+                "w": "carried",
+                "t": 4287.0,
+                "d": 468.0
+              },
+              {
+                "w": "far",
+                "t": 4755.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 5138.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 5351.0,
+                "d": 127.0
+              },
+              {
+                "w": "court",
+                "t": 5478.0,
+                "d": 553.0
+              },
+              {
+                "w": "to",
+                "t": 6117.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 6287.0,
+                "d": 42.0
+              },
+              {
+                "w": "distant",
+                "t": 6329.0,
+                "d": 510.0
+              },
+              {
+                "w": "library",
+                "t": 6840.0,
+                "d": 1021.0
+              },
+              {
+                "w": "Yet",
+                "t": 8074.0,
+                "d": 594.0
+              },
+              {
+                "w": "in",
+                "t": 8711.0,
+                "d": 256.0
+              },
+              {
+                "w": "those",
+                "t": 8968.0,
+                "d": 296.0
+              },
+              {
+                "w": "surviving",
+                "t": 9264.0,
+                "d": 468.0
+              },
+              {
+                "w": "pages",
+                "t": 9732.0,
+                "d": 681.0
+              },
+              {
+                "w": "Gulbadan",
+                "t": 10627.0,
+                "d": 638.0
+              },
+              {
+                "w": "Begum's",
+                "t": 11265.0,
+                "d": 425.0
+              },
+              {
+                "w": "voice",
+                "t": 11691.0,
+                "d": 339.0
+              },
+              {
+                "w": "still",
+                "t": 12030.0,
+                "d": 298.0
+              },
+              {
+                "w": "widens",
+                "t": 12329.0,
+                "d": 509.0
+              },
+              {
+                "w": "our",
+                "t": 12882.0,
+                "d": 211.0
+              },
+              {
+                "w": "understanding",
+                "t": 13094.0,
+                "d": 681.0
+              },
+              {
+                "w": "of",
+                "t": 13776.0,
+                "d": 170.0
+              },
+              {
+                "w": "empire",
+                "t": 13946.0,
+                "d": 893.0
+              },
+              {
+                "w": "family",
+                "t": 14925.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 15691.0,
+                "d": 339.0
+              },
+              {
+                "w": "who",
+                "t": 16030.0,
+                "d": 170.0
+              },
+              {
+                "w": "may",
+                "t": 16201.0,
+                "d": 170.0
+              },
+              {
+                "w": "write",
+                "t": 16371.0,
+                "d": 298.0
+              },
+              {
+                "w": "history",
+                "t": 16670.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Gulbadan Begum",
+    "epithets": [
+      "Mughal Princess",
+      "Daughter of Babur",
+      "Aunt of Akbar",
+      "First Woman Memoirist of the Mughals"
+    ],
+    "legend": "She turned a princess’s memory into the empire’s living heart."
+  }
+}
