@@ -146,6 +146,28 @@ source-critical framing (Aihole prashasti, copper plates, and the Arab geographe
 12. **Amoghavarsha Opens Kannada's Royal Path** ✅ — the *Kavirajamarga* (c. 850), earliest Kannada literary/poetics work; Kannada beside Sanskrit. *(scholarly — literature)*
 13. **Mahaviracharya Counts the World** ✅ — the *Ganita-sara-sangraha*, the first Indian text to treat mathematics as its own discipline. *(scientific — mathematics)*
 
+## 🏰 The Delhi Sultanate  *(Medieval — c. 1206–1414, the Mamluk–Khalji–Tughlaq arc)*  — **✅ CHAPTER COMPLETE (13/13)**
+Five dynasties of sultans, their conquests, crises and **innovations** in coinage, markets, irrigation and
+letters — with rigorous, **source-critical and non-communal** framing throughout (Barani, Ibn Battuta, Amir
+Khusrau as evidence; temple-reuse and Timur's sack rendered honestly but never inflammatory).
+**Founding & the slave-kings (Mamluks)**
+1. **Lakhbaksh Starts the Tower of Delhi** ✅ — Qutb-ud-Din Aibak; the Qutb Minar and Quwwat-ul-Islam (temple-reuse as "violent appropriation *and* material translation").
+2. **Iltutmish Wins a Throne and a Caliph** ✅ — the 1229 Abbasid investiture; the silver *tanka* and copper *jital*. *(economic — coinage)*
+3. **Razia Sultan Rides Through the Gate** ✅ — the only woman to rule Delhi; sovereignty read from her coins, not legend. *(social — women & power)*
+4. **Balban Builds the Shadow of God** ✅ — the *zill-i-ilahi* kingship, sijda and paibos; breaking the "Forty" (Barani).
+**Khalji power: defense, conquest & the market**
+5. **Malik Kafur Marches Beyond the Vindhyas** ✅ — the southern campaigns as tribute-raids, not conquest; local powers endure (source-critical on the spoils).
+6. **Alauddin Holds Siri Against the Mongols** ✅ — the Mongol wars (Kili 1299, Amroha 1305) and the fortress-city of Siri.
+7. **Alauddin Fixes the Price of Wheat** ✅ — the market/price-control reforms to sustain a cheap standing army. *(economic — price control)*
+**Tughlaq experiments & the great sack**
+8. **Muhammad bin Tughlaq Tests the Impossible** ✅ — the Daulatabad transfer and the token/fiat currency; "a thinking Sultan, not a madman" (Ibn Battuta). *(economic — token currency)*
+9. **Firuz Shah Turns Water into Villages** ✅ — the great canal network, sarais and hospitals; moving Ashokan pillars to Delhi. *(economic/engineering — irrigation)*
+10. **Timur Leaves Delhi Empty** ✅ — the 1398 sack, rendered honestly and source-critically; the artisan-deportation to Samarkand; a universal lesson.
+**Stone, verse & the spirit**
+11. **Stone Speaks at the Qutb Complex** ✅ — the multi-reign build (Alai Darwaza's true arch) as a palimpsest of reuse and craft. *(craft — architecture)*
+12. **Amir Khusrau Sings Hind and Iran** ✅ — the *Tuti-e-Hind*; Persian and Hindavi woven together; the father of qawwali. *(scholarly — composite culture)*
+13. **Nizamuddin Opens the Khanqah Door** ✅ — the Chishti saint's khanqah of service and *sama*, kept at a distance from power. *(social — spiritual tradition)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.

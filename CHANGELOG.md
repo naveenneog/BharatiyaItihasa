@@ -5,6 +5,31 @@ problems. Newest first.
 
 ---
 
+## 2026-07-26 — 🏰 Delhi Sultanate COMPLETE (13/13) · 8 chapters · self-extend to 10th era
+
+- **The Delhi Sultanate chapter is COMPLETE (13/13, all QA-clean):** Qutb-ud-Din Aibak & the Qutb Minar,
+  Iltutmish (1229 Abbasid investiture + the silver *tanka*/copper *jital*), Razia Sultan (sovereignty read
+  from her coins), Balban (*zill-i-ilahi* + breaking the Forty), Malik Kafur's southern tribute-raids,
+  Alauddin's Mongol defense (Kili 1299/Amroha 1305) and his market/price controls, Muhammad bin Tughlaq's
+  Daulatabad transfer + token currency, Firuz Shah's canals and Ashokan-pillar transport, Timur's 1398 sack,
+  the Qutb-complex palimpsest, Amir Khusrau (Persian+Hindavi, father of qawwali), and Nizamuddin Auliya's
+  Chishti khanqah. Deep **innovation** in coinage, markets, irrigation and letters.
+- **Sensitive-era framing held the bar — source-critical & non-communal throughout:** temple-reuse named
+  honestly as "violent appropriation *and* material translation" and rendered as an architectural *palimpsest*;
+  Malik Kafur's campaigns cast as tribute-raids not conquest (local powers endure); **Timur's massacre
+  acknowledged but its figures noted "shaped by rhetoric," the plunder hitting "temples and mosques alike"**,
+  ending on a universal lesson; Razia centred on numismatic evidence, not the romance legend; MBT via the
+  revisionist "thinking Sultan" reading; and the chapter closes on the **composite Indo-Persian/Chishti
+  heritage** (Amir Khusrau + Nizamuddin). Barani, Ibn Battuta and Amir Khusrau used as cited evidence.
+- **One production defect fixed mid-chapter (earlier tick):** three EN clips mis-voiced with the Hindi voice —
+  caught via Devanagari transcripts in voice QA, re-voiced with the correct English voice.
+- **Autonomous engine now spans 8 COMPLETE chapters (104 QA-clean stories):** Chola, Gupta, Maurya,
+  Vijayanagara, Indus Valley, Mughal, Chalukyas & Rashtrakutas, Delhi Sultanate. The driver auto-advanced to
+  **The Kushan Empire and the Silk Road** (9th, now building) and the self-extender was triggered
+  (`SEED_NEEDED`) to research + seed the **10th** backlog era.
+
+---
+
 ## 2026-07-26 — 🛕 Chalukyas & Rashtrakutas COMPLETE (13/13) · 7 chapters · self-extend to 9th era
 
 - **The Chalukyas & Rashtrakutas chapter is COMPLETE (13/13, all QA-clean):** Pulakeshin I founding Vatapi
