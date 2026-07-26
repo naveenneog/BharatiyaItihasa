@@ -1,0 +1,3357 @@
+{
+  "id": "the_locked_rooms_of_begram",
+  "title": "The Locked Rooms of Begram",
+  "title_i18n": {
+    "en": "The Locked Rooms of Begram",
+    "hi": "बेग्राम के बंद कमरे"
+  },
+  "figure": "Kushan Merchants and Administrators",
+  "era": "Kushan trade at Kapisa, objects mainly 1st-2nd century CE",
+  "moral": "Civilizations meet most quietly in the hands of traders and makers.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_locked_rooms_of_begram/intro/hero.png",
+      "name": "Kushan Trade Overseer of Kapisa",
+      "epithets": [
+        "Brokers of the Silk Roads",
+        "Masters of Kapisa Warehouses",
+        "Kushan Keepers of Begram",
+        "Guardians of Caravan Wealth"
+      ],
+      "legend": "In sealed rooms, they held half the world’s treasures.",
+      "era": "Kushan trade at Kapisa, objects mainly 1st-2nd century CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In quiet storerooms at Kapisa, Kushan traders and officials guard Roman glass, Chinese lacquer, and Indian ivory, steering the world's richest roads without drawing a sword.",
+            "hi": "कापीसा के शांत भंडारों में कुषाण व्यापारी और अफसर रोमी काँच, चीनी लाख और भारतीय हाथीदाँत की रखवाली करते हैं, बिना तलवार खींचे दुनिया की सबसे अमीर राहें चलाते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/intro/hero_en.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 72.0,
+                "d": 250.0
+              },
+              {
+                "w": "quiet",
+                "t": 322.0,
+                "d": 333.0
+              },
+              {
+                "w": "storerooms",
+                "t": 656.0,
+                "d": 583.0
+              },
+              {
+                "w": "at",
+                "t": 1239.0,
+                "d": 83.0
+              },
+              {
+                "w": "Kapisa",
+                "t": 1322.0,
+                "d": 625.0
+              },
+              {
+                "w": "Kushan",
+                "t": 2239.0,
+                "d": 375.0
+              },
+              {
+                "w": "traders",
+                "t": 2614.0,
+                "d": 415.0
+              },
+              {
+                "w": "and",
+                "t": 3030.0,
+                "d": 126.0
+              },
+              {
+                "w": "officials",
+                "t": 3156.0,
+                "d": 583.0
+              },
+              {
+                "w": "guard",
+                "t": 3739.0,
+                "d": 373.0
+              },
+              {
+                "w": "Roman",
+                "t": 4113.0,
+                "d": 334.0
+              },
+              {
+                "w": "glass",
+                "t": 4447.0,
+                "d": 625.0
+              },
+              {
+                "w": "Chinese",
+                "t": 5156.0,
+                "d": 500.0
+              },
+              {
+                "w": "lacquer",
+                "t": 5656.0,
+                "d": 625.0
+              },
+              {
+                "w": "and",
+                "t": 6281.0,
+                "d": 416.0
+              },
+              {
+                "w": "Indian",
+                "t": 6697.0,
+                "d": 416.0
+              },
+              {
+                "w": "ivory",
+                "t": 7114.0,
+                "d": 708.0
+              },
+              {
+                "w": "steering",
+                "t": 7864.0,
+                "d": 458.0
+              },
+              {
+                "w": "the",
+                "t": 8322.0,
+                "d": 123.0
+              },
+              {
+                "w": "world's",
+                "t": 8446.0,
+                "d": 417.0
+              },
+              {
+                "w": "richest",
+                "t": 8864.0,
+                "d": 500.0
+              },
+              {
+                "w": "roads",
+                "t": 9364.0,
+                "d": 375.0
+              },
+              {
+                "w": "without",
+                "t": 9739.0,
+                "d": 373.0
+              },
+              {
+                "w": "drawing",
+                "t": 10113.0,
+                "d": 375.0
+              },
+              {
+                "w": "a",
+                "t": 10488.0,
+                "d": 42.0
+              },
+              {
+                "w": "sword",
+                "t": 10531.0,
+                "d": 500.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_locked_rooms_of_begram/intro/map.png",
+      "x": 0.2,
+      "y": 0.3,
+      "label": "Begram / Kapisa, Afghanistan",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here in the Kabul valley, caravans pause and goods sleep in dark rooms, waiting to cross mountains, deserts, and seas.",
+            "hi": "काबुल की घाटी में काफ़िले रुकते हैं, माल अँधेरे कमरों में सोता है, पहाड़ों, रेगिस्तानों और समुंदरों को पार करने के इंतज़ार में।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/intro/map_en.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 505.0
+              },
+              {
+                "w": "in",
+                "t": 586.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 724.0,
+                "d": 137.0
+              },
+              {
+                "w": "Kabul",
+                "t": 862.0,
+                "d": 413.0
+              },
+              {
+                "w": "valley",
+                "t": 1275.0,
+                "d": 735.0
+              },
+              {
+                "w": "caravans",
+                "t": 2103.0,
+                "d": 734.0
+              },
+              {
+                "w": "pause",
+                "t": 2837.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 3251.0,
+                "d": 183.0
+              },
+              {
+                "w": "goods",
+                "t": 3435.0,
+                "d": 322.0
+              },
+              {
+                "w": "sleep",
+                "t": 3758.0,
+                "d": 321.0
+              },
+              {
+                "w": "in",
+                "t": 4080.0,
+                "d": 183.0
+              },
+              {
+                "w": "dark",
+                "t": 4264.0,
+                "d": 320.0
+              },
+              {
+                "w": "rooms",
+                "t": 4585.0,
+                "d": 874.0
+              },
+              {
+                "w": "waiting",
+                "t": 5643.0,
+                "d": 551.0
+              },
+              {
+                "w": "to",
+                "t": 6195.0,
+                "d": 137.0
+              },
+              {
+                "w": "cross",
+                "t": 6333.0,
+                "d": 367.0
+              },
+              {
+                "w": "mountains",
+                "t": 6701.0,
+                "d": 1011.0
+              },
+              {
+                "w": "deserts",
+                "t": 7758.0,
+                "d": 1057.0
+              },
+              {
+                "w": "and",
+                "t": 8908.0,
+                "d": 366.0
+              },
+              {
+                "w": "seas",
+                "t": 9274.0,
+                "d": 735.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_locked_rooms_of_begram/img/cover.png",
+      "shot": "sweeping low-angle wide of Kapisa fortress-town against the Hindu Kush",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Kapisa's locked rooms at Begram, Kushan hands gathered the world: Roman glass, Chinese lacquer, Indian ivory, resting where the Silk Road met the mountain passes.",
+            "hi": "कपीसा के बेग्राम के बंद कमरों में कुषाण हाथों ने दुनिया समेट ली — रोमी काँच, चीनी लाख, भारतीय हाथीदाँत, जहाँ रेशम मार्ग पहाड़ दर्रों से मिलता था।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/cover_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Kapisa's",
+                "t": 329.0,
+                "d": 638.0
+              },
+              {
+                "w": "locked",
+                "t": 968.0,
+                "d": 425.0
+              },
+              {
+                "w": "rooms",
+                "t": 1393.0,
+                "d": 212.0
+              },
+              {
+                "w": "at",
+                "t": 1606.0,
+                "d": 127.0
+              },
+              {
+                "w": "Begram",
+                "t": 1734.0,
+                "d": 978.0
+              },
+              {
+                "w": "Kushan",
+                "t": 2712.0,
+                "d": 467.0
+              },
+              {
+                "w": "hands",
+                "t": 3179.0,
+                "d": 382.0
+              },
+              {
+                "w": "gathered",
+                "t": 3562.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 4030.0,
+                "d": 127.0
+              },
+              {
+                "w": "world",
+                "t": 4158.0,
+                "d": 979.0
+              },
+              {
+                "w": "Roman",
+                "t": 5223.0,
+                "d": 425.0
+              },
+              {
+                "w": "glass",
+                "t": 5648.0,
+                "d": 765.0
+              },
+              {
+                "w": "Chinese",
+                "t": 6457.0,
+                "d": 510.0
+              },
+              {
+                "w": "lacquer",
+                "t": 6968.0,
+                "d": 723.0
+              },
+              {
+                "w": "Indian",
+                "t": 7819.0,
+                "d": 468.0
+              },
+              {
+                "w": "ivory",
+                "t": 8287.0,
+                "d": 807.0
+              },
+              {
+                "w": "resting",
+                "t": 9179.0,
+                "d": 553.0
+              },
+              {
+                "w": "where",
+                "t": 9732.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 9946.0,
+                "d": 126.0
+              },
+              {
+                "w": "Silk Road",
+                "t": 10073.0,
+                "d": 553.0
+              },
+              {
+                "w": "met",
+                "t": 10627.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 10840.0,
+                "d": 126.0
+              },
+              {
+                "w": "mountain",
+                "t": 10967.0,
+                "d": 425.0
+              },
+              {
+                "w": "passes",
+                "t": 11392.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_locked_rooms_of_begram/img/p01.png",
+      "shot": "wide aerial over caravans entering Kapisa with river and terraces",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the 1st and 2nd centuries CE, Kapisa was a hinge of the world, where northern caravans and southern sea-borne goods met under Kushan eyes.",
+            "hi": "पहली–दूसरी सदी ईस्वी में कपीसा दुनिया की कुंडी था — जहाँ उत्तरी कारवाँ और दक्षिण के समुद्री माल, सब कुषाण नज़र के नीचे मिलते थे।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p01_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 244.0,
+                "d": 170.0
+              },
+              {
+                "w": "1st",
+                "t": 414.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 797.0,
+                "d": 127.0
+              },
+              {
+                "w": "2nd",
+                "t": 925.0,
+                "d": 382.0
+              },
+              {
+                "w": "centuries",
+                "t": 1308.0,
+                "d": 680.0
+              },
+              {
+                "w": "CE",
+                "t": 1989.0,
+                "d": 467.0
+              },
+              {
+                "w": "Kapisa",
+                "t": 2967.0,
+                "d": 426.0
+              },
+              {
+                "w": "was",
+                "t": 3393.0,
+                "d": 211.0
+              },
+              {
+                "w": "a",
+                "t": 3605.0,
+                "d": 85.0
+              },
+              {
+                "w": "hinge",
+                "t": 3690.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 3989.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 4115.0,
+                "d": 127.0
+              },
+              {
+                "w": "world",
+                "t": 4243.0,
+                "d": 681.0
+              },
+              {
+                "w": "where",
+                "t": 5095.0,
+                "d": 297.0
+              },
+              {
+                "w": "northern",
+                "t": 5393.0,
+                "d": 382.0
+              },
+              {
+                "w": "caravans",
+                "t": 5776.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 6585.0,
+                "d": 255.0
+              },
+              {
+                "w": "southern",
+                "t": 6840.0,
+                "d": 340.0
+              },
+              {
+                "w": "sea-borne",
+                "t": 7180.0,
+                "d": 553.0
+              },
+              {
+                "w": "goods",
+                "t": 7734.0,
+                "d": 340.0
+              },
+              {
+                "w": "met",
+                "t": 8074.0,
+                "d": 340.0
+              },
+              {
+                "w": "under",
+                "t": 8500.0,
+                "d": 339.0
+              },
+              {
+                "w": "Kushan",
+                "t": 8839.0,
+                "d": 384.0
+              },
+              {
+                "w": "eyes",
+                "t": 9223.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_locked_rooms_of_begram/img/p02.png",
+      "shot": "medium interior shot in administrative hall, low-angle on Overseer",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kushan rulers drew tolls and prestige from trade, but the weaving of routes fell to merchants and administrators who counted, stored, and trusted strangers' goods.",
+            "hi": "कुषाण शासक व्यापार से लगान और शान लेते थे, पर रास्तों की बुनाई तो उन सौदागरों और कारिंदों की थी जो माल गिनते, सँभालते और अजनबियों पर भरोसा करते थे।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p02_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kushan",
+                "t": 126.0,
+                "d": 413.0
+              },
+              {
+                "w": "rulers",
+                "t": 540.0,
+                "d": 459.0
+              },
+              {
+                "w": "drew",
+                "t": 1000.0,
+                "d": 275.0
+              },
+              {
+                "w": "tolls",
+                "t": 1275.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 1827.0,
+                "d": 183.0
+              },
+              {
+                "w": "prestige",
+                "t": 2011.0,
+                "d": 551.0
+              },
+              {
+                "w": "from",
+                "t": 2563.0,
+                "d": 274.0
+              },
+              {
+                "w": "trade",
+                "t": 2837.0,
+                "d": 690.0
+              },
+              {
+                "w": "but",
+                "t": 3849.0,
+                "d": 231.0
+              },
+              {
+                "w": "the",
+                "t": 4080.0,
+                "d": 137.0
+              },
+              {
+                "w": "weaving",
+                "t": 4218.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 4632.0,
+                "d": 229.0
+              },
+              {
+                "w": "routes",
+                "t": 4862.0,
+                "d": 459.0
+              },
+              {
+                "w": "fell",
+                "t": 5321.0,
+                "d": 413.0
+              },
+              {
+                "w": "to",
+                "t": 5735.0,
+                "d": 183.0
+              },
+              {
+                "w": "merchants",
+                "t": 5919.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 6517.0,
+                "d": 229.0
+              },
+              {
+                "w": "administrators",
+                "t": 6747.0,
+                "d": 965.0
+              },
+              {
+                "w": "who",
+                "t": 7712.0,
+                "d": 229.0
+              },
+              {
+                "w": "counted",
+                "t": 7942.0,
+                "d": 735.0
+              },
+              {
+                "w": "stored",
+                "t": 8724.0,
+                "d": 965.0
+              },
+              {
+                "w": "and",
+                "t": 9689.0,
+                "d": 413.0
+              },
+              {
+                "w": "trusted",
+                "t": 10103.0,
+                "d": 504.0
+              },
+              {
+                "w": "strangers'",
+                "t": 10608.0,
+                "d": 598.0
+              },
+              {
+                "w": "goods",
+                "t": 11206.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_locked_rooms_of_begram/img/p03.png",
+      "shot": "tight medium on Overseer examining a translucent glass beaker",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From the Mediterranean world came fine glass, blown in Alexandria and other Roman centers, traveling by sea and land until its cool shimmer reached Begram.",
+            "hi": "भूमध्य सागर की दुनिया से आया बारीक काँच, अलेक्ज़ान्ड्रिया और रोमी शहरों में फूँका गया, समुंदर और ज़मीन पार करता ठंडी चमक लिए बेग्राम पहुँचा।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p03_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 372.0,
+                "d": 127.0
+              },
+              {
+                "w": "Mediterranean",
+                "t": 500.0,
+                "d": 765.0
+              },
+              {
+                "w": "world",
+                "t": 1265.0,
+                "d": 553.0
+              },
+              {
+                "w": "came",
+                "t": 1946.0,
+                "d": 297.0
+              },
+              {
+                "w": "fine",
+                "t": 2244.0,
+                "d": 339.0
+              },
+              {
+                "w": "glass",
+                "t": 2584.0,
+                "d": 639.0
+              },
+              {
+                "w": "blown",
+                "t": 3520.0,
+                "d": 426.0
+              },
+              {
+                "w": "in",
+                "t": 3946.0,
+                "d": 84.0
+              },
+              {
+                "w": "Alexandria",
+                "t": 4030.0,
+                "d": 767.0
+              },
+              {
+                "w": "and",
+                "t": 4797.0,
+                "d": 638.0
+              },
+              {
+                "w": "other",
+                "t": 5436.0,
+                "d": 297.0
+              },
+              {
+                "w": "Roman",
+                "t": 5734.0,
+                "d": 340.0
+              },
+              {
+                "w": "centers",
+                "t": 6074.0,
+                "d": 893.0
+              },
+              {
+                "w": "traveling",
+                "t": 7223.0,
+                "d": 510.0
+              },
+              {
+                "w": "by",
+                "t": 7734.0,
+                "d": 170.0
+              },
+              {
+                "w": "sea",
+                "t": 7904.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 8329.0,
+                "d": 254.0
+              },
+              {
+                "w": "land",
+                "t": 8584.0,
+                "d": 680.0
+              },
+              {
+                "w": "until",
+                "t": 9308.0,
+                "d": 468.0
+              },
+              {
+                "w": "its",
+                "t": 9776.0,
+                "d": 211.0
+              },
+              {
+                "w": "cool",
+                "t": 9988.0,
+                "d": 298.0
+              },
+              {
+                "w": "shimmer",
+                "t": 10287.0,
+                "d": 468.0
+              },
+              {
+                "w": "reached",
+                "t": 10755.0,
+                "d": 808.0
+              },
+              {
+                "w": "Begram",
+                "t": 11563.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_locked_rooms_of_begram/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_locked_rooms_of_begram/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Kapisa's heights he measures each road, weighing distant empires against the lifeblood of his mountain markets.",
+            "hi": "कपीसा की ऊँचाइयों से वो हर राह नापता है, दूर के साम्राज्यों को अपने पहाड़ी बाज़ारों की धड़कन से तोलता है।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "Kapisa's",
+                "t": 402.0,
+                "d": 597.0
+              },
+              {
+                "w": "heights",
+                "t": 1000.0,
+                "d": 505.0
+              },
+              {
+                "w": "he",
+                "t": 1505.0,
+                "d": 321.0
+              },
+              {
+                "w": "measures",
+                "t": 1827.0,
+                "d": 551.0
+              },
+              {
+                "w": "each",
+                "t": 2379.0,
+                "d": 366.0
+              },
+              {
+                "w": "road",
+                "t": 2745.0,
+                "d": 643.0
+              },
+              {
+                "w": "weighing",
+                "t": 3435.0,
+                "d": 459.0
+              },
+              {
+                "w": "distant",
+                "t": 3895.0,
+                "d": 505.0
+              },
+              {
+                "w": "empires",
+                "t": 4401.0,
+                "d": 690.0
+              },
+              {
+                "w": "against",
+                "t": 5091.0,
+                "d": 413.0
+              },
+              {
+                "w": "the",
+                "t": 5505.0,
+                "d": 137.0
+              },
+              {
+                "w": "lifeblood",
+                "t": 5643.0,
+                "d": 643.0
+              },
+              {
+                "w": "of",
+                "t": 6287.0,
+                "d": 137.0
+              },
+              {
+                "w": "his",
+                "t": 6425.0,
+                "d": 183.0
+              },
+              {
+                "w": "mountain",
+                "t": 6609.0,
+                "d": 505.0
+              },
+              {
+                "w": "markets",
+                "t": 7114.0,
+                "d": 827.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_locked_rooms_of_begram/img/p04.png",
+      "shot": "medium shot table spread with diverse artifacts, overhead view",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Joseph Hackin's later excavations would find these very kinds of objects in Rooms 10 and 13, a layered hoard of distant hands gathered behind mud-brick walls.",
+            "hi": "जोसेफ़ हैकिन की बाद की खुदाई ने ऐसे ही सामान कमरा १० और १३ में निकाले — परतों पर परत, दूर देशों के हाथ, मिट्टी-ईंट की दीवारों के पीछे जमा।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p04_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Joseph",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "Hackin's",
+                "t": 585.0,
+                "d": 468.0
+              },
+              {
+                "w": "later",
+                "t": 1053.0,
+                "d": 425.0
+              },
+              {
+                "w": "excavations",
+                "t": 1478.0,
+                "d": 851.0
+              },
+              {
+                "w": "would",
+                "t": 2329.0,
+                "d": 211.0
+              },
+              {
+                "w": "find",
+                "t": 2541.0,
+                "d": 341.0
+              },
+              {
+                "w": "these",
+                "t": 2882.0,
+                "d": 296.0
+              },
+              {
+                "w": "very",
+                "t": 3179.0,
+                "d": 382.0
+              },
+              {
+                "w": "kinds",
+                "t": 3562.0,
+                "d": 256.0
+              },
+              {
+                "w": "of",
+                "t": 3819.0,
+                "d": 170.0
+              },
+              {
+                "w": "objects",
+                "t": 3989.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 4500.0,
+                "d": 212.0
+              },
+              {
+                "w": "Rooms",
+                "t": 4712.0,
+                "d": 425.0
+              },
+              {
+                "w": "10",
+                "t": 5138.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 5478.0,
+                "d": 297.0
+              },
+              {
+                "w": "13",
+                "t": 5776.0,
+                "d": 638.0
+              },
+              {
+                "w": "a",
+                "t": 6882.0,
+                "d": 255.0
+              },
+              {
+                "w": "layered",
+                "t": 7138.0,
+                "d": 382.0
+              },
+              {
+                "w": "hoard",
+                "t": 7521.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 7819.0,
+                "d": 170.0
+              },
+              {
+                "w": "distant",
+                "t": 7989.0,
+                "d": 425.0
+              },
+              {
+                "w": "hands",
+                "t": 8414.0,
+                "d": 468.0
+              },
+              {
+                "w": "gathered",
+                "t": 8882.0,
+                "d": 468.0
+              },
+              {
+                "w": "behind",
+                "t": 9351.0,
+                "d": 680.0
+              },
+              {
+                "w": "mud-brick",
+                "t": 10073.0,
+                "d": 596.0
+              },
+              {
+                "w": "walls",
+                "t": 10670.0,
+                "d": 637.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_locked_rooms_of_begram/img/p05.png",
+      "shot": "close-up on Overseer’s hand marking tallies on wooden tablet",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Periplus Maris Erythraei described routes and harbors, but men like these turned lists into practice, tracing value across seas and mountains.",
+            "hi": "पेरिप्लस मैरिस एरिथ्राई ने राहें और बंदरगाह लिखे, पर ऐसे लोग ही सूचियों को सच बनाते थे, कीमत को समुंदर और पहाड़ों पर खींचते हुए।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p05_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "Periplus",
+                "t": 244.0,
+                "d": 553.0
+              },
+              {
+                "w": "Maris",
+                "t": 797.0,
+                "d": 510.0
+              },
+              {
+                "w": "Erythraei",
+                "t": 1308.0,
+                "d": 723.0
+              },
+              {
+                "w": "described",
+                "t": 2074.0,
+                "d": 595.0
+              },
+              {
+                "w": "routes",
+                "t": 2670.0,
+                "d": 424.0
+              },
+              {
+                "w": "and",
+                "t": 3094.0,
+                "d": 213.0
+              },
+              {
+                "w": "harbors",
+                "t": 3308.0,
+                "d": 1106.0
+              },
+              {
+                "w": "but",
+                "t": 4585.0,
+                "d": 340.0
+              },
+              {
+                "w": "men",
+                "t": 4925.0,
+                "d": 255.0
+              },
+              {
+                "w": "like",
+                "t": 5180.0,
+                "d": 255.0
+              },
+              {
+                "w": "these",
+                "t": 5436.0,
+                "d": 382.0
+              },
+              {
+                "w": "turned",
+                "t": 5819.0,
+                "d": 340.0
+              },
+              {
+                "w": "lists",
+                "t": 6159.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 6542.0,
+                "d": 297.0
+              },
+              {
+                "w": "practice",
+                "t": 6840.0,
+                "d": 765.0
+              },
+              {
+                "w": "tracing",
+                "t": 8159.0,
+                "d": 552.0
+              },
+              {
+                "w": "value",
+                "t": 8711.0,
+                "d": 426.0
+              },
+              {
+                "w": "across",
+                "t": 9138.0,
+                "d": 468.0
+              },
+              {
+                "w": "seas",
+                "t": 9606.0,
+                "d": 467.0
+              },
+              {
+                "w": "and",
+                "t": 10073.0,
+                "d": 213.0
+              },
+              {
+                "w": "mountains",
+                "t": 10287.0,
+                "d": 935.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_locked_rooms_of_begram/img/p06.png",
+      "shot": "medium shot of caravans unloading in courtyard, bustling activity",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Begram was not a harbor but a highland hub, where overland Silk Road caravans met goods hauled from Indian Ocean ports up the valleys.",
+            "hi": "बेग्राम बंदरगाह नहीं, पहाड़ी चौराहा था — जहाँ ज़मीनी रेशम मार्ग के कारवाँ, हिंद महासागर के बंदरगाहों से घाटियों पर चढ़ाया माल से मिलते थे।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p06_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Begram",
+                "t": 117.0,
+                "d": 468.0
+              },
+              {
+                "w": "was",
+                "t": 585.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 797.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 1095.0,
+                "d": 42.0
+              },
+              {
+                "w": "harbor",
+                "t": 1138.0,
+                "d": 510.0
+              },
+              {
+                "w": "but",
+                "t": 2031.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 2287.0,
+                "d": 42.0
+              },
+              {
+                "w": "highland",
+                "t": 2329.0,
+                "d": 382.0
+              },
+              {
+                "w": "hub",
+                "t": 2712.0,
+                "d": 680.0
+              },
+              {
+                "w": "where",
+                "t": 3647.0,
+                "d": 341.0
+              },
+              {
+                "w": "overland",
+                "t": 3989.0,
+                "d": 553.0
+              },
+              {
+                "w": "Silk Road",
+                "t": 4542.0,
+                "d": 638.0
+              },
+              {
+                "w": "caravans",
+                "t": 5180.0,
+                "d": 851.0
+              },
+              {
+                "w": "met",
+                "t": 6159.0,
+                "d": 382.0
+              },
+              {
+                "w": "goods",
+                "t": 6542.0,
+                "d": 297.0
+              },
+              {
+                "w": "hauled",
+                "t": 6840.0,
+                "d": 297.0
+              },
+              {
+                "w": "from",
+                "t": 7138.0,
+                "d": 297.0
+              },
+              {
+                "w": "Indian",
+                "t": 7436.0,
+                "d": 468.0
+              },
+              {
+                "w": "Ocean",
+                "t": 7904.0,
+                "d": 382.0
+              },
+              {
+                "w": "ports",
+                "t": 8287.0,
+                "d": 424.0
+              },
+              {
+                "w": "up",
+                "t": 8754.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 8924.0,
+                "d": 170.0
+              },
+              {
+                "w": "valleys",
+                "t": 9094.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_locked_rooms_of_begram/img/p07.png",
+      "shot": "dramatic low-angle at doorway of mud-brick storage room",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Whether warehouse, royal gift store, or merchant depot, these rooms became silent guardians of objects from three great spheres of exchange.",
+            "hi": "गोदाम हो, शाही तोहफ़ाघर या सौदागर का डेपो — ये कमरे तीन बड़े लेन-देन क्षेत्रों की चीज़ों के मौन रखवाले बन बैठे।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p07_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Whether",
+                "t": 117.0,
+                "d": 340.0
+              },
+              {
+                "w": "warehouse",
+                "t": 457.0,
+                "d": 893.0
+              },
+              {
+                "w": "royal",
+                "t": 1521.0,
+                "d": 425.0
+              },
+              {
+                "w": "gift",
+                "t": 1946.0,
+                "d": 211.0
+              },
+              {
+                "w": "store",
+                "t": 2158.0,
+                "d": 511.0
+              },
+              {
+                "w": "or",
+                "t": 2797.0,
+                "d": 254.0
+              },
+              {
+                "w": "merchant",
+                "t": 3052.0,
+                "d": 468.0
+              },
+              {
+                "w": "depot",
+                "t": 3520.0,
+                "d": 341.0
+              },
+              {
+                "w": "these",
+                "t": 3861.0,
+                "d": 893.0
+              },
+              {
+                "w": "rooms",
+                "t": 4797.0,
+                "d": 212.0
+              },
+              {
+                "w": "became",
+                "t": 5010.0,
+                "d": 595.0
+              },
+              {
+                "w": "silent",
+                "t": 5606.0,
+                "d": 1234.0
+              },
+              {
+                "w": "guardians",
+                "t": 6840.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 7308.0,
+                "d": 170.0
+              },
+              {
+                "w": "objects",
+                "t": 7478.0,
+                "d": 510.0
+              },
+              {
+                "w": "from",
+                "t": 7989.0,
+                "d": 297.0
+              },
+              {
+                "w": "three",
+                "t": 8287.0,
+                "d": 339.0
+              },
+              {
+                "w": "great",
+                "t": 8626.0,
+                "d": 341.0
+              },
+              {
+                "w": "spheres",
+                "t": 8968.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 9436.0,
+                "d": 127.0
+              },
+              {
+                "w": "exchange",
+                "t": 9563.0,
+                "d": 893.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_locked_rooms_of_begram/img/p08.png",
+      "shot": "close-up interior still life of stacked objects, moody lighting",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Indian-style ivory and bone plaques, carved with figures and scrolls, lay beside foreign luxuries, proof that Kapisa was a meeting ground, not merely a passageway.",
+            "hi": "भारतीय अंदाज़ की हाथीदाँत और अस्थि की पट्टियाँ, आकृतियों और लहरदार बेलों से तराशी हुई, परदेसी शानो-शौक़त के साथ पड़ी थीं — साबित करता कि कपीसा ठहरने की ज़मीन था, सिर्फ़ रास्ता नहीं।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p08_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Indian-style",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "ivory",
+                "t": 840.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 1393.0,
+                "d": 212.0
+              },
+              {
+                "w": "bone",
+                "t": 1606.0,
+                "d": 255.0
+              },
+              {
+                "w": "plaques",
+                "t": 1861.0,
+                "d": 637.0
+              },
+              {
+                "w": "carved",
+                "t": 2797.0,
+                "d": 381.0
+              },
+              {
+                "w": "with",
+                "t": 3179.0,
+                "d": 213.0
+              },
+              {
+                "w": "figures",
+                "t": 3393.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 3861.0,
+                "d": 169.0
+              },
+              {
+                "w": "scrolls",
+                "t": 4030.0,
+                "d": 724.0
+              },
+              {
+                "w": "lay",
+                "t": 5095.0,
+                "d": 340.0
+              },
+              {
+                "w": "beside",
+                "t": 5436.0,
+                "d": 425.0
+              },
+              {
+                "w": "foreign",
+                "t": 5861.0,
+                "d": 340.0
+              },
+              {
+                "w": "luxuries",
+                "t": 6202.0,
+                "d": 808.0
+              },
+              {
+                "w": "proof",
+                "t": 7563.0,
+                "d": 340.0
+              },
+              {
+                "w": "that",
+                "t": 7904.0,
+                "d": 255.0
+              },
+              {
+                "w": "Kapisa",
+                "t": 8159.0,
+                "d": 467.0
+              },
+              {
+                "w": "was",
+                "t": 8626.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 8839.0,
+                "d": 85.0
+              },
+              {
+                "w": "meeting",
+                "t": 8924.0,
+                "d": 340.0
+              },
+              {
+                "w": "ground",
+                "t": 9264.0,
+                "d": 638.0
+              },
+              {
+                "w": "not",
+                "t": 10073.0,
+                "d": 384.0
+              },
+              {
+                "w": "merely",
+                "t": 10457.0,
+                "d": 339.0
+              },
+              {
+                "w": "a",
+                "t": 10796.0,
+                "d": 128.0
+              },
+              {
+                "w": "passageway",
+                "t": 10925.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_locked_rooms_of_begram/img/p09.png",
+      "shot": "medium shot of Overseer conferring with another official at doorway",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "These treasures move at the rhythm of politics. Today they rest.",
+            "hi": "ये ख़ज़ाने सियासत की चाल से चलते हैं। आज ये थमे हुए हैं।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p09_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "These",
+                "t": 49.0,
+                "d": 343.1
+              },
+              {
+                "w": "treasures",
+                "t": 392.2,
+                "d": 576.0
+              },
+              {
+                "w": "move",
+                "t": 968.1,
+                "d": 355.4
+              },
+              {
+                "w": "at",
+                "t": 1397.0,
+                "d": 232.8
+              },
+              {
+                "w": "the",
+                "t": 1629.9,
+                "d": 147.0
+              },
+              {
+                "w": "rhythm",
+                "t": 1777.0,
+                "d": 367.7
+              },
+              {
+                "w": "of",
+                "t": 2193.6,
+                "d": 196.1
+              },
+              {
+                "w": "politics",
+                "t": 2389.7,
+                "d": 649.5
+              },
+              {
+                "w": "Today",
+                "t": 3897.0,
+                "d": 294.1
+              },
+              {
+                "w": "they",
+                "t": 4215.7,
+                "d": 183.8
+              },
+              {
+                "w": "rest",
+                "t": 4399.5,
+                "d": 379.9
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_locked_rooms_of_begram/img/p10.png",
+      "shot": "close-up on hands pressing wet clay seal onto door crack",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At some point, the doors of Begram's rooms were sealed with mud-brick and clay, leaving a time capsule that would wait nearly two millennia.",
+            "hi": "किसी समय बेग्राम के कमरों के दरवाज़े मिट्टी-ईंट और चिकनी मिट्टी से चुन दिए गए — एक टाइम कैप्सूल जो लगभग दो हज़ार साल इंतज़ार करता रहा।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p10_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "some",
+                "t": 310.0,
+                "d": 321.0
+              },
+              {
+                "w": "point",
+                "t": 632.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 1000.0,
+                "d": 551.0
+              },
+              {
+                "w": "doors",
+                "t": 1551.0,
+                "d": 321.0
+              },
+              {
+                "w": "of",
+                "t": 1873.0,
+                "d": 137.0
+              },
+              {
+                "w": "Begram's",
+                "t": 2011.0,
+                "d": 551.0
+              },
+              {
+                "w": "rooms",
+                "t": 2563.0,
+                "d": 367.0
+              },
+              {
+                "w": "were",
+                "t": 2931.0,
+                "d": 183.0
+              },
+              {
+                "w": "sealed",
+                "t": 3114.0,
+                "d": 367.0
+              },
+              {
+                "w": "with",
+                "t": 3482.0,
+                "d": 229.0
+              },
+              {
+                "w": "mud-brick",
+                "t": 3712.0,
+                "d": 505.0
+              },
+              {
+                "w": "and",
+                "t": 4218.0,
+                "d": 274.0
+              },
+              {
+                "w": "clay",
+                "t": 4493.0,
+                "d": 736.0
+              },
+              {
+                "w": "leaving",
+                "t": 5321.0,
+                "d": 505.0
+              },
+              {
+                "w": "a",
+                "t": 5827.0,
+                "d": 137.0
+              },
+              {
+                "w": "time",
+                "t": 5965.0,
+                "d": 367.0
+              },
+              {
+                "w": "capsule",
+                "t": 6333.0,
+                "d": 643.0
+              },
+              {
+                "w": "that",
+                "t": 6977.0,
+                "d": 183.0
+              },
+              {
+                "w": "would",
+                "t": 7160.0,
+                "d": 229.0
+              },
+              {
+                "w": "wait",
+                "t": 7390.0,
+                "d": 321.0
+              },
+              {
+                "w": "nearly",
+                "t": 7712.0,
+                "d": 413.0
+              },
+              {
+                "w": "two",
+                "t": 8126.0,
+                "d": 137.0
+              },
+              {
+                "w": "millennia",
+                "t": 8264.0,
+                "d": 735.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_locked_rooms_of_begram/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_locked_rooms_of_begram/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With the seal set, he vows the hoard will outlast storms, rivals, and forgotten kings beyond the valley.",
+            "hi": "मुहर लगाकर वो कसम खाता है, ये ख़ज़ाना तूफ़ानों, दुश्मनों और घाटी के पार भुले हुए राजाओं से भी ज़्यादा टिकेगा।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 120.0
+              },
+              {
+                "w": "seal",
+                "t": 430.0,
+                "d": 280.0
+              },
+              {
+                "w": "set",
+                "t": 710.0,
+                "d": 520.0
+              },
+              {
+                "w": "he",
+                "t": 1310.0,
+                "d": 320.0
+              },
+              {
+                "w": "vows",
+                "t": 1630.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 1910.0,
+                "d": 160.0
+              },
+              {
+                "w": "hoard",
+                "t": 2070.0,
+                "d": 239.0
+              },
+              {
+                "w": "will",
+                "t": 2309.0,
+                "d": 241.0
+              },
+              {
+                "w": "outlast",
+                "t": 2550.0,
+                "d": 480.0
+              },
+              {
+                "w": "storms",
+                "t": 3030.0,
+                "d": 799.0
+              },
+              {
+                "w": "rivals",
+                "t": 3869.0,
+                "d": 841.0
+              },
+              {
+                "w": "and",
+                "t": 4790.0,
+                "d": 280.0
+              },
+              {
+                "w": "forgotten",
+                "t": 5070.0,
+                "d": 520.0
+              },
+              {
+                "w": "kings",
+                "t": 5590.0,
+                "d": 360.0
+              },
+              {
+                "w": "beyond",
+                "t": 5950.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 6230.0,
+                "d": 120.0
+              },
+              {
+                "w": "valley",
+                "t": 6350.0,
+                "d": 480.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_locked_rooms_of_begram/img/p11.png",
+      "shot": "slow push-in on Overseer’s contemplative face in flickering lamplight",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Later scholars debated the story of this sealing: one moment or many, one purpose or several. The rooms themselves kept their reasons.",
+            "hi": "बाद के विद्वान इस बंदी की कहानी पर उलझे रहे — एक ही पल या कई, एक मक़सद या कई। कमरों ने अपने राज अपने पास रखे।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p11_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Later",
+                "t": 80.0,
+                "d": 459.0
+              },
+              {
+                "w": "scholars",
+                "t": 540.0,
+                "d": 551.0
+              },
+              {
+                "w": "debated",
+                "t": 1091.0,
+                "d": 597.0
+              },
+              {
+                "w": "the",
+                "t": 1689.0,
+                "d": 137.0
+              },
+              {
+                "w": "story",
+                "t": 1827.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 2241.0,
+                "d": 137.0
+              },
+              {
+                "w": "this",
+                "t": 2379.0,
+                "d": 183.0
+              },
+              {
+                "w": "sealing",
+                "t": 2563.0,
+                "d": 1149.0
+              },
+              {
+                "w": "one",
+                "t": 3849.0,
+                "d": 368.0
+              },
+              {
+                "w": "moment",
+                "t": 4218.0,
+                "d": 827.0
+              },
+              {
+                "w": "or",
+                "t": 5091.0,
+                "d": 321.0
+              },
+              {
+                "w": "many",
+                "t": 5413.0,
+                "d": 689.0
+              },
+              {
+                "w": "one",
+                "t": 6333.0,
+                "d": 413.0
+              },
+              {
+                "w": "purpose",
+                "t": 6747.0,
+                "d": 321.0
+              },
+              {
+                "w": "or",
+                "t": 7068.0,
+                "d": 91.0
+              },
+              {
+                "w": "several",
+                "t": 7160.0,
+                "d": 1517.0
+              },
+              {
+                "w": "The",
+                "t": 9550.0,
+                "d": 231.0
+              },
+              {
+                "w": "rooms",
+                "t": 9781.0,
+                "d": 275.0
+              },
+              {
+                "w": "themselves",
+                "t": 10057.0,
+                "d": 597.0
+              },
+              {
+                "w": "kept",
+                "t": 10655.0,
+                "d": 320.0
+              },
+              {
+                "w": "their",
+                "t": 10975.0,
+                "d": 231.0
+              },
+              {
+                "w": "reasons",
+                "t": 11206.0,
+                "d": 826.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_locked_rooms_of_begram/img/p12.png",
+      "shot": "wide shot of Begram complex fading into time, overlaid by stormy sky",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Empires shifted, routes bent, yet the sealed rooms held their cargo of distant workshops, untouched by the turmoil outside.",
+            "hi": "सल्तनतें बदलीं, रास्ते मुड़े, पर बंद कमरे दूर-दूर की कारीगरियों का माल थामे रहे, बाहर के तहलके से अछूते।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p12_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Empires",
+                "t": 110.0,
+                "d": 520.0
+              },
+              {
+                "w": "shifted",
+                "t": 630.0,
+                "d": 800.0
+              },
+              {
+                "w": "routes",
+                "t": 1630.0,
+                "d": 440.0
+              },
+              {
+                "w": "bent",
+                "t": 2070.0,
+                "d": 600.0
+              },
+              {
+                "w": "yet",
+                "t": 2909.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 3230.0,
+                "d": 159.0
+              },
+              {
+                "w": "sealed",
+                "t": 3389.0,
+                "d": 321.0
+              },
+              {
+                "w": "rooms",
+                "t": 3710.0,
+                "d": 320.0
+              },
+              {
+                "w": "held",
+                "t": 4030.0,
+                "d": 200.0
+              },
+              {
+                "w": "their",
+                "t": 4230.0,
+                "d": 240.0
+              },
+              {
+                "w": "cargo",
+                "t": 4470.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 4790.0,
+                "d": 200.0
+              },
+              {
+                "w": "distant",
+                "t": 4990.0,
+                "d": 360.0
+              },
+              {
+                "w": "workshops",
+                "t": 5350.0,
+                "d": 1040.0
+              },
+              {
+                "w": "untouched",
+                "t": 6430.0,
+                "d": 680.0
+              },
+              {
+                "w": "by",
+                "t": 7110.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 7270.0,
+                "d": 160.0
+              },
+              {
+                "w": "turmoil",
+                "t": 7430.0,
+                "d": 440.0
+              },
+              {
+                "w": "outside",
+                "t": 7870.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_locked_rooms_of_begram/img/p13.png",
+      "shot": "historic recreation wide of 1930s excavation trench at Begram",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In 1936-40, Joseph Hackin's team cut into these forgotten walls, revealing Rooms 10 and 13 and their astonishing hoard.",
+            "hi": "१९३६–४० में जोसेफ़ हैकिन की टीम ने इन भुली दीवारों को चीर कर कमरा १० और १३ खोले — और हैरान कर देने वाला ख़ज़ाना सामने आया।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p13_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "1936-40",
+                "t": 287.0,
+                "d": 1744.0
+              },
+              {
+                "w": "Joseph",
+                "t": 2202.0,
+                "d": 468.0
+              },
+              {
+                "w": "Hackin's",
+                "t": 2670.0,
+                "d": 424.0
+              },
+              {
+                "w": "team",
+                "t": 3094.0,
+                "d": 384.0
+              },
+              {
+                "w": "cut",
+                "t": 3478.0,
+                "d": 255.0
+              },
+              {
+                "w": "into",
+                "t": 3776.0,
+                "d": 254.0
+              },
+              {
+                "w": "these",
+                "t": 4030.0,
+                "d": 256.0
+              },
+              {
+                "w": "forgotten",
+                "t": 4287.0,
+                "d": 468.0
+              },
+              {
+                "w": "walls",
+                "t": 4755.0,
+                "d": 680.0
+              },
+              {
+                "w": "revealing",
+                "t": 5734.0,
+                "d": 553.0
+              },
+              {
+                "w": "Rooms",
+                "t": 6287.0,
+                "d": 382.0
+              },
+              {
+                "w": "10",
+                "t": 6670.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 7010.0,
+                "d": 297.0
+              },
+              {
+                "w": "13",
+                "t": 7308.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 8202.0,
+                "d": 339.0
+              },
+              {
+                "w": "their",
+                "t": 8541.0,
+                "d": 212.0
+              },
+              {
+                "w": "astonishing",
+                "t": 8754.0,
+                "d": 724.0
+              },
+              {
+                "w": "hoard",
+                "t": 9478.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_locked_rooms_of_begram/img/p14.png",
+      "shot": "medium shot inside newly opened room with crates of artifacts exposed",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Roman and Alexandrian glass, Egyptian bronzes, Han Chinese lacquer, and Indian ivories lay side by side, a frozen inventory of the Golden Road.",
+            "hi": "रोमी और अलेक्ज़ान्ड्रियन काँच, मिस्री कांसे, हान चीनी लाख और भारतीय हाथीदाँत, सब साथ-साथ — सुनहरी राह की जमी हुई माल-सूची।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p14_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Roman",
+                "t": 117.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 542.0,
+                "d": 170.0
+              },
+              {
+                "w": "Alexandrian",
+                "t": 712.0,
+                "d": 680.0
+              },
+              {
+                "w": "glass",
+                "t": 1393.0,
+                "d": 638.0
+              },
+              {
+                "w": "Egyptian",
+                "t": 2244.0,
+                "d": 595.0
+              },
+              {
+                "w": "bronzes",
+                "t": 2840.0,
+                "d": 893.0
+              },
+              {
+                "w": "Han",
+                "t": 3776.0,
+                "d": 254.0
+              },
+              {
+                "w": "Chinese",
+                "t": 4030.0,
+                "d": 469.0
+              },
+              {
+                "w": "lacquer",
+                "t": 4500.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 5095.0,
+                "d": 382.0
+              },
+              {
+                "w": "Indian",
+                "t": 5478.0,
+                "d": 382.0
+              },
+              {
+                "w": "ivories",
+                "t": 5861.0,
+                "d": 553.0
+              },
+              {
+                "w": "lay",
+                "t": 6414.0,
+                "d": 212.0
+              },
+              {
+                "w": "side",
+                "t": 6627.0,
+                "d": 255.0
+              },
+              {
+                "w": "by",
+                "t": 6882.0,
+                "d": 212.0
+              },
+              {
+                "w": "side",
+                "t": 7095.0,
+                "d": 638.0
+              },
+              {
+                "w": "a",
+                "t": 7819.0,
+                "d": 85.0
+              },
+              {
+                "w": "frozen",
+                "t": 7904.0,
+                "d": 468.0
+              },
+              {
+                "w": "inventory",
+                "t": 8372.0,
+                "d": 722.0
+              },
+              {
+                "w": "of",
+                "t": 9094.0,
+                "d": 128.0
+              },
+              {
+                "w": "the",
+                "t": 9223.0,
+                "d": 170.0
+              },
+              {
+                "w": "Golden Road",
+                "t": 9393.0,
+                "d": 809.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_locked_rooms_of_begram/img/p15.png",
+      "shot": "close-up on conservator’s gloved hands holding an ivory plaque",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Since 2004, careful conservation and study have refined dates and contexts, challenging the idea of a single sealing and a simple royal treasure.",
+            "hi": "२००४ से सँभालकर संरक्षण और नए अध्ययन ने तारीख़ें और संदर्भ सँवारे, एक ही बंदी और साधे शाही ख़ज़ाने का ख़याल चुनौती में डाल दिया।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p15_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Since 2004",
+                "t": 74.0,
+                "d": 1786.0
+              },
+              {
+                "w": "careful",
+                "t": 1946.0,
+                "d": 509.0
+              },
+              {
+                "w": "conservation",
+                "t": 2456.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 3179.0,
+                "d": 128.0
+              },
+              {
+                "w": "study",
+                "t": 3308.0,
+                "d": 510.0
+              },
+              {
+                "w": "have",
+                "t": 3819.0,
+                "d": 211.0
+              },
+              {
+                "w": "refined",
+                "t": 4030.0,
+                "d": 469.0
+              },
+              {
+                "w": "dates",
+                "t": 4500.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 4882.0,
+                "d": 255.0
+              },
+              {
+                "w": "contexts",
+                "t": 5138.0,
+                "d": 893.0
+              },
+              {
+                "w": "challenging",
+                "t": 6329.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 6968.0,
+                "d": 212.0
+              },
+              {
+                "w": "idea",
+                "t": 7180.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 7734.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 7904.0,
+                "d": 42.0
+              },
+              {
+                "w": "single",
+                "t": 7946.0,
+                "d": 510.0
+              },
+              {
+                "w": "sealing",
+                "t": 8457.0,
+                "d": 722.0
+              },
+              {
+                "w": "and",
+                "t": 9223.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 9436.0,
+                "d": 42.0
+              },
+              {
+                "w": "simple",
+                "t": 9478.0,
+                "d": 509.0
+              },
+              {
+                "w": "royal",
+                "t": 9988.0,
+                "d": 426.0
+              },
+              {
+                "w": "treasure",
+                "t": 10414.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_locked_rooms_of_begram/img/p16.png",
+      "shot": "scholarly montage with maps, trade routes, and artifacts on table",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From the Indian Ocean manuals of the Periplus to modern works by Tomber and Cobb, the Begram finds now anchor wider stories of Indo-Roman and trans-Asian trade.",
+            "hi": "हिंद महासागर के पेरिप्लस जैसे मार्गदर्शकों से लेकर टॉम्बर और कॉब की नई किताबों तक — बेग्राम की खोजें अब इंदो-रोमन और पार-एशियाई व्यापार की बड़ी कहानियों की कुंजी बन गई हैं।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p16_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 170.0
+              },
+              {
+                "w": "Indian",
+                "t": 500.0,
+                "d": 425.0
+              },
+              {
+                "w": "Ocean",
+                "t": 925.0,
+                "d": 382.0
+              },
+              {
+                "w": "manuals",
+                "t": 1308.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 1734.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 1861.0,
+                "d": 127.0
+              },
+              {
+                "w": "Periplus",
+                "t": 1989.0,
+                "d": 552.0
+              },
+              {
+                "w": "to",
+                "t": 2541.0,
+                "d": 171.0
+              },
+              {
+                "w": "modern",
+                "t": 2712.0,
+                "d": 381.0
+              },
+              {
+                "w": "works",
+                "t": 3094.0,
+                "d": 468.0
+              },
+              {
+                "w": "by",
+                "t": 3562.0,
+                "d": 298.0
+              },
+              {
+                "w": "Tomber",
+                "t": 3861.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 4287.0,
+                "d": 255.0
+              },
+              {
+                "w": "Cobb",
+                "t": 4542.0,
+                "d": 893.0
+              },
+              {
+                "w": "the",
+                "t": 5478.0,
+                "d": 212.0
+              },
+              {
+                "w": "Begram",
+                "t": 5691.0,
+                "d": 425.0
+              },
+              {
+                "w": "finds",
+                "t": 6117.0,
+                "d": 382.0
+              },
+              {
+                "w": "now",
+                "t": 6500.0,
+                "d": 297.0
+              },
+              {
+                "w": "anchor",
+                "t": 6797.0,
+                "d": 425.0
+              },
+              {
+                "w": "wider",
+                "t": 7223.0,
+                "d": 382.0
+              },
+              {
+                "w": "stories",
+                "t": 7606.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 8117.0,
+                "d": 170.0
+              },
+              {
+                "w": "Indo-Roman",
+                "t": 8287.0,
+                "d": 722.0
+              },
+              {
+                "w": "and",
+                "t": 9138.0,
+                "d": 382.0
+              },
+              {
+                "w": "trans-Asian",
+                "t": 9521.0,
+                "d": 680.0
+              },
+              {
+                "w": "trade",
+                "t": 10202.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_locked_rooms_of_begram/split_auto/s0.png",
+          "slogan": {
+            "en": "Routes endure, empires fall away",
+            "hi": "राहें रहती हैं, साम्राज्य मिटते हैं"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_locked_rooms_of_begram/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_locked_rooms_of_begram/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across ages, his guarded treasures knit Kapisa into a vast web of seas, deserts, and remembering minds.",
+            "hi": "युगों से उसकी पहरी दौलत ने कपीसा को समंदरों, रेगिस्तानों और यादों के विराट जाल में बाँध दिया।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 72.0,
+                "d": 583.0
+              },
+              {
+                "w": "ages",
+                "t": 656.0,
+                "d": 958.0
+              },
+              {
+                "w": "his",
+                "t": 1656.0,
+                "d": 291.0
+              },
+              {
+                "w": "guarded",
+                "t": 1947.0,
+                "d": 457.0
+              },
+              {
+                "w": "treasures",
+                "t": 2405.0,
+                "d": 583.0
+              },
+              {
+                "w": "knit",
+                "t": 3030.0,
+                "d": 376.0
+              },
+              {
+                "w": "Kapisa",
+                "t": 3406.0,
+                "d": 623.0
+              },
+              {
+                "w": "into",
+                "t": 4030.0,
+                "d": 417.0
+              },
+              {
+                "w": "a",
+                "t": 4447.0,
+                "d": 41.0
+              },
+              {
+                "w": "vast",
+                "t": 4489.0,
+                "d": 500.0
+              },
+              {
+                "w": "web",
+                "t": 4989.0,
+                "d": 250.0
+              },
+              {
+                "w": "of",
+                "t": 5239.0,
+                "d": 125.0
+              },
+              {
+                "w": "seas",
+                "t": 5364.0,
+                "d": 625.0
+              },
+              {
+                "w": "deserts",
+                "t": 6072.0,
+                "d": 875.0
+              },
+              {
+                "w": "and",
+                "t": 6989.0,
+                "d": 291.0
+              },
+              {
+                "w": "remembering",
+                "t": 7281.0,
+                "d": 541.0
+              },
+              {
+                "w": "minds",
+                "t": 7822.0,
+                "d": 707.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_locked_rooms_of_begram/img/p17.png",
+      "shot": "poetic split-scene: ghostly Overseer face over modern museum display",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Kushan merchants and administrators who locked these rooms never saw Rome or Han China, yet their work tied those worlds to India's craftsmen and passes.",
+            "hi": "जिन कुषाण सौदागरों और कारिंदों ने ये कमरे बंद किए, उन्होंने न रोम देखा न हान चीन — पर उनके काम ने उन दुनियाओं को भारत के कारीगरों और दर्रों से बाँध दिया।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p17_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "Kushan",
+                "t": 244.0,
+                "d": 425.0
+              },
+              {
+                "w": "merchants",
+                "t": 670.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 1138.0,
+                "d": 212.0
+              },
+              {
+                "w": "administrators",
+                "t": 1351.0,
+                "d": 1361.0
+              },
+              {
+                "w": "who",
+                "t": 2755.0,
+                "d": 170.0
+              },
+              {
+                "w": "locked",
+                "t": 2925.0,
+                "d": 340.0
+              },
+              {
+                "w": "these",
+                "t": 3265.0,
+                "d": 212.0
+              },
+              {
+                "w": "rooms",
+                "t": 3478.0,
+                "d": 594.0
+              },
+              {
+                "w": "never",
+                "t": 4201.0,
+                "d": 384.0
+              },
+              {
+                "w": "saw",
+                "t": 4585.0,
+                "d": 170.0
+              },
+              {
+                "w": "Rome",
+                "t": 4755.0,
+                "d": 382.0
+              },
+              {
+                "w": "or",
+                "t": 5180.0,
+                "d": 212.0
+              },
+              {
+                "w": "Han",
+                "t": 5393.0,
+                "d": 170.0
+              },
+              {
+                "w": "China",
+                "t": 5563.0,
+                "d": 680.0
+              },
+              {
+                "w": "yet",
+                "t": 6627.0,
+                "d": 212.0
+              },
+              {
+                "w": "their",
+                "t": 6840.0,
+                "d": 212.0
+              },
+              {
+                "w": "work",
+                "t": 7053.0,
+                "d": 340.0
+              },
+              {
+                "w": "tied",
+                "t": 7393.0,
+                "d": 170.0
+              },
+              {
+                "w": "those",
+                "t": 7563.0,
+                "d": 255.0
+              },
+              {
+                "w": "worlds",
+                "t": 7819.0,
+                "d": 553.0
+              },
+              {
+                "w": "to",
+                "t": 8457.0,
+                "d": 169.0
+              },
+              {
+                "w": "India's",
+                "t": 8626.0,
+                "d": 468.0
+              },
+              {
+                "w": "craftsmen",
+                "t": 9094.0,
+                "d": 767.0
+              },
+              {
+                "w": "and",
+                "t": 9861.0,
+                "d": 340.0
+              },
+              {
+                "w": "passes",
+                "t": 10202.0,
+                "d": 764.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/the_locked_rooms_of_begram/img/p18.png",
+      "shot": "final wide shot of Kapisa roads glowing at dusk, Overseer silhouette",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today, Begram's locked rooms remind us that civilizations meet most quietly in traders' ledgers, in makers' hands, and in goods that travel farther than any king.",
+            "hi": "आज बेग्राम के बंद कमरे याद दिलाते हैं कि सभ्यताएँ सबसे खामोशी से मिलती हैं सौदागरों की बेहिसाब किताबों में, कारीगरों के हाथों में, और उन चीज़ों में जो किसी भी राजा से दूर तक सफ़र करती हैं।"
+          },
+          "audio": {
+            "en": "assets/the_locked_rooms_of_begram/audio/en/p18_0.mp3",
+            "hi": "assets/the_locked_rooms_of_begram/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 80.0,
+                "d": 643.0
+              },
+              {
+                "w": "Begram's",
+                "t": 816.0,
+                "d": 735.0
+              },
+              {
+                "w": "locked",
+                "t": 1551.0,
+                "d": 367.0
+              },
+              {
+                "w": "rooms",
+                "t": 1919.0,
+                "d": 275.0
+              },
+              {
+                "w": "remind",
+                "t": 2195.0,
+                "d": 413.0
+              },
+              {
+                "w": "us",
+                "t": 2609.0,
+                "d": 505.0
+              },
+              {
+                "w": "that",
+                "t": 3297.0,
+                "d": 231.0
+              },
+              {
+                "w": "civilizations",
+                "t": 3528.0,
+                "d": 964.0
+              },
+              {
+                "w": "meet",
+                "t": 4493.0,
+                "d": 368.0
+              },
+              {
+                "w": "most",
+                "t": 4862.0,
+                "d": 413.0
+              },
+              {
+                "w": "quietly",
+                "t": 5275.0,
+                "d": 689.0
+              },
+              {
+                "w": "in",
+                "t": 5965.0,
+                "d": 229.0
+              },
+              {
+                "w": "traders'",
+                "t": 6195.0,
+                "d": 689.0
+              },
+              {
+                "w": "ledgers",
+                "t": 7068.0,
+                "d": 1011.0
+              },
+              {
+                "w": "in",
+                "t": 8126.0,
+                "d": 229.0
+              },
+              {
+                "w": "makers'",
+                "t": 8356.0,
+                "d": 459.0
+              },
+              {
+                "w": "hands",
+                "t": 8816.0,
+                "d": 642.0
+              },
+              {
+                "w": "and",
+                "t": 9642.0,
+                "d": 275.0
+              },
+              {
+                "w": "in",
+                "t": 9918.0,
+                "d": 185.0
+              },
+              {
+                "w": "goods",
+                "t": 10103.0,
+                "d": 320.0
+              },
+              {
+                "w": "that",
+                "t": 10424.0,
+                "d": 183.0
+              },
+              {
+                "w": "travel",
+                "t": 10608.0,
+                "d": 414.0
+              },
+              {
+                "w": "farther",
+                "t": 11022.0,
+                "d": 597.0
+              },
+              {
+                "w": "than",
+                "t": 11620.0,
+                "d": 275.0
+              },
+              {
+                "w": "any",
+                "t": 11896.0,
+                "d": 367.0
+              },
+              {
+                "w": "king",
+                "t": 12264.0,
+                "d": 505.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Kushan Trade Overseer of Kapisa",
+    "epithets": [
+      "Brokers of the Silk Roads",
+      "Masters of Kapisa Warehouses",
+      "Kushan Keepers of Begram",
+      "Guardians of Caravan Wealth"
+    ],
+    "legend": "In sealed rooms, they held half the world’s treasures."
+  }
+}
