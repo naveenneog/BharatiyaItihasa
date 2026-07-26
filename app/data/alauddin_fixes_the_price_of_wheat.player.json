@@ -1,0 +1,3767 @@
+{
+  "id": "alauddin_fixes_the_price_of_wheat",
+  "title": "Alauddin Fixes the Price of Wheat",
+  "title_i18n": {
+    "en": "Alauddin Fixes the Price of Wheat",
+    "hi": "अलाउद्दीन ने गेहूँ की कीमत बाँध दी"
+  },
+  "figure": "Alauddin Khalji",
+  "era": "Khalji market reforms, c. 1303-1316 CE",
+  "moral": "Order can feed a city, but coercion has a cost.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/intro/hero.png",
+      "name": "Alauddin Khalji",
+      "epithets": [
+        "Sultan of Delhi",
+        "Alauddin Khalji",
+        "Conqueror of Gujarat",
+        "Builder of Siri"
+      ],
+      "legend": "He chained the grain market so his starving capital could live.",
+      "era": "Khalji market reforms, c. 1303-1316 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Alauddin Khalji has seen Delhi fear hunger after siege and war. Now he crushes hoarders, spies on traders, and bends every sack of wheat to his will.",
+            "hi": "अलाउद्दीन ख़िलजी ने घेरों और जंग के बाद दिल्ली को भूख से काँपते देखा है। अब वो मुनाफ़ाख़ोरों को तोड़ता है, सौदागरों पर नज़र रखता है, और हर गेहूँ की बोरी अपनी मर्ज़ी से झुकाता है।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/intro/hero_en.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Alauddin",
+                "t": 114.0,
+                "d": 583.0
+              },
+              {
+                "w": "Khalji",
+                "t": 697.0,
+                "d": 458.0
+              },
+              {
+                "w": "has",
+                "t": 1156.0,
+                "d": 208.0
+              },
+              {
+                "w": "seen",
+                "t": 1364.0,
+                "d": 333.0
+              },
+              {
+                "w": "Delhi",
+                "t": 1697.0,
+                "d": 375.0
+              },
+              {
+                "w": "fear",
+                "t": 2072.0,
+                "d": 291.0
+              },
+              {
+                "w": "hunger",
+                "t": 2364.0,
+                "d": 458.0
+              },
+              {
+                "w": "after",
+                "t": 2822.0,
+                "d": 375.0
+              },
+              {
+                "w": "siege",
+                "t": 3197.0,
+                "d": 458.0
+              },
+              {
+                "w": "and",
+                "t": 3697.0,
+                "d": 166.0
+              },
+              {
+                "w": "war",
+                "t": 3864.0,
+                "d": 416.0
+              },
+              {
+                "w": "Now",
+                "t": 5072.0,
+                "d": 250.0
+              },
+              {
+                "w": "he",
+                "t": 5322.0,
+                "d": 208.0
+              },
+              {
+                "w": "crushes",
+                "t": 5531.0,
+                "d": 416.0
+              },
+              {
+                "w": "hoarders",
+                "t": 5947.0,
+                "d": 666.0
+              },
+              {
+                "w": "spies",
+                "t": 6697.0,
+                "d": 500.0
+              },
+              {
+                "w": "on",
+                "t": 7197.0,
+                "d": 166.0
+              },
+              {
+                "w": "traders",
+                "t": 7364.0,
+                "d": 750.0
+              },
+              {
+                "w": "and",
+                "t": 8197.0,
+                "d": 416.0
+              },
+              {
+                "w": "bends",
+                "t": 8614.0,
+                "d": 457.0
+              },
+              {
+                "w": "every",
+                "t": 9114.0,
+                "d": 458.0
+              },
+              {
+                "w": "sack",
+                "t": 9572.0,
+                "d": 416.0
+              },
+              {
+                "w": "of",
+                "t": 9989.0,
+                "d": 208.0
+              },
+              {
+                "w": "wheat",
+                "t": 10197.0,
+                "d": 250.0
+              },
+              {
+                "w": "to",
+                "t": 10447.0,
+                "d": 166.0
+              },
+              {
+                "w": "his",
+                "t": 10614.0,
+                "d": 207.0
+              },
+              {
+                "w": "will",
+                "t": 10821.0,
+                "d": 376.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/alauddin_fixes_the_price_of_wheat/intro/map.png",
+      "x": 0.52,
+      "y": 0.32,
+      "label": "Delhi & Siri, Delhi Sultanate",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, in stone streets and new fort walls, a hard‐eyed Sultan rewrites how a city eats and survives.",
+            "hi": "पत्थर की गलियों और नए किले की दीवारों के बीच, सख़्त नज़र वाला सुल्तान शहर की रोटी और ज़िन्दगी का तरीका बदल देता है।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/intro/map_en.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 735.0
+              },
+              {
+                "w": "in",
+                "t": 816.0,
+                "d": 275.0
+              },
+              {
+                "w": "stone",
+                "t": 1091.0,
+                "d": 459.0
+              },
+              {
+                "w": "streets",
+                "t": 1551.0,
+                "d": 643.0
+              },
+              {
+                "w": "and",
+                "t": 2241.0,
+                "d": 183.0
+              },
+              {
+                "w": "new",
+                "t": 2425.0,
+                "d": 274.0
+              },
+              {
+                "w": "fort",
+                "t": 2700.0,
+                "d": 368.0
+              },
+              {
+                "w": "walls",
+                "t": 3068.0,
+                "d": 734.0
+              },
+              {
+                "w": "a",
+                "t": 4034.0,
+                "d": 137.0
+              },
+              {
+                "w": "hard‐eyed",
+                "t": 4172.0,
+                "d": 597.0
+              },
+              {
+                "w": "Sultan",
+                "t": 4770.0,
+                "d": 551.0
+              },
+              {
+                "w": "rewrites",
+                "t": 5321.0,
+                "d": 873.0
+              },
+              {
+                "w": "how",
+                "t": 6287.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 6609.0,
+                "d": 91.0
+              },
+              {
+                "w": "city",
+                "t": 6701.0,
+                "d": 459.0
+              },
+              {
+                "w": "eats",
+                "t": 7206.0,
+                "d": 505.0
+              },
+              {
+                "w": "and",
+                "t": 7758.0,
+                "d": 229.0
+              },
+              {
+                "w": "survives",
+                "t": 7988.0,
+                "d": 781.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/cover.png",
+      "shot": "epic low-angle wide of throne hall",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the anxious years after Mongol sieges, Sultan Alauddin Khalji remade Delhi's markets with iron rules so a hungry capital and vast army could eat at fixed, cheap prices.",
+            "hi": "मंगोल हमलों के बाद के बेचैन दिनों में सुल्तान अलाउद्दीन खिलजी ने कड़े नियमों से दिल्‍ली के बाज़ार बदल दिए, ताकि भूखी राजधानी और बड़ी फ़ौज तय, सस्ती कीमत पर खा सके।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/cover_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 230.0,
+                "d": 200.0
+              },
+              {
+                "w": "anxious",
+                "t": 430.0,
+                "d": 400.0
+              },
+              {
+                "w": "years",
+                "t": 830.0,
+                "d": 360.0
+              },
+              {
+                "w": "after",
+                "t": 1190.0,
+                "d": 320.0
+              },
+              {
+                "w": "Mongol",
+                "t": 1510.0,
+                "d": 400.0
+              },
+              {
+                "w": "sieges",
+                "t": 1910.0,
+                "d": 479.0
+              },
+              {
+                "w": "Sultan",
+                "t": 2389.0,
+                "d": 841.0
+              },
+              {
+                "w": "Alauddin",
+                "t": 3230.0,
+                "d": 559.0
+              },
+              {
+                "w": "Khalji",
+                "t": 3789.0,
+                "d": 561.0
+              },
+              {
+                "w": "remade",
+                "t": 4470.0,
+                "d": 400.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 4870.0,
+                "d": 400.0
+              },
+              {
+                "w": "markets",
+                "t": 5270.0,
+                "d": 640.0
+              },
+              {
+                "w": "with",
+                "t": 5950.0,
+                "d": 280.0
+              },
+              {
+                "w": "iron",
+                "t": 6230.0,
+                "d": 320.0
+              },
+              {
+                "w": "rules",
+                "t": 6550.0,
+                "d": 320.0
+              },
+              {
+                "w": "so",
+                "t": 6870.0,
+                "d": 520.0
+              },
+              {
+                "w": "a",
+                "t": 7390.0,
+                "d": 40.0
+              },
+              {
+                "w": "hungry",
+                "t": 7430.0,
+                "d": 400.0
+              },
+              {
+                "w": "capital",
+                "t": 7830.0,
+                "d": 479.0
+              },
+              {
+                "w": "and",
+                "t": 8590.0,
+                "d": 320.0
+              },
+              {
+                "w": "vast",
+                "t": 8910.0,
+                "d": 360.0
+              },
+              {
+                "w": "army",
+                "t": 9270.0,
+                "d": 359.0
+              },
+              {
+                "w": "could",
+                "t": 9629.0,
+                "d": 241.0
+              },
+              {
+                "w": "eat",
+                "t": 9870.0,
+                "d": 240.0
+              },
+              {
+                "w": "at",
+                "t": 10110.0,
+                "d": 800.0
+              },
+              {
+                "w": "fixed",
+                "t": 10910.0,
+                "d": 200.0
+              },
+              {
+                "w": "cheap",
+                "t": 11110.0,
+                "d": 199.0
+              },
+              {
+                "w": "prices",
+                "t": 11309.0,
+                "d": 601.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p01.png",
+      "shot": "wide establishing shot",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Delhi had tasted fear. After sieges and Mongol alarms, grain thinned, prices rose, and hunger stared from the lanes of the Sultan's proud capital.",
+            "hi": "दिल्‍ली ने डर का स्वाद चखा था। घेरों और मंगोल ख़बरों के बाद अनाज घटा, दाम चढ़े, और भूख ने सुल्तान की शान भरी गलियों से झाँककर देखा।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p01_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Delhi",
+                "t": 70.0,
+                "d": 440.0
+              },
+              {
+                "w": "had",
+                "t": 510.0,
+                "d": 240.0
+              },
+              {
+                "w": "tasted",
+                "t": 750.0,
+                "d": 440.0
+              },
+              {
+                "w": "fear",
+                "t": 1190.0,
+                "d": 600.0
+              },
+              {
+                "w": "After",
+                "t": 2190.0,
+                "d": 320.0
+              },
+              {
+                "w": "sieges",
+                "t": 2510.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 3030.0,
+                "d": 200.0
+              },
+              {
+                "w": "Mongol",
+                "t": 3230.0,
+                "d": 440.0
+              },
+              {
+                "w": "alarms",
+                "t": 3670.0,
+                "d": 640.0
+              },
+              {
+                "w": "grain",
+                "t": 4470.0,
+                "d": 400.0
+              },
+              {
+                "w": "thinned",
+                "t": 4870.0,
+                "d": 560.0
+              },
+              {
+                "w": "prices",
+                "t": 5550.0,
+                "d": 480.0
+              },
+              {
+                "w": "rose",
+                "t": 6030.0,
+                "d": 480.0
+              },
+              {
+                "w": "and",
+                "t": 6630.0,
+                "d": 280.0
+              },
+              {
+                "w": "hunger",
+                "t": 6910.0,
+                "d": 560.0
+              },
+              {
+                "w": "stared",
+                "t": 7550.0,
+                "d": 400.0
+              },
+              {
+                "w": "from",
+                "t": 7950.0,
+                "d": 159.0
+              },
+              {
+                "w": "the",
+                "t": 8109.0,
+                "d": 120.0
+              },
+              {
+                "w": "lanes",
+                "t": 8229.0,
+                "d": 281.0
+              },
+              {
+                "w": "of",
+                "t": 8510.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 8590.0,
+                "d": 119.0
+              },
+              {
+                "w": "Sultan's",
+                "t": 8709.0,
+                "d": 600.0
+              },
+              {
+                "w": "proud",
+                "t": 9309.0,
+                "d": 281.0
+              },
+              {
+                "w": "capital",
+                "t": 9590.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p02.png",
+      "shot": "medium interior shot",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Alauddin had fought hard to hold Hindustan, always watching the Mongol steppe beyond the passes. To keep a great standing army, he needed grain and cloth, horses and men, at costs he could command.",
+            "hi": "अलाउद्दीन ने हिंदुस्तान रोकने के लिए जान लड़ा दी, दर्रों के पार मंगोल मैदान पर नज़र रखी। बड़ी खड़ी फ़ौज रखने के लिए उसे अनाज- कपड़ा, घोड़े- सिपाही सब ऐसे दाम पर चाहिए थे जो वो खुद तय करे।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p02_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Alauddin",
+                "t": 110.0,
+                "d": 520.0
+              },
+              {
+                "w": "had",
+                "t": 630.0,
+                "d": 240.0
+              },
+              {
+                "w": "fought",
+                "t": 870.0,
+                "d": 280.0
+              },
+              {
+                "w": "hard",
+                "t": 1150.0,
+                "d": 280.0
+              },
+              {
+                "w": "to",
+                "t": 1430.0,
+                "d": 160.0
+              },
+              {
+                "w": "hold",
+                "t": 1590.0,
+                "d": 240.0
+              },
+              {
+                "w": "Hindustan",
+                "t": 1830.0,
+                "d": 800.0
+              },
+              {
+                "w": "always",
+                "t": 2829.0,
+                "d": 441.0
+              },
+              {
+                "w": "watching",
+                "t": 3270.0,
+                "d": 440.0
+              },
+              {
+                "w": "the",
+                "t": 3710.0,
+                "d": 119.0
+              },
+              {
+                "w": "Mongol",
+                "t": 3829.0,
+                "d": 361.0
+              },
+              {
+                "w": "steppe",
+                "t": 4190.0,
+                "d": 280.0
+              },
+              {
+                "w": "beyond",
+                "t": 4470.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 4790.0,
+                "d": 120.0
+              },
+              {
+                "w": "passes",
+                "t": 4910.0,
+                "d": 800.0
+              },
+              {
+                "w": "To",
+                "t": 6070.0,
+                "d": 160.0
+              },
+              {
+                "w": "keep",
+                "t": 6230.0,
+                "d": 240.0
+              },
+              {
+                "w": "a",
+                "t": 6470.0,
+                "d": 120.0
+              },
+              {
+                "w": "great",
+                "t": 6590.0,
+                "d": 280.0
+              },
+              {
+                "w": "standing",
+                "t": 6870.0,
+                "d": 440.0
+              },
+              {
+                "w": "army",
+                "t": 7310.0,
+                "d": 440.0
+              },
+              {
+                "w": "he",
+                "t": 7790.0,
+                "d": 200.0
+              },
+              {
+                "w": "needed",
+                "t": 7990.0,
+                "d": 319.0
+              },
+              {
+                "w": "grain",
+                "t": 8309.0,
+                "d": 320.0
+              },
+              {
+                "w": "and",
+                "t": 8629.0,
+                "d": 241.0
+              },
+              {
+                "w": "cloth",
+                "t": 8870.0,
+                "d": 519.0
+              },
+              {
+                "w": "horses",
+                "t": 9590.0,
+                "d": 639.0
+              },
+              {
+                "w": "and",
+                "t": 10229.0,
+                "d": 240.0
+              },
+              {
+                "w": "men",
+                "t": 10469.0,
+                "d": 561.0
+              },
+              {
+                "w": "at",
+                "t": 11110.0,
+                "d": 400.0
+              },
+              {
+                "w": "costs",
+                "t": 11510.0,
+                "d": 559.0
+              },
+              {
+                "w": "he",
+                "t": 12110.0,
+                "d": 160.0
+              },
+              {
+                "w": "could",
+                "t": 12270.0,
+                "d": 199.0
+              },
+              {
+                "w": "command",
+                "t": 12469.0,
+                "d": 561.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p03.png",
+      "shot": "slow push-in on face",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Barani, writing later, tells us the Sultan feared two things: nobles growing too rich to rebel, and merchants pushing up prices so every soldier's ration drained the treasury.",
+            "hi": "बरानी बाद में लिखता है कि सुल्तान दो बातों से डरता था: अमीर इतने ताकतवर न हो जाएँ कि बग़ावत करें, और सौदागर दाम इतना न चढ़ा दें कि हर सिपाही का राशन ख़ज़ाना खाली कर दे।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p03_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Barani",
+                "t": 80.0,
+                "d": 643.0
+              },
+              {
+                "w": "writing",
+                "t": 724.0,
+                "d": 505.0
+              },
+              {
+                "w": "later",
+                "t": 1229.0,
+                "d": 781.0
+              },
+              {
+                "w": "tells",
+                "t": 2241.0,
+                "d": 367.0
+              },
+              {
+                "w": "us",
+                "t": 2609.0,
+                "d": 136.0
+              },
+              {
+                "w": "the",
+                "t": 2745.0,
+                "d": 139.0
+              },
+              {
+                "w": "Sultan",
+                "t": 2885.0,
+                "d": 550.0
+              },
+              {
+                "w": "feared",
+                "t": 3435.0,
+                "d": 413.0
+              },
+              {
+                "w": "two",
+                "t": 3849.0,
+                "d": 231.0
+              },
+              {
+                "w": "things",
+                "t": 4080.0,
+                "d": 873.0
+              },
+              {
+                "w": "nobles",
+                "t": 5505.0,
+                "d": 597.0
+              },
+              {
+                "w": "growing",
+                "t": 6103.0,
+                "d": 413.0
+              },
+              {
+                "w": "too",
+                "t": 6517.0,
+                "d": 275.0
+              },
+              {
+                "w": "rich",
+                "t": 6793.0,
+                "d": 229.0
+              },
+              {
+                "w": "to",
+                "t": 7022.0,
+                "d": 137.0
+              },
+              {
+                "w": "rebel",
+                "t": 7160.0,
+                "d": 735.0
+              },
+              {
+                "w": "and",
+                "t": 8080.0,
+                "d": 275.0
+              },
+              {
+                "w": "merchants",
+                "t": 8356.0,
+                "d": 597.0
+              },
+              {
+                "w": "pushing",
+                "t": 8954.0,
+                "d": 366.0
+              },
+              {
+                "w": "up",
+                "t": 9320.0,
+                "d": 91.0
+              },
+              {
+                "w": "prices",
+                "t": 9412.0,
+                "d": 828.0
+              },
+              {
+                "w": "so",
+                "t": 10333.0,
+                "d": 366.0
+              },
+              {
+                "w": "every",
+                "t": 10700.0,
+                "d": 367.0
+              },
+              {
+                "w": "soldier's",
+                "t": 11067.0,
+                "d": 552.0
+              },
+              {
+                "w": "ration",
+                "t": 11620.0,
+                "d": 504.0
+              },
+              {
+                "w": "drained",
+                "t": 12125.0,
+                "d": 322.0
+              },
+              {
+                "w": "the",
+                "t": 12448.0,
+                "d": 183.0
+              },
+              {
+                "w": "treasury",
+                "t": 12632.0,
+                "d": 734.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/alauddin_fixes_the_price_of_wheat/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/alauddin_fixes_the_price_of_wheat/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Resolved to break hoarding and famine, Alauddin surveys Delhi, calculating how law and steel will reshape its troubled bazaars.",
+            "hi": "अलाउद्दीन कसम खाकर दिल्ली को देखता है, सोचता है कैसे कानून और तलवार से भूख और जमाखोरी तोड़कर बाज़ार बदल देगा।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/action/action_auto_en.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Resolved",
+                "t": 80.0,
+                "d": 551.0
+              },
+              {
+                "w": "to",
+                "t": 632.0,
+                "d": 137.0
+              },
+              {
+                "w": "break",
+                "t": 770.0,
+                "d": 321.0
+              },
+              {
+                "w": "hoarding",
+                "t": 1091.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 1643.0,
+                "d": 275.0
+              },
+              {
+                "w": "famine",
+                "t": 1919.0,
+                "d": 551.0
+              },
+              {
+                "w": "Alauddin",
+                "t": 3022.0,
+                "d": 643.0
+              },
+              {
+                "w": "surveys",
+                "t": 3666.0,
+                "d": 551.0
+              },
+              {
+                "w": "Delhi",
+                "t": 4218.0,
+                "d": 505.0
+              },
+              {
+                "w": "calculating",
+                "t": 5229.0,
+                "d": 781.0
+              },
+              {
+                "w": "how",
+                "t": 6011.0,
+                "d": 275.0
+              },
+              {
+                "w": "law",
+                "t": 6287.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 6701.0,
+                "d": 183.0
+              },
+              {
+                "w": "steel",
+                "t": 6885.0,
+                "d": 459.0
+              },
+              {
+                "w": "will",
+                "t": 7344.0,
+                "d": 229.0
+              },
+              {
+                "w": "reshape",
+                "t": 7574.0,
+                "d": 597.0
+              },
+              {
+                "w": "its",
+                "t": 8172.0,
+                "d": 275.0
+              },
+              {
+                "w": "troubled",
+                "t": 8448.0,
+                "d": 413.0
+              },
+              {
+                "w": "bazaars",
+                "t": 8862.0,
+                "d": 827.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p04.png",
+      "shot": "sweeping court wide shot",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Delhi shall not starve at a merchant's whim. We will fix the price of wheat.",
+            "hi": "दिल्‍ली किसी सौदागर की मर्ज़ी से भूखी नहीं रहेगी। हम गेहूँ की कीमत तय करेंगे।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p04_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Delhi",
+                "t": 49.0,
+                "d": 306.4
+              },
+              {
+                "w": "shall",
+                "t": 355.4,
+                "d": 318.6
+              },
+              {
+                "w": "not",
+                "t": 674.0,
+                "d": 294.1
+              },
+              {
+                "w": "starve",
+                "t": 968.1,
+                "d": 465.7
+              },
+              {
+                "w": "at",
+                "t": 1495.1,
+                "d": 220.6
+              },
+              {
+                "w": "a",
+                "t": 1728.0,
+                "d": 61.2
+              },
+              {
+                "w": "merchant's",
+                "t": 1789.2,
+                "d": 576.0
+              },
+              {
+                "w": "whim",
+                "t": 2365.2,
+                "d": 330.9
+              },
+              {
+                "w": "We",
+                "t": 3541.7,
+                "d": 171.6
+              },
+              {
+                "w": "will",
+                "t": 3750.0,
+                "d": 245.1
+              },
+              {
+                "w": "fix",
+                "t": 3995.1,
+                "d": 281.9
+              },
+              {
+                "w": "the",
+                "t": 4277.0,
+                "d": 147.0
+              },
+              {
+                "w": "price",
+                "t": 4424.0,
+                "d": 392.2
+              },
+              {
+                "w": "of",
+                "t": 4877.5,
+                "d": 183.8
+              },
+              {
+                "w": "wheat",
+                "t": 5061.3,
+                "d": 404.4
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p05.png",
+      "shot": "overhead city map style shot",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From the grain fields of the Ganga-Yamuna Doab to the mandis of Delhi, the Sultan's order spread. The state would watch every route where wheat and rice rolled into the city.",
+            "hi": "गंगा–यमुना दोआब के खेतों से दिल्‍ली की मंडियों तक सुल्तान का हुक्म फैल गया। जहाँ-जहाँ से गेहूँ-चावल शहर में आता, वहाँ अब राज्य की नज़र बैठ गई।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p05_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 448.0,
+                "d": 137.0
+              },
+              {
+                "w": "grain",
+                "t": 586.0,
+                "d": 321.0
+              },
+              {
+                "w": "fields",
+                "t": 908.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 1275.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 1367.0,
+                "d": 183.0
+              },
+              {
+                "w": "Ganga-Yamuna",
+                "t": 1551.0,
+                "d": 689.0
+              },
+              {
+                "w": "Doab",
+                "t": 2241.0,
+                "d": 919.0
+              },
+              {
+                "w": "to",
+                "t": 3160.0,
+                "d": 182.0
+              },
+              {
+                "w": "the",
+                "t": 3343.0,
+                "d": 139.0
+              },
+              {
+                "w": "mandis",
+                "t": 3482.0,
+                "d": 504.0
+              },
+              {
+                "w": "of",
+                "t": 3987.0,
+                "d": 185.0
+              },
+              {
+                "w": "Delhi",
+                "t": 4172.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 5137.0,
+                "d": 229.0
+              },
+              {
+                "w": "Sultan's",
+                "t": 5367.0,
+                "d": 689.0
+              },
+              {
+                "w": "order",
+                "t": 6057.0,
+                "d": 367.0
+              },
+              {
+                "w": "spread",
+                "t": 6425.0,
+                "d": 919.0
+              },
+              {
+                "w": "The",
+                "t": 7896.0,
+                "d": 275.0
+              },
+              {
+                "w": "state",
+                "t": 8172.0,
+                "d": 413.0
+              },
+              {
+                "w": "would",
+                "t": 8586.0,
+                "d": 275.0
+              },
+              {
+                "w": "watch",
+                "t": 8862.0,
+                "d": 412.0
+              },
+              {
+                "w": "every",
+                "t": 9320.0,
+                "d": 460.0
+              },
+              {
+                "w": "route",
+                "t": 9781.0,
+                "d": 459.0
+              },
+              {
+                "w": "where",
+                "t": 10379.0,
+                "d": 367.0
+              },
+              {
+                "w": "wheat",
+                "t": 10747.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 11344.0,
+                "d": 275.0
+              },
+              {
+                "w": "rice",
+                "t": 11620.0,
+                "d": 367.0
+              },
+              {
+                "w": "rolled",
+                "t": 11988.0,
+                "d": 320.0
+              },
+              {
+                "w": "into",
+                "t": 12309.0,
+                "d": 322.0
+              },
+              {
+                "w": "the",
+                "t": 12632.0,
+                "d": 137.0
+              },
+              {
+                "w": "city",
+                "t": 12770.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p06.png",
+      "shot": "medium shot in council room",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He set schedules of rates-grain, cloth, animals, slaves, and daily goods. It was among the most systematic state market interventions seen in medieval India, built on fear, calculation, and a desire for order.",
+            "hi": "उसने अनाज, कपड़ा, जानवर, ग़ुलाम, रोज़मर्रा सामान—सबकी दरें लिखवा दीं। यह मध्यकालीन भारत की सबसे सधे हुई सरकारी बाज़ार दखलंदाज़ी थी, डर, हिसाब और क़ायदे की चाह पर खड़ी।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p06_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "set",
+                "t": 356.0,
+                "d": 183.0
+              },
+              {
+                "w": "schedules",
+                "t": 540.0,
+                "d": 735.0
+              },
+              {
+                "w": "of",
+                "t": 1275.0,
+                "d": 275.0
+              },
+              {
+                "w": "rates-grain",
+                "t": 1551.0,
+                "d": 735.0
+              },
+              {
+                "w": "cloth",
+                "t": 2563.0,
+                "d": 688.0
+              },
+              {
+                "w": "animals",
+                "t": 3435.0,
+                "d": 644.0
+              },
+              {
+                "w": "slaves",
+                "t": 4080.0,
+                "d": 1195.0
+              },
+              {
+                "w": "and",
+                "t": 5321.0,
+                "d": 321.0
+              },
+              {
+                "w": "daily",
+                "t": 5643.0,
+                "d": 413.0
+              },
+              {
+                "w": "goods",
+                "t": 6057.0,
+                "d": 827.0
+              },
+              {
+                "w": "It",
+                "t": 7344.0,
+                "d": 229.0
+              },
+              {
+                "w": "was",
+                "t": 7574.0,
+                "d": 137.0
+              },
+              {
+                "w": "among",
+                "t": 7712.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 8034.0,
+                "d": 137.0
+              },
+              {
+                "w": "most",
+                "t": 8172.0,
+                "d": 275.0
+              },
+              {
+                "w": "systematic",
+                "t": 8448.0,
+                "d": 689.0
+              },
+              {
+                "w": "state",
+                "t": 9137.0,
+                "d": 320.0
+              },
+              {
+                "w": "market",
+                "t": 9458.0,
+                "d": 367.0
+              },
+              {
+                "w": "interventions",
+                "t": 9826.0,
+                "d": 781.0
+              },
+              {
+                "w": "seen",
+                "t": 10608.0,
+                "d": 367.0
+              },
+              {
+                "w": "in",
+                "t": 10975.0,
+                "d": 183.0
+              },
+              {
+                "w": "medieval",
+                "t": 11159.0,
+                "d": 505.0
+              },
+              {
+                "w": "India",
+                "t": 11665.0,
+                "d": 690.0
+              },
+              {
+                "w": "built",
+                "t": 12494.0,
+                "d": 320.0
+              },
+              {
+                "w": "on",
+                "t": 12814.0,
+                "d": 183.0
+              },
+              {
+                "w": "fear",
+                "t": 12998.0,
+                "d": 644.0
+              },
+              {
+                "w": "calculation",
+                "t": 13781.0,
+                "d": 1149.0
+              },
+              {
+                "w": "and",
+                "t": 15021.0,
+                "d": 322.0
+              },
+              {
+                "w": "a",
+                "t": 15344.0,
+                "d": 44.0
+              },
+              {
+                "w": "desire",
+                "t": 15389.0,
+                "d": 552.0
+              },
+              {
+                "w": "for",
+                "t": 15942.0,
+                "d": 228.0
+              },
+              {
+                "w": "order",
+                "t": 16171.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p07.png",
+      "shot": "market-level wide shot",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the grain markets, officials checked weights, measured heaps, and enforced the Sultan's rates. Traders could no longer hoard in secret or raise prices with the season's turn.",
+            "hi": "अन्न बाज़ारों में अफ़सर तराज़ू जाँचते, ढेर नापते और सुल्तान की दरें मनवाते। अब सौदागर छिपकर ज़ख़ीरा नहीं कर सकते थे, न ही मौसम का बहाना करके दाम उछाल सकते थे।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p07_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 244.0,
+                "d": 127.0
+              },
+              {
+                "w": "grain",
+                "t": 372.0,
+                "d": 255.0
+              },
+              {
+                "w": "markets",
+                "t": 627.0,
+                "d": 723.0
+              },
+              {
+                "w": "officials",
+                "t": 1521.0,
+                "d": 680.0
+              },
+              {
+                "w": "checked",
+                "t": 2202.0,
+                "d": 339.0
+              },
+              {
+                "w": "weights",
+                "t": 2541.0,
+                "d": 638.0
+              },
+              {
+                "w": "measured",
+                "t": 3308.0,
+                "d": 468.0
+              },
+              {
+                "w": "heaps",
+                "t": 3776.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 4585.0,
+                "d": 255.0
+              },
+              {
+                "w": "enforced",
+                "t": 4840.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 5308.0,
+                "d": 127.0
+              },
+              {
+                "w": "Sultan's",
+                "t": 5436.0,
+                "d": 510.0
+              },
+              {
+                "w": "rates",
+                "t": 5946.0,
+                "d": 1191.0
+              },
+              {
+                "w": "Traders",
+                "t": 7138.0,
+                "d": 553.0
+              },
+              {
+                "w": "could",
+                "t": 7691.0,
+                "d": 212.0
+              },
+              {
+                "w": "no",
+                "t": 7904.0,
+                "d": 127.0
+              },
+              {
+                "w": "longer",
+                "t": 8031.0,
+                "d": 382.0
+              },
+              {
+                "w": "hoard",
+                "t": 8414.0,
+                "d": 339.0
+              },
+              {
+                "w": "in",
+                "t": 8754.0,
+                "d": 85.0
+              },
+              {
+                "w": "secret",
+                "t": 8839.0,
+                "d": 767.0
+              },
+              {
+                "w": "or",
+                "t": 9691.0,
+                "d": 211.0
+              },
+              {
+                "w": "raise",
+                "t": 9903.0,
+                "d": 213.0
+              },
+              {
+                "w": "prices",
+                "t": 10117.0,
+                "d": 468.0
+              },
+              {
+                "w": "with",
+                "t": 10585.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 10755.0,
+                "d": 126.0
+              },
+              {
+                "w": "season's",
+                "t": 10881.0,
+                "d": 554.0
+              },
+              {
+                "w": "turn",
+                "t": 11436.0,
+                "d": 509.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p08.png",
+      "shot": "architectural wide of Sera-i-Adl",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Barani speaks of the Sera-i-Adl, where justice met trade. Here, the Sultan's agents watched over buying and selling, a state shadow cast across every bargain.",
+            "hi": "बरानी ‘सेरा-ए-अदल’ का ज़िक्र करता है, जहाँ इंसाफ़ और कारोबार मिलते थे। यहाँ सुल्तान के नुमाइंदे हर सौदे पर नज़र रखते, हर मोलभाव पर राज्य की परछाईं पड़ती।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p08_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Barani",
+                "t": 80.0,
+                "d": 459.0
+              },
+              {
+                "w": "speaks",
+                "t": 540.0,
+                "d": 459.0
+              },
+              {
+                "w": "of",
+                "t": 1000.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 1091.0,
+                "d": 137.0
+              },
+              {
+                "w": "Sera-i-Adl",
+                "t": 1229.0,
+                "d": 919.0
+              },
+              {
+                "w": "where",
+                "t": 2563.0,
+                "d": 274.0
+              },
+              {
+                "w": "justice",
+                "t": 2837.0,
+                "d": 551.0
+              },
+              {
+                "w": "met",
+                "t": 3389.0,
+                "d": 277.0
+              },
+              {
+                "w": "trade",
+                "t": 3666.0,
+                "d": 688.0
+              },
+              {
+                "w": "Here",
+                "t": 5045.0,
+                "d": 919.0
+              },
+              {
+                "w": "the",
+                "t": 6011.0,
+                "d": 229.0
+              },
+              {
+                "w": "Sultan's",
+                "t": 6241.0,
+                "d": 551.0
+              },
+              {
+                "w": "agents",
+                "t": 6793.0,
+                "d": 505.0
+              },
+              {
+                "w": "watched",
+                "t": 7298.0,
+                "d": 459.0
+              },
+              {
+                "w": "over",
+                "t": 7758.0,
+                "d": 275.0
+              },
+              {
+                "w": "buying",
+                "t": 8034.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 8448.0,
+                "d": 137.0
+              },
+              {
+                "w": "selling",
+                "t": 8586.0,
+                "d": 1011.0
+              },
+              {
+                "w": "a",
+                "t": 9689.0,
+                "d": 228.0
+              },
+              {
+                "w": "state",
+                "t": 9918.0,
+                "d": 414.0
+              },
+              {
+                "w": "shadow",
+                "t": 10333.0,
+                "d": 413.0
+              },
+              {
+                "w": "cast",
+                "t": 10747.0,
+                "d": 412.0
+              },
+              {
+                "w": "across",
+                "t": 11159.0,
+                "d": 505.0
+              },
+              {
+                "w": "every",
+                "t": 11665.0,
+                "d": 414.0
+              },
+              {
+                "w": "bargain",
+                "t": 12080.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p09.png",
+      "shot": "granary interior wide",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Sultan filled granaries with harvests drawn from the countryside. When scarcity threatened, the state could release grain, steadying prices and feeding barracks and alleys alike.",
+            "hi": "सुल्तान ने देहात से आई फ़सल से कोठार भर दिए। कमी का डर होते ही राज्य अनाज निकाल सकता था, दाम टिकाए रखता और फ़ौजी छावनियों से लेकर मोहल्लों तक पेट भरता।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p09_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "Sultan",
+                "t": 244.0,
+                "d": 468.0
+              },
+              {
+                "w": "filled",
+                "t": 712.0,
+                "d": 340.0
+              },
+              {
+                "w": "granaries",
+                "t": 1053.0,
+                "d": 595.0
+              },
+              {
+                "w": "with",
+                "t": 1648.0,
+                "d": 170.0
+              },
+              {
+                "w": "harvests",
+                "t": 1819.0,
+                "d": 637.0
+              },
+              {
+                "w": "drawn",
+                "t": 2456.0,
+                "d": 384.0
+              },
+              {
+                "w": "from",
+                "t": 2840.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 3052.0,
+                "d": 127.0
+              },
+              {
+                "w": "countryside",
+                "t": 3179.0,
+                "d": 1063.0
+              },
+              {
+                "w": "When",
+                "t": 4670.0,
+                "d": 255.0
+              },
+              {
+                "w": "scarcity",
+                "t": 4925.0,
+                "d": 638.0
+              },
+              {
+                "w": "threatened",
+                "t": 5563.0,
+                "d": 765.0
+              },
+              {
+                "w": "the",
+                "t": 6372.0,
+                "d": 212.0
+              },
+              {
+                "w": "state",
+                "t": 6585.0,
+                "d": 382.0
+              },
+              {
+                "w": "could",
+                "t": 6968.0,
+                "d": 212.0
+              },
+              {
+                "w": "release",
+                "t": 7180.0,
+                "d": 340.0
+              },
+              {
+                "w": "grain",
+                "t": 7521.0,
+                "d": 553.0
+              },
+              {
+                "w": "steadying",
+                "t": 8117.0,
+                "d": 594.0
+              },
+              {
+                "w": "prices",
+                "t": 8711.0,
+                "d": 596.0
+              },
+              {
+                "w": "and",
+                "t": 9308.0,
+                "d": 212.0
+              },
+              {
+                "w": "feeding",
+                "t": 9521.0,
+                "d": 381.0
+              },
+              {
+                "w": "barracks",
+                "t": 9903.0,
+                "d": 511.0
+              },
+              {
+                "w": "and",
+                "t": 10414.0,
+                "d": 212.0
+              },
+              {
+                "w": "alleys",
+                "t": 10627.0,
+                "d": 424.0
+              },
+              {
+                "w": "alike",
+                "t": 11052.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p10.png",
+      "shot": "roadside medium shot",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He relied on state carriers to move food and cloth from field to city. The path of each cart now lay under the Sultan's gaze, not just under village bargains.",
+            "hi": "वह सरकारी ढोइयों पर टिका रहा, जो खेत से शहर तक खाना और कपड़ा लाते थे। हर गाड़ी का रास्ता अब सुल्तान की नज़र में था, सिर्फ़ गाँव के सौदे में नहीं।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p10_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "relied",
+                "t": 287.0,
+                "d": 340.0
+              },
+              {
+                "w": "on",
+                "t": 627.0,
+                "d": 85.0
+              },
+              {
+                "w": "state",
+                "t": 712.0,
+                "d": 425.0
+              },
+              {
+                "w": "carriers",
+                "t": 1138.0,
+                "d": 468.0
+              },
+              {
+                "w": "to",
+                "t": 1606.0,
+                "d": 127.0
+              },
+              {
+                "w": "move",
+                "t": 1734.0,
+                "d": 297.0
+              },
+              {
+                "w": "food",
+                "t": 2031.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 2414.0,
+                "d": 297.0
+              },
+              {
+                "w": "cloth",
+                "t": 2712.0,
+                "d": 467.0
+              },
+              {
+                "w": "from",
+                "t": 3179.0,
+                "d": 340.0
+              },
+              {
+                "w": "field",
+                "t": 3520.0,
+                "d": 298.0
+              },
+              {
+                "w": "to",
+                "t": 3819.0,
+                "d": 127.0
+              },
+              {
+                "w": "city",
+                "t": 3946.0,
+                "d": 851.0
+              },
+              {
+                "w": "The",
+                "t": 5265.0,
+                "d": 212.0
+              },
+              {
+                "w": "path",
+                "t": 5478.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 5819.0,
+                "d": 212.0
+              },
+              {
+                "w": "each",
+                "t": 6031.0,
+                "d": 340.0
+              },
+              {
+                "w": "cart",
+                "t": 6372.0,
+                "d": 340.0
+              },
+              {
+                "w": "now",
+                "t": 6712.0,
+                "d": 297.0
+              },
+              {
+                "w": "lay",
+                "t": 7010.0,
+                "d": 297.0
+              },
+              {
+                "w": "under",
+                "t": 7351.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 7606.0,
+                "d": 127.0
+              },
+              {
+                "w": "Sultan's",
+                "t": 7734.0,
+                "d": 1063.0
+              },
+              {
+                "w": "gaze",
+                "t": 8797.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 9094.0,
+                "d": 341.0
+              },
+              {
+                "w": "just",
+                "t": 9436.0,
+                "d": 296.0
+              },
+              {
+                "w": "under",
+                "t": 9732.0,
+                "d": 340.0
+              },
+              {
+                "w": "village",
+                "t": 10073.0,
+                "d": 469.0
+              },
+              {
+                "w": "bargains",
+                "t": 10542.0,
+                "d": 764.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p11.png",
+      "shot": "shadowy corridor shot",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Barid spies slipped through shops and serais, listening. A secret note, a whispered complaint, could reach the court by nightfall. Suspicion became part of the market's air.",
+            "hi": "बारीद जासूस दुकानों और सरायों में घुल मिलकर सुनते रहे। एक गुप्त पर्ची, एक फुसफुसाई शिकायत रात तक दरबार पहुँच सकती थी। शक बाज़ार की हवा का हिस्सा बन गया।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p11_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Barid",
+                "t": 126.0,
+                "d": 459.0
+              },
+              {
+                "w": "spies",
+                "t": 586.0,
+                "d": 505.0
+              },
+              {
+                "w": "slipped",
+                "t": 1091.0,
+                "d": 413.0
+              },
+              {
+                "w": "through",
+                "t": 1505.0,
+                "d": 321.0
+              },
+              {
+                "w": "shops",
+                "t": 1827.0,
+                "d": 367.0
+              },
+              {
+                "w": "and",
+                "t": 2195.0,
+                "d": 183.0
+              },
+              {
+                "w": "serais",
+                "t": 2379.0,
+                "d": 872.0
+              },
+              {
+                "w": "listening",
+                "t": 3297.0,
+                "d": 1472.0
+              },
+              {
+                "w": "A",
+                "t": 4862.0,
+                "d": 183.0
+              },
+              {
+                "w": "secret",
+                "t": 5045.0,
+                "d": 505.0
+              },
+              {
+                "w": "note",
+                "t": 5551.0,
+                "d": 551.0
+              },
+              {
+                "w": "a",
+                "t": 6241.0,
+                "d": 137.0
+              },
+              {
+                "w": "whispered",
+                "t": 6379.0,
+                "d": 551.0
+              },
+              {
+                "w": "complaint",
+                "t": 6931.0,
+                "d": 965.0
+              },
+              {
+                "w": "could",
+                "t": 8034.0,
+                "d": 321.0
+              },
+              {
+                "w": "reach",
+                "t": 8356.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 8632.0,
+                "d": 183.0
+              },
+              {
+                "w": "court",
+                "t": 8816.0,
+                "d": 412.0
+              },
+              {
+                "w": "by",
+                "t": 9228.0,
+                "d": 183.0
+              },
+              {
+                "w": "nightfall",
+                "t": 9412.0,
+                "d": 874.0
+              },
+              {
+                "w": "Suspicion",
+                "t": 10700.0,
+                "d": 736.0
+              },
+              {
+                "w": "became",
+                "t": 11436.0,
+                "d": 412.0
+              },
+              {
+                "w": "part",
+                "t": 11849.0,
+                "d": 275.0
+              },
+              {
+                "w": "of",
+                "t": 12125.0,
+                "d": 139.0
+              },
+              {
+                "w": "the",
+                "t": 12264.0,
+                "d": 137.0
+              },
+              {
+                "w": "market's",
+                "t": 12402.0,
+                "d": 504.0
+              },
+              {
+                "w": "air",
+                "t": 12906.0,
+                "d": 506.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p12.png",
+      "shot": "stern throne-room medium shot",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Barani's pages tell of harsh punishments for those who broke the rules-hoarders, false measurers, secret dealers. The Sultan believed fear would hold prices down where trust could not.",
+            "hi": "बरानी उन सख़्त सज़ाओं का ज़िक्र करता है जो क़ानून तोड़ने वालों—ज़ख़ीरा करने वाले, झूठा तौल रखने वाले, गुप्त सौदे करने वालों—को मिलीं। सुल्तान मानता था कि जहाँ भरोसा दाम नहीं रोक सकता, वहाँ डर रोकेगा।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p12_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Barani's",
+                "t": 80.0,
+                "d": 597.0
+              },
+              {
+                "w": "pages",
+                "t": 678.0,
+                "d": 413.0
+              },
+              {
+                "w": "tell",
+                "t": 1091.0,
+                "d": 275.0
+              },
+              {
+                "w": "of",
+                "t": 1367.0,
+                "d": 137.0
+              },
+              {
+                "w": "harsh",
+                "t": 1505.0,
+                "d": 367.0
+              },
+              {
+                "w": "punishments",
+                "t": 1873.0,
+                "d": 597.0
+              },
+              {
+                "w": "for",
+                "t": 2471.0,
+                "d": 137.0
+              },
+              {
+                "w": "those",
+                "t": 2609.0,
+                "d": 321.0
+              },
+              {
+                "w": "who",
+                "t": 2931.0,
+                "d": 137.0
+              },
+              {
+                "w": "broke",
+                "t": 3068.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 3389.0,
+                "d": 139.0
+              },
+              {
+                "w": "rules-hoarders",
+                "t": 3528.0,
+                "d": 735.0
+              },
+              {
+                "w": "false",
+                "t": 4770.0,
+                "d": 367.0
+              },
+              {
+                "w": "measurers",
+                "t": 5137.0,
+                "d": 597.0
+              },
+              {
+                "w": "secret",
+                "t": 5735.0,
+                "d": 827.0
+              },
+              {
+                "w": "dealers",
+                "t": 6563.0,
+                "d": 781.0
+              },
+              {
+                "w": "The",
+                "t": 8080.0,
+                "d": 229.0
+              },
+              {
+                "w": "Sultan",
+                "t": 8310.0,
+                "d": 551.0
+              },
+              {
+                "w": "believed",
+                "t": 8862.0,
+                "d": 412.0
+              },
+              {
+                "w": "fear",
+                "t": 9274.0,
+                "d": 367.0
+              },
+              {
+                "w": "would",
+                "t": 9642.0,
+                "d": 231.0
+              },
+              {
+                "w": "hold",
+                "t": 9873.0,
+                "d": 275.0
+              },
+              {
+                "w": "prices",
+                "t": 10149.0,
+                "d": 505.0
+              },
+              {
+                "w": "down",
+                "t": 10655.0,
+                "d": 367.0
+              },
+              {
+                "w": "where",
+                "t": 11022.0,
+                "d": 229.0
+              },
+              {
+                "w": "trust",
+                "t": 11252.0,
+                "d": 367.0
+              },
+              {
+                "w": "could",
+                "t": 11620.0,
+                "d": 228.0
+              },
+              {
+                "w": "not",
+                "t": 11849.0,
+                "d": 506.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/alauddin_fixes_the_price_of_wheat/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/alauddin_fixes_the_price_of_wheat/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With spies' reports confirmed, Alauddin steps into the marketplace, ready to shatter corrupt power with relentless royal enforcement.",
+            "hi": "जासूसों की खबर पक्की, अलाउद्दीन बाज़ार में घुसता है, काले राज को तोड़ने राजकाज़ का कहर लेकर।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/action/action_auto2_en.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "spies'",
+                "t": 310.0,
+                "d": 400.0
+              },
+              {
+                "w": "reports",
+                "t": 710.0,
+                "d": 360.0
+              },
+              {
+                "w": "confirmed",
+                "t": 1070.0,
+                "d": 840.0
+              },
+              {
+                "w": "Alauddin",
+                "t": 1950.0,
+                "d": 560.0
+              },
+              {
+                "w": "steps",
+                "t": 2510.0,
+                "d": 359.0
+              },
+              {
+                "w": "into",
+                "t": 2869.0,
+                "d": 201.0
+              },
+              {
+                "w": "the",
+                "t": 3070.0,
+                "d": 120.0
+              },
+              {
+                "w": "marketplace",
+                "t": 3190.0,
+                "d": 960.0
+              },
+              {
+                "w": "ready",
+                "t": 4310.0,
+                "d": 360.0
+              },
+              {
+                "w": "to",
+                "t": 4670.0,
+                "d": 120.0
+              },
+              {
+                "w": "shatter",
+                "t": 4790.0,
+                "d": 440.0
+              },
+              {
+                "w": "corrupt",
+                "t": 5230.0,
+                "d": 320.0
+              },
+              {
+                "w": "power",
+                "t": 5550.0,
+                "d": 520.0
+              },
+              {
+                "w": "with",
+                "t": 6070.0,
+                "d": 200.0
+              },
+              {
+                "w": "relentless",
+                "t": 6270.0,
+                "d": 640.0
+              },
+              {
+                "w": "royal",
+                "t": 6910.0,
+                "d": 280.0
+              },
+              {
+                "w": "enforcement",
+                "t": 7190.0,
+                "d": 839.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p13.png",
+      "shot": "city street comparison shot",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Amir Khusrau saw welfare in this order: the poor could buy food, soldiers were fed, chaos stilled. Yet many merchants felt crushed, their profit clipped by an iron hand.",
+            "hi": "अमीर ख़ुसरो ने इस बंदिश में भलाई देखी: ग़रीबों को खाना मिला, सिपाही पेटभर रहे, हंगामा थम गया। पर कई सौदागर कुचल गए सा महसूस करते रहे, उनका मुनाफ़ा लोहे के हाथ ने काट दिया।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p13_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Amir",
+                "t": 117.0,
+                "d": 382.0
+              },
+              {
+                "w": "Khusrau",
+                "t": 500.0,
+                "d": 425.0
+              },
+              {
+                "w": "saw",
+                "t": 925.0,
+                "d": 212.0
+              },
+              {
+                "w": "welfare",
+                "t": 1138.0,
+                "d": 638.0
+              },
+              {
+                "w": "in",
+                "t": 1776.0,
+                "d": 170.0
+              },
+              {
+                "w": "this",
+                "t": 1946.0,
+                "d": 211.0
+              },
+              {
+                "w": "order",
+                "t": 2158.0,
+                "d": 681.0
+              },
+              {
+                "w": "the",
+                "t": 3478.0,
+                "d": 297.0
+              },
+              {
+                "w": "poor",
+                "t": 3776.0,
+                "d": 339.0
+              },
+              {
+                "w": "could",
+                "t": 4115.0,
+                "d": 213.0
+              },
+              {
+                "w": "buy",
+                "t": 4329.0,
+                "d": 255.0
+              },
+              {
+                "w": "food",
+                "t": 4585.0,
+                "d": 765.0
+              },
+              {
+                "w": "soldiers",
+                "t": 5351.0,
+                "d": 638.0
+              },
+              {
+                "w": "were",
+                "t": 5989.0,
+                "d": 170.0
+              },
+              {
+                "w": "fed",
+                "t": 6159.0,
+                "d": 680.0
+              },
+              {
+                "w": "chaos",
+                "t": 6882.0,
+                "d": 468.0
+              },
+              {
+                "w": "stilled",
+                "t": 7351.0,
+                "d": 723.0
+              },
+              {
+                "w": "Yet",
+                "t": 8584.0,
+                "d": 340.0
+              },
+              {
+                "w": "many",
+                "t": 8924.0,
+                "d": 298.0
+              },
+              {
+                "w": "merchants",
+                "t": 9223.0,
+                "d": 468.0
+              },
+              {
+                "w": "felt",
+                "t": 9691.0,
+                "d": 255.0
+              },
+              {
+                "w": "crushed",
+                "t": 9946.0,
+                "d": 764.0
+              },
+              {
+                "w": "their",
+                "t": 11010.0,
+                "d": 296.0
+              },
+              {
+                "w": "profit",
+                "t": 11307.0,
+                "d": 468.0
+              },
+              {
+                "w": "clipped",
+                "t": 11775.0,
+                "d": 384.0
+              },
+              {
+                "w": "by",
+                "t": 12159.0,
+                "d": 170.0
+              },
+              {
+                "w": "an",
+                "t": 12329.0,
+                "d": 126.0
+              },
+              {
+                "w": "iron",
+                "t": 12456.0,
+                "d": 298.0
+              },
+              {
+                "w": "hand",
+                "t": 12755.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p14.png",
+      "shot": "intimate interior medium shot",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "An empire stands not only on steel, but on full stomachs.",
+            "hi": "साम्राज्य सिर्फ़ तलवार पर नहीं, भरे पेटों पर भी टिकता है।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p14_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "An",
+                "t": 49.0,
+                "d": 220.6
+              },
+              {
+                "w": "empire",
+                "t": 355.4,
+                "d": 576.0
+              },
+              {
+                "w": "stands",
+                "t": 931.4,
+                "d": 502.5
+              },
+              {
+                "w": "not",
+                "t": 1470.6,
+                "d": 330.9
+              },
+              {
+                "w": "only",
+                "t": 1862.8,
+                "d": 392.2
+              },
+              {
+                "w": "on",
+                "t": 2328.4,
+                "d": 220.6
+              },
+              {
+                "w": "steel",
+                "t": 2549.0,
+                "d": 416.7
+              },
+              {
+                "w": "but",
+                "t": 3333.3,
+                "d": 232.8
+              },
+              {
+                "w": "on",
+                "t": 3590.7,
+                "d": 196.1
+              },
+              {
+                "w": "full",
+                "t": 3786.8,
+                "d": 269.6
+              },
+              {
+                "w": "stomachs",
+                "t": 4056.4,
+                "d": 588.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p15.png",
+      "shot": "barracks wide shot",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With fixed prices, the state could maintain vast forces at lower cost. Mongol threats still loomed, but Delhi's barracks now had steady rations, and the treasury breathed easier.",
+            "hi": "तय दामों से राज्य कम ख़र्च में बड़ी फ़ौज रख सका। मंगोल का साया अब भी था, पर दिल्‍ली की छावनियों के राशन मज़बूत रहे, और ख़ज़ाने ने चैन की साँस ली।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p15_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "fixed",
+                "t": 372.0,
+                "d": 340.0
+              },
+              {
+                "w": "prices",
+                "t": 712.0,
+                "d": 765.0
+              },
+              {
+                "w": "the",
+                "t": 1776.0,
+                "d": 255.0
+              },
+              {
+                "w": "state",
+                "t": 2031.0,
+                "d": 382.0
+              },
+              {
+                "w": "could",
+                "t": 2414.0,
+                "d": 211.0
+              },
+              {
+                "w": "maintain",
+                "t": 2626.0,
+                "d": 468.0
+              },
+              {
+                "w": "vast",
+                "t": 3094.0,
+                "d": 425.0
+              },
+              {
+                "w": "forces",
+                "t": 3520.0,
+                "d": 680.0
+              },
+              {
+                "w": "at",
+                "t": 4243.0,
+                "d": 171.0
+              },
+              {
+                "w": "lower",
+                "t": 4414.0,
+                "d": 340.0
+              },
+              {
+                "w": "cost",
+                "t": 4755.0,
+                "d": 1021.0
+              },
+              {
+                "w": "Mongol",
+                "t": 6457.0,
+                "d": 468.0
+              },
+              {
+                "w": "threats",
+                "t": 6925.0,
+                "d": 297.0
+              },
+              {
+                "w": "still",
+                "t": 7223.0,
+                "d": 297.0
+              },
+              {
+                "w": "loomed",
+                "t": 7521.0,
+                "d": 680.0
+              },
+              {
+                "w": "but",
+                "t": 8500.0,
+                "d": 211.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 8711.0,
+                "d": 341.0
+              },
+              {
+                "w": "barracks",
+                "t": 9053.0,
+                "d": 468.0
+              },
+              {
+                "w": "now",
+                "t": 9521.0,
+                "d": 296.0
+              },
+              {
+                "w": "had",
+                "t": 9818.0,
+                "d": 128.0
+              },
+              {
+                "w": "steady",
+                "t": 9946.0,
+                "d": 381.0
+              },
+              {
+                "w": "rations",
+                "t": 10328.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 11436.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 11648.0,
+                "d": 126.0
+              },
+              {
+                "w": "treasury",
+                "t": 11775.0,
+                "d": 469.0
+              },
+              {
+                "w": "breathed",
+                "t": 12244.0,
+                "d": 510.0
+              },
+              {
+                "w": "easier",
+                "t": 12755.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p16.png",
+      "shot": "time-lapse style citywide shot",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "For years, Alauddin's regulations held. Grain, cloth, and cattle moved under rules, and every deal in Delhi knew the Sultan's silent presence beside the scales.",
+            "hi": "सालों तक अलाउद्दीन के नियम चले। अनाज, कपड़ा, मवेशी सब क़ायदे के तहत चले, और दिल्‍ली के हर सौदे को तराज़ू के पास खड़े सुल्तान की खामोश मौजूदगी का एहसास था।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p16_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "For",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "years",
+                "t": 287.0,
+                "d": 680.0
+              },
+              {
+                "w": "Alauddin's",
+                "t": 1308.0,
+                "d": 680.0
+              },
+              {
+                "w": "regulations",
+                "t": 1989.0,
+                "d": 765.0
+              },
+              {
+                "w": "held",
+                "t": 2755.0,
+                "d": 553.0
+              },
+              {
+                "w": "Grain",
+                "t": 4073.0,
+                "d": 767.0
+              },
+              {
+                "w": "cloth",
+                "t": 4882.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 5734.0,
+                "d": 255.0
+              },
+              {
+                "w": "cattle",
+                "t": 5989.0,
+                "d": 553.0
+              },
+              {
+                "w": "moved",
+                "t": 6585.0,
+                "d": 468.0
+              },
+              {
+                "w": "under",
+                "t": 7053.0,
+                "d": 340.0
+              },
+              {
+                "w": "rules",
+                "t": 7393.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 8244.0,
+                "d": 424.0
+              },
+              {
+                "w": "every",
+                "t": 8669.0,
+                "d": 469.0
+              },
+              {
+                "w": "deal",
+                "t": 9138.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 9521.0,
+                "d": 170.0
+              },
+              {
+                "w": "Delhi",
+                "t": 9691.0,
+                "d": 552.0
+              },
+              {
+                "w": "knew",
+                "t": 10500.0,
+                "d": 296.0
+              },
+              {
+                "w": "the",
+                "t": 10796.0,
+                "d": 128.0
+              },
+              {
+                "w": "Sultan's",
+                "t": 10925.0,
+                "d": 553.0
+              },
+              {
+                "w": "silent",
+                "t": 11478.0,
+                "d": 425.0
+              },
+              {
+                "w": "presence",
+                "t": 11904.0,
+                "d": 467.0
+              },
+              {
+                "w": "beside",
+                "t": 12371.0,
+                "d": 426.0
+              },
+              {
+                "w": "the",
+                "t": 12797.0,
+                "d": 126.0
+              },
+              {
+                "w": "scales",
+                "t": 12924.0,
+                "d": 767.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/alauddin_fixes_the_price_of_wheat/split_auto/s0.png",
+          "slogan": {
+            "en": "Justice in every grain price",
+            "hi": "हर दाने में न्यायपूर्ण मूल्य"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/alauddin_fixes_the_price_of_wheat/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/alauddin_fixes_the_price_of_wheat/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Years of strict control forge stable markets, as Alauddin's harsh decrees secure Delhi's grain and the Sultanate's war machine.",
+            "hi": "कड़े सालों की पकड़ से बाज़ार संभलते हैं, अलाउद्दीन के सख़्त फ़रमान से दिल्ली का अनाज और सल्तनत की लड़ाकू ताकत सुरक्षित रहती है।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/split/split_auto_en.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Years",
+                "t": 72.0,
+                "d": 500.0
+              },
+              {
+                "w": "of",
+                "t": 572.0,
+                "d": 83.0
+              },
+              {
+                "w": "strict",
+                "t": 656.0,
+                "d": 416.0
+              },
+              {
+                "w": "control",
+                "t": 1072.0,
+                "d": 416.0
+              },
+              {
+                "w": "forge",
+                "t": 1489.0,
+                "d": 500.0
+              },
+              {
+                "w": "stable",
+                "t": 2031.0,
+                "d": 415.0
+              },
+              {
+                "w": "markets",
+                "t": 2446.0,
+                "d": 876.0
+              },
+              {
+                "w": "as",
+                "t": 3530.0,
+                "d": 458.0
+              },
+              {
+                "w": "Alauddin's",
+                "t": 4030.0,
+                "d": 751.0
+              },
+              {
+                "w": "harsh",
+                "t": 4781.0,
+                "d": 458.0
+              },
+              {
+                "w": "decrees",
+                "t": 5239.0,
+                "d": 708.0
+              },
+              {
+                "w": "secure",
+                "t": 6072.0,
+                "d": 583.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 6656.0,
+                "d": 375.0
+              },
+              {
+                "w": "grain",
+                "t": 7031.0,
+                "d": 625.0
+              },
+              {
+                "w": "and",
+                "t": 7697.0,
+                "d": 375.0
+              },
+              {
+                "w": "the",
+                "t": 8072.0,
+                "d": 125.0
+              },
+              {
+                "w": "Sultanate's",
+                "t": 8197.0,
+                "d": 666.0
+              },
+              {
+                "w": "war",
+                "t": 8864.0,
+                "d": 375.0
+              },
+              {
+                "w": "machine",
+                "t": 9239.0,
+                "d": 707.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p17.png",
+      "shot": "somber court wide shot",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "After Alauddin's death in 1316, his system was swiftly dismantled. The speed of its undoing suggests the relief of merchants and nobles who had long chafed under his strict controls.",
+            "hi": "१३१६ में अलाउद्दीन की मौत के बाद उसका तंत्र जल्द ही तोड़ दिया गया। इतने तेज़ी से हटना दिखाता है कि सौदागर और अमीर, जो बरसों से इन कड़े बंधनों में घुट रहे थे, कितना हल्का महसूस कर रहे थे।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p17_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "After",
+                "t": 117.0,
+                "d": 382.0
+              },
+              {
+                "w": "Alauddin's",
+                "t": 500.0,
+                "d": 638.0
+              },
+              {
+                "w": "death",
+                "t": 1138.0,
+                "d": 255.0
+              },
+              {
+                "w": "in 1316",
+                "t": 1393.0,
+                "d": 1658.0
+              },
+              {
+                "w": "his",
+                "t": 3094.0,
+                "d": 213.0
+              },
+              {
+                "w": "system",
+                "t": 3308.0,
+                "d": 468.0
+              },
+              {
+                "w": "was",
+                "t": 3776.0,
+                "d": 127.0
+              },
+              {
+                "w": "swiftly",
+                "t": 3904.0,
+                "d": 595.0
+              },
+              {
+                "w": "dismantled",
+                "t": 4500.0,
+                "d": 1021.0
+              },
+              {
+                "w": "The",
+                "t": 6244.0,
+                "d": 212.0
+              },
+              {
+                "w": "speed",
+                "t": 6457.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 6797.0,
+                "d": 127.0
+              },
+              {
+                "w": "its",
+                "t": 6925.0,
+                "d": 212.0
+              },
+              {
+                "w": "undoing",
+                "t": 7138.0,
+                "d": 510.0
+              },
+              {
+                "w": "suggests",
+                "t": 7648.0,
+                "d": 851.0
+              },
+              {
+                "w": "the",
+                "t": 8500.0,
+                "d": 424.0
+              },
+              {
+                "w": "relief",
+                "t": 8924.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 9264.0,
+                "d": 171.0
+              },
+              {
+                "w": "merchants",
+                "t": 9436.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 10158.0,
+                "d": 213.0
+              },
+              {
+                "w": "nobles",
+                "t": 10372.0,
+                "d": 723.0
+              },
+              {
+                "w": "who",
+                "t": 11137.0,
+                "d": 213.0
+              },
+              {
+                "w": "had",
+                "t": 11351.0,
+                "d": 170.0
+              },
+              {
+                "w": "long",
+                "t": 11521.0,
+                "d": 382.0
+              },
+              {
+                "w": "chafed",
+                "t": 11904.0,
+                "d": 425.0
+              },
+              {
+                "w": "under",
+                "t": 12329.0,
+                "d": 297.0
+              },
+              {
+                "w": "his",
+                "t": 12627.0,
+                "d": 170.0
+              },
+              {
+                "w": "strict",
+                "t": 12797.0,
+                "d": 340.0
+              },
+              {
+                "w": "controls",
+                "t": 13138.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/alauddin_fixes_the_price_of_wheat/img/p18.png",
+      "shot": "reflective closing shot over markets",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Alauddin's market reforms stand as a warning and a lesson: state power can feed a city and armies through order, but when fear rules every bargain, the cost is borne in silence and resentment.",
+            "hi": "अलाउद्दीन की बाज़ार सजावट एक चेतावनी और सबक बनकर खड़ी है: राज्य ताकत से शहर और फ़ौज पेटभर रख सकता है, पर जब हर सौदा डर से हो, तो उसकी क़ीमत ख़ामोशी और अंदर ही अंदर नाराज़गी में चुकानी पड़ती है।"
+          },
+          "audio": {
+            "en": "assets/alauddin_fixes_the_price_of_wheat/audio/en/p18_0.mp3",
+            "hi": "assets/alauddin_fixes_the_price_of_wheat/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Alauddin's",
+                "t": 80.0,
+                "d": 781.0
+              },
+              {
+                "w": "market",
+                "t": 862.0,
+                "d": 459.0
+              },
+              {
+                "w": "reforms",
+                "t": 1321.0,
+                "d": 505.0
+              },
+              {
+                "w": "stand",
+                "t": 1827.0,
+                "d": 459.0
+              },
+              {
+                "w": "as",
+                "t": 2287.0,
+                "d": 229.0
+              },
+              {
+                "w": "a",
+                "t": 2517.0,
+                "d": 136.0
+              },
+              {
+                "w": "warning",
+                "t": 2654.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 3205.0,
+                "d": 229.0
+              },
+              {
+                "w": "a",
+                "t": 3435.0,
+                "d": 47.0
+              },
+              {
+                "w": "lesson",
+                "t": 3482.0,
+                "d": 1287.0
+              },
+              {
+                "w": "state",
+                "t": 4954.0,
+                "d": 459.0
+              },
+              {
+                "w": "power",
+                "t": 5413.0,
+                "d": 367.0
+              },
+              {
+                "w": "can",
+                "t": 5781.0,
+                "d": 183.0
+              },
+              {
+                "w": "feed",
+                "t": 5965.0,
+                "d": 275.0
+              },
+              {
+                "w": "a",
+                "t": 6241.0,
+                "d": 91.0
+              },
+              {
+                "w": "city",
+                "t": 6333.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 6931.0,
+                "d": 229.0
+              },
+              {
+                "w": "armies",
+                "t": 7160.0,
+                "d": 505.0
+              },
+              {
+                "w": "through",
+                "t": 7666.0,
+                "d": 321.0
+              },
+              {
+                "w": "order",
+                "t": 7988.0,
+                "d": 643.0
+              },
+              {
+                "w": "but",
+                "t": 8954.0,
+                "d": 274.0
+              },
+              {
+                "w": "when",
+                "t": 9228.0,
+                "d": 229.0
+              },
+              {
+                "w": "fear",
+                "t": 9458.0,
+                "d": 322.0
+              },
+              {
+                "w": "rules",
+                "t": 9781.0,
+                "d": 413.0
+              },
+              {
+                "w": "every",
+                "t": 10195.0,
+                "d": 459.0
+              },
+              {
+                "w": "bargain",
+                "t": 10655.0,
+                "d": 735.0
+              },
+              {
+                "w": "the",
+                "t": 11573.0,
+                "d": 275.0
+              },
+              {
+                "w": "cost",
+                "t": 11849.0,
+                "d": 459.0
+              },
+              {
+                "w": "is",
+                "t": 12309.0,
+                "d": 139.0
+              },
+              {
+                "w": "borne",
+                "t": 12448.0,
+                "d": 413.0
+              },
+              {
+                "w": "in",
+                "t": 12862.0,
+                "d": 183.0
+              },
+              {
+                "w": "silence",
+                "t": 13045.0,
+                "d": 689.0
+              },
+              {
+                "w": "and",
+                "t": 13735.0,
+                "d": 228.0
+              },
+              {
+                "w": "resentment",
+                "t": 13964.0,
+                "d": 920.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Alauddin Khalji",
+    "epithets": [
+      "Sultan of Delhi",
+      "Alauddin Khalji",
+      "Conqueror of Gujarat",
+      "Builder of Siri"
+    ],
+    "legend": "He chained the grain market so his starving capital could live."
+  }
+}
