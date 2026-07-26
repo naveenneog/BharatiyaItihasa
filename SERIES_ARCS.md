@@ -124,6 +124,28 @@ in governance, art, science, economy and thought — with rigorous, non-communal
 12. **The Port That Fed an Empire** ✅ — Virji Vora & Surat; the merchant-financier and a cosmopolitan trade economy. *(economic — commerce & credit)*
 13. **Aurangzeb's Last Tent in the Deccan** ✅ — Bijapur/Golconda, the Maratha war and the *jagirdari* strain; the hollow cost of endless conquest.
 
+## 🛕 The Chalukyas & Rashtrakutas  *(Early medieval Deccan — c. 543–973 CE)*  — **✅ CHAPTER COMPLETE (13/13)**
+Two great Deccan dynasties — the Badami Chalukyas and the Rashtrakutas who supplanted them — and their
+**innovations** in rock-cut architecture, language, administration, trade, science and letters, with rigorous
+source-critical framing (Aihole prashasti, copper plates, and the Arab geographers as evidence).
+**Chalukya rise & the red rock of Vatapi**
+1. **Pulakeshin I Builds the Red Rock Fort** ✅ — founding Vatapi (Badami); the Badami cliff inscription (Saka 465 = 543 CE), the Ashvamedha.
+2. **Mangalesa Lets the Rock Speak Kannada** ✅ — Badami Cave 3 (578 CE); Sanskrit prestige and early practical Kannada side by side. *(scholarly — language)*
+3. **Pulakeshin II Holds the Narmada Line** ✅ — the only king to check Harsha (c. 618); the Aihole *prashasti* of Ravikirti, corroborated by Xuanzang.
+4. **Vikramaditya II Spares Kanchi's Shrines** ✅ — conquers the Pallava capital but protects the Kailasanatha temple; magnanimity in victory. *(social — restraint)*
+**Art, letters & administration**
+5. **Badami's Four Caves Test Sacred Art** ✅ — Cave 1 Nataraja/Ardhanarishvara, Caves 2–3 Vishnu, Cave 4 Jain; religious coexistence as a source of new art. *(craft — rock-cut art)*
+6. **The Boar Seal Grants a Village** ✅ — Vikramaditya I; the Chalukya *Varaha* copper-plate charters that bound king, land and village. *(economic — administration)*
+7. **Lokamahadevi Builds in Two Stone Tongues** ✅ — the queen's Virupaksha temple at Pattadakal; the Nagara–Dravida synthesis. *(craft — architecture; social — women & power)*
+**Rashtrakuta ascendancy & the great temples**
+8. **Dantidurga Steps Through the Golden Womb** ✅ — the Rashtrakuta founder overthrows Kirtivarman II (~753); the *Hiranyagarbha* rebirth rite and ritual legitimation.
+9. **Krishna I Carves Kailasa Downward** ✅ — the Kailasa temple at Elapura (Ellora), the world's largest monolith, carved top-down from one basalt cliff. *(craft — engineering)*
+10. **Govinda III Rides Toward Kanauj** ✅ — the Tripartite Struggle (Rashtrakuta–Pala–Pratihara) for Kanauj; fame in the north, power kept in the Deccan.
+**The golden court of Amoghavarsha I**
+11. **Arab Merchants Praise Manyakheta** ✅ — the "Balhara" one of the world's four great kings in Sulaiman al-Tajir and Al-Masudi; Konkan sea-trade. *(economic — global trade)*
+12. **Amoghavarsha Opens Kannada's Royal Path** ✅ — the *Kavirajamarga* (c. 850), earliest Kannada literary/poetics work; Kannada beside Sanskrit. *(scholarly — literature)*
+13. **Mahaviracharya Counts the World** ✅ — the *Ganita-sara-sangraha*, the first Indian text to treat mathematics as its own discipline. *(scientific — mathematics)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.

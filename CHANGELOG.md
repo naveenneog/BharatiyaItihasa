@@ -5,6 +5,30 @@ problems. Newest first.
 
 ---
 
+## 2026-07-26 — 🛕 Chalukyas & Rashtrakutas COMPLETE (13/13) · 7 chapters · self-extend to 9th era
+
+- **The Chalukyas & Rashtrakutas chapter is COMPLETE (13/13, all QA-clean):** Pulakeshin I founding Vatapi
+  (Badami cliff inscription, 543 CE), Mangalesa's Badami Cave 3 + early Kannada, Pulakeshin II halting Harsha
+  at the Narmada (Aihole *prashasti* of Ravikirti, Xuanzang), Vikramaditya II sparing the Kailasanatha at
+  Kanchi, the four Badami caves (Shaiva/Vaishnava/Jain coexistence), the Chalukya *Varaha* copper-plate grants
+  (Vikramaditya I), Queen Lokamahadevi's Virupaksha at Pattadakal (Nagara–Dravida synthesis), Dantidurga's
+  *Hiranyagarbha* rebirth rite, Krishna I's top-down monolithic Kailasa at Ellora/Elapura, Govinda III and the
+  Tripartite Struggle for Kanauj, the "Balhara" praised by Sulaiman al-Tajir & Al-Masudi as one of the world's
+  four great kings, Amoghavarsha I's *Kavirajamarga* (earliest Kannada literature), and Mahaviracharya's
+  *Ganita-sara-sangraha* (mathematics as its own discipline). Deep **innovation** across architecture, language,
+  administration, trade, science and letters — source-critical and non-communal throughout (incl. balanced
+  Hindu–Muslim sea-trade framing and evidence-based use of the Aihole prashasti and Arab geographers).
+- **Two accuracy fixes + one voicing fix this chapter (all caught in QA, re-voiced, committed granularly):**
+  (1) Mangalesa mislabelled a "Western Ganga king / Lord of Talakad" → corrected to **Chalukya king of Vatapi**;
+  (2) Badami Cave 3 dated "late seventh century" → **late sixth** (578 CE inscription);
+  (3) three English clips (arab_merchants *intro_hero*; mahaviracharya *cover* + *p11*) had been synthesized with
+  the **Hindi voice** — detected via Devanagari transcripts in voice QA, re-voiced with the correct English voice.
+- **Autonomous engine now spans 7 COMPLETE chapters (91 QA-clean stories):** Chola, Gupta, Maurya, Vijayanagara,
+  Indus Valley, Mughal, Chalukyas & Rashtrakutas. The driver auto-advanced to **The Delhi Sultanate** (8th, now
+  building) and the self-extender was triggered (`SEED_NEEDED`) to research + seed the **9th** backlog era.
+
+---
+
 ## 2026-07-26 — 👑 Mughal Empire COMPLETE (13/13) · 6 chapters · self-extend to 8th era
 
 - **The Mughal Empire chapter is COMPLETE (13/13, all QA-clean):** Babur at Panipat (1526 field
