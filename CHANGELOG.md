@@ -5,6 +5,40 @@ problems. Newest first.
 
 ---
 
+## 2026-07-28 — 📐 The Kerala School of Mathematics COMPLETE (13/13) · 11 chapters · self-extend to 13th era
+
+- **The Kerala School of Mathematics chapter is COMPLETE (13/13, all QA-clean):** Haridatta and Govinda
+  Bhattathiri's Parahita almanac-craft and the *katapayadi* number-code, Madhava of Sangamagrama and the
+  infinite series, Paramesvara's 55-year eclipse record and the empirical *Drgganita*, Nilakantha Somayaji's
+  semi-heliocentric model (*Tantrasangraha*), the Madhava–Leibniz series that reached π, Jyeshthadeva's
+  vernacular proofs in the *Yuktibhasa*, Sankara Variyar preserving Madhava's verses inside his commentaries,
+  the *illam* household-institution that carried the science 400 years, the almanac-makers of the Malabar
+  spice ports, the last flowering under Acyuta Pisharati and Melpathur, and the modern reception — Charles
+  Whish's neglected 1834 paper, K.V. Sarma and C.T. Rajagopal's 20th-century reconstruction, and the
+  transmission debate. Deep **scientific + scholarly innovation** (pre-calculus infinite series, a
+  semi-heliocentric model, vernacular mathematical proof).
+- **Exceptionally well-sourced and rigorously source-critical — the chapter's whole spine is historiography:**
+  it cites the real modern scholars who rebuilt this history (K.V. Sarma, C.T. Rajagopal, Kim Plofker, K.
+  Ramasubramanian, P.P. Divakaran) and the real primary texts (*Tantrasangraha, Yuktibhasa, Karanapaddhati,
+  Sadratnamala, Kriyakramakari, Drgganita, Uparagakriyakrama*). It repeatedly refuses the "lone-genius" and
+  nationalist-overclaim traps: Madhava is "a remembered founder of a school, not the lone inventor"; Nilakantha
+  "revised geocentrism from within, not rejected it"; and **the Kerala→Europe transmission debate is handled
+  with textbook balance** — George Gheverghese Joseph's case *for* transmission set against Victor Katz, David
+  Bressoud and Kim Plofker's caution, landing on the honest consensus that Kerala holds **priority** for the
+  series but **influence on European calculus is unproven** ("no letter, no translation, no citation… evidence
+  is what turns possibility into truth"). Social honesty too (Sankara Variyar's temple-service caste; "not one
+  caste alone").
+- **Three production touch-ups this chapter (all voice):** `paramesvara` p03 slurred names re-voiced
+  (`753d17e`); `acyuta` p13's dense work-title list re-voiced (`938f584`); `k_v_sarma` p02 re-voiced after its
+  names transcribed in Devanagari (`1c323b1`, now clean English).
+- **Autonomous engine now spans 11 COMPLETE chapters (143 QA-clean stories):** Chola, Gupta, Maurya,
+  Vijayanagara, Indus Valley, Mughal, Chalukyas & Rashtrakutas, Delhi Sultanate, Kushan Empire, Pallavas &
+  the Bhakti Dawn, Kerala School of Mathematics. The driver auto-advanced to **The Satavahanas and the Sangam
+  Age** (12th, now building) and the self-extender was triggered (`SEED_NEEDED`) to research + seed the **13th**
+  backlog era.
+
+---
+
 ## 2026-07-27 — 🦁 The Pallavas & the Bhakti Dawn COMPLETE (13/13) · 10 chapters · self-extend to 12th era
 
 - **The Pallavas and the Bhakti Dawn chapter is COMPLETE (13/13, all QA-clean):** Simhavishnu ending the

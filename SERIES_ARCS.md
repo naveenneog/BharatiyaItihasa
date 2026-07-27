@@ -212,6 +212,27 @@ non-communal** throughout (the Jain→Shaiva shift as gradual royal favour, "not
 12. **Appar Sings the King Toward Siva** ✅ — vernacular Tamil devotion and the gradual Jain→Shaiva shift (Tēvāram; Indira Peterson). *(social — Bhakti)*
 13. **Women Who Sang the Bhakti Dawn** ✅ — Karaikkal Ammaiyar and Āṇḍāḷ; women's voices in sacred song, read from their own poems. *(social — women & devotion)*
 
+## 📐 The Kerala School of Mathematics  *(Medieval → Early Modern — c. 1340–1600, the Nila valley of Kerala)*  — **✅ CHAPTER COMPLETE (13/13)**
+The school that reached infinite series and a semi-heliocentric sky centuries before Europe — told as
+**history-of-science**: real texts, real modern scholars, and a rigorously **source-critical, non-chauvinist**
+account of priority, proof and the transmission debate.
+**Founders & the infinite series**
+1. **The River That Taught the Stars** ✅ — Haridatta & Govinda Bhattathiri; the Parahita tradition and the *katapayadi* number-code. *(scholarly — notation)*
+2. **Madhava at the House of the Ilanchi Tree** ✅ — Madhava of Sangamagrama and the infinite series; "a remembered founder, not the lone inventor". *(scientific — calculus roots)*
+3. **Paramesvara Watches Fifty-Five Years** ✅ — 55 years of eclipse records and the empirical *Drgganita*. *(scientific — observation)*
+4. **Nilakantha Moves the Planets Around the Sun** ✅ — the semi-heliocentric model (*Tantrasangraha*); a Tycho-like pattern, "revised from within". *(scientific — astronomy)*
+5. **The Series That Reached Pi** ✅ — the Madhava–Leibniz series (π/4 = 1 − 1/3 + 1/5 …) and its error terms. *(scientific — analysis)*
+6. **Jyeshthadeva Writes Proofs in Malayalam** ✅ — the *Yuktibhasa*, systematic proofs in the vernacular. *(scholarly — proof & pedagogy)*
+**Preservation, institution & economy**
+7. **Sankara Variyar Saves the Verses** ✅ — his commentaries preserved Madhava's lost verses; "preservation is genius" (temple-service caste). *(social/scholarly — transmission)*
+8. **The Illam That Remembered Everything** ✅ — the household/oral institution that carried the science 400 years. *(social — institution)*
+9. **Spice Ports and Eclipse Tables** ✅ — the almanac (*panchanga*) economy of the Malabar spice trade (Ibn Battuta, Duarte Barbosa). *(economic — trade & calendar)*
+10. **Acyuta and Melpathur at the Last Flowering** ✅ — the school's twilight; astronomy, grammar and devotion as "one learned body". *(scholarly — synthesis)*
+**The modern reckoning**
+11. **Whish Reads the Palm Leaves** ✅ — Charles Whish's 1834 paper, neglected for a century. *(scholarly — reception)*
+12. **K.V. Sarma Unlocks the School** ✅ — the 20th-century reconstruction (Sarma, Rajagopal); "evidence over hearsay". *(scholarly — recovery)*
+13. **The Question Newton Never Answered** ✅ — the transmission debate, balanced: priority yes, proven European influence no. *(scholarly — historiography)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
