@@ -190,6 +190,28 @@ throughout; religious plurality rendered as coexistence, never conflict.
 12. **Vasudeva and the Long Unraveling** ✅ — the Kushano-Sasanian decline as a slow fading, not a single fall.
 13. **Buddhism's Road to China** ✅ — Lokaraksha, the first Mahāyāna translator at Luoyang; the Gandhārī scrolls. *(scholarly — transmission)*
 
+## 🦁 The Pallavas & the Bhakti Dawn  *(Ancient→Early Medieval — c. 575–900 CE, Kanchipuram & the Tamil country)*  — **✅ CHAPTER COMPLETE (13/13)**
+From the lion-throne of Kanchi to the shore temples of Mamallapuram — war with the Chalukyas, a revolution in
+stone, a script that seeded Southeast Asia, and the Tamil **Bhakti** dawn. Well-researched (Aihole *praśasti*,
+copper-plates, Xuanzang, the 2004 tsunami finds, Sheldon Pollock, Indira Peterson) and **source-critical &
+non-communal** throughout (the Jain→Shaiva shift as gradual royal favour, "not sudden intolerance").
+**The lion-throne of Kanchi**
+1. **Simhavishnu Ends the Kalabhra Night** ✅ — the Pallava revival after the Kalabhra interregnum.
+2. **Mahendravarman's Vow Without Mortar** ✅ — the Mandagapattu rock-cut temple; the *Mattavilāsa Prahasana* and the Kudumiyanmalai music inscription. *(craft/scholarly — architecture & arts)*
+3. **Mamalla Takes Vatapi** ✅ — Narasimhavarman I answers the Chalukyas; Vatapi taken c. 642 (source-critical on how).
+4. **The Boy from Kambuja Crowned at Kanchi** ✅ — Nandivarman II, the collateral boy-king from Kambujadesa; the Vaikuṇṭha Perumāḷ "autobiography in stone". *(social — succession & the wider Indic world)*
+5. **Five Generations Across the Deccan** ✅ — the long Pallava–Chalukya rivalry as *contested memory*. *(scholarly — historiography)*
+6. **Paranjothi Carries Home the Vatapi Gaṇapati** ✅ — the warrior-saint Siruthondar; hagiography weighed against record.
+**Stone, sea, script & grant**
+7. **Mamallapuram's Stone Theatre** ✅ — the Descent of the Ganges, Pancha Rathas, Shore Temple; the 2004 tsunami's offshore finds (with dating caution). *(craft — sculpture)*
+8. **Rajasimha Builds the Kailasanathar** ✅ — the Kanchipuram masterpiece and its fragile murals; a prototype for Chola *vimanas*. *(craft — architecture)*
+9. **The Pallava Alphabet Goes Overseas** ✅ — Pallava-Grantha as ancestor of Southeast Asian scripts; Pollock's *Sanskrit Cosmopolis*, EFEO, Unicode. *(scholarly — writing)*
+10. **Copper Plates and Village Sabhas** ✅ — brahmadeya grants and local self-government; powerful but bounded ("present yet voiceless"). *(social/economic — governance)*
+11. **Mariners of Mamallapuram** ✅ — Pallava sea-trade and the 720 CE embassy to Tang China. *(economic — maritime)*
+**The Bhakti dawn**
+12. **Appar Sings the King Toward Siva** ✅ — vernacular Tamil devotion and the gradual Jain→Shaiva shift (Tēvāram; Indira Peterson). *(social — Bhakti)*
+13. **Women Who Sang the Bhakti Dawn** ✅ — Karaikkal Ammaiyar and Āṇḍāḷ; women's voices in sacred song, read from their own poems. *(social — women & devotion)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.

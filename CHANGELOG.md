@@ -5,6 +5,36 @@ problems. Newest first.
 
 ---
 
+## 2026-07-27 — 🦁 The Pallavas & the Bhakti Dawn COMPLETE (13/13) · 10 chapters · self-extend to 12th era
+
+- **The Pallavas and the Bhakti Dawn chapter is COMPLETE (13/13, all QA-clean):** Simhavishnu ending the
+  Kalabhra interregnum, Mahendravarman I's "without mortar" rock-cut temple at Mandagapattu (and his Sanskrit
+  farce the *Mattavilāsa Prahasana* + the Kudumiyanmalai music inscription), Narasimhavarman I Mamalla taking
+  Vatapi, Nandivarman II the collateral boy-king from Kambujadesa (the Vaikuṇṭha Perumāḷ "autobiography in
+  stone"), the five-generation Pallava–Chalukya rivalry as contested memory, Paranjothi/Siruthondar and the
+  Vatapi Gaṇapati, Mamallapuram's rock-cut theatre (Descent of the Ganges, Pancha Rathas, Shore Temple),
+  Rajasimha's Kailasanathar, and a deep **innovation** cluster — the Pallava-Grantha script seeding Southeast
+  Asia's alphabets, brahmadeya copper-plate grants and village *sabhas*, and Mamallapuram's mariners with the
+  720 CE embassy to Tang China — closing on the Bhakti dawn (Appar; the women poets Karaikkal Ammaiyar and Āṇḍāḷ).
+- **Well-researched with recent scholarship and rigorously source-critical:** the 2004 tsunami's offshore
+  finds folded in with dating caution; Sheldon Pollock's *Sanskrit Cosmopolis*, EFEO epigraphy and Unicode
+  encoding for the script story; Xuanzang, the Aihole *praśasti*, and real copper-plates (Mayidavolu,
+  Hirahadagalli, Kasakudi, Udayendiram) as cited evidence; Indira Peterson on the Tēvāram. **Sensitive
+  religious history handled non-communally:** the Jain→Shaiva shift framed as a gradual change in royal favour,
+  explicitly *"not sudden intolerance,"* with Jain, Buddhist and Brahmanical institutions noted as enduring;
+  Bhakti's social leveling weighed honestly (it "does not erase hierarchy"); the village *sabha* named as
+  powerful **but** bounded ("cultivators present yet voiceless").
+- **Two production fixes this chapter (both voice):** `simhavishnu` p03 slurred Sanskrit names (Simhavishnu/
+  Simhavarman) re-voiced (`af161b7`); `paranjothi` cover slurred "Narasimhavarman" re-voiced (`7d0480c`). A
+  third clip (`copper_plates` p16) was confirmed an STT dense-list artifact — not an audio defect — and
+  refreshed (`833293d`).
+- **Autonomous engine now spans 10 COMPLETE chapters (130 QA-clean stories):** Chola, Gupta, Maurya,
+  Vijayanagara, Indus Valley, Mughal, Chalukyas & Rashtrakutas, Delhi Sultanate, Kushan Empire, Pallavas &
+  the Bhakti Dawn. The driver auto-advanced to **The Kerala School of Mathematics** (11th, now building) and
+  the self-extender was triggered (`SEED_NEEDED`) to research + seed the **12th** backlog era.
+
+---
+
 ## 2026-07-27 — 🐫 The Kushan Empire & the Silk Road COMPLETE (13/13) · 9 chapters · self-extend to 11th era
 
 - **The Kushan Empire and the Silk Road chapter is COMPLETE (13/13, all QA-clean):** the Yuezhi crossing the
