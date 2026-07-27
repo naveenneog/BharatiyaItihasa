@@ -5,6 +5,34 @@ problems. Newest first.
 
 ---
 
+## 2026-07-27 — 🐫 The Kushan Empire & the Silk Road COMPLETE (13/13) · 9 chapters · self-extend to 11th era
+
+- **The Kushan Empire and the Silk Road chapter is COMPLETE (13/13, all QA-clean):** the Yuezhi crossing the
+  mountains out of the steppe, Kujula Kadphises forging the Kushan crown from five tribes, Vima Kadphises and
+  the first gold *dinar*, the locked treasure-rooms of Begram (Hackin's excavation — Roman glass, Indian ivory,
+  Chinese lacquer in one hoard), Kanishka's sword on the Silk Road and his great "sky" stupa at Purushapura,
+  the council tradition in Kashmir (memory, not proven record), the first human face of the Buddha
+  (Gandhara–Mathura), Ashvaghosha singing the Buddha's life (the *Buddhacarita*), the thirty-plus gods on
+  Kushan coins (Greek/Iranian/Indian pantheon side by side), Huvishka's Amitabha at Mathura (the earliest
+  dated Amitabha inscription), Vasudeva and the long unraveling (Kushano-Sasanian decline), and Buddhism's
+  road to China (Lokaraksha, the first Mahāyāna translator at Luoyang). Deep **innovation** in coinage,
+  cross-cultural trade, sculpture and the transmission of ideas.
+- **Rigorously sourced with recent scholarship, source-critical throughout:** the Rabatak inscription for
+  Kanishka's genealogy and Harry Falk's astronomical dating (127 CE accession); the Hou Hanshu and the
+  *Periplus* for trade; the Kanishka casket and the Bactrian language at Surkh Kotal; Begram via Hackin; the
+  Schøyen and Gandhārī birchbark scrolls read today by Richard Salomon; Huvishka's Amitabha weighed with Paul
+  Harrison's caution ("we cannot say Huvishka himself followed Amitabha"); Vasudeva's decline framed as "a long
+  fading, not a single blow." Religious plurality (Buddhist, Shaiva, Iranian, Hellenistic) rendered as
+  coexistence, never as conflict.
+- **One production defect fixed this chapter:** `buddhism_s_road_to_china` p05 slurred "Tarim oasis" enough
+  that gpt-4o-transcribe heard "Theravadis" — re-voiced and verified (`7a65d84`).
+- **Autonomous engine now spans 9 COMPLETE chapters (117 QA-clean stories):** Chola, Gupta, Maurya,
+  Vijayanagara, Indus Valley, Mughal, Chalukyas & Rashtrakutas, Delhi Sultanate, Kushan Empire. The driver
+  auto-advanced to **Pallavas and the Bhakti Dawn** (10th, now building) and the self-extender was triggered
+  (`SEED_NEEDED`) to research + seed the **11th** backlog era.
+
+---
+
 ## 2026-07-26 — 🏰 Delhi Sultanate COMPLETE (13/13) · 8 chapters · self-extend to 10th era
 
 - **The Delhi Sultanate chapter is COMPLETE (13/13, all QA-clean):** Qutb-ud-Din Aibak & the Qutb Minar,

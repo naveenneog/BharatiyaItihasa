@@ -168,6 +168,28 @@ Khusrau as evidence; temple-reuse and Timur's sack rendered honestly but never i
 12. **Amir Khusrau Sings Hind and Iran** ✅ — the *Tuti-e-Hind*; Persian and Hindavi woven together; the father of qawwali. *(scholarly — composite culture)*
 13. **Nizamuddin Opens the Khanqah Door** ✅ — the Chishti saint's khanqah of service and *sama*, kept at a distance from power. *(social — spiritual tradition)*
 
+## 🐫 The Kushan Empire & the Silk Road  *(Ancient — c. 30–375 CE, Yuezhi nomads to Silk-Road empire)*  — **✅ CHAPTER COMPLETE (13/13)**
+From steppe migrants to a Central-Asian empire that stitched Rome, India and Han China together — and carried
+the Buddha's image and Mahāyāna ideas east along the Silk Road. Rigorously sourced (Rabatak inscription,
+Harry Falk's dating, Hou Hanshu, *Periplus*, the Begram hoard, Gandhārī scrolls) and **source-critical**
+throughout; religious plurality rendered as coexistence, never conflict.
+**Nomads become an empire**
+1. **The Yuezhi Cross a Thousand Mountains** ✅ — the steppe migration west into Bactria after the Xiongnu. *(social — migration)*
+2. **Kujula Kadphises Forges the Kushan Crown** ✅ — five Yuezhi tribes united into one dynasty (Rabatak genealogy).
+3. **Vima Kadphises Strikes the Gold Dinar** ✅ — the first Kushan gold coinage, tied to Roman *aureus* weights. *(economic — coinage)*
+4. **The Locked Rooms of Begram** ✅ — Hackin's excavation: Roman glass, Indian ivory, Chinese lacquer in one hoard. *(economic — world trade)*
+**Kanishka's golden age**
+5. **Kanishka's Sword on the Silk Road** ✅ — the empire at its height (127 CE accession, Harry Falk's dating).
+6. **Kanishka Raises the Sky Stupa** ✅ — the great Purushapura stupa; the Kanishka casket. *(craft — architecture)*
+7. **The Council Tradition in Kashmir** ✅ — the "Fourth Council" as memory, not proven record (source-critical). *(scholarly — canon)*
+8. **The First Human Face of the Buddha** ✅ — Gandhara and Mathura give the Buddha a human form. *(craft — sculpture)*
+9. **Ashvaghosha Sings the Buddha's Life** ✅ — the *Buddhacarita*, an early Sanskrit *mahākāvya*. *(scholarly — literature)*
+10. **Thirty Gods on Kushan Coins** ✅ — a Greek/Iranian/Indian pantheon side by side; religious plurality. *(social — pluralism)*
+**Twilight & transmission**
+11. **Huvishka's Amitabha in Mathura** ✅ — the earliest dated Amitabha inscription, weighed with scholarly caution. *(scholarly — Pure Land origins)*
+12. **Vasudeva and the Long Unraveling** ✅ — the Kushano-Sasanian decline as a slow fading, not a single fall.
+13. **Buddhism's Road to China** ✅ — Lokaraksha, the first Mahāyāna translator at Luoyang; the Gandhārī scrolls. *(scholarly — transmission)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
