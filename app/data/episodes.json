@@ -1,5 +1,5 @@
 {
-  "built": 132,
+  "built": 133,
   "chapters": [
     {
       "chapter": "The Chola Empire",
@@ -3226,7 +3226,7 @@
     {
       "chapter": "The Pallavas and the Bhakti Dawn",
       "blurb": "",
-      "built": 0,
+      "built": 1,
       "total": 13,
       "parts": [
         {
@@ -3238,7 +3238,7 @@
               "title": "Simhavishnu Ends the Kalabhra Night",
               "era": "Pallava revival, c. 555-600 CE, with dates debated",
               "series": "Ancient & Medieval India",
-              "built": false,
+              "built": true,
               "flagship": false,
               "chapter": "The Pallavas and the Bhakti Dawn",
               "chapter_part": "I. Kanchi Rises from the Kalabhra Haze",
@@ -3247,9 +3247,12 @@
               "year_label": "555 CE",
               "legend": "After a shadowed age in Tamil history, Simhavishnu restores Pallava power from Kanchipuram and turns the court toward conquest, Vishnu worship and Sanskrit learning.",
               "epithets": [],
-              "scenes": 0,
-              "langs": [],
-              "thumb": ""
+              "scenes": 19,
+              "langs": [
+                "en",
+                "hi"
+              ],
+              "thumb": "assets/simhavishnu_ends_the_kalabhra_night/img/cover.png"
             },
             {
               "id": "mahendravarman_s_vow_without_mortar",
@@ -3494,6 +3497,286 @@
               "year": 9999,
               "year_label": "",
               "legend": "Karaikkal Ammaiyar and Andal turn Tamil poetry into a woman's devotional voice, from cremation-ground Siva songs to Krishna longing sung every Margazhi.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "The Kerala School of Mathematics",
+      "blurb": "",
+      "built": 0,
+      "total": 13,
+      "parts": [
+        {
+          "part": "I. The Country of the River",
+          "episodes": [
+            {
+              "id": "the_river_that_taught_the_stars",
+              "figure": "Haridatta and Govinda Bhattathiri",
+              "title": "The River That Taught the Stars",
+              "era": "Kerala astronomical roots, c. 683-1295 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Kerala School of Mathematics",
+              "chapter_part": "I. The Country of the River",
+              "chapter_order": 1,
+              "year": 683,
+              "year_label": "683 CE",
+              "legend": "Along the Nila River, memorized number-verses, almanacs and scholar-houses prepared the ground for Kerala's later leap toward infinity.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "madhava_at_the_house_of_the_ilanchi_tree",
+              "figure": "Madhava of Sangamagrama",
+              "title": "Madhava at the House of the Ilanchi Tree",
+              "era": "Founding generation of the Kerala school, c. 1340-c. 1425",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Kerala School of Mathematics",
+              "chapter_part": "I. The Country of the River",
+              "chapter_order": 2,
+              "year": 1340,
+              "year_label": "1340 CE",
+              "legend": "From a small river settlement, Madhava becomes the remembered founder whose followers credit him with series that reached beyond the mathematics of his age.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "II. The Watching Eye",
+          "episodes": [
+            {
+              "id": "paramesvara_watches_fifty_five_years",
+              "figure": "Vatasseri Paramesvara",
+              "title": "Paramesvara Watches Fifty Five Years",
+              "era": "Drigganita reform and observational astronomy, c. 1393-1443",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Kerala School of Mathematics",
+              "chapter_part": "II. The Watching Eye",
+              "chapter_order": 3,
+              "year": 1393,
+              "year_label": "1393 CE",
+              "legend": "Refusing to trust old tables blindly, Paramesvara compares eclipses with the sky for decades and rebuilds computation around observation.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "nilakantha_moves_the_planets_around_the_sun",
+              "figure": "Nilakantha Somayaji",
+              "title": "Nilakantha Moves the Planets Around the Sun",
+              "era": "Tantrasangraha and revised planetary theory, 1444-c. 1544",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Kerala School of Mathematics",
+              "chapter_part": "II. The Watching Eye",
+              "chapter_order": 4,
+              "year": 1444,
+              "year_label": "1444 CE",
+              "legend": "Nilakantha keeps Earth at the center of the cosmos but lets the planets circle the Sun, creating a model mathematically close to Tycho's before Tycho.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "III. The Books of Proof",
+          "episodes": [
+            {
+              "id": "the_series_that_reached_pi",
+              "figure": "Madhava's Mathematical School",
+              "title": "The Series That Reached Pi",
+              "era": "Kerala infinite series tradition, c. 1400-1550",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Kerala School of Mathematics",
+              "chapter_part": "III. The Books of Proof",
+              "chapter_order": 5,
+              "year": 1400,
+              "year_label": "1400 CE",
+              "legend": "Kerala mathematicians express pi, sine, cosine and arctangent as endless series, then add error terms that make infinity useful.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "jyeshthadeva_writes_proofs_in_malayalam",
+              "figure": "Jyeshthadeva",
+              "title": "Jyeshthadeva Writes Proofs in Malayalam",
+              "era": "Yuktibhasa, c. 1530-1550",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Kerala School of Mathematics",
+              "chapter_part": "III. The Books of Proof",
+              "chapter_order": 6,
+              "year": 1530,
+              "year_label": "1530 CE",
+              "legend": "Jyeshthadeva turns difficult Sanskrit astronomy into Malayalam reasoning, preserving proofs of the series in a language students could follow.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "sankara_variyar_saves_the_verses",
+              "figure": "Sankara Variyar",
+              "title": "Sankara Variyar Saves the Verses",
+              "era": "Commentary culture after Tantrasangraha, c. 1500-1560",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Kerala School of Mathematics",
+              "chapter_part": "III. The Books of Proof",
+              "chapter_order": 7,
+              "year": 1500,
+              "year_label": "1500 CE",
+              "legend": "A temple-service scholar comments line by line until Madhava's most fragile verses survive inside the margins of another book.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "IV. The House and the Court",
+          "episodes": [
+            {
+              "id": "the_illam_that_remembered_everything",
+              "figure": "Kerala Scholar Households",
+              "title": "The Illam That Remembered Everything",
+              "era": "Household transmission across c. 1237-1621",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Kerala School of Mathematics",
+              "chapter_part": "IV. The House and the Court",
+              "chapter_order": 8,
+              "year": 1237,
+              "year_label": "1237 CE",
+              "legend": "Without a university building, Kerala's illams, teachers, palm leaves and memorized number-verses keep a scientific tradition alive for centuries.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "spice_ports_and_eclipse_tables",
+              "figure": "Kerala Almanac Makers and Port Kerala",
+              "title": "Spice Ports and Eclipse Tables",
+              "era": "Malabar trade and practical astronomy, c. 1340-1620",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Kerala School of Mathematics",
+              "chapter_part": "IV. The House and the Court",
+              "chapter_order": 9,
+              "year": 1340,
+              "year_label": "1340 CE",
+              "legend": "Pepper ships crowd the coast while almanac makers time eclipses, festivals and seasons, showing what accurate astronomy was worth.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "acyuta_and_melpathur_at_the_last_flowering",
+              "figure": "Acyuta Pisharati and Melpathur Narayana Bhattathiri",
+              "title": "Acyuta and Melpathur at the Last Flowering",
+              "era": "Late Kerala school and literary synthesis, c. 1550-1621 and after",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Kerala School of Mathematics",
+              "chapter_part": "IV. The House and the Court",
+              "chapter_order": 10,
+              "year": 1550,
+              "year_label": "1550 CE",
+              "legend": "Acyuta Pisharati carries the astronomical chain forward while his student Melpathur reveals how mathematics, grammar and devotion shared one learned world.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "V. Silence, Recovery, and Debate",
+          "episodes": [
+            {
+              "id": "whish_reads_the_palm_leaves",
+              "figure": "Charles Matthew Whish",
+              "title": "Whish Reads the Palm Leaves",
+              "era": "Rediscovery of Kerala series, 1825-1836",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Kerala School of Mathematics",
+              "chapter_part": "V. Silence, Recovery, and Debate",
+              "chapter_order": 11,
+              "year": 1825,
+              "year_label": "1825 CE",
+              "legend": "A young East India Company official reads palm leaves from Malabar and tells Europe that Indian texts contained infinite series it had not expected to find.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "k_v_sarma_unlocks_the_school",
+              "figure": "K V Sarma and C T Rajagopal",
+              "title": "K V Sarma Unlocks the School",
+              "era": "Modern recovery of Kerala mathematics, 1944-2008",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Kerala School of Mathematics",
+              "chapter_part": "V. Silence, Recovery, and Debate",
+              "chapter_order": 12,
+              "year": 1944,
+              "year_label": "1944 CE",
+              "legend": "After a century of neglect, Indian scholars edit manuscripts, translate proofs and give the Kerala school back to the history of mathematics.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "the_question_newton_never_answered",
+              "figure": "Kerala Transmission Debate",
+              "title": "The Question Newton Never Answered",
+              "era": "Transmission debate, 1990s-present, with roots in 1498-1834",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Kerala School of Mathematics",
+              "chapter_part": "V. Silence, Recovery, and Debate",
+              "chapter_order": 13,
+              "year": 1498,
+              "year_label": "1498 CE",
+              "legend": "Kerala's series predate Gregory, Newton and Leibniz, but the missing bridge to Europe keeps historians arguing over possibility and proof.",
               "epithets": [],
               "scenes": 0,
               "langs": [],
