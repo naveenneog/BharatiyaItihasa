@@ -1,5 +1,5 @@
 {
-  "built": 171,
+  "built": 172,
   "chapters": [
     {
       "chapter": "The Chola Empire",
@@ -4300,7 +4300,7 @@
     {
       "chapter": "The Maratha Confederacy",
       "blurb": "",
-      "built": 0,
+      "built": 1,
       "total": 13,
       "parts": [
         {
@@ -4312,18 +4312,24 @@
               "title": "Tarabai Outlasts Aurangzeb",
               "era": "Maratha resistance and regency, 1700-1708 CE",
               "series": "Ancient & Medieval India",
-              "built": false,
+              "built": true,
               "flagship": false,
               "chapter": "The Maratha Confederacy",
               "chapter_part": "I. The Kingdom Survives",
               "chapter_order": 1,
               "year": 1700,
               "year_label": "1700 CE",
-              "legend": "After Rajaram dies, Tarabai holds a mobile kingdom together and keeps Maratha resistance alive until Aurangzeb's exhausted armies fade.",
-              "epithets": [],
-              "scenes": 0,
-              "langs": [],
-              "thumb": ""
+              "legend": "The widow who outlasted Aurangzeb’s fury.",
+              "epithets": [
+                "Maharani Tarabai",
+                "Regent of the Marathas"
+              ],
+              "scenes": 21,
+              "langs": [
+                "en",
+                "hi"
+              ],
+              "thumb": "assets/tarabai_outlasts_aurangzeb/intro/hero.png"
             },
             {
               "id": "balaji_vishwanath_writes_a_new_state",
@@ -4568,6 +4574,286 @@
               "year": 1773,
               "year_label": "1773 CE",
               "legend": "After a palace murder, Nana Fadnavis builds a council, guards an infant Peshwa and keeps rival powers balanced for a generation.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "The Sikh Gurus and Ranjit Singh",
+      "blurb": "",
+      "built": 0,
+      "total": 13,
+      "parts": [
+        {
+          "part": "I. First Light",
+          "episodes": [
+            {
+              "id": "guru_nanak_and_the_river_that_spoke",
+              "figure": "Guru Nanak and Bhai Mardana",
+              "title": "Guru Nanak and the River That Spoke",
+              "era": "Founding Sikh tradition, c. 1469-1539 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Sikh Gurus and Ranjit Singh",
+              "chapter_part": "I. First Light",
+              "chapter_order": 1,
+              "year": 1469,
+              "year_label": "1469 CE",
+              "legend": "After vanishing at the Bein River, Nanak returns with a message beyond Hindu and Muslim labels and builds a singing, working community at Kartarpur.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "guru_angad_shapes_the_living_letters",
+              "figure": "Guru Angad",
+              "title": "Guru Angad Shapes the Living Letters",
+              "era": "Second Guru and early Sikh literacy, c. 1539-1552 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Sikh Gurus and Ranjit Singh",
+              "chapter_part": "I. First Light",
+              "chapter_order": 2,
+              "year": 1539,
+              "year_label": "1539 CE",
+              "legend": "Lehna becomes Angad and gives the growing community a clear script, schools and songs that ordinary Punjabi children can learn.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "guru_amar_das_builds_the_steps_of_equality",
+              "figure": "Guru Amar Das",
+              "title": "Guru Amar Das Builds the Steps of Equality",
+              "era": "Third Guru and social reform, c. 1552-1574 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Sikh Gurus and Ranjit Singh",
+              "chapter_part": "I. First Light",
+              "chapter_order": 3,
+              "year": 1552,
+              "year_label": "1552 CE",
+              "legend": "At Goindval, the old Guru builds a baoli, seats rich and poor in one langar, and teaches that women may lead and widows need not burn.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "II. The Sacred Word and the Pool",
+          "episodes": [
+            {
+              "id": "guru_ram_das_digs_the_pool_of_nectar",
+              "figure": "Guru Ram Das",
+              "title": "Guru Ram Das Digs the Pool of Nectar",
+              "era": "Founding of Ramdaspur-Amritsar, c. 1574-1581 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Sikh Gurus and Ranjit Singh",
+              "chapter_part": "II. The Sacred Word and the Pool",
+              "chapter_order": 4,
+              "year": 1574,
+              "year_label": "1574 CE",
+              "legend": "The fourth Guru turns a dusty settlement into Ramdaspur, calling merchants, artisans and pilgrims around a new pool of nectar.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "guru_arjan_gathers_the_many_voices",
+              "figure": "Guru Arjan and Bhai Gurdas",
+              "title": "Guru Arjan Gathers the Many Voices",
+              "era": "Compilation of the Adi Granth and first Sikh martyrdom, c. 1604-1606 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Sikh Gurus and Ranjit Singh",
+              "chapter_part": "II. The Sacred Word and the Pool",
+              "chapter_order": 5,
+              "year": 1604,
+              "year_label": "1604 CE",
+              "legend": "To protect the songs from forgery, Guru Arjan gathers Gurus, bhagats and Sufi voices into the Adi Granth and places it at Harmandir Sahib.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "III. Heroes Who Stood",
+          "episodes": [
+            {
+              "id": "guru_hargobind_raises_two_swords",
+              "figure": "Guru Hargobind",
+              "title": "Guru Hargobind Raises Two Swords",
+              "era": "Miri-Piri and early Sikh militarization, c. 1606-1644 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Sikh Gurus and Ranjit Singh",
+              "chapter_part": "III. Heroes Who Stood",
+              "chapter_order": 6,
+              "year": 1606,
+              "year_label": "1606 CE",
+              "legend": "After his father's death, Hargobind wears two swords for spirit and worldly duty, then raises the Akal Takht across from the shrine.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "guru_tegh_bahadur_stands_at_delhi",
+              "figure": "Guru Tegh Bahadur",
+              "title": "Guru Tegh Bahadur Stands at Delhi",
+              "era": "Ninth Guru and religious freedom, c. 1664-1675 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Sikh Gurus and Ranjit Singh",
+              "chapter_part": "III. Heroes Who Stood",
+              "chapter_order": 7,
+              "year": 1664,
+              "year_label": "1664 CE",
+              "legend": "The quiet ninth Guru faces Aurangzeb's power at Delhi, choosing death rather than letting conscience be crushed.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "guru_gobind_singh_calls_the_five",
+              "figure": "Guru Gobind Singh and the Panj Pyare",
+              "title": "Guru Gobind Singh Calls the Five",
+              "era": "Birth of the Khalsa, 1699-1708 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Sikh Gurus and Ranjit Singh",
+              "chapter_part": "III. Heroes Who Stood",
+              "chapter_order": 8,
+              "year": 1699,
+              "year_label": "1699 CE",
+              "legend": "At Vaisakhi, Guru Gobind Singh calls five volunteers from distant regions and shapes the Khalsa into a fearless community of equals.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "IV. The Sword-Born Nation",
+          "episodes": [
+            {
+              "id": "banda_bahadur_strikes_the_first_sikh_coin",
+              "figure": "Banda Singh Bahadur",
+              "title": "Banda Bahadur Strikes the First Sikh Coin",
+              "era": "First Sikh state and land reform, c. 1708-1716 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Sikh Gurus and Ranjit Singh",
+              "chapter_part": "IV. The Sword-Born Nation",
+              "chapter_order": 9,
+              "year": 1708,
+              "year_label": "1708 CE",
+              "legend": "A former hermit rides north, defeats Sirhind, gives land to tillers, and strikes coins in the Gurus' names rather than his own.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "the_sarbat_khalsa_votes_without_a_king",
+              "figure": "Jassa Singh Ahluwalia and the Dal Khalsa",
+              "title": "The Sarbat Khalsa Votes Without a King",
+              "era": "Misl confederacy and collective sovereignty, c. 1716-1799 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Sikh Gurus and Ranjit Singh",
+              "chapter_part": "IV. The Sword-Born Nation",
+              "chapter_order": 10,
+              "year": 1716,
+              "year_label": "1716 CE",
+              "legend": "After persecution scatters the Sikhs into bands, the Sarbat Khalsa gathers at Amritsar to make binding decisions without a king.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "V. The Lion's Court",
+          "episodes": [
+            {
+              "id": "ranjit_singh_enters_lahore",
+              "figure": "Maharaja Ranjit Singh",
+              "title": "Ranjit Singh Enters Lahore",
+              "era": "Unification of the Sikh Empire, c. 1799-1809 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Sikh Gurus and Ranjit Singh",
+              "chapter_part": "V. The Lion's Court",
+              "chapter_order": 11,
+              "year": 1799,
+              "year_label": "1799 CE",
+              "legend": "A young misl chief enters Lahore, becomes Maharaja, and builds a plural court where coins honor the Gurus instead of himself.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "the_army_that_learned_from_napoleon",
+              "figure": "Ranjit Singh, Allard and Ventura",
+              "title": "The Army That Learned from Napoleon",
+              "era": "Fauj-i-Khas and military modernization, c. 1822-1839 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Sikh Gurus and Ranjit Singh",
+              "chapter_part": "V. The Lion's Court",
+              "chapter_order": 12,
+              "year": 1822,
+              "year_label": "1822 CE",
+              "legend": "Ranjit Singh hires veterans of Napoleon to train infantry, artillery and cavalry, while Sikh generals guard the road to the Khyber.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "ranjit_singh_clothes_the_temple_in_gold",
+              "figure": "Maharaja Ranjit Singh",
+              "title": "Ranjit Singh Clothes the Temple in Gold",
+              "era": "Golden Temple restoration and sacred kingship, c. 1802-1839 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Sikh Gurus and Ranjit Singh",
+              "chapter_part": "V. The Lion's Court",
+              "chapter_order": 13,
+              "year": 1802,
+              "year_label": "1802 CE",
+              "legend": "After decades of rebuilding, Ranjit Singh covers Harmandir Sahib in gold and turns royal wealth into a shining offering for all pilgrims.",
               "epithets": [],
               "scenes": 0,
               "langs": [],
