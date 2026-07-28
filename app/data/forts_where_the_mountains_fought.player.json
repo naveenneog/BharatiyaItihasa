@@ -871,6 +871,134 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/forts_where_the_mountains_fought/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/forts_where_the_mountains_fought/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As Raigad climbs from raw rock, Hiroji measures every ledge, turning sheer Sahyadri cliffs into stepped ramparts of calculated defiance.",
+            "hi": "कच्ची चट्टानों के बीच रायगढ़ उठता है, हीरोजी हर ओट नापकर सह्याद्री की खड़ी दीवारों को सोच-समझकर बनी पायदानों वाली किलेबंदी में बदल देता है।"
+          },
+          "audio": {
+            "en": "assets/forts_where_the_mountains_fought/audio/action/action_auto_en.mp3",
+            "hi": "assets/forts_where_the_mountains_fought/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "dusk",
+                "t": 448.0,
+                "d": 367.0
+              },
+              {
+                "w": "deepens",
+                "t": 816.0,
+                "d": 919.0
+              },
+              {
+                "w": "Hiroji",
+                "t": 1873.0,
+                "d": 643.0
+              },
+              {
+                "w": "plots",
+                "t": 2517.0,
+                "d": 505.0
+              },
+              {
+                "w": "kill-zones",
+                "t": 3022.0,
+                "d": 826.0
+              },
+              {
+                "w": "turning",
+                "t": 4401.0,
+                "d": 506.0
+              },
+              {
+                "w": "every",
+                "t": 4908.0,
+                "d": 551.0
+              },
+              {
+                "w": "crag",
+                "t": 5459.0,
+                "d": 505.0
+              },
+              {
+                "w": "and",
+                "t": 5965.0,
+                "d": 321.0
+              },
+              {
+                "w": "contour",
+                "t": 6287.0,
+                "d": 551.0
+              },
+              {
+                "w": "into",
+                "t": 6839.0,
+                "d": 413.0
+              },
+              {
+                "w": "invisible",
+                "t": 7252.0,
+                "d": 781.0
+              },
+              {
+                "w": "walls",
+                "t": 8034.0,
+                "d": 459.0
+              },
+              {
+                "w": "for",
+                "t": 8494.0,
+                "d": 229.0
+              },
+              {
+                "w": "tomorrow's",
+                "t": 8724.0,
+                "d": 504.0
+              },
+              {
+                "w": "attackers",
+                "t": 9228.0,
+                "d": 1058.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p04",
       "art": "assets/forts_where_the_mountains_fought/img/p04.png",
       "shot": "cutaway-style wide shot of Raigad’s approach paths and gateways from above",
@@ -2203,8 +2331,8 @@
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "With a single flame, Hiroji cues hidden sally-ports to erupt, fort and night unfolding into a trap around the Mughal lines.",
-            "hi": "बस एक चिंगारी पर, हिरोजी छिपे रास्ते फाड़ देता है — किला और रात मुगल फौज पर पूरा जाल बन जाते हैं।"
+            "en": "While Mughal fires glow below, Hiroji stalks the ramparts, testing each bend and bastion where stone geometry will soon trap advancing columns.",
+            "hi": "नीचे मुग़ल आग धधक रही है, ऊपर हिरोजी किले की दीवारों पर चक्कर लगाते हुए हर मोड़ और बुर्ज परख रहा है, जहाँ पत्थर की बनावट जल्द ही बढ़ती टुकड़ियों को जकड़ लेगी।"
           },
           "audio": {
             "en": "assets/forts_where_the_mountains_fought/audio/action/action_auto2_en.mp3",
@@ -2761,8 +2889,8 @@
         {
           "img": "assets/forts_where_the_mountains_fought/split_auto/s0.png",
           "slogan": {
-            "en": "From ridge to sea, we endure",
-            "hi": "पहाड़ से सागर तक, हम अडिग"
+            "en": "Stones aligned, Swarajya stands unbroken",
+            "hi": "पत्थर संग, स्वराज्य अटल खड़ा"
           },
           "pos": "center 30%"
         },
@@ -2780,8 +2908,8 @@
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "From Sahyadri ridges to Konkan seas, Hiroji's geometry of stone reshapes war, binding hill-forts and sea-forts into one Maratha rampart.",
-            "hi": "सह्याद्री की चोटियों से कोंकण सागर तक, हिरोजी की पत्थर की जादुई नाप से युद्ध बदल गया, पहाड़ी किले और समुद्री किले मिलकर एक ही मराठा दीवार बन गए।"
+            "en": "From Raigad to the Konkan sea, Hiroji's stone lines channel storms, armies, and tides into a single, disciplined Maratha horizon.",
+            "hi": "रायगढ़ से कोंकण सागर तक, हिरोजी की पत्थर रेखाएँ तूफ़ान, फौजें और ज्वारों को एक सधे मराठा क्षितिज में बाँध देती हैं।"
           },
           "audio": {
             "en": "assets/forts_where_the_mountains_fought/audio/split/split_auto_en.mp3",
