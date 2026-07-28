@@ -77,7 +77,7 @@ def _expand_regnal(text):
 
 
 _SMART = {"\u2019": "'", "\u2018": "'", "\u201c": '"', "\u201d": '"',
-          "\u2013": "-", "\u2014": "-", "\u2026": "...", "\u00a0": " "}
+          "\u2026": "...", "\u00a0": " "}
 
 
 def _deaccent(t):
@@ -89,11 +89,94 @@ def _deaccent(t):
     return "".join(c for c in t if not unicodedata.combining(c))
 
 
+_ONES = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten",
+         "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen",
+         "eighteen", "nineteen"]
+_TENS = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"]
+
+
+def _u99(n):
+    """0..99 -> words ('sixty-nine')."""
+    if n < 20:
+        return _ONES[n]
+    t, o = divmod(n, 10)
+    return _TENS[t] + (f"-{_ONES[o]}" if o else "")
+
+
+def _year_words(y):
+    """A year read as a YEAR: 1469 -> 'fourteen sixty-nine', 1707 -> 'seventeen oh seven',
+    1800 -> 'eighteen hundred', 2000 -> 'two thousand', 2025 -> 'twenty twenty-five'."""
+    y = int(y)
+    if y < 100:
+        return _u99(y)
+    if y % 1000 == 0:
+        return f"{_ONES[y // 1000]} thousand"
+    hi, lo = divmod(y, 100)
+    if 2000 <= y <= 2009:
+        return f"two thousand {_ONES[lo]}"
+    if lo == 0:
+        return f"{_u99(hi)} hundred"
+    if lo < 10:
+        return f"{_u99(hi)} oh {_ONES[lo]}"
+    return f"{_u99(hi)} {_u99(lo)}"
+
+
+def _decade_words(y):
+    """1720s -> 'seventeen twenties', 1800s -> 'eighteen hundreds'."""
+    hi, lo = divmod(int(y), 100)
+    if lo == 0:
+        return f"{_u99(hi)} hundreds"
+    tens = _u99(lo)
+    plural = tens[:-1] + "ies" if tens.endswith("y") else tens + "s"
+    return f"{_u99(hi)} {plural}"
+
+
+_YEAR = r"(?:1\d{3}|20\d{2})"
+_RE_RANGE = re.compile(rf"\b({_YEAR})\s*[-\u2013\u2014]\s*(\d{{2,4}})\b")
+_RE_DECADE = re.compile(rf"\b({_YEAR})s\b")
+_RE_ERA = re.compile(r"\b(\d{3,4})(\s+(?:BCE|BC|CE|AD))\b")
+_RE_YEAR = re.compile(rf"\b({_YEAR})\b")
+
+
+def _range_rep(m):
+    a, b = m.group(1), m.group(2)
+    if len(b) <= 2:                       # 1520-21 -> 'fifteen twenty to twenty-one'
+        return f"{_year_words(a)} to {_u99(int(b))}"
+    return f"{_year_words(a)} to {_year_words(b)}"
+
+
+def _expand_years(text):
+    """Speak YEARS as years (not quantities): 1469 -> 'fourteen sixty-nine', 1727-1728 -> '... to ...',
+    1720s -> 'seventeen twenties', 499 CE -> 'four ninety-nine CE'. Bare quantities (700 songs, 84
+    steps, 22 manjis) are left as digits so the TTS still says them as plain numbers."""
+    t = text or ""
+    t = _RE_RANGE.sub(_range_rep, t)
+    t = _RE_DECADE.sub(lambda m: _decade_words(m.group(1)), t)
+    t = _RE_ERA.sub(lambda m: _year_words(m.group(1)) + m.group(2), t)
+    t = _RE_YEAR.sub(lambda m: _year_words(m.group(1)), t)
+    return t
+
+
+def _pause_punct(t):
+    """Turn em/en-dashes into a comma so the neural voice PAUSES there (and STT stops merging
+    'Kanheri-each'); real hyphens in names ('Mungi-Shevgaon') are left untouched."""
+    t = (t or "").replace("\u2014", ", ").replace("\u2013", ", ")
+    t = re.sub(r"\s*,(?:\s*,)+", ", ", t)     # collapse ', ,' -> ', '
+    t = re.sub(r"\s+,", ",", t)               # ' ,' -> ','
+    t = re.sub(r",\s*([.;:])", r"\1", t)      # ', .' -> '.'
+    return t
+
+
 def _norm(text, lg):
-    """Normalise a line for a given language: expand regnal numerals to words, and (English only)
-    de-accent Sanskrit/IAST diacritics so the TTS says them right. Hindi Devanagari is left intact."""
+    """Normalise a line for a given language: expand regnal numerals to words; and (English only)
+    speak years as years, add comma-pauses for em/en-dashes, and de-accent Sanskrit/IAST diacritics
+    so the TTS says them right. Hindi Devanagari is left intact."""
     text = _expand_regnal(text)
-    return _deaccent(text) if lg == "en" else text
+    if lg == "en":
+        text = _expand_years(text)
+        text = _pause_punct(text)
+        text = _deaccent(text)
+    return text
 
 
 def _token():
