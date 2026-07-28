@@ -177,6 +177,26 @@ line per panel.
 aftermath and restraint, NEVER graphic gore (the image model also forbids it): no blood, wounds, \
 or on-screen killing.
 
+NARRATIVE ARC & RETENTION (keep the listener watching \u2014 but NEVER at the cost of truth):
+- Shape the panels as a documentary arc: HOOK -> setup -> rising tension -> a real turning point -> \
+escalation -> the biggest (true) revelation or climax -> resolution -> a final, thought-provoking reflection.
+- HOOK: the COVER and first panel open with a GRIPPING, TRUE hook from the record \u2014 a real mystery, a \
+startling fact, a sharp contradiction, or an unanswered question \u2014 that makes the listener NEED to know \
+what happens. No slow throat-clearing.
+- CURIOSITY GAPS: reveal the story gradually; let panels end on a question, a stake or a small cliffhanger the \
+next panel pays off, then raise a new one. Keep a "what happens next?" thread alive throughout.
+- PATTERN INTERRUPTS: occasionally pivot the momentum ("But the record tells a different story.", "Then \
+everything changed.") \u2014 ONLY where a real, sourced turn justifies it; never manufacture drama.
+- STAKES & EMOTION: make clear what could be won or lost, and (in the close) why it still matters today; aim \
+for surprise, curiosity, suspense, awe and inspiration through the TRUE events themselves.
+- TONE: cinematic yet conversational \u2014 blend the grand sutradhaar voice with taut, modern documentary \
+pacing; short, punchy sentences; put the listener INSIDE the moment.
+- TRUTH FIRST (overrides everything above): every hook, twist, cliffhanger and revelation MUST be historically \
+accurate and sourced \u2014 do NOT invent, exaggerate or sensationalise. Where popular legend differs from the \
+evidence, make THAT the twist ("the legend says X; the evidence shows Y"), never myth-as-fact. Keep the \
+non-communal, source-critical framing. Put NO on-screen text, headlines, labels or bracketed cues in the \
+narration \u2014 the art is rendered separately.
+
 PANELS (each):
   * "id": "cover", then "p01","p02",...
   * "cast": array of character KEYS visible ([] if only scenery). The renderer feeds each cast \
@@ -189,8 +209,9 @@ motion. NO text/letters in the image.
   * "dialogue": 1-2 items of {"speaker","type","text"}: "type" is "narration" (the storyteller \
 caption; speaker=""), "speech", or "thought". PREFER narration; add at most one character line \
 where it lands hardest. narration <= 34 words; speech/thought <= 14 words. English. NO sfx.
-  * COVER: ONE "narration" line naming the figure and the age in epic voice. LAST panel: ONE \
-"narration" line on the enduring legacy/significance.
+  * COVER: ONE "narration" line that HOOKS \u2014 a true mystery, contradiction or high stake that makes the \
+listener stay \u2014 while naming the figure and the age in epic voice. LAST panel: ONE "narration" line that is \
+a powerful, thought-provoking REFLECTION reframing how we see the figure and why it still matters.
 
 Return STRICT JSON ONLY:
 {"subtitle":"<one-line epic subtitle>","panels":[ ... ]}"""
@@ -223,8 +244,10 @@ fire), emotion over vocabulary. Grand through simplicity, not big or archaic wor
 sentences where the image allows depth; never childish or slangy.
 - Character DIALOGUE is sparing, weighty, iconic and historically plausible. At most ONE per panel.
 - Faithful to the record (treat legend as legend). Adult in gravity but no graphic gore. NO sfx.
-- The COVER: one "narration" line naming the figure and age in epic voice. The LAST panel: one \
-"narration" line on the enduring legacy/significance.
+- RETENTION (truth first): open the COVER/first panel with a GRIPPING, TRUE hook (a real mystery, contradiction \
+or high stake from the record) that makes the listener stay; keep curiosity gaps and small cliffhangers alive \
+between panels; end the LAST panel with a powerful, thought-provoking REFLECTION on why it still matters. Never \
+invent or sensationalise \u2014 where legend differs from the evidence, make that contrast the twist.
 - Each panel's "dialogue": 1-2 items of {"speaker","type","text"} where type is "narration" \
 (speaker=""), "speech", or "thought". narration <= 34 words; speech/thought <= 14 words. English.
 

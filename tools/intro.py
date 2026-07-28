@@ -20,7 +20,7 @@ Return STRICT JSON only:
 {
  "epithets": ["<3-4 short REAL titles/epithets the figure is truly known by>"],
  "legend_line": "<one short, powerful line of their legend, <=12 words>",
- "hero_intro": "<1-2 simple vivid sentences introducing the hero and the stakes, <=38 words>",
+ "hero_intro": "<a GRIPPING true HOOK that makes a viewer NEED to keep watching: 1-2 simple vivid sentences \u2014 a real mystery, contradiction or high stake from the record \u2014 introducing the hero and what is at risk, <=38 words>",
  "map_label": "<the place, short, e.g. 'Jhansi & Gwalior, Bundelkhand'>",
  "map_narration": "<one simple vivid sentence placing us in this land, <=26 words>",
  "mapX": <number 0..1, west(0)->east(1) position of the place on a north-up map of India>,
