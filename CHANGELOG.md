@@ -5,6 +5,27 @@ problems. Newest first.
 
 ---
 
+## 2026-07-28 — 🪙 The Satavahanas & the Sangam Age COMPLETE (13/13) · 12 chapters · self-extend to 14th era
+
+- **The Satavahanas & the Sangam Age chapter is COMPLETE (13/13, all QA-clean):** the bridge age between
+  Maurya and Gupta, told across the Deccan *and* the Tamil south — Queen Nayanika's Naneghat inscription,
+  the Keezhadi urban excavations, Gautamiputra Satakarni's defeat of the Saka Nahapana (coins literally
+  restruck), King Hala's Prakrit *Gathasaptasati*, the Chera–Chola–Pandya "three crowns", Yajna Sri's
+  ship-coins, the Amaravati stupa's donor-sculptors, Bhutapala and the Karla chaitya, Kodumanal's
+  crucible-steel (*wootz*) iron-workers, the Muziris pepper trade with Rome, the *shreni* guild donors of
+  the cave inscriptions, Tolkappiyar's *Tolkappiyam* grammar, and Kapilar & Vel Pari of the *Purananuru*.
+  Deep **economic, scientific, social and scholarly innovation** (Indian-Ocean trade, metallurgy, donative
+  epigraphy, vernacular literature and the first Tamil grammar).
+- **Well-sourced and source-critical, using recent archaeology and epigraphy:** the Keezhadi/Vaigai finds,
+  Kodumanal crucible-steel remains, the *Periplus of the Erythraean Sea*, Pliny's complaint about Roman
+  gold draining to India, and the **Muziris Papyrus**; the guild-endowment story cites the real epigraphists
+  **Heinrich Lüders and Gregory Schopen** (religious gifts as legal contracts). The Sangam material keeps a
+  careful legend-vs-history line — Kapilar's deeds are framed as *layered colophon attributions*, and the
+  *Tolkappiyam*'s date is given as a scholarly debate (the *pulli* mark), not a fixed claim. Non-chauvinist
+  throughout: the muvendar, Buddhist cave patrons, Yavana (Greek/Roman) and Saka donors all sit in one story.
+
+---
+
 ## 2026-07-28 — 📐 The Kerala School of Mathematics COMPLETE (13/13) · 11 chapters · self-extend to 13th era
 
 - **The Kerala School of Mathematics chapter is COMPLETE (13/13, all QA-clean):** Haridatta and Govinda

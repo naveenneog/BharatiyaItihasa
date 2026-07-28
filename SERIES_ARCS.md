@@ -233,6 +233,28 @@ account of priority, proof and the transmission debate.
 12. **K.V. Sarma Unlocks the School** ✅ — the 20th-century reconstruction (Sarma, Rajagopal); "evidence over hearsay". *(scholarly — recovery)*
 13. **The Question Newton Never Answered** ✅ — the transmission debate, balanced: priority yes, proven European influence no. *(scholarly — historiography)*
 
+## 🪙 The Satavahanas & the Sangam Age  *(Ancient — c. 2nd century BCE – 3rd century CE, the Deccan & the Tamil south)*  — **✅ CHAPTER COMPLETE (13/13)**
+The bridge age between Maurya and Gupta: the Deccan's Satavahana dynasty and the Tamil **Sangam** world,
+told through **coins, inscriptions, iron, ocean trade and poetry** — deep **economic, scientific, social and
+scholarly innovation**, with recent archaeology (Keezhadi, Kodumanal, the Muziris Papyrus) and rigorous
+source-criticism.
+**Dynasty, coins & the Tamil kingdoms**
+1. **The Queen at the Coin Pass** ✅ — Queen Nayanika's Naneghat inscription; a regent-queen names the dynasty and its great sacrifices. *(social — women in power & early epigraphy)*
+2. **The Potsherds Speak at Keezhadi** ✅ — Sangam-age urban families, literacy and Tamil-Brahmi graffiti from the Vaigai excavations. *(social/archaeological — urbanism & recent finds)*
+3. **The Coin That Crushed the Sakas** ✅ — Gautamiputra Satakarni defeats Nahapana; Saka silver restruck as Satavahana sovereignty. *(political — coinage & power)*
+4. **The King Who Gathered Seven Hundred Songs** ✅ — King Hala and the Prakrit *Gathasaptasati*, an anthology of village voices. *(scholarly — vernacular literature)*
+5. **The Realm of the Three Crowns** ✅ — the Chera, Chola and Pandya houses of the Tamil country (the *muvendar*). *(political — the three crowned kings)*
+6. **The Last Standard Bearer** ✅ — Yajna Sri Satakarni's twilight reign; ship-coins and a maritime horizon. *(political/maritime)*
+**Innovation: faith, art, iron & the Indian Ocean**
+7. **The Jewel on the Krishna** ✅ — the Amaravati stupa's donors and sculptors; the great marble railing. *(art/social — Buddhist patronage)*
+8. **Most Excellent in Jambudvipa** ✅ — Bhutapala and the Karla chaitya; merchants and guilds cut faith into living rock. *(economic/religious — cave patronage)*
+9. **The Sword That Crossed the World** ✅ — Kodumanal's crucible-steel workers; South Indian *wootz* iron and Tamil-Brahmi sherds. *(scientific — metallurgy)*
+10. **The Ships Arrive Laden with Gold** ✅ — the Muziris pepper trade with Rome (the *Periplus*, Pliny, the Muziris Papyrus). *(economic — Indian-Ocean trade)*
+11. **The Name Carved Beside the Pillar** ✅ — Satavahana guild (*shreni*) donors and donative epigraphy; Lüders and Gregory Schopen read gifts as contracts. *(economic/social — endowments)*
+**The Tamil word: grammar & Sangam memory**
+12. **The 1610 Rules of a Language** ✅ — Tolkappiyar's *Tolkappiyam*: Tamil sounds, the five *tinai* landscapes, and the *pulli* dating debate. *(scholarly — linguistics)*
+13. **The Poet Who Guarded Pari's Daughters** ✅ — Kapilar and Vel Pari in the *Purananuru*; loyalty, generosity, and source-critical Sangam memory. *(scholarly/social — poetics & historiography)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
