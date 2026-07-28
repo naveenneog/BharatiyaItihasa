@@ -5,6 +5,31 @@ problems. Newest first.
 
 ---
 
+## 2026-07-28 — 🐅 The Maratha Confederacy COMPLETE (13/13) · 13 chapters · self-extend to 15th era
+
+- **The Maratha Confederacy chapter is COMPLETE (13/13, all QA-clean):** the rise of a decentralised
+  Deccan-to-Delhi power from Aurangzeb's death to the eve of British paramountcy — Tarabai's regent
+  guerrilla statecraft, Balaji Vishwanath's *chauth/sardeshmukhi* fiscal state, Bajirao I's Palkhed
+  mobile-warfare masterpiece (1728), Kanhoji Angre's navy and Chimaji Appa's 1739 capture of Portuguese
+  Vasai, the 1761 catastrophe of **Panipat**, Madhavrao I's administrative recovery, Hiroji Indulkar's
+  fort engineering (the 2025 UNESCO Maratha Military Landscapes), Sant Tukaram's Warkari *abhangas*,
+  the Paithani/Maheshwari weaving economy, Shahu I's fiscal-sovereignty, Mahadji Scindia's European-drilled
+  *campoo* brigades (de Boigne), and Nana Fadnavis's Barbhai regency and diplomacy. Deep **military,
+  economic, social, spiritual, engineering and administrative innovation**.
+- **Rigorously non-communal and source-critical — Panipat especially:** it frames the battle as a
+  **geopolitical** contest (Bhau vs Ahmad Shah Durrani with named allies Najib-ud-Daula and Shuja-ud-Daula),
+  makes **Ibrahim Khan Gardi**, the Muslim commander of the Maratha artillery, the hero's key asset, cites
+  the eyewitness **Kashi Raja** account, notes the prisoner massacre honestly, and explicitly weighs the
+  **Bakhars vs colonial vs modern** causes of defeat. The chapter humanises rivals throughout ("Asaf Jah was
+  no fool"; Mahadji-de Boigne credited to Indian officers/labour; Nana's "Machiavelli" label tested against
+  the real Peshwa Daftar records), and treats Tukaram's bhakti as **social justice** (anti-caste, inclusive of
+  the Dalit saint Chokhamela) that outlasts every dynasty.
+- **QA note:** *Forts Where the Mountains Fought* shipped one action beat short; a `grow.py --enrich` added the
+  second beat + montage but left stale audio on the re-authored beats — caught by voice-QA (LOWSIM 0.56) and
+  fixed by re-voicing the three beat clips in place (`0737c2a`).
+
+---
+
 ## 2026-07-28 — 🪙 The Satavahanas & the Sangam Age COMPLETE (13/13) · 12 chapters · self-extend to 14th era
 
 - **The Satavahanas & the Sangam Age chapter is COMPLETE (13/13, all QA-clean):** the bridge age between

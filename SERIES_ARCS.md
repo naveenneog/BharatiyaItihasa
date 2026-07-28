@@ -255,6 +255,29 @@ source-criticism.
 12. **The 1610 Rules of a Language** ✅ — Tolkappiyar's *Tolkappiyam*: Tamil sounds, the five *tinai* landscapes, and the *pulli* dating debate. *(scholarly — linguistics)*
 13. **The Poet Who Guarded Pari's Daughters** ✅ — Kapilar and Vel Pari in the *Purananuru*; loyalty, generosity, and source-critical Sangam memory. *(scholarly/social — poetics & historiography)*
 
+## 🐅 The Maratha Confederacy  *(Early modern — c. 1700–1800, the Deccan to Delhi)*  — **✅ CHAPTER COMPLETE (13/13)**
+The rise of a decentralised **Maratha Confederacy** from Aurangzeb's death to the eve of British paramountcy —
+Peshwas, admirals, engineers, saints and revenue officers building Deccan-to-Delhi power through **cavalry,
+fiscality, faith, craft and drilled brigades** — told with strict **non-communal, source-critical** framing
+(Panipat especially: Ibrahim Khan Gardi, Kashi Raja, and the Bakhars-vs-colonial-vs-modern debate).
+**Founding & the Peshwa state**
+1. **Tarabai Outlasts Aurangzeb** ✅ — a regent-queen's guerrilla statecraft keeps the Swarajya alive after Rajaram's death. *(social/political — women in power)*
+2. **Balaji Vishwanath Writes a New State** ✅ — the first hereditary Peshwa and the *chauth/sardeshmukhi* fiscal settlement (1719 Delhi treaty). *(economic — statecraft)*
+3. **Palkhed Without a Pitched Battle** ✅ — Bajirao I's 1728 mobile-warfare masterpiece against the Nizam. *(military — strategic mobility)*
+**Sea, siege & the great defeat**
+4. **Kanhoji Angre Rules the Western Seas** ✅ — the Maratha navy and Konkan sea forts; the "pirate vs admiral" debate. *(maritime/military)*
+5. **Chimaji Appa Opens Vasai's Gates** ✅ — the 1737–39 siege that took Portuguese Bassein; anti-colonial, with civilian clemency. *(military — siege engineering)*
+6. **Panipat on Makar Sankranti** ✅ — the 1761 catastrophe, told geopolitically and source-critically (Ibrahim Khan Gardi, Kashi Raja, the causes debate). *(military — historiography)*
+7. **Madhavrao Rebuilds the Broken Tent** ✅ — the teenage Peshwa's post-Panipat administrative recovery and Rakshasbhuvan (1763). *(administrative — recovery)*
+**Innovation: engineering, faith, cloth & coin**
+8. **Forts Where the Mountains Fought** ✅ — Hiroji Indulkar and Maratha fort engineering (the 2025 UNESCO Maratha Military Landscapes). *(scientific — engineering)*
+9. **Tukaram's Songs Walk to Pandharpur** ✅ — Sant Tukaram, the Warkari *abhangas* and the anti-caste bhakti of Pandharpur. *(social/spiritual — devotion & justice)*
+10. **Gold Thread in Paithan and Yeola** ✅ — the Paithani & Maheshwari weaving economy and its modern GI protection. *(economic — artisan craft)*
+11. **The Chauth That Became Sovereignty** ✅ — Shahu I and the revenue officers who turned a tax-share into rule (Modi ledgers, mints, hundis). *(economic/political — fiscal sovereignty)*
+**The late confederacy**
+12. **Mahadji Scindia Drills a New Army** ✅ — the European-drilled *campoo* brigades (Benoit de Boigne) and Indian military adaptation. *(military — innovation)*
+13. **Nana Fadnavis and the Twelve Pillars** ✅ — the Barbhai regency, diplomacy and the Treaty of Salbai (1782); the "Machiavelli" label tested against the Peshwa Daftar. *(political — diplomacy & historiography)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
