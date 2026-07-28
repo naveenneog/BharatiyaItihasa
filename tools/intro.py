@@ -28,10 +28,11 @@ Return STRICT JSON only:
 }"""
 
 MAP_PROMPT = (
-    "An antique, aged-parchment ILLUSTRATED MAP of the Indian subcontinent (India), north up, the "
-    "whole landmass filling the frame from the Himalayas at the top to the southern tip at the "
-    "bottom, coastline, hills and major rivers hand-drawn in old cartography style, warm sepia, "
-    "gold and faded-ink tones, a faint decorative compass rose in a corner, soft vignette. "
+    "An antique, aged-parchment ILLUSTRATED MAP of the Indian subcontinent (India), north up, in a "
+    "WIDE 3:2 LANDSCAPE frame: the whole landmass centred with the Himalayas across the top and the "
+    "southern tip toward the bottom, the surrounding ocean, a decorative compass rose and small "
+    "sailing ships filling the wider sides, coastline, hills and major rivers hand-drawn in old "
+    "cartography style, warm sepia, gold and faded-ink tones, soft vignette. "
     "Absolutely NO text, NO labels, NO letters or numbers anywhere. Cinematic, painterly.")
 
 HERO_PORTRAIT = (
@@ -70,7 +71,7 @@ def build_intro(eid, langs=("en",), tok=None, hero_art=None, hero_action=""):
     print("  india map", flush=True)
     mp = idir / "map.png"
     if not mp.exists():
-        tok = ai.gen_image(f"{sb.HOUSE_LOOK}\n\n{MAP_PROMPT}", mp, tok, size="1024x1536")
+        tok = ai.gen_image(f"{sb.HOUSE_LOOK}\n\n{MAP_PROMPT}", mp, tok, size="1536x1024")
 
     # Hero title art: a face-forward portrait from the model sheet (headroom for the title) so the
     # opening card reads like the co-star intro cards; fall back to the cover panel.

@@ -81,9 +81,9 @@ def render_episode(ep, tok=None, max_panels=None, force=False, co_stars=None, la
                 prompt = _panel_prompt(ep, p, entries)
                 if entries:
                     refs = [C.APP / e["sheet"] for e in entries]
-                    ai.edit_image(prompt, refs, raw, tok, size="1024x1024")
+                    ai.edit_image(prompt, refs, raw, tok, size="1536x1024")
                 else:
-                    ai.gen_image(prompt, raw, tok, size="1024x1024")
+                    ai.gen_image(prompt, raw, tok, size="1536x1024")
             except Exception as e:  # noqa: BLE001
                 print(f"    panel {pid} error: {e!r}", flush=True)
         return p, raw
