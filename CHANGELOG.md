@@ -5,6 +5,32 @@ problems. Newest first.
 
 ---
 
+## 2026-07-29 — ☬ The Sikh Gurus and Ranjit Singh COMPLETE (13/13) · 14 chapters · self-extend to 16th era
+
+- **The Sikh Gurus and Ranjit Singh chapter is COMPLETE (13/13, all QA-clean):** from Guru Nanak's
+  "one light beyond Hindu and Muslim" and the *langar* to the Sikh Empire — Guru Angad's *Gurmukhi*
+  script, Amar Das's Goindval *baoli* and women's-rights reforms, Ram Das's founding of Amritsar,
+  Arjan's compilation of the Adi Granth (and first martyrdom), Hargobind's *miri-piri* and the Akal
+  Takht, Tegh Bahadur's stand for freedom of conscience, Gobind Singh's Khalsa and the *Panj Pyare*,
+  Banda Bahadur's agrarian reform and first Sikh coin, the Sarbat Khalsa's *gurmata* democracy, and
+  Ranjit Singh's pluralist empire (the Fauj-i-Khas, the gilded Harmandir Sahib). Deep **social,
+  spiritual, scholarly, economic, political, military and artistic innovation**.
+- **Rigorously non-communal and source-critical — the martyrdoms especially:** Arjan and Tegh Bahadur
+  are framed as **political** (Jahangir's/Aurangzeb's specific policies, not "Muslims"), with the
+  Adi Granth's **inclusion of Hindu bhagats (Kabir, Namdev) and the Muslim Sufi Sheikh Farid**, Tegh
+  Bahadur's stand for "the conscience of India" / "no faith shall kneel alone", and Gobind Singh's
+  conflicts naming **both Mughals AND the Hindu hill rajas**. Executions are restrained (no gore) and
+  hedged to source ("Later Sikh tradition… court records remain silent"; Persian chroniclers "rebel"
+  vs Sikh "shield"; Bachittar Natak, Kashi-Raja-style attributions). Ranjit Singh's court (Muslim
+  Fakir Azizuddin, Hindu/Dogra/Sikh/European officers) and the Golden Temple's syncretic art ("Ram,
+  Rahim and Wahaguru share walls") make the pluralism explicit; modern scholarship (Priya Atwal) is cited.
+- **First chapter built end-to-end in the upgraded pipeline:** landscape **1536×1024** 16:9 art, the
+  **YouTube-retention** narration structure (a true hook → rising tension → twist → climax → reflective
+  close, truth-first) on stories 8–13, and years **spoken as years** ("sixteen ninety-nine"); the earlier
+  stories' year clips were re-voiced to match.
+
+---
+
 ## 2026-07-28 — 🐅 The Maratha Confederacy COMPLETE (13/13) · 13 chapters · self-extend to 15th era
 
 - **The Maratha Confederacy chapter is COMPLETE (13/13, all QA-clean):** the rise of a decentralised

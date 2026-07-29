@@ -278,6 +278,27 @@ fiscality, faith, craft and drilled brigades** — told with strict **non-commun
 12. **Mahadji Scindia Drills a New Army** ✅ — the European-drilled *campoo* brigades (Benoit de Boigne) and Indian military adaptation. *(military — innovation)*
 13. **Nana Fadnavis and the Twelve Pillars** ✅ — the Barbhai regency, diplomacy and the Treaty of Salbai (1782); the "Machiavelli" label tested against the Peshwa Daftar. *(political — diplomacy & historiography)*
 
+## ☬ The Sikh Gurus and Ranjit Singh  *(Early modern — c. 1469–1839, Punjab)*  — **✅ CHAPTER COMPLETE (13/13)**
+From Guru Nanak to the Sikh Empire: the founding of Sikhism and the rise of the Khalsa, told through
+**scripture, equality, sovereignty and craft** — with rigorous **non-communal, source-critical** framing of
+the martyrdoms (Arjan, Tegh Bahadur, the Sahibzade) and the Aurangzeb-era conflicts, and the pluralism of
+Ranjit Singh's court.
+**The Ten Gurus**
+1. **Guru Nanak and the River That Spoke** ✅ — "one light beyond Hindu and Muslim", *langar* and the Kartarpur community (with Bhai Mardana). *(spiritual/social — universalism & equality)*
+2. **Guru Angad Shapes the Living Letters** ✅ — the codification of *Gurmukhi* and the *akhara* schools. *(scholarly — linguistics & literacy)*
+3. **Guru Amar Das Builds the Steps of Equality** ✅ — the Goindval *baoli*, *langar* equality, anti-*sati* and women preachers. *(social — reform & women's rights)*
+4. **Guru Ram Das Digs the Pool of Nectar** ✅ — the founding of Amritsar and the ethic of *sewa*. *(social — city & service)*
+5. **Guru Arjan Gathers the Many Voices** ✅ — the Adi Granth (Kabir, Namdev, Sufi Farid included) and the first martyrdom. *(scholarly/spiritual — scripture)*
+6. **Guru Hargobind Raises Two Swords** ✅ — *miri-piri* and the Akal Takht as defensive justice. *(political/spiritual — sovereignty)*
+7. **Guru Tegh Bahadur Stands at Delhi** ✅ — martyrdom for freedom of conscience ("the conscience of India"). *(social — religious liberty)*
+8. **Guru Gobind Singh Calls the Five** ✅ — the Khalsa, the *Panj Pyare*, and the eternal Guru Granth. *(spiritual/social — the Khalsa)*
+**Sovereignty & the Khalsa Raj**
+9. **Banda Bahadur Strikes the First Sikh Coin** ✅ — agrarian reform (land to the tillers) and the first Sikh coinage. *(social/economic — land & sovereignty)*
+10. **The Sarbat Khalsa Votes Without a King** ✅ — the *gurmata* assembly and the *misl* confederacy ("rule without a throne"). *(political — governance innovation)*
+11. **Ranjit Singh Enters Lahore** ✅ — the pluralist Sikh Empire, ruled in the Gurus' name (Fakir Azizuddin). *(political — empire & pluralism)*
+12. **The Army That Learned from Napoleon** ✅ — the Fauj-i-Khas and European drill Indianised (Allard, Ventura). *(military — adaptation)*
+13. **Ranjit Singh Clothes the Temple in Gold** ✅ — the gilded Harmandir Sahib and its syncretic art ("Ram, Rahim and Wahaguru"). *(artistic/social — patronage)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
