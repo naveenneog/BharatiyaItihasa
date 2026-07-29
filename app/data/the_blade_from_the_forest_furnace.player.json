@@ -1,0 +1,3722 @@
+{
+  "id": "the_blade_from_the_forest_furnace",
+  "title": "The Blade from the Forest Furnace",
+  "title_i18n": {
+    "en": "The Blade from the Forest Furnace",
+    "hi": "जंगल की भट्टी की धार"
+  },
+  "figure": "Kodumanal wootz ironworkers",
+  "era": "Crucible steel and Indian Ocean trade, c. 500 BCE-300 CE",
+  "moral": "Great inventions may travel farther than their makers' names.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_blade_from_the_forest_furnace/intro/hero.png",
+      "name": "Kodumanal Wootz Ironworker",
+      "epithets": [
+        "Makers of Wootz Steel",
+        "Smiths of Kodumanal",
+        "Forgers of the Singing Blade",
+        "Masters of Crucible Iron"
+      ],
+      "legend": "Their hidden furnaces forged steel that empires begged to buy.",
+      "era": "Crucible steel and Indian Ocean trade, c. 500 BCE-300 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In forest kilns, nameless workers lock iron in clay and fire. Far away, kings pay in gold and silk for blades whose makers no trader can name.",
+            "hi": "जंगल की भट्टियों में गुमनाम मज़दूर मिट्टी और आग में लोहे को बाँधते हैं। दूर के राजाओं से सोना-रेशम लेकर तलवारें बिकती हैं, जिनके कारीगरों के नाम कोई सौदागर नहीं जानता।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/intro/hero_en.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 72.0,
+                "d": 166.0
+              },
+              {
+                "w": "forest",
+                "t": 239.0,
+                "d": 458.0
+              },
+              {
+                "w": "kilns",
+                "t": 697.0,
+                "d": 583.0
+              },
+              {
+                "w": "nameless",
+                "t": 1364.0,
+                "d": 541.0
+              },
+              {
+                "w": "workers",
+                "t": 1906.0,
+                "d": 498.0
+              },
+              {
+                "w": "lock",
+                "t": 2405.0,
+                "d": 376.0
+              },
+              {
+                "w": "iron",
+                "t": 2781.0,
+                "d": 375.0
+              },
+              {
+                "w": "in",
+                "t": 3156.0,
+                "d": 166.0
+              },
+              {
+                "w": "clay",
+                "t": 3322.0,
+                "d": 333.0
+              },
+              {
+                "w": "and",
+                "t": 3656.0,
+                "d": 250.0
+              },
+              {
+                "w": "fire",
+                "t": 3906.0,
+                "d": 375.0
+              },
+              {
+                "w": "Far",
+                "t": 4281.0,
+                "d": 208.0
+              },
+              {
+                "w": "away",
+                "t": 5114.0,
+                "d": 875.0
+              },
+              {
+                "w": "kings",
+                "t": 6239.0,
+                "d": 375.0
+              },
+              {
+                "w": "pay",
+                "t": 6614.0,
+                "d": 208.0
+              },
+              {
+                "w": "in",
+                "t": 6822.0,
+                "d": 208.0
+              },
+              {
+                "w": "gold",
+                "t": 7031.0,
+                "d": 375.0
+              },
+              {
+                "w": "and",
+                "t": 7406.0,
+                "d": 250.0
+              },
+              {
+                "w": "silk",
+                "t": 7656.0,
+                "d": 291.0
+              },
+              {
+                "w": "for",
+                "t": 7947.0,
+                "d": 250.0
+              },
+              {
+                "w": "blades",
+                "t": 8197.0,
+                "d": 540.0
+              },
+              {
+                "w": "whose",
+                "t": 8781.0,
+                "d": 333.0
+              },
+              {
+                "w": "makers",
+                "t": 9114.0,
+                "d": 458.0
+              },
+              {
+                "w": "no",
+                "t": 9572.0,
+                "d": 250.0
+              },
+              {
+                "w": "trader",
+                "t": 9822.0,
+                "d": 416.0
+              },
+              {
+                "w": "can",
+                "t": 10239.0,
+                "d": 208.0
+              },
+              {
+                "w": "name",
+                "t": 10447.0,
+                "d": 500.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_blade_from_the_forest_furnace/intro/map.png",
+      "x": 0.68,
+      "y": 0.71,
+      "label": "Kodumanal, Kongu Nadu, Tamil Nadu",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In scrub forest and red earth fields, clay crucibles glow, turning quiet village nights into the birthplace of world‐famous steel.",
+            "hi": "झाड़ीदार जंगलों और लाल मिट्टी के खेतों में, मिट्टी के कुंड चमकते हैं, साधारण गाँव की रातों को दुनिया मशहूर इस्पात की जननी बना देते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/intro/map_en.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "scrub",
+                "t": 310.0,
+                "d": 367.0
+              },
+              {
+                "w": "forest",
+                "t": 678.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 1229.0,
+                "d": 275.0
+              },
+              {
+                "w": "red",
+                "t": 1505.0,
+                "d": 229.0
+              },
+              {
+                "w": "earth",
+                "t": 1735.0,
+                "d": 229.0
+              },
+              {
+                "w": "fields",
+                "t": 1965.0,
+                "d": 826.0
+              },
+              {
+                "w": "clay",
+                "t": 3068.0,
+                "d": 320.0
+              },
+              {
+                "w": "crucibles",
+                "t": 3389.0,
+                "d": 644.0
+              },
+              {
+                "w": "glow",
+                "t": 4034.0,
+                "d": 735.0
+              },
+              {
+                "w": "turning",
+                "t": 5045.0,
+                "d": 459.0
+              },
+              {
+                "w": "quiet",
+                "t": 5505.0,
+                "d": 413.0
+              },
+              {
+                "w": "village",
+                "t": 5919.0,
+                "d": 413.0
+              },
+              {
+                "w": "nights",
+                "t": 6333.0,
+                "d": 413.0
+              },
+              {
+                "w": "into",
+                "t": 6747.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 6977.0,
+                "d": 183.0
+              },
+              {
+                "w": "birthplace",
+                "t": 7160.0,
+                "d": 781.0
+              },
+              {
+                "w": "of",
+                "t": 7942.0,
+                "d": 321.0
+              },
+              {
+                "w": "world‐famous",
+                "t": 8264.0,
+                "d": 873.0
+              },
+              {
+                "w": "steel",
+                "t": 9137.0,
+                "d": 459.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_blade_from_the_forest_furnace/img/cover.png",
+      "shot": "epic wide of a forest clearing furnace at dusk, with glowing crucibles and a lone smith silhouetted against the fire",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In a forest called Kodumanal, nameless smelters sealed fire in clay, and their steel crossed deserts and seas while their own names vanished in the smoke.",
+            "hi": "कोडुमनाल नाम के जंगल में, अनजान धातुकारों ने मिट्टी में आग बंद की, उनका इस्पात रेगिस्तान पार कर समंदरों से गया, मगर उनके नाम धुएँ में खो गए।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/cover_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 183.0
+              },
+              {
+                "w": "a",
+                "t": 264.0,
+                "d": 91.0
+              },
+              {
+                "w": "forest",
+                "t": 356.0,
+                "d": 459.0
+              },
+              {
+                "w": "called",
+                "t": 816.0,
+                "d": 321.0
+              },
+              {
+                "w": "Kodumanal",
+                "t": 1137.0,
+                "d": 1011.0
+              },
+              {
+                "w": "nameless",
+                "t": 2517.0,
+                "d": 551.0
+              },
+              {
+                "w": "smelters",
+                "t": 3068.0,
+                "d": 597.0
+              },
+              {
+                "w": "sealed",
+                "t": 3666.0,
+                "d": 643.0
+              },
+              {
+                "w": "fire",
+                "t": 4310.0,
+                "d": 459.0
+              },
+              {
+                "w": "in",
+                "t": 4770.0,
+                "d": 183.0
+              },
+              {
+                "w": "clay",
+                "t": 4954.0,
+                "d": 781.0
+              },
+              {
+                "w": "and",
+                "t": 5873.0,
+                "d": 321.0
+              },
+              {
+                "w": "their",
+                "t": 6195.0,
+                "d": 229.0
+              },
+              {
+                "w": "steel",
+                "t": 6425.0,
+                "d": 413.0
+              },
+              {
+                "w": "crossed",
+                "t": 6839.0,
+                "d": 459.0
+              },
+              {
+                "w": "deserts",
+                "t": 7298.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 7850.0,
+                "d": 275.0
+              },
+              {
+                "w": "seas",
+                "t": 8126.0,
+                "d": 689.0
+              },
+              {
+                "w": "while",
+                "t": 9091.0,
+                "d": 320.0
+              },
+              {
+                "w": "their",
+                "t": 9412.0,
+                "d": 229.0
+              },
+              {
+                "w": "own",
+                "t": 9642.0,
+                "d": 231.0
+              },
+              {
+                "w": "names",
+                "t": 9873.0,
+                "d": 459.0
+              },
+              {
+                "w": "vanished",
+                "t": 10333.0,
+                "d": 689.0
+              },
+              {
+                "w": "in",
+                "t": 11067.0,
+                "d": 139.0
+              },
+              {
+                "w": "the",
+                "t": 11206.0,
+                "d": 137.0
+              },
+              {
+                "w": "smoke",
+                "t": 11344.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p01.png",
+      "shot": "slow push-in from aerial view down to clustered furnaces beside a river",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Centuries before the Common Era, on the banks of the Noyyal in Tamil Nadu, Kodumanal hummed with hidden industry, furnaces, slag heaps, broken crucibles buried beneath the forest floor.",
+            "hi": "सामान्य युग से सदियों पहले, तमिलनाडु में नोय्याल किनारे, कोडुमनाल में गुप्त कारखाने गूँजते थे—भट्टियाँ, भस्म के टीले, टूटे क्रूसिबल जंगल की जमीन के नीचे दबे।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p01_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Centuries",
+                "t": 159.0,
+                "d": 680.0
+              },
+              {
+                "w": "before",
+                "t": 840.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 1138.0,
+                "d": 127.0
+              },
+              {
+                "w": "Common",
+                "t": 1265.0,
+                "d": 425.0
+              },
+              {
+                "w": "Era",
+                "t": 1691.0,
+                "d": 510.0
+              },
+              {
+                "w": "on",
+                "t": 2372.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 2584.0,
+                "d": 128.0
+              },
+              {
+                "w": "banks",
+                "t": 2712.0,
+                "d": 381.0
+              },
+              {
+                "w": "of",
+                "t": 3094.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 3179.0,
+                "d": 128.0
+              },
+              {
+                "w": "Noyyal",
+                "t": 3308.0,
+                "d": 339.0
+              },
+              {
+                "w": "in",
+                "t": 3647.0,
+                "d": 128.0
+              },
+              {
+                "w": "Tamil",
+                "t": 3776.0,
+                "d": 339.0
+              },
+              {
+                "w": "Nadu",
+                "t": 4115.0,
+                "d": 596.0
+              },
+              {
+                "w": "Kodumanal",
+                "t": 4882.0,
+                "d": 553.0
+              },
+              {
+                "w": "hummed",
+                "t": 5436.0,
+                "d": 340.0
+              },
+              {
+                "w": "with",
+                "t": 5776.0,
+                "d": 212.0
+              },
+              {
+                "w": "hidden",
+                "t": 5989.0,
+                "d": 340.0
+              },
+              {
+                "w": "industry",
+                "t": 6329.0,
+                "d": 765.0
+              },
+              {
+                "w": "furnaces",
+                "t": 7095.0,
+                "d": 808.0
+              },
+              {
+                "w": "slag",
+                "t": 7904.0,
+                "d": 679.0
+              },
+              {
+                "w": "heaps",
+                "t": 8584.0,
+                "d": 724.0
+              },
+              {
+                "w": "broken",
+                "t": 9351.0,
+                "d": 552.0
+              },
+              {
+                "w": "crucibles",
+                "t": 9903.0,
+                "d": 681.0
+              },
+              {
+                "w": "buried",
+                "t": 10585.0,
+                "d": 425.0
+              },
+              {
+                "w": "beneath",
+                "t": 11010.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 11351.0,
+                "d": 170.0
+              },
+              {
+                "w": "forest",
+                "t": 11521.0,
+                "d": 424.0
+              },
+              {
+                "w": "floor",
+                "t": 11945.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p02.png",
+      "shot": "archaeological macro shot, ground-level, half-buried crucible shards and slag with ghosted overlay of the worker",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today, archaeologists sift Kodumanal's soil: shards of thick clay crucibles, compact slag, traces of carbon-rich steel. The men who made them left no inscriptions with their names.",
+            "hi": "आज पुरातत्वविद कोडुमनाल की मिट्टी छनते हैं: मोटे मिट्टी के क्रूसिबल के टुकड़े, सघन भस्म, कार्बन-भरे इस्पात के निशान। जिन्होंने ये बनाया, वे अपने नाम की कोई लिखावट नहीं छोड़ गए।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p02_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "archaeologists",
+                "t": 755.0,
+                "d": 1063.0
+              },
+              {
+                "w": "sift",
+                "t": 1861.0,
+                "d": 468.0
+              },
+              {
+                "w": "Kodumanal's",
+                "t": 2329.0,
+                "d": 637.0
+              },
+              {
+                "w": "soil",
+                "t": 2967.0,
+                "d": 384.0
+              },
+              {
+                "w": "shards",
+                "t": 4073.0,
+                "d": 554.0
+              },
+              {
+                "w": "of",
+                "t": 4627.0,
+                "d": 212.0
+              },
+              {
+                "w": "thick",
+                "t": 4840.0,
+                "d": 255.0
+              },
+              {
+                "w": "clay",
+                "t": 5095.0,
+                "d": 297.0
+              },
+              {
+                "w": "crucibles",
+                "t": 5393.0,
+                "d": 851.0
+              },
+              {
+                "w": "compact",
+                "t": 6372.0,
+                "d": 553.0
+              },
+              {
+                "w": "slag",
+                "t": 6925.0,
+                "d": 723.0
+              },
+              {
+                "w": "traces",
+                "t": 7691.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 8159.0,
+                "d": 127.0
+              },
+              {
+                "w": "carbon-rich",
+                "t": 8287.0,
+                "d": 552.0
+              },
+              {
+                "w": "steel",
+                "t": 8839.0,
+                "d": 511.0
+              },
+              {
+                "w": "The",
+                "t": 10073.0,
+                "d": 255.0
+              },
+              {
+                "w": "men",
+                "t": 10328.0,
+                "d": 213.0
+              },
+              {
+                "w": "who",
+                "t": 10542.0,
+                "d": 169.0
+              },
+              {
+                "w": "made",
+                "t": 10711.0,
+                "d": 255.0
+              },
+              {
+                "w": "them",
+                "t": 10967.0,
+                "d": 213.0
+              },
+              {
+                "w": "left",
+                "t": 11180.0,
+                "d": 382.0
+              },
+              {
+                "w": "no",
+                "t": 11563.0,
+                "d": 340.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 11904.0,
+                "d": 680.0
+              },
+              {
+                "w": "with",
+                "t": 12585.0,
+                "d": 170.0
+              },
+              {
+                "w": "their",
+                "t": 12755.0,
+                "d": 212.0
+              },
+              {
+                "w": "names",
+                "t": 12968.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p03.png",
+      "shot": "intimate mid-shot inside a workshop, focusing on tools and ore",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "They were not philosophers or kings. They were smelters, hammer-men, crucible makers. Their world was ore, charcoal, clay, and the temper of metal under the hammer.",
+            "hi": "वे न दार्शनिक थे न राजा। वे गलाने वाले, हथौड़ा चलाने वाले, क्रूसिबल बनाने वाले थे। उनकी दुनिया थी अयस्क, कोयला, मिट्टी और हथौड़े के नीचे धातु का मिज़ाज।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p03_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "They",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "were",
+                "t": 287.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 457.0,
+                "d": 212.0
+              },
+              {
+                "w": "philosophers",
+                "t": 670.0,
+                "d": 808.0
+              },
+              {
+                "w": "or",
+                "t": 1521.0,
+                "d": 255.0
+              },
+              {
+                "w": "kings",
+                "t": 1776.0,
+                "d": 764.0
+              },
+              {
+                "w": "They",
+                "t": 2797.0,
+                "d": 296.0
+              },
+              {
+                "w": "were",
+                "t": 3094.0,
+                "d": 171.0
+              },
+              {
+                "w": "smelters",
+                "t": 3265.0,
+                "d": 807.0
+              },
+              {
+                "w": "hammer-men",
+                "t": 4158.0,
+                "d": 809.0
+              },
+              {
+                "w": "crucible",
+                "t": 5138.0,
+                "d": 553.0
+              },
+              {
+                "w": "makers",
+                "t": 5691.0,
+                "d": 765.0
+              },
+              {
+                "w": "Their",
+                "t": 7053.0,
+                "d": 297.0
+              },
+              {
+                "w": "world",
+                "t": 7351.0,
+                "d": 297.0
+              },
+              {
+                "w": "was",
+                "t": 7648.0,
+                "d": 255.0
+              },
+              {
+                "w": "ore",
+                "t": 7904.0,
+                "d": 553.0
+              },
+              {
+                "w": "charcoal",
+                "t": 8669.0,
+                "d": 937.0
+              },
+              {
+                "w": "clay",
+                "t": 9606.0,
+                "d": 637.0
+              },
+              {
+                "w": "and",
+                "t": 10328.0,
+                "d": 298.0
+              },
+              {
+                "w": "the",
+                "t": 10627.0,
+                "d": 127.0
+              },
+              {
+                "w": "temper",
+                "t": 10755.0,
+                "d": 296.0
+              },
+              {
+                "w": "of",
+                "t": 11052.0,
+                "d": 170.0
+              },
+              {
+                "w": "metal",
+                "t": 11222.0,
+                "d": 384.0
+              },
+              {
+                "w": "under",
+                "t": 11606.0,
+                "d": 254.0
+              },
+              {
+                "w": "the",
+                "t": 11860.0,
+                "d": 170.0
+              },
+              {
+                "w": "hammer",
+                "t": 12030.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_blade_from_the_forest_furnace/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_blade_from_the_forest_furnace/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Each crucible is a wager of skill and patience, the forest and river holding their breath for flawless steel.",
+            "hi": "हर भट्टी हुनर और सब्र की बाज़ी है, जंगल‑नदी साँस रोके खड़ी हैं बेदाग़ लोहा देखने को।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Each",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "crucible",
+                "t": 448.0,
+                "d": 735.0
+              },
+              {
+                "w": "is",
+                "t": 1183.0,
+                "d": 183.0
+              },
+              {
+                "w": "a",
+                "t": 1367.0,
+                "d": 91.0
+              },
+              {
+                "w": "wager",
+                "t": 1459.0,
+                "d": 459.0
+              },
+              {
+                "w": "of",
+                "t": 1919.0,
+                "d": 137.0
+              },
+              {
+                "w": "skill",
+                "t": 2057.0,
+                "d": 321.0
+              },
+              {
+                "w": "and",
+                "t": 2379.0,
+                "d": 137.0
+              },
+              {
+                "w": "patience",
+                "t": 2517.0,
+                "d": 597.0
+              },
+              {
+                "w": "the",
+                "t": 3849.0,
+                "d": 277.0
+              },
+              {
+                "w": "forest",
+                "t": 4126.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 4724.0,
+                "d": 321.0
+              },
+              {
+                "w": "river",
+                "t": 5045.0,
+                "d": 321.0
+              },
+              {
+                "w": "holding",
+                "t": 5367.0,
+                "d": 413.0
+              },
+              {
+                "w": "their",
+                "t": 5781.0,
+                "d": 229.0
+              },
+              {
+                "w": "breath",
+                "t": 6011.0,
+                "d": 275.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p04.png",
+      "shot": "close-up of hands filling and sealing a crucible",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "South Indian and Sri Lankan ironworkers learned a demanding craft: pack iron and carbon into clay, seal it tight, and let slow, fierce heat transform it into high-carbon crucible steel.",
+            "hi": "दक्षिण भारतीय और श्रीलंकाई लोहकारों ने कठिन हुनर सीखा: लोहे और कार्बन को मिट्टी में भरना, कसकर सील करना, और धीमी, तीखी आँच में उसे उच्च कार्बन क्रूसिबल इस्पात में बदलना।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p04_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "South",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "Indian",
+                "t": 457.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 797.0,
+                "d": 297.0
+              },
+              {
+                "w": "Sri",
+                "t": 1095.0,
+                "d": 170.0
+              },
+              {
+                "w": "Lankan",
+                "t": 1265.0,
+                "d": 425.0
+              },
+              {
+                "w": "ironworkers",
+                "t": 1691.0,
+                "d": 850.0
+              },
+              {
+                "w": "learned",
+                "t": 2541.0,
+                "d": 425.0
+              },
+              {
+                "w": "a",
+                "t": 2967.0,
+                "d": 127.0
+              },
+              {
+                "w": "demanding",
+                "t": 3094.0,
+                "d": 595.0
+              },
+              {
+                "w": "craft",
+                "t": 3690.0,
+                "d": 596.0
+              },
+              {
+                "w": "pack",
+                "t": 4840.0,
+                "d": 297.0
+              },
+              {
+                "w": "iron",
+                "t": 5138.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 5478.0,
+                "d": 255.0
+              },
+              {
+                "w": "carbon",
+                "t": 5734.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 6117.0,
+                "d": 297.0
+              },
+              {
+                "w": "clay",
+                "t": 6414.0,
+                "d": 595.0
+              },
+              {
+                "w": "seal",
+                "t": 7095.0,
+                "d": 425.0
+              },
+              {
+                "w": "it",
+                "t": 7521.0,
+                "d": 85.0
+              },
+              {
+                "w": "tight",
+                "t": 7606.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 8202.0,
+                "d": 381.0
+              },
+              {
+                "w": "let",
+                "t": 8584.0,
+                "d": 213.0
+              },
+              {
+                "w": "slow",
+                "t": 8797.0,
+                "d": 723.0
+              },
+              {
+                "w": "fierce",
+                "t": 9563.0,
+                "d": 509.0
+              },
+              {
+                "w": "heat",
+                "t": 10073.0,
+                "d": 298.0
+              },
+              {
+                "w": "transform",
+                "t": 10372.0,
+                "d": 594.0
+              },
+              {
+                "w": "it",
+                "t": 10967.0,
+                "d": 128.0
+              },
+              {
+                "w": "into",
+                "t": 11095.0,
+                "d": 296.0
+              },
+              {
+                "w": "high-carbon",
+                "t": 11392.0,
+                "d": 638.0
+              },
+              {
+                "w": "crucible",
+                "t": 12030.0,
+                "d": 554.0
+              },
+              {
+                "w": "steel",
+                "t": 12585.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p05.png",
+      "shot": "low-angle shot of furnace face with crucibles glowing inside",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In these sealed crucibles, iron absorbed just enough carbon to harden, yet stay tough. It was not the only steel in the ancient world, but it was among the finest of its kind.",
+            "hi": "इन बंद क्रूसिबल में लोहे ने बस उतना कार्बन सोखा कि सख्त हो जाए, पर मजबूत भी रहे। यह प्राचीन दुनिया का इकलौता इस्पात नहीं था—पर अपने तरह के बेहतरीन में था।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p05_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "these",
+                "t": 287.0,
+                "d": 212.0
+              },
+              {
+                "w": "sealed",
+                "t": 500.0,
+                "d": 340.0
+              },
+              {
+                "w": "crucibles",
+                "t": 840.0,
+                "d": 851.0
+              },
+              {
+                "w": "iron",
+                "t": 2031.0,
+                "d": 382.0
+              },
+              {
+                "w": "absorbed",
+                "t": 2414.0,
+                "d": 594.0
+              },
+              {
+                "w": "just",
+                "t": 3009.0,
+                "d": 384.0
+              },
+              {
+                "w": "enough",
+                "t": 3393.0,
+                "d": 296.0
+              },
+              {
+                "w": "carbon",
+                "t": 3690.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 4073.0,
+                "d": 170.0
+              },
+              {
+                "w": "harden",
+                "t": 4243.0,
+                "d": 724.0
+              },
+              {
+                "w": "yet",
+                "t": 5095.0,
+                "d": 297.0
+              },
+              {
+                "w": "stay",
+                "t": 5393.0,
+                "d": 382.0
+              },
+              {
+                "w": "tough",
+                "t": 5776.0,
+                "d": 510.0
+              },
+              {
+                "w": "It",
+                "t": 7138.0,
+                "d": 212.0
+              },
+              {
+                "w": "was",
+                "t": 7351.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 7563.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 7776.0,
+                "d": 212.0
+              },
+              {
+                "w": "only",
+                "t": 7989.0,
+                "d": 340.0
+              },
+              {
+                "w": "steel",
+                "t": 8329.0,
+                "d": 381.0
+              },
+              {
+                "w": "in",
+                "t": 8711.0,
+                "d": 86.0
+              },
+              {
+                "w": "the",
+                "t": 8797.0,
+                "d": 211.0
+              },
+              {
+                "w": "ancient",
+                "t": 9009.0,
+                "d": 426.0
+              },
+              {
+                "w": "world",
+                "t": 9436.0,
+                "d": 807.0
+              },
+              {
+                "w": "but",
+                "t": 10328.0,
+                "d": 468.0
+              },
+              {
+                "w": "it",
+                "t": 10840.0,
+                "d": 126.0
+              },
+              {
+                "w": "was",
+                "t": 10967.0,
+                "d": 170.0
+              },
+              {
+                "w": "among",
+                "t": 11137.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 11392.0,
+                "d": 128.0
+              },
+              {
+                "w": "finest",
+                "t": 11521.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 11989.0,
+                "d": 126.0
+              },
+              {
+                "w": "its",
+                "t": 12115.0,
+                "d": 128.0
+              },
+              {
+                "w": "kind",
+                "t": 12244.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p06.png",
+      "shot": "dramatic mid-shot, worker listening to furnace, night sky above",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Too long, and it shatters. Too little, and it dulls. Listen to the fire.",
+            "hi": "ज्यादा पकाओ तो टूटेगा। कम पकाओ तो कुंद होगा। आग की आवाज़ सुनो।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p06_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Too",
+                "t": 49.0,
+                "d": 134.8
+              },
+              {
+                "w": "long",
+                "t": 232.8,
+                "d": 416.7
+              },
+              {
+                "w": "and",
+                "t": 845.6,
+                "d": 220.6
+              },
+              {
+                "w": "it",
+                "t": 1066.2,
+                "d": 122.5
+              },
+              {
+                "w": "shatters",
+                "t": 1188.7,
+                "d": 612.8
+              },
+              {
+                "w": "Too",
+                "t": 2659.3,
+                "d": 147.0
+              },
+              {
+                "w": "little",
+                "t": 2855.4,
+                "d": 428.9
+              },
+              {
+                "w": "and",
+                "t": 3504.9,
+                "d": 220.6
+              },
+              {
+                "w": "it",
+                "t": 3725.5,
+                "d": 134.8
+              },
+              {
+                "w": "dulls",
+                "t": 3860.3,
+                "d": 478.0
+              },
+              {
+                "w": "Listen",
+                "t": 5183.8,
+                "d": 404.4
+              },
+              {
+                "w": "to",
+                "t": 5588.2,
+                "d": 98.0
+              },
+              {
+                "w": "the",
+                "t": 5686.3,
+                "d": 134.8
+              },
+              {
+                "w": "fire",
+                "t": 5821.1,
+                "d": 453.4
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p07.png",
+      "shot": "close-up of crucible being cracked open, revealing ingot",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From the broken clay emerged small, dense cakes of steel. These were not finished swords, but the raw promise of blades that could flex, bite, and hold an edge far away from Kodumanal.",
+            "hi": "टूटी मिट्टी से निकले छोटे, भरे हुए इस्पात के गोले। ये बनी हुई तलवारें नहीं थे, पर उन धारों का वादा थे जो दूर कहीं झुकें, काटें और धार थामे रहेंगी—कोडुमनाल से बहुत दूर।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p07_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 120.0
+              },
+              {
+                "w": "broken",
+                "t": 430.0,
+                "d": 440.0
+              },
+              {
+                "w": "clay",
+                "t": 870.0,
+                "d": 320.0
+              },
+              {
+                "w": "emerged",
+                "t": 1190.0,
+                "d": 560.0
+              },
+              {
+                "w": "small",
+                "t": 1750.0,
+                "d": 840.0
+              },
+              {
+                "w": "dense",
+                "t": 2670.0,
+                "d": 520.0
+              },
+              {
+                "w": "cakes",
+                "t": 3190.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 3510.0,
+                "d": 120.0
+              },
+              {
+                "w": "steel",
+                "t": 3630.0,
+                "d": 400.0
+              },
+              {
+                "w": "These",
+                "t": 4910.0,
+                "d": 400.0
+              },
+              {
+                "w": "were",
+                "t": 5310.0,
+                "d": 160.0
+              },
+              {
+                "w": "not",
+                "t": 5470.0,
+                "d": 240.0
+              },
+              {
+                "w": "finished",
+                "t": 5710.0,
+                "d": 400.0
+              },
+              {
+                "w": "swords",
+                "t": 6110.0,
+                "d": 600.0
+              },
+              {
+                "w": "but",
+                "t": 7030.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 7270.0,
+                "d": 120.0
+              },
+              {
+                "w": "raw",
+                "t": 7390.0,
+                "d": 200.0
+              },
+              {
+                "w": "promise",
+                "t": 7590.0,
+                "d": 439.0
+              },
+              {
+                "w": "of",
+                "t": 8029.0,
+                "d": 160.0
+              },
+              {
+                "w": "blades",
+                "t": 8189.0,
+                "d": 440.0
+              },
+              {
+                "w": "that",
+                "t": 8629.0,
+                "d": 201.0
+              },
+              {
+                "w": "could",
+                "t": 8830.0,
+                "d": 200.0
+              },
+              {
+                "w": "flex",
+                "t": 9030.0,
+                "d": 599.0
+              },
+              {
+                "w": "bite",
+                "t": 9790.0,
+                "d": 759.0
+              },
+              {
+                "w": "and",
+                "t": 10709.0,
+                "d": 281.0
+              },
+              {
+                "w": "hold",
+                "t": 10990.0,
+                "d": 280.0
+              },
+              {
+                "w": "an",
+                "t": 11270.0,
+                "d": 119.0
+              },
+              {
+                "w": "edge",
+                "t": 11389.0,
+                "d": 441.0
+              },
+              {
+                "w": "far",
+                "t": 11830.0,
+                "d": 319.0
+              },
+              {
+                "w": "away",
+                "t": 12149.0,
+                "d": 320.0
+              },
+              {
+                "w": "from",
+                "t": 12469.0,
+                "d": 321.0
+              },
+              {
+                "w": "Kodumanal",
+                "t": 12790.0,
+                "d": 720.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p08.png",
+      "shot": "wide shot of work-yard with traders loading goods",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Excavations show more than furnaces: beads, ceramics, traces of long-distance trade. Steel ingots joined other goods, carried from this inland settlement towards larger emporia on the coast.",
+            "hi": "खुदाइयों में सिर्फ भट्टियाँ नहीं मिलतीं: मनके, बरतन, दूर-दराज़ के व्यापार के निशान। इस्पात की सिल्लियाँ और सामान जुड़कर इस भीतर बसे गाँव से तट के बड़े बाज़ारों तक चल पड़ते थे।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p08_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Excavations",
+                "t": 74.0,
+                "d": 808.0
+              },
+              {
+                "w": "show",
+                "t": 882.0,
+                "d": 212.0
+              },
+              {
+                "w": "more",
+                "t": 1095.0,
+                "d": 255.0
+              },
+              {
+                "w": "than",
+                "t": 1351.0,
+                "d": 212.0
+              },
+              {
+                "w": "furnaces",
+                "t": 1563.0,
+                "d": 892.0
+              },
+              {
+                "w": "beads",
+                "t": 2626.0,
+                "d": 893.0
+              },
+              {
+                "w": "ceramics",
+                "t": 3520.0,
+                "d": 809.0
+              },
+              {
+                "w": "traces",
+                "t": 4457.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 4925.0,
+                "d": 170.0
+              },
+              {
+                "w": "long-distance",
+                "t": 5095.0,
+                "d": 723.0
+              },
+              {
+                "w": "trade",
+                "t": 5819.0,
+                "d": 595.0
+              },
+              {
+                "w": "Steel",
+                "t": 6882.0,
+                "d": 468.0
+              },
+              {
+                "w": "ingots",
+                "t": 7351.0,
+                "d": 468.0
+              },
+              {
+                "w": "joined",
+                "t": 7819.0,
+                "d": 382.0
+              },
+              {
+                "w": "other",
+                "t": 8202.0,
+                "d": 297.0
+              },
+              {
+                "w": "goods",
+                "t": 8500.0,
+                "d": 594.0
+              },
+              {
+                "w": "carried",
+                "t": 9436.0,
+                "d": 381.0
+              },
+              {
+                "w": "from",
+                "t": 9818.0,
+                "d": 170.0
+              },
+              {
+                "w": "this",
+                "t": 9988.0,
+                "d": 255.0
+              },
+              {
+                "w": "inland",
+                "t": 10243.0,
+                "d": 426.0
+              },
+              {
+                "w": "settlement",
+                "t": 10670.0,
+                "d": 595.0
+              },
+              {
+                "w": "towards",
+                "t": 11265.0,
+                "d": 425.0
+              },
+              {
+                "w": "larger",
+                "t": 11691.0,
+                "d": 382.0
+              },
+              {
+                "w": "emporia",
+                "t": 12074.0,
+                "d": 510.0
+              },
+              {
+                "w": "on",
+                "t": 12585.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 12755.0,
+                "d": 169.0
+              },
+              {
+                "w": "coast",
+                "t": 12924.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p09.png",
+      "shot": "epic coastal panorama with ships at anchorage",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On the Malabar and Coromandel coasts, such goods met the wider Indian Ocean. Texts like the Periplus of the Erythraean Sea describe south Indian ports exporting iron and steel among many coveted wares.",
+            "hi": "मालाबार और कोरमंडल तट पर ऐसे माल विशाल हिंद महासागर से मिलते थे। ‘एरिथ्रियन सागर की पेरीप्लस’ जैसे ग्रंथ दक्षिणी बंदरगाहों से लोहे-इस्पात समेत कई चाही गई चीज़ों के निर्यात का ज़िक्र करते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p09_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 244.0,
+                "d": 127.0
+              },
+              {
+                "w": "Malabar",
+                "t": 372.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 797.0,
+                "d": 170.0
+              },
+              {
+                "w": "Coromandel",
+                "t": 968.0,
+                "d": 595.0
+              },
+              {
+                "w": "coasts",
+                "t": 1563.0,
+                "d": 680.0
+              },
+              {
+                "w": "such",
+                "t": 2372.0,
+                "d": 382.0
+              },
+              {
+                "w": "goods",
+                "t": 2755.0,
+                "d": 339.0
+              },
+              {
+                "w": "met",
+                "t": 3094.0,
+                "d": 256.0
+              },
+              {
+                "w": "the",
+                "t": 3351.0,
+                "d": 211.0
+              },
+              {
+                "w": "wider",
+                "t": 3562.0,
+                "d": 468.0
+              },
+              {
+                "w": "Indian",
+                "t": 4030.0,
+                "d": 426.0
+              },
+              {
+                "w": "Ocean",
+                "t": 4457.0,
+                "d": 978.0
+              },
+              {
+                "w": "Texts",
+                "t": 5563.0,
+                "d": 340.0
+              },
+              {
+                "w": "like",
+                "t": 5904.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 6074.0,
+                "d": 170.0
+              },
+              {
+                "w": "Periplus",
+                "t": 6244.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 6797.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 6925.0,
+                "d": 170.0
+              },
+              {
+                "w": "Erythraean",
+                "t": 7138.0,
+                "d": 595.0
+              },
+              {
+                "w": "Sea",
+                "t": 7734.0,
+                "d": 425.0
+              },
+              {
+                "w": "describe",
+                "t": 8159.0,
+                "d": 552.0
+              },
+              {
+                "w": "south",
+                "t": 8711.0,
+                "d": 426.0
+              },
+              {
+                "w": "Indian",
+                "t": 9138.0,
+                "d": 425.0
+              },
+              {
+                "w": "ports",
+                "t": 9563.0,
+                "d": 594.0
+              },
+              {
+                "w": "exporting",
+                "t": 10243.0,
+                "d": 767.0
+              },
+              {
+                "w": "iron",
+                "t": 11052.0,
+                "d": 426.0
+              },
+              {
+                "w": "and",
+                "t": 11478.0,
+                "d": 127.0
+              },
+              {
+                "w": "steel",
+                "t": 11606.0,
+                "d": 594.0
+              },
+              {
+                "w": "among",
+                "t": 12244.0,
+                "d": 468.0
+              },
+              {
+                "w": "many",
+                "t": 12712.0,
+                "d": 340.0
+              },
+              {
+                "w": "coveted",
+                "t": 13053.0,
+                "d": 467.0
+              },
+              {
+                "w": "wares",
+                "t": 13520.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p10.png",
+      "shot": "dramatic interior of a Mediterranean-style merchant ship hold",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From these harbours, Indian iron and steel travelled with spices, textiles, and beads. Across the Arabian Sea, through the Red Sea trade, they reached Roman and West Asian markets.",
+            "hi": "इन बंदरगाहों से भारतीय लोहा-इस्पात मसालों, कपड़ों और मनकों के साथ चला। अरब सागर पार, लाल सागर की राह से होकर, वे रोमन और पश्चिम एशियाई बाज़ारों तक पहुँचे।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p10_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "these",
+                "t": 372.0,
+                "d": 212.0
+              },
+              {
+                "w": "harbours",
+                "t": 585.0,
+                "d": 680.0
+              },
+              {
+                "w": "Indian",
+                "t": 1563.0,
+                "d": 468.0
+              },
+              {
+                "w": "iron",
+                "t": 2031.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 2414.0,
+                "d": 126.0
+              },
+              {
+                "w": "steel",
+                "t": 2541.0,
+                "d": 425.0
+              },
+              {
+                "w": "travelled",
+                "t": 2967.0,
+                "d": 680.0
+              },
+              {
+                "w": "with",
+                "t": 3647.0,
+                "d": 171.0
+              },
+              {
+                "w": "spices",
+                "t": 3819.0,
+                "d": 553.0
+              },
+              {
+                "w": "textiles",
+                "t": 4542.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 5351.0,
+                "d": 297.0
+              },
+              {
+                "w": "beads",
+                "t": 5648.0,
+                "d": 595.0
+              },
+              {
+                "w": "Across",
+                "t": 6882.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 7351.0,
+                "d": 170.0
+              },
+              {
+                "w": "Arabian",
+                "t": 7521.0,
+                "d": 425.0
+              },
+              {
+                "w": "Sea",
+                "t": 7946.0,
+                "d": 127.0
+              },
+              {
+                "w": "through",
+                "t": 8074.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 8711.0,
+                "d": 382.0
+              },
+              {
+                "w": "Red",
+                "t": 9094.0,
+                "d": 256.0
+              },
+              {
+                "w": "Sea",
+                "t": 9351.0,
+                "d": 255.0
+              },
+              {
+                "w": "trade",
+                "t": 9606.0,
+                "d": 722.0
+              },
+              {
+                "w": "they",
+                "t": 10372.0,
+                "d": 255.0
+              },
+              {
+                "w": "reached",
+                "t": 10627.0,
+                "d": 339.0
+              },
+              {
+                "w": "Roman",
+                "t": 10967.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 11436.0,
+                "d": 212.0
+              },
+              {
+                "w": "West",
+                "t": 11648.0,
+                "d": 296.0
+              },
+              {
+                "w": "Asian",
+                "t": 11945.0,
+                "d": 340.0
+              },
+              {
+                "w": "markets",
+                "t": 12286.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "triumph",
+      "bg": "assets/the_blade_from_the_forest_furnace/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_blade_from_the_forest_furnace/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From hidden village fires to far Roman shores, his steel rides the monsoon winds to reshape distant wars.",
+            "hi": "गुप्त गाँव की आग से दूर रोमी किनारों तक, उसकी तलवार मानसून संग उड़कर दूर की जंग बदल देती है।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "hidden",
+                "t": 364.0,
+                "d": 333.0
+              },
+              {
+                "w": "village",
+                "t": 697.0,
+                "d": 333.0
+              },
+              {
+                "w": "fires",
+                "t": 1031.0,
+                "d": 458.0
+              },
+              {
+                "w": "to",
+                "t": 1489.0,
+                "d": 166.0
+              },
+              {
+                "w": "far",
+                "t": 1656.0,
+                "d": 333.0
+              },
+              {
+                "w": "Roman",
+                "t": 1989.0,
+                "d": 333.0
+              },
+              {
+                "w": "shores",
+                "t": 2322.0,
+                "d": 665.0
+              },
+              {
+                "w": "his",
+                "t": 3071.0,
+                "d": 292.0
+              },
+              {
+                "w": "steel",
+                "t": 3364.0,
+                "d": 333.0
+              },
+              {
+                "w": "rides",
+                "t": 3697.0,
+                "d": 373.0
+              },
+              {
+                "w": "the",
+                "t": 4071.0,
+                "d": 126.0
+              },
+              {
+                "w": "monsoon",
+                "t": 4197.0,
+                "d": 541.0
+              },
+              {
+                "w": "winds",
+                "t": 4739.0,
+                "d": 416.0
+              },
+              {
+                "w": "to",
+                "t": 5156.0,
+                "d": 166.0
+              },
+              {
+                "w": "reshape",
+                "t": 5322.0,
+                "d": 500.0
+              },
+              {
+                "w": "distant",
+                "t": 5822.0,
+                "d": 458.0
+              },
+              {
+                "w": "wars",
+                "t": 6281.0,
+                "d": 666.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p11.png",
+      "shot": "low-angle shot of a Roman-style officer inspecting a sword",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Roman authors and later Arabic writers praised Indian iron and blades, a steel that held its edge, a metal that bent yet refused to break. They honoured the material, not the forge villages behind it.",
+            "hi": "रोमन लेखकों और बाद के अरबी विद्वानों ने भारतीय लोहे और धारों की तारीफ़ की—ऐसा इस्पात जो धार पकड़े रखे, ऐसा धातु जो झुके पर टूटने से इंकार करे। उन्होंने पदार्थ को सम्मान दिया, उसके पीछे के गाँवों को नहीं।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p11_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Roman",
+                "t": 70.0,
+                "d": 480.0
+              },
+              {
+                "w": "authors",
+                "t": 550.0,
+                "d": 560.0
+              },
+              {
+                "w": "and",
+                "t": 1110.0,
+                "d": 160.0
+              },
+              {
+                "w": "later",
+                "t": 1270.0,
+                "d": 440.0
+              },
+              {
+                "w": "Arabic",
+                "t": 1750.0,
+                "d": 400.0
+              },
+              {
+                "w": "writers",
+                "t": 2150.0,
+                "d": 600.0
+              },
+              {
+                "w": "praised",
+                "t": 2750.0,
+                "d": 400.0
+              },
+              {
+                "w": "Indian",
+                "t": 3190.0,
+                "d": 400.0
+              },
+              {
+                "w": "iron",
+                "t": 3630.0,
+                "d": 400.0
+              },
+              {
+                "w": "and",
+                "t": 4030.0,
+                "d": 240.0
+              },
+              {
+                "w": "blades",
+                "t": 4270.0,
+                "d": 640.0
+              },
+              {
+                "w": "a",
+                "t": 5070.0,
+                "d": 120.0
+              },
+              {
+                "w": "steel",
+                "t": 5190.0,
+                "d": 480.0
+              },
+              {
+                "w": "that",
+                "t": 5670.0,
+                "d": 200.0
+              },
+              {
+                "w": "held",
+                "t": 5870.0,
+                "d": 320.0
+              },
+              {
+                "w": "its",
+                "t": 6190.0,
+                "d": 280.0
+              },
+              {
+                "w": "edge",
+                "t": 6470.0,
+                "d": 520.0
+              },
+              {
+                "w": "a",
+                "t": 7390.0,
+                "d": 120.0
+              },
+              {
+                "w": "metal",
+                "t": 7510.0,
+                "d": 400.0
+              },
+              {
+                "w": "that",
+                "t": 7910.0,
+                "d": 239.0
+              },
+              {
+                "w": "bent",
+                "t": 8149.0,
+                "d": 361.0
+              },
+              {
+                "w": "yet",
+                "t": 8510.0,
+                "d": 199.0
+              },
+              {
+                "w": "refused",
+                "t": 8709.0,
+                "d": 520.0
+              },
+              {
+                "w": "to",
+                "t": 9229.0,
+                "d": 160.0
+              },
+              {
+                "w": "break",
+                "t": 9389.0,
+                "d": 840.0
+              },
+              {
+                "w": "They",
+                "t": 10469.0,
+                "d": 281.0
+              },
+              {
+                "w": "honoured",
+                "t": 10790.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 11190.0,
+                "d": 119.0
+              },
+              {
+                "w": "material",
+                "t": 11309.0,
+                "d": 881.0
+              },
+              {
+                "w": "not",
+                "t": 12229.0,
+                "d": 281.0
+              },
+              {
+                "w": "the",
+                "t": 12510.0,
+                "d": 199.0
+              },
+              {
+                "w": "forge",
+                "t": 12709.0,
+                "d": 321.0
+              },
+              {
+                "w": "villages",
+                "t": 13030.0,
+                "d": 400.0
+              },
+              {
+                "w": "behind",
+                "t": 13430.0,
+                "d": 440.0
+              },
+              {
+                "w": "it",
+                "t": 13870.0,
+                "d": 359.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p12.png",
+      "shot": "patterned close-up of an Islamic-era sword blade with watered steel",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Some famed blades in West Asia may have begun as south Indian crucible steel ingots. Others were made differently, by pattern-welding. The romance of Damascus steel hides many techniques, not one origin.",
+            "hi": "पश्चिम एशिया की कई मशहूर तलवारें शायद दक्षिण भारतीय क्रूसिबल इस्पात की सिल्लियों से शुरू हुईं। कुछ और तरीकों से बनीं, पैटर्न वेल्डिंग से। दमिश्क इस्पात की दास्तान कई तकनीकों को छिपाती है, एक जन्मस्थली को नहीं।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p12_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Some",
+                "t": 70.0,
+                "d": 360.0
+              },
+              {
+                "w": "famed",
+                "t": 430.0,
+                "d": 320.0
+              },
+              {
+                "w": "blades",
+                "t": 750.0,
+                "d": 400.0
+              },
+              {
+                "w": "in",
+                "t": 1150.0,
+                "d": 120.0
+              },
+              {
+                "w": "West",
+                "t": 1270.0,
+                "d": 320.0
+              },
+              {
+                "w": "Asia",
+                "t": 1590.0,
+                "d": 600.0
+              },
+              {
+                "w": "may",
+                "t": 2429.0,
+                "d": 241.0
+              },
+              {
+                "w": "have",
+                "t": 2670.0,
+                "d": 199.0
+              },
+              {
+                "w": "begun",
+                "t": 2869.0,
+                "d": 321.0
+              },
+              {
+                "w": "as",
+                "t": 3190.0,
+                "d": 159.0
+              },
+              {
+                "w": "south",
+                "t": 3349.0,
+                "d": 361.0
+              },
+              {
+                "w": "Indian",
+                "t": 3710.0,
+                "d": 360.0
+              },
+              {
+                "w": "crucible",
+                "t": 4070.0,
+                "d": 520.0
+              },
+              {
+                "w": "steel",
+                "t": 4590.0,
+                "d": 280.0
+              },
+              {
+                "w": "ingots",
+                "t": 4870.0,
+                "d": 760.0
+              },
+              {
+                "w": "Others",
+                "t": 6230.0,
+                "d": 400.0
+              },
+              {
+                "w": "were",
+                "t": 6630.0,
+                "d": 200.0
+              },
+              {
+                "w": "made",
+                "t": 6830.0,
+                "d": 200.0
+              },
+              {
+                "w": "differently",
+                "t": 7030.0,
+                "d": 840.0
+              },
+              {
+                "w": "by",
+                "t": 7870.0,
+                "d": 319.0
+              },
+              {
+                "w": "pattern-welding",
+                "t": 8189.0,
+                "d": 721.0
+              },
+              {
+                "w": "The",
+                "t": 9670.0,
+                "d": 200.0
+              },
+              {
+                "w": "romance",
+                "t": 9870.0,
+                "d": 359.0
+              },
+              {
+                "w": "of",
+                "t": 10229.0,
+                "d": 121.0
+              },
+              {
+                "w": "Damascus",
+                "t": 10350.0,
+                "d": 520.0
+              },
+              {
+                "w": "steel",
+                "t": 10870.0,
+                "d": 439.0
+              },
+              {
+                "w": "hides",
+                "t": 11590.0,
+                "d": 440.0
+              },
+              {
+                "w": "many",
+                "t": 12030.0,
+                "d": 279.0
+              },
+              {
+                "w": "techniques",
+                "t": 12309.0,
+                "d": 801.0
+              },
+              {
+                "w": "not",
+                "t": 13149.0,
+                "d": 361.0
+              },
+              {
+                "w": "one",
+                "t": 13510.0,
+                "d": 320.0
+              },
+              {
+                "w": "origin",
+                "t": 13830.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p13.png",
+      "shot": "crossfade-style composition, worker hammering, overlayed with maps",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Research since the nineteen nineties has linked sites like Kodumanal to this crucible steel tradition. Metallurgy, pottery, and trade goods together show how an inland Tamil village fed a vast oceanic network.",
+            "hi": "1990 के दशक से हुए शोध ने कोडुमनाल जैसे स्थलों को इस क्रूसिबल इस्पात परंपरा से जोड़ा है। धातु विज्ञान, मिट्टी के बरतन और व्यापार की चीज़ें मिलकर दिखाती हैं कि एक तमिल गाँव ने कैसे विशाल सागरी जाल को खुराक दी।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p13_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Research",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "since",
+                "t": 670.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 925.0,
+                "d": 127.0
+              },
+              {
+                "w": "nineteen",
+                "t": 1053.0,
+                "d": 425.0
+              },
+              {
+                "w": "nineties",
+                "t": 1478.0,
+                "d": 553.0
+              },
+              {
+                "w": "has",
+                "t": 2031.0,
+                "d": 212.0
+              },
+              {
+                "w": "linked",
+                "t": 2244.0,
+                "d": 339.0
+              },
+              {
+                "w": "sites",
+                "t": 2584.0,
+                "d": 382.0
+              },
+              {
+                "w": "like",
+                "t": 2967.0,
+                "d": 256.0
+              },
+              {
+                "w": "Kodumanal",
+                "t": 3223.0,
+                "d": 850.0
+              },
+              {
+                "w": "to",
+                "t": 4073.0,
+                "d": 127.0
+              },
+              {
+                "w": "this",
+                "t": 4201.0,
+                "d": 256.0
+              },
+              {
+                "w": "crucible",
+                "t": 4457.0,
+                "d": 595.0
+              },
+              {
+                "w": "steel",
+                "t": 5053.0,
+                "d": 425.0
+              },
+              {
+                "w": "tradition",
+                "t": 5478.0,
+                "d": 1319.0
+              },
+              {
+                "w": "Metallurgy",
+                "t": 6840.0,
+                "d": 978.0
+              },
+              {
+                "w": "pottery",
+                "t": 7904.0,
+                "d": 935.0
+              },
+              {
+                "w": "and",
+                "t": 8839.0,
+                "d": 384.0
+              },
+              {
+                "w": "trade",
+                "t": 9223.0,
+                "d": 297.0
+              },
+              {
+                "w": "goods",
+                "t": 9521.0,
+                "d": 296.0
+              },
+              {
+                "w": "together",
+                "t": 9818.0,
+                "d": 639.0
+              },
+              {
+                "w": "show",
+                "t": 10500.0,
+                "d": 381.0
+              },
+              {
+                "w": "how",
+                "t": 10881.0,
+                "d": 213.0
+              },
+              {
+                "w": "an",
+                "t": 11095.0,
+                "d": 126.0
+              },
+              {
+                "w": "inland",
+                "t": 11265.0,
+                "d": 425.0
+              },
+              {
+                "w": "Tamil",
+                "t": 11691.0,
+                "d": 382.0
+              },
+              {
+                "w": "village",
+                "t": 12074.0,
+                "d": 553.0
+              },
+              {
+                "w": "fed",
+                "t": 12670.0,
+                "d": 339.0
+              },
+              {
+                "w": "a",
+                "t": 13009.0,
+                "d": 85.0
+              },
+              {
+                "w": "vast",
+                "t": 13094.0,
+                "d": 554.0
+              },
+              {
+                "w": "oceanic",
+                "t": 13691.0,
+                "d": 637.0
+              },
+              {
+                "w": "network",
+                "t": 14328.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "battle",
+      "slices": [
+        {
+          "img": "assets/the_blade_from_the_forest_furnace/split_auto/s0.png",
+          "slogan": {
+            "en": "From Kodumanal, steel never dies",
+            "hi": "कोडुमनाल से, इस्पात अमर है"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_blade_from_the_forest_furnace/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_blade_from_the_forest_furnace/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "His flame and metal outlive empires, carried in every patterned blade born from Kodumanal's guarded crucibles.",
+            "hi": "उसकी आग और धातु साम्राज्यों से लंबी चलती है, कोडुमनाल की गुप्त भट्ठियों से जन्मी हर नक़्शीदार तलवार में जिंदा है।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "His",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "flame",
+                "t": 310.0,
+                "d": 400.0
+              },
+              {
+                "w": "and",
+                "t": 710.0,
+                "d": 120.0
+              },
+              {
+                "w": "metal",
+                "t": 830.0,
+                "d": 440.0
+              },
+              {
+                "w": "outlive",
+                "t": 1270.0,
+                "d": 520.0
+              },
+              {
+                "w": "empires",
+                "t": 1790.0,
+                "d": 720.0
+              },
+              {
+                "w": "carried",
+                "t": 2869.0,
+                "d": 401.0
+              },
+              {
+                "w": "in",
+                "t": 3270.0,
+                "d": 199.0
+              },
+              {
+                "w": "every",
+                "t": 3469.0,
+                "d": 520.0
+              },
+              {
+                "w": "patterned",
+                "t": 3989.0,
+                "d": 481.0
+              },
+              {
+                "w": "blade",
+                "t": 4470.0,
+                "d": 360.0
+              },
+              {
+                "w": "born",
+                "t": 4830.0,
+                "d": 320.0
+              },
+              {
+                "w": "from",
+                "t": 5150.0,
+                "d": 280.0
+              },
+              {
+                "w": "Kodumanal's",
+                "t": 5430.0,
+                "d": 920.0
+              },
+              {
+                "w": "guarded",
+                "t": 6510.0,
+                "d": 560.0
+              },
+              {
+                "w": "crucibles",
+                "t": 7070.0,
+                "d": 880.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p14.png",
+      "shot": "quiet mid-shot, worker resting outside workshop at sunset",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "They know the blade, not the hand that fed the furnace. Still, the work is done.",
+            "hi": "वे धार को जानते हैं, भट्टी को पकाने वाले हाथ को नहीं। फिर भी काम पूरा हुआ।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p14_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "They",
+                "t": 49.0,
+                "d": 159.3
+              },
+              {
+                "w": "know",
+                "t": 220.6,
+                "d": 245.1
+              },
+              {
+                "w": "the",
+                "t": 490.2,
+                "d": 122.5
+              },
+              {
+                "w": "blade",
+                "t": 612.8,
+                "d": 416.7
+              },
+              {
+                "w": "not",
+                "t": 1250.0,
+                "d": 306.4
+              },
+              {
+                "w": "the",
+                "t": 1556.4,
+                "d": 183.8
+              },
+              {
+                "w": "hand",
+                "t": 1740.2,
+                "d": 306.4
+              },
+              {
+                "w": "that",
+                "t": 2046.6,
+                "d": 343.1
+              },
+              {
+                "w": "fed",
+                "t": 2389.7,
+                "d": 294.1
+              },
+              {
+                "w": "the",
+                "t": 2683.8,
+                "d": 159.3
+              },
+              {
+                "w": "furnace",
+                "t": 2843.1,
+                "d": 588.2
+              },
+              {
+                "w": "Still",
+                "t": 4277.0,
+                "d": 404.4
+              },
+              {
+                "w": "the",
+                "t": 4791.7,
+                "d": 147.0
+              },
+              {
+                "w": "work",
+                "t": 4938.7,
+                "d": 367.7
+              },
+              {
+                "w": "is",
+                "t": 5367.7,
+                "d": 208.3
+              },
+              {
+                "w": "done",
+                "t": 5576.0,
+                "d": 318.6
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p15.png",
+      "shot": "archaeological dig wide shot, with trenches and researchers working",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At Kodumanal today, trenches reopen their world. K. Rajan and others map furnaces and finds. Metallurgists like Sharada Srinivasan study crucible fragments to read the recipes of lost artisans.",
+            "hi": "आज कोडुमनाल में खाइयाँ उनका जगत फिर खोलती हैं। के. राजन और साथी भट्टियाँ और चीज़ें दर्ज करते हैं। शारदा श्रीनिवासन जैसे धातु वैज्ञानिक क्रूसिबल के टुकड़े पढ़कर खोए कारीगरों के नुस्खे समझते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p15_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 117.0,
+                "d": 255.0
+              },
+              {
+                "w": "Kodumanal",
+                "t": 372.0,
+                "d": 638.0
+              },
+              {
+                "w": "today",
+                "t": 1010.0,
+                "d": 680.0
+              },
+              {
+                "w": "trenches",
+                "t": 1734.0,
+                "d": 680.0
+              },
+              {
+                "w": "reopen",
+                "t": 2414.0,
+                "d": 552.0
+              },
+              {
+                "w": "their",
+                "t": 2967.0,
+                "d": 212.0
+              },
+              {
+                "w": "world",
+                "t": 3179.0,
+                "d": 510.0
+              },
+              {
+                "w": "K",
+                "t": 3989.0,
+                "d": 41.0
+              },
+              {
+                "w": "Rajan",
+                "t": 4030.0,
+                "d": 384.0
+              },
+              {
+                "w": "and",
+                "t": 4968.0,
+                "d": 127.0
+              },
+              {
+                "w": "others",
+                "t": 5180.0,
+                "d": 340.0
+              },
+              {
+                "w": "map",
+                "t": 6202.0,
+                "d": 340.0
+              },
+              {
+                "w": "furnaces",
+                "t": 6542.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 7351.0,
+                "d": 212.0
+              },
+              {
+                "w": "finds",
+                "t": 7563.0,
+                "d": 723.0
+              },
+              {
+                "w": "Metallurgists",
+                "t": 8882.0,
+                "d": 978.0
+              },
+              {
+                "w": "like",
+                "t": 9861.0,
+                "d": 255.0
+              },
+              {
+                "w": "Sharada",
+                "t": 10117.0,
+                "d": 382.0
+              },
+              {
+                "w": "Srinivasan",
+                "t": 10500.0,
+                "d": 680.0
+              },
+              {
+                "w": "study",
+                "t": 11180.0,
+                "d": 723.0
+              },
+              {
+                "w": "crucible",
+                "t": 11904.0,
+                "d": 638.0
+              },
+              {
+                "w": "fragments",
+                "t": 12542.0,
+                "d": 637.0
+              },
+              {
+                "w": "to",
+                "t": 13179.0,
+                "d": 170.0
+              },
+              {
+                "w": "read",
+                "t": 13350.0,
+                "d": 256.0
+              },
+              {
+                "w": "the",
+                "t": 13606.0,
+                "d": 127.0
+              },
+              {
+                "w": "recipes",
+                "t": 13734.0,
+                "d": 723.0
+              },
+              {
+                "w": "of",
+                "t": 14457.0,
+                "d": 255.0
+              },
+              {
+                "w": "lost",
+                "t": 14712.0,
+                "d": 424.0
+              },
+              {
+                "w": "artisans",
+                "t": 15137.0,
+                "d": 852.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p16.png",
+      "shot": "symbolic split-screen: on one side a steel ingot, on the other a blank stone without inscription",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Their achievement was not global monopoly, not the invention of all steel, but mastering a demanding crucible process, and sending its product so far that only the steel remained famous.",
+            "hi": "उनकी उपलब्धि कोई विश्व एकाधिकार नहीं थी, न सभी इस्पात की खोज, बल्कि कठिन क्रूसिबल प्रक्रिया पर काबू—और उसका माल इतना दूर भेजना कि सिर्फ इस्पात ही मशहूर रहा।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p16_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Their",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "achievement",
+                "t": 372.0,
+                "d": 680.0
+              },
+              {
+                "w": "was",
+                "t": 1053.0,
+                "d": 255.0
+              },
+              {
+                "w": "not",
+                "t": 1308.0,
+                "d": 297.0
+              },
+              {
+                "w": "global",
+                "t": 1606.0,
+                "d": 382.0
+              },
+              {
+                "w": "monopoly",
+                "t": 1989.0,
+                "d": 1062.0
+              },
+              {
+                "w": "not",
+                "t": 3094.0,
+                "d": 341.0
+              },
+              {
+                "w": "the",
+                "t": 3436.0,
+                "d": 169.0
+              },
+              {
+                "w": "invention",
+                "t": 3605.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 4158.0,
+                "d": 213.0
+              },
+              {
+                "w": "all",
+                "t": 4372.0,
+                "d": 297.0
+              },
+              {
+                "w": "steel",
+                "t": 4670.0,
+                "d": 765.0
+              },
+              {
+                "w": "but",
+                "t": 5606.0,
+                "d": 255.0
+              },
+              {
+                "w": "mastering",
+                "t": 5861.0,
+                "d": 680.0
+              },
+              {
+                "w": "a",
+                "t": 6542.0,
+                "d": 127.0
+              },
+              {
+                "w": "demanding",
+                "t": 6670.0,
+                "d": 638.0
+              },
+              {
+                "w": "crucible",
+                "t": 7308.0,
+                "d": 510.0
+              },
+              {
+                "w": "process",
+                "t": 7819.0,
+                "d": 764.0
+              },
+              {
+                "w": "and",
+                "t": 8839.0,
+                "d": 384.0
+              },
+              {
+                "w": "sending",
+                "t": 9223.0,
+                "d": 468.0
+              },
+              {
+                "w": "its",
+                "t": 9691.0,
+                "d": 170.0
+              },
+              {
+                "w": "product",
+                "t": 9861.0,
+                "d": 467.0
+              },
+              {
+                "w": "so",
+                "t": 10328.0,
+                "d": 298.0
+              },
+              {
+                "w": "far",
+                "t": 10627.0,
+                "d": 723.0
+              },
+              {
+                "w": "that",
+                "t": 11351.0,
+                "d": 340.0
+              },
+              {
+                "w": "only",
+                "t": 11691.0,
+                "d": 339.0
+              },
+              {
+                "w": "the",
+                "t": 12030.0,
+                "d": 170.0
+              },
+              {
+                "w": "steel",
+                "t": 12201.0,
+                "d": 511.0
+              },
+              {
+                "w": "remained",
+                "t": 12755.0,
+                "d": 424.0
+              },
+              {
+                "w": "famous",
+                "t": 13179.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_blade_from_the_forest_furnace/img/p17.png",
+      "shot": "final contemplative close-up of worker’s eyes merging with crucible shards in soil",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The blade from the forest furnace reminds us: technology can travel farther than memory. When we praise great steel, we also owe a thought to the silent hands that sealed clay over fire.",
+            "hi": "जंगल की भट्टी की धार याद दिलाती है: तकनीक यादों से भी दूर तक जाती है। जब हम महान इस्पात की सराहना करें, तो उन खामोश हाथों को भी याद करें, जिन्होंने मिट्टी से आग को सील किया।"
+          },
+          "audio": {
+            "en": "assets/the_blade_from_the_forest_furnace/audio/en/p17_0.mp3",
+            "hi": "assets/the_blade_from_the_forest_furnace/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "blade",
+                "t": 329.0,
+                "d": 297.0
+              },
+              {
+                "w": "from",
+                "t": 627.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 797.0,
+                "d": 127.0
+              },
+              {
+                "w": "forest",
+                "t": 925.0,
+                "d": 510.0
+              },
+              {
+                "w": "furnace",
+                "t": 1436.0,
+                "d": 425.0
+              },
+              {
+                "w": "reminds",
+                "t": 1861.0,
+                "d": 510.0
+              },
+              {
+                "w": "us",
+                "t": 2372.0,
+                "d": 679.0
+              },
+              {
+                "w": "technology",
+                "t": 3179.0,
+                "d": 767.0
+              },
+              {
+                "w": "can",
+                "t": 3946.0,
+                "d": 211.0
+              },
+              {
+                "w": "travel",
+                "t": 4158.0,
+                "d": 384.0
+              },
+              {
+                "w": "farther",
+                "t": 4542.0,
+                "d": 553.0
+              },
+              {
+                "w": "than",
+                "t": 5095.0,
+                "d": 212.0
+              },
+              {
+                "w": "memory",
+                "t": 5308.0,
+                "d": 765.0
+              },
+              {
+                "w": "When",
+                "t": 6670.0,
+                "d": 255.0
+              },
+              {
+                "w": "we",
+                "t": 6925.0,
+                "d": 212.0
+              },
+              {
+                "w": "praise",
+                "t": 7138.0,
+                "d": 340.0
+              },
+              {
+                "w": "great",
+                "t": 7478.0,
+                "d": 340.0
+              },
+              {
+                "w": "steel",
+                "t": 7819.0,
+                "d": 680.0
+              },
+              {
+                "w": "we",
+                "t": 8754.0,
+                "d": 298.0
+              },
+              {
+                "w": "also",
+                "t": 9053.0,
+                "d": 425.0
+              },
+              {
+                "w": "owe",
+                "t": 9478.0,
+                "d": 339.0
+              },
+              {
+                "w": "a",
+                "t": 9818.0,
+                "d": 43.0
+              },
+              {
+                "w": "thought",
+                "t": 9861.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 10202.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 10287.0,
+                "d": 170.0
+              },
+              {
+                "w": "silent",
+                "t": 10457.0,
+                "d": 424.0
+              },
+              {
+                "w": "hands",
+                "t": 10881.0,
+                "d": 681.0
+              },
+              {
+                "w": "that",
+                "t": 11691.0,
+                "d": 339.0
+              },
+              {
+                "w": "sealed",
+                "t": 12030.0,
+                "d": 425.0
+              },
+              {
+                "w": "clay",
+                "t": 12456.0,
+                "d": 511.0
+              },
+              {
+                "w": "over",
+                "t": 13009.0,
+                "d": 340.0
+              },
+              {
+                "w": "fire",
+                "t": 13350.0,
+                "d": 426.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Kodumanal Wootz Ironworker",
+    "epithets": [
+      "Makers of Wootz Steel",
+      "Smiths of Kodumanal",
+      "Forgers of the Singing Blade",
+      "Masters of Crucible Iron"
+    ],
+    "legend": "Their hidden furnaces forged steel that empires begged to buy."
+  }
+}
