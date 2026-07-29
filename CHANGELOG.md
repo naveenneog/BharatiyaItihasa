@@ -5,6 +5,33 @@ problems. Newest first.
 
 ---
 
+## 2026-07-30 — 🪔 Ancient Indian Science and Thought COMPLETE (13/13) · 16 chapters · builds roll into Ahom + the new life-arc/dynasty chapters
+
+- **Ancient Indian Science and Thought is COMPLETE (13/13, all QA-clean):** the deep roots of Indian knowledge
+  across **mathematics, medicine, linguistics, astronomy, metallurgy and the philosophy of proof** — Baudhayana's
+  Sulbasutra cord-geometry, **Panini's** Ashtadhyayi, **Jivaka** and the **Atreya–Charaka** forest debate on
+  medicine, **Pingala's** binary/combinatorics, the **Kodumanal** wootz-steel furnaces, **Varahamihira's** five
+  siddhantas, **Vagbhata's** Ashtangahridaya, **Takshashila** the learning-city, **Bhaskara II's** algebra,
+  **Madhava's** infinite series, **Al-Biruni's** Kitab al-Hind, and the **Bakhshali Manuscript's** disputed zero.
+- **The chapter's defining discipline is SOURCE-CRITICISM — the truth-first answer to "did India invent X":** the
+  "Pythagorean" rule is credited to Babylonia too, "without Greek-style proof"; wootz is "among the finest, not the
+  only" and Damascus steel "hides many techniques, not one origin"; Madhava's calculus is "an independent flowering"
+  with **no proof it reached Newton/Leibniz**; Takshashila is explicitly **not** a formal walled university (cites
+  Thapar/Marshall); Varahamihira's Greek-influence debate and the "jewel of Vikramaditya" legend are flagged; the
+  Bakhshali zero carries the full **2017 radiocarbon three-range dating** and the bark-vs-ink caveat. Named modern
+  scholars (K. Rajan, Sharada Srinivasan, Meulenbeld, Thapar) ground the claims.
+- **Non-communal cross-cultural framing:** Al-Biruni is honest about Mahmud's plunder and mutual Hindu–Muslim
+  suspicion, praises Indian mathematics AND critiques Puranic cosmology, and weighs *pramana* against *apodeixis*.
+- **QA harness held up:** the `voice_qa.py` year-normalisation gave **no year-panel false LOWSIM** across all 13
+  stories; Sanskrit names de-accented and spoken correctly; STT quirks (Devanagari renderings, compound-splits)
+  recognised as benign. Also noted a *distinct-lens* overlap (Madhava, Kodumanal appear in earlier chapters) and
+  verified each new treatment is genuinely distinct, not duplicative.
+- **Self-extension:** the driver has rolled into **The Ahom Kingdom of Assam** (14 stories) and then the four
+  user-requested chapters already seeded + queued — the **Chhatrapati Shivaji life arc**, **The Satavahana Empire of
+  the Deccan**, **The Kadamba Dynasty of Banavasi**, and **The Wodeyars of Mysore**.
+
+---
+
 ## 2026-07-29 — 🔬 Pioneers of Modern Indian Science COMPLETE (13/13) · 15 chapters · self-extend to 17th era
 
 - **Pioneers of Modern Indian Science is COMPLETE (13/13, all QA-clean):** how modern science took root

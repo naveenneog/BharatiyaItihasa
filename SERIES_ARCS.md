@@ -320,6 +320,29 @@ non-hagiographic (crediting collaborators, naming what the archives leave open, 
 12. **Sarabhai Launches from a Fisherman's Shore** ✅ — Thumba, INCOSPAR and space for development. *(scientific/social — the space programme)*
 13. **Bhatnagar Builds the National Labs** ✅ — CSIR's chain of national laboratories. *(scientific/economic — industrial research)*
 
+## 🪔 Ancient Indian Science and Thought  *(Ancient → Medieval — c. 800 BCE – 1030 CE)*  — **✅ CHAPTER COMPLETE (13/13)**
+The deep roots of Indian knowledge — mathematics, medicine, linguistics, astronomy, metallurgy — told with rigorous
+**source-criticism** (the truth-first answer to "did India invent X": crediting parallels, flagging legends, naming
+the sources problem).
+**Number, Sound and the Body**
+1. **The Rope That Measured the Sacred Fire** ✅ — Baudhayana's Sulbasutra cord-geometry (the "Pythagorean" rule credited to Babylonia too). *(scientific — geometry)*
+2. **The Teacher Who Wrote in Silence** ✅ — Panini's Ashtadhyayi and the machine of Sanskrit grammar. *(scholarly — linguistics)*
+3. **The Abandoned Boy Who Became the King's Physician** ✅ — Jivaka, the Takshashila-trained healer of the Buddha's age. *(scientific — medicine)*
+**Medicine, Metre and Metal**
+4. **What Is Health? A Debate in the Forest** ✅ — Atreya, Charaka and the layered Charaka Samhita. *(scientific — medicine)*
+5. **The Poem That Hid the Binary** ✅ — Pingala's Chandahsastra, guru/laghu binary and the Meru-prastara. *(scientific — combinatorics)*
+6. **The Blade from the Forest Furnace** ✅ — Kodumanal crucible/wootz steel and archaeometallurgy. *(scientific/economic — metallurgy)*
+**Sky, Text and City**
+7. **The Man Who Read the Sky and the Soil** ✅ — Varahamihira's Pancasiddhantika and Brhat Samhita. *(scientific — astronomy)*
+8. **The Book That Crossed Mountains** ✅ — Vagbhata's Ashtangahridaya and its journey to Tibet. *(scientific — medicine)*
+9. **The City Where Knowledge Was Currency** ✅ — Takshashila, a learning-city (not a modern university). *(scholarly — education)*
+**The Mathematicians' Peak**
+10. **The Mathematician Who Made Numbers Dance** ✅ — Bhaskara II's Lilavati and Bijaganita. *(scholarly — algebra)*
+11. **The Mathematician at the Edge of the Infinite** ✅ — Madhava's infinite series and the Yuktibhasha proof-text. *(scholarly — proto-calculus)*
+**The Sources Problem**
+12. **The Scholar Who Brought a Notebook** ✅ — Al-Biruni's Kitab al-Hind, a rigorous outsider's India. *(scholarly — comparative science)*
+13. **The Birch Bark That Started a Debate** ✅ — the Bakhshali Manuscript's disputed zero and the 2017 dating. *(scholarly — the history of zero)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
