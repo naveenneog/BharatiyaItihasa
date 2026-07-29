@@ -5,6 +5,37 @@ problems. Newest first.
 
 ---
 
+## 2026-07-29 — 🔬 Pioneers of Modern Indian Science COMPLETE (13/13) · 15 chapters · self-extend to 17th era
+
+- **Pioneers of Modern Indian Science is COMPLETE (13/13, all QA-clean):** how modern science took root
+  in India, from colonial-era self-reliance to the institutions of a free nation — Mahendralal Sarkar's
+  IACS, P.C. Ray's swadeshi chemistry (Bengal Chemicals), J.C. Bose's millimetre waves and plant response,
+  **Ramanujan's** 1913 letter to Hardy and the lost notebook, the **Raman Effect** (with K.S. Krishnan, Nobel
+  1930), **S.N. Bose's** statistics of light (the boson), **Chandrasekhar's** limit and the Eddington clash,
+  **Saha's** ionisation equation, **Mahalanobis's** ISI and sample surveys, **Janaki Ammal's** cytogenetics
+  and Silent Valley, **Bhabha's** atomic-energy programme (TIFR), **Sarabhai's** space programme (Thumba) and
+  **Bhatnagar's** CSIR national laboratories. Deep **scientific, scholarly, economic, social and political
+  innovation** — the chapter the user asked for beyond kings and battles.
+- **Source-critical and non-hagiographic:** collaborators are credited (Krishnan for Raman; Landsberg–Mandelstam
+  noted as independent discoverers; Einstein as Bose's translator), the record's silences are named, and
+  myths are handled responsibly — Bhabha's 1966 Mont Blanc crash is framed as **"evidence points to accident,
+  not plot"**, and S.N. Bose **never won a Nobel** though the field did (2001). Reflective closes are honest
+  (Janaki Ammal "did not single-handedly save" Indian botany).
+- **Two factual errors caught in QA and fixed (granular commits `5c24fc2`, `76a1d79`, re-voiced en+hi):**
+  Sarabhai's close said he "would not live to see INCOSPAR grow into ISRO" — but he chaired that **1969**
+  transition and died **1971**; corrected to "would not live to see India launch its own satellites" (Aryabhata,
+  1975). Bhatnagar's said "by the **late** nineteen fifties his health is failing" — he died **1 Jan 1955**;
+  corrected to "early nineteen fifties".
+- **QA harness improved:** `voice_qa.py` now runs the pipeline's `_expand_years` on the gpt-4o-transcribe
+  output, so spoken-year panels (manifest "nineteen eighty-three" vs STT "1983") no longer throw a spurious
+  LOWSIM that could mask a real defect (verified 0.03 → 1.00). Session tool only; not shipped code.
+- **Built entirely in the upgraded pipeline:** landscape **1536×1024** 16:9 art, **YouTube-retention** narration
+  (true hook → rising tension → twist → reflective close, truth-first), years **spoken as years**.
+- **Self-extension:** the driver has advanced to the 16th chapter, **Ancient Indian Science and Thought** (now
+  building), and a background chapter-builder was launched to research and seed the **17th** era.
+
+---
+
 ## 2026-07-29 — ☬ The Sikh Gurus and Ranjit Singh COMPLETE (13/13) · 14 chapters · self-extend to 16th era
 
 - **The Sikh Gurus and Ranjit Singh chapter is COMPLETE (13/13, all QA-clean):** from Guru Nanak's

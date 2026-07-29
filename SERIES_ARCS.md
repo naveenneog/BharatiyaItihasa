@@ -299,6 +299,27 @@ Ranjit Singh's court.
 12. **The Army That Learned from Napoleon** ✅ — the Fauj-i-Khas and European drill Indianised (Allard, Ventura). *(military — adaptation)*
 13. **Ranjit Singh Clothes the Temple in Gold** ✅ — the gilded Harmandir Sahib and its syncretic art ("Ram, Rahim and Wahaguru"). *(artistic/social — patronage)*
 
+## 🔬 Pioneers of Modern Indian Science  *(Colonial → Independent India — c. 1870–1971)*  — **✅ CHAPTER COMPLETE (13/13)**
+How modern science took root in India — from colonial-era self-reliance to the institutions of a free
+nation — told through **discovery, self-reliance and institution-building**, source-critical and
+non-hagiographic (crediting collaborators, naming what the archives leave open, refusing myth).
+**The Colonial-Era Awakening**
+1. **The Doctor Who Built a Science House** ✅ — Mahendralal Sarkar founds the IACS: science by Indians, for Indians. *(scholarly/social — institution-building)*
+2. **The Chemist Who Made Swadeshi Medicine** ✅ — Prafulla Chandra Ray, Bengal Chemicals and a self-reliant industry. *(scientific/economic — swadeshi science)*
+3. **Bose Sends Invisible Waves Through Walls** ✅ — J.C. Bose's millimetre waves and plant response, and his refusal to patent. *(scientific — radio & biophysics)*
+4. **Ramanujan Posts a Letter of Theorems** ✅ — the Kumbakonam clerk, the 1913 letter to Hardy, the lost notebook. *(scholarly — pure mathematics)*
+5. **Light Scatters in Raman's Calcutta Lab** ✅ — the Raman Effect with K.S. Krishnan, Nobel 1930. *(scientific — physics)*
+6. **Bose Writes the Statistics of Light** ✅ — Satyendra Nath Bose, Bose–Einstein statistics and the boson. *(scientific — quantum theory)*
+**Reading the Cosmos & the Nation**
+7. **Chandra Finds the Weight of Dead Stars** ✅ — the Chandrasekhar limit and the Eddington clash. *(scientific — astrophysics)*
+8. **Saha Reads the Temperature of Stars** ✅ — the Saha ionisation equation and the scientist-parliamentarian. *(scientific/social — astrophysics & policy)*
+9. **Mahalanobis Measures a Nation** ✅ — the ISI, large-scale sample surveys and the Mahalanobis distance. *(scholarly/economic — statistics & planning)*
+10. **Janaki Ammal Counts Sugarcane Chromosomes** ✅ — cytogenetics, sweeter Indian cane and the Silent Valley. *(scientific/social — botany & conservation)*
+**Institution-Builders of Independent India**
+11. **Bhabha Draws a Map of Atomic India** ✅ — the 1944 Tata letter, TIFR and the three-stage nuclear plan. *(scientific/political — atomic energy)*
+12. **Sarabhai Launches from a Fisherman's Shore** ✅ — Thumba, INCOSPAR and space for development. *(scientific/social — the space programme)*
+13. **Bhatnagar Builds the National Labs** ✅ — CSIR's chain of national laboratories. *(scientific/economic — industrial research)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
