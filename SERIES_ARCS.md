@@ -343,6 +343,30 @@ the sources problem).
 12. **The Scholar Who Brought a Notebook** ✅ — Al-Biruni's Kitab al-Hind, a rigorous outsider's India. *(scholarly — comparative science)*
 13. **The Birch Bark That Started a Debate** ✅ — the Bakhshali Manuscript's disputed zero and the 2017 dating. *(scholarly — the history of zero)*
 
+## 🛶 The Ahom Kingdom of Assam  *(Medieval → Early Modern — c. 1228–1826, the Brahmaputra valley)*  — **✅ CHAPTER COMPLETE (14/14)**
+The Tai-Ahom kingdom that ruled the Brahmaputra valley for nearly six centuries and repeatedly turned back the Mughals —
+told through its statecraft, labor, river-wars, craft and faith, with **source-critical, non-communal** framing (the
+Buranji chronicle weighed against living memory).
+**I. Golden Gardens Become a Kingdom**
+1. **The Brahmin Prince Who Made a Kingdom** ✅ — Sudangphaa (Bamuni Konwar), the exile raised by a Brahmin who returned to take the throne. *(statecraft — legitimacy)*
+2. **Suhungmung Opens the Eastern Gates** ✅ — Suhungmung Dihingia Raja's expansion, census and the first "Swarganarayan" court. *(statecraft — expansion)*
+3. **The Snake Pillar Speaks in Ahom Script** ✅ — the royal scribes and the Ahom-script inscription that fixed memory in stone. *(scholarly — writing & record)*
+**II. Labor, Fire and Recovery**
+4. **Momai Tamuli and the Paik Revolution** ✅ — the paik corvée-service system that turned every household into the state's labor and army. *(economic/social — labor)*
+5. **Turbak's Cannon and the Kingdom's New Fire** ✅ — Ton Kham Borgohain against Turbak Khan, and the kingdom's turn to gunpowder. *(military — firearms)*
+6. **The Oath After Mir Jumla's Storm** ✅ — Jayadhwaj and Chakradhwaj rebuild resolve after Mir Jumla's 1662 invasion. *(military/statecraft — resilience)*
+**III. The River Stands Firm**
+7. **Lachit Borphukan Holds the River at Saraighat** ✅ — the 1671 naval victory on the Brahmaputra. *(military — naval)*
+8. **Gadadhar Drives the Mughals Beyond Manas** ✅ — Gadadhar Singha's 1682 reconquest that pushed the frontier to the Manas. *(military — reconquest)*
+9. **Joymoti and the Silence History Remembers** ✅ — Joymoti Konwari's sacrifice, told as the gap between chronicle and memory. *(social — sacrifice & historiography)*
+**IV. Courts of Craft and Code**
+10. **The Octagonal Coin and the Mint at Rajshal** ✅ — Jayadhwaj's octagonal silver coinage and the Rajshal mint guilds. *(economic — coinage)*
+11. **Rang Ghar, the Pavilion Built Without Cement** ✅ — the royal amphitheatre raised in rice-lime brick, without cement. *(engineering — architecture)*
+12. **The Underground Palace of Rangpur** ✅ — Rajeswar Singha and the Chang-Rung Phukan's Talatal & Kareng Ghar (the legendary tunnels handled with source-criticism). *(engineering — architecture)*
+**V. Songs, Sanctuaries and Twilight**
+13. **Sankaradeva's Song for Every Village** ✅ — the Ekasarana bhakti reform, the Assamese Kirtan Ghoxa, the namghar and Ankia Naat theatre. *(social/scholarly — bhakti reform)*
+14. **The Maidams of Charaideo Remember the Dead** ✅ — the royal burial mounds (UNESCO 2024) and the archaeology-vs-chronicle reading of Ahom death-ritual. *(scholarly — archaeology & memory)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.

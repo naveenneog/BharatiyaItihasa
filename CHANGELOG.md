@@ -5,6 +5,32 @@ problems. Newest first.
 
 ---
 
+## 2026-07-30 — 🛶 The Ahom Kingdom of Assam COMPLETE (14/14) · 17 chapters · builds roll into the Shivaji life arc + user dynasty chapters
+
+- **The Ahom Kingdom of Assam is COMPLETE (14/14, all QA-clean) — the first 14-story chapter:** the deep story of
+  the **Tai-Ahom kingdom** that ruled the Brahmaputra valley for nearly six centuries and repeatedly turned back the
+  Mughals, grouped into five parts — **founding** (Sudangphaa, Suhungmung, the Ahom-script snake pillar), **labor,
+  fire & recovery** (the paik corvée system, Turbak's cannon, the oath after Mir Jumla), **the river wars** (Lachit at
+  Saraighat 1671, Gadadhar's reconquest to the Manas, Joymoti's sacrifice), **courts of craft & code** (octagonal
+  coinage & the Rajshal mint, the cement-less Rang Ghar, the Talatal/Kareng underground palace), and **songs,
+  sanctuaries & twilight** (Sankaradeva's bhakti, the Charaideo maidams).
+- **Marquee heroes centred, not skipped:** the chapter-builder's seed deliberately avoided "already famous" Saraighat,
+  so **Lachit Borphukan at Saraighat** was added by hand — completing a seamless 1662→1671→1682 Mughal-war arc.
+- **Innovation across social/economic/engineering/scholarly axes:** octagonal silver coinage & mint guilds (economic),
+  Rang Ghar and the Talatal/Kareng Ghar raised in **rice-lime brick without cement** (engineering), Sankaradeva's
+  **Ekasarana** reform + Assamese **Kirtan Ghoxa** + **Ankia Naat** theatre (social/scholarly), and the **Charaideo
+  maidams** (scholarly/archaeology).
+- **Source-critical, non-communal framing throughout:** Joymoti told as "the silence history remembers" (Buranji vs
+  Assamese memory); the maidams' **live-retainer burial** acknowledged AND **Rudra Singha ending it**; the legendary
+  16 km Talatal tunnel handled skeptically ("archaeology confirms only the nearest depths"); Sankaradeva's persecution
+  by the Ahom state told honestly.
+- **Two QA fixes this chapter:** (1) a **baked-text defect** on the octagonal-coin panels — p09 bore a gibberish
+  legend and p12 an anachronistic "1885" date on a Rudra Singha (r. 1696–1714) coin — re-rendered weathered/illegible
+  (correct **Phuleshwari** coin kept); (2) a **factual fix** — the Charaideo maidams' UNESCO recognition corrected
+  from **2023 → 2024** (26 Jul 2024 inscription; 2023 was the nomination selection), text + en/hi voice re-done.
+
+---
+
 ## 2026-07-30 — 🪔 Ancient Indian Science and Thought COMPLETE (13/13) · 16 chapters · builds roll into Ahom + the new life-arc/dynasty chapters
 
 - **Ancient Indian Science and Thought is COMPLETE (13/13, all QA-clean):** the deep roots of Indian knowledge
