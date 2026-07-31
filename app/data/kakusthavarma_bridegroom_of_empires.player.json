@@ -1,0 +1,3617 @@
+{
+  "id": "kakusthavarma_bridegroom_of_empires",
+  "title": "Kakusthavarma Bridegroom of Empires",
+  "title_i18n": {
+    "en": "Kakusthavarma Bridegroom of Empires",
+    "hi": "ककुष्ठवर्मा – साम्राज्यों का दामाद"
+  },
+  "figure": "Kakusthavarma",
+  "era": "Kadamba zenith and inter-dynastic diplomacy, c. 425-450 CE",
+  "moral": "Alliances can extend a kingdom farther than armies alone.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/intro/hero.png",
+      "name": "Kakusthavarma of Banavasi",
+      "epithets": [
+        "Kadamba Maharaja",
+        "Lord of Banavasi",
+        "Gupta Ally by Marriage",
+        "Master of Royal Alliances"
+      ],
+      "legend": "He married kingdoms together, and made a forest city feared.",
+      "era": "Kadamba zenith and inter-dynastic diplomacy, c. 425-450 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From a quiet town of forests, Kakusthavarma's daughters walk into the courts of Guptas and Vakatakas. If one marriage fails, the chain of alliances snaps, and Banavasi stands alone.",
+            "hi": "जंगलों से घिरा शांत कस्बा... वहीं से ककुष्ठवर्मा की बेटियाँ निकलती हैं गुप्त और वाकाटक दरबारों की ओर।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/intro/hero_en.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "a",
+                "t": 364.0,
+                "d": 83.0
+              },
+              {
+                "w": "quiet",
+                "t": 447.0,
+                "d": 375.0
+              },
+              {
+                "w": "town",
+                "t": 822.0,
+                "d": 250.0
+              },
+              {
+                "w": "of",
+                "t": 1072.0,
+                "d": 125.0
+              },
+              {
+                "w": "forests",
+                "t": 1197.0,
+                "d": 791.0
+              },
+              {
+                "w": "Kakusthavarma's",
+                "t": 2281.0,
+                "d": 958.0
+              },
+              {
+                "w": "daughters",
+                "t": 3239.0,
+                "d": 625.0
+              },
+              {
+                "w": "walk",
+                "t": 3864.0,
+                "d": 416.0
+              },
+              {
+                "w": "into",
+                "t": 4281.0,
+                "d": 166.0
+              },
+              {
+                "w": "the",
+                "t": 4447.0,
+                "d": 166.0
+              },
+              {
+                "w": "courts",
+                "t": 4614.0,
+                "d": 375.0
+              },
+              {
+                "w": "of",
+                "t": 4989.0,
+                "d": 125.0
+              },
+              {
+                "w": "Guptas",
+                "t": 5114.0,
+                "d": 541.0
+              },
+              {
+                "w": "and",
+                "t": 5656.0,
+                "d": 166.0
+              },
+              {
+                "w": "Vakatakas",
+                "t": 5822.0,
+                "d": 1000.0
+              },
+              {
+                "w": "If",
+                "t": 7114.0,
+                "d": 291.0
+              },
+              {
+                "w": "one",
+                "t": 7406.0,
+                "d": 291.0
+              },
+              {
+                "w": "marriage",
+                "t": 7697.0,
+                "d": 375.0
+              },
+              {
+                "w": "fails",
+                "t": 8072.0,
+                "d": 541.0
+              },
+              {
+                "w": "the",
+                "t": 8947.0,
+                "d": 208.0
+              },
+              {
+                "w": "chain",
+                "t": 9156.0,
+                "d": 250.0
+              },
+              {
+                "w": "of",
+                "t": 9406.0,
+                "d": 123.0
+              },
+              {
+                "w": "alliances",
+                "t": 9530.0,
+                "d": 626.0
+              },
+              {
+                "w": "snaps",
+                "t": 10156.0,
+                "d": 665.0
+              },
+              {
+                "w": "and",
+                "t": 10988.0,
+                "d": 251.0
+              },
+              {
+                "w": "Banavasi",
+                "t": 11239.0,
+                "d": 583.0
+              },
+              {
+                "w": "stands",
+                "t": 11822.0,
+                "d": 458.0
+              },
+              {
+                "w": "alone",
+                "t": 12281.0,
+                "d": 666.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/kakusthavarma_bridegroom_of_empires/intro/map.png",
+      "x": 0.21,
+      "y": 0.58,
+      "label": "Banavasi & Halasi, Kadamba country",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In this rain-soaked western land of red soil and deep forest, Kakusthavarma turns Banavasi into a court sought by Guptas and Deccan kings.",
+            "hi": "लाल मिट्टी, घने जंगल और बरसती पश्चिमी धरती पर, काकुष्ठवर्मा बनवासी को वह दरबार बना देता है जहाँ गुप्त और दक्कन के राजा खिंचे चले आते हैं।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/intro/map_en.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "this",
+                "t": 356.0,
+                "d": 275.0
+              },
+              {
+                "w": "rain-soaked",
+                "t": 632.0,
+                "d": 735.0
+              },
+              {
+                "w": "western",
+                "t": 1367.0,
+                "d": 505.0
+              },
+              {
+                "w": "land",
+                "t": 1873.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 2241.0,
+                "d": 229.0
+              },
+              {
+                "w": "red",
+                "t": 2471.0,
+                "d": 228.0
+              },
+              {
+                "w": "soil",
+                "t": 2700.0,
+                "d": 460.0
+              },
+              {
+                "w": "and",
+                "t": 3160.0,
+                "d": 228.0
+              },
+              {
+                "w": "deep",
+                "t": 3389.0,
+                "d": 277.0
+              },
+              {
+                "w": "forest",
+                "t": 3666.0,
+                "d": 826.0
+              },
+              {
+                "w": "Kakusthavarma",
+                "t": 4724.0,
+                "d": 1057.0
+              },
+              {
+                "w": "turns",
+                "t": 5781.0,
+                "d": 459.0
+              },
+              {
+                "w": "Banavasi",
+                "t": 6241.0,
+                "d": 643.0
+              },
+              {
+                "w": "into",
+                "t": 6885.0,
+                "d": 551.0
+              },
+              {
+                "w": "a",
+                "t": 7436.0,
+                "d": 183.0
+              },
+              {
+                "w": "court",
+                "t": 7620.0,
+                "d": 275.0
+              },
+              {
+                "w": "sought",
+                "t": 7896.0,
+                "d": 413.0
+              },
+              {
+                "w": "by",
+                "t": 8310.0,
+                "d": 229.0
+              },
+              {
+                "w": "Guptas",
+                "t": 8540.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 9137.0,
+                "d": 228.0
+              },
+              {
+                "w": "Deccan",
+                "t": 9366.0,
+                "d": 414.0
+              },
+              {
+                "w": "kings",
+                "t": 9781.0,
+                "d": 734.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/cover.png",
+      "shot": "epic high-angle wide of a royal hall with distant silhouettes of Gupta and Deccan envoys on either side",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the age of the Guptas' glory, a king from forested Banavasi wove marriages that reached their court and beyond: this is Kakusthavarma, bridegroom of empires.",
+            "hi": "गुप्तों की शोहरत के दौर में, जंगली बनवासी का एक राजा शादियों से ऐसा जाल बुनता है जो उनके दरबार से आगे तक जाता है – यही है ककुष्ठवर्मा, साम्राज्यों का दामाद।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/cover_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 202.0,
+                "d": 255.0
+              },
+              {
+                "w": "age",
+                "t": 457.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 755.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 882.0,
+                "d": 127.0
+              },
+              {
+                "w": "Guptas'",
+                "t": 1010.0,
+                "d": 510.0
+              },
+              {
+                "w": "glory",
+                "t": 1521.0,
+                "d": 851.0
+              },
+              {
+                "w": "a",
+                "t": 2414.0,
+                "d": 169.0
+              },
+              {
+                "w": "king",
+                "t": 2584.0,
+                "d": 298.0
+              },
+              {
+                "w": "from",
+                "t": 2882.0,
+                "d": 254.0
+              },
+              {
+                "w": "forested",
+                "t": 3137.0,
+                "d": 596.0
+              },
+              {
+                "w": "Banavasi",
+                "t": 3734.0,
+                "d": 595.0
+              },
+              {
+                "w": "wove",
+                "t": 4329.0,
+                "d": 340.0
+              },
+              {
+                "w": "marriages",
+                "t": 4670.0,
+                "d": 765.0
+              },
+              {
+                "w": "that",
+                "t": 5521.0,
+                "d": 297.0
+              },
+              {
+                "w": "reached",
+                "t": 5819.0,
+                "d": 340.0
+              },
+              {
+                "w": "their",
+                "t": 6159.0,
+                "d": 212.0
+              },
+              {
+                "w": "court",
+                "t": 6372.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 6925.0,
+                "d": 255.0
+              },
+              {
+                "w": "beyond",
+                "t": 7180.0,
+                "d": 595.0
+              },
+              {
+                "w": "this",
+                "t": 8500.0,
+                "d": 297.0
+              },
+              {
+                "w": "is",
+                "t": 8797.0,
+                "d": 340.0
+              },
+              {
+                "w": "Kakusthavarma",
+                "t": 9138.0,
+                "d": 1234.0
+              },
+              {
+                "w": "bridegroom",
+                "t": 10542.0,
+                "d": 808.0
+              },
+              {
+                "w": "of",
+                "t": 11351.0,
+                "d": 212.0
+              },
+              {
+                "w": "empires",
+                "t": 11563.0,
+                "d": 807.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p01.png",
+      "shot": "sweeping bird’s-eye over dense Western Ghats forest opening onto the town of Banavasi",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Far from Pataliputra's plains, in the wet forests of Banavasi, the Kadambas carved a kingdom from red earth and stone, watching mighty powers rise and fall to the north.",
+            "hi": "पटलीपुत्र के मैदानों से दूर, भीगे जंगलों वाले बनवासी में, कदंबों ने लाल मिट्टी और पत्थर से अपना राज्य गढ़ा, उत्तर के उठते–गिरते साम्राज्यों को देखते हुए।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p01_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Far",
+                "t": 80.0,
+                "d": 505.0
+              },
+              {
+                "w": "from",
+                "t": 586.0,
+                "d": 367.0
+              },
+              {
+                "w": "Pataliputra's",
+                "t": 954.0,
+                "d": 965.0
+              },
+              {
+                "w": "plains",
+                "t": 1919.0,
+                "d": 872.0
+              },
+              {
+                "w": "in",
+                "t": 2885.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 3114.0,
+                "d": 182.0
+              },
+              {
+                "w": "wet",
+                "t": 3297.0,
+                "d": 322.0
+              },
+              {
+                "w": "forests",
+                "t": 3620.0,
+                "d": 643.0
+              },
+              {
+                "w": "of",
+                "t": 4264.0,
+                "d": 182.0
+              },
+              {
+                "w": "Banavasi",
+                "t": 4447.0,
+                "d": 828.0
+              },
+              {
+                "w": "the",
+                "t": 5735.0,
+                "d": 275.0
+              },
+              {
+                "w": "Kadambas",
+                "t": 6011.0,
+                "d": 735.0
+              },
+              {
+                "w": "carved",
+                "t": 6747.0,
+                "d": 413.0
+              },
+              {
+                "w": "a",
+                "t": 7160.0,
+                "d": 137.0
+              },
+              {
+                "w": "kingdom",
+                "t": 7298.0,
+                "d": 551.0
+              },
+              {
+                "w": "from",
+                "t": 7850.0,
+                "d": 321.0
+              },
+              {
+                "w": "red",
+                "t": 8172.0,
+                "d": 367.0
+              },
+              {
+                "w": "earth",
+                "t": 8540.0,
+                "d": 229.0
+              },
+              {
+                "w": "and",
+                "t": 8770.0,
+                "d": 275.0
+              },
+              {
+                "w": "stone",
+                "t": 9045.0,
+                "d": 1011.0
+              },
+              {
+                "w": "watching",
+                "t": 10103.0,
+                "d": 643.0
+              },
+              {
+                "w": "mighty",
+                "t": 10747.0,
+                "d": 459.0
+              },
+              {
+                "w": "powers",
+                "t": 11206.0,
+                "d": 458.0
+              },
+              {
+                "w": "rise",
+                "t": 11665.0,
+                "d": 506.0
+              },
+              {
+                "w": "and",
+                "t": 12172.0,
+                "d": 275.0
+              },
+              {
+                "w": "fall",
+                "t": 12448.0,
+                "d": 413.0
+              },
+              {
+                "w": "to",
+                "t": 12862.0,
+                "d": 136.0
+              },
+              {
+                "w": "the",
+                "t": 12998.0,
+                "d": 139.0
+              },
+              {
+                "w": "north",
+                "t": 13137.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p02.png",
+      "shot": "medium interior of a small shrine, low-angle on a young prince before a Jain image",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Halasi, inscriptions later remember him invoking the Jina even as Brahmanas thrived at his court, a prince learning to balance Jain calm with kshatriya duty.",
+            "hi": "हलसी की शिलालेख बाद में याद करते हैं कि वह जिन की वंदना करता था, जबकि उसके दरबार में ब्राह्मण फले-फूले – एक राजकुमार जो जैन शांति और क्षत्रिय धर्म के बीच संतुलन सीख रहा था।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p02_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "Halasi",
+                "t": 230.0,
+                "d": 480.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 990.0,
+                "d": 760.0
+              },
+              {
+                "w": "later",
+                "t": 1750.0,
+                "d": 360.0
+              },
+              {
+                "w": "remember",
+                "t": 2110.0,
+                "d": 400.0
+              },
+              {
+                "w": "him",
+                "t": 2510.0,
+                "d": 479.0
+              },
+              {
+                "w": "invoking",
+                "t": 3030.0,
+                "d": 600.0
+              },
+              {
+                "w": "the",
+                "t": 3630.0,
+                "d": 120.0
+              },
+              {
+                "w": "Jina",
+                "t": 3750.0,
+                "d": 720.0
+              },
+              {
+                "w": "even",
+                "t": 4470.0,
+                "d": 320.0
+              },
+              {
+                "w": "as",
+                "t": 4790.0,
+                "d": 160.0
+              },
+              {
+                "w": "Brahmanas",
+                "t": 4950.0,
+                "d": 640.0
+              },
+              {
+                "w": "thrived",
+                "t": 5590.0,
+                "d": 400.0
+              },
+              {
+                "w": "at",
+                "t": 5990.0,
+                "d": 120.0
+              },
+              {
+                "w": "his",
+                "t": 6110.0,
+                "d": 160.0
+              },
+              {
+                "w": "court",
+                "t": 6270.0,
+                "d": 560.0
+              },
+              {
+                "w": "a",
+                "t": 7110.0,
+                "d": 240.0
+              },
+              {
+                "w": "prince",
+                "t": 7350.0,
+                "d": 320.0
+              },
+              {
+                "w": "learning",
+                "t": 7670.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 7990.0,
+                "d": 119.0
+              },
+              {
+                "w": "balance",
+                "t": 8109.0,
+                "d": 440.0
+              },
+              {
+                "w": "Jain",
+                "t": 8549.0,
+                "d": 361.0
+              },
+              {
+                "w": "calm",
+                "t": 8910.0,
+                "d": 520.0
+              },
+              {
+                "w": "with",
+                "t": 9510.0,
+                "d": 199.0
+              },
+              {
+                "w": "kshatriya",
+                "t": 9709.0,
+                "d": 520.0
+              },
+              {
+                "w": "duty",
+                "t": 10229.0,
+                "d": 480.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p03.png",
+      "shot": "low-angle medium of Kakusthavarma beside an older king on a terrace, looking out over the camp",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By the early fifth century, his house had grown iron-strong. The Kadamba chiefs were no longer mere feudatories; their spears now guarded an independent Banavasi.",
+            "hi": "पाँचवी सदी के शुरू तक उसका घर लोहे जैसा कठोर हो चुका था। कदंब सरदार अब महज़ सामंत नहीं रहे; उनकी भालें अब स्वतंत्र बनवासी की रखवाली करती थीं।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p03_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 270.0,
+                "d": 120.0
+              },
+              {
+                "w": "early",
+                "t": 390.0,
+                "d": 400.0
+              },
+              {
+                "w": "fifth",
+                "t": 790.0,
+                "d": 320.0
+              },
+              {
+                "w": "century",
+                "t": 1110.0,
+                "d": 800.0
+              },
+              {
+                "w": "his",
+                "t": 1910.0,
+                "d": 240.0
+              },
+              {
+                "w": "house",
+                "t": 2150.0,
+                "d": 279.0
+              },
+              {
+                "w": "had",
+                "t": 2429.0,
+                "d": 161.0
+              },
+              {
+                "w": "grown",
+                "t": 2590.0,
+                "d": 359.0
+              },
+              {
+                "w": "iron-strong",
+                "t": 2989.0,
+                "d": 800.0
+              },
+              {
+                "w": "The",
+                "t": 4550.0,
+                "d": 240.0
+              },
+              {
+                "w": "Kadamba",
+                "t": 4790.0,
+                "d": 440.0
+              },
+              {
+                "w": "chiefs",
+                "t": 5230.0,
+                "d": 360.0
+              },
+              {
+                "w": "were",
+                "t": 5590.0,
+                "d": 200.0
+              },
+              {
+                "w": "no",
+                "t": 5790.0,
+                "d": 160.0
+              },
+              {
+                "w": "longer",
+                "t": 5950.0,
+                "d": 360.0
+              },
+              {
+                "w": "mere",
+                "t": 6310.0,
+                "d": 240.0
+              },
+              {
+                "w": "feudatories",
+                "t": 6550.0,
+                "d": 1000.0
+              },
+              {
+                "w": "their",
+                "t": 7990.0,
+                "d": 239.0
+              },
+              {
+                "w": "spears",
+                "t": 8229.0,
+                "d": 400.0
+              },
+              {
+                "w": "now",
+                "t": 8629.0,
+                "d": 241.0
+              },
+              {
+                "w": "guarded",
+                "t": 8870.0,
+                "d": 359.0
+              },
+              {
+                "w": "an",
+                "t": 9229.0,
+                "d": 160.0
+              },
+              {
+                "w": "independent",
+                "t": 9389.0,
+                "d": 641.0
+              },
+              {
+                "w": "Banavasi",
+                "t": 10030.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/kakusthavarma_bridegroom_of_empires/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/kakusthavarma_bridegroom_of_empires/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He imagines future enemies beyond the forests, drilling his will sharper than any Kadamba spear.",
+            "hi": "वो जंगलों से परे दुश्मनों की कल्पना करता है, अपनी इच्छा को किसी भी कदंब भाले से ज़्यादा पैना करता हुआ।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/action/action_auto_en.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "imagines",
+                "t": 356.0,
+                "d": 597.0
+              },
+              {
+                "w": "future",
+                "t": 954.0,
+                "d": 459.0
+              },
+              {
+                "w": "enemies",
+                "t": 1413.0,
+                "d": 689.0
+              },
+              {
+                "w": "beyond",
+                "t": 2103.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 2563.0,
+                "d": 136.0
+              },
+              {
+                "w": "forests",
+                "t": 2700.0,
+                "d": 920.0
+              },
+              {
+                "w": "drilling",
+                "t": 4034.0,
+                "d": 458.0
+              },
+              {
+                "w": "his",
+                "t": 4493.0,
+                "d": 231.0
+              },
+              {
+                "w": "will",
+                "t": 4724.0,
+                "d": 643.0
+              },
+              {
+                "w": "sharper",
+                "t": 5367.0,
+                "d": 689.0
+              },
+              {
+                "w": "than",
+                "t": 6057.0,
+                "d": 229.0
+              },
+              {
+                "w": "any",
+                "t": 6287.0,
+                "d": 413.0
+              },
+              {
+                "w": "Kadamba",
+                "t": 6701.0,
+                "d": 505.0
+              },
+              {
+                "w": "spear",
+                "t": 7206.0,
+                "d": 643.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p04.png",
+      "shot": "close-up of Kakusthavarma studying a palm-leaf map with northern and Deccan realms marked",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "To the north, the Guptas shone like a midday sun; to the east, the Vakatakas guarded the Deccan. Between them, Kakusthavarma weighed iron, gold, and daughters.",
+            "hi": "उत्तर में गुप्त दोपहर के सूरज-से चमकते थे; पूर्व में वाकाटकों ने दक्खिन संभाला था। इनके बीच ककुष्ठवर्मा लोहे, सोने और बेटियों का तौल कर रहा था।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p04_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "To",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 244.0,
+                "d": 127.0
+              },
+              {
+                "w": "north",
+                "t": 372.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 712.0,
+                "d": 595.0
+              },
+              {
+                "w": "Guptas",
+                "t": 1308.0,
+                "d": 468.0
+              },
+              {
+                "w": "shone",
+                "t": 1776.0,
+                "d": 340.0
+              },
+              {
+                "w": "like",
+                "t": 2117.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 2329.0,
+                "d": 42.0
+              },
+              {
+                "w": "midday",
+                "t": 2372.0,
+                "d": 382.0
+              },
+              {
+                "w": "sun",
+                "t": 2755.0,
+                "d": 595.0
+              },
+              {
+                "w": "to",
+                "t": 3647.0,
+                "d": 171.0
+              },
+              {
+                "w": "the",
+                "t": 3819.0,
+                "d": 127.0
+              },
+              {
+                "w": "east",
+                "t": 3946.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 4372.0,
+                "d": 638.0
+              },
+              {
+                "w": "Vakatakas",
+                "t": 5010.0,
+                "d": 680.0
+              },
+              {
+                "w": "guarded",
+                "t": 5691.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 6074.0,
+                "d": 127.0
+              },
+              {
+                "w": "Deccan",
+                "t": 6202.0,
+                "d": 1276.0
+              },
+              {
+                "w": "Between",
+                "t": 7478.0,
+                "d": 510.0
+              },
+              {
+                "w": "them",
+                "t": 7989.0,
+                "d": 679.0
+              },
+              {
+                "w": "Kakusthavarma",
+                "t": 8754.0,
+                "d": 978.0
+              },
+              {
+                "w": "weighed",
+                "t": 9732.0,
+                "d": 298.0
+              },
+              {
+                "w": "iron",
+                "t": 10031.0,
+                "d": 510.0
+              },
+              {
+                "w": "gold",
+                "t": 10711.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 11521.0,
+                "d": 212.0
+              },
+              {
+                "w": "daughters",
+                "t": 11734.0,
+                "d": 765.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p05.png",
+      "shot": "epic interior wide of the Banavasi royal council with Brahmanas, ministers, and generals",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Talagunda pillar would later praise him as generous, firm, and widely allied, but in these councils the hard choices were made: where to strike, where to bow, and where to marry.",
+            "hi": "तालगुंड के स्तंभ ने बाद में उसे उदार, अडिग और सबका सखा कहा, पर इन्हीं सभाओं में कड़े फैसले गढ़े गए: कहाँ वार करना, कहाँ झुकना, और कहाँ ब्याह करना।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p05_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "Talagunda",
+                "t": 350.0,
+                "d": 560.0
+              },
+              {
+                "w": "pillar",
+                "t": 910.0,
+                "d": 280.0
+              },
+              {
+                "w": "would",
+                "t": 1190.0,
+                "d": 240.0
+              },
+              {
+                "w": "later",
+                "t": 1430.0,
+                "d": 320.0
+              },
+              {
+                "w": "praise",
+                "t": 1790.0,
+                "d": 320.0
+              },
+              {
+                "w": "him",
+                "t": 2110.0,
+                "d": 120.0
+              },
+              {
+                "w": "as",
+                "t": 2230.0,
+                "d": 159.0
+              },
+              {
+                "w": "generous",
+                "t": 2389.0,
+                "d": 721.0
+              },
+              {
+                "w": "firm",
+                "t": 3190.0,
+                "d": 799.0
+              },
+              {
+                "w": "and",
+                "t": 3989.0,
+                "d": 281.0
+              },
+              {
+                "w": "widely",
+                "t": 4270.0,
+                "d": 440.0
+              },
+              {
+                "w": "allied",
+                "t": 4710.0,
+                "d": 560.0
+              },
+              {
+                "w": "but",
+                "t": 5790.0,
+                "d": 240.0
+              },
+              {
+                "w": "in",
+                "t": 6030.0,
+                "d": 120.0
+              },
+              {
+                "w": "these",
+                "t": 6150.0,
+                "d": 280.0
+              },
+              {
+                "w": "councils",
+                "t": 6430.0,
+                "d": 760.0
+              },
+              {
+                "w": "the",
+                "t": 7230.0,
+                "d": 200.0
+              },
+              {
+                "w": "hard",
+                "t": 7430.0,
+                "d": 240.0
+              },
+              {
+                "w": "choices",
+                "t": 7670.0,
+                "d": 439.0
+              },
+              {
+                "w": "were",
+                "t": 8109.0,
+                "d": 161.0
+              },
+              {
+                "w": "made",
+                "t": 8270.0,
+                "d": 480.0
+              },
+              {
+                "w": "where",
+                "t": 9149.0,
+                "d": 281.0
+              },
+              {
+                "w": "to",
+                "t": 9430.0,
+                "d": 160.0
+              },
+              {
+                "w": "strike",
+                "t": 9590.0,
+                "d": 719.0
+              },
+              {
+                "w": "where",
+                "t": 10309.0,
+                "d": 281.0
+              },
+              {
+                "w": "to",
+                "t": 10590.0,
+                "d": 119.0
+              },
+              {
+                "w": "bow",
+                "t": 10709.0,
+                "d": 401.0
+              },
+              {
+                "w": "and",
+                "t": 11309.0,
+                "d": 281.0
+              },
+              {
+                "w": "where",
+                "t": 11590.0,
+                "d": 200.0
+              },
+              {
+                "w": "to",
+                "t": 11790.0,
+                "d": 80.0
+              },
+              {
+                "w": "marry",
+                "t": 11870.0,
+                "d": 519.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p06.png",
+      "shot": "medium shot of a Gupta envoy offering a scroll, with Kakusthavarma seated in thought",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Inscriptions remember it only as poetry: his daughters awakened the lotus-beds of the Guptas and other royal families. Behind that gentle line lies a hard reality of power.",
+            "hi": "शिलालेख इसे बस कविता में कहते हैं: उसकी बेटियों ने गुप्तों और दूसरे राजघरानों के कमल-ताल जगा दिए। उस नर्म पंक्ति के पीछे ताकत की सख्त सच्चाई छिपी है।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p06_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Inscriptions",
+                "t": 74.0,
+                "d": 851.0
+              },
+              {
+                "w": "remember",
+                "t": 925.0,
+                "d": 765.0
+              },
+              {
+                "w": "it",
+                "t": 1734.0,
+                "d": 340.0
+              },
+              {
+                "w": "only",
+                "t": 2074.0,
+                "d": 424.0
+              },
+              {
+                "w": "as",
+                "t": 2498.0,
+                "d": 213.0
+              },
+              {
+                "w": "poetry",
+                "t": 2712.0,
+                "d": 977.0
+              },
+              {
+                "w": "his",
+                "t": 3734.0,
+                "d": 255.0
+              },
+              {
+                "w": "daughters",
+                "t": 3989.0,
+                "d": 595.0
+              },
+              {
+                "w": "awakened",
+                "t": 4585.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 5138.0,
+                "d": 170.0
+              },
+              {
+                "w": "lotus-beds",
+                "t": 5308.0,
+                "d": 723.0
+              },
+              {
+                "w": "of",
+                "t": 6031.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 6202.0,
+                "d": 127.0
+              },
+              {
+                "w": "Guptas",
+                "t": 6329.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 7138.0,
+                "d": 340.0
+              },
+              {
+                "w": "other",
+                "t": 7478.0,
+                "d": 297.0
+              },
+              {
+                "w": "royal",
+                "t": 7776.0,
+                "d": 297.0
+              },
+              {
+                "w": "families",
+                "t": 8074.0,
+                "d": 764.0
+              },
+              {
+                "w": "Behind",
+                "t": 9861.0,
+                "d": 467.0
+              },
+              {
+                "w": "that",
+                "t": 10328.0,
+                "d": 171.0
+              },
+              {
+                "w": "gentle",
+                "t": 10500.0,
+                "d": 425.0
+              },
+              {
+                "w": "line",
+                "t": 10925.0,
+                "d": 595.0
+              },
+              {
+                "w": "lies",
+                "t": 11563.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 11904.0,
+                "d": 85.0
+              },
+              {
+                "w": "hard",
+                "t": 11989.0,
+                "d": 340.0
+              },
+              {
+                "w": "reality",
+                "t": 12329.0,
+                "d": 509.0
+              },
+              {
+                "w": "of",
+                "t": 12839.0,
+                "d": 170.0
+              },
+              {
+                "w": "power",
+                "t": 13009.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p07.png",
+      "shot": "soft-lit interior wide of a women’s courtyard, Kakusthavarma speaking with veiled princesses",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Your journeys will be longer than any march of my armies.",
+            "hi": "तुम्हारी यात्राएँ मेरी किसी भी सेना की चाल से लंबी होंगी।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p07_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Your",
+                "t": 52.6,
+                "d": 302.6
+              },
+              {
+                "w": "journeys",
+                "t": 355.2,
+                "d": 657.9
+              },
+              {
+                "w": "will",
+                "t": 1013.2,
+                "d": 223.7
+              },
+              {
+                "w": "be",
+                "t": 1236.8,
+                "d": 144.8
+              },
+              {
+                "w": "longer",
+                "t": 1407.9,
+                "d": 447.4
+              },
+              {
+                "w": "than",
+                "t": 1855.2,
+                "d": 302.6
+              },
+              {
+                "w": "any",
+                "t": 2250.0,
+                "d": 263.2
+              },
+              {
+                "w": "march",
+                "t": 2513.2,
+                "d": 434.2
+              },
+              {
+                "w": "of",
+                "t": 3013.2,
+                "d": 171.0
+              },
+              {
+                "w": "my",
+                "t": 3184.2,
+                "d": 276.3
+              },
+              {
+                "w": "armies",
+                "t": 3526.3,
+                "d": 644.8
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p08.png",
+      "shot": "low-angle wide of a marriage procession departing Banavasi’s gate toward the north",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The pillar does not name their husbands, only hints at Gupta princes and other kings. What it makes clear is this: Banavasi was now a bride's father whom empires courted.",
+            "hi": "स्तंभ उनके पतियों के नाम नहीं कहता, बस गुप्त कुमारों और दूसरे राजाओं की आहट देता है। पर एक बात साफ है: बनवासी अब वो बाप था जिसकी बेटी को साम्राज्य वर माँगते थे।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p08_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 117.0,
+                "d": 212.0
+              },
+              {
+                "w": "pillar",
+                "t": 329.0,
+                "d": 297.0
+              },
+              {
+                "w": "does",
+                "t": 627.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 797.0,
+                "d": 255.0
+              },
+              {
+                "w": "name",
+                "t": 1053.0,
+                "d": 255.0
+              },
+              {
+                "w": "their",
+                "t": 1308.0,
+                "d": 212.0
+              },
+              {
+                "w": "husbands",
+                "t": 1521.0,
+                "d": 851.0
+              },
+              {
+                "w": "only",
+                "t": 2456.0,
+                "d": 469.0
+              },
+              {
+                "w": "hints",
+                "t": 2925.0,
+                "d": 340.0
+              },
+              {
+                "w": "at",
+                "t": 3265.0,
+                "d": 212.0
+              },
+              {
+                "w": "Gupta",
+                "t": 3478.0,
+                "d": 340.0
+              },
+              {
+                "w": "princes",
+                "t": 3819.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 4542.0,
+                "d": 255.0
+              },
+              {
+                "w": "other",
+                "t": 4797.0,
+                "d": 297.0
+              },
+              {
+                "w": "kings",
+                "t": 5095.0,
+                "d": 1361.0
+              },
+              {
+                "w": "What",
+                "t": 6500.0,
+                "d": 255.0
+              },
+              {
+                "w": "it",
+                "t": 6755.0,
+                "d": 127.0
+              },
+              {
+                "w": "makes",
+                "t": 6882.0,
+                "d": 340.0
+              },
+              {
+                "w": "clear",
+                "t": 7223.0,
+                "d": 382.0
+              },
+              {
+                "w": "is",
+                "t": 7606.0,
+                "d": 212.0
+              },
+              {
+                "w": "this",
+                "t": 7819.0,
+                "d": 1360.0
+              },
+              {
+                "w": "Banavasi",
+                "t": 9179.0,
+                "d": 638.0
+              },
+              {
+                "w": "was",
+                "t": 9818.0,
+                "d": 213.0
+              },
+              {
+                "w": "now",
+                "t": 10031.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 10372.0,
+                "d": 127.0
+              },
+              {
+                "w": "bride's",
+                "t": 10500.0,
+                "d": 381.0
+              },
+              {
+                "w": "father",
+                "t": 10881.0,
+                "d": 554.0
+              },
+              {
+                "w": "whom",
+                "t": 11478.0,
+                "d": 170.0
+              },
+              {
+                "w": "empires",
+                "t": 11648.0,
+                "d": 595.0
+              },
+              {
+                "w": "courted",
+                "t": 12244.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p09.png",
+      "shot": "split-view style wide: on one side a Gupta court with a Kadamba princess, on the other Kakusthavarma in council",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In distant halls, Kadamba daughters shared festivals and births with Gupta kin. Back in Banavasi, their father's messengers walked corridors warmed by these unseen ties.",
+            "hi": "दूर के महलों में, कदंब कन्याएँ गुप्त रिश्तेदारी के साथ त्यौहार और जनम बाँटती थीं। बनवासी में, उनके पिता के दूत इन अदृश्य रिश्तों की गर्माहट में गलियारों से गुजरते थे।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p09_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "distant",
+                "t": 329.0,
+                "d": 382.0
+              },
+              {
+                "w": "halls",
+                "t": 712.0,
+                "d": 595.0
+              },
+              {
+                "w": "Kadamba",
+                "t": 1606.0,
+                "d": 468.0
+              },
+              {
+                "w": "daughters",
+                "t": 2074.0,
+                "d": 467.0
+              },
+              {
+                "w": "shared",
+                "t": 2541.0,
+                "d": 341.0
+              },
+              {
+                "w": "festivals",
+                "t": 2882.0,
+                "d": 637.0
+              },
+              {
+                "w": "and",
+                "t": 3520.0,
+                "d": 213.0
+              },
+              {
+                "w": "births",
+                "t": 3734.0,
+                "d": 381.0
+              },
+              {
+                "w": "with",
+                "t": 4115.0,
+                "d": 171.0
+              },
+              {
+                "w": "Gupta",
+                "t": 4287.0,
+                "d": 425.0
+              },
+              {
+                "w": "kin",
+                "t": 4712.0,
+                "d": 1404.0
+              },
+              {
+                "w": "Back",
+                "t": 6117.0,
+                "d": 297.0
+              },
+              {
+                "w": "in",
+                "t": 6414.0,
+                "d": 85.0
+              },
+              {
+                "w": "Banavasi",
+                "t": 6500.0,
+                "d": 765.0
+              },
+              {
+                "w": "their",
+                "t": 7521.0,
+                "d": 297.0
+              },
+              {
+                "w": "father's",
+                "t": 7819.0,
+                "d": 425.0
+              },
+              {
+                "w": "messengers",
+                "t": 8244.0,
+                "d": 594.0
+              },
+              {
+                "w": "walked",
+                "t": 8839.0,
+                "d": 384.0
+              },
+              {
+                "w": "corridors",
+                "t": 9223.0,
+                "d": 638.0
+              },
+              {
+                "w": "warmed",
+                "t": 9861.0,
+                "d": 467.0
+              },
+              {
+                "w": "by",
+                "t": 10328.0,
+                "d": 256.0
+              },
+              {
+                "w": "these",
+                "t": 10585.0,
+                "d": 255.0
+              },
+              {
+                "w": "unseen",
+                "t": 10840.0,
+                "d": 510.0
+              },
+              {
+                "w": "ties",
+                "t": 11351.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p10.png",
+      "shot": "wide of Kakusthavarma receiving a Vakataka envoy bearing a southern emblem",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Scholars later trace another thread: a princess of Kuntala, Ajjhitabhattarika, in Vakataka records. The Kadamba stone is silent on her father, but the pattern points back to Banavasi.",
+            "hi": "विद्वान बाद में एक और डोरी पकड़ते हैं: कुण्तल की एक राजकुमारी, अज्झितभट्टारिका, वाकाटक लेखों में। कदंब का पत्थर उसके पिता पर चुप है, पर धागा फिर बनवासी की ओर ही जाता है।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p10_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Scholars",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "later",
+                "t": 585.0,
+                "d": 382.0
+              },
+              {
+                "w": "trace",
+                "t": 968.0,
+                "d": 340.0
+              },
+              {
+                "w": "another",
+                "t": 1308.0,
+                "d": 425.0
+              },
+              {
+                "w": "thread",
+                "t": 1734.0,
+                "d": 553.0
+              },
+              {
+                "w": "a",
+                "t": 2712.0,
+                "d": 170.0
+              },
+              {
+                "w": "princess",
+                "t": 2882.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 3351.0,
+                "d": 169.0
+              },
+              {
+                "w": "Kuntala",
+                "t": 3520.0,
+                "d": 680.0
+              },
+              {
+                "w": "Ajjhitabhattarika",
+                "t": 4542.0,
+                "d": 1148.0
+              },
+              {
+                "w": "in",
+                "t": 5861.0,
+                "d": 170.0
+              },
+              {
+                "w": "Vakataka",
+                "t": 6031.0,
+                "d": 510.0
+              },
+              {
+                "w": "records",
+                "t": 6542.0,
+                "d": 680.0
+              },
+              {
+                "w": "The",
+                "t": 8031.0,
+                "d": 212.0
+              },
+              {
+                "w": "Kadamba",
+                "t": 8244.0,
+                "d": 424.0
+              },
+              {
+                "w": "stone",
+                "t": 8669.0,
+                "d": 469.0
+              },
+              {
+                "w": "is",
+                "t": 9138.0,
+                "d": 126.0
+              },
+              {
+                "w": "silent",
+                "t": 9264.0,
+                "d": 468.0
+              },
+              {
+                "w": "on",
+                "t": 9732.0,
+                "d": 170.0
+              },
+              {
+                "w": "her",
+                "t": 9903.0,
+                "d": 128.0
+              },
+              {
+                "w": "father",
+                "t": 10031.0,
+                "d": 638.0
+              },
+              {
+                "w": "but",
+                "t": 11095.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 11265.0,
+                "d": 170.0
+              },
+              {
+                "w": "pattern",
+                "t": 11436.0,
+                "d": 424.0
+              },
+              {
+                "w": "points",
+                "t": 11860.0,
+                "d": 384.0
+              },
+              {
+                "w": "back",
+                "t": 12244.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 12500.0,
+                "d": 127.0
+              },
+              {
+                "w": "Banavasi",
+                "t": 12627.0,
+                "d": 722.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p11.png",
+      "shot": "medium of Kakusthavarma handing a bride-price chest to an attendant before a map of the Deccan",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By linking Guptas in the north and Vakatakas in the Deccan, his house gained more than friends. It gained time, security, and a place in the circuitry of imperial marriage.",
+            "hi": "उत्तर के गुप्तों और दक्खिन के वाकाटकों को जोड़कर, उसके घर ने सिर्फ दोस्त नहीं पाए। उसे वक्त मिला, सुरक्षा मिली, और साम्राज्यों की वैवाहिक जाल-नक्शे में जगह मिली।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p11_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "linking",
+                "t": 372.0,
+                "d": 468.0
+              },
+              {
+                "w": "Guptas",
+                "t": 840.0,
+                "d": 553.0
+              },
+              {
+                "w": "in",
+                "t": 1393.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 1563.0,
+                "d": 127.0
+              },
+              {
+                "w": "north",
+                "t": 1691.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 2287.0,
+                "d": 254.0
+              },
+              {
+                "w": "Vakatakas",
+                "t": 2541.0,
+                "d": 638.0
+              },
+              {
+                "w": "in",
+                "t": 3179.0,
+                "d": 86.0
+              },
+              {
+                "w": "the",
+                "t": 3265.0,
+                "d": 127.0
+              },
+              {
+                "w": "Deccan",
+                "t": 3393.0,
+                "d": 553.0
+              },
+              {
+                "w": "his",
+                "t": 4201.0,
+                "d": 341.0
+              },
+              {
+                "w": "house",
+                "t": 4542.0,
+                "d": 340.0
+              },
+              {
+                "w": "gained",
+                "t": 4882.0,
+                "d": 468.0
+              },
+              {
+                "w": "more",
+                "t": 5351.0,
+                "d": 255.0
+              },
+              {
+                "w": "than",
+                "t": 5606.0,
+                "d": 212.0
+              },
+              {
+                "w": "friends",
+                "t": 5819.0,
+                "d": 595.0
+              },
+              {
+                "w": "It",
+                "t": 6840.0,
+                "d": 297.0
+              },
+              {
+                "w": "gained",
+                "t": 7138.0,
+                "d": 382.0
+              },
+              {
+                "w": "time",
+                "t": 7521.0,
+                "d": 723.0
+              },
+              {
+                "w": "security",
+                "t": 8287.0,
+                "d": 1191.0
+              },
+              {
+                "w": "and",
+                "t": 9521.0,
+                "d": 296.0
+              },
+              {
+                "w": "a",
+                "t": 9818.0,
+                "d": 128.0
+              },
+              {
+                "w": "place",
+                "t": 9946.0,
+                "d": 381.0
+              },
+              {
+                "w": "in",
+                "t": 10328.0,
+                "d": 86.0
+              },
+              {
+                "w": "the",
+                "t": 10414.0,
+                "d": 170.0
+              },
+              {
+                "w": "circuitry",
+                "t": 10585.0,
+                "d": 637.0
+              },
+              {
+                "w": "of",
+                "t": 11222.0,
+                "d": 213.0
+              },
+              {
+                "w": "imperial",
+                "t": 11436.0,
+                "d": 594.0
+              },
+              {
+                "w": "marriage",
+                "t": 12030.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/kakusthavarma_bridegroom_of_empires/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/kakusthavarma_bridegroom_of_empires/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He rides out to the frontier, testing alliances with steel-ready calm as Deccan winds lash his cloak.",
+            "hi": "वो सरहद पर निकल पड़ता है, दक्खनी हवा उसकी चोगा पीटती, और वो तलवार-सी ठंडी शांति से नए दोस्त आज़माता है।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/action/action_auto2_en.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "rides",
+                "t": 310.0,
+                "d": 360.0
+              },
+              {
+                "w": "out",
+                "t": 670.0,
+                "d": 120.0
+              },
+              {
+                "w": "to",
+                "t": 790.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 870.0,
+                "d": 120.0
+              },
+              {
+                "w": "frontier",
+                "t": 990.0,
+                "d": 560.0
+              },
+              {
+                "w": "testing",
+                "t": 1990.0,
+                "d": 439.0
+              },
+              {
+                "w": "alliances",
+                "t": 2429.0,
+                "d": 601.0
+              },
+              {
+                "w": "with",
+                "t": 3030.0,
+                "d": 160.0
+              },
+              {
+                "w": "steel-ready",
+                "t": 3190.0,
+                "d": 560.0
+              },
+              {
+                "w": "calm",
+                "t": 3750.0,
+                "d": 600.0
+              },
+              {
+                "w": "as",
+                "t": 4390.0,
+                "d": 320.0
+              },
+              {
+                "w": "Deccan",
+                "t": 4710.0,
+                "d": 320.0
+              },
+              {
+                "w": "winds",
+                "t": 5030.0,
+                "d": 480.0
+              },
+              {
+                "w": "lash",
+                "t": 5550.0,
+                "d": 440.0
+              },
+              {
+                "w": "his",
+                "t": 5990.0,
+                "d": 200.0
+              },
+              {
+                "w": "cloak",
+                "t": 6190.0,
+                "d": 520.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p12.png",
+      "shot": "close-up of a copper plate grant being engraved, with Kakusthavarma watching",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "His Halasi plates open with praise of the Jina and then unfurl lines of land grants, showing a ruler who could honour Jain teachers, feed Brahmanas, and still arm his warriors.",
+            "hi": "उसकी हलसी की ताम्रपट्टियाँ जिन की स्तुति से शुरू होकर भूदानों की पंक्तियों में फैलती हैं – एक ऐसा नरेश दिखता है जो जैन आचार्यों का मान रखे, ब्राह्मणों को भोजना दे, और फिर भी रणभेरी बजा सके।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p12_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "His",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "Halasi",
+                "t": 402.0,
+                "d": 413.0
+              },
+              {
+                "w": "plates",
+                "t": 816.0,
+                "d": 505.0
+              },
+              {
+                "w": "open",
+                "t": 1321.0,
+                "d": 505.0
+              },
+              {
+                "w": "with",
+                "t": 1827.0,
+                "d": 229.0
+              },
+              {
+                "w": "praise",
+                "t": 2057.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 2425.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 2563.0,
+                "d": 136.0
+              },
+              {
+                "w": "Jina",
+                "t": 2700.0,
+                "d": 368.0
+              },
+              {
+                "w": "and",
+                "t": 3068.0,
+                "d": 872.0
+              },
+              {
+                "w": "then",
+                "t": 3941.0,
+                "d": 277.0
+              },
+              {
+                "w": "unfurl",
+                "t": 4218.0,
+                "d": 597.0
+              },
+              {
+                "w": "lines",
+                "t": 4816.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 5183.0,
+                "d": 137.0
+              },
+              {
+                "w": "land",
+                "t": 5321.0,
+                "d": 321.0
+              },
+              {
+                "w": "grants",
+                "t": 5643.0,
+                "d": 735.0
+              },
+              {
+                "w": "showing",
+                "t": 6609.0,
+                "d": 505.0
+              },
+              {
+                "w": "a",
+                "t": 7114.0,
+                "d": 45.0
+              },
+              {
+                "w": "ruler",
+                "t": 7160.0,
+                "d": 459.0
+              },
+              {
+                "w": "who",
+                "t": 7620.0,
+                "d": 183.0
+              },
+              {
+                "w": "could",
+                "t": 7804.0,
+                "d": 229.0
+              },
+              {
+                "w": "honour",
+                "t": 8126.0,
+                "d": 367.0
+              },
+              {
+                "w": "Jain",
+                "t": 8494.0,
+                "d": 367.0
+              },
+              {
+                "w": "teachers",
+                "t": 8862.0,
+                "d": 919.0
+              },
+              {
+                "w": "feed",
+                "t": 9918.0,
+                "d": 414.0
+              },
+              {
+                "w": "Brahmanas",
+                "t": 10333.0,
+                "d": 826.0
+              },
+              {
+                "w": "and",
+                "t": 11159.0,
+                "d": 413.0
+              },
+              {
+                "w": "still",
+                "t": 11573.0,
+                "d": 414.0
+              },
+              {
+                "w": "arm",
+                "t": 12033.0,
+                "d": 322.0
+              },
+              {
+                "w": "his",
+                "t": 12356.0,
+                "d": 183.0
+              },
+              {
+                "w": "warriors",
+                "t": 12540.0,
+                "d": 826.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p13.png",
+      "shot": "low-angle wide of a temple precinct where Jain monks and Brahmanas share the space",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "This balance was no gentle accident. A Jain invocation on copper, a Brahmana poet on stone, a kshatriya army on the march: Kadamba power rested on all three.",
+            "hi": "यह संतुलन यूँ ही नहीं बना। ताँबे पर जैन मंगल, पत्थर पर ब्राह्मण कवि, और चाल में क्षत्रिय सेना – कदंब शक्ति इन तीनों पर टिकी थी।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p13_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "This",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "balance",
+                "t": 350.0,
+                "d": 440.0
+              },
+              {
+                "w": "was",
+                "t": 790.0,
+                "d": 240.0
+              },
+              {
+                "w": "no",
+                "t": 1030.0,
+                "d": 240.0
+              },
+              {
+                "w": "gentle",
+                "t": 1270.0,
+                "d": 400.0
+              },
+              {
+                "w": "accident",
+                "t": 1670.0,
+                "d": 719.0
+              },
+              {
+                "w": "A",
+                "t": 3190.0,
+                "d": 159.0
+              },
+              {
+                "w": "Jain",
+                "t": 3349.0,
+                "d": 281.0
+              },
+              {
+                "w": "invocation",
+                "t": 3630.0,
+                "d": 640.0
+              },
+              {
+                "w": "on",
+                "t": 4270.0,
+                "d": 160.0
+              },
+              {
+                "w": "copper",
+                "t": 4430.0,
+                "d": 520.0
+              },
+              {
+                "w": "a",
+                "t": 5230.0,
+                "d": 160.0
+              },
+              {
+                "w": "Brahmana",
+                "t": 5390.0,
+                "d": 440.0
+              },
+              {
+                "w": "poet",
+                "t": 5830.0,
+                "d": 280.0
+              },
+              {
+                "w": "on",
+                "t": 6110.0,
+                "d": 120.0
+              },
+              {
+                "w": "stone",
+                "t": 6230.0,
+                "d": 800.0
+              },
+              {
+                "w": "a",
+                "t": 7110.0,
+                "d": 120.0
+              },
+              {
+                "w": "kshatriya",
+                "t": 7230.0,
+                "d": 520.0
+              },
+              {
+                "w": "army",
+                "t": 7750.0,
+                "d": 359.0
+              },
+              {
+                "w": "on",
+                "t": 8109.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 8229.0,
+                "d": 121.0
+              },
+              {
+                "w": "march",
+                "t": 8350.0,
+                "d": 1240.0
+              },
+              {
+                "w": "Kadamba",
+                "t": 9629.0,
+                "d": 401.0
+              },
+              {
+                "w": "power",
+                "t": 10030.0,
+                "d": 320.0
+              },
+              {
+                "w": "rested",
+                "t": 10350.0,
+                "d": 440.0
+              },
+              {
+                "w": "on",
+                "t": 10790.0,
+                "d": 240.0
+              },
+              {
+                "w": "all",
+                "t": 11069.0,
+                "d": 281.0
+              },
+              {
+                "w": "three",
+                "t": 11350.0,
+                "d": 400.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p14.png",
+      "shot": "epic bird’s-eye over Banavasi and the wider subcontinent with lines tracing alliances",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Where spears falter, marriages may pass. In Kakusthavarma's time, the Kadamba realm stretched not by conquest alone, but by threads of kinship binding far-off thrones.",
+            "hi": "जहाँ भाले रुकते हैं, वहाँ शादियाँ निकल जाती हैं। ककुष्ठवर्मा के समय कदंब सीमा सिर्फ विजय से नहीं, रिश्तों के धागों से फैलती है जो दूर के सिंहासनों को बाँधते हैं।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p14_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Where",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "spears",
+                "t": 350.0,
+                "d": 360.0
+              },
+              {
+                "w": "falter",
+                "t": 710.0,
+                "d": 680.0
+              },
+              {
+                "w": "marriages",
+                "t": 1590.0,
+                "d": 560.0
+              },
+              {
+                "w": "may",
+                "t": 2150.0,
+                "d": 199.0
+              },
+              {
+                "w": "pass",
+                "t": 2349.0,
+                "d": 560.0
+              },
+              {
+                "w": "In",
+                "t": 3670.0,
+                "d": 279.0
+              },
+              {
+                "w": "Kakusthavarma's",
+                "t": 3949.0,
+                "d": 881.0
+              },
+              {
+                "w": "time",
+                "t": 4830.0,
+                "d": 760.0
+              },
+              {
+                "w": "the",
+                "t": 5630.0,
+                "d": 200.0
+              },
+              {
+                "w": "Kadamba",
+                "t": 5830.0,
+                "d": 440.0
+              },
+              {
+                "w": "realm",
+                "t": 6270.0,
+                "d": 360.0
+              },
+              {
+                "w": "stretched",
+                "t": 6630.0,
+                "d": 560.0
+              },
+              {
+                "w": "not",
+                "t": 7230.0,
+                "d": 320.0
+              },
+              {
+                "w": "by",
+                "t": 7550.0,
+                "d": 240.0
+              },
+              {
+                "w": "conquest",
+                "t": 7790.0,
+                "d": 519.0
+              },
+              {
+                "w": "alone",
+                "t": 8309.0,
+                "d": 641.0
+              },
+              {
+                "w": "but",
+                "t": 9149.0,
+                "d": 361.0
+              },
+              {
+                "w": "by",
+                "t": 9510.0,
+                "d": 240.0
+              },
+              {
+                "w": "threads",
+                "t": 9750.0,
+                "d": 360.0
+              },
+              {
+                "w": "of",
+                "t": 10110.0,
+                "d": 160.0
+              },
+              {
+                "w": "kinship",
+                "t": 10270.0,
+                "d": 400.0
+              },
+              {
+                "w": "binding",
+                "t": 10670.0,
+                "d": 479.0
+              },
+              {
+                "w": "far-off",
+                "t": 11149.0,
+                "d": 361.0
+              },
+              {
+                "w": "thrones",
+                "t": 11510.0,
+                "d": 719.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/kakusthavarma_bridegroom_of_empires/split_auto/s0.png",
+          "slogan": {
+            "en": "Kadamba honor binds the realm",
+            "hi": "कदम्ब मर्यादा से साम्राज्य"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/kakusthavarma_bridegroom_of_empires/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/kakusthavarma_bridegroom_of_empires/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Allied thrones from north and Deccan pivot around Banavasi, their fates braided by Kadamba resolve.",
+            "hi": "उत्तर और दक्कन के मिले तख़्त बनवासी पर टिके हैं, उनकी किस्मतें कदम्बा जज़्बे से बंधी हैं।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/split/split_auto_en.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Allied",
+                "t": 114.0,
+                "d": 375.0
+              },
+              {
+                "w": "thrones",
+                "t": 489.0,
+                "d": 416.0
+              },
+              {
+                "w": "from",
+                "t": 906.0,
+                "d": 250.0
+              },
+              {
+                "w": "north",
+                "t": 1156.0,
+                "d": 458.0
+              },
+              {
+                "w": "and",
+                "t": 1656.0,
+                "d": 208.0
+              },
+              {
+                "w": "Deccan",
+                "t": 1864.0,
+                "d": 416.0
+              },
+              {
+                "w": "pivot",
+                "t": 2281.0,
+                "d": 416.0
+              },
+              {
+                "w": "around",
+                "t": 2739.0,
+                "d": 373.0
+              },
+              {
+                "w": "Banavasi",
+                "t": 3113.0,
+                "d": 792.0
+              },
+              {
+                "w": "their",
+                "t": 4322.0,
+                "d": 291.0
+              },
+              {
+                "w": "fates",
+                "t": 4614.0,
+                "d": 333.0
+              },
+              {
+                "w": "braided",
+                "t": 4947.0,
+                "d": 416.0
+              },
+              {
+                "w": "by",
+                "t": 5364.0,
+                "d": 250.0
+              },
+              {
+                "w": "Kadamba",
+                "t": 5614.0,
+                "d": 458.0
+              },
+              {
+                "w": "resolve",
+                "t": 6072.0,
+                "d": 833.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p15.png",
+      "shot": "medium of an aged Kakusthavarma listening to a court poet recite the Talagunda verses",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Talagunda pillar calls his daughters lotus-stirrers in royal ponds, his own name a crest-jewel of the Kadambas. Beyond the poetry lies a sober record of alliances carefully won.",
+            "hi": "तालगुंड का स्तंभ उसकी बेटियों को राज-सरोंवरों की कमल-जागाने वाली कहता है, और उसके नाम को कदंबों का मस्तक-मणि। कविता के पीछे सावधानी से जीती गई संधियों की खामोश गिनती है।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p15_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "Talagunda",
+                "t": 230.0,
+                "d": 600.0
+              },
+              {
+                "w": "pillar",
+                "t": 870.0,
+                "d": 240.0
+              },
+              {
+                "w": "calls",
+                "t": 1230.0,
+                "d": 280.0
+              },
+              {
+                "w": "his",
+                "t": 1510.0,
+                "d": 160.0
+              },
+              {
+                "w": "daughters",
+                "t": 1670.0,
+                "d": 520.0
+              },
+              {
+                "w": "lotus-stirrers",
+                "t": 2190.0,
+                "d": 840.0
+              },
+              {
+                "w": "in",
+                "t": 3030.0,
+                "d": 240.0
+              },
+              {
+                "w": "royal",
+                "t": 3270.0,
+                "d": 280.0
+              },
+              {
+                "w": "ponds",
+                "t": 3550.0,
+                "d": 680.0
+              },
+              {
+                "w": "his",
+                "t": 4350.0,
+                "d": 240.0
+              },
+              {
+                "w": "own",
+                "t": 4590.0,
+                "d": 200.0
+              },
+              {
+                "w": "name",
+                "t": 4790.0,
+                "d": 480.0
+              },
+              {
+                "w": "a",
+                "t": 5270.0,
+                "d": 200.0
+              },
+              {
+                "w": "crest-jewel",
+                "t": 5470.0,
+                "d": 680.0
+              },
+              {
+                "w": "of",
+                "t": 6150.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 6310.0,
+                "d": 120.0
+              },
+              {
+                "w": "Kadambas",
+                "t": 6430.0,
+                "d": 760.0
+              },
+              {
+                "w": "Beyond",
+                "t": 7950.0,
+                "d": 359.0
+              },
+              {
+                "w": "the",
+                "t": 8309.0,
+                "d": 121.0
+              },
+              {
+                "w": "poetry",
+                "t": 8430.0,
+                "d": 480.0
+              },
+              {
+                "w": "lies",
+                "t": 8910.0,
+                "d": 239.0
+              },
+              {
+                "w": "a",
+                "t": 9149.0,
+                "d": 80.0
+              },
+              {
+                "w": "sober",
+                "t": 9229.0,
+                "d": 441.0
+              },
+              {
+                "w": "record",
+                "t": 9670.0,
+                "d": 360.0
+              },
+              {
+                "w": "of",
+                "t": 10030.0,
+                "d": 119.0
+              },
+              {
+                "w": "alliances",
+                "t": 10149.0,
+                "d": 761.0
+              },
+              {
+                "w": "carefully",
+                "t": 10910.0,
+                "d": 479.0
+              },
+              {
+                "w": "won",
+                "t": 11389.0,
+                "d": 401.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p16.png",
+      "shot": "close-up of the Talagunda inscription’s lines, Kakusthavarma’s shadow falling across the stone",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "We do not hear every name, see every face. Inscriptions are fragments, yet through them we glimpse a king who understood that daughters could carry a kingdom further than chariots.",
+            "hi": "हम हर नाम नहीं सुनते, हर चेहरा नहीं देखते। शिलालेख टुकड़े हैं, पर इन्हीं से एक ऐसा राजा दिख जाता है जो समझता था कि बेटियाँ रथों से भी आगे तक राज्य को ले जा सकती हैं।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p16_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "do",
+                "t": 270.0,
+                "d": 80.0
+              },
+              {
+                "w": "not",
+                "t": 350.0,
+                "d": 240.0
+              },
+              {
+                "w": "hear",
+                "t": 590.0,
+                "d": 200.0
+              },
+              {
+                "w": "every",
+                "t": 790.0,
+                "d": 400.0
+              },
+              {
+                "w": "name",
+                "t": 1190.0,
+                "d": 560.0
+              },
+              {
+                "w": "see",
+                "t": 2110.0,
+                "d": 359.0
+              },
+              {
+                "w": "every",
+                "t": 2510.0,
+                "d": 439.0
+              },
+              {
+                "w": "face",
+                "t": 2949.0,
+                "d": 641.0
+              },
+              {
+                "w": "Inscriptions",
+                "t": 4150.0,
+                "d": 720.0
+              },
+              {
+                "w": "are",
+                "t": 4870.0,
+                "d": 120.0
+              },
+              {
+                "w": "fragments",
+                "t": 4990.0,
+                "d": 840.0
+              },
+              {
+                "w": "yet",
+                "t": 6150.0,
+                "d": 360.0
+              },
+              {
+                "w": "through",
+                "t": 6510.0,
+                "d": 320.0
+              },
+              {
+                "w": "them",
+                "t": 6830.0,
+                "d": 560.0
+              },
+              {
+                "w": "we",
+                "t": 7390.0,
+                "d": 320.0
+              },
+              {
+                "w": "glimpse",
+                "t": 7710.0,
+                "d": 319.0
+              },
+              {
+                "w": "a",
+                "t": 8029.0,
+                "d": 120.0
+              },
+              {
+                "w": "king",
+                "t": 8149.0,
+                "d": 480.0
+              },
+              {
+                "w": "who",
+                "t": 8670.0,
+                "d": 240.0
+              },
+              {
+                "w": "understood",
+                "t": 8910.0,
+                "d": 520.0
+              },
+              {
+                "w": "that",
+                "t": 9430.0,
+                "d": 199.0
+              },
+              {
+                "w": "daughters",
+                "t": 9629.0,
+                "d": 481.0
+              },
+              {
+                "w": "could",
+                "t": 10110.0,
+                "d": 199.0
+              },
+              {
+                "w": "carry",
+                "t": 10309.0,
+                "d": 240.0
+              },
+              {
+                "w": "a",
+                "t": 10549.0,
+                "d": 160.0
+              },
+              {
+                "w": "kingdom",
+                "t": 10709.0,
+                "d": 440.0
+              },
+              {
+                "w": "further",
+                "t": 11149.0,
+                "d": 400.0
+              },
+              {
+                "w": "than",
+                "t": 11549.0,
+                "d": 160.0
+              },
+              {
+                "w": "chariots",
+                "t": 11709.0,
+                "d": 801.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/kakusthavarma_bridegroom_of_empires/img/p17.png",
+      "shot": "final wide shot of a modern researcher in a dusty site with the Talagunda pillar, Kakusthavarma imagined behind",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In an age that still trusts only armies, Kakusthavarma's stone voice whispers another lesson: that quiet pacts, shared lineages and remembered promises can anchor a small kingdom in a storm of empires.",
+            "hi": "एक ऐसा युग जो अब भी सिर्फ सेनाओं पर भरोसा करता था, उसमें ककुष्ठवर्मा की पत्थर-आवाज़ दूसरी सीख देती है: कि चुप संधियाँ, साझा वंश, और याद रखे गए वादे किसी छोटे राज्य को साम्राज्यों के तूफान में जकड़ कर रख सकते हैं।"
+          },
+          "audio": {
+            "en": "assets/kakusthavarma_bridegroom_of_empires/audio/en/p17_0.mp3",
+            "hi": "assets/kakusthavarma_bridegroom_of_empires/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 120.0
+              },
+              {
+                "w": "an",
+                "t": 190.0,
+                "d": 200.0
+              },
+              {
+                "w": "age",
+                "t": 390.0,
+                "d": 200.0
+              },
+              {
+                "w": "that",
+                "t": 590.0,
+                "d": 200.0
+              },
+              {
+                "w": "still",
+                "t": 790.0,
+                "d": 400.0
+              },
+              {
+                "w": "trusts",
+                "t": 1190.0,
+                "d": 480.0
+              },
+              {
+                "w": "only",
+                "t": 1670.0,
+                "d": 400.0
+              },
+              {
+                "w": "armies",
+                "t": 2070.0,
+                "d": 719.0
+              },
+              {
+                "w": "Kakusthavarma's",
+                "t": 3190.0,
+                "d": 960.0
+              },
+              {
+                "w": "stone",
+                "t": 4150.0,
+                "d": 360.0
+              },
+              {
+                "w": "voice",
+                "t": 4510.0,
+                "d": 240.0
+              },
+              {
+                "w": "whispers",
+                "t": 4750.0,
+                "d": 560.0
+              },
+              {
+                "w": "another",
+                "t": 5350.0,
+                "d": 360.0
+              },
+              {
+                "w": "lesson",
+                "t": 5710.0,
+                "d": 680.0
+              },
+              {
+                "w": "that",
+                "t": 6830.0,
+                "d": 320.0
+              },
+              {
+                "w": "quiet",
+                "t": 7150.0,
+                "d": 280.0
+              },
+              {
+                "w": "pacts",
+                "t": 7430.0,
+                "d": 639.0
+              },
+              {
+                "w": "shared",
+                "t": 8229.0,
+                "d": 400.0
+              },
+              {
+                "w": "lineages",
+                "t": 8629.0,
+                "d": 801.0
+              },
+              {
+                "w": "and",
+                "t": 9590.0,
+                "d": 320.0
+              },
+              {
+                "w": "remembered",
+                "t": 9910.0,
+                "d": 440.0
+              },
+              {
+                "w": "promises",
+                "t": 10350.0,
+                "d": 560.0
+              },
+              {
+                "w": "can",
+                "t": 10910.0,
+                "d": 200.0
+              },
+              {
+                "w": "anchor",
+                "t": 11110.0,
+                "d": 519.0
+              },
+              {
+                "w": "a",
+                "t": 11629.0,
+                "d": 121.0
+              },
+              {
+                "w": "small",
+                "t": 11750.0,
+                "d": 479.0
+              },
+              {
+                "w": "kingdom",
+                "t": 12229.0,
+                "d": 441.0
+              },
+              {
+                "w": "in",
+                "t": 12670.0,
+                "d": 120.0
+              },
+              {
+                "w": "a",
+                "t": 12790.0,
+                "d": 80.0
+              },
+              {
+                "w": "storm",
+                "t": 12870.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 13190.0,
+                "d": 160.0
+              },
+              {
+                "w": "empires",
+                "t": 13350.0,
+                "d": 799.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Kakusthavarma of Banavasi",
+    "epithets": [
+      "Kadamba Maharaja",
+      "Lord of Banavasi",
+      "Gupta Ally by Marriage",
+      "Master of Royal Alliances"
+    ],
+    "legend": "He married kingdoms together, and made a forest city feared."
+  }
+}
