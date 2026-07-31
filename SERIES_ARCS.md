@@ -390,6 +390,32 @@ moment is told with **source-criticism and non-communal framing**.
 12. **Karnataka Campaign and the Deccani Alliance** ✅ — the 1677 southern expedition and the Shia Qutb Shahi alliance, "freedom needs steel minds, not narrow labels"; the Ekoji subplot. *(southern horizon — non-communal)*
 13. **Raigad: Death and the Unfinished Swarajya** ✅ — the 1680 death (cause left open), the Sambhaji/Rajaram succession, and the contested afterlife of his legacy. *(the unfinished Swarajya)*
 
+## 🪨 The Satavahana Empire of the Deccan  *(Ancient — c. 1st century BCE – 3rd century CE, the Deccan)*  — **✅ CHAPTER COMPLETE (13/13)**
+The Deccan's first great empire, rebuilt from stone, coin and Prakrit inscription rather than court chronicle — source-critical to its core, and distinct from the Tamil-blended "Satavahanas and the Sangam Age" chapter.
+
+**I. Blood and Stone**
+1. **The King No One Can Date** ✅ — Simuka & Kanha and a founding chronology no source can pin down. *(the dating problem)*
+2. **Fire and Soma at Naneghat** ✅ — Queen Naganika's sacrificial hall and her regency carved into the mountain pass. *(ritual sovereignty)*
+3. **Kanaganahalli Shows a King's Face** ✅ — the labelled relief that gives a Satavahana king an actual portrait. *(archaeology)*
+
+**II. Mothers and Names**
+4. **The Mother's Eulogy in Cave Three** ✅ — Gautami Balashri's Nashik prashasti of Gautamiputra Satakarni, read as public performance. *(epigraphy)*
+5. **Son of Gautami, Son of Vasishthi** ✅ — the matronymic naming puzzle, weighed carefully against overclaims of matriarchy. *(social history)*
+
+**III. Conquest by Coin**
+6. **The Hoard That Overstruck Nahapana** ✅ — the Jogalthambi hoard where Gautamiputra's name is hammered over the Kshaharata Nahapana's coins. *(numismatics)*
+7. **Lead, Potin and the Ship Coins** ✅ — monetary innovation: lead as a main currency and the maritime ship-type coinage. *(economic innovation)*
+
+**IV. Rock, Roads and Ports**
+8. **Chisels in the Vaulted Dark** ✅ — the cave engineers of Bhaja–Kanheri who carved timber halls into living basalt. *(engineering innovation)*
+9. **Pratishthana and the Aharas** ✅ — Sivakhandila and the ahara district system of immunity-grants and negotiated rule. *(administration)*
+10. **The Sailor's Notebook of Kalyan** ✅ — the Periplus merchant mapping Kalliena, Suppara and Tagara for the Indo-Roman trade. *(economic/scholarly)*
+
+**V. The Word and the Afterlife**
+11. **Prakrit Becomes the Language of Power** ✅ — Maharashtri Prakrit chosen over Sanskrit as the crafted voice of royal stone. *(linguistic innovation)*
+12. **Gunadhya's Lost Great Tale** ✅ — the vanished Brihatkatha in "ghost-speech" Paishachi, surviving only through Kashmiri retellings. *(literary history)*
+13. **When the Deccan Empire Split** ✅ — the fragmentation into Abhiras, Ikshvakus and Chutus, told as "a long untying." *(decline & succession)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.

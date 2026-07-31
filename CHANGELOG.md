@@ -5,6 +5,17 @@ problems. Newest first.
 
 ---
 
+## 2026-07-31 — 🪨 The Satavahana Empire of the Deccan COMPLETE (13/13) · 19 chapters · the Deccan's first empire, told through stone, coin and Prakrit · builds roll into the Kadamba Dynasty of Banavasi
+
+- **The Satavahana Empire of the Deccan is COMPLETE (13/13, all QA-clean):** the first great Deccan empire (c. 1st c. BCE – 3rd c. CE), reconstructed almost entirely from **material and epigraphic evidence** — inscriptions, coins, cave-architecture and the Periplus — because the dynasty left no court chronicle. Deliberately distinct from the earlier Tamil-blended "Satavahanas and the Sangam Age" (🪙) chapter: this one is Deccan-imperial and source-critical to its core.
+- **Five grouped acts:** *Blood and Stone* (the Simuka/Kanha dating problem, Naneghat & Queen Naganika, the Kanaganahalli relief that puts a face on a king) · *Mothers and Names* (Gautami Balashri's Nashik Cave 3 prashasti, the matronymic puzzle) · *Conquest by Coin* (the Jogalthambi hoard where Gautamiputra overstruck Nahapana, the lead/potin/ship coinage) · *Rock, Roads and Ports* (the cave engineers of Bhaja–Kanheri, the ahara administration, the Periplus merchant's notebook) · *The Word and the Afterlife* (Prakrit as the language of power, Gunadhya's lost Brihatkatha, the empire's fragmentation into Abhiras/Ikshvakus/Chutus).
+- **Source-criticism as a through-line, not a footnote:** the chapter repeatedly foregrounds *what we cannot know* — "let uncertainty be part of the truth" (the founding chronology), the prashasti read "with care" as public performance, coin overstrikes offering "sequence instead of tidy dates" (78 CE vs 124 CE), the manuscript-burning legend held at arm's length, and the dynasty's end framed as "a long untying," not one final night. Real numismatists and philologists are cited by name (Rapson, Bhandare, Sheldon Pollock, Andrew Ollett).
+- **Innovation stories across every lens** @naveenneog asked for (social/scientific/economic/scholarly): rock-cut engineering (carving "from the face inward," timber joinery imitated in basalt), monetary innovation (lead as a main currency; the maritime ship-type coins), administrative innovation (the ahara/immunity-grant system, "negotiation, not a flat chain of command"), and the scholarly-linguistic leap of making **Maharashtri Prakrit the very voice of royal power** before Sanskrit reclaimed the epigraphic record.
+- **Non-communal framing throughout:** the Saka/Kshaharata rivals (Nahapana, Rudradaman) are named and treated as legitimate rulers; the Junagadh inscription's "defeated Satakarni twice but spared him for kinship" is used as evidence, not triumphalism; Buddhist cave-patronage and brahmanical ritual sit side by side in one economy.
+- **QA:** every coin, inscription and manuscript panel was zoomed for baked text — the Greek wax-tablet legibly and correctly reads **ΚΑΛΛΙΕΝΑ / ΤΑΓΑΡΑ**, the overstrike die reads **गौतमीपुत्र सातकर्णी**, Naganika's stone reads **मातृश्री नागानिका**, and Nahapana's portrait carries authentically *blundered* Greek. Two hero cards carrying stray IAST diacritics (**Śivakhaṇḍila → Sivakhandila**, **Guṇāḍhya → Gunadhya**) were de-accented to match series convention. Voice QA clean across all 13.
+
+---
+
 ## 2026-07-31 — 🏇 Chhatrapati Shivaji: The Complete Life COMPLETE (13/13) · 18 chapters · the FIRST single-hero LIFE-ARC · builds roll into the Deccan dynasty chapters
 
 - **The first single-hero LIFE-ARC is COMPLETE (13/13, all QA-clean):** thirteen chronological episodes that share ONE
