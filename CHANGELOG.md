@@ -5,6 +5,37 @@ problems. Newest first.
 
 ---
 
+## 2026-07-31 — 🏇 Chhatrapati Shivaji: The Complete Life COMPLETE (13/13) · 18 chapters · the FIRST single-hero LIFE-ARC · builds roll into the Deccan dynasty chapters
+
+- **The first single-hero LIFE-ARC is COMPLETE (13/13, all QA-clean):** thirteen chronological episodes that share ONE
+  figure name and therefore ONE character bible, so the **same face ages across a whole lifetime** — from the boy on
+  Shivneri to the dying Chhatrapati of Raigad. This validates the life-arc design @naveenneog requested for famous
+  figures ("multiple parts of their lifetime"). Cross-story face consistency was explicitly verified every tick.
+- **Five grouped acts:** *Birth, Youth and the Swarajya Idea* (Shivneri oath, Torna/Rajgad) · *The Rise in the Ghats*
+  (Javali/More, Pratapgad/Afzal Khan) · *Signature Conflicts with Empire* (Lal Mahal/Shaista Khan, Surat, Purandar
+  treaty, the Agra escape) · *Sovereignty, Statecraft and Innovation* (Sindhudurg & the navy, the Raigad coronation,
+  the Ashtapradhan & Rajvyavahar Kosha) · *Southern Horizon and Afterlife* (the Karnataka campaign, death & the
+  unfinished Swarajya).
+- **The famous episodes are INCLUDED, not skipped as "already famous"** (unlike the dynasty seeder): Afzal Khan at
+  Pratapgad, the Shaista Khan night-raid, Surat, the Agra escape, the Raigad Rajyabhishek — each with a distinct slug.
+- **Innovation stories, as asked (social/economic/engineering/scholarly):** the **Maratha navy** and Sindhudurg's
+  seawater-setting lime mortar (engineering); the **Ashtapradhan** eight-minister council and the **Rajvyavahar Kosha**,
+  a 1,344-word Sanskrit administrative lexicon (statecraft/scholarly).
+- **SOURCE-CRITICAL + NON-COMMUNAL throughout — the sensitive episodes handled with exemplary balance:** at Pratapgad,
+  Afzal Khan is "the Sultan's political hammer, not a holy warrior", the who-struck-first crux is "lost to us", and
+  Shivaji spares captured (Muslim) soldiers; his own commanders (Daulat Khan, Darya Sarang, Siddi Ibrahim) are named;
+  the Surat raid is framed **wealth-not-faith** (Hindu traders also targeted, the Capuchin mission spared); the 1677
+  alliance with the **Shia Qutb Shahi** carries the thesis "freedom needs steel minds, not narrow labels"; the
+  coronation's **caste controversy** (Gaga Bhatt's crafted Sisodia genealogy, "no firm evidence") is told honestly; the
+  Agra sweet-basket legend is flagged as later bakhar; the cause of death is left open; and the finale confronts the
+  later "sharper, narrower" political appropriation of his legacy, closing on "many communities... an unfinished,
+  contested Swarajya."
+- **Baked-text QA:** the Ashtapradhan manuscript panel actually renders the Rajvyavahar Kosha correctly (Persian
+  farman/dastur → Sanskrit aajna/aadesh); the coronation coin ("श्री राज्य शिवाजी"), blank copper-plate cartouche and
+  emblem seal were all checked and are acceptable (legible-correct or textless), so no re-render was needed.
+
+---
+
 ## 2026-07-30 — 🛶 The Ahom Kingdom of Assam COMPLETE (14/14) · 17 chapters · builds roll into the Shivaji life arc + user dynasty chapters
 
 - **The Ahom Kingdom of Assam is COMPLETE (14/14, all QA-clean) — the first 14-story chapter:** the deep story of

@@ -367,6 +367,29 @@ Buranji chronicle weighed against living memory).
 13. **Sankaradeva's Song for Every Village** ✅ — the Ekasarana bhakti reform, the Assamese Kirtan Ghoxa, the namghar and Ankia Naat theatre. *(social/scholarly — bhakti reform)*
 14. **The Maidams of Charaideo Remember the Dead** ✅ — the royal burial mounds (UNESCO 2024) and the archaeology-vs-chronicle reading of Ahom death-ritual. *(scholarly — archaeology & memory)*
 
+## 🏇 Chhatrapati Shivaji: The Complete Life  *(Early modern — c. 1630–1680, the Deccan & the Sahyadris)*  — **✅ CHAPTER COMPLETE (13/13)**
+The FIRST single-hero life-arc: thirteen chronological episodes share ONE character bible, so the same face ages from a
+boy on Shivneri to the dying Chhatrapati of Raigad. The famous episodes are INCLUDED, not skipped, and every sensitive
+moment is told with **source-criticism and non-communal framing**.
+**I. Birth, Youth and the Swarajya Idea**
+1. **Shivneri: Son and the Rohideshwar Oath** ✅ — the 1630 birth and the oath, told as later bardic legend ("historians see no single founding vow"). *(origin — the Swarajya idea)*
+2. **Torna Treasure and the Rajgad Design** ✅ — the first fort taken by stratagem not assault, the treasure legend, Rajgad's design; Shahaji's 1648 arrest. *(fort-craft)*
+**II. The Rise in the Ghats**
+3. **Javali and the More Rivalry** ✅ — the 1656 conquest and the Maratha-vs-Maratha More feud, the disputed killing "left unresolved". *(the rise — non-communal)*
+4. **Pratapgad and the Afzal Khan Parley** ✅ — the 1659 parley: Afzal Khan as political instrument, the who-struck-first crux left open, clemency to captives. *(the signature episode)*
+**III. Signature Conflicts with Empire**
+5. **Lal Mahal Raid on Shaista Khan** ✅ — the 1663 night-raid, "a mark, not a massacre"; cites Sarkar/akhbarat/Alamgirnama. *(daring raid)*
+6. **Surat Raid and the Rules of Plunder** ✅ — the 1664 raid, mosques/temples/poor spared, framed wealth-not-faith. *(economic warfare)*
+7. **Purandar Treaty and Jai Singh's Net** ✅ — the hard 1665 treaty with Jai Singh, "a Hindu general of a Muslim emperor". *(diplomacy/setback)*
+8. **Agra: The Captive King Vanishes** ✅ — the 1666 escape, the sweet-basket legend flagged, Rajput Ram Singh's dilemma. *(the legendary escape)*
+**IV. Sovereignty, Statecraft and Innovation**
+9. **Sindhudurg and the Maratha Navy** ✅ — the 1664 sea-fort in seawater-setting lime mortar; a navy of Muslim and Christian officers. *(naval innovation)*
+10. **Raigad Coronation and the New Seal** ✅ — the 1674 Rajyabhishek: Gaga Bhatt's crafted Sisodia genealogy and the caste controversy, the new coinage and seal. *(sovereignty — statecraft)*
+11. **Eight Ministers and the Kosha of Rule** ✅ — the Ashtapradhan council and the 1,344-word Rajvyavahar Kosha (Sanskrit for Persian admin terms). *(statecraft/scholarly innovation)*
+**V. Southern Horizon and Afterlife**
+12. **Karnataka Campaign and the Deccani Alliance** ✅ — the 1677 southern expedition and the Shia Qutb Shahi alliance, "freedom needs steel minds, not narrow labels"; the Ekoji subplot. *(southern horizon — non-communal)*
+13. **Raigad: Death and the Unfinished Swarajya** ✅ — the 1680 death (cause left open), the Sambhaji/Rajaram succession, and the contested afterlife of his legacy. *(the unfinished Swarajya)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
