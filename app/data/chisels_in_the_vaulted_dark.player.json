@@ -1,0 +1,3597 @@
+{
+  "id": "chisels_in_the_vaulted_dark",
+  "title": "Chisels in the Vaulted Dark",
+  "title_i18n": {
+    "en": "Chisels in the Vaulted Dark",
+    "hi": "घुप अँधेरे में छैनी"
+  },
+  "figure": "Deccan Cave Engineers",
+  "era": "Western Deccan chaitya-grihas, c. 200 BCE-170 CE",
+  "moral": "Great engineering learns from older crafts.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/chisels_in_the_vaulted_dark/intro/hero.png",
+      "name": "Deccan Cave Engineer",
+      "epithets": [
+        "Makers of Rock-Cut Temples",
+        "Masters of the Chaitya Halls",
+        "Basalt Tunnelers of the Deccan",
+        "Engineers of Living Stone"
+      ],
+      "legend": "They carved wooden dreams into silent stone that still breathes.",
+      "era": "Western Deccan chaitya-grihas, c. 200 BCE-170 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By torchlight in the basalt hills, unknown hands copy fragile wooden halls into hard rock, risking collapse, royal rage and their own lives to invent a new way to build the sacred.",
+            "hi": "काली पहाड़ियों में मशालों के बीच, अनजानी हथेलियाँ नाज़ुक लकड़ी के घरों को पत्थर में उतारती हैं, ढहने, राज-दंड और अपनी जान की बाज़ी लगाकर पवित्रता की नई रचना गढ़ती हैं।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/intro/hero_en.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 72.0,
+                "d": 333.0
+              },
+              {
+                "w": "torchlight",
+                "t": 406.0,
+                "d": 750.0
+              },
+              {
+                "w": "in",
+                "t": 1156.0,
+                "d": 166.0
+              },
+              {
+                "w": "the",
+                "t": 1322.0,
+                "d": 125.0
+              },
+              {
+                "w": "basalt",
+                "t": 1447.0,
+                "d": 541.0
+              },
+              {
+                "w": "hills",
+                "t": 1989.0,
+                "d": 750.0
+              },
+              {
+                "w": "unknown",
+                "t": 3197.0,
+                "d": 500.0
+              },
+              {
+                "w": "hands",
+                "t": 3697.0,
+                "d": 500.0
+              },
+              {
+                "w": "copy",
+                "t": 4197.0,
+                "d": 416.0
+              },
+              {
+                "w": "fragile",
+                "t": 4614.0,
+                "d": 916.0
+              },
+              {
+                "w": "wooden",
+                "t": 5781.0,
+                "d": 416.0
+              },
+              {
+                "w": "halls",
+                "t": 6197.0,
+                "d": 458.0
+              },
+              {
+                "w": "into",
+                "t": 6656.0,
+                "d": 291.0
+              },
+              {
+                "w": "hard",
+                "t": 6947.0,
+                "d": 458.0
+              },
+              {
+                "w": "rock",
+                "t": 7406.0,
+                "d": 916.0
+              },
+              {
+                "w": "risking",
+                "t": 8363.0,
+                "d": 501.0
+              },
+              {
+                "w": "collapse",
+                "t": 8864.0,
+                "d": 582.0
+              },
+              {
+                "w": "royal",
+                "t": 9780.0,
+                "d": 417.0
+              },
+              {
+                "w": "rage",
+                "t": 10197.0,
+                "d": 790.0
+              },
+              {
+                "w": "and",
+                "t": 11031.0,
+                "d": 250.0
+              },
+              {
+                "w": "their",
+                "t": 11281.0,
+                "d": 208.0
+              },
+              {
+                "w": "own",
+                "t": 11489.0,
+                "d": 250.0
+              },
+              {
+                "w": "lives",
+                "t": 11739.0,
+                "d": 416.0
+              },
+              {
+                "w": "to",
+                "t": 12156.0,
+                "d": 166.0
+              },
+              {
+                "w": "invent",
+                "t": 12322.0,
+                "d": 415.0
+              },
+              {
+                "w": "a",
+                "t": 12738.0,
+                "d": 83.0
+              },
+              {
+                "w": "new",
+                "t": 12821.0,
+                "d": 376.0
+              },
+              {
+                "w": "way",
+                "t": 13197.0,
+                "d": 498.0
+              },
+              {
+                "w": "to",
+                "t": 13739.0,
+                "d": 250.0
+              },
+              {
+                "w": "build",
+                "t": 13989.0,
+                "d": 333.0
+              },
+              {
+                "w": "the",
+                "t": 14322.0,
+                "d": 125.0
+              },
+              {
+                "w": "sacred",
+                "t": 14447.0,
+                "d": 750.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/chisels_in_the_vaulted_dark/intro/map.png",
+      "x": 0.27,
+      "y": 0.39,
+      "label": "Bhaja, Bedse, Nashik & Kanheri, Western Deccan",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Along the old trade roads in the Western Ghats, dark basalt cliffs open into carved halls where hammers once rang like thunder in the stone.",
+            "hi": "पश्चिमी घाट की पुरानी व्यापार राहों पर, काले बेसाल्ट की चट्टानें खुलती हैं उन नक्काशीदार सभाओं में, जहाँ कभी हथौड़ों की गड़गड़ाहट पत्थर को हिला देती थी।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/intro/map_en.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Along",
+                "t": 126.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 586.0,
+                "d": 183.0
+              },
+              {
+                "w": "old",
+                "t": 770.0,
+                "d": 367.0
+              },
+              {
+                "w": "trade",
+                "t": 1137.0,
+                "d": 413.0
+              },
+              {
+                "w": "roads",
+                "t": 1551.0,
+                "d": 367.0
+              },
+              {
+                "w": "in",
+                "t": 1919.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 2103.0,
+                "d": 137.0
+              },
+              {
+                "w": "Western",
+                "t": 2241.0,
+                "d": 504.0
+              },
+              {
+                "w": "Ghats",
+                "t": 2745.0,
+                "d": 782.0
+              },
+              {
+                "w": "dark",
+                "t": 4034.0,
+                "d": 458.0
+              },
+              {
+                "w": "basalt",
+                "t": 4493.0,
+                "d": 552.0
+              },
+              {
+                "w": "cliffs",
+                "t": 5045.0,
+                "d": 367.0
+              },
+              {
+                "w": "open",
+                "t": 5413.0,
+                "d": 413.0
+              },
+              {
+                "w": "into",
+                "t": 5827.0,
+                "d": 321.0
+              },
+              {
+                "w": "carved",
+                "t": 6149.0,
+                "d": 459.0
+              },
+              {
+                "w": "halls",
+                "t": 6609.0,
+                "d": 643.0
+              },
+              {
+                "w": "where",
+                "t": 7574.0,
+                "d": 275.0
+              },
+              {
+                "w": "hammers",
+                "t": 7850.0,
+                "d": 459.0
+              },
+              {
+                "w": "once",
+                "t": 8310.0,
+                "d": 413.0
+              },
+              {
+                "w": "rang",
+                "t": 8724.0,
+                "d": 321.0
+              },
+              {
+                "w": "like",
+                "t": 9045.0,
+                "d": 274.0
+              },
+              {
+                "w": "thunder",
+                "t": 9320.0,
+                "d": 460.0
+              },
+              {
+                "w": "in",
+                "t": 9781.0,
+                "d": 136.0
+              },
+              {
+                "w": "the",
+                "t": 9918.0,
+                "d": 139.0
+              },
+              {
+                "w": "stone",
+                "t": 10057.0,
+                "d": 642.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/chisels_in_the_vaulted_dark/img/cover.png",
+      "shot": "low-angle wide of a cliff face at dawn with a half-carved apsidal hall emerging from the rock",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the Western Deccan, from Bhaja to Kanheri, anonymous rock-cutters turned cliffs into wooden halls of stone, and changed sacred architecture forever.",
+            "hi": "पश्चिमी दक्खिन में, भाजा से कन्हेरी तक, नाम-अनजान कारीगरों ने चट्टानों को लकड़ी जैसे पत्थर के हाल बना दिया — और पूजा-स्थापत्य ही बदल डाला।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/cover_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 244.0,
+                "d": 127.0
+              },
+              {
+                "w": "Western",
+                "t": 372.0,
+                "d": 468.0
+              },
+              {
+                "w": "Deccan",
+                "t": 840.0,
+                "d": 595.0
+              },
+              {
+                "w": "from",
+                "t": 1478.0,
+                "d": 425.0
+              },
+              {
+                "w": "Bhaja",
+                "t": 1904.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 2287.0,
+                "d": 211.0
+              },
+              {
+                "w": "Kanheri",
+                "t": 2498.0,
+                "d": 638.0
+              },
+              {
+                "w": "anonymous",
+                "t": 3478.0,
+                "d": 637.0
+              },
+              {
+                "w": "rock-cutters",
+                "t": 4115.0,
+                "d": 596.0
+              },
+              {
+                "w": "turned",
+                "t": 4712.0,
+                "d": 425.0
+              },
+              {
+                "w": "cliffs",
+                "t": 5138.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 5521.0,
+                "d": 297.0
+              },
+              {
+                "w": "wooden",
+                "t": 5819.0,
+                "d": 382.0
+              },
+              {
+                "w": "halls",
+                "t": 6202.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 6500.0,
+                "d": 127.0
+              },
+              {
+                "w": "stone",
+                "t": 6627.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 7478.0,
+                "d": 382.0
+              },
+              {
+                "w": "changed",
+                "t": 7861.0,
+                "d": 553.0
+              },
+              {
+                "w": "sacred",
+                "t": 8457.0,
+                "d": 637.0
+              },
+              {
+                "w": "architecture",
+                "t": 9094.0,
+                "d": 808.0
+              },
+              {
+                "w": "forever",
+                "t": 9903.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p01.png",
+      "shot": "bird’s-eye view along the Western Ghats trade route, monsoon clouds over passes, tiny figures moving on a winding path",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Two thousand years ago, the Western Ghats echoed with wheels and feet. Caravans climbed from Konkan ports to Deccan markets, threading passes cut through brittle basalt.",
+            "hi": "दो हज़ार साल पहले, पश्चिमी घाट पहियों और पैरों से गूँजते थे। क़ाफ़िले कोंकण बंदरों से दक्खिन बाज़ारों तक चढ़ते, नाज़ुक बेसाल्ट की घाटियों से लकीरों की तरह गुजरते।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p01_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Two",
+                "t": 117.0,
+                "d": 212.0
+              },
+              {
+                "w": "thousand",
+                "t": 329.0,
+                "d": 382.0
+              },
+              {
+                "w": "years",
+                "t": 712.0,
+                "d": 255.0
+              },
+              {
+                "w": "ago",
+                "t": 968.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 1521.0,
+                "d": 255.0
+              },
+              {
+                "w": "Western",
+                "t": 1776.0,
+                "d": 468.0
+              },
+              {
+                "w": "Ghats",
+                "t": 2244.0,
+                "d": 468.0
+              },
+              {
+                "w": "echoed",
+                "t": 2712.0,
+                "d": 424.0
+              },
+              {
+                "w": "with",
+                "t": 3137.0,
+                "d": 213.0
+              },
+              {
+                "w": "wheels",
+                "t": 3351.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 3776.0,
+                "d": 254.0
+              },
+              {
+                "w": "feet",
+                "t": 4030.0,
+                "d": 554.0
+              },
+              {
+                "w": "Caravans",
+                "t": 5436.0,
+                "d": 553.0
+              },
+              {
+                "w": "climbed",
+                "t": 5989.0,
+                "d": 425.0
+              },
+              {
+                "w": "from",
+                "t": 6414.0,
+                "d": 255.0
+              },
+              {
+                "w": "Konkan",
+                "t": 6670.0,
+                "d": 425.0
+              },
+              {
+                "w": "ports",
+                "t": 7095.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 7436.0,
+                "d": 212.0
+              },
+              {
+                "w": "Deccan",
+                "t": 7648.0,
+                "d": 382.0
+              },
+              {
+                "w": "markets",
+                "t": 8031.0,
+                "d": 807.0
+              },
+              {
+                "w": "threading",
+                "t": 9053.0,
+                "d": 510.0
+              },
+              {
+                "w": "passes",
+                "t": 9563.0,
+                "d": 509.0
+              },
+              {
+                "w": "cut",
+                "t": 10073.0,
+                "d": 213.0
+              },
+              {
+                "w": "through",
+                "t": 10287.0,
+                "d": 340.0
+              },
+              {
+                "w": "brittle",
+                "t": 10627.0,
+                "d": 297.0
+              },
+              {
+                "w": "basalt",
+                "t": 10925.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p02.png",
+      "shot": "medium-wide inside a timber hall, lit by oil lamps, with wooden pillars and a curved roof, seen from the central aisle",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Before the rock, there was wood. Early Buddhists prayed in timber halls with curved roofs and apsidal ends, fragile shelters along the rain-beaten road.",
+            "hi": "पत्थर से पहले, सब लकड़ी था। शुरुआती बौद्ध मुड़े छतों और घुमावदार पिछली दीवारों वाले नाज़ुक लकड़ी के हालों में, बारिश-पीटी सड़क के किनारे, प्रार्थना करते थे।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p02_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Before",
+                "t": 117.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 457.0,
+                "d": 127.0
+              },
+              {
+                "w": "rock",
+                "t": 585.0,
+                "d": 638.0
+              },
+              {
+                "w": "there",
+                "t": 1223.0,
+                "d": 340.0
+              },
+              {
+                "w": "was",
+                "t": 1563.0,
+                "d": 212.0
+              },
+              {
+                "w": "wood",
+                "t": 1776.0,
+                "d": 807.0
+              },
+              {
+                "w": "Early",
+                "t": 2925.0,
+                "d": 340.0
+              },
+              {
+                "w": "Buddhists",
+                "t": 3265.0,
+                "d": 680.0
+              },
+              {
+                "w": "prayed",
+                "t": 3946.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 4287.0,
+                "d": 127.0
+              },
+              {
+                "w": "timber",
+                "t": 4414.0,
+                "d": 340.0
+              },
+              {
+                "w": "halls",
+                "t": 4755.0,
+                "d": 425.0
+              },
+              {
+                "w": "with",
+                "t": 5180.0,
+                "d": 255.0
+              },
+              {
+                "w": "curved",
+                "t": 5436.0,
+                "d": 340.0
+              },
+              {
+                "w": "roofs",
+                "t": 5776.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 6457.0,
+                "d": 255.0
+              },
+              {
+                "w": "apsidal",
+                "t": 6712.0,
+                "d": 680.0
+              },
+              {
+                "w": "ends",
+                "t": 7393.0,
+                "d": 595.0
+              },
+              {
+                "w": "fragile",
+                "t": 8244.0,
+                "d": 638.0
+              },
+              {
+                "w": "shelters",
+                "t": 8882.0,
+                "d": 510.0
+              },
+              {
+                "w": "along",
+                "t": 9393.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 9691.0,
+                "d": 126.0
+              },
+              {
+                "w": "rain-beaten",
+                "t": 9818.0,
+                "d": 554.0
+              },
+              {
+                "w": "road",
+                "t": 10372.0,
+                "d": 509.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p03.png",
+      "shot": "close-up on the engineer’s face, lit by lamplight, eyes lifted to the roof, overlaid with faint ghostly outline of a cliff",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "If the hill itself became the hall, the rain could never eat it.",
+            "hi": "अगर पहाड़ी ही हाल बन जाए, तो बारिश उसे कभी न खाए।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p03_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "If",
+                "t": 49.0,
+                "d": 147.0
+              },
+              {
+                "w": "the",
+                "t": 196.1,
+                "d": 122.5
+              },
+              {
+                "w": "hill",
+                "t": 318.6,
+                "d": 232.8
+              },
+              {
+                "w": "itself",
+                "t": 637.2,
+                "d": 478.0
+              },
+              {
+                "w": "became",
+                "t": 1115.2,
+                "d": 428.9
+              },
+              {
+                "w": "the",
+                "t": 1544.1,
+                "d": 98.0
+              },
+              {
+                "w": "hall",
+                "t": 1642.2,
+                "d": 441.2
+              },
+              {
+                "w": "the",
+                "t": 2254.9,
+                "d": 110.3
+              },
+              {
+                "w": "rain",
+                "t": 2365.2,
+                "d": 306.4
+              },
+              {
+                "w": "could",
+                "t": 2683.8,
+                "d": 208.3
+              },
+              {
+                "w": "never",
+                "t": 2892.2,
+                "d": 367.7
+              },
+              {
+                "w": "eat",
+                "t": 3345.6,
+                "d": 196.1
+              },
+              {
+                "w": "it",
+                "t": 3541.7,
+                "d": 232.8
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p04.png",
+      "shot": "wide shot of Bhaja’s cliff face, early morning mist, tiny workers suspended on scaffolds marking lines on the rock",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At Bhaja, around the 2nd century BCE, the experiment began. Basalt cliffs became pages, and the engineers drew a timber hall onto living rock.",
+            "hi": "भाजा में, दूसरी सदी ईसा-पूर्व के आस-पास, प्रयोग शुरू हुआ। बेसाल्ट की चट्टानें पन्ने बनीं, और इंजीनियरों ने जीती-जागती चट्टान पर लकड़ी का हाल उकेर दिया।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p04_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Bhaja",
+                "t": 329.0,
+                "d": 638.0
+              },
+              {
+                "w": "around",
+                "t": 1010.0,
+                "d": 595.0
+              },
+              {
+                "w": "the",
+                "t": 1606.0,
+                "d": 127.0
+              },
+              {
+                "w": "2nd",
+                "t": 1734.0,
+                "d": 424.0
+              },
+              {
+                "w": "century",
+                "t": 2158.0,
+                "d": 468.0
+              },
+              {
+                "w": "BCE",
+                "t": 2626.0,
+                "d": 767.0
+              },
+              {
+                "w": "the",
+                "t": 3647.0,
+                "d": 213.0
+              },
+              {
+                "w": "experiment",
+                "t": 3861.0,
+                "d": 595.0
+              },
+              {
+                "w": "began",
+                "t": 4457.0,
+                "d": 978.0
+              },
+              {
+                "w": "Basalt",
+                "t": 5691.0,
+                "d": 638.0
+              },
+              {
+                "w": "cliffs",
+                "t": 6329.0,
+                "d": 425.0
+              },
+              {
+                "w": "became",
+                "t": 6755.0,
+                "d": 340.0
+              },
+              {
+                "w": "pages",
+                "t": 7095.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 8159.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 8372.0,
+                "d": 127.0
+              },
+              {
+                "w": "engineers",
+                "t": 8500.0,
+                "d": 679.0
+              },
+              {
+                "w": "drew",
+                "t": 9179.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 9393.0,
+                "d": 85.0
+              },
+              {
+                "w": "timber",
+                "t": 9478.0,
+                "d": 424.0
+              },
+              {
+                "w": "hall",
+                "t": 9903.0,
+                "d": 298.0
+              },
+              {
+                "w": "onto",
+                "t": 10202.0,
+                "d": 297.0
+              },
+              {
+                "w": "living",
+                "t": 10500.0,
+                "d": 340.0
+              },
+              {
+                "w": "rock",
+                "t": 10840.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p05.png",
+      "shot": "cutaway-style wide showing miners starting from the cliff face and moving inward, the apsidal outline faint, with the roof mass above",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "They cut from the face inward, never from the top. One mistake, one hidden crack, and the vault would fall. So the first science was reading the stone.",
+            "hi": "उन्होंने सामने से भीतर काटा, कभी ऊपर से नहीं। एक गलती, एक छुपी दरार, और पूरा घुमावदार छत गिर जाती। पहला विज्ञान था — पत्थर को पढ़ना।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p05_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "They",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "cut",
+                "t": 329.0,
+                "d": 212.0
+              },
+              {
+                "w": "from",
+                "t": 542.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 755.0,
+                "d": 127.0
+              },
+              {
+                "w": "face",
+                "t": 882.0,
+                "d": 340.0
+              },
+              {
+                "w": "inward",
+                "t": 1223.0,
+                "d": 851.0
+              },
+              {
+                "w": "never",
+                "t": 2244.0,
+                "d": 425.0
+              },
+              {
+                "w": "from",
+                "t": 2670.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 2840.0,
+                "d": 169.0
+              },
+              {
+                "w": "top",
+                "t": 3009.0,
+                "d": 767.0
+              },
+              {
+                "w": "One",
+                "t": 4243.0,
+                "d": 341.0
+              },
+              {
+                "w": "mistake",
+                "t": 4585.0,
+                "d": 936.0
+              },
+              {
+                "w": "one",
+                "t": 5563.0,
+                "d": 340.0
+              },
+              {
+                "w": "hidden",
+                "t": 5904.0,
+                "d": 382.0
+              },
+              {
+                "w": "crack",
+                "t": 6287.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 7138.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 7351.0,
+                "d": 127.0
+              },
+              {
+                "w": "vault",
+                "t": 7478.0,
+                "d": 382.0
+              },
+              {
+                "w": "would",
+                "t": 7861.0,
+                "d": 212.0
+              },
+              {
+                "w": "fall",
+                "t": 8074.0,
+                "d": 594.0
+              },
+              {
+                "w": "So",
+                "t": 9351.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 9606.0,
+                "d": 126.0
+              },
+              {
+                "w": "first",
+                "t": 9732.0,
+                "d": 298.0
+              },
+              {
+                "w": "science",
+                "t": 10031.0,
+                "d": 340.0
+              },
+              {
+                "w": "was",
+                "t": 10372.0,
+                "d": 170.0
+              },
+              {
+                "w": "reading",
+                "t": 10542.0,
+                "d": 339.0
+              },
+              {
+                "w": "the",
+                "t": 10881.0,
+                "d": 128.0
+              },
+              {
+                "w": "stone",
+                "t": 11010.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/chisels_in_the_vaulted_dark/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/chisels_in_the_vaulted_dark/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Stone shudders under each blow as he tests the cliff's hidden faults, gambling their future on every measured strike.",
+            "hi": "हर चोट पर पत्थर कांपता है, वो चट्टान की छुपी दरारें परख रहा है, हर वार पर उनका भविष्य दांव पर है।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/action/action_auto_en.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Stone",
+                "t": 80.0,
+                "d": 551.0
+              },
+              {
+                "w": "shudders",
+                "t": 632.0,
+                "d": 505.0
+              },
+              {
+                "w": "under",
+                "t": 1137.0,
+                "d": 321.0
+              },
+              {
+                "w": "each",
+                "t": 1459.0,
+                "d": 459.0
+              },
+              {
+                "w": "blow",
+                "t": 1919.0,
+                "d": 551.0
+              },
+              {
+                "w": "as",
+                "t": 2563.0,
+                "d": 228.0
+              },
+              {
+                "w": "he",
+                "t": 2791.0,
+                "d": 185.0
+              },
+              {
+                "w": "tests",
+                "t": 2977.0,
+                "d": 689.0
+              },
+              {
+                "w": "the",
+                "t": 3666.0,
+                "d": 182.0
+              },
+              {
+                "w": "cliff's",
+                "t": 3849.0,
+                "d": 460.0
+              },
+              {
+                "w": "hidden",
+                "t": 4310.0,
+                "d": 367.0
+              },
+              {
+                "w": "faults",
+                "t": 4678.0,
+                "d": 735.0
+              },
+              {
+                "w": "gambling",
+                "t": 5735.0,
+                "d": 689.0
+              },
+              {
+                "w": "their",
+                "t": 6425.0,
+                "d": 229.0
+              },
+              {
+                "w": "future",
+                "t": 6655.0,
+                "d": 597.0
+              },
+              {
+                "w": "on",
+                "t": 7252.0,
+                "d": 367.0
+              },
+              {
+                "w": "every",
+                "t": 7666.0,
+                "d": 597.0
+              },
+              {
+                "w": "measured",
+                "t": 8264.0,
+                "d": 551.0
+              },
+              {
+                "w": "strike",
+                "t": 8816.0,
+                "d": 781.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p06.png",
+      "shot": "interior wide of the Bhaja chaitya half-carved, rough walls, daylight from the facade, dust hanging in the air",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Slowly, the mountain hollowed. Every pillar, every curve, was the rock that once filled this space. Emptiness had to be carved before sanctity could be raised.",
+            "hi": "धीरे-धीरे पहाड़ खोखला हुआ। हर स्तंभ, हर मोड़, उसी पत्थर का हिस्सा था जो पहले इस खाली जगह को भरता था। पवित्रता उठाने से पहले शून्य को तराशना पड़ा।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p06_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Slowly",
+                "t": 74.0,
+                "d": 851.0
+              },
+              {
+                "w": "the",
+                "t": 1053.0,
+                "d": 212.0
+              },
+              {
+                "w": "mountain",
+                "t": 1265.0,
+                "d": 468.0
+              },
+              {
+                "w": "hollowed",
+                "t": 1734.0,
+                "d": 764.0
+              },
+              {
+                "w": "Every",
+                "t": 3052.0,
+                "d": 468.0
+              },
+              {
+                "w": "pillar",
+                "t": 3520.0,
+                "d": 680.0
+              },
+              {
+                "w": "every",
+                "t": 4457.0,
+                "d": 468.0
+              },
+              {
+                "w": "curve",
+                "t": 4925.0,
+                "d": 936.0
+              },
+              {
+                "w": "was",
+                "t": 5904.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 6244.0,
+                "d": 170.0
+              },
+              {
+                "w": "rock",
+                "t": 6414.0,
+                "d": 382.0
+              },
+              {
+                "w": "that",
+                "t": 6797.0,
+                "d": 212.0
+              },
+              {
+                "w": "once",
+                "t": 7010.0,
+                "d": 382.0
+              },
+              {
+                "w": "filled",
+                "t": 7393.0,
+                "d": 255.0
+              },
+              {
+                "w": "this",
+                "t": 7648.0,
+                "d": 170.0
+              },
+              {
+                "w": "space",
+                "t": 7819.0,
+                "d": 850.0
+              },
+              {
+                "w": "Emptiness",
+                "t": 9223.0,
+                "d": 638.0
+              },
+              {
+                "w": "had",
+                "t": 9861.0,
+                "d": 170.0
+              },
+              {
+                "w": "to",
+                "t": 10031.0,
+                "d": 126.0
+              },
+              {
+                "w": "be",
+                "t": 10158.0,
+                "d": 170.0
+              },
+              {
+                "w": "carved",
+                "t": 10328.0,
+                "d": 681.0
+              },
+              {
+                "w": "before",
+                "t": 11052.0,
+                "d": 469.0
+              },
+              {
+                "w": "sanctity",
+                "t": 11521.0,
+                "d": 594.0
+              },
+              {
+                "w": "could",
+                "t": 12115.0,
+                "d": 213.0
+              },
+              {
+                "w": "be",
+                "t": 12329.0,
+                "d": 85.0
+              },
+              {
+                "w": "raised",
+                "t": 12414.0,
+                "d": 509.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p07.png",
+      "shot": "low-angle interior shot of the barrel vault at Bhaja, with surviving wooden ribs attached under the stone roof",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At Bhaja, they did not trust stone alone. Wooden ribs hugged the stone vault, turning cold basalt into a familiar ceiling and teaching future carvers the shape of the arch.",
+            "hi": "भाजा में, वे केवल पत्थर पर नहीं टिके। लकड़ी की पसलियाँ पत्थर की छत से चिपकीं, ठंडे बेसाल्ट को पहचान वाला आसमान बना कर, आने वाले कारीगरों को मेहराब की शक्ल सिखाती रहीं।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p07_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Bhaja",
+                "t": 329.0,
+                "d": 893.0
+              },
+              {
+                "w": "they",
+                "t": 1351.0,
+                "d": 212.0
+              },
+              {
+                "w": "did",
+                "t": 1563.0,
+                "d": 127.0
+              },
+              {
+                "w": "not",
+                "t": 1691.0,
+                "d": 212.0
+              },
+              {
+                "w": "trust",
+                "t": 1904.0,
+                "d": 468.0
+              },
+              {
+                "w": "stone",
+                "t": 2372.0,
+                "d": 425.0
+              },
+              {
+                "w": "alone",
+                "t": 2797.0,
+                "d": 553.0
+              },
+              {
+                "w": "Wooden",
+                "t": 4115.0,
+                "d": 426.0
+              },
+              {
+                "w": "ribs",
+                "t": 4542.0,
+                "d": 382.0
+              },
+              {
+                "w": "hugged",
+                "t": 4925.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 5223.0,
+                "d": 127.0
+              },
+              {
+                "w": "stone",
+                "t": 5351.0,
+                "d": 340.0
+              },
+              {
+                "w": "vault",
+                "t": 5691.0,
+                "d": 553.0
+              },
+              {
+                "w": "turning",
+                "t": 6585.0,
+                "d": 510.0
+              },
+              {
+                "w": "cold",
+                "t": 7095.0,
+                "d": 297.0
+              },
+              {
+                "w": "basalt",
+                "t": 7393.0,
+                "d": 723.0
+              },
+              {
+                "w": "into",
+                "t": 8159.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 8414.0,
+                "d": 85.0
+              },
+              {
+                "w": "familiar",
+                "t": 8500.0,
+                "d": 509.0
+              },
+              {
+                "w": "ceiling",
+                "t": 9009.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 9732.0,
+                "d": 384.0
+              },
+              {
+                "w": "teaching",
+                "t": 10117.0,
+                "d": 425.0
+              },
+              {
+                "w": "future",
+                "t": 10542.0,
+                "d": 424.0
+              },
+              {
+                "w": "carvers",
+                "t": 10967.0,
+                "d": 596.0
+              },
+              {
+                "w": "the",
+                "t": 11563.0,
+                "d": 127.0
+              },
+              {
+                "w": "shape",
+                "t": 11691.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 12074.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 12201.0,
+                "d": 170.0
+              },
+              {
+                "w": "arch",
+                "t": 12371.0,
+                "d": 511.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p08.png",
+      "shot": "medium shot of a monsoon downpour outside the cave mouth, water cascading off carved gutters into a cistern",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Rain was both enemy and ally. Channels and cisterns caught the torrents, feeding monks in the dry months and keeping the cliff from softening under the monsoon's assault.",
+            "hi": "बारिश दुश्मन भी थी, साथी भी। नालों और टंकियों ने धारा पकड़ी, सूखे महीनों में भिक्षुओं को पिलाया, और मानसून के हमले में चट्टान को गलने से बचाया।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p08_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Rain",
+                "t": 70.0,
+                "d": 360.0
+              },
+              {
+                "w": "was",
+                "t": 430.0,
+                "d": 280.0
+              },
+              {
+                "w": "both",
+                "t": 710.0,
+                "d": 440.0
+              },
+              {
+                "w": "enemy",
+                "t": 1230.0,
+                "d": 640.0
+              },
+              {
+                "w": "and",
+                "t": 1910.0,
+                "d": 240.0
+              },
+              {
+                "w": "ally",
+                "t": 2150.0,
+                "d": 520.0
+              },
+              {
+                "w": "Channels",
+                "t": 3230.0,
+                "d": 559.0
+              },
+              {
+                "w": "and",
+                "t": 3789.0,
+                "d": 160.0
+              },
+              {
+                "w": "cisterns",
+                "t": 3949.0,
+                "d": 561.0
+              },
+              {
+                "w": "caught",
+                "t": 4510.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 4750.0,
+                "d": 120.0
+              },
+              {
+                "w": "torrents",
+                "t": 4870.0,
+                "d": 640.0
+              },
+              {
+                "w": "feeding",
+                "t": 5750.0,
+                "d": 440.0
+              },
+              {
+                "w": "monks",
+                "t": 6190.0,
+                "d": 320.0
+              },
+              {
+                "w": "in",
+                "t": 6510.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 6630.0,
+                "d": 120.0
+              },
+              {
+                "w": "dry",
+                "t": 6750.0,
+                "d": 240.0
+              },
+              {
+                "w": "months",
+                "t": 6990.0,
+                "d": 600.0
+              },
+              {
+                "w": "and",
+                "t": 7750.0,
+                "d": 279.0
+              },
+              {
+                "w": "keeping",
+                "t": 8029.0,
+                "d": 360.0
+              },
+              {
+                "w": "the",
+                "t": 8389.0,
+                "d": 160.0
+              },
+              {
+                "w": "cliff",
+                "t": 8549.0,
+                "d": 321.0
+              },
+              {
+                "w": "from",
+                "t": 8870.0,
+                "d": 199.0
+              },
+              {
+                "w": "softening",
+                "t": 9069.0,
+                "d": 601.0
+              },
+              {
+                "w": "under",
+                "t": 9670.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 9950.0,
+                "d": 119.0
+              },
+              {
+                "w": "monsoon's",
+                "t": 10069.0,
+                "d": 560.0
+              },
+              {
+                "w": "assault",
+                "t": 10629.0,
+                "d": 721.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p09.png",
+      "shot": "wide frontal shot of Bedse’s refined facade, with ornate chaitya-arch window and rows of columns, under clear sky",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "A generation later at Bedse, the rock-cutters had grown bolder. The plain face of Bhaja became a sculpted screen, arches within arches, columns marching across the cliff.",
+            "hi": "एक पीढ़ी बाद बेडसे में, तराशेगर और निडर हो गए। भाजा की सपाट दीवार एक नक्काशीदार परदा बनी—मेहराब पर मेहराब, खंभों की कतारें पूरी चट्टान पर दौड़ पड़ीं।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p09_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "A",
+                "t": 117.0,
+                "d": 170.0
+              },
+              {
+                "w": "generation",
+                "t": 287.0,
+                "d": 638.0
+              },
+              {
+                "w": "later",
+                "t": 925.0,
+                "d": 382.0
+              },
+              {
+                "w": "at",
+                "t": 1308.0,
+                "d": 127.0
+              },
+              {
+                "w": "Bedse",
+                "t": 1436.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 2244.0,
+                "d": 211.0
+              },
+              {
+                "w": "rock-cutters",
+                "t": 2456.0,
+                "d": 595.0
+              },
+              {
+                "w": "had",
+                "t": 3052.0,
+                "d": 213.0
+              },
+              {
+                "w": "grown",
+                "t": 3265.0,
+                "d": 381.0
+              },
+              {
+                "w": "bolder",
+                "t": 3647.0,
+                "d": 553.0
+              },
+              {
+                "w": "The",
+                "t": 5138.0,
+                "d": 255.0
+              },
+              {
+                "w": "plain",
+                "t": 5393.0,
+                "d": 297.0
+              },
+              {
+                "w": "face",
+                "t": 5691.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 5946.0,
+                "d": 170.0
+              },
+              {
+                "w": "Bhaja",
+                "t": 6117.0,
+                "d": 595.0
+              },
+              {
+                "w": "became",
+                "t": 6840.0,
+                "d": 425.0
+              },
+              {
+                "w": "a",
+                "t": 7265.0,
+                "d": 42.0
+              },
+              {
+                "w": "sculpted",
+                "t": 7308.0,
+                "d": 595.0
+              },
+              {
+                "w": "screen",
+                "t": 7904.0,
+                "d": 935.0
+              },
+              {
+                "w": "arches",
+                "t": 9053.0,
+                "d": 510.0
+              },
+              {
+                "w": "within",
+                "t": 9563.0,
+                "d": 297.0
+              },
+              {
+                "w": "arches",
+                "t": 9861.0,
+                "d": 893.0
+              },
+              {
+                "w": "columns",
+                "t": 11137.0,
+                "d": 638.0
+              },
+              {
+                "w": "marching",
+                "t": 11819.0,
+                "d": 552.0
+              },
+              {
+                "w": "across",
+                "t": 12371.0,
+                "d": 341.0
+              },
+              {
+                "w": "the",
+                "t": 12712.0,
+                "d": 170.0
+              },
+              {
+                "w": "cliff",
+                "t": 12882.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p10.png",
+      "shot": "interior wide of Bedse chaitya, colonnades on both sides, stupa at apsidal end, light streaming from the chaitya window",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "The timber hall remembers its form in stone; the stone learns to breathe light.",
+            "hi": "लकड़ी का हाल अपनी देह पत्थर में याद रखता है; पत्थर रोशनी लेना सीखता है।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p10_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 49.0,
+                "d": 98.0
+              },
+              {
+                "w": "timber",
+                "t": 147.0,
+                "d": 404.4
+              },
+              {
+                "w": "hall",
+                "t": 551.5,
+                "d": 318.6
+              },
+              {
+                "w": "remembers",
+                "t": 870.1,
+                "d": 625.0
+              },
+              {
+                "w": "its",
+                "t": 1544.1,
+                "d": 245.1
+              },
+              {
+                "w": "form",
+                "t": 1801.5,
+                "d": 404.4
+              },
+              {
+                "w": "in",
+                "t": 2267.2,
+                "d": 183.8
+              },
+              {
+                "w": "stone",
+                "t": 2451.0,
+                "d": 478.0
+              },
+              {
+                "w": "the",
+                "t": 3161.8,
+                "d": 122.5
+              },
+              {
+                "w": "stone",
+                "t": 3284.3,
+                "d": 404.4
+              },
+              {
+                "w": "learns",
+                "t": 3688.7,
+                "d": 428.9
+              },
+              {
+                "w": "to",
+                "t": 4154.4,
+                "d": 85.8
+              },
+              {
+                "w": "breathe",
+                "t": 4240.2,
+                "d": 343.1
+              },
+              {
+                "w": "light",
+                "t": 4583.3,
+                "d": 404.4
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p11.png",
+      "shot": "close-up of a column capital being carved, its form echoing wooden brackets and beams",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Every detail betrayed its ancestor. Brackets looked like joints, beams like planks. The cave was a memory of timber, set into basalt forever.",
+            "hi": "हर छोटी बात अपने पुरखे को बयान कर रही थी। ब्रैकेट जोड़ जैसे, बीम तख्तों जैसे लगे। यह गुफा लकड़ी की याद थी, जो हमेशा के लिए बेसाल्ट में जड़ गई।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p11_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Every",
+                "t": 80.0,
+                "d": 505.0
+              },
+              {
+                "w": "detail",
+                "t": 586.0,
+                "d": 551.0
+              },
+              {
+                "w": "betrayed",
+                "t": 1137.0,
+                "d": 643.0
+              },
+              {
+                "w": "its",
+                "t": 1827.0,
+                "d": 229.0
+              },
+              {
+                "w": "ancestor",
+                "t": 2057.0,
+                "d": 873.0
+              },
+              {
+                "w": "Brackets",
+                "t": 3803.0,
+                "d": 597.0
+              },
+              {
+                "w": "looked",
+                "t": 4401.0,
+                "d": 277.0
+              },
+              {
+                "w": "like",
+                "t": 4678.0,
+                "d": 183.0
+              },
+              {
+                "w": "joints",
+                "t": 4862.0,
+                "d": 827.0
+              },
+              {
+                "w": "beams",
+                "t": 5781.0,
+                "d": 597.0
+              },
+              {
+                "w": "like",
+                "t": 6379.0,
+                "d": 229.0
+              },
+              {
+                "w": "planks",
+                "t": 6609.0,
+                "d": 1517.0
+              },
+              {
+                "w": "The",
+                "t": 8264.0,
+                "d": 275.0
+              },
+              {
+                "w": "cave",
+                "t": 8540.0,
+                "d": 321.0
+              },
+              {
+                "w": "was",
+                "t": 8862.0,
+                "d": 229.0
+              },
+              {
+                "w": "a",
+                "t": 9091.0,
+                "d": 45.0
+              },
+              {
+                "w": "memory",
+                "t": 9137.0,
+                "d": 412.0
+              },
+              {
+                "w": "of",
+                "t": 9550.0,
+                "d": 183.0
+              },
+              {
+                "w": "timber",
+                "t": 9734.0,
+                "d": 828.0
+              },
+              {
+                "w": "set",
+                "t": 10700.0,
+                "d": 414.0
+              },
+              {
+                "w": "into",
+                "t": 11114.0,
+                "d": 275.0
+              },
+              {
+                "w": "basalt",
+                "t": 11390.0,
+                "d": 550.0
+              },
+              {
+                "w": "forever",
+                "t": 11941.0,
+                "d": 736.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p12.png",
+      "shot": "wide view of Nashik cliff with multiple caves at different levels, stairways connecting them, Godavari valley beyond",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Further north at Nashik, caves no longer stood alone. Entire cliff faces became monastic streets, cells and halls terraced above the Godavari's broad valley.",
+            "hi": "और उत्तर में नाशिक पर, गुफाएँ अकेली नहीं रहीं। पूरी चट्टानें मठों की गलियाँ बन गईं—कोठरियाँ और हाल, गोदावरी की चौड़ी घाटी के ऊपर, सीढ़ियों की तरह चढ़ते हुए।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p12_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Further",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "north",
+                "t": 542.0,
+                "d": 382.0
+              },
+              {
+                "w": "at",
+                "t": 925.0,
+                "d": 212.0
+              },
+              {
+                "w": "Nashik",
+                "t": 1138.0,
+                "d": 425.0
+              },
+              {
+                "w": "caves",
+                "t": 1563.0,
+                "d": 935.0
+              },
+              {
+                "w": "no",
+                "t": 2498.0,
+                "d": 213.0
+              },
+              {
+                "w": "longer",
+                "t": 2712.0,
+                "d": 339.0
+              },
+              {
+                "w": "stood",
+                "t": 3052.0,
+                "d": 341.0
+              },
+              {
+                "w": "alone",
+                "t": 3393.0,
+                "d": 1021.0
+              },
+              {
+                "w": "Entire",
+                "t": 4755.0,
+                "d": 553.0
+              },
+              {
+                "w": "cliff",
+                "t": 5308.0,
+                "d": 340.0
+              },
+              {
+                "w": "faces",
+                "t": 5648.0,
+                "d": 468.0
+              },
+              {
+                "w": "became",
+                "t": 6117.0,
+                "d": 382.0
+              },
+              {
+                "w": "monastic",
+                "t": 6500.0,
+                "d": 553.0
+              },
+              {
+                "w": "streets",
+                "t": 7053.0,
+                "d": 1021.0
+              },
+              {
+                "w": "cells",
+                "t": 8074.0,
+                "d": 297.0
+              },
+              {
+                "w": "and",
+                "t": 8372.0,
+                "d": 169.0
+              },
+              {
+                "w": "halls",
+                "t": 8541.0,
+                "d": 596.0
+              },
+              {
+                "w": "terraced",
+                "t": 9308.0,
+                "d": 509.0
+              },
+              {
+                "w": "above",
+                "t": 9818.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 10073.0,
+                "d": 170.0
+              },
+              {
+                "w": "Godavari's",
+                "t": 10243.0,
+                "d": 638.0
+              },
+              {
+                "w": "broad",
+                "t": 10881.0,
+                "d": 340.0
+              },
+              {
+                "w": "valley",
+                "t": 11222.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p13.png",
+      "shot": "medium shot at a Nashik cave doorway, showing an inscription panel being carefully chiseled beside the entrance",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The chisels wrote as well as cut. Inscriptions at Nashik remember merchants, officials, monks and nuns who paid for halls, facades, and cells. Kings were only one voice among many.",
+            "hi": "यह छैनी काटती भी थी, लिखती भी। नाशिक की शिलालेखें उन व्यापारियों, अधिकारियों, भिक्षुओं और भिक्षुणियों को याद रखती हैं, जिन्होंने हाल, मोर्चे और कोठरियाँ बनवाईं। राजा बस कई आवाज़ों में से एक थे।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p13_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "chisels",
+                "t": 287.0,
+                "d": 468.0
+              },
+              {
+                "w": "wrote",
+                "t": 755.0,
+                "d": 425.0
+              },
+              {
+                "w": "as",
+                "t": 1223.0,
+                "d": 212.0
+              },
+              {
+                "w": "well",
+                "t": 1436.0,
+                "d": 170.0
+              },
+              {
+                "w": "as",
+                "t": 1606.0,
+                "d": 127.0
+              },
+              {
+                "w": "cut",
+                "t": 1734.0,
+                "d": 638.0
+              },
+              {
+                "w": "Inscriptions",
+                "t": 3052.0,
+                "d": 767.0
+              },
+              {
+                "w": "at",
+                "t": 3819.0,
+                "d": 170.0
+              },
+              {
+                "w": "Nashik",
+                "t": 3989.0,
+                "d": 680.0
+              },
+              {
+                "w": "remember",
+                "t": 4755.0,
+                "d": 468.0
+              },
+              {
+                "w": "merchants",
+                "t": 5223.0,
+                "d": 808.0
+              },
+              {
+                "w": "officials",
+                "t": 6117.0,
+                "d": 851.0
+              },
+              {
+                "w": "monks",
+                "t": 7010.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 7819.0,
+                "d": 212.0
+              },
+              {
+                "w": "nuns",
+                "t": 8031.0,
+                "d": 297.0
+              },
+              {
+                "w": "who",
+                "t": 8329.0,
+                "d": 211.0
+              },
+              {
+                "w": "paid",
+                "t": 8541.0,
+                "d": 256.0
+              },
+              {
+                "w": "for",
+                "t": 8797.0,
+                "d": 126.0
+              },
+              {
+                "w": "halls",
+                "t": 8924.0,
+                "d": 596.0
+              },
+              {
+                "w": "facades",
+                "t": 9606.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 10287.0,
+                "d": 255.0
+              },
+              {
+                "w": "cells",
+                "t": 10542.0,
+                "d": 638.0
+              },
+              {
+                "w": "Kings",
+                "t": 11945.0,
+                "d": 340.0
+              },
+              {
+                "w": "were",
+                "t": 12286.0,
+                "d": 213.0
+              },
+              {
+                "w": "only",
+                "t": 12500.0,
+                "d": 382.0
+              },
+              {
+                "w": "one",
+                "t": 12882.0,
+                "d": 340.0
+              },
+              {
+                "w": "voice",
+                "t": 13223.0,
+                "d": 382.0
+              },
+              {
+                "w": "among",
+                "t": 13606.0,
+                "d": 340.0
+              },
+              {
+                "w": "many",
+                "t": 13946.0,
+                "d": 467.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p14.png",
+      "shot": "interior medium of a Nashik vihara, rows of cells around a hall, a monk seated in meditation at one doorway",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "These were not just shrines. Viharas wrapped the chaityas, turning cliffs into living monasteries where travel-worn monks could sleep, study, and wait out the rains.",
+            "hi": "ये सिर्फ़ देवालय नहीं थे। विहार ने चैत्य को घेर लिया, चट्टानों को जीते-जागते मठ बना दिया, जहाँ थके यात्री-भिक्षु सो सकें, पढ़ सकें, और बरसात टाल सकें।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p14_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "These",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "were",
+                "t": 448.0,
+                "d": 229.0
+              },
+              {
+                "w": "not",
+                "t": 678.0,
+                "d": 275.0
+              },
+              {
+                "w": "just",
+                "t": 954.0,
+                "d": 459.0
+              },
+              {
+                "w": "shrines",
+                "t": 1643.0,
+                "d": 919.0
+              },
+              {
+                "w": "Viharas",
+                "t": 2745.0,
+                "d": 736.0
+              },
+              {
+                "w": "wrapped",
+                "t": 3482.0,
+                "d": 366.0
+              },
+              {
+                "w": "the",
+                "t": 3849.0,
+                "d": 137.0
+              },
+              {
+                "w": "chaityas",
+                "t": 3987.0,
+                "d": 1104.0
+              },
+              {
+                "w": "turning",
+                "t": 5229.0,
+                "d": 413.0
+              },
+              {
+                "w": "cliffs",
+                "t": 5643.0,
+                "d": 413.0
+              },
+              {
+                "w": "into",
+                "t": 6057.0,
+                "d": 321.0
+              },
+              {
+                "w": "living",
+                "t": 6379.0,
+                "d": 367.0
+              },
+              {
+                "w": "monasteries",
+                "t": 6747.0,
+                "d": 735.0
+              },
+              {
+                "w": "where",
+                "t": 7482.0,
+                "d": 229.0
+              },
+              {
+                "w": "travel-worn",
+                "t": 7712.0,
+                "d": 689.0
+              },
+              {
+                "w": "monks",
+                "t": 8402.0,
+                "d": 413.0
+              },
+              {
+                "w": "could",
+                "t": 8816.0,
+                "d": 229.0
+              },
+              {
+                "w": "sleep",
+                "t": 9045.0,
+                "d": 551.0
+              },
+              {
+                "w": "study",
+                "t": 9642.0,
+                "d": 1012.0
+              },
+              {
+                "w": "and",
+                "t": 10655.0,
+                "d": 320.0
+              },
+              {
+                "w": "wait",
+                "t": 10975.0,
+                "d": 368.0
+              },
+              {
+                "w": "out",
+                "t": 11344.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 11528.0,
+                "d": 136.0
+              },
+              {
+                "w": "rains",
+                "t": 11665.0,
+                "d": 690.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p15.png",
+      "shot": "wide shot of Kanheri hill near the sea, dotted with many cave openings, with the hazy line of the Arabian Sea in the background",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Near the sea at Kanheri, the work grew vast. Dozens of caves spread over the hill, fed by port trade, making a stone monastery-city watching the ships in the Arabian Sea.",
+            "hi": "समुद्र के पास कन्हेरी में काम बहुत फैल गया। दर्जनों गुफाएँ पहाड़ी भर में फैलीं, बंदरगाहों की कमाई से पली, पत्थर का मठ-नगर बनीं, जो अरब सागर के जहाज़ों पर नज़र रखता था।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p15_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Near",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 402.0,
+                "d": 137.0
+              },
+              {
+                "w": "sea",
+                "t": 540.0,
+                "d": 413.0
+              },
+              {
+                "w": "at",
+                "t": 954.0,
+                "d": 229.0
+              },
+              {
+                "w": "Kanheri",
+                "t": 1183.0,
+                "d": 643.0
+              },
+              {
+                "w": "the",
+                "t": 2287.0,
+                "d": 275.0
+              },
+              {
+                "w": "work",
+                "t": 2563.0,
+                "d": 367.0
+              },
+              {
+                "w": "grew",
+                "t": 2931.0,
+                "d": 320.0
+              },
+              {
+                "w": "vast",
+                "t": 3251.0,
+                "d": 1518.0
+              },
+              {
+                "w": "Dozens",
+                "t": 4908.0,
+                "d": 551.0
+              },
+              {
+                "w": "of",
+                "t": 5459.0,
+                "d": 183.0
+              },
+              {
+                "w": "caves",
+                "t": 5643.0,
+                "d": 459.0
+              },
+              {
+                "w": "spread",
+                "t": 6103.0,
+                "d": 367.0
+              },
+              {
+                "w": "over",
+                "t": 6471.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 6655.0,
+                "d": 183.0
+              },
+              {
+                "w": "hill",
+                "t": 6839.0,
+                "d": 597.0
+              },
+              {
+                "w": "fed",
+                "t": 7712.0,
+                "d": 367.0
+              },
+              {
+                "w": "by",
+                "t": 8080.0,
+                "d": 321.0
+              },
+              {
+                "w": "port",
+                "t": 8402.0,
+                "d": 275.0
+              },
+              {
+                "w": "trade",
+                "t": 8678.0,
+                "d": 688.0
+              },
+              {
+                "w": "making",
+                "t": 9642.0,
+                "d": 460.0
+              },
+              {
+                "w": "a",
+                "t": 10103.0,
+                "d": 45.0
+              },
+              {
+                "w": "stone",
+                "t": 10149.0,
+                "d": 458.0
+              },
+              {
+                "w": "monastery-city",
+                "t": 10608.0,
+                "d": 920.0
+              },
+              {
+                "w": "watching",
+                "t": 11528.0,
+                "d": 504.0
+              },
+              {
+                "w": "the",
+                "t": 12033.0,
+                "d": 139.0
+              },
+              {
+                "w": "ships",
+                "t": 12172.0,
+                "d": 367.0
+              },
+              {
+                "w": "in",
+                "t": 12540.0,
+                "d": 182.0
+              },
+              {
+                "w": "the",
+                "t": 12722.0,
+                "d": 183.0
+              },
+              {
+                "w": "Arabian",
+                "t": 12906.0,
+                "d": 506.0
+              },
+              {
+                "w": "Sea",
+                "t": 13413.0,
+                "d": 367.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/chisels_in_the_vaulted_dark/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/chisels_in_the_vaulted_dark/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He maps the hill like a battlefield, ordering terraces of stone cells to conquer monsoon, time, and shifting patronage.",
+            "hi": "वो पहाड़ी को जंग का मैदान मानकर, पत्थर की कुटियों की सीढ़ियाँ बनवाता है — मानسون, वक्त और बदलती सरपरस्ती पर जीत के लिए।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/action/action_auto2_en.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "maps",
+                "t": 270.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 550.0,
+                "d": 160.0
+              },
+              {
+                "w": "hill",
+                "t": 710.0,
+                "d": 200.0
+              },
+              {
+                "w": "like",
+                "t": 910.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 1070.0,
+                "d": 80.0
+              },
+              {
+                "w": "battlefield",
+                "t": 1150.0,
+                "d": 720.0
+              },
+              {
+                "w": "ordering",
+                "t": 2270.0,
+                "d": 480.0
+              },
+              {
+                "w": "terraces",
+                "t": 2750.0,
+                "d": 520.0
+              },
+              {
+                "w": "of",
+                "t": 3270.0,
+                "d": 119.0
+              },
+              {
+                "w": "stone",
+                "t": 3389.0,
+                "d": 400.0
+              },
+              {
+                "w": "cells",
+                "t": 3789.0,
+                "d": 401.0
+              },
+              {
+                "w": "to",
+                "t": 4190.0,
+                "d": 160.0
+              },
+              {
+                "w": "conquer",
+                "t": 4350.0,
+                "d": 400.0
+              },
+              {
+                "w": "monsoon",
+                "t": 4750.0,
+                "d": 760.0
+              },
+              {
+                "w": "time",
+                "t": 5590.0,
+                "d": 720.0
+              },
+              {
+                "w": "and",
+                "t": 6310.0,
+                "d": 240.0
+              },
+              {
+                "w": "shifting",
+                "t": 6550.0,
+                "d": 480.0
+              },
+              {
+                "w": "patronage",
+                "t": 7030.0,
+                "d": 720.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p16.png",
+      "shot": "medium interior of a Kanheri chaitya under construction, scaffolding around a large stupa, workers on different levels",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, the engineers integrated everything they had learned, from Bhaja's ribs, Bedse's facades, Nashik's terraces, to carve great halls and channels into one orchestrated landscape.",
+            "hi": "यहाँ इंजीनियरों ने सीखा सब कुछ जोड़ दिया — भाजा की पसलियाँ, बेडसे के मुखौटे, नाशिक की सीढ़ीदार कतारें — सबको मिलाकर, एक ही रचे-बसाए परिदृश्य में विराट हाल और नाले काटे।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p16_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 712.0,
+                "d": 212.0
+              },
+              {
+                "w": "engineers",
+                "t": 925.0,
+                "d": 638.0
+              },
+              {
+                "w": "integrated",
+                "t": 1563.0,
+                "d": 892.0
+              },
+              {
+                "w": "everything",
+                "t": 2498.0,
+                "d": 680.0
+              },
+              {
+                "w": "they",
+                "t": 3179.0,
+                "d": 171.0
+              },
+              {
+                "w": "had",
+                "t": 3351.0,
+                "d": 169.0
+              },
+              {
+                "w": "learned",
+                "t": 3520.0,
+                "d": 510.0
+              },
+              {
+                "w": "from",
+                "t": 4329.0,
+                "d": 340.0
+              },
+              {
+                "w": "Bhaja's",
+                "t": 4670.0,
+                "d": 510.0
+              },
+              {
+                "w": "ribs",
+                "t": 5180.0,
+                "d": 723.0
+              },
+              {
+                "w": "Bedse's",
+                "t": 5946.0,
+                "d": 680.0
+              },
+              {
+                "w": "facades",
+                "t": 6627.0,
+                "d": 851.0
+              },
+              {
+                "w": "Nashik's",
+                "t": 7819.0,
+                "d": 510.0
+              },
+              {
+                "w": "terraces",
+                "t": 8329.0,
+                "d": 764.0
+              },
+              {
+                "w": "to",
+                "t": 9393.0,
+                "d": 212.0
+              },
+              {
+                "w": "carve",
+                "t": 9606.0,
+                "d": 381.0
+              },
+              {
+                "w": "great",
+                "t": 9988.0,
+                "d": 340.0
+              },
+              {
+                "w": "halls",
+                "t": 10328.0,
+                "d": 341.0
+              },
+              {
+                "w": "and",
+                "t": 10670.0,
+                "d": 170.0
+              },
+              {
+                "w": "channels",
+                "t": 10840.0,
+                "d": 680.0
+              },
+              {
+                "w": "into",
+                "t": 11563.0,
+                "d": 340.0
+              },
+              {
+                "w": "one",
+                "t": 11904.0,
+                "d": 425.0
+              },
+              {
+                "w": "orchestrated",
+                "t": 12329.0,
+                "d": 764.0
+              },
+              {
+                "w": "landscape",
+                "t": 13094.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/chisels_in_the_vaulted_dark/split_auto/s0.png",
+          "slogan": {
+            "en": "Stone shall remember our hands",
+            "hi": "पत्थर हमारे हाथ याद रखेगा"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/chisels_in_the_vaulted_dark/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/chisels_in_the_vaulted_dark/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Bhaja to Kanheri, his vaulted corridors outlast kingdoms, their stone ribs echoing the thunder of vanished hammers.",
+            "hi": "भाजा से कन्हेरी तक, उसकी मेहराबदार राहें राज मिटाती रहीं, पत्थर की पसलियाँ बुझी हथौड़ों की गड़गड़ाहट गूँजती रहीं।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/split/split_auto_en.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 333.0
+              },
+              {
+                "w": "Bhaja",
+                "t": 406.0,
+                "d": 458.0
+              },
+              {
+                "w": "to",
+                "t": 864.0,
+                "d": 208.0
+              },
+              {
+                "w": "Kanheri",
+                "t": 1072.0,
+                "d": 708.0
+              },
+              {
+                "w": "his",
+                "t": 1864.0,
+                "d": 333.0
+              },
+              {
+                "w": "vaulted",
+                "t": 2197.0,
+                "d": 500.0
+              },
+              {
+                "w": "corridors",
+                "t": 2697.0,
+                "d": 583.0
+              },
+              {
+                "w": "outlast",
+                "t": 3322.0,
+                "d": 583.0
+              },
+              {
+                "w": "kingdoms",
+                "t": 3906.0,
+                "d": 1083.0
+              },
+              {
+                "w": "their",
+                "t": 5031.0,
+                "d": 333.0
+              },
+              {
+                "w": "stone",
+                "t": 5364.0,
+                "d": 416.0
+              },
+              {
+                "w": "ribs",
+                "t": 5781.0,
+                "d": 666.0
+              },
+              {
+                "w": "echoing",
+                "t": 6531.0,
+                "d": 500.0
+              },
+              {
+                "w": "the",
+                "t": 7031.0,
+                "d": 125.0
+              },
+              {
+                "w": "thunder",
+                "t": 7156.0,
+                "d": 416.0
+              },
+              {
+                "w": "of",
+                "t": 7572.0,
+                "d": 166.0
+              },
+              {
+                "w": "vanished",
+                "t": 7739.0,
+                "d": 458.0
+              },
+              {
+                "w": "hammers",
+                "t": 8197.0,
+                "d": 750.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p17.png",
+      "shot": "close-up of water channel at Kanheri, carved along the rock with a cistern, moss growing along its edges",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Water lines stitched the hill together. Cisterns, drains, and gutters turned monsoon hillsides into engineered reservoirs, sustaining hundreds under the rock-cut roofs.",
+            "hi": "पानी की रेखाओं ने पूरी पहाड़ी सिल दी। टंकियाँ, नालियाँ और मुँहानें, मानसून की ढलानों को सँवारे हुए जलाशयों में बदलते, सैकड़ों लोगों को पत्थर की छतों के नीचे सहारा देते।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p17_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Water",
+                "t": 74.0,
+                "d": 425.0
+              },
+              {
+                "w": "lines",
+                "t": 500.0,
+                "d": 340.0
+              },
+              {
+                "w": "stitched",
+                "t": 840.0,
+                "d": 595.0
+              },
+              {
+                "w": "the",
+                "t": 1436.0,
+                "d": 255.0
+              },
+              {
+                "w": "hill",
+                "t": 1691.0,
+                "d": 212.0
+              },
+              {
+                "w": "together",
+                "t": 1904.0,
+                "d": 808.0
+              },
+              {
+                "w": "Cisterns",
+                "t": 2967.0,
+                "d": 894.0
+              },
+              {
+                "w": "drains",
+                "t": 3904.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 4755.0,
+                "d": 340.0
+              },
+              {
+                "w": "gutters",
+                "t": 5095.0,
+                "d": 553.0
+              },
+              {
+                "w": "turned",
+                "t": 5648.0,
+                "d": 297.0
+              },
+              {
+                "w": "monsoon",
+                "t": 5946.0,
+                "d": 510.0
+              },
+              {
+                "w": "hillsides",
+                "t": 6457.0,
+                "d": 680.0
+              },
+              {
+                "w": "into",
+                "t": 7138.0,
+                "d": 340.0
+              },
+              {
+                "w": "engineered",
+                "t": 7478.0,
+                "d": 638.0
+              },
+              {
+                "w": "reservoirs",
+                "t": 8117.0,
+                "d": 936.0
+              },
+              {
+                "w": "sustaining",
+                "t": 9179.0,
+                "d": 723.0
+              },
+              {
+                "w": "hundreds",
+                "t": 9903.0,
+                "d": 596.0
+              },
+              {
+                "w": "under",
+                "t": 10542.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 10755.0,
+                "d": 126.0
+              },
+              {
+                "w": "rock-cut",
+                "t": 10881.0,
+                "d": 425.0
+              },
+              {
+                "w": "roofs",
+                "t": 11307.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/chisels_in_the_vaulted_dark/img/p18.png",
+      "shot": "interior wide of a completed chaitya, silent and empty centuries later, with light entering from the facade",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Their names flaked away with the plaster. Yet the halls endure, wooden memories petrified, reminding us that lasting innovation begins by listening closely to older crafts.",
+            "hi": "उनके नाम प्लास्टर के साथ झर पड़े। पर हाल आज भी खड़े हैं, लकड़ी की यादें पत्थर बनी, याद दिलाते हुए कि टिकाऊ नवाचार पुरानी कलाओं को ध्यान से सुनने से ही जन्म लेता है।"
+          },
+          "audio": {
+            "en": "assets/chisels_in_the_vaulted_dark/audio/en/p18_0.mp3",
+            "hi": "assets/chisels_in_the_vaulted_dark/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Their",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "names",
+                "t": 414.0,
+                "d": 468.0
+              },
+              {
+                "w": "flaked",
+                "t": 882.0,
+                "d": 468.0
+              },
+              {
+                "w": "away",
+                "t": 1351.0,
+                "d": 297.0
+              },
+              {
+                "w": "with",
+                "t": 1648.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 1819.0,
+                "d": 127.0
+              },
+              {
+                "w": "plaster",
+                "t": 1946.0,
+                "d": 893.0
+              },
+              {
+                "w": "Yet",
+                "t": 3094.0,
+                "d": 341.0
+              },
+              {
+                "w": "the",
+                "t": 3436.0,
+                "d": 637.0
+              },
+              {
+                "w": "halls",
+                "t": 4073.0,
+                "d": 341.0
+              },
+              {
+                "w": "endure",
+                "t": 4414.0,
+                "d": 808.0
+              },
+              {
+                "w": "wooden",
+                "t": 5563.0,
+                "d": 425.0
+              },
+              {
+                "w": "memories",
+                "t": 5989.0,
+                "d": 553.0
+              },
+              {
+                "w": "petrified",
+                "t": 6542.0,
+                "d": 936.0
+              },
+              {
+                "w": "reminding",
+                "t": 7648.0,
+                "d": 638.0
+              },
+              {
+                "w": "us",
+                "t": 8287.0,
+                "d": 212.0
+              },
+              {
+                "w": "that",
+                "t": 8500.0,
+                "d": 211.0
+              },
+              {
+                "w": "lasting",
+                "t": 8711.0,
+                "d": 553.0
+              },
+              {
+                "w": "innovation",
+                "t": 9264.0,
+                "d": 638.0
+              },
+              {
+                "w": "begins",
+                "t": 9903.0,
+                "d": 469.0
+              },
+              {
+                "w": "by",
+                "t": 10372.0,
+                "d": 255.0
+              },
+              {
+                "w": "listening",
+                "t": 10627.0,
+                "d": 509.0
+              },
+              {
+                "w": "closely",
+                "t": 11137.0,
+                "d": 554.0
+              },
+              {
+                "w": "to",
+                "t": 11691.0,
+                "d": 127.0
+              },
+              {
+                "w": "older",
+                "t": 11819.0,
+                "d": 467.0
+              },
+              {
+                "w": "crafts",
+                "t": 12286.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Deccan Cave Engineer",
+    "epithets": [
+      "Makers of Rock-Cut Temples",
+      "Masters of the Chaitya Halls",
+      "Basalt Tunnelers of the Deccan",
+      "Engineers of Living Stone"
+    ],
+    "legend": "They carved wooden dreams into silent stone that still breathes."
+  }
+}
