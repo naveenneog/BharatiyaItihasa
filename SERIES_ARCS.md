@@ -416,6 +416,32 @@ The Deccan's first great empire, rebuilt from stone, coin and Prakrit inscriptio
 12. **Gunadhya's Lost Great Tale** ✅ — the vanished Brihatkatha in "ghost-speech" Paishachi, surviving only through Kashmiri retellings. *(literary history)*
 13. **When the Deccan Empire Split** ✅ — the fragmentation into Abhiras, Ikshvakus and Chutus, told as "a long untying." *(decline & succession)*
 
+## 🌳 The Kadamba Dynasty of Banavasi  *(Ancient — c. 345–540 CE, Karnataka)*  — **✅ CHAPTER COMPLETE (13/13)**
+Karnataka's first native ruling house — a family of Brahmin-warriors who made Banavasi a capital, Kannada a language of record, and the land-grant a machine of state. Reconstructed from the Talagunda pillar, the Halmidi stone, the Chandravalli coins and the Halasi/Gudnapur copper-plates, and told with the sources' own uncertainty kept in view.
+
+**I. The Kadamba Tree**
+1. **A Scholar Draws the Sword** ✅ — Mayurasharma, a Brahmin student humiliated at the Pallava court at Kanchi, takes up arms to found a kingdom. *(origins)*
+2. **Banavasi Between the Rivers** ✅ — the forest capital of Vaijayanti/Banavasi and the land that shaped the dynasty. *(geography)*
+
+**II. Iron Warriors and Royal Alliances**
+3. **Forest Fire in Sriparvata** ✅ — Mayurasharma's guerrilla war against the Pallavas from the Sriparvata hills. *(military)*
+4. **Kakusthavarma, Bridegroom of Empires** ✅ — the greatest Kadamba king binding Guptas and Vakatakas by marriage, not only by the sword. *(diplomacy)*
+5. **Three Crowns and a Divided Realm** ✅ — Santivarma, "wearer of three crowns," and the split that seeded the Triparvatha line. *(succession)*
+
+**III. Wars, Recovery and the Handoff**
+6. **Mrigeshavarma Breaks the Ganga Line** ✅ — Mrigeshavarma and Ravivarma answer Ganga and Pallava pressure with steel and new grants. *(warfare)*
+7. **The Lion Banner Passes to Badami** ✅ — Harivarma and Krishnavarma II, the last Kadambas, as the Badami Chalukyas rise. *(decline & transition)*
+
+**IV. Stones, Scripts and Systems**
+8. **The Stone That Speaks Kannada** ✅ — the Halmidi inscription, the earliest full Kannada stone record. *(linguistic innovation)*
+9. **Kubja Carves a Poem in Stone** ✅ — the court poet Kubja composing the Talagunda pillar prashasti as Sanskrit kavya. *(literary / epigraphic)*
+10. **The Stepped Pyramid Spire** ✅ — the distinctive Kadamba-nagara stepped shikhara that later Chalukya and Hoysala builders inherited. *(architectural innovation)*
+11. **A Roman Coin in the Deccan Forest** ✅ — Chandravalli's Roman denarius and Han coin, read against overclaims of direct trade. *(economic / scholarly)*
+
+**V. Settlements and Sacred Legacies**
+12. **The Agrahara Village Machine** ✅ — Mayurasharma's brahmadeya land-grants as an administrative machine binding land, learning and power. *(social / economic innovation)*
+13. **Between Shiva and the Jina** ✅ — Kadamba patronage of Shaiva temples and Jain basadis together, refusing a single-creed story. *(religious pluralism)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
