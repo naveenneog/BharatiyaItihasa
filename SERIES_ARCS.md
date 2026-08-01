@@ -442,6 +442,32 @@ Karnataka's first native ruling house — a family of Brahmin-warriors who made 
 12. **The Agrahara Village Machine** ✅ — Mayurasharma's brahmadeya land-grants as an administrative machine binding land, learning and power. *(social / economic innovation)*
 13. **Between Shiva and the Jina** ✅ — Kadamba patronage of Shaiva temples and Jain basadis together, refusing a single-creed story. *(religious pluralism)*
 
+## 🐘 The Wodeyars of Mysore  *(Late medieval–modern — c. 1399–1950, Karnataka)*  — **✅ CHAPTER COMPLETE (13/13)**
+The house that ruled Mysore for five and a half centuries — from a semi-legendary 1399 founding under Vijayanagara, through the Hyder Ali–Tipu Sultan interregnum, to signing away its own crown into the Indian Republic in 1947 — and turned a princely state into a laboratory of modern India: hydro-power, a dam, a university, industry, caste reservations and aircraft, told with source-criticism and non-communal balance.
+
+**I. Lords under Vijayanagara**
+1. **Yaduraya Takes the Name of Lord** ✅ — the semi-legendary 1399 founder, weighed as tradition against the first hard epigraphy. *(origins)*
+2. **Raja Wodeyar Takes the Island Fort** ✅ — the 1610 seizure of Srirangapatna from the Vijayanagara viceroy and the birth of the Mysore Dasara. *(expansion)*
+
+**II. Coins, Forts and Offices**
+3. **Kanthirava Mints a Kingdom** ✅ — Narasaraja I's 1638 defence of Srirangapatna and the "Canteroy" coin with its Kannada legend. *(coinage / defence)*
+4. **Chikka Devaraja Builds Eighteen Offices** ✅ — the Athara Kacheri eighteen-department state and Bangalore's 1687 purchase, with the Jangama tax-revolt repression owned. *(administrative innovation)*
+
+**III. Tigers beside the Throne**
+5. **Hyder Ali Holds the Throne in Shadow** ✅ — the de-facto ruler beside the nominal Wodeyar king; military modernisation, framed as "not a communal contest." *(military / statecraft)*
+6. **Tipu Sultan's Iron Rockets** ✅ — the iron-cased Mysorean rockets later reshaped into Congreve rockets; reforms and coercion held together, "the record refuses a single hero or villain." *(scientific / military innovation)*
+7. **The Child Maharaja Returns** ✅ — the four-year-old Krishnaraja III restored in 1799 under subsidiary alliance; the 1831 Commission takeover critiqued. *(colonial transition)*
+
+**IV. Palace of Learning and Image**
+8. **Mummadi Opens the Treasury of Knowledge** ✅ — Krishnaraja III's *Sritattvanidhi* encyclopedia of deities, yoga asanas and games, and the Mysore Palace yoga lineage. *(scholarly innovation)*
+9. **The Mysore Durbar Becomes a Public Stage** ✅ — Dasara remade from closed court into public civic ritual, and the 1881 Representative Assembly, first in India. *(civic / cultural)*
+
+**V. The Model State and the Republic**
+10. **Shivanasamudra Lights Bangalore** ✅ — India's first *major* hydroelectric station (1902), powering the Kolar Gold Fields and Bangalore's street lights. *(scientific / economic innovation)*
+11. **Visvesvaraya Raises the KRS Dam** ✅ — the surki-mortar dam and automatic sluice gates across the Kaveri; the Madras dispute and Kannambadi's submergence owned. *(engineering innovation)*
+12. **Mysore Builds a University and Factories** ✅ — the University of Mysore Act (1916, first in a princely state), the Sandalwood Oil Factory / Mysore Sandal Soap and Bhadravati iron. *(educational / industrial innovation)*
+13. **Reservations, Aircraft and the Republic** ✅ — the Miller Committee reservations (1918), Hindustan Aircraft (1940), and the 1947 accession that folded a kingdom into the Republic. *(social / political innovation)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
