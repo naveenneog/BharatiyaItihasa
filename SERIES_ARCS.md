@@ -468,6 +468,32 @@ The house that ruled Mysore for five and a half centuries — from a semi-legend
 12. **Mysore Builds a University and Factories** ✅ — the University of Mysore Act (1916, first in a princely state), the Sandalwood Oil Factory / Mysore Sandal Soap and Bhadravati iron. *(educational / industrial innovation)*
 13. **Reservations, Aircraft and the Republic** ✅ — the Miller Committee reservations (1918), Hindustan Aircraft (1940), and the 1947 accession that folded a kingdom into the Republic. *(social / political innovation)*
 
+## ♀️ Women Who Shaped India  *(Thematic — c. 700 BCE–20th century)*  — **✅ CHAPTER COMPLETE (13/13)**
+Thirteen women the court chronicles half-erased, spanning ~2,700 years from a Vedic debate hall to the UN gavel — each recovered from the strongest surviving source (a Brihadaranyaka debate, coins bearing a queen's name, a stepwell, a saint's own vachanas, a medical diploma, a UN roll-call), the legend always held apart from the record.
+
+**I. The First Voices**
+1. **Gargi Silences the Assembly** ✅ — Gargi Vachaknavi's warp-and-woof challenge to Yajnavalkya in Janaka's court. *(philosophy)*
+2. **Maitreyi Refuses the Wealth of the World** ✅ — Maitreyi choosing the knowledge of the Self over her husband's property. *(philosophy)*
+
+**II. Queens Who Governed and Fought**
+3. **Avvaiyar Walks the Sangam Road** ✅ — the Tamil Sangam poet and counsellor of chieftains, the "multiple Avvaiyars" problem kept in view. *(literature)*
+4. **Didda Keeps the Kashmir Throne** ✅ — the much-maligned queen of Kashmir, read against Kalhana's moralising through her own coins. *(statecraft)*
+5. **Chand Bibi Holds Ahmednagar** ✅ — the Deccan regent's 1595 defence and 1596 Berar treaty, told from both Akbarnama and Ferishta. *(military / diplomacy)*
+
+**III. Stone, Water and Song**
+6. **Udayamati Builds the Stepwell of Memory** ✅ — the queen behind Patan's seven-storey Rani ki Vav. *(architecture)*
+7. **Akka Mahadevi Takes the Open Road** ✅ — the Virashaiva saint-poet of the Anubhava Mantapa and her Kannada vachanas. *(devotion / literature)*
+8. **Lal Ded Gives Kashmir a Voice** ✅ — the vakhs of Lalleshwari, claimed by Hindu and Muslim memory alike. *(devotion / language)*
+
+**IV. Salt and Schoolroom**
+9. **Savitribai Opens the Schoolroom Door** ✅ — the 1848 Bhidewada girls' school and the anti-caste reform of Savitribai Phule. *(social reform)*
+10. **Pandita Ramabai Builds a House of Freedom** ✅ — the Sanskrit pandita's Sharada Sadan and Mukti Mission for widows. *(social reform)*
+11. **Anandi Joshi Crosses the Black Water** ✅ — the first Indian woman to earn a Western medical degree (1886). *(scientific / medical)*
+
+**V. Science and Sovereignty**
+12. **Kamala Sohonie Wins the Laboratory Bet** ✅ — breaking C.V. Raman's bar on women at IISc to become India's first woman science PhD. *(scientific innovation)*
+13. **Vijayalakshmi Pandit Chairs the World** ✅ — from British jails to the first woman President of the UN General Assembly (1953). *(diplomacy)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.

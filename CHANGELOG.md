@@ -5,6 +5,16 @@ problems. Newest first.
 
 ---
 
+## 2026-08-01 — ♀️ Women Who Shaped India COMPLETE (13/13) · 22 chapters · ~2,700 years of Indian women, from a Vedic debate hall to the UN gavel · builds roll into The Bhakti and Sufi Reformers
+
+- **Women Who Shaped India is COMPLETE (13/13, all QA-clean):** a thematic chapter recovering women the court chronicles half-erased — from the Upanishadic philosophers Gargi and Maitreyi to Vijayalakshmi Pandit chairing the UN General Assembly — each reconstructed from the strongest surviving source (a debate in the Brihadaranyaka, coins bearing a queen's name, a stepwell, a saint's own vachanas, a medical diploma, a UN roll-call).
+- **Five grouped acts:** *The First Voices* (Gargi's warp-and-woof challenge; Maitreyi choosing the Self over wealth) · *Queens Who Governed and Fought* (the Sangam poet Avvaiyar; Didda of Kashmir; Chand Bibi at Ahmednagar) · *Stone, Water and Song* (Udayamati's Rani ki Vav; Akka Mahadevi's vachanas; Lal Ded's vakhs) · *Salt and Schoolroom* (Savitribai Phule's first girls' school; Pandita Ramabai's Mukti Mission; Anandi Joshi's medical degree) · *Science and Sovereignty* (Kamala Sohonie breaking into IISc; Vijayalakshmi Pandit at the UN).
+- **Innovation across every lens** @naveenneog asked for: scholarly/philosophical (Gargi, Maitreyi), literary (Avvaiyar's Purananuru, Akka's and Lal Ded's vernacular verse), architectural/engineering (Udayamati's seven-storey stepwell), social-reform (Savitribai's anti-caste schooling, Ramabai's widows' refuge), and scientific (Anandi Joshi's 1886 MD, Kamala Sohonie's biochemistry PhD).
+- **Source-criticism as the through-line:** every episode separates the securely-attested from the legendary — Gargi's uncertain historicity, the "multiple Avvaiyars" problem, Kalhana's moralising vs Didda's coins, Akbarnama vs Ferishta on Chand Bibi, hagiography vs Akka's own vachanas, and Lal Ded claimed by both Hindu and Muslim memory — with real scholars named (Norman Sjoman, Ranjit Hoskote, and the anthology *Lilavati's Daughters*).
+- **One fix this chapter:** Anandi Joshi's hero card mislabelled her "a teenage widow" — she was married to Gopalrao (who outlived her) and lost an infant son, so it was corrected to "a teenage mother" in EN + HI and re-voiced (commit `d973c62`). The other 12 stories were QA-clean.
+
+---
+
 ## 2026-08-01 — 🐘 The Wodeyars of Mysore COMPLETE (13/13) · 21 chapters · five and a half centuries from a 1399 founding to the 1947 Republic · builds roll into Women Who Shaped India
 
 - **The Wodeyars of Mysore is COMPLETE (13/13, all QA-clean):** the dynasty that ruled Mysore c. 1399–1950 — from a semi-legendary founding under Vijayanagara, through the Hyder Ali–Tipu Sultan interregnum, to signing away its own crown into the Indian Republic in 1947 — reconstructed from copper-plates, "Canteroy" coins, palace manuscripts, dam plaques and Instruments of Accession.
