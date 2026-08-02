@@ -520,6 +520,32 @@ Thirteen singer-saints — Hindu bhakti and Muslim Sufi — who between c. 1100 
 12. **Chaitanya Starts the Kirtan Storm** ✅ — the Navadvipa scholar who turned logic into street sankirtana and founded Gaudiya Vaishnavism. *(ecstatic devotion)*
 13. **Shah Latif Sings the Seven Heroines** ✅ — the Sindhi Sufi who sang Hindu folk heroines into the Shah Jo Risalo as allegories of the soul. *(Sufi poetry / folk)*
 
+## ⭐ The Hoysalas and the Temple Sculptors  *(Medieval — c. 1000–1346, Karnataka / Deccan)*  — **✅ CHAPTER COMPLETE (13/13)**
+Thirteen stories of the Hoysala centuries — a hill dynasty that rose from the Malnad forests to rule the Kannada country from Dorasamudra, and the soapstone sculptors, engineers, merchants and poets who turned its wars and faith into the star-shaped temples of Belur, Halebidu and Somanathapura; conquest, conversion and Sultanate collision framed as politics and craft, never as communal myth.
+
+**I. The Forest Kingdom Rises**
+1. **Sala Strikes the Tiger of Legend** ✅ — the founding "Poysala, strike!" legend of Sala and Vinayaditya, held apart from the attested rise of the dynasty. *(origins / legend vs record)*
+2. **Bittideva Takes Talakadu** ✅ — Vishnuvardhana's conquest of Talakadu from the Cholas and his turn from Jainism to Sri Vaishnavism under Ramanuja. *(conquest / faith)*
+
+**II. Queens, Warriors, and the Long Resistance**
+3. **Shantala Devi Keeps Her Faith** ✅ — the Jain queen of a Vaishnava king, religious pluralism lived inside one royal house. *(pluralism / patronage)*
+4. **Halebidu Waits for Its Towers** ✅ — Veera Ballala II, Umadevi and the great Hoysaleshwara temple that was never crowned with its towers. *(empire / architecture)*
+5. **Ballala III Holds the South** ✅ — the last great Hoysala's decades of resistance against the Delhi Sultanate's southern raids. *(resistance / politics)*
+
+**III. The Art of the Star-Shaped Stone**
+6. **Soapstone Stars Change the Temple** ✅ — the shift to soft chloritic-schist soapstone and the stellate plan that made Hoysala sculpture possible. *(core innovation / material)*
+7. **Mallitamma Signs the Stone** ✅ — Ruvari Mallitamma, Dasoja and Chavana, and the signed masterpieces of named Hoysala sculptors. *(craft / authorship)*
+8. **Soma Builds the Perfect Star** ✅ — Soma Dandanayaka and the jewel-box Keshava temple at Somanathapura. *(architecture / patronage)*
+
+**IV. The Lake, the Guild, and the Gold Coin**
+9. **The Lake That Named Dorasamudra** ✅ — the great tank whose "gateway to the lake" gave the Hoysala capital its name, and the water engineering behind it. *(water / engineering)*
+10. **Gold Coins and Merchant Guilds** ✅ — Ketamalla, Kesarasetti and the guilds, coinage and endowments that funded the temples. *(economy / trade)*
+
+**V. The Word, the Grammar, and the Moving Flame**
+11. **Kannada Learns New Metres** ✅ — Janna, Harihara and Raghavanka forging the champu, ragale and shatpadi metres of classical Kannada. *(literature / metre)*
+12. **The Grammar Mirror and Kannada Numbers** ✅ — Kesiraja's *Shabdamanidarpana* grammar and Rajaditya's *Vyavaharaganita*, among the first Kannada mathematics. *(grammar / science)*
+13. **The Moving Temple of Vachana** ✅ — Akka Mahadevi, Basavanna and Harihara, and the vachana word-temple that outlived the stone one. *(devotion / literature)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
