@@ -1,0 +1,3332 @@
+{
+  "id": "the_lake_that_named_dorasamudra",
+  "title": "The Lake That Named Dorasamudra",
+  "title_i18n": {
+    "en": "The Lake That Named Dorasamudra",
+    "hi": "वो झील जिसने दोरासमुद्र को नाम दिया"
+  },
+  "figure": "Hoysala Tank Builders",
+  "era": "Hoysala agrarian administration, 11th-13th centuries CE",
+  "moral": "A lasting state must learn to store and share water.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_lake_that_named_dorasamudra/intro/hero.png",
+      "name": "Hoysala Tank Builder",
+      "epithets": [
+        "Masters of Temple Tanks",
+        "Keepers of the Monsoon",
+        "Engineers of Dorasamudra",
+        "Guardians of Hoysala Fields"
+      ],
+      "legend": "They turned rain into power, carving lakes into sacred stone.",
+      "era": "Hoysala agrarian administration, 11th-13th centuries CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When drought stalked their red earth, Hoysala builders cut deep stone tanks that bound kings, villages and gods together,  but could these quiet waters hold a restless kingdom steady?",
+            "hi": "जब सूखा उनकी लाल धरती पर झपटा, होयसला गढ़इयों ने गहरी पत्थर की बावड़ियाँ खोद डालीं — राज, गाँव और देव सबको बाँध दिया… पर क्या ये शांत जल एक बेचैन राज्य को थाम पाएँगे?"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/intro/hero_en.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 72.0,
+                "d": 333.0
+              },
+              {
+                "w": "drought",
+                "t": 406.0,
+                "d": 333.0
+              },
+              {
+                "w": "stalked",
+                "t": 739.0,
+                "d": 791.0
+              },
+              {
+                "w": "their",
+                "t": 1531.0,
+                "d": 208.0
+              },
+              {
+                "w": "red",
+                "t": 1739.0,
+                "d": 208.0
+              },
+              {
+                "w": "earth",
+                "t": 1947.0,
+                "d": 208.0
+              },
+              {
+                "w": "Hoysala",
+                "t": 2156.0,
+                "d": 541.0
+              },
+              {
+                "w": "builders",
+                "t": 2697.0,
+                "d": 500.0
+              },
+              {
+                "w": "cut",
+                "t": 3197.0,
+                "d": 208.0
+              },
+              {
+                "w": "deep",
+                "t": 3406.0,
+                "d": 375.0
+              },
+              {
+                "w": "stone",
+                "t": 3781.0,
+                "d": 332.0
+              },
+              {
+                "w": "tanks",
+                "t": 4113.0,
+                "d": 417.0
+              },
+              {
+                "w": "that",
+                "t": 4531.0,
+                "d": 250.0
+              },
+              {
+                "w": "bound",
+                "t": 4781.0,
+                "d": 333.0
+              },
+              {
+                "w": "kings",
+                "t": 5114.0,
+                "d": 875.0
+              },
+              {
+                "w": "villages",
+                "t": 6072.0,
+                "d": 750.0
+              },
+              {
+                "w": "and",
+                "t": 6864.0,
+                "d": 250.0
+              },
+              {
+                "w": "gods",
+                "t": 7114.0,
+                "d": 333.0
+              },
+              {
+                "w": "together",
+                "t": 7447.0,
+                "d": 791.0
+              },
+              {
+                "w": "but",
+                "t": 8697.0,
+                "d": 290.0
+              },
+              {
+                "w": "could",
+                "t": 8988.0,
+                "d": 251.0
+              },
+              {
+                "w": "these",
+                "t": 9239.0,
+                "d": 250.0
+              },
+              {
+                "w": "quiet",
+                "t": 9489.0,
+                "d": 373.0
+              },
+              {
+                "w": "waters",
+                "t": 9863.0,
+                "d": 791.0
+              },
+              {
+                "w": "hold",
+                "t": 10738.0,
+                "d": 376.0
+              },
+              {
+                "w": "a",
+                "t": 11114.0,
+                "d": 40.0
+              },
+              {
+                "w": "restless",
+                "t": 11155.0,
+                "d": 625.0
+              },
+              {
+                "w": "kingdom",
+                "t": 11780.0,
+                "d": 751.0
+              },
+              {
+                "w": "steady",
+                "t": 12531.0,
+                "d": 750.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_lake_that_named_dorasamudra/intro/map.png",
+      "x": 0.34,
+      "y": 0.61,
+      "label": "Dorasamudra–Halebidu & Belur, Hassan–Mysore region",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, among rolling black soil and carved temples, stone tanks caught the fickle monsoon and fed a kingdom's fields and faith.",
+            "hi": "यहीं, काली मिट्टी और तराशी मंदिरों के बीच, पत्थर की टंकी ने रूठी बारिश को थामा और खेतों व आस्था को सींचा।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/intro/map_en.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 551.0
+              },
+              {
+                "w": "among",
+                "t": 1000.0,
+                "d": 413.0
+              },
+              {
+                "w": "rolling",
+                "t": 1413.0,
+                "d": 551.0
+              },
+              {
+                "w": "black",
+                "t": 1965.0,
+                "d": 366.0
+              },
+              {
+                "w": "soil",
+                "t": 2332.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 2791.0,
+                "d": 231.0
+              },
+              {
+                "w": "carved",
+                "t": 3022.0,
+                "d": 412.0
+              },
+              {
+                "w": "temples",
+                "t": 3435.0,
+                "d": 828.0
+              },
+              {
+                "w": "stone",
+                "t": 4632.0,
+                "d": 505.0
+              },
+              {
+                "w": "tanks",
+                "t": 5137.0,
+                "d": 505.0
+              },
+              {
+                "w": "caught",
+                "t": 5643.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 5919.0,
+                "d": 137.0
+              },
+              {
+                "w": "fickle",
+                "t": 6057.0,
+                "d": 367.0
+              },
+              {
+                "w": "monsoon",
+                "t": 6425.0,
+                "d": 827.0
+              },
+              {
+                "w": "and",
+                "t": 7344.0,
+                "d": 367.0
+              },
+              {
+                "w": "fed",
+                "t": 7712.0,
+                "d": 367.0
+              },
+              {
+                "w": "a",
+                "t": 8080.0,
+                "d": 45.0
+              },
+              {
+                "w": "kingdom's",
+                "t": 8126.0,
+                "d": 551.0
+              },
+              {
+                "w": "fields",
+                "t": 8678.0,
+                "d": 688.0
+              },
+              {
+                "w": "and",
+                "t": 9366.0,
+                "d": 322.0
+              },
+              {
+                "w": "faith",
+                "t": 9689.0,
+                "d": 505.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_lake_that_named_dorasamudra/img/cover.png",
+      "shot": "wide aerial of Dorasamudra with a vast shimmering tank beside temple towers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Dorasamudra, capital of the Hoysalas, even the city's name bowed to a lake,  and its waters quietly bound kings, temples and villages into one power.",
+            "hi": "होयसलों की राजधानी दोरासमुद्र में, शहर का नाम भी एक झील के आगे झुकता था — जिसकी चुपचाप बहती धार ने राजा, मंदिर और गाँवों को एक ताकत में बाँध दिया।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/cover_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "Dorasamudra",
+                "t": 244.0,
+                "d": 851.0
+              },
+              {
+                "w": "capital",
+                "t": 1095.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 1904.0,
+                "d": 254.0
+              },
+              {
+                "w": "the",
+                "t": 2158.0,
+                "d": 128.0
+              },
+              {
+                "w": "Hoysalas",
+                "t": 2329.0,
+                "d": 722.0
+              },
+              {
+                "w": "even",
+                "t": 3436.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 3734.0,
+                "d": 127.0
+              },
+              {
+                "w": "city's",
+                "t": 3861.0,
+                "d": 425.0
+              },
+              {
+                "w": "name",
+                "t": 4287.0,
+                "d": 255.0
+              },
+              {
+                "w": "bowed",
+                "t": 4542.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 4882.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 5053.0,
+                "d": 42.0
+              },
+              {
+                "w": "lake",
+                "t": 5095.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 6031.0,
+                "d": 212.0
+              },
+              {
+                "w": "its",
+                "t": 6244.0,
+                "d": 170.0
+              },
+              {
+                "w": "waters",
+                "t": 6414.0,
+                "d": 553.0
+              },
+              {
+                "w": "quietly",
+                "t": 6968.0,
+                "d": 510.0
+              },
+              {
+                "w": "bound",
+                "t": 7478.0,
+                "d": 297.0
+              },
+              {
+                "w": "kings",
+                "t": 7776.0,
+                "d": 638.0
+              },
+              {
+                "w": "temples",
+                "t": 8584.0,
+                "d": 894.0
+              },
+              {
+                "w": "and",
+                "t": 9521.0,
+                "d": 340.0
+              },
+              {
+                "w": "villages",
+                "t": 9861.0,
+                "d": 595.0
+              },
+              {
+                "w": "into",
+                "t": 10457.0,
+                "d": 254.0
+              },
+              {
+                "w": "one",
+                "t": 10711.0,
+                "d": 384.0
+              },
+              {
+                "w": "power",
+                "t": 11095.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p01.png",
+      "shot": "slow push-in from the lake surface to the city skyline beyond",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Dorasamudra, in today's Halebidu, was not named for a king or a god, but for a great reservoir. Why did water, not war or bloodline, define this royal seat?",
+            "hi": "आज के हलेबीडु में दोरासमुद्र किसी राजा या देवता पर नहीं, एक विशाल जलाशय पर नाचा गया था। पानी ने, न कि युद्ध या खून की रेखा ने, इस राजसी आसन को क्यों तय किया?"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p01_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Dorasamudra",
+                "t": 110.0,
+                "d": 720.0
+              },
+              {
+                "w": "in",
+                "t": 910.0,
+                "d": 120.0
+              },
+              {
+                "w": "today's",
+                "t": 1030.0,
+                "d": 280.0
+              },
+              {
+                "w": "Halebidu",
+                "t": 1310.0,
+                "d": 600.0
+              },
+              {
+                "w": "was",
+                "t": 1910.0,
+                "d": 200.0
+              },
+              {
+                "w": "not",
+                "t": 2110.0,
+                "d": 319.0
+              },
+              {
+                "w": "named",
+                "t": 2429.0,
+                "d": 281.0
+              },
+              {
+                "w": "for",
+                "t": 2710.0,
+                "d": 320.0
+              },
+              {
+                "w": "a",
+                "t": 3110.0,
+                "d": 40.0
+              },
+              {
+                "w": "king",
+                "t": 3150.0,
+                "d": 279.0
+              },
+              {
+                "w": "or",
+                "t": 3469.0,
+                "d": 121.0
+              },
+              {
+                "w": "a",
+                "t": 3590.0,
+                "d": 120.0
+              },
+              {
+                "w": "god",
+                "t": 3710.0,
+                "d": 760.0
+              },
+              {
+                "w": "but",
+                "t": 4550.0,
+                "d": 240.0
+              },
+              {
+                "w": "for",
+                "t": 4790.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 4950.0,
+                "d": 80.0
+              },
+              {
+                "w": "great",
+                "t": 5030.0,
+                "d": 320.0
+              },
+              {
+                "w": "reservoir",
+                "t": 5350.0,
+                "d": 1680.0
+              },
+              {
+                "w": "Why",
+                "t": 7030.0,
+                "d": 280.0
+              },
+              {
+                "w": "did",
+                "t": 7310.0,
+                "d": 120.0
+              },
+              {
+                "w": "water",
+                "t": 7430.0,
+                "d": 639.0
+              },
+              {
+                "w": "not",
+                "t": 8149.0,
+                "d": 361.0
+              },
+              {
+                "w": "war",
+                "t": 8510.0,
+                "d": 440.0
+              },
+              {
+                "w": "or",
+                "t": 8950.0,
+                "d": 199.0
+              },
+              {
+                "w": "bloodline",
+                "t": 9149.0,
+                "d": 1041.0
+              },
+              {
+                "w": "define",
+                "t": 10270.0,
+                "d": 520.0
+              },
+              {
+                "w": "this",
+                "t": 10790.0,
+                "d": 200.0
+              },
+              {
+                "w": "royal",
+                "t": 10990.0,
+                "d": 319.0
+              },
+              {
+                "w": "seat",
+                "t": 11309.0,
+                "d": 521.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p02.png",
+      "shot": "medium shot of Tank Builder kneeling with a copper plate, tank behind",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Copper-plate grants and carved stones speak of tanks, kalyanis, boundaries and lands. They show a kingdom where every drop was measured, gifted and fought over.",
+            "hi": "ताम्रपत्र और पत्थर की लिखाइयाँ टैंक, कल्याणी, सरहदें और जमीन की बात करती हैं। वे एक ऐसे राज्य को दिखाती हैं जहाँ हर बूंद नापी, बाँटी और छीनी जाती थी।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p02_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Copper-plate",
+                "t": 70.0,
+                "d": 640.0
+              },
+              {
+                "w": "grants",
+                "t": 710.0,
+                "d": 480.0
+              },
+              {
+                "w": "and",
+                "t": 1190.0,
+                "d": 200.0
+              },
+              {
+                "w": "carved",
+                "t": 1390.0,
+                "d": 320.0
+              },
+              {
+                "w": "stones",
+                "t": 1710.0,
+                "d": 440.0
+              },
+              {
+                "w": "speak",
+                "t": 2150.0,
+                "d": 319.0
+              },
+              {
+                "w": "of",
+                "t": 2469.0,
+                "d": 161.0
+              },
+              {
+                "w": "tanks",
+                "t": 2630.0,
+                "d": 600.0
+              },
+              {
+                "w": "kalyanis",
+                "t": 3230.0,
+                "d": 840.0
+              },
+              {
+                "w": "boundaries",
+                "t": 4150.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 4830.0,
+                "d": 240.0
+              },
+              {
+                "w": "lands",
+                "t": 5070.0,
+                "d": 680.0
+              },
+              {
+                "w": "They",
+                "t": 6310.0,
+                "d": 240.0
+              },
+              {
+                "w": "show",
+                "t": 6550.0,
+                "d": 280.0
+              },
+              {
+                "w": "a",
+                "t": 6830.0,
+                "d": 40.0
+              },
+              {
+                "w": "kingdom",
+                "t": 6870.0,
+                "d": 480.0
+              },
+              {
+                "w": "where",
+                "t": 7350.0,
+                "d": 240.0
+              },
+              {
+                "w": "every",
+                "t": 7590.0,
+                "d": 400.0
+              },
+              {
+                "w": "drop",
+                "t": 7990.0,
+                "d": 360.0
+              },
+              {
+                "w": "was",
+                "t": 8350.0,
+                "d": 160.0
+              },
+              {
+                "w": "measured",
+                "t": 8510.0,
+                "d": 719.0
+              },
+              {
+                "w": "gifted",
+                "t": 9270.0,
+                "d": 879.0
+              },
+              {
+                "w": "and",
+                "t": 10149.0,
+                "d": 281.0
+              },
+              {
+                "w": "fought",
+                "t": 10430.0,
+                "d": 360.0
+              },
+              {
+                "w": "over",
+                "t": 10790.0,
+                "d": 560.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p03.png",
+      "shot": "wide shot of countryside with scattered tanks, fields and shrines",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across Hassan and Mysore, inscriptions tie water to worship: tanks beside shrines, fields feeding temples, gifts of land and wet soil carved into stone forever.",
+            "hi": "हासन से मैसूर तक, शिलालेख पानी को पूजा से जोड़ते हैं: देवालयों के पास टैंक, खेतों से मंदिरों को अन्न, गीली जमीन और खेत पत्थर पर सदा के लिए दान में खुदे हुए।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p03_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 117.0,
+                "d": 468.0
+              },
+              {
+                "w": "Hassan",
+                "t": 585.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 925.0,
+                "d": 170.0
+              },
+              {
+                "w": "Mysore",
+                "t": 1095.0,
+                "d": 808.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 1904.0,
+                "d": 808.0
+              },
+              {
+                "w": "tie",
+                "t": 2712.0,
+                "d": 254.0
+              },
+              {
+                "w": "water",
+                "t": 2967.0,
+                "d": 341.0
+              },
+              {
+                "w": "to",
+                "t": 3308.0,
+                "d": 127.0
+              },
+              {
+                "w": "worship",
+                "t": 3436.0,
+                "d": 1063.0
+              },
+              {
+                "w": "tanks",
+                "t": 4627.0,
+                "d": 425.0
+              },
+              {
+                "w": "beside",
+                "t": 5053.0,
+                "d": 382.0
+              },
+              {
+                "w": "shrines",
+                "t": 5436.0,
+                "d": 765.0
+              },
+              {
+                "w": "fields",
+                "t": 6329.0,
+                "d": 510.0
+              },
+              {
+                "w": "feeding",
+                "t": 6840.0,
+                "d": 340.0
+              },
+              {
+                "w": "temples",
+                "t": 7180.0,
+                "d": 765.0
+              },
+              {
+                "w": "gifts",
+                "t": 8159.0,
+                "d": 467.0
+              },
+              {
+                "w": "of",
+                "t": 8626.0,
+                "d": 127.0
+              },
+              {
+                "w": "land",
+                "t": 8754.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 9308.0,
+                "d": 255.0
+              },
+              {
+                "w": "wet",
+                "t": 9563.0,
+                "d": 254.0
+              },
+              {
+                "w": "soil",
+                "t": 9818.0,
+                "d": 384.0
+              },
+              {
+                "w": "carved",
+                "t": 10287.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 10670.0,
+                "d": 255.0
+              },
+              {
+                "w": "stone",
+                "t": 10925.0,
+                "d": 425.0
+              },
+              {
+                "w": "forever",
+                "t": 11351.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p04.png",
+      "shot": "close-up on copper plate engraved with terms devadana, brahmadaya, agrahara",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here we read of devadana for gods, brahmadaya for Brahmins, agrahara villages turned to learned estates. Always, the grant mentions water: tank, canal, or wet land.",
+            "hi": "यहाँ देवताओं के लिए देवदाना, ब्राह्मणों के लिए ब्रह्मदाय, और अग्रहारा गाँव विद्वान जागीर बनते दिखते हैं। हर अनुदान में पानी दर्ज है: टैंक, नहर या सिंचित जमीन।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p04_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "we",
+                "t": 457.0,
+                "d": 127.0
+              },
+              {
+                "w": "read",
+                "t": 585.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 882.0,
+                "d": 170.0
+              },
+              {
+                "w": "devadana",
+                "t": 1053.0,
+                "d": 595.0
+              },
+              {
+                "w": "for",
+                "t": 1648.0,
+                "d": 170.0
+              },
+              {
+                "w": "gods",
+                "t": 1819.0,
+                "d": 679.0
+              },
+              {
+                "w": "brahmadaya",
+                "t": 2882.0,
+                "d": 978.0
+              },
+              {
+                "w": "for",
+                "t": 3946.0,
+                "d": 254.0
+              },
+              {
+                "w": "Brahmins",
+                "t": 4201.0,
+                "d": 852.0
+              },
+              {
+                "w": "agrahara",
+                "t": 5478.0,
+                "d": 638.0
+              },
+              {
+                "w": "villages",
+                "t": 6117.0,
+                "d": 510.0
+              },
+              {
+                "w": "turned",
+                "t": 6627.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 6968.0,
+                "d": 170.0
+              },
+              {
+                "w": "learned",
+                "t": 7138.0,
+                "d": 382.0
+              },
+              {
+                "w": "estates",
+                "t": 7521.0,
+                "d": 851.0
+              },
+              {
+                "w": "Always",
+                "t": 9009.0,
+                "d": 852.0
+              },
+              {
+                "w": "the",
+                "t": 10202.0,
+                "d": 212.0
+              },
+              {
+                "w": "grant",
+                "t": 10414.0,
+                "d": 340.0
+              },
+              {
+                "w": "mentions",
+                "t": 10755.0,
+                "d": 510.0
+              },
+              {
+                "w": "water",
+                "t": 11265.0,
+                "d": 638.0
+              },
+              {
+                "w": "tank",
+                "t": 12244.0,
+                "d": 764.0
+              },
+              {
+                "w": "canal",
+                "t": 13009.0,
+                "d": 681.0
+              },
+              {
+                "w": "or",
+                "t": 13734.0,
+                "d": 297.0
+              },
+              {
+                "w": "wet",
+                "t": 14031.0,
+                "d": 211.0
+              },
+              {
+                "w": "land",
+                "t": 14243.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p05.png",
+      "shot": "wide shot of a bustling village assembly under a large tree near a tank",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In these lands, power did not flow only from the palace. Nagara in towns, sabha and ur in villages appear in records, debating rights over tanks, bunds and plots.",
+            "hi": "इन इलाकों में ताकत सिर्फ महल से नहीं बहती थी। नगरों का नगर, गाँवों की सभा और ऊर अभिलेखों में दिखते हैं, टैंक, बाँध और खेतों पर हक को लेकर बहस करते हुए।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p05_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "these",
+                "t": 329.0,
+                "d": 255.0
+              },
+              {
+                "w": "lands",
+                "t": 585.0,
+                "d": 638.0
+              },
+              {
+                "w": "power",
+                "t": 1648.0,
+                "d": 382.0
+              },
+              {
+                "w": "did",
+                "t": 2031.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 2202.0,
+                "d": 212.0
+              },
+              {
+                "w": "flow",
+                "t": 2414.0,
+                "d": 297.0
+              },
+              {
+                "w": "only",
+                "t": 2712.0,
+                "d": 424.0
+              },
+              {
+                "w": "from",
+                "t": 3137.0,
+                "d": 171.0
+              },
+              {
+                "w": "the",
+                "t": 3308.0,
+                "d": 170.0
+              },
+              {
+                "w": "palace",
+                "t": 3478.0,
+                "d": 594.0
+              },
+              {
+                "w": "Nagara",
+                "t": 5053.0,
+                "d": 468.0
+              },
+              {
+                "w": "in",
+                "t": 5521.0,
+                "d": 170.0
+              },
+              {
+                "w": "towns",
+                "t": 5691.0,
+                "d": 382.0
+              },
+              {
+                "w": "sabha",
+                "t": 6074.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 6840.0,
+                "d": 340.0
+              },
+              {
+                "w": "ur",
+                "t": 7223.0,
+                "d": 468.0
+              },
+              {
+                "w": "in",
+                "t": 7819.0,
+                "d": 255.0
+              },
+              {
+                "w": "villages",
+                "t": 8074.0,
+                "d": 509.0
+              },
+              {
+                "w": "appear",
+                "t": 8584.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 9009.0,
+                "d": 170.0
+              },
+              {
+                "w": "records",
+                "t": 9179.0,
+                "d": 808.0
+              },
+              {
+                "w": "debating",
+                "t": 10243.0,
+                "d": 638.0
+              },
+              {
+                "w": "rights",
+                "t": 10881.0,
+                "d": 340.0
+              },
+              {
+                "w": "over",
+                "t": 11222.0,
+                "d": 298.0
+              },
+              {
+                "w": "tanks",
+                "t": 11521.0,
+                "d": 723.0
+              },
+              {
+                "w": "bunds",
+                "t": 12329.0,
+                "d": 594.0
+              },
+              {
+                "w": "and",
+                "t": 12924.0,
+                "d": 298.0
+              },
+              {
+                "w": "plots",
+                "t": 13223.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_lake_that_named_dorasamudra/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_lake_that_named_dorasamudra/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He maps water like a campaign, turning scattered fields into a disciplined network of life-giving channels.",
+            "hi": "वो पानी को जंग की तरह साधता है, बिखरी ज़मीन को जीते-जागते नहरों का जाल बना देता है।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "maps",
+                "t": 310.0,
+                "d": 413.0
+              },
+              {
+                "w": "water",
+                "t": 724.0,
+                "d": 413.0
+              },
+              {
+                "w": "like",
+                "t": 1137.0,
+                "d": 183.0
+              },
+              {
+                "w": "a",
+                "t": 1321.0,
+                "d": 137.0
+              },
+              {
+                "w": "campaign",
+                "t": 1459.0,
+                "d": 735.0
+              },
+              {
+                "w": "turning",
+                "t": 2837.0,
+                "d": 413.0
+              },
+              {
+                "w": "scattered",
+                "t": 3251.0,
+                "d": 643.0
+              },
+              {
+                "w": "fields",
+                "t": 3895.0,
+                "d": 505.0
+              },
+              {
+                "w": "into",
+                "t": 4401.0,
+                "d": 368.0
+              },
+              {
+                "w": "a",
+                "t": 4770.0,
+                "d": 91.0
+              },
+              {
+                "w": "disciplined",
+                "t": 4862.0,
+                "d": 643.0
+              },
+              {
+                "w": "network",
+                "t": 5505.0,
+                "d": 551.0
+              },
+              {
+                "w": "of",
+                "t": 6057.0,
+                "d": 183.0
+              },
+              {
+                "w": "life-giving",
+                "t": 6241.0,
+                "d": 643.0
+              },
+              {
+                "w": "channels",
+                "t": 6885.0,
+                "d": 873.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p06.png",
+      "shot": "medium shot inside royal hall, Tank Builder before a Hoysala king (unfeatured figure)",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "\"Maharaja, a tank here will turn dry acres into your temple's food and your subjects' grain.\"",
+            "hi": "“महाराज, यहाँ एक टैंक बनेगा तो सूखी जमीन आपकी देवालय की रसोई और प्रजा का अनाज बन जाएगी।”"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p06_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "\"Maharaja",
+                "t": 49.0,
+                "d": 600.5
+              },
+              {
+                "w": "a",
+                "t": 919.1,
+                "d": 73.5
+              },
+              {
+                "w": "tank",
+                "t": 992.7,
+                "d": 343.1
+              },
+              {
+                "w": "here",
+                "t": 1335.8,
+                "d": 318.6
+              },
+              {
+                "w": "will",
+                "t": 1666.7,
+                "d": 269.6
+              },
+              {
+                "w": "turn",
+                "t": 1936.3,
+                "d": 330.9
+              },
+              {
+                "w": "dry",
+                "t": 2267.2,
+                "d": 306.4
+              },
+              {
+                "w": "acres",
+                "t": 2647.0,
+                "d": 478.0
+              },
+              {
+                "w": "into",
+                "t": 3198.5,
+                "d": 281.8
+              },
+              {
+                "w": "your",
+                "t": 3480.4,
+                "d": 269.6
+              },
+              {
+                "w": "temple's",
+                "t": 3750.0,
+                "d": 551.5
+              },
+              {
+                "w": "food",
+                "t": 4338.2,
+                "d": 318.6
+              },
+              {
+                "w": "and",
+                "t": 4779.4,
+                "d": 245.1
+              },
+              {
+                "w": "your",
+                "t": 5024.5,
+                "d": 232.8
+              },
+              {
+                "w": "subjects'",
+                "t": 5257.3,
+                "d": 539.2
+              },
+              {
+                "w": "grain",
+                "t": 5796.6,
+                "d": 428.9
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p07.png",
+      "shot": "low-angle wide of a tank under construction, workers on embankment",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "So tanks rose: earth piled high for bunds, sluices cut, channels lined. The king's order met village labour and guild skill, each expecting a share in the new water.",
+            "hi": "तो टैंक उठे: बाँधों के लिए मिट्टी के टीले, निकासी के रासे काटे गए, नाले सजाए गए। राजा का हुक्म गाँव की मेहनत और शिल्पियों की कला से मिला, सब नए पानी में अपना हिस्सा चाहते थे।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p07_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "So",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "tanks",
+                "t": 329.0,
+                "d": 382.0
+              },
+              {
+                "w": "rose",
+                "t": 712.0,
+                "d": 510.0
+              },
+              {
+                "w": "earth",
+                "t": 2031.0,
+                "d": 340.0
+              },
+              {
+                "w": "piled",
+                "t": 2372.0,
+                "d": 382.0
+              },
+              {
+                "w": "high",
+                "t": 2755.0,
+                "d": 211.0
+              },
+              {
+                "w": "for",
+                "t": 2967.0,
+                "d": 170.0
+              },
+              {
+                "w": "bunds",
+                "t": 3137.0,
+                "d": 596.0
+              },
+              {
+                "w": "sluices",
+                "t": 3989.0,
+                "d": 638.0
+              },
+              {
+                "w": "cut",
+                "t": 4627.0,
+                "d": 510.0
+              },
+              {
+                "w": "channels",
+                "t": 5180.0,
+                "d": 595.0
+              },
+              {
+                "w": "lined",
+                "t": 5776.0,
+                "d": 851.0
+              },
+              {
+                "w": "The",
+                "t": 7053.0,
+                "d": 212.0
+              },
+              {
+                "w": "king's",
+                "t": 7265.0,
+                "d": 297.0
+              },
+              {
+                "w": "order",
+                "t": 7563.0,
+                "d": 382.0
+              },
+              {
+                "w": "met",
+                "t": 7946.0,
+                "d": 255.0
+              },
+              {
+                "w": "village",
+                "t": 8202.0,
+                "d": 424.0
+              },
+              {
+                "w": "labour",
+                "t": 8626.0,
+                "d": 511.0
+              },
+              {
+                "w": "and",
+                "t": 9223.0,
+                "d": 297.0
+              },
+              {
+                "w": "guild",
+                "t": 9521.0,
+                "d": 255.0
+              },
+              {
+                "w": "skill",
+                "t": 9776.0,
+                "d": 723.0
+              },
+              {
+                "w": "each",
+                "t": 10881.0,
+                "d": 298.0
+              },
+              {
+                "w": "expecting",
+                "t": 11180.0,
+                "d": 638.0
+              },
+              {
+                "w": "a",
+                "t": 11819.0,
+                "d": 41.0
+              },
+              {
+                "w": "share",
+                "t": 11860.0,
+                "d": 469.0
+              },
+              {
+                "w": "in",
+                "t": 12329.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 12500.0,
+                "d": 127.0
+              },
+              {
+                "w": "new",
+                "t": 12627.0,
+                "d": 211.0
+              },
+              {
+                "w": "water",
+                "t": 12839.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p08.png",
+      "shot": "close-up of inscription being chiseled on tank stone",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In stone, obligations are fixed: who desilts the tank, who repairs breaches, who uses the water. The ur, the local body, is bound to the reservoir and its fields.",
+            "hi": "पत्थर पर जिम्मेदारियाँ तय हो गईं: टैंक की गाद कौन निकाले, टूटे बाँध कौन जोड़े, पानी कौन बरते। ऊर, यानी स्थानीय जनसमूह, खुद जलाशय और उसके खेतों से बँध गया।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p08_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "stone",
+                "t": 310.0,
+                "d": 640.0
+              },
+              {
+                "w": "obligations",
+                "t": 1030.0,
+                "d": 680.0
+              },
+              {
+                "w": "are",
+                "t": 1710.0,
+                "d": 120.0
+              },
+              {
+                "w": "fixed",
+                "t": 1830.0,
+                "d": 479.0
+              },
+              {
+                "w": "who",
+                "t": 2710.0,
+                "d": 320.0
+              },
+              {
+                "w": "desilts",
+                "t": 3030.0,
+                "d": 399.0
+              },
+              {
+                "w": "the",
+                "t": 3429.0,
+                "d": 161.0
+              },
+              {
+                "w": "tank",
+                "t": 3590.0,
+                "d": 720.0
+              },
+              {
+                "w": "who",
+                "t": 4390.0,
+                "d": 240.0
+              },
+              {
+                "w": "repairs",
+                "t": 4630.0,
+                "d": 360.0
+              },
+              {
+                "w": "breaches",
+                "t": 4990.0,
+                "d": 760.0
+              },
+              {
+                "w": "who",
+                "t": 5950.0,
+                "d": 240.0
+              },
+              {
+                "w": "uses",
+                "t": 6190.0,
+                "d": 360.0
+              },
+              {
+                "w": "the",
+                "t": 6550.0,
+                "d": 120.0
+              },
+              {
+                "w": "water",
+                "t": 6670.0,
+                "d": 600.0
+              },
+              {
+                "w": "The",
+                "t": 7990.0,
+                "d": 239.0
+              },
+              {
+                "w": "ur",
+                "t": 8229.0,
+                "d": 561.0
+              },
+              {
+                "w": "the",
+                "t": 8830.0,
+                "d": 239.0
+              },
+              {
+                "w": "local",
+                "t": 9069.0,
+                "d": 320.0
+              },
+              {
+                "w": "body",
+                "t": 9389.0,
+                "d": 641.0
+              },
+              {
+                "w": "is",
+                "t": 10069.0,
+                "d": 281.0
+              },
+              {
+                "w": "bound",
+                "t": 10350.0,
+                "d": 279.0
+              },
+              {
+                "w": "to",
+                "t": 10629.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 10709.0,
+                "d": 121.0
+              },
+              {
+                "w": "reservoir",
+                "t": 10830.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 11549.0,
+                "d": 281.0
+              },
+              {
+                "w": "its",
+                "t": 11830.0,
+                "d": 120.0
+              },
+              {
+                "w": "fields",
+                "t": 11950.0,
+                "d": 640.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p09.png",
+      "shot": "wide shot of Hulikere stepped tank with shrines, Tank Builder descending steps",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At Hulikere and other kalyanis, water lies at the heart of carved stone. The tank is both reservoir and sacred mirror, feeding gods' offerings and villagers' rice.",
+            "hi": "हुलीकेरे और दूसरी कल्याणियों में पानी खुद तराशी हुई पत्थर-कला का दिल है। टैंक एक साथ जलाशय और पवित्र आईना है, देवों की नेवैद्यम और गाँव वालों के भात को खिलाता हुआ।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p09_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "Hulikere",
+                "t": 372.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 1053.0,
+                "d": 297.0
+              },
+              {
+                "w": "other",
+                "t": 1393.0,
+                "d": 297.0
+              },
+              {
+                "w": "kalyanis",
+                "t": 1691.0,
+                "d": 850.0
+              },
+              {
+                "w": "water",
+                "t": 2755.0,
+                "d": 510.0
+              },
+              {
+                "w": "lies",
+                "t": 3265.0,
+                "d": 424.0
+              },
+              {
+                "w": "at",
+                "t": 3690.0,
+                "d": 171.0
+              },
+              {
+                "w": "the",
+                "t": 3861.0,
+                "d": 169.0
+              },
+              {
+                "w": "heart",
+                "t": 4030.0,
+                "d": 341.0
+              },
+              {
+                "w": "of",
+                "t": 4372.0,
+                "d": 212.0
+              },
+              {
+                "w": "carved",
+                "t": 4585.0,
+                "d": 340.0
+              },
+              {
+                "w": "stone",
+                "t": 4925.0,
+                "d": 1191.0
+              },
+              {
+                "w": "The",
+                "t": 6457.0,
+                "d": 212.0
+              },
+              {
+                "w": "tank",
+                "t": 6670.0,
+                "d": 425.0
+              },
+              {
+                "w": "is",
+                "t": 7095.0,
+                "d": 170.0
+              },
+              {
+                "w": "both",
+                "t": 7265.0,
+                "d": 297.0
+              },
+              {
+                "w": "reservoir",
+                "t": 7563.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 8372.0,
+                "d": 211.0
+              },
+              {
+                "w": "sacred",
+                "t": 8584.0,
+                "d": 469.0
+              },
+              {
+                "w": "mirror",
+                "t": 9053.0,
+                "d": 808.0
+              },
+              {
+                "w": "feeding",
+                "t": 9903.0,
+                "d": 469.0
+              },
+              {
+                "w": "gods'",
+                "t": 10372.0,
+                "d": 382.0
+              },
+              {
+                "w": "offerings",
+                "t": 10755.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 11563.0,
+                "d": 296.0
+              },
+              {
+                "w": "villagers'",
+                "t": 11860.0,
+                "d": 595.0
+              },
+              {
+                "w": "rice",
+                "t": 12456.0,
+                "d": 511.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p10.png",
+      "shot": "medium shot in village granary near temple, Tank Builder with elders",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When tanks held, harvests swelled. Temple granaries filled, festivals grew generous, priests, artisans and peasants ate from the same stored grain of irrigated land.",
+            "hi": "जब टैंक भरे रहे, फसलें उमड़ीं। मंदिरों की कोठारियाँ अनाज से भर गईं, त्योहार भरपूर हुए, पुरोहित, कारीगर और किसान एक ही सिंचित खेत के भंडार से पेट भरने लगे।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p10_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "tanks",
+                "t": 329.0,
+                "d": 382.0
+              },
+              {
+                "w": "held",
+                "t": 712.0,
+                "d": 510.0
+              },
+              {
+                "w": "harvests",
+                "t": 1351.0,
+                "d": 851.0
+              },
+              {
+                "w": "swelled",
+                "t": 2244.0,
+                "d": 764.0
+              },
+              {
+                "w": "Temple",
+                "t": 3861.0,
+                "d": 425.0
+              },
+              {
+                "w": "granaries",
+                "t": 4287.0,
+                "d": 553.0
+              },
+              {
+                "w": "filled",
+                "t": 4840.0,
+                "d": 468.0
+              },
+              {
+                "w": "festivals",
+                "t": 5691.0,
+                "d": 680.0
+              },
+              {
+                "w": "grew",
+                "t": 6372.0,
+                "d": 255.0
+              },
+              {
+                "w": "generous",
+                "t": 6627.0,
+                "d": 765.0
+              },
+              {
+                "w": "priests",
+                "t": 7563.0,
+                "d": 808.0
+              },
+              {
+                "w": "artisans",
+                "t": 8626.0,
+                "d": 894.0
+              },
+              {
+                "w": "and",
+                "t": 9563.0,
+                "d": 468.0
+              },
+              {
+                "w": "peasants",
+                "t": 10031.0,
+                "d": 595.0
+              },
+              {
+                "w": "ate",
+                "t": 10627.0,
+                "d": 127.0
+              },
+              {
+                "w": "from",
+                "t": 10755.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 10925.0,
+                "d": 935.0
+              },
+              {
+                "w": "same",
+                "t": 11860.0,
+                "d": 340.0
+              },
+              {
+                "w": "stored",
+                "t": 12201.0,
+                "d": 426.0
+              },
+              {
+                "w": "grain",
+                "t": 12627.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 13179.0,
+                "d": 298.0
+              },
+              {
+                "w": "irrigated",
+                "t": 13478.0,
+                "d": 594.0
+              },
+              {
+                "w": "land",
+                "t": 14073.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p11.png",
+      "shot": "tight close-up on Tank Builder’s thoughtful face, shadows of gathering clouds",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "But inscriptions also whisper of danger: years of scant rain, breached bunds, disputes over shares. When water failed, all this delicate balance strained and cracked.",
+            "hi": "पर शिलालेख खतरे की फुसफुसाहट भी करते हैं: कम बरसात के साल, फूटे बाँध, हिस्सों पर झगड़े। जब पानी चूका, तो ये नाजुक संतुलन खिंच गया, दरक गया।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p11_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "But",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 310.0,
+                "d": 640.0
+              },
+              {
+                "w": "also",
+                "t": 950.0,
+                "d": 440.0
+              },
+              {
+                "w": "whisper",
+                "t": 1390.0,
+                "d": 360.0
+              },
+              {
+                "w": "of",
+                "t": 1750.0,
+                "d": 160.0
+              },
+              {
+                "w": "danger",
+                "t": 1910.0,
+                "d": 720.0
+              },
+              {
+                "w": "years",
+                "t": 2989.0,
+                "d": 480.0
+              },
+              {
+                "w": "of",
+                "t": 3469.0,
+                "d": 81.0
+              },
+              {
+                "w": "scant",
+                "t": 3550.0,
+                "d": 399.0
+              },
+              {
+                "w": "rain",
+                "t": 3949.0,
+                "d": 481.0
+              },
+              {
+                "w": "breached",
+                "t": 4590.0,
+                "d": 560.0
+              },
+              {
+                "w": "bunds",
+                "t": 5150.0,
+                "d": 680.0
+              },
+              {
+                "w": "disputes",
+                "t": 6070.0,
+                "d": 640.0
+              },
+              {
+                "w": "over",
+                "t": 6750.0,
+                "d": 280.0
+              },
+              {
+                "w": "shares",
+                "t": 7030.0,
+                "d": 600.0
+              },
+              {
+                "w": "When",
+                "t": 8430.0,
+                "d": 279.0
+              },
+              {
+                "w": "water",
+                "t": 8709.0,
+                "d": 321.0
+              },
+              {
+                "w": "failed",
+                "t": 9030.0,
+                "d": 800.0
+              },
+              {
+                "w": "all",
+                "t": 9910.0,
+                "d": 360.0
+              },
+              {
+                "w": "this",
+                "t": 10270.0,
+                "d": 199.0
+              },
+              {
+                "w": "delicate",
+                "t": 10469.0,
+                "d": 481.0
+              },
+              {
+                "w": "balance",
+                "t": 10950.0,
+                "d": 439.0
+              },
+              {
+                "w": "strained",
+                "t": 11389.0,
+                "d": 561.0
+              },
+              {
+                "w": "and",
+                "t": 11950.0,
+                "d": 279.0
+              },
+              {
+                "w": "cracked",
+                "t": 12229.0,
+                "d": 521.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_lake_that_named_dorasamudra/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_lake_that_named_dorasamudra/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As monsoon fury mounts, he fights to steer the flood, guarding village, temple and granary alike.",
+            "hi": "तेज़ होती बारिश में वो बाढ़ मोड़ता है, गाँव, मंदिर और कोठार की रखवाली करता हुआ।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "monsoon",
+                "t": 350.0,
+                "d": 440.0
+              },
+              {
+                "w": "fury",
+                "t": 790.0,
+                "d": 320.0
+              },
+              {
+                "w": "mounts",
+                "t": 1110.0,
+                "d": 520.0
+              },
+              {
+                "w": "he",
+                "t": 1670.0,
+                "d": 320.0
+              },
+              {
+                "w": "fights",
+                "t": 1990.0,
+                "d": 319.0
+              },
+              {
+                "w": "to",
+                "t": 2309.0,
+                "d": 120.0
+              },
+              {
+                "w": "steer",
+                "t": 2429.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 2750.0,
+                "d": 119.0
+              },
+              {
+                "w": "flood",
+                "t": 2869.0,
+                "d": 560.0
+              },
+              {
+                "w": "guarding",
+                "t": 3510.0,
+                "d": 399.0
+              },
+              {
+                "w": "village",
+                "t": 3909.0,
+                "d": 681.0
+              },
+              {
+                "w": "temple",
+                "t": 4630.0,
+                "d": 600.0
+              },
+              {
+                "w": "and",
+                "t": 5270.0,
+                "d": 200.0
+              },
+              {
+                "w": "granary",
+                "t": 5470.0,
+                "d": 400.0
+              },
+              {
+                "w": "alike",
+                "t": 5870.0,
+                "d": 480.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p12.png",
+      "shot": "medium shot of local assembly mediating by the tank, Tank Builder between factions",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "\"We must share by turns, or the bund we built together will become our boundary.\"",
+            "hi": "“हमें बारी-बारी से बाँटना होगा, नहीं तो जो बाँध हमने मिलकर बनाया, वही हमारी सरहद बन जाएगा।”"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p12_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "\"We",
+                "t": 49.0,
+                "d": 134.8
+              },
+              {
+                "w": "must",
+                "t": 232.8,
+                "d": 318.6
+              },
+              {
+                "w": "share",
+                "t": 588.2,
+                "d": 379.9
+              },
+              {
+                "w": "by",
+                "t": 968.1,
+                "d": 232.8
+              },
+              {
+                "w": "turns",
+                "t": 1213.2,
+                "d": 478.0
+              },
+              {
+                "w": "or",
+                "t": 2009.8,
+                "d": 159.3
+              },
+              {
+                "w": "the",
+                "t": 2181.4,
+                "d": 110.3
+              },
+              {
+                "w": "bund",
+                "t": 2303.9,
+                "d": 343.1
+              },
+              {
+                "w": "we",
+                "t": 2647.0,
+                "d": 183.8
+              },
+              {
+                "w": "built",
+                "t": 2867.7,
+                "d": 318.6
+              },
+              {
+                "w": "together",
+                "t": 3247.5,
+                "d": 527.0
+              },
+              {
+                "w": "will",
+                "t": 3799.0,
+                "d": 257.3
+              },
+              {
+                "w": "become",
+                "t": 4056.4,
+                "d": 453.4
+              },
+              {
+                "w": "our",
+                "t": 4571.1,
+                "d": 220.6
+              },
+              {
+                "w": "boundary",
+                "t": 4791.7,
+                "d": 490.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p13.png",
+      "shot": "interior temple shot, Tank Builder viewing inscription naming nagara and sabha",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "These records show negotiated power, not a neat planned system. Town nagara, temple sabha, village ur,  each appears by name, each claiming a voice over water and land.",
+            "hi": "ये लिखाइयाँ तयशुदा, साफ-सुथरे नक्शे की नहीं, सौदेबाज़ी वाली ताकत की कहानी कहती हैं। नगर का नगर, मंदिर की सभा, गाँव का ऊर — सब नाम से दिखते हैं, पानी और जमीन पर अपनी आवाज़ माँगते हुए।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p13_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "These",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "records",
+                "t": 457.0,
+                "d": 425.0
+              },
+              {
+                "w": "show",
+                "t": 882.0,
+                "d": 212.0
+              },
+              {
+                "w": "negotiated",
+                "t": 1095.0,
+                "d": 765.0
+              },
+              {
+                "w": "power",
+                "t": 1861.0,
+                "d": 637.0
+              },
+              {
+                "w": "not",
+                "t": 2584.0,
+                "d": 341.0
+              },
+              {
+                "w": "a",
+                "t": 2925.0,
+                "d": 126.0
+              },
+              {
+                "w": "neat",
+                "t": 3052.0,
+                "d": 384.0
+              },
+              {
+                "w": "planned",
+                "t": 3436.0,
+                "d": 382.0
+              },
+              {
+                "w": "system",
+                "t": 3819.0,
+                "d": 1276.0
+              },
+              {
+                "w": "Town",
+                "t": 5138.0,
+                "d": 297.0
+              },
+              {
+                "w": "nagara",
+                "t": 5436.0,
+                "d": 638.0
+              },
+              {
+                "w": "temple",
+                "t": 6117.0,
+                "d": 425.0
+              },
+              {
+                "w": "sabha",
+                "t": 6542.0,
+                "d": 510.0
+              },
+              {
+                "w": "village",
+                "t": 7223.0,
+                "d": 553.0
+              },
+              {
+                "w": "ur",
+                "t": 7776.0,
+                "d": 553.0
+              },
+              {
+                "w": "each",
+                "t": 8626.0,
+                "d": 382.0
+              },
+              {
+                "w": "appears",
+                "t": 9009.0,
+                "d": 469.0
+              },
+              {
+                "w": "by",
+                "t": 9478.0,
+                "d": 212.0
+              },
+              {
+                "w": "name",
+                "t": 9691.0,
+                "d": 637.0
+              },
+              {
+                "w": "each",
+                "t": 10372.0,
+                "d": 339.0
+              },
+              {
+                "w": "claiming",
+                "t": 10711.0,
+                "d": 469.0
+              },
+              {
+                "w": "a",
+                "t": 11180.0,
+                "d": 170.0
+              },
+              {
+                "w": "voice",
+                "t": 11351.0,
+                "d": 382.0
+              },
+              {
+                "w": "over",
+                "t": 11734.0,
+                "d": 340.0
+              },
+              {
+                "w": "water",
+                "t": 12074.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 12585.0,
+                "d": 339.0
+              },
+              {
+                "w": "land",
+                "t": 12924.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p14.png",
+      "shot": "wide shot of Dorasamudra’s main tank with temple complex, sunset light",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Hoysalas never mapped water like a later empire. Yet here, by this lake, we see their real craft: binding capital, villages and shrines through shared reservoirs and land.",
+            "hi": "होयसलों ने पानी को किसी बाद के साम्राज्य की तरह नक्शों में नहीं बाँधा। पर यहीं, इस झील के किनारे, उनकी असली कारीगरी दिखती है: राजधानी, गाँव और देवालयों को साझा जलाशयों और जमीन से बाँधना।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p14_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Hoysalas",
+                "t": 329.0,
+                "d": 468.0
+              },
+              {
+                "w": "never",
+                "t": 797.0,
+                "d": 340.0
+              },
+              {
+                "w": "mapped",
+                "t": 1138.0,
+                "d": 382.0
+              },
+              {
+                "w": "water",
+                "t": 1521.0,
+                "d": 425.0
+              },
+              {
+                "w": "like",
+                "t": 1946.0,
+                "d": 211.0
+              },
+              {
+                "w": "a",
+                "t": 2158.0,
+                "d": 43.0
+              },
+              {
+                "w": "later",
+                "t": 2202.0,
+                "d": 339.0
+              },
+              {
+                "w": "empire",
+                "t": 2541.0,
+                "d": 1106.0
+              },
+              {
+                "w": "Yet",
+                "t": 3734.0,
+                "d": 339.0
+              },
+              {
+                "w": "here",
+                "t": 4073.0,
+                "d": 469.0
+              },
+              {
+                "w": "by",
+                "t": 4585.0,
+                "d": 297.0
+              },
+              {
+                "w": "this",
+                "t": 4882.0,
+                "d": 255.0
+              },
+              {
+                "w": "lake",
+                "t": 5138.0,
+                "d": 553.0
+              },
+              {
+                "w": "we",
+                "t": 5734.0,
+                "d": 255.0
+              },
+              {
+                "w": "see",
+                "t": 5989.0,
+                "d": 170.0
+              },
+              {
+                "w": "their",
+                "t": 6159.0,
+                "d": 212.0
+              },
+              {
+                "w": "real",
+                "t": 6372.0,
+                "d": 340.0
+              },
+              {
+                "w": "craft",
+                "t": 6712.0,
+                "d": 765.0
+              },
+              {
+                "w": "binding",
+                "t": 7563.0,
+                "d": 595.0
+              },
+              {
+                "w": "capital",
+                "t": 8159.0,
+                "d": 893.0
+              },
+              {
+                "w": "villages",
+                "t": 9138.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 9988.0,
+                "d": 340.0
+              },
+              {
+                "w": "shrines",
+                "t": 10328.0,
+                "d": 511.0
+              },
+              {
+                "w": "through",
+                "t": 10840.0,
+                "d": 296.0
+              },
+              {
+                "w": "shared",
+                "t": 11137.0,
+                "d": 384.0
+              },
+              {
+                "w": "reservoirs",
+                "t": 11521.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 12244.0,
+                "d": 255.0
+              },
+              {
+                "w": "land",
+                "t": 12500.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_lake_that_named_dorasamudra/split_auto/s0.png",
+          "slogan": {
+            "en": "Guard the water, guard tomorrow",
+            "hi": "जल की रक्षा, कल की रक्षा"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_lake_that_named_dorasamudra/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_lake_that_named_dorasamudra/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Dorasamudra's shining tanks, his vision ripples across centuries, binding kings, villages and fields in shared water destiny.",
+            "hi": "दोरसमुद्र के चमकते टैंकों से उसकी दृष्टि सदियों तक लहराती, राजाओं, गाँवों और खेतों को एक जल-भाग्य में बाँध देती है।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 333.0
+              },
+              {
+                "w": "Dorasamudra's",
+                "t": 406.0,
+                "d": 1000.0
+              },
+              {
+                "w": "shining",
+                "t": 1406.0,
+                "d": 458.0
+              },
+              {
+                "w": "tanks",
+                "t": 1864.0,
+                "d": 623.0
+              },
+              {
+                "w": "his",
+                "t": 2656.0,
+                "d": 290.0
+              },
+              {
+                "w": "vision",
+                "t": 2946.0,
+                "d": 376.0
+              },
+              {
+                "w": "ripples",
+                "t": 3322.0,
+                "d": 416.0
+              },
+              {
+                "w": "across",
+                "t": 3739.0,
+                "d": 458.0
+              },
+              {
+                "w": "centuries",
+                "t": 4197.0,
+                "d": 791.0
+              },
+              {
+                "w": "binding",
+                "t": 5114.0,
+                "d": 625.0
+              },
+              {
+                "w": "kings",
+                "t": 5739.0,
+                "d": 666.0
+              },
+              {
+                "w": "villages",
+                "t": 6489.0,
+                "d": 958.0
+              },
+              {
+                "w": "and",
+                "t": 7447.0,
+                "d": 375.0
+              },
+              {
+                "w": "fields",
+                "t": 7822.0,
+                "d": 500.0
+              },
+              {
+                "w": "in",
+                "t": 8322.0,
+                "d": 123.0
+              },
+              {
+                "w": "shared",
+                "t": 8446.0,
+                "d": 458.0
+              },
+              {
+                "w": "water",
+                "t": 8905.0,
+                "d": 376.0
+              },
+              {
+                "w": "destiny",
+                "t": 9281.0,
+                "d": 708.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p15.png",
+      "shot": "close-up of a Hoysala gold coin in Tank Builder’s hand with tank reflection",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Every coin of Hoysala wealth, every sculpture and festival, stood on this quiet base: tanks that turned monsoon into memory, and memory into enduring power.",
+            "hi": "होयसला दौलत का हर सिक्का, हर मूर्ति और उत्सव इसी शांत आधार पर खड़ा था: टैंक जो मानसून को याद में बदलते थे, और याद को स्थायी ताकत में।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p15_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Every",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "coin",
+                "t": 542.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 882.0,
+                "d": 127.0
+              },
+              {
+                "w": "Hoysala",
+                "t": 1010.0,
+                "d": 468.0
+              },
+              {
+                "w": "wealth",
+                "t": 1478.0,
+                "d": 510.0
+              },
+              {
+                "w": "every",
+                "t": 2329.0,
+                "d": 382.0
+              },
+              {
+                "w": "sculpture",
+                "t": 2712.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 3436.0,
+                "d": 211.0
+              },
+              {
+                "w": "festival",
+                "t": 3647.0,
+                "d": 937.0
+              },
+              {
+                "w": "stood",
+                "t": 4627.0,
+                "d": 382.0
+              },
+              {
+                "w": "on",
+                "t": 5010.0,
+                "d": 170.0
+              },
+              {
+                "w": "this",
+                "t": 5180.0,
+                "d": 255.0
+              },
+              {
+                "w": "quiet",
+                "t": 5436.0,
+                "d": 297.0
+              },
+              {
+                "w": "base",
+                "t": 5734.0,
+                "d": 638.0
+              },
+              {
+                "w": "tanks",
+                "t": 6797.0,
+                "d": 382.0
+              },
+              {
+                "w": "that",
+                "t": 7180.0,
+                "d": 170.0
+              },
+              {
+                "w": "turned",
+                "t": 7351.0,
+                "d": 382.0
+              },
+              {
+                "w": "monsoon",
+                "t": 7734.0,
+                "d": 510.0
+              },
+              {
+                "w": "into",
+                "t": 8244.0,
+                "d": 255.0
+              },
+              {
+                "w": "memory",
+                "t": 8500.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 9351.0,
+                "d": 296.0
+              },
+              {
+                "w": "memory",
+                "t": 9647.0,
+                "d": 510.0
+              },
+              {
+                "w": "into",
+                "t": 10158.0,
+                "d": 341.0
+              },
+              {
+                "w": "enduring",
+                "t": 10500.0,
+                "d": 595.0
+              },
+              {
+                "w": "power",
+                "t": 11095.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_lake_that_named_dorasamudra/img/p16.png",
+      "shot": "final wide shot of modern Halebidu landscape with ancient tank, Tank Builder ghostlike",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Long after the Hoysalas fell, their lakes still hold water and memory, reminding us that a state truly lasts only when it learns to store and share the rains it receives.",
+            "hi": "होयसलों के गिरने के बहुत बाद भी उनकी झीलें आज तक पानी और यादें संभाले हैं, हमें याद दिलाती हैं कि राज तभी टिकता है जब वह बरसात को सँजोना और बाँटना सीख ले।"
+          },
+          "audio": {
+            "en": "assets/the_lake_that_named_dorasamudra/audio/en/p16_0.mp3",
+            "hi": "assets/the_lake_that_named_dorasamudra/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Long",
+                "t": 80.0,
+                "d": 551.0
+              },
+              {
+                "w": "after",
+                "t": 632.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 908.0,
+                "d": 229.0
+              },
+              {
+                "w": "Hoysalas",
+                "t": 1137.0,
+                "d": 551.0
+              },
+              {
+                "w": "fell",
+                "t": 1689.0,
+                "d": 551.0
+              },
+              {
+                "w": "their",
+                "t": 2745.0,
+                "d": 322.0
+              },
+              {
+                "w": "lakes",
+                "t": 3068.0,
+                "d": 413.0
+              },
+              {
+                "w": "still",
+                "t": 3482.0,
+                "d": 275.0
+              },
+              {
+                "w": "hold",
+                "t": 3758.0,
+                "d": 321.0
+              },
+              {
+                "w": "water",
+                "t": 4080.0,
+                "d": 504.0
+              },
+              {
+                "w": "and",
+                "t": 4585.0,
+                "d": 231.0
+              },
+              {
+                "w": "memory",
+                "t": 4816.0,
+                "d": 873.0
+              },
+              {
+                "w": "reminding",
+                "t": 6103.0,
+                "d": 735.0
+              },
+              {
+                "w": "us",
+                "t": 6839.0,
+                "d": 505.0
+              },
+              {
+                "w": "that",
+                "t": 7574.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 7896.0,
+                "d": 45.0
+              },
+              {
+                "w": "state",
+                "t": 7942.0,
+                "d": 505.0
+              },
+              {
+                "w": "truly",
+                "t": 8448.0,
+                "d": 413.0
+              },
+              {
+                "w": "lasts",
+                "t": 8862.0,
+                "d": 643.0
+              },
+              {
+                "w": "only",
+                "t": 9505.0,
+                "d": 504.0
+              },
+              {
+                "w": "when",
+                "t": 10010.0,
+                "d": 185.0
+              },
+              {
+                "w": "it",
+                "t": 10195.0,
+                "d": 183.0
+              },
+              {
+                "w": "learns",
+                "t": 10379.0,
+                "d": 504.0
+              },
+              {
+                "w": "to",
+                "t": 10883.0,
+                "d": 139.0
+              },
+              {
+                "w": "store",
+                "t": 11022.0,
+                "d": 734.0
+              },
+              {
+                "w": "and",
+                "t": 11804.0,
+                "d": 412.0
+              },
+              {
+                "w": "share",
+                "t": 12217.0,
+                "d": 368.0
+              },
+              {
+                "w": "the",
+                "t": 12586.0,
+                "d": 136.0
+              },
+              {
+                "w": "rains",
+                "t": 12722.0,
+                "d": 598.0
+              },
+              {
+                "w": "it",
+                "t": 13321.0,
+                "d": 275.0
+              },
+              {
+                "w": "receives",
+                "t": 13597.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Hoysala Tank Builder",
+    "epithets": [
+      "Masters of Temple Tanks",
+      "Keepers of the Monsoon",
+      "Engineers of Dorasamudra",
+      "Guardians of Hoysala Fields"
+    ],
+    "legend": "They turned rain into power, carving lakes into sacred stone."
+  }
+}
