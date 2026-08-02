@@ -5,6 +5,18 @@ problems. Newest first.
 
 ---
 
+## 2026-08-02 — 🪕 The Bhakti and Sufi Reformers COMPLETE (13/13) · 23 chapters · ~650 years of singer-saints (c. 1100–1750) who pried devotion out of court Sanskrit and Persian into the mother tongues · builds roll into The Hoysalas and the Temple Sculptors
+
+- **The Bhakti and Sufi Reformers is COMPLETE (13/13, all QA-clean with zero content fixes):** the project's most non-communally sensitive chapter — Hindu bhakti and Muslim Sufi singer-saints from Ramanuja to Shah Latif — built to a graduate-level source-critical standard, with legend always held apart from the record and syncretism never spun into communal myth.
+- **Five grouped acts:** *Southern Fire, Vernacular Doors* (Ramanuja's temple-door reform; Basavanna, Akka Mahadevi & Allama Prabhu's Anubhava Mantapa) · *Maharashtra on Foot* (Dnyaneshwar's Marathi Jnaneshwari; Chokhamela & Soyarabai's threshold protest-theology) · *Looms, Leather, Palaces* (Ravidas's Begampura; Kabir's three manuscript traditions; Mirabai's widow-code defiance) · *Kashmir Between Mountain and Shrine* (Lal Ded's vakhs; Nund Rishi's Rishi order) · *Sufi Doors and Sung Worlds* (Muinuddin Chishti's Ajmer; Baba Farid's Guru Granth Sahib shloks; Chaitanya's Gaudiya sankirtana; Shah Latif's Shah Jo Risalo).
+- **Non-communal framing at the hardest points:** Kabir read against the "simple Hindu–Muslim bridge" cliché; Muinuddin Chishti's "converted millions" myth explicitly refused and his arrival held apart from the Ghurid conquest; Lal Ded presented as claimed by Shaiva *and* Muslim memory without adjudication; Nund Rishi honouring a Hindu mystic; Baba Farid's and Ravidas's verses preserved in Sikh scripture; Shah Latif singing Hindu folk heroines as Sufi allegory.
+- **Innovation across every lens** @naveenneog asked for: theological (Ramanuja's Vishishtadvaita), social-reform / anti-caste (Basavanna, Chokhamela, Ravidas), literary / vernacular (Dnyaneshwar's Marathi, Kabir, Baba Farid's Punjabi, Shah Latif's Sindhi Risalo), women's agency (Mirabai, Akka Mahadevi), and textual-critical (Kabir's three recensions, the reconstruction of Shah Jo Risalo).
+- **Baked-text highlights** (accurate, legible scripture rendered into the art and verified by zoom): the Jnaneshwari opening + its Pasayadan universal-welfare prayer (Devanagari); Ravidas's "मन चंगा तौ कठौती में गंगा"; Kabir's "मोको कहाँ ढूँढे रे बंदे / na main deval na main masjid" in correct Gurmukhi; Mirabai's "मेरे तो गिरधर गोपाल".
+- **QA:** all 13 GATE-passed (≥22 scenes, 2 action beats, 3-band montage), one-face character consistency, en+hi voice clean (only benign STT transliteration / regnal-normalisation flags). **Zero content fixes required across the whole chapter.**
+- **Commits:** 13 content commits (`993ee87` Ramanuja → `185aba5` Shah Latif); assets versioned to the masters submodule each tick.
+
+---
+
 ## 2026-08-01 — ♀️ Women Who Shaped India COMPLETE (13/13) · 22 chapters · ~2,700 years of Indian women, from a Vedic debate hall to the UN gavel · builds roll into The Bhakti and Sufi Reformers
 
 - **Women Who Shaped India is COMPLETE (13/13, all QA-clean):** a thematic chapter recovering women the court chronicles half-erased — from the Upanishadic philosophers Gargi and Maitreyi to Vijayalakshmi Pandit chairing the UN General Assembly — each reconstructed from the strongest surviving source (a debate in the Brihadaranyaka, coins bearing a queen's name, a stepwell, a saint's own vachanas, a medical diploma, a UN roll-call).

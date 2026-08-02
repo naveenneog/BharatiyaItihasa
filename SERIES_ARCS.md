@@ -494,6 +494,32 @@ Thirteen women the court chronicles half-erased, spanning ~2,700 years from a Ve
 12. **Kamala Sohonie Wins the Laboratory Bet** ✅ — breaking C.V. Raman's bar on women at IISc to become India's first woman science PhD. *(scientific innovation)*
 13. **Vijayalakshmi Pandit Chairs the World** ✅ — from British jails to the first woman President of the UN General Assembly (1953). *(diplomacy)*
 
+## 🪕 The Bhakti and Sufi Reformers  *(Medieval–early modern — c. 1077–1752, pan-Indian)*  — **✅ CHAPTER COMPLETE (13/13)**
+Thirteen singer-saints — Hindu bhakti and Muslim Sufi — who between c. 1100 and 1750 pried devotion out of court Sanskrit and Persian and priestly gates into the mother tongues of loom, leather, field and valley; caste-critique and Hindu–Muslim syncretism held to the record, never spun into communal myth.
+
+**I. Southern Fire, Vernacular Doors**
+1. **Ramanuja Opens Srirangam's Door** ✅ — the Sri Vaishnava acharya who carried Vishishtadvaita into a Tamil–Sanskrit synthesis and pressed temple doors open, hagiography kept apart from the Sri Bhashya. *(theology / temple reform)*
+2. **Basavanna's Parliament of Souls** ✅ — the Anubhava Mantapa of Basavanna, Akka Mahadevi and Allama Prabhu, and the Virashaiva vachana revolt against caste and ritual. *(social-devotional reform)*
+
+**II. Maharashtra on Foot**
+3. **Dnyaneshwar Writes the Song Sermon** ✅ — the outcast-Brahmin teenager who turned the Sanskrit Gita into the Marathi Jnaneshwari and its universal-welfare Pasayadan. *(vernacular scripture)*
+4. **Chokhamela at the Temple Threshold** ✅ — the Mahar saint and his wife Soyarabai singing protest-theology from outside Pandharpur's closed sanctum. *(anti-caste devotion)*
+
+**III. Looms, Leather, Palaces**
+5. **Ravidas Dreams Begampura** ✅ — the Banaras cobbler whose "city without sorrow" and 41 hymns entered the Guru Granth Sahib. *(caste critique / utopia)*
+6. **Kabir's Three Manuscript Faces** ✅ — the weaver-poet remembered by three textual traditions (Bijak, Granthavali, Sikh), read against the "simple Hindu–Muslim bridge" cliché. *(nirguna / textual criticism)*
+7. **Mirabai Refuses the Widow's Silence** ✅ — the Rajput princess who broke purdah and widow-codes to sing Krishna, her legend held apart from the record. *(women's agency / bhakti)*
+
+**IV. Kashmir Between Mountain and Shrine**
+8. **Lal Ded Walks Through Kashmir** ✅ — the vakhs of Lalleshwari / Lal Arifa, claimed by Shaiva and Muslim memory alike, neither claim adjudicated. *(syncretic mysticism)*
+9. **Nund Rishi Plants Kashmir's Ethic** ✅ — Sheikh Noor-ud-Din's Rishi order of work, restraint and mercy, honouring Lal Ded across the Hindu–Muslim line. *(Rishi order / shared ethic)*
+
+**V. Sufi Doors and Sung Worlds**
+10. **Muinuddin Chishti Opens Ajmer** ✅ — the Chishti house of hospitality at Ajmer, the "converted millions" myth refused and the shrine held apart from conquest. *(Sufi hospitality)*
+11. **Baba Farid Sings Punjabi** ✅ — the Chishti saint whose Punjabi shloks were preserved in the Guru Granth Sahib. *(Sufi–Sikh bridge / vernacular)*
+12. **Chaitanya Starts the Kirtan Storm** ✅ — the Navadvipa scholar who turned logic into street sankirtana and founded Gaudiya Vaishnavism. *(ecstatic devotion)*
+13. **Shah Latif Sings the Seven Heroines** ✅ — the Sindhi Sufi who sang Hindu folk heroines into the Shah Jo Risalo as allegories of the soul. *(Sufi poetry / folk)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
