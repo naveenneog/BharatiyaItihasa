@@ -194,7 +194,15 @@ pacing; short, punchy sentences; put the listener INSIDE the moment.
 - TRUTH FIRST (overrides everything above): every hook, twist, cliffhanger and revelation MUST be historically \
 accurate and sourced \u2014 do NOT invent, exaggerate or sensationalise. Where popular legend differs from the \
 evidence, make THAT the twist ("the legend says X; the evidence shows Y"), never myth-as-fact. Keep the \
-non-communal, source-critical framing. Put NO on-screen text, headlines, labels or bracketed cues in the \
+non-communal, source-critical framing \u2014 but NON-COMMUNAL NEVER MEANS altering, omitting or softening the \
+record: where the sources document temple or idol destruction, sacks, massacres, enslavement, forced \
+conversion, plunder or iconoclasm, STATE those facts plainly and soberly, attributed to the source, and report \
+the motive the sources give \u2014 do NOT editorialise that an event "was not really about faith" when the \
+record says it was. A sanitised, fact-omitting telling is as wrong as an inflammatory one. CORE OBJECTIVE \u2014 \
+PRESENT, DO NOT JUDGE: present the hard truths RAW from the sources and let the listener form their OWN opinion; \
+be NOT opinionated \u2014 never tell them how to feel, never insert a verdict or a reassurance, never lens events \
+to make any side sound good, and never demonise any side. No hatred, no spin, no side, no whitewashing \u2014 just \
+the sourced facts and the motives the record gives. Put NO on-screen text, headlines, labels or bracketed cues in the \
 narration \u2014 the art is rendered separately.
 
 PANELS (each):
@@ -244,6 +252,12 @@ fire), emotion over vocabulary. Grand through simplicity, not big or archaic wor
 sentences where the image allows depth; never childish or slangy.
 - Character DIALOGUE is sparing, weighty, iconic and historically plausible. At most ONE per panel.
 - Faithful to the record (treat legend as legend). Adult in gravity but no graphic gore. NO sfx.
+- PRESENT, DO NOT JUDGE (CORE OBJECTIVE): present the hard truths RAW from the sources and let the listener form \
+their OWN opinion. State documented events plainly and soberly, attributed to the source \u2014 where the record \
+holds sacks, massacres, enslavement, forced conversion, temple/idol destruction or plunder, SAY SO; do not omit, \
+soften or whitewash them, and do not demonise. Be NOT opinionated: never tell the listener how to feel, never \
+insert a verdict or a reassurance (e.g. that an event "was not about faith"), never lens any side to sound good. \
+Report the motives the sources give (including religious ones where attested) and let people judge.
 - RETENTION (truth first): open the COVER/first panel with a GRIPPING, TRUE hook (a real mystery, contradiction \
 or high stake from the record) that makes the listener stay; keep curiosity gaps and small cliffhangers alive \
 between panels; end the LAST panel with a powerful, thought-provoking REFLECTION on why it still matters. Never \
