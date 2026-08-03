@@ -546,6 +546,32 @@ Thirteen stories of the Hoysala centuries — a hill dynasty that rose from the 
 12. **The Grammar Mirror and Kannada Numbers** ✅ — Kesiraja's *Shabdamanidarpana* grammar and Rajaditya's *Vyavaharaganita*, among the first Kannada mathematics. *(grammar / science)*
 13. **The Moving Temple of Vachana** ✅ — Akka Mahadevi, Basavanna and Harihara, and the vachana word-temple that outlived the stone one. *(devotion / literature)*
 
+## 🧱 The Kakatiyas of Warangal  *(Medieval — c. 1150–1336, Telangana / Deccan)*  — **✅ CHAPTER COMPLETE (13/13)**
+Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feudatories who rose from Shudra vassalage to rule the eastern Deccan from Warangal, engineered a landscape of monsoon tanks, carved star-temples and floating-brick shikharas, wrote law for their ports and dance for their armies, and left a lion-gate that became Telangana's emblem; the Delhi-Sultanate wars framed as empire and politics, never communal war.
+
+**I. From Footsoldiers to Fortress**
+1. **The Vassals Who Chose Telugu Stone** ✅ — Rudradeva's 1163 Anumakonda inscription turning a Shudra vassal house into a Telugu-speaking sovereignty, origin-legend held apart from the copper-plate record. *(sovereignty / source-criticism)*
+2. **Ganapati Builds the Long Kingdom** ✅ — Ganapati Deva's rise from Yadava captivity to the Kakatiyas' longest reign, read through Cynthia Talbot and the self-praising Recherla inscriptions. *(statecraft)*
+3. **The Nayankara Compact** ✅ — the land-for-service nayankara system that lifted Shudra commanders like Malyala Gunda into statehood. *(social mobility / institutions)*
+
+**II. Heroes Under the Lion Gate**
+4. **Rudrama Rules as Rudra-deva Maharaja** ✅ — the sovereign queen who ruled under a king's title, Marco Polo's "widow" error corrected by her own Telugu stones. *(women's sovereignty)*
+5. **Recherla Rudra's Pillar at Palampet** ✅ — the 201-line dated pillar of a "commander, not king", and the Rudreshwara temple he endowed. *(epigraphy / patronage)*
+
+**III. Sieges at the Granite Walls**
+6. **Malik Kafur at the Granite Walls** ✅ — Prataparudra II and the 1310 Khalji siege, framed by Amir Khusrau as a raid "for granaries and gems, not for faith". *(siege / non-communal war)*
+7. **Prataparudra's Last Road** ✅ — the 1323 fall of Warangal, its renaming to Sultanpur, and the king's death on the road to Delhi, held to the record. *(fall of the dynasty)*
+
+**IV. Stone, Water and Science**
+8. **The Temple with Floating Bricks** ✅ — Ramappa's earthquake-resistant Rudreshwara temple, its sandbox foundation and floating bricks, a 2021 UNESCO site. *(materials science / architecture)*
+9. **The Thousand Tanks of Telangana** ✅ — Mailamba and the tank-builders who turned a dry plateau into a lattice of monsoon reservoirs. *(hydraulic engineering)*
+10. **Three Shrines at Hanamakonda** ✅ — the Thousand Pillar Temple's trikutalaya, monolithic Nandi and mirror-polished pillars, three sects under one roof. *(sacred architecture / pluralism)*
+
+**V. Ports, Poetry and Memory**
+11. **The Motupalli Promise** ✅ — Ganapati Deva's *abhaya-shasana* trade charter fixing customs and protecting shipwrecked cargo, the port Marco Polo called "Mutfili". *(economic / legal innovation)*
+12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
+13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
