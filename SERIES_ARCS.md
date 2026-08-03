@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🛡️ Battles That Forged Ancient India  *(Ancient → Early Medieval — c. 150 BCE–1194 CE, subcontinent-wide)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+Thirteen era-defining battles that formed or ended dynasties — built as source-critical anime-action from named manuscripts, cross-checked against coins, inscriptions and rival chronicles, with legend marked as legend and the hard facts stated plainly (no whitewashing, no communal spin). Grouped in five acts.
+
+**I. Frontier & Grammar**
+1. **The Grammar That Watched a War** ✅ — Pushyamitra Shunga vs Menander I, through Patanjali's Mahabhashya. *(scholarship)*
+2. **The Coins Go Silent in Ujjain** ✅ — Chandragupta II vs Rudrasimha III, the Western Kshatrapas read through their coinage. *(numismatics)*
+
+**II. The Hun Tide & the Ganga**
+3. **The Victory Pillars at Sondani** ✅ — Yashodharman vs Mihirakula, the Sondani prashasti weighed against Kalhana and Xuanzang.
+4. **The Oath by the Pyre** ✅ — Harsha vs Shashanka, Bana's court poetry vs the inscriptions.
+
+**III. The Arab Frontier**
+5. **What the Chachnama Remembers** ✅ — Raja Dahir vs Muhammad bin Qasim, 711 Sindh, from al-Baladhuri + the Chachnama (sack, massacre and settlement stated).
+6. **The Blind Poet and the Captive King** ✅ — Yashovarman vs Lalitaditya, Gaudavaho vs Rajatarangini. *(historiography)*
+7. **The Navsari Tablet Remembers** ✅ — Nagabhata I + the Chalukya viceroy vs the Arabs, later legend distinguished from the copper-plates.
+
+**IV. The Southern Crowns**
+8. **The King Who Turned Ally** ✅ — Aditya I Chola vs Aparajita Pallava, told through the winner's plates.
+9. **Who Shot the Elephant?** ✅ — Krishna III + Butuga II vs Rajaditya at Takkolam, the Atakur stone vs the Chola plates.
+10. **The Dynasty That Fell in the Dust** ✅ — Tailapa II vs Karka II, the Rashtrakutas fall and the Chalukyas of Kalyani rise.
+
+**V. The Ghurid Road**
+11. **The Secretary Who Was There** ✅ — Jayapala vs Mahmud of Ghazni at Waihind, Utbi's Tarikh-i-Yamini vs the coins.
+12. **The Legend at the Dargah** ✅ — Suheldev vs Salar Masud at Bahraich, a contested legend and its shrine (Mirat-i-Masudi, six centuries later).
+13. **The Last King on the Yamuna** ✅ — Jaichand vs Muhammad of Ghor at Chandawar, Hasan Nizami's record (incl. the Kashi temple destruction) vs the Gahadavala silence.
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
