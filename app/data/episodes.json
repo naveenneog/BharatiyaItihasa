@@ -1,5 +1,5 @@
 {
-  "built": 354,
+  "built": 355,
   "chapters": [
     {
       "chapter": "The Ahom Kingdom of Assam",
@@ -9334,7 +9334,7 @@
     {
       "chapter": "Battles That Forged Medieval India",
       "blurb": "",
-      "built": 0,
+      "built": 1,
       "total": 13,
       "parts": [
         {
@@ -9346,18 +9346,24 @@
               "title": "Rawar and the New Province on the Indus",
               "era": "Umayyad conquest of Sindh, 711-712 CE",
               "series": "Ancient & Medieval India",
-              "built": false,
+              "built": true,
               "flagship": false,
               "chapter": "Battles That Forged Medieval India",
               "chapter_part": "I. Frontiers, Copper Plates and Memory",
               "chapter_order": 1,
               "year": 711,
               "year_label": "711 CE",
-              "legend": "At Rawar, Raja Dahir's last stand opened the lower Indus to an Arab frontier province whose politics outlived both the king and the young conqueror.",
-              "epithets": [],
-              "scenes": 0,
-              "langs": [],
-              "thumb": ""
+              "legend": "At Rawar, one king fell and a new frontier was born.",
+              "epithets": [
+                "Raja Dahir, last Brahmin king of Sindh",
+                "Muhammad ibn Qasim, youth general of the Umayyads"
+              ],
+              "scenes": 20,
+              "langs": [
+                "en",
+                "hi"
+              ],
+              "thumb": "assets/rawar_and_the_new_province_on_the_indus/intro/hero.png"
             },
             {
               "id": "the_copper_plate_that_checked_the_arab_advance",
@@ -9602,6 +9608,286 @@
               "year": 1576,
               "year_label": "1576 CE",
               "legend": "At Haldighati, Maharana Pratap lost the field but escaped capture, turning a tactical Mughal victory into a centuries-long argument about resistance and memory.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "The Great Mughal Battles",
+      "blurb": "",
+      "built": 0,
+      "total": 13,
+      "parts": [
+        {
+          "part": "I. Gunpowder Arrives",
+          "episodes": [
+            {
+              "id": "khanwa_and_the_rajput_wall",
+              "figure": "Babur and Rana Sanga",
+              "title": "Khanwa and the Rajput Wall",
+              "era": "Mughal consolidation after Panipat, 16 March 1527",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Great Mughal Battles",
+              "chapter_part": "I. Gunpowder Arrives",
+              "chapter_order": 1,
+              "year": 1527,
+              "year_label": "1527 CE",
+              "legend": "Babur fastens carts into a firing wall, calls the campaign a jihad in his own memoir, and breaks Rana Sanga's coalition at Khanwa.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "ghaghra_and_the_last_afghan_line",
+              "figure": "Babur and Mahmud Lodi",
+              "title": "Ghaghra and the Last Afghan Line",
+              "era": "Babur's final Indian campaign, 6 May 1529",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Great Mughal Battles",
+              "chapter_part": "I. Gunpowder Arrives",
+              "chapter_order": 2,
+              "year": 1529,
+              "year_label": "1529 CE",
+              "legend": "At the Ghaghra, Babur turns river crossing, cannon and negotiation against Mahmud Lodi's eastern Afghan-Bengal alliance.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "II. Empire Lost and Restored",
+          "episodes": [
+            {
+              "id": "chausa_in_the_monsoon_night",
+              "figure": "Sher Shah Suri and Humayun",
+              "title": "Chausa in the Monsoon Night",
+              "era": "Sur challenge to Mughal rule, 26 June 1539",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Great Mughal Battles",
+              "chapter_part": "II. Empire Lost and Restored",
+              "chapter_order": 3,
+              "year": 1539,
+              "year_label": "1539 CE",
+              "legend": "Sher Shah waits through talks and floodwater, then strikes Humayun's camp at night until the emperor escapes across the Ganges.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "kannauj_and_the_silent_guns",
+              "figure": "Sher Shah Suri and Humayun",
+              "title": "Kannauj and the Silent Guns",
+              "era": "Fall of Humayun's first empire, 17 May 1540",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Great Mughal Battles",
+              "chapter_part": "II. Empire Lost and Restored",
+              "chapter_order": 4,
+              "year": 1540,
+              "year_label": "1540 CE",
+              "legend": "At Kannauj, Sher Shah's attack scatters Humayun before the Mughal artillery can fire, sending the dynasty into exile.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "second_panipat_and_hemu_s_arrow",
+              "figure": "Hemu, Bairam Khan and Akbar",
+              "title": "Second Panipat and Hemu's Arrow",
+              "era": "Restoration of Mughal power, 5 November 1556",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Great Mughal Battles",
+              "chapter_part": "II. Empire Lost and Restored",
+              "chapter_order": 5,
+              "year": 1556,
+              "year_label": "1556 CE",
+              "legend": "Hemu's elephant-led army nearly breaks the Mughals until an arrow strikes his eye and a disputed execution becomes a source problem.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "III. Siege and the Rajput Frontier",
+          "episodes": [
+            {
+              "id": "chittorgarh_and_the_count_of_thirty_thousand",
+              "figure": "Akbar, Jaimal and Patta",
+              "title": "Chittorgarh and the Count of Thirty Thousand",
+              "era": "Mughal-Rajput frontier war, October 1567-February 1568",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Great Mughal Battles",
+              "chapter_part": "III. Siege and the Rajput Frontier",
+              "chapter_order": 6,
+              "year": 1567,
+              "year_label": "1567 CE",
+              "legend": "Akbar's siege trenches and matchlock break Chittorgarh, where the Mughal record itself names jauhar and a massacre after the fall.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "haldighati_and_the_missing_chronicle",
+              "figure": "Maharana Pratap and Man Singh I",
+              "title": "Haldighati and the Missing Chronicle",
+              "era": "Mewar resistance after Chittor, 18 June 1576",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Great Mughal Battles",
+              "chapter_part": "III. Siege and the Rajput Frontier",
+              "chapter_order": 7,
+              "year": 1576,
+              "year_label": "1576 CE",
+              "legend": "In the yellow pass of Haldighati, Pratap charges Man Singh's line, escapes, and leaves a battle whose sources still disagree.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "IV. Deccan and Maritime Frontiers",
+          "episodes": [
+            {
+              "id": "swally_and_the_watching_mughals",
+              "figure": "Thomas Best and Jahangir",
+              "title": "Swally and the Watching Mughals",
+              "era": "English, Portuguese and Mughal sea trade, November-December 1612",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Great Mughal Battles",
+              "chapter_part": "IV. Deccan and Maritime Frontiers",
+              "chapter_order": 8,
+              "year": 1612,
+              "year_label": "1612 CE",
+              "legend": "English ships beat the Portuguese off Swally while Mughal officials watch, turning a sea fight into a Surat trade farman.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "purandar_under_jai_singh",
+              "figure": "Jai Singh I and Shivaji",
+              "title": "Purandar Under Jai Singh",
+              "era": "Aurangzeb's first high-pressure Maratha campaign, March-June 1665",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Great Mughal Battles",
+              "chapter_part": "IV. Deccan and Maritime Frontiers",
+              "chapter_order": 9,
+              "year": 1665,
+              "year_label": "1665 CE",
+              "legend": "Jai Singh surrounds Shivaji's fort network, Murarbaji dies defending Purandar, and treaty turns siege into imperial negotiation.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "bijapur_and_the_malik_i_maidan",
+              "figure": "Aurangzeb and Sikandar Adil Shah",
+              "title": "Bijapur and the Malik-i-Maidan",
+              "era": "Annexation of the Adil Shahi Sultanate, 1685-1686",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Great Mughal Battles",
+              "chapter_part": "IV. Deccan and Maritime Frontiers",
+              "chapter_order": 10,
+              "year": 1685,
+              "year_label": "1685 CE",
+              "legend": "Aurangzeb's army grinds against Bijapur's walls and the Malik-i-Maidan gun until the Adil Shahi sultanate surrenders.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "golconda_and_the_opened_gate",
+              "figure": "Aurangzeb and Abul Hasan Qutb Shah",
+              "title": "Golconda and the Opened Gate",
+              "era": "Fall of the Qutb Shahi Sultanate, January-September 1687",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Great Mughal Battles",
+              "chapter_part": "IV. Deccan and Maritime Frontiers",
+              "chapter_order": 11,
+              "year": 1687,
+              "year_label": "1687 CE",
+              "legend": "Mughal mines fail, monsoon and disease bite the camp, and Golconda falls only when a gate opens from inside.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "V. Fracture and Aftermath",
+          "episodes": [
+            {
+              "id": "jajau_and_the_first_crown_after_aurangzeb",
+              "figure": "Bahadur Shah I and Azam Shah",
+              "title": "Jajau and the First Crown After Aurangzeb",
+              "era": "Mughal succession war after Aurangzeb, 20 June 1707",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Great Mughal Battles",
+              "chapter_part": "V. Fracture and Aftermath",
+              "chapter_order": 12,
+              "year": 1707,
+              "year_label": "1707 CE",
+              "legend": "Aurangzeb's sons race toward Agra, and at Jajau one battle leaves Azam Shah dead and Muazzam wearing a fragile crown.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "karnal_and_the_three_hour_rout",
+              "figure": "Nadir Shah and Muhammad Shah",
+              "title": "Karnal and the Three Hour Rout",
+              "era": "Afsharid invasion and Mughal collapse, 24 February 1739",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Great Mughal Battles",
+              "chapter_part": "V. Fracture and Aftermath",
+              "chapter_order": 13,
+              "year": 1739,
+              "year_label": "1739 CE",
+              "legend": "Nadir Shah breaks the Mughal army in three hours at Karnal, then Delhi pays in massacre, plunder and imperial humiliation.",
               "epithets": [],
               "scenes": 0,
               "langs": [],
