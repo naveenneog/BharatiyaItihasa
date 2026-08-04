@@ -1,0 +1,3452 @@
+{
+  "id": "the_source_battlefield",
+  "title": "The Source Battlefield",
+  "title_i18n": {
+    "en": "The Source Battlefield",
+    "hi": "यादों का मैदान-ए-जंग"
+  },
+  "figure": "al-Biruni and Chand Bardai",
+  "era": "Memory and historiography of resistance, c. 1030-1600 CE",
+  "moral": "Honoring the past begins by separating witness from legend.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_source_battlefield/intro/hero.png",
+      "name": "al-Biruni & Chand Bardai",
+      "epithets": [
+        "Abu Rayhan al-Biruni, father of comparative Indology",
+        "Court historian of Mahmud of Ghazni",
+        "Chand Bardai, royal poet of Prithviraj Chauhan",
+        "Keeper of Rajput war songs"
+      ],
+      "legend": "Two voices, one land: witness and legend fight for the past.",
+      "era": "Memory and historiography of resistance, c. 1030-1600 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "One man set down India with cold, careful ink; another sang it in blazing court fires. When swords fall silent, which of their stories will rule our memory of resistance?",
+            "hi": "एक ने ठंडी स्याही से भारत लिख डाला; दूसरे ने दरबार की ज्वाला में गाया। तलवारें चुप पड़ें तो हमारी बगावत की याद पर किसकी कहानी राज करेगी?"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/intro/hero_en.mp3",
+            "hi": "assets/the_source_battlefield/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "One",
+                "t": 114.0,
+                "d": 375.0
+              },
+              {
+                "w": "man",
+                "t": 489.0,
+                "d": 250.0
+              },
+              {
+                "w": "set",
+                "t": 739.0,
+                "d": 208.0
+              },
+              {
+                "w": "down",
+                "t": 947.0,
+                "d": 333.0
+              },
+              {
+                "w": "India",
+                "t": 1281.0,
+                "d": 375.0
+              },
+              {
+                "w": "with",
+                "t": 1656.0,
+                "d": 250.0
+              },
+              {
+                "w": "cold",
+                "t": 1906.0,
+                "d": 582.0
+              },
+              {
+                "w": "careful",
+                "t": 2530.0,
+                "d": 500.0
+              },
+              {
+                "w": "ink",
+                "t": 3030.0,
+                "d": 709.0
+              },
+              {
+                "w": "another",
+                "t": 3988.0,
+                "d": 501.0
+              },
+              {
+                "w": "sang",
+                "t": 4489.0,
+                "d": 291.0
+              },
+              {
+                "w": "it",
+                "t": 4781.0,
+                "d": 125.0
+              },
+              {
+                "w": "in",
+                "t": 4906.0,
+                "d": 125.0
+              },
+              {
+                "w": "blazing",
+                "t": 5031.0,
+                "d": 458.0
+              },
+              {
+                "w": "court",
+                "t": 5489.0,
+                "d": 250.0
+              },
+              {
+                "w": "fires",
+                "t": 5739.0,
+                "d": 666.0
+              },
+              {
+                "w": "When",
+                "t": 6864.0,
+                "d": 291.0
+              },
+              {
+                "w": "swords",
+                "t": 7156.0,
+                "d": 416.0
+              },
+              {
+                "w": "fall",
+                "t": 7572.0,
+                "d": 250.0
+              },
+              {
+                "w": "silent",
+                "t": 7822.0,
+                "d": 707.0
+              },
+              {
+                "w": "which",
+                "t": 8655.0,
+                "d": 333.0
+              },
+              {
+                "w": "of",
+                "t": 8988.0,
+                "d": 83.0
+              },
+              {
+                "w": "their",
+                "t": 9071.0,
+                "d": 209.0
+              },
+              {
+                "w": "stories",
+                "t": 9281.0,
+                "d": 415.0
+              },
+              {
+                "w": "will",
+                "t": 9696.0,
+                "d": 209.0
+              },
+              {
+                "w": "rule",
+                "t": 9906.0,
+                "d": 291.0
+              },
+              {
+                "w": "our",
+                "t": 10197.0,
+                "d": 125.0
+              },
+              {
+                "w": "memory",
+                "t": 10322.0,
+                "d": 291.0
+              },
+              {
+                "w": "of",
+                "t": 10614.0,
+                "d": 166.0
+              },
+              {
+                "w": "resistance",
+                "t": 10781.0,
+                "d": 832.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_source_battlefield/intro/map.png",
+      "x": 0.52,
+      "y": 0.32,
+      "label": "Ghazni to Delhi & Ajmer, Rajasthan",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From the icy hills of Ghazni to the hot Rajput forts, words ride after warriors, turning raids and resistance into history and legend.",
+            "hi": "बर्फ़ीली ग़ज़नी से तपते राजपूती क़िलों तक, योद्धाओं के पीछे-पीछे बातें दौड़ती हैं, हर हमले और बगावत को कहानी और दास्तान बना देती हैं।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/intro/map_en.mp3",
+            "hi": "assets/the_source_battlefield/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 402.0,
+                "d": 183.0
+              },
+              {
+                "w": "icy",
+                "t": 586.0,
+                "d": 505.0
+              },
+              {
+                "w": "hills",
+                "t": 1091.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 1459.0,
+                "d": 137.0
+              },
+              {
+                "w": "Ghazni",
+                "t": 1597.0,
+                "d": 597.0
+              },
+              {
+                "w": "to",
+                "t": 2425.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 2563.0,
+                "d": 182.0
+              },
+              {
+                "w": "hot",
+                "t": 2745.0,
+                "d": 368.0
+              },
+              {
+                "w": "Rajput",
+                "t": 3160.0,
+                "d": 688.0
+              },
+              {
+                "w": "forts",
+                "t": 3849.0,
+                "d": 828.0
+              },
+              {
+                "w": "words",
+                "t": 4908.0,
+                "d": 597.0
+              },
+              {
+                "w": "ride",
+                "t": 5505.0,
+                "d": 367.0
+              },
+              {
+                "w": "after",
+                "t": 5873.0,
+                "d": 321.0
+              },
+              {
+                "w": "warriors",
+                "t": 6195.0,
+                "d": 919.0
+              },
+              {
+                "w": "turning",
+                "t": 7298.0,
+                "d": 505.0
+              },
+              {
+                "w": "raids",
+                "t": 7804.0,
+                "d": 643.0
+              },
+              {
+                "w": "and",
+                "t": 8448.0,
+                "d": 367.0
+              },
+              {
+                "w": "resistance",
+                "t": 8816.0,
+                "d": 734.0
+              },
+              {
+                "w": "into",
+                "t": 9550.0,
+                "d": 367.0
+              },
+              {
+                "w": "history",
+                "t": 9918.0,
+                "d": 736.0
+              },
+              {
+                "w": "and",
+                "t": 10655.0,
+                "d": 275.0
+              },
+              {
+                "w": "legend",
+                "t": 10931.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_source_battlefield/img/cover.png",
+      "shot": "split-panel wide, left half a dim Ghazni study, right half a vibrant Rajput court",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Between al-Biruni's quiet ink and Chand Bardai's thunderous song, India's wars lived on as a new battlefield: memory itself.",
+            "hi": "अल-बिरूनी की खामोश स्याही और चंद बरदाई के गड़गड़ाते गीत के बीच, भारत की जंगें एक नए मैदान में जिंदा रहीं — खुद यादों में।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/cover_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Between",
+                "t": 70.0,
+                "d": 480.0
+              },
+              {
+                "w": "al-Biruni's",
+                "t": 590.0,
+                "d": 680.0
+              },
+              {
+                "w": "quiet",
+                "t": 1270.0,
+                "d": 440.0
+              },
+              {
+                "w": "ink",
+                "t": 1750.0,
+                "d": 320.0
+              },
+              {
+                "w": "and",
+                "t": 2070.0,
+                "d": 239.0
+              },
+              {
+                "w": "Chand",
+                "t": 2309.0,
+                "d": 361.0
+              },
+              {
+                "w": "Bardai's",
+                "t": 2670.0,
+                "d": 520.0
+              },
+              {
+                "w": "thunderous",
+                "t": 3190.0,
+                "d": 520.0
+              },
+              {
+                "w": "song",
+                "t": 3710.0,
+                "d": 840.0
+              },
+              {
+                "w": "India's",
+                "t": 4750.0,
+                "d": 480.0
+              },
+              {
+                "w": "wars",
+                "t": 5230.0,
+                "d": 520.0
+              },
+              {
+                "w": "lived",
+                "t": 5790.0,
+                "d": 360.0
+              },
+              {
+                "w": "on",
+                "t": 6150.0,
+                "d": 240.0
+              },
+              {
+                "w": "as",
+                "t": 6390.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 6550.0,
+                "d": 80.0
+              },
+              {
+                "w": "new",
+                "t": 6630.0,
+                "d": 320.0
+              },
+              {
+                "w": "battlefield",
+                "t": 6950.0,
+                "d": 1040.0
+              },
+              {
+                "w": "memory",
+                "t": 8069.0,
+                "d": 521.0
+              },
+              {
+                "w": "itself",
+                "t": 8590.0,
+                "d": 559.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_source_battlefield/img/p01.png",
+      "shot": "slow push-in on al-Biruni in three-quarter profile",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Around ten thirty in Ghazni, while Mahmud's campaigns were still remembered in dust and ash, al-Biruni bent over his Kitab al-Hind, determined to understand the land his patron had so often raided.",
+            "hi": "लगभग 1030 में ग़ज़नी में, जब महमूद की लुटी मोहिमें अभी राख और धूल में ज़िंदा थीं, अल-बिरूनी झुककर अपनी किताब अल-हिंद पर लगे, उस देश को समझने पर आमादा जिसे उसका सरपरस्त बार-बार रौंद चुका था।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p01_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Around",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "ten",
+                "t": 457.0,
+                "d": 340.0
+              },
+              {
+                "w": "thirty",
+                "t": 797.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 1138.0,
+                "d": 170.0
+              },
+              {
+                "w": "Ghazni",
+                "t": 1308.0,
+                "d": 468.0
+              },
+              {
+                "w": "while",
+                "t": 2158.0,
+                "d": 297.0
+              },
+              {
+                "w": "Mahmud's",
+                "t": 2456.0,
+                "d": 469.0
+              },
+              {
+                "w": "campaigns",
+                "t": 2925.0,
+                "d": 510.0
+              },
+              {
+                "w": "were",
+                "t": 3436.0,
+                "d": 169.0
+              },
+              {
+                "w": "still",
+                "t": 3605.0,
+                "d": 341.0
+              },
+              {
+                "w": "remembered",
+                "t": 3946.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 4457.0,
+                "d": 127.0
+              },
+              {
+                "w": "dust",
+                "t": 4585.0,
+                "d": 297.0
+              },
+              {
+                "w": "and",
+                "t": 4882.0,
+                "d": 170.0
+              },
+              {
+                "w": "ash",
+                "t": 5053.0,
+                "d": 723.0
+              },
+              {
+                "w": "al-Biruni",
+                "t": 5904.0,
+                "d": 553.0
+              },
+              {
+                "w": "bent",
+                "t": 6457.0,
+                "d": 382.0
+              },
+              {
+                "w": "over",
+                "t": 6882.0,
+                "d": 255.0
+              },
+              {
+                "w": "his",
+                "t": 7138.0,
+                "d": 170.0
+              },
+              {
+                "w": "Kitab",
+                "t": 7308.0,
+                "d": 340.0
+              },
+              {
+                "w": "al-Hind",
+                "t": 7648.0,
+                "d": 425.0
+              },
+              {
+                "w": "determined",
+                "t": 8754.0,
+                "d": 554.0
+              },
+              {
+                "w": "to",
+                "t": 9308.0,
+                "d": 127.0
+              },
+              {
+                "w": "understand",
+                "t": 9436.0,
+                "d": 595.0
+              },
+              {
+                "w": "the",
+                "t": 10031.0,
+                "d": 126.0
+              },
+              {
+                "w": "land",
+                "t": 10158.0,
+                "d": 426.0
+              },
+              {
+                "w": "his",
+                "t": 10627.0,
+                "d": 254.0
+              },
+              {
+                "w": "patron",
+                "t": 10881.0,
+                "d": 425.0
+              },
+              {
+                "w": "had",
+                "t": 11307.0,
+                "d": 213.0
+              },
+              {
+                "w": "so",
+                "t": 11521.0,
+                "d": 212.0
+              },
+              {
+                "w": "often",
+                "t": 11734.0,
+                "d": 595.0
+              },
+              {
+                "w": "raided",
+                "t": 12329.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_source_battlefield/img/p02.png",
+      "shot": "over-the-shoulder view of the manuscript",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He wrote not of plunder, but of numbers and stars, of philosophies, rituals and languages, carefully weighing what he heard, warning his readers against exaggeration and careless hearsay.",
+            "hi": "उन्होंने लूट नहीं, बल्कि अंकों–सितारों, दर्शन, रीतियों और ज़बानों पर लिखा, सुनी हुई बातों को तौलते हुए, अपने पाठकों को बढ़ा-चढ़ा कर कहने और ऊपरी सुनवाई से सावधान किया।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p02_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "wrote",
+                "t": 244.0,
+                "d": 297.0
+              },
+              {
+                "w": "not",
+                "t": 542.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 797.0,
+                "d": 170.0
+              },
+              {
+                "w": "plunder",
+                "t": 968.0,
+                "d": 723.0
+              },
+              {
+                "w": "but",
+                "t": 1989.0,
+                "d": 169.0
+              },
+              {
+                "w": "of",
+                "t": 2158.0,
+                "d": 171.0
+              },
+              {
+                "w": "numbers",
+                "t": 2329.0,
+                "d": 679.0
+              },
+              {
+                "w": "and",
+                "t": 3052.0,
+                "d": 213.0
+              },
+              {
+                "w": "stars",
+                "t": 3265.0,
+                "d": 807.0
+              },
+              {
+                "w": "of",
+                "t": 4158.0,
+                "d": 298.0
+              },
+              {
+                "w": "philosophies",
+                "t": 4500.0,
+                "d": 936.0
+              },
+              {
+                "w": "rituals",
+                "t": 5521.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 6244.0,
+                "d": 212.0
+              },
+              {
+                "w": "languages",
+                "t": 6457.0,
+                "d": 1021.0
+              },
+              {
+                "w": "carefully",
+                "t": 7904.0,
+                "d": 510.0
+              },
+              {
+                "w": "weighing",
+                "t": 8414.0,
+                "d": 382.0
+              },
+              {
+                "w": "what",
+                "t": 8797.0,
+                "d": 211.0
+              },
+              {
+                "w": "he",
+                "t": 9009.0,
+                "d": 170.0
+              },
+              {
+                "w": "heard",
+                "t": 9179.0,
+                "d": 723.0
+              },
+              {
+                "w": "warning",
+                "t": 10031.0,
+                "d": 510.0
+              },
+              {
+                "w": "his",
+                "t": 10542.0,
+                "d": 169.0
+              },
+              {
+                "w": "readers",
+                "t": 10711.0,
+                "d": 510.0
+              },
+              {
+                "w": "against",
+                "t": 11222.0,
+                "d": 426.0
+              },
+              {
+                "w": "exaggeration",
+                "t": 11648.0,
+                "d": 1063.0
+              },
+              {
+                "w": "and",
+                "t": 12755.0,
+                "d": 254.0
+              },
+              {
+                "w": "careless",
+                "t": 13009.0,
+                "d": 425.0
+              },
+              {
+                "w": "hearsay",
+                "t": 13435.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_source_battlefield/img/p03.png",
+      "shot": "medium shot of al-Biruni in discussion with an Indian scholar",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Drawing on Sanskrit texts and debates with Indian scholars, he explained concepts like zero, eclipses and karma, often praising what he found precise, yet noting where accounts conflicted or could not be tested.",
+            "hi": "संस्कृत ग्रंथों और भारतीय विद्वानों से बहसों के सहारे, उन्होंने शून्य, ग्रहण और कर्म जैसे विचार समझाए, जहाँ बात नाप-तौल की लगी, वहाँ सराहते हुए, पर साथ ही बता दिया जहाँ बयान टकराते हैं या परखे नहीं जा सकते।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p03_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Drawing",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "on",
+                "t": 542.0,
+                "d": 170.0
+              },
+              {
+                "w": "Sanskrit",
+                "t": 712.0,
+                "d": 510.0
+              },
+              {
+                "w": "texts",
+                "t": 1223.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 1606.0,
+                "d": 212.0
+              },
+              {
+                "w": "debates",
+                "t": 1819.0,
+                "d": 382.0
+              },
+              {
+                "w": "with",
+                "t": 2202.0,
+                "d": 254.0
+              },
+              {
+                "w": "Indian",
+                "t": 2456.0,
+                "d": 298.0
+              },
+              {
+                "w": "scholars",
+                "t": 2755.0,
+                "d": 807.0
+              },
+              {
+                "w": "he",
+                "t": 3734.0,
+                "d": 255.0
+              },
+              {
+                "w": "explained",
+                "t": 3989.0,
+                "d": 553.0
+              },
+              {
+                "w": "concepts",
+                "t": 4542.0,
+                "d": 553.0
+              },
+              {
+                "w": "like",
+                "t": 5095.0,
+                "d": 212.0
+              },
+              {
+                "w": "zero",
+                "t": 5308.0,
+                "d": 638.0
+              },
+              {
+                "w": "eclipses",
+                "t": 5989.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 6712.0,
+                "d": 297.0
+              },
+              {
+                "w": "karma",
+                "t": 7010.0,
+                "d": 723.0
+              },
+              {
+                "w": "often",
+                "t": 7904.0,
+                "d": 553.0
+              },
+              {
+                "w": "praising",
+                "t": 8457.0,
+                "d": 425.0
+              },
+              {
+                "w": "what",
+                "t": 8882.0,
+                "d": 170.0
+              },
+              {
+                "w": "he",
+                "t": 9053.0,
+                "d": 126.0
+              },
+              {
+                "w": "found",
+                "t": 9179.0,
+                "d": 341.0
+              },
+              {
+                "w": "precise",
+                "t": 9521.0,
+                "d": 680.0
+              },
+              {
+                "w": "yet",
+                "t": 10542.0,
+                "d": 297.0
+              },
+              {
+                "w": "noting",
+                "t": 10840.0,
+                "d": 381.0
+              },
+              {
+                "w": "where",
+                "t": 11222.0,
+                "d": 213.0
+              },
+              {
+                "w": "accounts",
+                "t": 11436.0,
+                "d": 382.0
+              },
+              {
+                "w": "conflicted",
+                "t": 11819.0,
+                "d": 978.0
+              },
+              {
+                "w": "or",
+                "t": 12797.0,
+                "d": 296.0
+              },
+              {
+                "w": "could",
+                "t": 13094.0,
+                "d": 213.0
+              },
+              {
+                "w": "not",
+                "t": 13308.0,
+                "d": 211.0
+              },
+              {
+                "w": "be",
+                "t": 13520.0,
+                "d": 171.0
+              },
+              {
+                "w": "tested",
+                "t": 13691.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_source_battlefield/img/p04.png",
+      "shot": "close-up on al-Biruni’s thoughtful face",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Al-Biruni stood inside Mahmud's world, yet his method was his own: to sift, compare and doubt, to separate what he had seen from what others merely asserted.",
+            "hi": "अल-बिरूनी महमूद की दुनिया के भीतर खड़े थे, पर उनका तरीका उनका अपना था: छानना, मिलाना, शक करना, जो खुद देखा उसे अलग रखना और जो बस दूसरों ने कहा, उसे अलग।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p04_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Al-Biruni",
+                "t": 159.0,
+                "d": 680.0
+              },
+              {
+                "w": "stood",
+                "t": 840.0,
+                "d": 297.0
+              },
+              {
+                "w": "inside",
+                "t": 1138.0,
+                "d": 468.0
+              },
+              {
+                "w": "Mahmud's",
+                "t": 1606.0,
+                "d": 510.0
+              },
+              {
+                "w": "world",
+                "t": 2117.0,
+                "d": 935.0
+              },
+              {
+                "w": "yet",
+                "t": 3094.0,
+                "d": 256.0
+              },
+              {
+                "w": "his",
+                "t": 3351.0,
+                "d": 211.0
+              },
+              {
+                "w": "method",
+                "t": 3562.0,
+                "d": 384.0
+              },
+              {
+                "w": "was",
+                "t": 3946.0,
+                "d": 211.0
+              },
+              {
+                "w": "his",
+                "t": 4158.0,
+                "d": 128.0
+              },
+              {
+                "w": "own",
+                "t": 4287.0,
+                "d": 808.0
+              },
+              {
+                "w": "to",
+                "t": 5265.0,
+                "d": 212.0
+              },
+              {
+                "w": "sift",
+                "t": 5478.0,
+                "d": 638.0
+              },
+              {
+                "w": "compare",
+                "t": 6159.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 6755.0,
+                "d": 212.0
+              },
+              {
+                "w": "doubt",
+                "t": 6968.0,
+                "d": 638.0
+              },
+              {
+                "w": "to",
+                "t": 7946.0,
+                "d": 212.0
+              },
+              {
+                "w": "separate",
+                "t": 8159.0,
+                "d": 509.0
+              },
+              {
+                "w": "what",
+                "t": 8669.0,
+                "d": 255.0
+              },
+              {
+                "w": "he",
+                "t": 8924.0,
+                "d": 170.0
+              },
+              {
+                "w": "had",
+                "t": 9094.0,
+                "d": 128.0
+              },
+              {
+                "w": "seen",
+                "t": 9223.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 9606.0,
+                "d": 255.0
+              },
+              {
+                "w": "what",
+                "t": 9861.0,
+                "d": 255.0
+              },
+              {
+                "w": "others",
+                "t": 10117.0,
+                "d": 638.0
+              },
+              {
+                "w": "merely",
+                "t": 10796.0,
+                "d": 510.0
+              },
+              {
+                "w": "asserted",
+                "t": 11307.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_source_battlefield/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_source_battlefield/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Al-Biruni tests chronicle against cosmos, mapping conquerors' dates onto the slow, impartial circuits of the heavens.",
+            "hi": "अल्-बिरूनी फ़तहों की तारीखें आसमान के ठंडे, बेपरवाह सफ़र से मिलाकर परखता है।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_source_battlefield/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Al-Biruni",
+                "t": 126.0,
+                "d": 689.0
+              },
+              {
+                "w": "tests",
+                "t": 816.0,
+                "d": 597.0
+              },
+              {
+                "w": "chronicle",
+                "t": 1413.0,
+                "d": 643.0
+              },
+              {
+                "w": "against",
+                "t": 2057.0,
+                "d": 459.0
+              },
+              {
+                "w": "cosmos",
+                "t": 2517.0,
+                "d": 918.0
+              },
+              {
+                "w": "mapping",
+                "t": 3666.0,
+                "d": 643.0
+              },
+              {
+                "w": "conquerors'",
+                "t": 4310.0,
+                "d": 597.0
+              },
+              {
+                "w": "dates",
+                "t": 4908.0,
+                "d": 459.0
+              },
+              {
+                "w": "onto",
+                "t": 5367.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 5689.0,
+                "d": 137.0
+              },
+              {
+                "w": "slow",
+                "t": 5827.0,
+                "d": 781.0
+              },
+              {
+                "w": "impartial",
+                "t": 6701.0,
+                "d": 873.0
+              },
+              {
+                "w": "circuits",
+                "t": 7574.0,
+                "d": 551.0
+              },
+              {
+                "w": "of",
+                "t": 8126.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 8218.0,
+                "d": 183.0
+              },
+              {
+                "w": "heavens",
+                "t": 8402.0,
+                "d": 735.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_source_battlefield/img/p05.png",
+      "shot": "transition wide shot dissolving from al-Biruni’s codex to a Rajput court",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Centuries later, far to the south and west, another kind of history rose in Rajasthan's courts, not on paper but in breath and drum: the bardic epics of kings and sieges.",
+            "hi": "सदियों बाद, बहुत दक्षिण-पश्चिम में, राजस्थान की दरबारियों में एक और इतिहास उठा — कागज़ पर नहीं, साँस और ढोल पर: राजाओं और घेराबंदियों के बारों के महाकाव्य।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p05_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Centuries",
+                "t": 70.0,
+                "d": 640.0
+              },
+              {
+                "w": "later",
+                "t": 710.0,
+                "d": 760.0
+              },
+              {
+                "w": "far",
+                "t": 1590.0,
+                "d": 280.0
+              },
+              {
+                "w": "to",
+                "t": 1870.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 1990.0,
+                "d": 160.0
+              },
+              {
+                "w": "south",
+                "t": 2150.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 2630.0,
+                "d": 239.0
+              },
+              {
+                "w": "west",
+                "t": 2869.0,
+                "d": 721.0
+              },
+              {
+                "w": "another",
+                "t": 3829.0,
+                "d": 481.0
+              },
+              {
+                "w": "kind",
+                "t": 4310.0,
+                "d": 200.0
+              },
+              {
+                "w": "of",
+                "t": 4510.0,
+                "d": 120.0
+              },
+              {
+                "w": "history",
+                "t": 4630.0,
+                "d": 400.0
+              },
+              {
+                "w": "rose",
+                "t": 5030.0,
+                "d": 400.0
+              },
+              {
+                "w": "in",
+                "t": 5470.0,
+                "d": 160.0
+              },
+              {
+                "w": "Rajasthan's",
+                "t": 5630.0,
+                "d": 640.0
+              },
+              {
+                "w": "courts",
+                "t": 6270.0,
+                "d": 760.0
+              },
+              {
+                "w": "not",
+                "t": 7190.0,
+                "d": 280.0
+              },
+              {
+                "w": "on",
+                "t": 7470.0,
+                "d": 200.0
+              },
+              {
+                "w": "paper",
+                "t": 7670.0,
+                "d": 639.0
+              },
+              {
+                "w": "but",
+                "t": 8350.0,
+                "d": 279.0
+              },
+              {
+                "w": "in",
+                "t": 8629.0,
+                "d": 121.0
+              },
+              {
+                "w": "breath",
+                "t": 8750.0,
+                "d": 319.0
+              },
+              {
+                "w": "and",
+                "t": 9069.0,
+                "d": 121.0
+              },
+              {
+                "w": "drum",
+                "t": 9190.0,
+                "d": 1039.0
+              },
+              {
+                "w": "the",
+                "t": 10229.0,
+                "d": 240.0
+              },
+              {
+                "w": "bardic",
+                "t": 10469.0,
+                "d": 401.0
+              },
+              {
+                "w": "epics",
+                "t": 10870.0,
+                "d": 439.0
+              },
+              {
+                "w": "of",
+                "t": 11309.0,
+                "d": 201.0
+              },
+              {
+                "w": "kings",
+                "t": 11510.0,
+                "d": 400.0
+              },
+              {
+                "w": "and",
+                "t": 11910.0,
+                "d": 239.0
+              },
+              {
+                "w": "sieges",
+                "t": 12149.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_source_battlefield/img/p06.png",
+      "shot": "low-angle medium on Chand Bardai performing",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "\"Hear now of Prithviraj, who faced the storm and did not blink!\"",
+            "hi": "\"सुनो अब पृथ्वीराज की गाथा, जो आँधी के आगे खड़े रहे, पलक तक न झपकाई!\""
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p06_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "\"Hear",
+                "t": 46.3,
+                "d": 266.2
+              },
+              {
+                "w": "now",
+                "t": 312.5,
+                "d": 335.7
+              },
+              {
+                "w": "of",
+                "t": 682.9,
+                "d": 208.3
+              },
+              {
+                "w": "Prithviraj",
+                "t": 891.2,
+                "d": 682.9
+              },
+              {
+                "w": "who",
+                "t": 1840.3,
+                "d": 115.8
+              },
+              {
+                "w": "faced",
+                "t": 1979.2,
+                "d": 347.2
+              },
+              {
+                "w": "the",
+                "t": 2372.7,
+                "d": 127.3
+              },
+              {
+                "w": "storm",
+                "t": 2500.0,
+                "d": 474.5
+              },
+              {
+                "w": "and",
+                "t": 3044.0,
+                "d": 208.3
+              },
+              {
+                "w": "did",
+                "t": 3252.3,
+                "d": 219.9
+              },
+              {
+                "w": "not",
+                "t": 3472.2,
+                "d": 266.2
+              },
+              {
+                "w": "blink",
+                "t": 3750.0,
+                "d": 393.5
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_source_battlefield/img/p07.png",
+      "shot": "wide interior shot of the court audience",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Texts like the Prithviraj Raso wove Prithviraj's battles, captures and escapes into long, ornate verse, binding court, clan and deity into a single tale of loss and defiance.",
+            "hi": "पृथ्वीराज रासो जैसे ग्रंथों ने पृथ्वीराज की लड़ाइयाँ, बंदी होना और पलायन को लम्बी, अलंकृत कविता में पिरोया, दरबार, कुल और देवता को एक ही कहानी में बाँध दिया — हार और हुंकार की।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p07_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Texts",
+                "t": 70.0,
+                "d": 560.0
+              },
+              {
+                "w": "like",
+                "t": 630.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 870.0,
+                "d": 160.0
+              },
+              {
+                "w": "Prithviraj",
+                "t": 1030.0,
+                "d": 480.0
+              },
+              {
+                "w": "Raso",
+                "t": 1510.0,
+                "d": 519.0
+              },
+              {
+                "w": "wove",
+                "t": 2029.0,
+                "d": 360.0
+              },
+              {
+                "w": "Prithviraj's",
+                "t": 2389.0,
+                "d": 600.0
+              },
+              {
+                "w": "battles",
+                "t": 2989.0,
+                "d": 681.0
+              },
+              {
+                "w": "captures",
+                "t": 3789.0,
+                "d": 801.0
+              },
+              {
+                "w": "and",
+                "t": 4630.0,
+                "d": 240.0
+              },
+              {
+                "w": "escapes",
+                "t": 4870.0,
+                "d": 480.0
+              },
+              {
+                "w": "into",
+                "t": 5350.0,
+                "d": 280.0
+              },
+              {
+                "w": "long",
+                "t": 5630.0,
+                "d": 640.0
+              },
+              {
+                "w": "ornate",
+                "t": 6310.0,
+                "d": 480.0
+              },
+              {
+                "w": "verse",
+                "t": 6790.0,
+                "d": 480.0
+              },
+              {
+                "w": "binding",
+                "t": 7390.0,
+                "d": 560.0
+              },
+              {
+                "w": "court",
+                "t": 7950.0,
+                "d": 480.0
+              },
+              {
+                "w": "clan",
+                "t": 8629.0,
+                "d": 561.0
+              },
+              {
+                "w": "and",
+                "t": 9229.0,
+                "d": 240.0
+              },
+              {
+                "w": "deity",
+                "t": 9469.0,
+                "d": 680.0
+              },
+              {
+                "w": "into",
+                "t": 10229.0,
+                "d": 320.0
+              },
+              {
+                "w": "a",
+                "t": 10549.0,
+                "d": 41.0
+              },
+              {
+                "w": "single",
+                "t": 10590.0,
+                "d": 440.0
+              },
+              {
+                "w": "tale",
+                "t": 11030.0,
+                "d": 240.0
+              },
+              {
+                "w": "of",
+                "t": 11270.0,
+                "d": 160.0
+              },
+              {
+                "w": "loss",
+                "t": 11430.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 11790.0,
+                "d": 200.0
+              },
+              {
+                "w": "defiance",
+                "t": 11990.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_source_battlefield/img/p08.png",
+      "shot": "medium shot of Chand Bardai pausing mid-verse",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "But the Raso as we have it grew over time; later poets added, reworked and expanded, making it a living monument to memory rather than a single eyewitness chronicle.",
+            "hi": "पर जो रासो आज हमारे पास है, वह समय के साथ बढ़ा; बाद के कवियों ने जोड़ा, बदला, फैलाया, उसे एक जिंदा स्मारक बना दिया, न कि बस एक आँखोंदेखी डायरी।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p08_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "But",
+                "t": 117.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 127.0
+              },
+              {
+                "w": "Raso",
+                "t": 457.0,
+                "d": 382.0
+              },
+              {
+                "w": "as",
+                "t": 840.0,
+                "d": 170.0
+              },
+              {
+                "w": "we",
+                "t": 1010.0,
+                "d": 212.0
+              },
+              {
+                "w": "have",
+                "t": 1223.0,
+                "d": 765.0
+              },
+              {
+                "w": "it",
+                "t": 1989.0,
+                "d": 255.0
+              },
+              {
+                "w": "grew",
+                "t": 2244.0,
+                "d": 254.0
+              },
+              {
+                "w": "over",
+                "t": 2498.0,
+                "d": 256.0
+              },
+              {
+                "w": "time",
+                "t": 2755.0,
+                "d": 978.0
+              },
+              {
+                "w": "later",
+                "t": 3776.0,
+                "d": 510.0
+              },
+              {
+                "w": "poets",
+                "t": 4287.0,
+                "d": 425.0
+              },
+              {
+                "w": "added",
+                "t": 4712.0,
+                "d": 723.0
+              },
+              {
+                "w": "reworked",
+                "t": 5521.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 6244.0,
+                "d": 212.0
+              },
+              {
+                "w": "expanded",
+                "t": 6457.0,
+                "d": 1106.0
+              },
+              {
+                "w": "making",
+                "t": 7648.0,
+                "d": 510.0
+              },
+              {
+                "w": "it",
+                "t": 8159.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 8287.0,
+                "d": 85.0
+              },
+              {
+                "w": "living",
+                "t": 8372.0,
+                "d": 381.0
+              },
+              {
+                "w": "monument",
+                "t": 8754.0,
+                "d": 510.0
+              },
+              {
+                "w": "to",
+                "t": 9264.0,
+                "d": 128.0
+              },
+              {
+                "w": "memory",
+                "t": 9393.0,
+                "d": 808.0
+              },
+              {
+                "w": "rather",
+                "t": 10202.0,
+                "d": 425.0
+              },
+              {
+                "w": "than",
+                "t": 10627.0,
+                "d": 169.0
+              },
+              {
+                "w": "a",
+                "t": 10796.0,
+                "d": 43.0
+              },
+              {
+                "w": "single",
+                "t": 10840.0,
+                "d": 595.0
+              },
+              {
+                "w": "eyewitness",
+                "t": 11478.0,
+                "d": 680.0
+              },
+              {
+                "w": "chronicle",
+                "t": 12159.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_source_battlefield/img/p09.png",
+      "shot": "split close-up showing al-Biruni’s hand and a scribe’s hand",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "One kind of text told readers when it relied on hearsay and where it differed from other reports; the other aimed to move hearts, amplifying speeches and duels that no one had recorded at the time.",
+            "hi": "एक किस्म के ग्रंथ ने साफ बताया कहाँ सुनी-सुनाई पर टिके हैं और कहाँ दूसरी खबरों से अलग, दूसरी ने दिल हिलाने का लक्ष्य रखा, उन ख़िताबों और द्वंद्वों को बढ़ा कर कहा जिन्हें उस वक्त किसी ने लिखा ही नहीं।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p09_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "One",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "kind",
+                "t": 414.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 670.0,
+                "d": 170.0
+              },
+              {
+                "w": "text",
+                "t": 840.0,
+                "d": 297.0
+              },
+              {
+                "w": "told",
+                "t": 1138.0,
+                "d": 255.0
+              },
+              {
+                "w": "readers",
+                "t": 1393.0,
+                "d": 425.0
+              },
+              {
+                "w": "when",
+                "t": 1819.0,
+                "d": 170.0
+              },
+              {
+                "w": "it",
+                "t": 1989.0,
+                "d": 127.0
+              },
+              {
+                "w": "relied",
+                "t": 2117.0,
+                "d": 339.0
+              },
+              {
+                "w": "on",
+                "t": 2456.0,
+                "d": 170.0
+              },
+              {
+                "w": "hearsay",
+                "t": 2626.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 3223.0,
+                "d": 212.0
+              },
+              {
+                "w": "where",
+                "t": 3436.0,
+                "d": 211.0
+              },
+              {
+                "w": "it",
+                "t": 3647.0,
+                "d": 86.0
+              },
+              {
+                "w": "differed",
+                "t": 3734.0,
+                "d": 424.0
+              },
+              {
+                "w": "from",
+                "t": 4158.0,
+                "d": 213.0
+              },
+              {
+                "w": "other",
+                "t": 4372.0,
+                "d": 255.0
+              },
+              {
+                "w": "reports",
+                "t": 4627.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 5904.0,
+                "d": 255.0
+              },
+              {
+                "w": "other",
+                "t": 6159.0,
+                "d": 340.0
+              },
+              {
+                "w": "aimed",
+                "t": 6500.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 6840.0,
+                "d": 85.0
+              },
+              {
+                "w": "move",
+                "t": 6925.0,
+                "d": 297.0
+              },
+              {
+                "w": "hearts",
+                "t": 7223.0,
+                "d": 808.0
+              },
+              {
+                "w": "amplifying",
+                "t": 8287.0,
+                "d": 680.0
+              },
+              {
+                "w": "speeches",
+                "t": 8968.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 9776.0,
+                "d": 340.0
+              },
+              {
+                "w": "duels",
+                "t": 10117.0,
+                "d": 468.0
+              },
+              {
+                "w": "that",
+                "t": 10585.0,
+                "d": 255.0
+              },
+              {
+                "w": "no",
+                "t": 10840.0,
+                "d": 170.0
+              },
+              {
+                "w": "one",
+                "t": 11010.0,
+                "d": 255.0
+              },
+              {
+                "w": "had",
+                "t": 11265.0,
+                "d": 170.0
+              },
+              {
+                "w": "recorded",
+                "t": 11436.0,
+                "d": 509.0
+              },
+              {
+                "w": "at",
+                "t": 11945.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 12030.0,
+                "d": 170.0
+              },
+              {
+                "w": "time",
+                "t": 12201.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_source_battlefield/img/p10.png",
+      "shot": "medium shot of Nayachandra Suri at a later court",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By the fourteenth century, works like Nayachandra Suri's Hammira Mahakavya recalled Chauhan rulers of Ranthambhor, blending record and kavya-poetry to lament defeats and praise steadfastness.",
+            "hi": "चौदहवीं सदी तक, नयचंद्र सूरी का हम्मीर महाकाव्य जैसे ग्रंथों ने रणथंभौर के चौहानों को याद किया, दस्तावेज़ और काव्य को मिलाकर, हार पर शोक और जज़्बे की दाद दी।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p10_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 117.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "fourteenth",
+                "t": 414.0,
+                "d": 468.0
+              },
+              {
+                "w": "century",
+                "t": 882.0,
+                "d": 893.0
+              },
+              {
+                "w": "works",
+                "t": 1904.0,
+                "d": 425.0
+              },
+              {
+                "w": "like",
+                "t": 2329.0,
+                "d": 169.0
+              },
+              {
+                "w": "Nayachandra",
+                "t": 2498.0,
+                "d": 595.0
+              },
+              {
+                "w": "Suri's",
+                "t": 3094.0,
+                "d": 510.0
+              },
+              {
+                "w": "Hammira",
+                "t": 3734.0,
+                "d": 296.0
+              },
+              {
+                "w": "Mahakavya",
+                "t": 4030.0,
+                "d": 1022.0
+              },
+              {
+                "w": "recalled",
+                "t": 5265.0,
+                "d": 595.0
+              },
+              {
+                "w": "Chauhan",
+                "t": 5861.0,
+                "d": 468.0
+              },
+              {
+                "w": "rulers",
+                "t": 6329.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 6755.0,
+                "d": 212.0
+              },
+              {
+                "w": "Ranthambhor",
+                "t": 7010.0,
+                "d": 680.0
+              },
+              {
+                "w": "blending",
+                "t": 8074.0,
+                "d": 467.0
+              },
+              {
+                "w": "record",
+                "t": 8541.0,
+                "d": 511.0
+              },
+              {
+                "w": "and",
+                "t": 9053.0,
+                "d": 255.0
+              },
+              {
+                "w": "kavya-poetry",
+                "t": 9308.0,
+                "d": 808.0
+              },
+              {
+                "w": "to",
+                "t": 10500.0,
+                "d": 127.0
+              },
+              {
+                "w": "lament",
+                "t": 10627.0,
+                "d": 382.0
+              },
+              {
+                "w": "defeats",
+                "t": 11010.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 11734.0,
+                "d": 381.0
+              },
+              {
+                "w": "praise",
+                "t": 12115.0,
+                "d": 340.0
+              },
+              {
+                "w": "steadfastness",
+                "t": 12456.0,
+                "d": 1150.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_source_battlefield/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_source_battlefield/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From ramparts of story and stone, Chand forges verses that rally memory against the advance of forgetful power.",
+            "hi": "किस्सों और किलों की प्राचीरों से, चंद ऐसी कविताएँ गढ़ता है जो भूलभुलै सत्ता के आगे यादें जगा दें।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_source_battlefield/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "ramparts",
+                "t": 350.0,
+                "d": 560.0
+              },
+              {
+                "w": "of",
+                "t": 910.0,
+                "d": 80.0
+              },
+              {
+                "w": "story",
+                "t": 990.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 1430.0,
+                "d": 160.0
+              },
+              {
+                "w": "stone",
+                "t": 1590.0,
+                "d": 960.0
+              },
+              {
+                "w": "Chand",
+                "t": 2550.0,
+                "d": 200.0
+              },
+              {
+                "w": "forges",
+                "t": 2750.0,
+                "d": 800.0
+              },
+              {
+                "w": "verses",
+                "t": 3550.0,
+                "d": 560.0
+              },
+              {
+                "w": "that",
+                "t": 4110.0,
+                "d": 280.0
+              },
+              {
+                "w": "rally",
+                "t": 4390.0,
+                "d": 320.0
+              },
+              {
+                "w": "memory",
+                "t": 4710.0,
+                "d": 680.0
+              },
+              {
+                "w": "against",
+                "t": 5390.0,
+                "d": 480.0
+              },
+              {
+                "w": "the",
+                "t": 5870.0,
+                "d": 120.0
+              },
+              {
+                "w": "advance",
+                "t": 5990.0,
+                "d": 600.0
+              },
+              {
+                "w": "of",
+                "t": 6590.0,
+                "d": 160.0
+              },
+              {
+                "w": "forgetful",
+                "t": 6750.0,
+                "d": 640.0
+              },
+              {
+                "w": "power",
+                "t": 7390.0,
+                "d": 520.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_source_battlefield/img/p11.png",
+      "shot": "diagrammatic wide shot of a timeline in the background",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Modern historians note the gaps: al-Biruni wrote near his own time, while most bardic versions of Prithviraj and Hammira solidified centuries after the events they describe.",
+            "hi": "आधुनिक इतिहासकार इन खाली जगहों पर उँगली रखते हैं: अल-बिरूनी अपने ज़माने के क़रीब लिख रहे थे, जबकि पृथ्वीराज और हम्मीर की ज़्यादातर बारावली सदियों बाद जाकर ठोस रूप में आई।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p11_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Modern",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "historians",
+                "t": 542.0,
+                "d": 595.0
+              },
+              {
+                "w": "note",
+                "t": 1138.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 1436.0,
+                "d": 170.0
+              },
+              {
+                "w": "gaps",
+                "t": 1606.0,
+                "d": 638.0
+              },
+              {
+                "w": "al-Biruni",
+                "t": 2797.0,
+                "d": 510.0
+              },
+              {
+                "w": "wrote",
+                "t": 3308.0,
+                "d": 339.0
+              },
+              {
+                "w": "near",
+                "t": 3647.0,
+                "d": 171.0
+              },
+              {
+                "w": "his",
+                "t": 3819.0,
+                "d": 170.0
+              },
+              {
+                "w": "own",
+                "t": 3989.0,
+                "d": 254.0
+              },
+              {
+                "w": "time",
+                "t": 4243.0,
+                "d": 639.0
+              },
+              {
+                "w": "while",
+                "t": 4968.0,
+                "d": 297.0
+              },
+              {
+                "w": "most",
+                "t": 5265.0,
+                "d": 382.0
+              },
+              {
+                "w": "bardic",
+                "t": 5648.0,
+                "d": 382.0
+              },
+              {
+                "w": "versions",
+                "t": 6031.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 6500.0,
+                "d": 170.0
+              },
+              {
+                "w": "Prithviraj",
+                "t": 6670.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 7265.0,
+                "d": 127.0
+              },
+              {
+                "w": "Hammira",
+                "t": 7393.0,
+                "d": 680.0
+              },
+              {
+                "w": "solidified",
+                "t": 8159.0,
+                "d": 764.0
+              },
+              {
+                "w": "centuries",
+                "t": 8924.0,
+                "d": 723.0
+              },
+              {
+                "w": "after",
+                "t": 9691.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 10117.0,
+                "d": 126.0
+              },
+              {
+                "w": "events",
+                "t": 10243.0,
+                "d": 511.0
+              },
+              {
+                "w": "they",
+                "t": 10755.0,
+                "d": 170.0
+              },
+              {
+                "w": "describe",
+                "t": 10925.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_source_battlefield/img/p12.png",
+      "shot": "close-up of a modern historian’s hand holding both types of texts",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Using tools from Cynthia Talbot, Peter Hardy, Romila Thapar and others, they weigh these sources, asking: who wrote this, when, for whom, and with what hope in mind?",
+            "hi": "सिंथिया टैल्बॉट, पीटर हार्डी, रोमिला थापर और औरों के औज़ारों से, वे इन स्रोतों को तौलते हैं, पूछते हैं: यह किसने लिखा, कब, किसके लिए, और किस उम्मीद से?"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p12_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Using",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "tools",
+                "t": 542.0,
+                "d": 340.0
+              },
+              {
+                "w": "from",
+                "t": 882.0,
+                "d": 255.0
+              },
+              {
+                "w": "Cynthia",
+                "t": 1138.0,
+                "d": 468.0
+              },
+              {
+                "w": "Talbot",
+                "t": 1606.0,
+                "d": 765.0
+              },
+              {
+                "w": "Peter",
+                "t": 2498.0,
+                "d": 341.0
+              },
+              {
+                "w": "Hardy",
+                "t": 2840.0,
+                "d": 553.0
+              },
+              {
+                "w": "Romila",
+                "t": 3478.0,
+                "d": 468.0
+              },
+              {
+                "w": "Thapar",
+                "t": 3946.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 4414.0,
+                "d": 170.0
+              },
+              {
+                "w": "others",
+                "t": 4585.0,
+                "d": 638.0
+              },
+              {
+                "w": "they",
+                "t": 5861.0,
+                "d": 297.0
+              },
+              {
+                "w": "weigh",
+                "t": 6159.0,
+                "d": 255.0
+              },
+              {
+                "w": "these",
+                "t": 6414.0,
+                "d": 212.0
+              },
+              {
+                "w": "sources",
+                "t": 6627.0,
+                "d": 723.0
+              },
+              {
+                "w": "asking",
+                "t": 7393.0,
+                "d": 1147.0
+              },
+              {
+                "w": "who",
+                "t": 8711.0,
+                "d": 256.0
+              },
+              {
+                "w": "wrote",
+                "t": 8968.0,
+                "d": 296.0
+              },
+              {
+                "w": "this",
+                "t": 9264.0,
+                "d": 596.0
+              },
+              {
+                "w": "when",
+                "t": 9946.0,
+                "d": 595.0
+              },
+              {
+                "w": "for",
+                "t": 10585.0,
+                "d": 255.0
+              },
+              {
+                "w": "whom",
+                "t": 10840.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 11563.0,
+                "d": 255.0
+              },
+              {
+                "w": "with",
+                "t": 11819.0,
+                "d": 170.0
+              },
+              {
+                "w": "what",
+                "t": 11989.0,
+                "d": 340.0
+              },
+              {
+                "w": "hope",
+                "t": 12329.0,
+                "d": 255.0
+              },
+              {
+                "w": "in",
+                "t": 12585.0,
+                "d": 127.0
+              },
+              {
+                "w": "mind",
+                "t": 12712.0,
+                "d": 467.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_source_battlefield/img/p13.png",
+      "shot": "medium shot of al-Biruni and Chand Bardai rendered as translucent figures facing each other",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "\"Some truths are counted and tested; others are sung so they are never forgotten.\"",
+            "hi": "\"कुछ सच्चाइयाँ गिनकर, परखकर लिखी जाती हैं; कुछ गाकर, ताकि कभी मिटें नहीं।\""
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p13_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "\"Some",
+                "t": 49.0,
+                "d": 330.9
+              },
+              {
+                "w": "truths",
+                "t": 379.9,
+                "d": 428.9
+              },
+              {
+                "w": "are",
+                "t": 870.1,
+                "d": 220.6
+              },
+              {
+                "w": "counted",
+                "t": 1103.0,
+                "d": 428.9
+              },
+              {
+                "w": "and",
+                "t": 1629.9,
+                "d": 245.1
+              },
+              {
+                "w": "tested",
+                "t": 1875.0,
+                "d": 465.7
+              },
+              {
+                "w": "others",
+                "t": 2610.3,
+                "d": 453.4
+              },
+              {
+                "w": "are",
+                "t": 3161.8,
+                "d": 232.8
+              },
+              {
+                "w": "sung",
+                "t": 3394.6,
+                "d": 318.6
+              },
+              {
+                "w": "so",
+                "t": 3713.2,
+                "d": 294.1
+              },
+              {
+                "w": "they",
+                "t": 4007.3,
+                "d": 183.8
+              },
+              {
+                "w": "are",
+                "t": 4191.2,
+                "d": 232.8
+              },
+              {
+                "w": "never",
+                "t": 4424.0,
+                "d": 392.2
+              },
+              {
+                "w": "forgotten",
+                "t": 4816.2,
+                "d": 661.8
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_source_battlefield/img/p14.png",
+      "shot": "wide shot of a battlefield dissolving into overlapping texts",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On the ground, defeats and resistances were brief and brutal; in the centuries after, they were retold, reshaped and sometimes magnified, turning short campaigns into long, shining sagas.",
+            "hi": "ज़मीनी लड़ाइयाँ और नुक़सान छोटे पर ख़ूनी थे; पर सदियों बाद उन्हें फिर से सुनाया, गढ़ा और कभी-कभी बढ़ा-चढ़ा कर कहा गया, छोटी मोहिमों को लम्बी, चमकदार दास्तानों में ढाल दिया गया।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p14_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 270.0,
+                "d": 120.0
+              },
+              {
+                "w": "ground",
+                "t": 390.0,
+                "d": 320.0
+              },
+              {
+                "w": "defeats",
+                "t": 710.0,
+                "d": 1080.0
+              },
+              {
+                "w": "and",
+                "t": 1790.0,
+                "d": 200.0
+              },
+              {
+                "w": "resistances",
+                "t": 1990.0,
+                "d": 760.0
+              },
+              {
+                "w": "were",
+                "t": 2750.0,
+                "d": 199.0
+              },
+              {
+                "w": "brief",
+                "t": 2949.0,
+                "d": 480.0
+              },
+              {
+                "w": "and",
+                "t": 3469.0,
+                "d": 241.0
+              },
+              {
+                "w": "brutal",
+                "t": 3710.0,
+                "d": 760.0
+              },
+              {
+                "w": "in",
+                "t": 4550.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 4750.0,
+                "d": 120.0
+              },
+              {
+                "w": "centuries",
+                "t": 4870.0,
+                "d": 520.0
+              },
+              {
+                "w": "after",
+                "t": 5390.0,
+                "d": 760.0
+              },
+              {
+                "w": "they",
+                "t": 6230.0,
+                "d": 240.0
+              },
+              {
+                "w": "were",
+                "t": 6470.0,
+                "d": 200.0
+              },
+              {
+                "w": "retold",
+                "t": 6670.0,
+                "d": 680.0
+              },
+              {
+                "w": "reshaped",
+                "t": 7350.0,
+                "d": 799.0
+              },
+              {
+                "w": "and",
+                "t": 8149.0,
+                "d": 361.0
+              },
+              {
+                "w": "sometimes",
+                "t": 8510.0,
+                "d": 559.0
+              },
+              {
+                "w": "magnified",
+                "t": 9069.0,
+                "d": 1080.0
+              },
+              {
+                "w": "turning",
+                "t": 10149.0,
+                "d": 320.0
+              },
+              {
+                "w": "short",
+                "t": 10469.0,
+                "d": 361.0
+              },
+              {
+                "w": "campaigns",
+                "t": 10830.0,
+                "d": 520.0
+              },
+              {
+                "w": "into",
+                "t": 11350.0,
+                "d": 240.0
+              },
+              {
+                "w": "long",
+                "t": 11590.0,
+                "d": 559.0
+              },
+              {
+                "w": "shining",
+                "t": 12149.0,
+                "d": 521.0
+              },
+              {
+                "w": "sagas",
+                "t": 12670.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_source_battlefield/split_auto/s0.png",
+          "slogan": {
+            "en": "Let memory defy the sword",
+            "hi": "स्मृति तलवार को ललकारे"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_source_battlefield/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_source_battlefield/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across centuries, their words clash and converge, turning raids and sieges into a contested map of justice, courage, and loss.",
+            "hi": "सदियों से, उनके शब्द भिड़ते भी हैं, मिलते भी, और हर लूट, हर घेराबंदी को न्याय, वीरता और हानि के जंग के नक्शे में बदल देते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_source_battlefield/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 72.0,
+                "d": 500.0
+              },
+              {
+                "w": "centuries",
+                "t": 572.0,
+                "d": 875.0
+              },
+              {
+                "w": "their",
+                "t": 1656.0,
+                "d": 291.0
+              },
+              {
+                "w": "words",
+                "t": 1947.0,
+                "d": 416.0
+              },
+              {
+                "w": "clash",
+                "t": 2364.0,
+                "d": 540.0
+              },
+              {
+                "w": "and",
+                "t": 2946.0,
+                "d": 209.0
+              },
+              {
+                "w": "converge",
+                "t": 3156.0,
+                "d": 998.0
+              },
+              {
+                "w": "turning",
+                "t": 4447.0,
+                "d": 458.0
+              },
+              {
+                "w": "raids",
+                "t": 4906.0,
+                "d": 500.0
+              },
+              {
+                "w": "and",
+                "t": 5406.0,
+                "d": 291.0
+              },
+              {
+                "w": "sieges",
+                "t": 5697.0,
+                "d": 833.0
+              },
+              {
+                "w": "into",
+                "t": 6572.0,
+                "d": 375.0
+              },
+              {
+                "w": "a",
+                "t": 6947.0,
+                "d": 125.0
+              },
+              {
+                "w": "contested",
+                "t": 7072.0,
+                "d": 666.0
+              },
+              {
+                "w": "map",
+                "t": 7739.0,
+                "d": 291.0
+              },
+              {
+                "w": "of",
+                "t": 8031.0,
+                "d": 125.0
+              },
+              {
+                "w": "justice",
+                "t": 8156.0,
+                "d": 708.0
+              },
+              {
+                "w": "courage",
+                "t": 9197.0,
+                "d": 665.0
+              },
+              {
+                "w": "and",
+                "t": 9906.0,
+                "d": 207.0
+              },
+              {
+                "w": "loss",
+                "t": 10113.0,
+                "d": 501.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_source_battlefield/img/p15.png",
+      "shot": "medium shot of a present-day reader in a library",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "To honor those who resisted and those who endured, we stand where ink and song meet, testing legend against witness, and letting both tell us how people made sense of loss.",
+            "hi": "जिन्होंने टक्कर दी और जिन्होंने सब झेलकर जिया, दोनों का मान रखने को, हम वहीं खड़े हैं जहाँ स्याही और गीत मिलते हैं, दंतकथा को गवाही से टटोलते हुए, और दोनों से पूछते हैं लोग हार को कैसे समझते थे।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p15_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "To",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "honor",
+                "t": 329.0,
+                "d": 255.0
+              },
+              {
+                "w": "those",
+                "t": 585.0,
+                "d": 340.0
+              },
+              {
+                "w": "who",
+                "t": 925.0,
+                "d": 127.0
+              },
+              {
+                "w": "resisted",
+                "t": 1053.0,
+                "d": 893.0
+              },
+              {
+                "w": "and",
+                "t": 1946.0,
+                "d": 211.0
+              },
+              {
+                "w": "those",
+                "t": 2158.0,
+                "d": 297.0
+              },
+              {
+                "w": "who",
+                "t": 2456.0,
+                "d": 127.0
+              },
+              {
+                "w": "endured",
+                "t": 2584.0,
+                "d": 809.0
+              },
+              {
+                "w": "we",
+                "t": 3605.0,
+                "d": 256.0
+              },
+              {
+                "w": "stand",
+                "t": 3861.0,
+                "d": 468.0
+              },
+              {
+                "w": "where",
+                "t": 4329.0,
+                "d": 340.0
+              },
+              {
+                "w": "ink",
+                "t": 4712.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 5053.0,
+                "d": 212.0
+              },
+              {
+                "w": "song",
+                "t": 5265.0,
+                "d": 425.0
+              },
+              {
+                "w": "meet",
+                "t": 5691.0,
+                "d": 553.0
+              },
+              {
+                "w": "testing",
+                "t": 6372.0,
+                "d": 553.0
+              },
+              {
+                "w": "legend",
+                "t": 6925.0,
+                "d": 425.0
+              },
+              {
+                "w": "against",
+                "t": 7351.0,
+                "d": 468.0
+              },
+              {
+                "w": "witness",
+                "t": 7819.0,
+                "d": 807.0
+              },
+              {
+                "w": "and",
+                "t": 8839.0,
+                "d": 298.0
+              },
+              {
+                "w": "letting",
+                "t": 9138.0,
+                "d": 340.0
+              },
+              {
+                "w": "both",
+                "t": 9478.0,
+                "d": 339.0
+              },
+              {
+                "w": "tell",
+                "t": 9818.0,
+                "d": 298.0
+              },
+              {
+                "w": "us",
+                "t": 10117.0,
+                "d": 340.0
+              },
+              {
+                "w": "how",
+                "t": 10542.0,
+                "d": 382.0
+              },
+              {
+                "w": "people",
+                "t": 10925.0,
+                "d": 425.0
+              },
+              {
+                "w": "made",
+                "t": 11351.0,
+                "d": 297.0
+              },
+              {
+                "w": "sense",
+                "t": 11648.0,
+                "d": 467.0
+              },
+              {
+                "w": "of",
+                "t": 12115.0,
+                "d": 213.0
+              },
+              {
+                "w": "loss",
+                "t": 12329.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_source_battlefield/img/p16.png",
+      "shot": "closing low-angle shot of shelves filled with Indian historical texts",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The past does not speak with one voice; it gives us careful observers and passionate poets, and asks us to listen closely enough to know which is which.",
+            "hi": "अतीत एक ही ज़बान से नहीं बोलता; वह हमें बारीकी से देखने वाले मज़बूत नज़ीरों और जोश से भरपूर कवियों दोनों को देता है, और कहता है इतना ध्यान से सुनो कि पहचान सको कौन कौन है।"
+          },
+          "audio": {
+            "en": "assets/the_source_battlefield/audio/en/p16_0.mp3",
+            "hi": "assets/the_source_battlefield/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "past",
+                "t": 310.0,
+                "d": 275.0
+              },
+              {
+                "w": "does",
+                "t": 586.0,
+                "d": 183.0
+              },
+              {
+                "w": "not",
+                "t": 770.0,
+                "d": 229.0
+              },
+              {
+                "w": "speak",
+                "t": 1000.0,
+                "d": 367.0
+              },
+              {
+                "w": "with",
+                "t": 1367.0,
+                "d": 229.0
+              },
+              {
+                "w": "one",
+                "t": 1597.0,
+                "d": 321.0
+              },
+              {
+                "w": "voice",
+                "t": 1919.0,
+                "d": 1011.0
+              },
+              {
+                "w": "it",
+                "t": 3068.0,
+                "d": 182.0
+              },
+              {
+                "w": "gives",
+                "t": 3251.0,
+                "d": 277.0
+              },
+              {
+                "w": "us",
+                "t": 3528.0,
+                "d": 229.0
+              },
+              {
+                "w": "careful",
+                "t": 3758.0,
+                "d": 459.0
+              },
+              {
+                "w": "observers",
+                "t": 4218.0,
+                "d": 919.0
+              },
+              {
+                "w": "and",
+                "t": 5137.0,
+                "d": 367.0
+              },
+              {
+                "w": "passionate",
+                "t": 5505.0,
+                "d": 551.0
+              },
+              {
+                "w": "poets",
+                "t": 6057.0,
+                "d": 1287.0
+              },
+              {
+                "w": "and",
+                "t": 7344.0,
+                "d": 321.0
+              },
+              {
+                "w": "asks",
+                "t": 7666.0,
+                "d": 413.0
+              },
+              {
+                "w": "us",
+                "t": 8080.0,
+                "d": 137.0
+              },
+              {
+                "w": "to",
+                "t": 8218.0,
+                "d": 183.0
+              },
+              {
+                "w": "listen",
+                "t": 8402.0,
+                "d": 413.0
+              },
+              {
+                "w": "closely",
+                "t": 8816.0,
+                "d": 550.0
+              },
+              {
+                "w": "enough",
+                "t": 9366.0,
+                "d": 598.0
+              },
+              {
+                "w": "to",
+                "t": 9965.0,
+                "d": 229.0
+              },
+              {
+                "w": "know",
+                "t": 10195.0,
+                "d": 275.0
+              },
+              {
+                "w": "which",
+                "t": 10471.0,
+                "d": 320.0
+              },
+              {
+                "w": "is",
+                "t": 10791.0,
+                "d": 183.0
+              },
+              {
+                "w": "which",
+                "t": 10975.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "al-Biruni & Chand Bardai",
+    "epithets": [
+      "Abu Rayhan al-Biruni, father of comparative Indology",
+      "Court historian of Mahmud of Ghazni",
+      "Chand Bardai, royal poet of Prithviraj Chauhan",
+      "Keeper of Rajput war songs"
+    ],
+    "legend": "Two voices, one land: witness and legend fight for the past."
+  }
+}
