@@ -1,0 +1,4282 @@
+{
+  "id": "the_dipalpur_line",
+  "title": "The Dipalpur Line",
+  "title_i18n": {
+    "en": "The Dipalpur Line",
+    "hi": "दीपालपुर रेखा"
+  },
+  "figure": "Ghazi Malik",
+  "era": "Northwest frontier against Mongol raids, c. 1305-1316 CE",
+  "moral": "A frontier is held by logistics as much as by sword strokes.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_dipalpur_line/intro/hero.png",
+      "name": "Ghazi Malik",
+      "epithets": [
+        "Ghiyath al-Din Tughluq",
+        "Ghazi Malik",
+        "Frontier Warden of Dipalpur",
+        "Founder of the Tughluq Dynasty"
+      ],
+      "legend": "He turned a battered border fort into the road to a throne.",
+      "era": "Northwest frontier against Mongol raids, c. 1305-1316 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On a dusty frontier line, a low-born border captain stops wave after wave of Mongol riders, yet every victory feeds a rumor: is he only guarding Delhi, or quietly claiming it?",
+            "hi": "धूल भरी सरहद पर, नीच कुल का एक सरहदी सिपहसालार मंगोल घुड़सवारों की लहर पर लहर रोकता है, पर हर जीत के साथ एक फुसफुसाहट फैलती है: क्या वो सिर्फ़ दिल्ली की रखवाली कर रहा है, या चुपचाप उस पर हक़ जता रहा है?"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/intro/hero_en.mp3",
+            "hi": "assets/the_dipalpur_line/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 114.0,
+                "d": 208.0
+              },
+              {
+                "w": "a",
+                "t": 322.0,
+                "d": 83.0
+              },
+              {
+                "w": "dusty",
+                "t": 406.0,
+                "d": 458.0
+              },
+              {
+                "w": "frontier",
+                "t": 864.0,
+                "d": 458.0
+              },
+              {
+                "w": "line",
+                "t": 1322.0,
+                "d": 666.0
+              },
+              {
+                "w": "a",
+                "t": 2031.0,
+                "d": 166.0
+              },
+              {
+                "w": "low-born",
+                "t": 2197.0,
+                "d": 500.0
+              },
+              {
+                "w": "border",
+                "t": 2697.0,
+                "d": 373.0
+              },
+              {
+                "w": "captain",
+                "t": 3071.0,
+                "d": 416.0
+              },
+              {
+                "w": "stops",
+                "t": 3488.0,
+                "d": 500.0
+              },
+              {
+                "w": "wave",
+                "t": 3988.0,
+                "d": 376.0
+              },
+              {
+                "w": "after",
+                "t": 4406.0,
+                "d": 458.0
+              },
+              {
+                "w": "wave",
+                "t": 4864.0,
+                "d": 291.0
+              },
+              {
+                "w": "of",
+                "t": 5156.0,
+                "d": 166.0
+              },
+              {
+                "w": "Mongol",
+                "t": 5322.0,
+                "d": 375.0
+              },
+              {
+                "w": "riders",
+                "t": 5697.0,
+                "d": 958.0
+              },
+              {
+                "w": "yet",
+                "t": 6864.0,
+                "d": 375.0
+              },
+              {
+                "w": "every",
+                "t": 7281.0,
+                "d": 375.0
+              },
+              {
+                "w": "victory",
+                "t": 7656.0,
+                "d": 458.0
+              },
+              {
+                "w": "feeds",
+                "t": 8114.0,
+                "d": 332.0
+              },
+              {
+                "w": "a",
+                "t": 8446.0,
+                "d": 41.0
+              },
+              {
+                "w": "rumor",
+                "t": 8488.0,
+                "d": 583.0
+              },
+              {
+                "w": "is",
+                "t": 9489.0,
+                "d": 250.0
+              },
+              {
+                "w": "he",
+                "t": 9739.0,
+                "d": 166.0
+              },
+              {
+                "w": "only",
+                "t": 9906.0,
+                "d": 333.0
+              },
+              {
+                "w": "guarding",
+                "t": 10239.0,
+                "d": 415.0
+              },
+              {
+                "w": "Delhi",
+                "t": 10655.0,
+                "d": 416.0
+              },
+              {
+                "w": "or",
+                "t": 11364.0,
+                "d": 248.0
+              },
+              {
+                "w": "quietly",
+                "t": 11613.0,
+                "d": 459.0
+              },
+              {
+                "w": "claiming",
+                "t": 12072.0,
+                "d": 416.0
+              },
+              {
+                "w": "it",
+                "t": 12489.0,
+                "d": 375.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_dipalpur_line/intro/map.png",
+      "x": 0.42,
+      "y": 0.29,
+      "label": "Dipalpur & Multan, Punjab Frontier",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, between river plains and desert dust, Ghazi Malik built a hard line of forts, grain, and grit to halt the Mongol tide.",
+            "hi": "यहाँ, नदी के मैदानों और रेगिस्तानी धूल के बीच, ग़ाज़ी मलिक ने किलों, अनाज और जज़्बे की दीवार खड़ी कर मंगोलों की बाढ़ रोक दी।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/intro/map_en.mp3",
+            "hi": "assets/the_dipalpur_line/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 459.0
+              },
+              {
+                "w": "between",
+                "t": 954.0,
+                "d": 551.0
+              },
+              {
+                "w": "river",
+                "t": 1505.0,
+                "d": 321.0
+              },
+              {
+                "w": "plains",
+                "t": 1827.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 2287.0,
+                "d": 229.0
+              },
+              {
+                "w": "desert",
+                "t": 2517.0,
+                "d": 413.0
+              },
+              {
+                "w": "dust",
+                "t": 2931.0,
+                "d": 735.0
+              },
+              {
+                "w": "Ghazi",
+                "t": 3849.0,
+                "d": 505.0
+              },
+              {
+                "w": "Malik",
+                "t": 4355.0,
+                "d": 414.0
+              },
+              {
+                "w": "built",
+                "t": 4770.0,
+                "d": 275.0
+              },
+              {
+                "w": "a",
+                "t": 5045.0,
+                "d": 91.0
+              },
+              {
+                "w": "hard",
+                "t": 5137.0,
+                "d": 367.0
+              },
+              {
+                "w": "line",
+                "t": 5505.0,
+                "d": 229.0
+              },
+              {
+                "w": "of",
+                "t": 5735.0,
+                "d": 91.0
+              },
+              {
+                "w": "forts",
+                "t": 5827.0,
+                "d": 689.0
+              },
+              {
+                "w": "grain",
+                "t": 6655.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 7206.0,
+                "d": 321.0
+              },
+              {
+                "w": "grit",
+                "t": 7528.0,
+                "d": 229.0
+              },
+              {
+                "w": "to",
+                "t": 7758.0,
+                "d": 183.0
+              },
+              {
+                "w": "halt",
+                "t": 7942.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 8264.0,
+                "d": 275.0
+              },
+              {
+                "w": "Mongol",
+                "t": 8540.0,
+                "d": 459.0
+              },
+              {
+                "w": "tide",
+                "t": 9000.0,
+                "d": 458.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_dipalpur_line/img/cover.png",
+      "shot": "sweeping low-angle hero wide",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the age when Mongol storms beat on India's northwest, Ghazi Malik of Dipalpur turned a frontier town into a living wall, and left behind a riddle of eighteen, twenty, or twenty‐nine victories.",
+            "hi": "जब मंगोल तूफ़ान भारत के उत्तर-पश्चिम पर बरसे, तब दीपालपुर के गाज़ी मलिक ने सरहदी क़स्बे को ज़िंदा दीवार बना दिया — और पीछे छोड़ गए अठारह, बीस या उन्तीस फ़तहों की पहेली।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/cover_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 270.0,
+                "d": 200.0
+              },
+              {
+                "w": "age",
+                "t": 470.0,
+                "d": 240.0
+              },
+              {
+                "w": "when",
+                "t": 710.0,
+                "d": 200.0
+              },
+              {
+                "w": "Mongol",
+                "t": 910.0,
+                "d": 440.0
+              },
+              {
+                "w": "storms",
+                "t": 1350.0,
+                "d": 480.0
+              },
+              {
+                "w": "beat",
+                "t": 1830.0,
+                "d": 320.0
+              },
+              {
+                "w": "on",
+                "t": 2150.0,
+                "d": 159.0
+              },
+              {
+                "w": "India's",
+                "t": 2309.0,
+                "d": 361.0
+              },
+              {
+                "w": "northwest",
+                "t": 2670.0,
+                "d": 1159.0
+              },
+              {
+                "w": "Ghazi",
+                "t": 3829.0,
+                "d": 441.0
+              },
+              {
+                "w": "Malik",
+                "t": 4270.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 4590.0,
+                "d": 200.0
+              },
+              {
+                "w": "Dipalpur",
+                "t": 4790.0,
+                "d": 800.0
+              },
+              {
+                "w": "turned",
+                "t": 5870.0,
+                "d": 320.0
+              },
+              {
+                "w": "a",
+                "t": 6190.0,
+                "d": 40.0
+              },
+              {
+                "w": "frontier",
+                "t": 6230.0,
+                "d": 520.0
+              },
+              {
+                "w": "town",
+                "t": 6750.0,
+                "d": 440.0
+              },
+              {
+                "w": "into",
+                "t": 7230.0,
+                "d": 280.0
+              },
+              {
+                "w": "a",
+                "t": 7510.0,
+                "d": 40.0
+              },
+              {
+                "w": "living",
+                "t": 7550.0,
+                "d": 320.0
+              },
+              {
+                "w": "wall",
+                "t": 7870.0,
+                "d": 439.0
+              },
+              {
+                "w": "and",
+                "t": 8549.0,
+                "d": 281.0
+              },
+              {
+                "w": "left",
+                "t": 8830.0,
+                "d": 319.0
+              },
+              {
+                "w": "behind",
+                "t": 9149.0,
+                "d": 521.0
+              },
+              {
+                "w": "a",
+                "t": 9670.0,
+                "d": 120.0
+              },
+              {
+                "w": "riddle",
+                "t": 9790.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 10110.0,
+                "d": 160.0
+              },
+              {
+                "w": "eighteen",
+                "t": 10270.0,
+                "d": 400.0
+              },
+              {
+                "w": "twenty",
+                "t": 10670.0,
+                "d": 719.0
+              },
+              {
+                "w": "or",
+                "t": 11430.0,
+                "d": 240.0
+              },
+              {
+                "w": "twenty‐nine",
+                "t": 11670.0,
+                "d": 639.0
+              },
+              {
+                "w": "victories",
+                "t": 12309.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_dipalpur_line/img/p01.png",
+      "shot": "slow push-in from aerial view",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Between Multan and Delhi lay Dipalpur, a dusty hinge of empire. Beyond it, open steppe. From there, Mongol raiders could ride fast and far if this hinge ever broke.",
+            "hi": "मुल्तान और दिल्ली के बीच था दीपालपुर — साम्राज्य की धूल भरी कड़ी। इसके पार खुला मैदान। यही कड़ी टूटी, तो मंगोल घुड़सवार दूर-दूर तक टूट पड़ते।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p01_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Between",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "Multan",
+                "t": 542.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 1053.0,
+                "d": 212.0
+              },
+              {
+                "w": "Delhi",
+                "t": 1265.0,
+                "d": 340.0
+              },
+              {
+                "w": "lay",
+                "t": 1606.0,
+                "d": 510.0
+              },
+              {
+                "w": "Dipalpur",
+                "t": 2117.0,
+                "d": 935.0
+              },
+              {
+                "w": "a",
+                "t": 3137.0,
+                "d": 256.0
+              },
+              {
+                "w": "dusty",
+                "t": 3393.0,
+                "d": 425.0
+              },
+              {
+                "w": "hinge",
+                "t": 3819.0,
+                "d": 381.0
+              },
+              {
+                "w": "of",
+                "t": 4201.0,
+                "d": 213.0
+              },
+              {
+                "w": "empire",
+                "t": 4414.0,
+                "d": 936.0
+              },
+              {
+                "w": "Beyond",
+                "t": 5819.0,
+                "d": 510.0
+              },
+              {
+                "w": "it",
+                "t": 6329.0,
+                "d": 425.0
+              },
+              {
+                "w": "open",
+                "t": 6968.0,
+                "d": 425.0
+              },
+              {
+                "w": "steppe",
+                "t": 7393.0,
+                "d": 510.0
+              },
+              {
+                "w": "From",
+                "t": 8626.0,
+                "d": 297.0
+              },
+              {
+                "w": "there",
+                "t": 8924.0,
+                "d": 596.0
+              },
+              {
+                "w": "Mongol",
+                "t": 9647.0,
+                "d": 510.0
+              },
+              {
+                "w": "raiders",
+                "t": 10158.0,
+                "d": 426.0
+              },
+              {
+                "w": "could",
+                "t": 10585.0,
+                "d": 255.0
+              },
+              {
+                "w": "ride",
+                "t": 10840.0,
+                "d": 255.0
+              },
+              {
+                "w": "fast",
+                "t": 11095.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 11606.0,
+                "d": 254.0
+              },
+              {
+                "w": "far",
+                "t": 11860.0,
+                "d": 469.0
+              },
+              {
+                "w": "if",
+                "t": 12371.0,
+                "d": 171.0
+              },
+              {
+                "w": "this",
+                "t": 12542.0,
+                "d": 212.0
+              },
+              {
+                "w": "hinge",
+                "t": 12755.0,
+                "d": 468.0
+              },
+              {
+                "w": "ever",
+                "t": 13264.0,
+                "d": 298.0
+              },
+              {
+                "w": "broke",
+                "t": 13563.0,
+                "d": 509.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_dipalpur_line/img/p02.png",
+      "shot": "medium close-up on Ghazi Malik in profile",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Ghazi Malik was born on that edge, of mixed Mongol and Jat stock, carrying in his blood both the steppe and the soil. The frontier made him. It would also test him.",
+            "hi": "गाज़ी मलिक इसी किनारे जन्मा — मंगोल और जाट ख़ून मिला हुआ, नसों में मैदान भी, मिट्टी भी। सरहद ने उसे गढ़ा। वही उसे परखेगी भी।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p02_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Ghazi",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "Malik",
+                "t": 542.0,
+                "d": 340.0
+              },
+              {
+                "w": "was",
+                "t": 882.0,
+                "d": 212.0
+              },
+              {
+                "w": "born",
+                "t": 1095.0,
+                "d": 255.0
+              },
+              {
+                "w": "on",
+                "t": 1351.0,
+                "d": 170.0
+              },
+              {
+                "w": "that",
+                "t": 1521.0,
+                "d": 212.0
+              },
+              {
+                "w": "edge",
+                "t": 1734.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 2287.0,
+                "d": 211.0
+              },
+              {
+                "w": "mixed",
+                "t": 2498.0,
+                "d": 341.0
+              },
+              {
+                "w": "Mongol",
+                "t": 2840.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 3351.0,
+                "d": 254.0
+              },
+              {
+                "w": "Jat",
+                "t": 3605.0,
+                "d": 341.0
+              },
+              {
+                "w": "stock",
+                "t": 3946.0,
+                "d": 808.0
+              },
+              {
+                "w": "carrying",
+                "t": 4882.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 5265.0,
+                "d": 85.0
+              },
+              {
+                "w": "his",
+                "t": 5351.0,
+                "d": 170.0
+              },
+              {
+                "w": "blood",
+                "t": 5521.0,
+                "d": 382.0
+              },
+              {
+                "w": "both",
+                "t": 5904.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 6159.0,
+                "d": 127.0
+              },
+              {
+                "w": "steppe",
+                "t": 6287.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 6797.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 7053.0,
+                "d": 127.0
+              },
+              {
+                "w": "soil",
+                "t": 7180.0,
+                "d": 468.0
+              },
+              {
+                "w": "The",
+                "t": 8457.0,
+                "d": 211.0
+              },
+              {
+                "w": "frontier",
+                "t": 8669.0,
+                "d": 425.0
+              },
+              {
+                "w": "made",
+                "t": 9094.0,
+                "d": 256.0
+              },
+              {
+                "w": "him",
+                "t": 9351.0,
+                "d": 851.0
+              },
+              {
+                "w": "It",
+                "t": 10202.0,
+                "d": 170.0
+              },
+              {
+                "w": "would",
+                "t": 10372.0,
+                "d": 212.0
+              },
+              {
+                "w": "also",
+                "t": 10585.0,
+                "d": 296.0
+              },
+              {
+                "w": "test",
+                "t": 10881.0,
+                "d": 298.0
+              },
+              {
+                "w": "him",
+                "t": 11180.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_dipalpur_line/img/p03.png",
+      "shot": "wide shot of camp and riders",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Alauddin Khalji needed men who knew this land. Ghazi Malik was given Dipalpur to hold. It was not a prize posting. It was a promise: you will be the first to meet the Mongols.",
+            "hi": "अलाउद्दीन ख़िलजी को इसी ज़मीन के जानकार चाहिए थे। दीपालपुर थामने की ज़िम्मेदारी गाज़ी मलिक को मिली। ये इनाम नहीं था, ऐलान था: मंगोल से पहली टक्कर तुम्हारी होगी।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p03_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Alauddin",
+                "t": 117.0,
+                "d": 595.0
+              },
+              {
+                "w": "Khalji",
+                "t": 712.0,
+                "d": 425.0
+              },
+              {
+                "w": "needed",
+                "t": 1138.0,
+                "d": 425.0
+              },
+              {
+                "w": "men",
+                "t": 1563.0,
+                "d": 297.0
+              },
+              {
+                "w": "who",
+                "t": 1861.0,
+                "d": 127.0
+              },
+              {
+                "w": "knew",
+                "t": 1989.0,
+                "d": 382.0
+              },
+              {
+                "w": "this",
+                "t": 2372.0,
+                "d": 254.0
+              },
+              {
+                "w": "land",
+                "t": 2626.0,
+                "d": 553.0
+              },
+              {
+                "w": "Ghazi",
+                "t": 3734.0,
+                "d": 467.0
+              },
+              {
+                "w": "Malik",
+                "t": 4201.0,
+                "d": 341.0
+              },
+              {
+                "w": "was",
+                "t": 4542.0,
+                "d": 212.0
+              },
+              {
+                "w": "given",
+                "t": 4755.0,
+                "d": 340.0
+              },
+              {
+                "w": "Dipalpur",
+                "t": 5095.0,
+                "d": 638.0
+              },
+              {
+                "w": "to",
+                "t": 5734.0,
+                "d": 127.0
+              },
+              {
+                "w": "hold",
+                "t": 5861.0,
+                "d": 936.0
+              },
+              {
+                "w": "It",
+                "t": 6882.0,
+                "d": 212.0
+              },
+              {
+                "w": "was",
+                "t": 7095.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 7265.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 7521.0,
+                "d": 85.0
+              },
+              {
+                "w": "prize",
+                "t": 7606.0,
+                "d": 382.0
+              },
+              {
+                "w": "posting",
+                "t": 7989.0,
+                "d": 935.0
+              },
+              {
+                "w": "It",
+                "t": 8968.0,
+                "d": 211.0
+              },
+              {
+                "w": "was",
+                "t": 9179.0,
+                "d": 128.0
+              },
+              {
+                "w": "a",
+                "t": 9308.0,
+                "d": 85.0
+              },
+              {
+                "w": "promise",
+                "t": 9393.0,
+                "d": 679.0
+              },
+              {
+                "w": "you",
+                "t": 10542.0,
+                "d": 339.0
+              },
+              {
+                "w": "will",
+                "t": 10881.0,
+                "d": 170.0
+              },
+              {
+                "w": "be",
+                "t": 11052.0,
+                "d": 128.0
+              },
+              {
+                "w": "the",
+                "t": 11180.0,
+                "d": 170.0
+              },
+              {
+                "w": "first",
+                "t": 11351.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 11734.0,
+                "d": 170.0
+              },
+              {
+                "w": "meet",
+                "t": 11904.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 12159.0,
+                "d": 126.0
+              },
+              {
+                "w": "Mongols",
+                "t": 12286.0,
+                "d": 852.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_dipalpur_line/img/p04.png",
+      "shot": "tight shot on hands and logistics",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He learned that walls alone do not hold a frontier. Grain, fodder, and fresh horses did. Every sack stored at Dipalpur was one more day the Mongols could be kept outside Delhi.",
+            "hi": "उसने सीखा, सिर्फ़ दीवारें सरहद नहीं रोकतीं। अनाज, चारा और ताज़े घोड़े रोकते हैं। दीपालपुर में हर भरा बोरा, मंगोलों को दिल्ली से एक दिन और दूर रखता।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p04_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "learned",
+                "t": 329.0,
+                "d": 297.0
+              },
+              {
+                "w": "that",
+                "t": 627.0,
+                "d": 212.0
+              },
+              {
+                "w": "walls",
+                "t": 840.0,
+                "d": 468.0
+              },
+              {
+                "w": "alone",
+                "t": 1308.0,
+                "d": 425.0
+              },
+              {
+                "w": "do",
+                "t": 1734.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 1904.0,
+                "d": 297.0
+              },
+              {
+                "w": "hold",
+                "t": 2202.0,
+                "d": 254.0
+              },
+              {
+                "w": "a",
+                "t": 2456.0,
+                "d": 42.0
+              },
+              {
+                "w": "frontier",
+                "t": 2498.0,
+                "d": 680.0
+              },
+              {
+                "w": "Grain",
+                "t": 3734.0,
+                "d": 680.0
+              },
+              {
+                "w": "fodder",
+                "t": 4457.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 5351.0,
+                "d": 340.0
+              },
+              {
+                "w": "fresh",
+                "t": 5691.0,
+                "d": 297.0
+              },
+              {
+                "w": "horses",
+                "t": 5989.0,
+                "d": 468.0
+              },
+              {
+                "w": "did",
+                "t": 6457.0,
+                "d": 1063.0
+              },
+              {
+                "w": "Every",
+                "t": 7819.0,
+                "d": 382.0
+              },
+              {
+                "w": "sack",
+                "t": 8202.0,
+                "d": 339.0
+              },
+              {
+                "w": "stored",
+                "t": 8541.0,
+                "d": 382.0
+              },
+              {
+                "w": "at",
+                "t": 8924.0,
+                "d": 128.0
+              },
+              {
+                "w": "Dipalpur",
+                "t": 9053.0,
+                "d": 808.0
+              },
+              {
+                "w": "was",
+                "t": 10031.0,
+                "d": 255.0
+              },
+              {
+                "w": "one",
+                "t": 10287.0,
+                "d": 340.0
+              },
+              {
+                "w": "more",
+                "t": 10627.0,
+                "d": 212.0
+              },
+              {
+                "w": "day",
+                "t": 10840.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 11392.0,
+                "d": 213.0
+              },
+              {
+                "w": "Mongols",
+                "t": 11606.0,
+                "d": 553.0
+              },
+              {
+                "w": "could",
+                "t": 12159.0,
+                "d": 211.0
+              },
+              {
+                "w": "be",
+                "t": 12371.0,
+                "d": 171.0
+              },
+              {
+                "w": "kept",
+                "t": 12542.0,
+                "d": 381.0
+              },
+              {
+                "w": "outside",
+                "t": 12924.0,
+                "d": 595.0
+              },
+              {
+                "w": "Delhi",
+                "t": 13520.0,
+                "d": 426.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_dipalpur_line/img/p05.png",
+      "shot": "low, tense horizon-wide shot",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "News came like dust on the wind. Another raiding band was riding in. Chroniclers would later count eighteen or twenty such attacks. None give us a neat list. The frontier knew them as seasons.",
+            "hi": "ख़बर धूल की तरह हवा पर आई। एक और लुटेरा दल घोड़े दौड़ाता हुआ बढ़ रहा था। बाद के इतिहासकार अठारह या बी ऐसे धावे गिनेंगे। साफ़ सूची किसी के पास नहीं। सरहद के लिए ये बस मौसम थे।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p05_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "News",
+                "t": 70.0,
+                "d": 400.0
+              },
+              {
+                "w": "came",
+                "t": 470.0,
+                "d": 280.0
+              },
+              {
+                "w": "like",
+                "t": 750.0,
+                "d": 280.0
+              },
+              {
+                "w": "dust",
+                "t": 1030.0,
+                "d": 280.0
+              },
+              {
+                "w": "on",
+                "t": 1310.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 1430.0,
+                "d": 120.0
+              },
+              {
+                "w": "wind",
+                "t": 1550.0,
+                "d": 520.0
+              },
+              {
+                "w": "Another",
+                "t": 2510.0,
+                "d": 399.0
+              },
+              {
+                "w": "raiding",
+                "t": 2909.0,
+                "d": 361.0
+              },
+              {
+                "w": "band",
+                "t": 3270.0,
+                "d": 280.0
+              },
+              {
+                "w": "was",
+                "t": 3550.0,
+                "d": 200.0
+              },
+              {
+                "w": "riding",
+                "t": 3750.0,
+                "d": 360.0
+              },
+              {
+                "w": "in",
+                "t": 4110.0,
+                "d": 360.0
+              },
+              {
+                "w": "Chroniclers",
+                "t": 5030.0,
+                "d": 680.0
+              },
+              {
+                "w": "would",
+                "t": 5710.0,
+                "d": 200.0
+              },
+              {
+                "w": "later",
+                "t": 5910.0,
+                "d": 400.0
+              },
+              {
+                "w": "count",
+                "t": 6310.0,
+                "d": 320.0
+              },
+              {
+                "w": "eighteen",
+                "t": 6670.0,
+                "d": 400.0
+              },
+              {
+                "w": "or",
+                "t": 7070.0,
+                "d": 80.0
+              },
+              {
+                "w": "twenty",
+                "t": 7150.0,
+                "d": 360.0
+              },
+              {
+                "w": "such",
+                "t": 7510.0,
+                "d": 200.0
+              },
+              {
+                "w": "attacks",
+                "t": 7710.0,
+                "d": 679.0
+              },
+              {
+                "w": "None",
+                "t": 8709.0,
+                "d": 360.0
+              },
+              {
+                "w": "give",
+                "t": 9069.0,
+                "d": 201.0
+              },
+              {
+                "w": "us",
+                "t": 9270.0,
+                "d": 119.0
+              },
+              {
+                "w": "a",
+                "t": 9389.0,
+                "d": 41.0
+              },
+              {
+                "w": "neat",
+                "t": 9430.0,
+                "d": 279.0
+              },
+              {
+                "w": "list",
+                "t": 9709.0,
+                "d": 840.0
+              },
+              {
+                "w": "The",
+                "t": 10670.0,
+                "d": 200.0
+              },
+              {
+                "w": "frontier",
+                "t": 10870.0,
+                "d": 480.0
+              },
+              {
+                "w": "knew",
+                "t": 11350.0,
+                "d": 279.0
+              },
+              {
+                "w": "them",
+                "t": 11629.0,
+                "d": 361.0
+              },
+              {
+                "w": "as",
+                "t": 11990.0,
+                "d": 159.0
+              },
+              {
+                "w": "seasons",
+                "t": 12149.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_dipalpur_line/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_dipalpur_line/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Seeing the distant banners, Ghazi Malik steels his men, reading every ripple of dust like a page of enemy intent.",
+            "hi": "दूर के झंडे देखकर ग़ाज़ी मलिक अपने जवानों को सँभालता है, धूल की हर लहर को दुश्मन की चाल समझकर पढ़ता है।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_dipalpur_line/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Seeing",
+                "t": 80.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 540.0,
+                "d": 183.0
+              },
+              {
+                "w": "distant",
+                "t": 724.0,
+                "d": 459.0
+              },
+              {
+                "w": "banners",
+                "t": 1183.0,
+                "d": 827.0
+              },
+              {
+                "w": "Ghazi",
+                "t": 2425.0,
+                "d": 505.0
+              },
+              {
+                "w": "Malik",
+                "t": 2931.0,
+                "d": 366.0
+              },
+              {
+                "w": "steels",
+                "t": 3297.0,
+                "d": 505.0
+              },
+              {
+                "w": "his",
+                "t": 3803.0,
+                "d": 231.0
+              },
+              {
+                "w": "men",
+                "t": 4034.0,
+                "d": 643.0
+              },
+              {
+                "w": "reading",
+                "t": 5000.0,
+                "d": 551.0
+              },
+              {
+                "w": "every",
+                "t": 5597.0,
+                "d": 459.0
+              },
+              {
+                "w": "ripple",
+                "t": 6057.0,
+                "d": 321.0
+              },
+              {
+                "w": "of",
+                "t": 6379.0,
+                "d": 183.0
+              },
+              {
+                "w": "dust",
+                "t": 6563.0,
+                "d": 781.0
+              },
+              {
+                "w": "like",
+                "t": 7390.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 7712.0,
+                "d": 137.0
+              },
+              {
+                "w": "page",
+                "t": 7850.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 8218.0,
+                "d": 229.0
+              },
+              {
+                "w": "enemy",
+                "t": 8448.0,
+                "d": 551.0
+              },
+              {
+                "w": "intent",
+                "t": 9000.0,
+                "d": 1010.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_dipalpur_line/img/p06.png",
+      "shot": "dynamic mid-shot of command moment",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "We meet them on our terms. Not theirs.",
+            "hi": "हम उनसे अपने हिसाब से भिड़ेंगे, उनके नहीं।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p06_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 52.6,
+                "d": 171.0
+              },
+              {
+                "w": "meet",
+                "t": 250.0,
+                "d": 342.1
+              },
+              {
+                "w": "them",
+                "t": 592.1,
+                "d": 394.8
+              },
+              {
+                "w": "on",
+                "t": 1039.5,
+                "d": 223.7
+              },
+              {
+                "w": "our",
+                "t": 1263.2,
+                "d": 223.7
+              },
+              {
+                "w": "terms",
+                "t": 1486.8,
+                "d": 552.6
+              },
+              {
+                "w": "Not",
+                "t": 2973.7,
+                "d": 289.5
+              },
+              {
+                "w": "theirs",
+                "t": 3263.2,
+                "d": 579.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_dipalpur_line/img/p07.png",
+      "shot": "wide, side-on cavalry charge shot",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "These were not grand set-piece wars. They were sudden strikes, feints, and chases. Ghazi Malik's task was simple and hard: blunt each raid before it could fatten itself on villages and caravans.",
+            "hi": "ये कोई बड़े मैदानों की जंगें नहीं थीं। ये थीं अचानक चोट, झांसे और पीछा। गाज़ी मलिक का काम सीधा और सख़्त था: हर धावे को गाँवों और काफ़िलों पर पलने से पहले ही कुंद कर देना।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p07_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "These",
+                "t": 70.0,
+                "d": 360.0
+              },
+              {
+                "w": "were",
+                "t": 430.0,
+                "d": 160.0
+              },
+              {
+                "w": "not",
+                "t": 590.0,
+                "d": 240.0
+              },
+              {
+                "w": "grand",
+                "t": 830.0,
+                "d": 320.0
+              },
+              {
+                "w": "set-piece",
+                "t": 1150.0,
+                "d": 480.0
+              },
+              {
+                "w": "wars",
+                "t": 1630.0,
+                "d": 560.0
+              },
+              {
+                "w": "They",
+                "t": 2750.0,
+                "d": 199.0
+              },
+              {
+                "w": "were",
+                "t": 2949.0,
+                "d": 161.0
+              },
+              {
+                "w": "sudden",
+                "t": 3110.0,
+                "d": 319.0
+              },
+              {
+                "w": "strikes",
+                "t": 3429.0,
+                "d": 681.0
+              },
+              {
+                "w": "feints",
+                "t": 4150.0,
+                "d": 640.0
+              },
+              {
+                "w": "and",
+                "t": 4830.0,
+                "d": 280.0
+              },
+              {
+                "w": "chases",
+                "t": 5110.0,
+                "d": 1600.0
+              },
+              {
+                "w": "Ghazi",
+                "t": 6910.0,
+                "d": 440.0
+              },
+              {
+                "w": "Malik's",
+                "t": 7350.0,
+                "d": 320.0
+              },
+              {
+                "w": "task",
+                "t": 7670.0,
+                "d": 320.0
+              },
+              {
+                "w": "was",
+                "t": 7990.0,
+                "d": 119.0
+              },
+              {
+                "w": "simple",
+                "t": 8109.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 8549.0,
+                "d": 160.0
+              },
+              {
+                "w": "hard",
+                "t": 8709.0,
+                "d": 721.0
+              },
+              {
+                "w": "blunt",
+                "t": 9549.0,
+                "d": 441.0
+              },
+              {
+                "w": "each",
+                "t": 9990.0,
+                "d": 319.0
+              },
+              {
+                "w": "raid",
+                "t": 10309.0,
+                "d": 240.0
+              },
+              {
+                "w": "before",
+                "t": 10549.0,
+                "d": 361.0
+              },
+              {
+                "w": "it",
+                "t": 10910.0,
+                "d": 80.0
+              },
+              {
+                "w": "could",
+                "t": 10990.0,
+                "d": 200.0
+              },
+              {
+                "w": "fatten",
+                "t": 11190.0,
+                "d": 359.0
+              },
+              {
+                "w": "itself",
+                "t": 11549.0,
+                "d": 401.0
+              },
+              {
+                "w": "on",
+                "t": 11950.0,
+                "d": 119.0
+              },
+              {
+                "w": "villages",
+                "t": 12069.0,
+                "d": 521.0
+              },
+              {
+                "w": "and",
+                "t": 12590.0,
+                "d": 240.0
+              },
+              {
+                "w": "caravans",
+                "t": 12830.0,
+                "d": 879.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_dipalpur_line/img/p08.png",
+      "shot": "medium shot on tactical maneuver",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He learned to use more than steel. Canals, marsh, and broken ground became his allies. He forced steppe horsemen into places where their speed and swirling arrows mattered less.",
+            "hi": "उसने लोहे से ज़्यादा ज़मीन को हथियार बनाया। नहरें, दलदल और टूटी-बिखरी ज़मीन उसके साथी बने। उसने मैदान के घुड़सवारों को ऐसी जगहों में घसीटा, जहाँ न रफ़्तार काम आई, न घुमती तीरों की बरसात।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p08_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "learned",
+                "t": 310.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 630.0,
+                "d": 80.0
+              },
+              {
+                "w": "use",
+                "t": 710.0,
+                "d": 360.0
+              },
+              {
+                "w": "more",
+                "t": 1070.0,
+                "d": 240.0
+              },
+              {
+                "w": "than",
+                "t": 1310.0,
+                "d": 160.0
+              },
+              {
+                "w": "steel",
+                "t": 1470.0,
+                "d": 760.0
+              },
+              {
+                "w": "Canals",
+                "t": 2469.0,
+                "d": 721.0
+              },
+              {
+                "w": "marsh",
+                "t": 3230.0,
+                "d": 719.0
+              },
+              {
+                "w": "and",
+                "t": 3949.0,
+                "d": 361.0
+              },
+              {
+                "w": "broken",
+                "t": 4310.0,
+                "d": 400.0
+              },
+              {
+                "w": "ground",
+                "t": 4710.0,
+                "d": 440.0
+              },
+              {
+                "w": "became",
+                "t": 5190.0,
+                "d": 400.0
+              },
+              {
+                "w": "his",
+                "t": 5590.0,
+                "d": 160.0
+              },
+              {
+                "w": "allies",
+                "t": 5750.0,
+                "d": 400.0
+              },
+              {
+                "w": "He",
+                "t": 6150.0,
+                "d": 960.0
+              },
+              {
+                "w": "forced",
+                "t": 7110.0,
+                "d": 400.0
+              },
+              {
+                "w": "steppe",
+                "t": 7510.0,
+                "d": 440.0
+              },
+              {
+                "w": "horsemen",
+                "t": 7950.0,
+                "d": 439.0
+              },
+              {
+                "w": "into",
+                "t": 8389.0,
+                "d": 240.0
+              },
+              {
+                "w": "places",
+                "t": 8629.0,
+                "d": 440.0
+              },
+              {
+                "w": "where",
+                "t": 9069.0,
+                "d": 201.0
+              },
+              {
+                "w": "their",
+                "t": 9270.0,
+                "d": 199.0
+              },
+              {
+                "w": "speed",
+                "t": 9469.0,
+                "d": 641.0
+              },
+              {
+                "w": "and",
+                "t": 10110.0,
+                "d": 359.0
+              },
+              {
+                "w": "swirling",
+                "t": 10469.0,
+                "d": 600.0
+              },
+              {
+                "w": "arrows",
+                "t": 11069.0,
+                "d": 441.0
+              },
+              {
+                "w": "mattered",
+                "t": 11510.0,
+                "d": 440.0
+              },
+              {
+                "w": "less",
+                "t": 11950.0,
+                "d": 560.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_dipalpur_line/img/p09.png",
+      "shot": "close-up on weathered face after action",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Victories on this line were often invisible in Delhi. No cities changed hands. No new lands were annexed. Only raiders turned back, again and again, before they became a story in the capital.",
+            "hi": "इस रेखा पर जीतें दिल्ली में अक्सर दिखती ही नहीं थीं। न कोई शहर बदले हाथ, न नई ज़मीन जोड़ी गई। बस लुटेरे बार-बार लौटाए गए, राजधानी तक कहानी बनने से पहले ही।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p09_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Victories",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "on",
+                "t": 585.0,
+                "d": 127.0
+              },
+              {
+                "w": "this",
+                "t": 712.0,
+                "d": 255.0
+              },
+              {
+                "w": "line",
+                "t": 968.0,
+                "d": 297.0
+              },
+              {
+                "w": "were",
+                "t": 1265.0,
+                "d": 212.0
+              },
+              {
+                "w": "often",
+                "t": 1478.0,
+                "d": 425.0
+              },
+              {
+                "w": "invisible",
+                "t": 1904.0,
+                "d": 808.0
+              },
+              {
+                "w": "in",
+                "t": 2712.0,
+                "d": 127.0
+              },
+              {
+                "w": "Delhi",
+                "t": 2840.0,
+                "d": 510.0
+              },
+              {
+                "w": "No",
+                "t": 4073.0,
+                "d": 298.0
+              },
+              {
+                "w": "cities",
+                "t": 4372.0,
+                "d": 425.0
+              },
+              {
+                "w": "changed",
+                "t": 4797.0,
+                "d": 468.0
+              },
+              {
+                "w": "hands",
+                "t": 5265.0,
+                "d": 638.0
+              },
+              {
+                "w": "No",
+                "t": 6202.0,
+                "d": 255.0
+              },
+              {
+                "w": "new",
+                "t": 6457.0,
+                "d": 255.0
+              },
+              {
+                "w": "lands",
+                "t": 6712.0,
+                "d": 382.0
+              },
+              {
+                "w": "were",
+                "t": 7095.0,
+                "d": 170.0
+              },
+              {
+                "w": "annexed",
+                "t": 7265.0,
+                "d": 680.0
+              },
+              {
+                "w": "Only",
+                "t": 8500.0,
+                "d": 424.0
+              },
+              {
+                "w": "raiders",
+                "t": 8924.0,
+                "d": 426.0
+              },
+              {
+                "w": "turned",
+                "t": 9351.0,
+                "d": 296.0
+              },
+              {
+                "w": "back",
+                "t": 9647.0,
+                "d": 724.0
+              },
+              {
+                "w": "again",
+                "t": 10414.0,
+                "d": 381.0
+              },
+              {
+                "w": "and",
+                "t": 10796.0,
+                "d": 128.0
+              },
+              {
+                "w": "again",
+                "t": 10925.0,
+                "d": 595.0
+              },
+              {
+                "w": "before",
+                "t": 11606.0,
+                "d": 468.0
+              },
+              {
+                "w": "they",
+                "t": 12074.0,
+                "d": 170.0
+              },
+              {
+                "w": "became",
+                "t": 12244.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 12585.0,
+                "d": 42.0
+              },
+              {
+                "w": "story",
+                "t": 12627.0,
+                "d": 381.0
+              },
+              {
+                "w": "in",
+                "t": 13009.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 13094.0,
+                "d": 128.0
+              },
+              {
+                "w": "capital",
+                "t": 13223.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_dipalpur_line/img/p10.png",
+      "shot": "epic battlefield-wide high angle",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In thirteen oh six, the storm swelled. Mongol forces pressed deeper, and the Sultan's main army marched. Ghazi Malik's frontier skill was now part of a larger shield, helping drive them back from the Punjab.",
+            "hi": "१३१६ में तूफ़ान और गहराया। मंगोल सेनाएँ भीतर तक धँस आईं और सुल्तान की मुख्य फ़ौज चली। अब गाज़ी मलिक की सरहदी क़ाबिलियत भी बड़ी ढाल का हिस्सा बनी, जिसने उन्हें पंजाब से धकेला।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p10_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "thirteen",
+                "t": 270.0,
+                "d": 440.0
+              },
+              {
+                "w": "oh",
+                "t": 710.0,
+                "d": 200.0
+              },
+              {
+                "w": "six",
+                "t": 910.0,
+                "d": 520.0
+              },
+              {
+                "w": "the",
+                "t": 1510.0,
+                "d": 160.0
+              },
+              {
+                "w": "storm",
+                "t": 1670.0,
+                "d": 359.0
+              },
+              {
+                "w": "swelled",
+                "t": 2029.0,
+                "d": 681.0
+              },
+              {
+                "w": "Mongol",
+                "t": 3190.0,
+                "d": 480.0
+              },
+              {
+                "w": "forces",
+                "t": 3670.0,
+                "d": 440.0
+              },
+              {
+                "w": "pressed",
+                "t": 4110.0,
+                "d": 320.0
+              },
+              {
+                "w": "deeper",
+                "t": 4430.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 5110.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 5310.0,
+                "d": 120.0
+              },
+              {
+                "w": "Sultan's",
+                "t": 5430.0,
+                "d": 560.0
+              },
+              {
+                "w": "main",
+                "t": 5990.0,
+                "d": 320.0
+              },
+              {
+                "w": "army",
+                "t": 6310.0,
+                "d": 360.0
+              },
+              {
+                "w": "marched",
+                "t": 6670.0,
+                "d": 800.0
+              },
+              {
+                "w": "Ghazi",
+                "t": 7990.0,
+                "d": 399.0
+              },
+              {
+                "w": "Malik's",
+                "t": 8389.0,
+                "d": 361.0
+              },
+              {
+                "w": "frontier",
+                "t": 8750.0,
+                "d": 399.0
+              },
+              {
+                "w": "skill",
+                "t": 9149.0,
+                "d": 320.0
+              },
+              {
+                "w": "was",
+                "t": 9469.0,
+                "d": 160.0
+              },
+              {
+                "w": "now",
+                "t": 9629.0,
+                "d": 281.0
+              },
+              {
+                "w": "part",
+                "t": 9910.0,
+                "d": 239.0
+              },
+              {
+                "w": "of",
+                "t": 10149.0,
+                "d": 121.0
+              },
+              {
+                "w": "a",
+                "t": 10270.0,
+                "d": 39.0
+              },
+              {
+                "w": "larger",
+                "t": 10309.0,
+                "d": 441.0
+              },
+              {
+                "w": "shield",
+                "t": 10750.0,
+                "d": 680.0
+              },
+              {
+                "w": "helping",
+                "t": 11510.0,
+                "d": 520.0
+              },
+              {
+                "w": "drive",
+                "t": 12030.0,
+                "d": 279.0
+              },
+              {
+                "w": "them",
+                "t": 12309.0,
+                "d": 240.0
+              },
+              {
+                "w": "back",
+                "t": 12549.0,
+                "d": 241.0
+              },
+              {
+                "w": "from",
+                "t": 12790.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 12950.0,
+                "d": 119.0
+              },
+              {
+                "w": "Punjab",
+                "t": 13069.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_dipalpur_line/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_dipalpur_line/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the crush of the thirteen oh six campaign, Ghazi Malik hurls himself into the Mongol line, turning discipline into a brutal, driving wedge.",
+            "hi": "तेरह सौ छह की भीड़भाड़ जंग में ग़ाज़ी मलिक मंगोलों पर टूट पड़ता है, उनकी पाँति चीरती बेरहम ढाल बनकर।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_dipalpur_line/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 230.0,
+                "d": 120.0
+              },
+              {
+                "w": "crush",
+                "t": 350.0,
+                "d": 280.0
+              },
+              {
+                "w": "of",
+                "t": 630.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 750.0,
+                "d": 120.0
+              },
+              {
+                "w": "thirteen",
+                "t": 870.0,
+                "d": 480.0
+              },
+              {
+                "w": "oh",
+                "t": 1390.0,
+                "d": 200.0
+              },
+              {
+                "w": "six",
+                "t": 1590.0,
+                "d": 280.0
+              },
+              {
+                "w": "campaign",
+                "t": 1870.0,
+                "d": 999.0
+              },
+              {
+                "w": "Ghazi",
+                "t": 2989.0,
+                "d": 440.0
+              },
+              {
+                "w": "Malik",
+                "t": 3429.0,
+                "d": 360.0
+              },
+              {
+                "w": "hurls",
+                "t": 3789.0,
+                "d": 361.0
+              },
+              {
+                "w": "himself",
+                "t": 4150.0,
+                "d": 560.0
+              },
+              {
+                "w": "into",
+                "t": 4710.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 4950.0,
+                "d": 160.0
+              },
+              {
+                "w": "Mongol",
+                "t": 5110.0,
+                "d": 440.0
+              },
+              {
+                "w": "line",
+                "t": 5550.0,
+                "d": 640.0
+              },
+              {
+                "w": "turning",
+                "t": 6510.0,
+                "d": 440.0
+              },
+              {
+                "w": "discipline",
+                "t": 6950.0,
+                "d": 520.0
+              },
+              {
+                "w": "into",
+                "t": 7470.0,
+                "d": 280.0
+              },
+              {
+                "w": "a",
+                "t": 7750.0,
+                "d": 80.0
+              },
+              {
+                "w": "brutal",
+                "t": 7830.0,
+                "d": 799.0
+              },
+              {
+                "w": "driving",
+                "t": 8629.0,
+                "d": 520.0
+              },
+              {
+                "w": "wedge",
+                "t": 9149.0,
+                "d": 400.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_dipalpur_line/img/p11.png",
+      "shot": "low-angle shot of Ghazi Malik amid allied commanders",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Near-contemporary Amir Khusrau would later praise him in the Tughluq Nama as a relentless Mongol-fighter, one of the men who made the frontier into a killing ground for raiders, not for farmers.",
+            "hi": "लगभग हमज़माना अमीर ख़ुसरो ने तुग़लक़नामा में उसे निरंतर मंगोल-कोसने वाला बताया — उन लोगों में, जिन्होंने सरहद को किसानों नहीं, लुटेरों का क़ब्रिस्तान बना दिया।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p11_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Near-contemporary",
+                "t": 70.0,
+                "d": 960.0
+              },
+              {
+                "w": "Amir",
+                "t": 1070.0,
+                "d": 400.0
+              },
+              {
+                "w": "Khusrau",
+                "t": 1470.0,
+                "d": 480.0
+              },
+              {
+                "w": "would",
+                "t": 2150.0,
+                "d": 239.0
+              },
+              {
+                "w": "later",
+                "t": 2389.0,
+                "d": 361.0
+              },
+              {
+                "w": "praise",
+                "t": 2750.0,
+                "d": 280.0
+              },
+              {
+                "w": "him",
+                "t": 3030.0,
+                "d": 160.0
+              },
+              {
+                "w": "in",
+                "t": 3190.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 3270.0,
+                "d": 159.0
+              },
+              {
+                "w": "Tughluq",
+                "t": 3429.0,
+                "d": 321.0
+              },
+              {
+                "w": "Nama",
+                "t": 3789.0,
+                "d": 281.0
+              },
+              {
+                "w": "as",
+                "t": 4070.0,
+                "d": 640.0
+              },
+              {
+                "w": "a",
+                "t": 4710.0,
+                "d": 40.0
+              },
+              {
+                "w": "relentless",
+                "t": 4750.0,
+                "d": 600.0
+              },
+              {
+                "w": "Mongol-fighter",
+                "t": 5350.0,
+                "d": 760.0
+              },
+              {
+                "w": "one",
+                "t": 6510.0,
+                "d": 200.0
+              },
+              {
+                "w": "of",
+                "t": 6710.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 6790.0,
+                "d": 120.0
+              },
+              {
+                "w": "men",
+                "t": 6910.0,
+                "d": 200.0
+              },
+              {
+                "w": "who",
+                "t": 7110.0,
+                "d": 120.0
+              },
+              {
+                "w": "made",
+                "t": 7230.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 7430.0,
+                "d": 120.0
+              },
+              {
+                "w": "frontier",
+                "t": 7550.0,
+                "d": 639.0
+              },
+              {
+                "w": "into",
+                "t": 8229.0,
+                "d": 320.0
+              },
+              {
+                "w": "a",
+                "t": 8549.0,
+                "d": 80.0
+              },
+              {
+                "w": "killing",
+                "t": 8629.0,
+                "d": 361.0
+              },
+              {
+                "w": "ground",
+                "t": 8990.0,
+                "d": 280.0
+              },
+              {
+                "w": "for",
+                "t": 9270.0,
+                "d": 160.0
+              },
+              {
+                "w": "raiders",
+                "t": 9430.0,
+                "d": 639.0
+              },
+              {
+                "w": "not",
+                "t": 10110.0,
+                "d": 320.0
+              },
+              {
+                "w": "for",
+                "t": 10430.0,
+                "d": 160.0
+              },
+              {
+                "w": "farmers",
+                "t": 10590.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_dipalpur_line/img/p12.png",
+      "shot": "intimate interior shot in fort",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The victories piled up in memory. Khusrau spoke of eighteen. Barani would later write of twenty. None named each clash. The frontier counted in seasons of fear survived, not in tidy numbers.",
+            "hi": "फ़तहें यादों में जमा होती गईं। ख़ुसरो ने अठारह का ज़िक्र किया। बरनी ने बाद में बीस लिखे। किसी ने हर मुठभेड़ के नाम नहीं गिनाए। सरहद ने गिनती रखी, दहशत के बचे मौसमों में, न साफ़-सुथरे अंकों में।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p12_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "victories",
+                "t": 230.0,
+                "d": 440.0
+              },
+              {
+                "w": "piled",
+                "t": 670.0,
+                "d": 280.0
+              },
+              {
+                "w": "up",
+                "t": 950.0,
+                "d": 160.0
+              },
+              {
+                "w": "in",
+                "t": 1110.0,
+                "d": 120.0
+              },
+              {
+                "w": "memory",
+                "t": 1230.0,
+                "d": 600.0
+              },
+              {
+                "w": "Khusrau",
+                "t": 2389.0,
+                "d": 400.0
+              },
+              {
+                "w": "spoke",
+                "t": 2789.0,
+                "d": 321.0
+              },
+              {
+                "w": "of",
+                "t": 3110.0,
+                "d": 160.0
+              },
+              {
+                "w": "eighteen",
+                "t": 3309.0,
+                "d": 841.0
+              },
+              {
+                "w": "Barani",
+                "t": 4790.0,
+                "d": 440.0
+              },
+              {
+                "w": "would",
+                "t": 5230.0,
+                "d": 240.0
+              },
+              {
+                "w": "later",
+                "t": 5470.0,
+                "d": 400.0
+              },
+              {
+                "w": "write",
+                "t": 5870.0,
+                "d": 200.0
+              },
+              {
+                "w": "of",
+                "t": 6070.0,
+                "d": 160.0
+              },
+              {
+                "w": "twenty",
+                "t": 6230.0,
+                "d": 1120.0
+              },
+              {
+                "w": "None",
+                "t": 7390.0,
+                "d": 360.0
+              },
+              {
+                "w": "named",
+                "t": 7750.0,
+                "d": 319.0
+              },
+              {
+                "w": "each",
+                "t": 8069.0,
+                "d": 361.0
+              },
+              {
+                "w": "clash",
+                "t": 8430.0,
+                "d": 1160.0
+              },
+              {
+                "w": "The",
+                "t": 9709.0,
+                "d": 201.0
+              },
+              {
+                "w": "frontier",
+                "t": 9910.0,
+                "d": 479.0
+              },
+              {
+                "w": "counted",
+                "t": 10389.0,
+                "d": 441.0
+              },
+              {
+                "w": "in",
+                "t": 10830.0,
+                "d": 120.0
+              },
+              {
+                "w": "seasons",
+                "t": 10950.0,
+                "d": 439.0
+              },
+              {
+                "w": "of",
+                "t": 11389.0,
+                "d": 121.0
+              },
+              {
+                "w": "fear",
+                "t": 11510.0,
+                "d": 280.0
+              },
+              {
+                "w": "survived",
+                "t": 11790.0,
+                "d": 800.0
+              },
+              {
+                "w": "not",
+                "t": 12709.0,
+                "d": 360.0
+              },
+              {
+                "w": "in",
+                "t": 13069.0,
+                "d": 121.0
+              },
+              {
+                "w": "tidy",
+                "t": 13190.0,
+                "d": 320.0
+              },
+              {
+                "w": "numbers",
+                "t": 13510.0,
+                "d": 719.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_dipalpur_line/img/p13.png",
+      "shot": "evocative shot of mosque courtyard in Multan",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Decades later, the traveler Ibn Battuta claimed he saw a mosque inscription in Multan boasting that Ghazi Malik had defeated the Tatars twenty-nine times. That stone, if it once existed, is lost now.",
+            "hi": "दशकों बाद मुसाफ़िर इब्न बतूता ने दावा किया कि मुल्तान में उसने एक मस्जिद का शिलालेख देखा, जिसमें लिखा था कि गाज़ी मलिक ने तातारों को उन्तीस बार हराया। वो पत्थर, अगर था भी, अब ग़ायब है।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p13_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Decades",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "later",
+                "t": 585.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 1393.0,
+                "d": 255.0
+              },
+              {
+                "w": "traveler",
+                "t": 1648.0,
+                "d": 509.0
+              },
+              {
+                "w": "Ibn",
+                "t": 2158.0,
+                "d": 511.0
+              },
+              {
+                "w": "Battuta",
+                "t": 2670.0,
+                "d": 509.0
+              },
+              {
+                "w": "claimed",
+                "t": 3179.0,
+                "d": 724.0
+              },
+              {
+                "w": "he",
+                "t": 3904.0,
+                "d": 339.0
+              },
+              {
+                "w": "saw",
+                "t": 4243.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 4457.0,
+                "d": 42.0
+              },
+              {
+                "w": "mosque",
+                "t": 4500.0,
+                "d": 468.0
+              },
+              {
+                "w": "inscription",
+                "t": 4968.0,
+                "d": 638.0
+              },
+              {
+                "w": "in",
+                "t": 5606.0,
+                "d": 170.0
+              },
+              {
+                "w": "Multan",
+                "t": 5776.0,
+                "d": 468.0
+              },
+              {
+                "w": "boasting",
+                "t": 6244.0,
+                "d": 468.0
+              },
+              {
+                "w": "that",
+                "t": 6712.0,
+                "d": 212.0
+              },
+              {
+                "w": "Ghazi",
+                "t": 6925.0,
+                "d": 340.0
+              },
+              {
+                "w": "Malik",
+                "t": 7265.0,
+                "d": 382.0
+              },
+              {
+                "w": "had",
+                "t": 7648.0,
+                "d": 127.0
+              },
+              {
+                "w": "defeated",
+                "t": 7776.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 8329.0,
+                "d": 170.0
+              },
+              {
+                "w": "Tatars",
+                "t": 8500.0,
+                "d": 553.0
+              },
+              {
+                "w": "twenty-nine",
+                "t": 9053.0,
+                "d": 594.0
+              },
+              {
+                "w": "times",
+                "t": 9647.0,
+                "d": 894.0
+              },
+              {
+                "w": "That",
+                "t": 11010.0,
+                "d": 340.0
+              },
+              {
+                "w": "stone",
+                "t": 11351.0,
+                "d": 679.0
+              },
+              {
+                "w": "if",
+                "t": 12030.0,
+                "d": 255.0
+              },
+              {
+                "w": "it",
+                "t": 12286.0,
+                "d": 128.0
+              },
+              {
+                "w": "once",
+                "t": 12414.0,
+                "d": 340.0
+              },
+              {
+                "w": "existed",
+                "t": 12755.0,
+                "d": 851.0
+              },
+              {
+                "w": "is",
+                "t": 13648.0,
+                "d": 297.0
+              },
+              {
+                "w": "lost",
+                "t": 13946.0,
+                "d": 296.0
+              },
+              {
+                "w": "now",
+                "t": 14243.0,
+                "d": 384.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_dipalpur_line/img/p14.png",
+      "shot": "medium shot of Ibn Battuta and imagined past overlapping",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here the record frays. Eighteen, twenty, twenty-nine, words carved in praise and inked in courtly prose. The exact tally of raids and repulses has slipped away, leaving only the certainty of repeated defense.",
+            "hi": "यहीं बयान उलझने लगता है। अठारह, बीस, उन्तीस — तारीफ़ में खुदे शब्द, दरबारी नज़्म में स्याही। धावों और धकियाई गई फ़ौजों की ठीक गिनती फिसल गई; बचा बस ये यक़ीन कि बचाव बार-बार हुआ।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p14_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 350.0,
+                "d": 120.0
+              },
+              {
+                "w": "record",
+                "t": 470.0,
+                "d": 400.0
+              },
+              {
+                "w": "frays",
+                "t": 870.0,
+                "d": 320.0
+              },
+              {
+                "w": "Eighteen",
+                "t": 1190.0,
+                "d": 1119.0
+              },
+              {
+                "w": "twenty",
+                "t": 2309.0,
+                "d": 560.0
+              },
+              {
+                "w": "twenty-nine",
+                "t": 2869.0,
+                "d": 721.0
+              },
+              {
+                "w": "words",
+                "t": 3909.0,
+                "d": 521.0
+              },
+              {
+                "w": "carved",
+                "t": 4430.0,
+                "d": 360.0
+              },
+              {
+                "w": "in",
+                "t": 4790.0,
+                "d": 160.0
+              },
+              {
+                "w": "praise",
+                "t": 4950.0,
+                "d": 640.0
+              },
+              {
+                "w": "and",
+                "t": 5670.0,
+                "d": 320.0
+              },
+              {
+                "w": "inked",
+                "t": 6030.0,
+                "d": 320.0
+              },
+              {
+                "w": "in",
+                "t": 6350.0,
+                "d": 240.0
+              },
+              {
+                "w": "courtly",
+                "t": 6630.0,
+                "d": 440.0
+              },
+              {
+                "w": "prose",
+                "t": 7070.0,
+                "d": 720.0
+              },
+              {
+                "w": "The",
+                "t": 8309.0,
+                "d": 160.0
+              },
+              {
+                "w": "exact",
+                "t": 8469.0,
+                "d": 441.0
+              },
+              {
+                "w": "tally",
+                "t": 8910.0,
+                "d": 399.0
+              },
+              {
+                "w": "of",
+                "t": 9309.0,
+                "d": 201.0
+              },
+              {
+                "w": "raids",
+                "t": 9510.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 9870.0,
+                "d": 160.0
+              },
+              {
+                "w": "repulses",
+                "t": 10030.0,
+                "d": 840.0
+              },
+              {
+                "w": "has",
+                "t": 10870.0,
+                "d": 240.0
+              },
+              {
+                "w": "slipped",
+                "t": 11110.0,
+                "d": 400.0
+              },
+              {
+                "w": "away",
+                "t": 11510.0,
+                "d": 959.0
+              },
+              {
+                "w": "leaving",
+                "t": 12469.0,
+                "d": 481.0
+              },
+              {
+                "w": "only",
+                "t": 12950.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 13270.0,
+                "d": 160.0
+              },
+              {
+                "w": "certainty",
+                "t": 13430.0,
+                "d": 719.0
+              },
+              {
+                "w": "of",
+                "t": 14190.0,
+                "d": 240.0
+              },
+              {
+                "w": "repeated",
+                "t": 14430.0,
+                "d": 480.0
+              },
+              {
+                "w": "defense",
+                "t": 14910.0,
+                "d": 840.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_dipalpur_line/img/p15.png",
+      "shot": "low-angle shot of Ghazi Malik on rampart at night",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "To the men on these walls, each raid was not a statistic but a night of waiting, a day of pursuit. This was the work that later allowed Ghazi Malik to claim a different kind of prize in Delhi.",
+            "hi": "इन दीवारों पर खड़े जवानों के लिए हर धावा कोई आँकड़ा नहीं था, बल्कि एक जागी रात, एक दौड़ता दिन था। यही काम था, जिसने आगे चलकर गाज़ी मलिक को दिल्ली में बिल्कुल अलग इनाम माँगने लायक बनाया।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p15_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "To",
+                "t": 80.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 218.0,
+                "d": 137.0
+              },
+              {
+                "w": "men",
+                "t": 356.0,
+                "d": 229.0
+              },
+              {
+                "w": "on",
+                "t": 586.0,
+                "d": 183.0
+              },
+              {
+                "w": "these",
+                "t": 770.0,
+                "d": 229.0
+              },
+              {
+                "w": "walls",
+                "t": 1000.0,
+                "d": 781.0
+              },
+              {
+                "w": "each",
+                "t": 1965.0,
+                "d": 505.0
+              },
+              {
+                "w": "raid",
+                "t": 2471.0,
+                "d": 551.0
+              },
+              {
+                "w": "was",
+                "t": 3022.0,
+                "d": 366.0
+              },
+              {
+                "w": "not",
+                "t": 3389.0,
+                "d": 277.0
+              },
+              {
+                "w": "a",
+                "t": 3666.0,
+                "d": 45.0
+              },
+              {
+                "w": "statistic",
+                "t": 3712.0,
+                "d": 1011.0
+              },
+              {
+                "w": "but",
+                "t": 4862.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 5183.0,
+                "d": 45.0
+              },
+              {
+                "w": "night",
+                "t": 5229.0,
+                "d": 459.0
+              },
+              {
+                "w": "of",
+                "t": 5689.0,
+                "d": 229.0
+              },
+              {
+                "w": "waiting",
+                "t": 5919.0,
+                "d": 965.0
+              },
+              {
+                "w": "a",
+                "t": 6977.0,
+                "d": 229.0
+              },
+              {
+                "w": "day",
+                "t": 7206.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 7620.0,
+                "d": 275.0
+              },
+              {
+                "w": "pursuit",
+                "t": 7896.0,
+                "d": 827.0
+              },
+              {
+                "w": "This",
+                "t": 9550.0,
+                "d": 322.0
+              },
+              {
+                "w": "was",
+                "t": 9873.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 10057.0,
+                "d": 137.0
+              },
+              {
+                "w": "work",
+                "t": 10195.0,
+                "d": 320.0
+              },
+              {
+                "w": "that",
+                "t": 10516.0,
+                "d": 231.0
+              },
+              {
+                "w": "later",
+                "t": 10747.0,
+                "d": 412.0
+              },
+              {
+                "w": "allowed",
+                "t": 11159.0,
+                "d": 413.0
+              },
+              {
+                "w": "Ghazi",
+                "t": 11573.0,
+                "d": 367.0
+              },
+              {
+                "w": "Malik",
+                "t": 11941.0,
+                "d": 322.0
+              },
+              {
+                "w": "to",
+                "t": 12264.0,
+                "d": 229.0
+              },
+              {
+                "w": "claim",
+                "t": 12494.0,
+                "d": 459.0
+              },
+              {
+                "w": "a",
+                "t": 12954.0,
+                "d": 228.0
+              },
+              {
+                "w": "different",
+                "t": 13182.0,
+                "d": 552.0
+              },
+              {
+                "w": "kind",
+                "t": 13735.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 14056.0,
+                "d": 183.0
+              },
+              {
+                "w": "prize",
+                "t": 14240.0,
+                "d": 367.0
+              },
+              {
+                "w": "in",
+                "t": 14608.0,
+                "d": 139.0
+              },
+              {
+                "w": "Delhi",
+                "t": 14747.0,
+                "d": 458.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_dipalpur_line/img/p16.png",
+      "shot": "transition shot from frontier to throne-room hint",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Barani would write that such frontier service raised Ghazi Malik's standing, helping him later seize the throne as Ghiyasuddin Tughluq. The line of Dipalpur thus ran straight into Delhi's palace.",
+            "hi": "बरनी लिखता है कि ऐसी सरहदी सेवा ने गाज़ी मलिक की हैसियत बढ़ाई, और आगे चलकर उसे ग़ियासुद्दीन तुग़लक़ बनकर तख़्त पर बैठने की राह दी। दीपालपुर की ये रेखा सीधे दिल्ली के महल तक जा पहुँची।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p16_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Barani",
+                "t": 74.0,
+                "d": 425.0
+              },
+              {
+                "w": "would",
+                "t": 500.0,
+                "d": 255.0
+              },
+              {
+                "w": "write",
+                "t": 755.0,
+                "d": 255.0
+              },
+              {
+                "w": "that",
+                "t": 1010.0,
+                "d": 212.0
+              },
+              {
+                "w": "such",
+                "t": 1223.0,
+                "d": 340.0
+              },
+              {
+                "w": "frontier",
+                "t": 1563.0,
+                "d": 468.0
+              },
+              {
+                "w": "service",
+                "t": 2031.0,
+                "d": 424.0
+              },
+              {
+                "w": "raised",
+                "t": 2456.0,
+                "d": 384.0
+              },
+              {
+                "w": "Ghazi",
+                "t": 2840.0,
+                "d": 382.0
+              },
+              {
+                "w": "Malik's",
+                "t": 3223.0,
+                "d": 424.0
+              },
+              {
+                "w": "standing",
+                "t": 3647.0,
+                "d": 1107.0
+              },
+              {
+                "w": "helping",
+                "t": 4755.0,
+                "d": 468.0
+              },
+              {
+                "w": "him",
+                "t": 5223.0,
+                "d": 170.0
+              },
+              {
+                "w": "later",
+                "t": 5393.0,
+                "d": 382.0
+              },
+              {
+                "w": "seize",
+                "t": 5776.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 6117.0,
+                "d": 170.0
+              },
+              {
+                "w": "throne",
+                "t": 6287.0,
+                "d": 595.0
+              },
+              {
+                "w": "as",
+                "t": 6882.0,
+                "d": 425.0
+              },
+              {
+                "w": "Ghiyasuddin",
+                "t": 7308.0,
+                "d": 851.0
+              },
+              {
+                "w": "Tughluq",
+                "t": 8159.0,
+                "d": 594.0
+              },
+              {
+                "w": "The",
+                "t": 9521.0,
+                "d": 211.0
+              },
+              {
+                "w": "line",
+                "t": 9732.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 9988.0,
+                "d": 128.0
+              },
+              {
+                "w": "Dipalpur",
+                "t": 10117.0,
+                "d": 1020.0
+              },
+              {
+                "w": "thus",
+                "t": 11351.0,
+                "d": 382.0
+              },
+              {
+                "w": "ran",
+                "t": 11734.0,
+                "d": 255.0
+              },
+              {
+                "w": "straight",
+                "t": 11989.0,
+                "d": 510.0
+              },
+              {
+                "w": "into",
+                "t": 12500.0,
+                "d": 339.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 12839.0,
+                "d": 1107.0
+              },
+              {
+                "w": "palace",
+                "t": 13946.0,
+                "d": 0.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_dipalpur_line/img/p17.png",
+      "shot": "close-up on Ghazi Malik’s hands over a frontier map",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Behind those numbers in stone and verse lay a simpler truth: a commander turned a fragile line of forts, canals, and grain depots into a habit of resistance, year after year, without breaking.",
+            "hi": "पत्थर और शेरो-शायरी के अंकों के पीछे एक सीधी सच्चाई थी: एक सरदार ने कमजोर क़िलों, नहरों और अन्न-भंडारों की पतली लड़ी को साल-दर-साल, बिना टूटे, आदत बना दी — विरोध की आदत।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p17_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Behind",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "those",
+                "t": 585.0,
+                "d": 297.0
+              },
+              {
+                "w": "numbers",
+                "t": 882.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 1393.0,
+                "d": 170.0
+              },
+              {
+                "w": "stone",
+                "t": 1563.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 2117.0,
+                "d": 255.0
+              },
+              {
+                "w": "verse",
+                "t": 2372.0,
+                "d": 382.0
+              },
+              {
+                "w": "lay",
+                "t": 2755.0,
+                "d": 339.0
+              },
+              {
+                "w": "a",
+                "t": 3094.0,
+                "d": 128.0
+              },
+              {
+                "w": "simpler",
+                "t": 3223.0,
+                "d": 595.0
+              },
+              {
+                "w": "truth",
+                "t": 3819.0,
+                "d": 468.0
+              },
+              {
+                "w": "a",
+                "t": 4882.0,
+                "d": 212.0
+              },
+              {
+                "w": "commander",
+                "t": 5095.0,
+                "d": 468.0
+              },
+              {
+                "w": "turned",
+                "t": 5563.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 5904.0,
+                "d": 42.0
+              },
+              {
+                "w": "fragile",
+                "t": 5946.0,
+                "d": 553.0
+              },
+              {
+                "w": "line",
+                "t": 6500.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 6755.0,
+                "d": 85.0
+              },
+              {
+                "w": "forts",
+                "t": 6840.0,
+                "d": 680.0
+              },
+              {
+                "w": "canals",
+                "t": 7648.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 8541.0,
+                "d": 297.0
+              },
+              {
+                "w": "grain",
+                "t": 8839.0,
+                "d": 340.0
+              },
+              {
+                "w": "depots",
+                "t": 9179.0,
+                "d": 638.0
+              },
+              {
+                "w": "into",
+                "t": 9818.0,
+                "d": 298.0
+              },
+              {
+                "w": "a",
+                "t": 10117.0,
+                "d": 41.0
+              },
+              {
+                "w": "habit",
+                "t": 10158.0,
+                "d": 384.0
+              },
+              {
+                "w": "of",
+                "t": 10542.0,
+                "d": 127.0
+              },
+              {
+                "w": "resistance",
+                "t": 10670.0,
+                "d": 808.0
+              },
+              {
+                "w": "year",
+                "t": 11606.0,
+                "d": 424.0
+              },
+              {
+                "w": "after",
+                "t": 12030.0,
+                "d": 298.0
+              },
+              {
+                "w": "year",
+                "t": 12329.0,
+                "d": 594.0
+              },
+              {
+                "w": "without",
+                "t": 12968.0,
+                "d": 552.0
+              },
+              {
+                "w": "breaking",
+                "t": 13520.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_dipalpur_line/split_auto/s0.png",
+          "slogan": {
+            "en": "Frontier holds, Delhi stands.",
+            "hi": "सीमा टिके, दिल्ली रहे।"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_dipalpur_line/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_dipalpur_line/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Years of frontier vigilance fuse into legend as Ghazi Malik's name rides every wind from Dipalpur to Delhi.",
+            "hi": "सरहद की बरसों की चौकसी दास्तान बन गई, ग़ाज़ी मलिक का नाम दीपालपुर से दिल्ली तक हर हवा पर सवार है।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_dipalpur_line/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Years",
+                "t": 72.0,
+                "d": 458.0
+              },
+              {
+                "w": "of",
+                "t": 531.0,
+                "d": 83.0
+              },
+              {
+                "w": "frontier",
+                "t": 614.0,
+                "d": 500.0
+              },
+              {
+                "w": "vigilance",
+                "t": 1114.0,
+                "d": 666.0
+              },
+              {
+                "w": "fuse",
+                "t": 1781.0,
+                "d": 458.0
+              },
+              {
+                "w": "into",
+                "t": 2239.0,
+                "d": 207.0
+              },
+              {
+                "w": "legend",
+                "t": 2446.0,
+                "d": 709.0
+              },
+              {
+                "w": "as",
+                "t": 3156.0,
+                "d": 415.0
+              },
+              {
+                "w": "Ghazi",
+                "t": 3571.0,
+                "d": 334.0
+              },
+              {
+                "w": "Malik's",
+                "t": 3906.0,
+                "d": 416.0
+              },
+              {
+                "w": "name",
+                "t": 4322.0,
+                "d": 208.0
+              },
+              {
+                "w": "rides",
+                "t": 4531.0,
+                "d": 458.0
+              },
+              {
+                "w": "every",
+                "t": 5031.0,
+                "d": 416.0
+              },
+              {
+                "w": "wind",
+                "t": 5447.0,
+                "d": 291.0
+              },
+              {
+                "w": "from",
+                "t": 5739.0,
+                "d": 333.0
+              },
+              {
+                "w": "Dipalpur",
+                "t": 6072.0,
+                "d": 791.0
+              },
+              {
+                "w": "to",
+                "t": 6947.0,
+                "d": 166.0
+              },
+              {
+                "w": "Delhi",
+                "t": 7114.0,
+                "d": 416.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/the_dipalpur_line/img/p18.png",
+      "shot": "wide closing shot of frontier landscape at dawn",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today, the exact count of Ghazi Malik's victories is uncertain, but the frontier he held changed India's map, reminding us that sometimes a dynasty is built less by single battles than by patient, unseen walls of logistics and resolve.",
+            "hi": "आज गाज़ी मलिक की फ़तहों की सटीक गिनती धुंधली है, पर जिस सरहद को उसने थामा उसने भारत का नक्शा बदल दिया — ये याद दिलाते हुए कि कई बार सल्तनतें एकाध बड़ी जंग से कम, और धीरज भरी, दिखती न रहने वाली रसद और हौसले की दीवारों से ज़्यादा बनती हैं।"
+          },
+          "audio": {
+            "en": "assets/the_dipalpur_line/audio/en/p18_0.mp3",
+            "hi": "assets/the_dipalpur_line/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 70.0,
+                "d": 560.0
+              },
+              {
+                "w": "the",
+                "t": 670.0,
+                "d": 200.0
+              },
+              {
+                "w": "exact",
+                "t": 870.0,
+                "d": 560.0
+              },
+              {
+                "w": "count",
+                "t": 1430.0,
+                "d": 400.0
+              },
+              {
+                "w": "of",
+                "t": 1830.0,
+                "d": 199.0
+              },
+              {
+                "w": "Ghazi",
+                "t": 2029.0,
+                "d": 320.0
+              },
+              {
+                "w": "Malik's",
+                "t": 2349.0,
+                "d": 361.0
+              },
+              {
+                "w": "victories",
+                "t": 2710.0,
+                "d": 560.0
+              },
+              {
+                "w": "is",
+                "t": 3270.0,
+                "d": 240.0
+              },
+              {
+                "w": "uncertain",
+                "t": 3510.0,
+                "d": 1120.0
+              },
+              {
+                "w": "but",
+                "t": 4790.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 4950.0,
+                "d": 160.0
+              },
+              {
+                "w": "frontier",
+                "t": 5110.0,
+                "d": 480.0
+              },
+              {
+                "w": "he",
+                "t": 5590.0,
+                "d": 160.0
+              },
+              {
+                "w": "held",
+                "t": 5750.0,
+                "d": 440.0
+              },
+              {
+                "w": "changed",
+                "t": 6230.0,
+                "d": 520.0
+              },
+              {
+                "w": "India's",
+                "t": 6750.0,
+                "d": 440.0
+              },
+              {
+                "w": "map",
+                "t": 7190.0,
+                "d": 800.0
+              },
+              {
+                "w": "reminding",
+                "t": 7990.0,
+                "d": 559.0
+              },
+              {
+                "w": "us",
+                "t": 8549.0,
+                "d": 321.0
+              },
+              {
+                "w": "that",
+                "t": 9030.0,
+                "d": 240.0
+              },
+              {
+                "w": "sometimes",
+                "t": 9270.0,
+                "d": 560.0
+              },
+              {
+                "w": "a",
+                "t": 9830.0,
+                "d": 80.0
+              },
+              {
+                "w": "dynasty",
+                "t": 9910.0,
+                "d": 600.0
+              },
+              {
+                "w": "is",
+                "t": 10510.0,
+                "d": 199.0
+              },
+              {
+                "w": "built",
+                "t": 10709.0,
+                "d": 281.0
+              },
+              {
+                "w": "less",
+                "t": 10990.0,
+                "d": 440.0
+              },
+              {
+                "w": "by",
+                "t": 11510.0,
+                "d": 240.0
+              },
+              {
+                "w": "single",
+                "t": 11750.0,
+                "d": 399.0
+              },
+              {
+                "w": "battles",
+                "t": 12149.0,
+                "d": 441.0
+              },
+              {
+                "w": "than",
+                "t": 12590.0,
+                "d": 200.0
+              },
+              {
+                "w": "by",
+                "t": 12790.0,
+                "d": 200.0
+              },
+              {
+                "w": "patient",
+                "t": 12990.0,
+                "d": 680.0
+              },
+              {
+                "w": "unseen",
+                "t": 13830.0,
+                "d": 520.0
+              },
+              {
+                "w": "walls",
+                "t": 14350.0,
+                "d": 400.0
+              },
+              {
+                "w": "of",
+                "t": 14750.0,
+                "d": 120.0
+              },
+              {
+                "w": "logistics",
+                "t": 14870.0,
+                "d": 800.0
+              },
+              {
+                "w": "and",
+                "t": 15709.0,
+                "d": 281.0
+              },
+              {
+                "w": "resolve",
+                "t": 15990.0,
+                "d": 640.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Ghazi Malik",
+    "epithets": [
+      "Ghiyath al-Din Tughluq",
+      "Ghazi Malik",
+      "Frontier Warden of Dipalpur",
+      "Founder of the Tughluq Dynasty"
+    ],
+    "legend": "He turned a battered border fort into the road to a throne."
+  }
+}
