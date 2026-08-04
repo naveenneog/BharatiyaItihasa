@@ -1,0 +1,4262 @@
+{
+  "id": "delhi_s_six_hours_of_blood",
+  "title": "Delhi's Six Hours of Blood",
+  "title_i18n": {
+    "en": "Delhi's Six Hours of Blood",
+    "hi": "दिल्ली के छह घंटे का खून"
+  },
+  "figure": "Muhammad Shah and Delhi's residents",
+  "era": "Nader Shah's sack of Delhi, 1739 CE",
+  "moral": "Eyewitnesses make denial harder than memory alone.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/delhi_s_six_hours_of_blood/intro/hero.png",
+      "name": "Muhammad Shah Rangila",
+      "epithets": [
+        "Muhammad Shah Rangila",
+        "Timurid padshah of Hindustan",
+        "People of Shahjahanabad",
+        "Survivors of the Qatl‑i‑Am"
+      ],
+      "legend": "One rumor lit the city; six hours drowned it in blood.",
+      "era": "Nader Shah's sack of Delhi, 1739 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "A pleasure‐loving emperor, a proud city, and a foreign storm at its gates. When a single false cry sparks a street killing, Delhi wagers its life against Nader Shah's wrath.",
+            "hi": "भोगविलासी बादशाह, घमंडी शहर, और सरहद पर तूफ़ानी दुश्मन। एक झूठी पुकार से सड़कों पर ख़ून बहता है… और दिल्ली अपना वजूद नादिर शाह के कहर पर दाँव लगा देती है।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/intro/hero_en.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "A",
+                "t": 114.0,
+                "d": 166.0
+              },
+              {
+                "w": "pleasure‐loving",
+                "t": 281.0,
+                "d": 666.0
+              },
+              {
+                "w": "emperor",
+                "t": 947.0,
+                "d": 666.0
+              },
+              {
+                "w": "a",
+                "t": 1947.0,
+                "d": 208.0
+              },
+              {
+                "w": "proud",
+                "t": 2156.0,
+                "d": 290.0
+              },
+              {
+                "w": "city",
+                "t": 2446.0,
+                "d": 709.0
+              },
+              {
+                "w": "and",
+                "t": 3239.0,
+                "d": 290.0
+              },
+              {
+                "w": "a",
+                "t": 3530.0,
+                "d": 83.0
+              },
+              {
+                "w": "foreign",
+                "t": 3613.0,
+                "d": 416.0
+              },
+              {
+                "w": "storm",
+                "t": 4030.0,
+                "d": 417.0
+              },
+              {
+                "w": "at",
+                "t": 4447.0,
+                "d": 166.0
+              },
+              {
+                "w": "its",
+                "t": 4614.0,
+                "d": 166.0
+              },
+              {
+                "w": "gates",
+                "t": 4781.0,
+                "d": 666.0
+              },
+              {
+                "w": "When",
+                "t": 6072.0,
+                "d": 208.0
+              },
+              {
+                "w": "a",
+                "t": 6281.0,
+                "d": 83.0
+              },
+              {
+                "w": "single",
+                "t": 6364.0,
+                "d": 458.0
+              },
+              {
+                "w": "false",
+                "t": 6822.0,
+                "d": 375.0
+              },
+              {
+                "w": "cry",
+                "t": 7197.0,
+                "d": 333.0
+              },
+              {
+                "w": "sparks",
+                "t": 7531.0,
+                "d": 458.0
+              },
+              {
+                "w": "a",
+                "t": 7989.0,
+                "d": 83.0
+              },
+              {
+                "w": "street",
+                "t": 8072.0,
+                "d": 373.0
+              },
+              {
+                "w": "killing",
+                "t": 8446.0,
+                "d": 917.0
+              },
+              {
+                "w": "Delhi",
+                "t": 9406.0,
+                "d": 457.0
+              },
+              {
+                "w": "wagers",
+                "t": 9863.0,
+                "d": 584.0
+              },
+              {
+                "w": "its",
+                "t": 10447.0,
+                "d": 250.0
+              },
+              {
+                "w": "life",
+                "t": 10697.0,
+                "d": 373.0
+              },
+              {
+                "w": "against",
+                "t": 11071.0,
+                "d": 458.0
+              },
+              {
+                "w": "Nader",
+                "t": 11530.0,
+                "d": 333.0
+              },
+              {
+                "w": "Shah's",
+                "t": 11863.0,
+                "d": 376.0
+              },
+              {
+                "w": "wrath",
+                "t": 12239.0,
+                "d": 541.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/delhi_s_six_hours_of_blood/intro/map.png",
+      "x": 0.55,
+      "y": 0.25,
+      "label": "Shahjahanabad, Delhi",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Within these red walls and narrow lanes, rumors ran faster than horses and turned a living capital into a silent grave in one morning.",
+            "hi": "इन लाल दीवारों और तंग गलियों में अफ़वाहें घोड़ों से तेज़ दौड़ीं, और एक सुबह में ज़िंदा राजधानी को सूना क़ब्रिस्तान बना दिया।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/intro/map_en.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Within",
+                "t": 80.0,
+                "d": 413.0
+              },
+              {
+                "w": "these",
+                "t": 494.0,
+                "d": 367.0
+              },
+              {
+                "w": "red",
+                "t": 862.0,
+                "d": 229.0
+              },
+              {
+                "w": "walls",
+                "t": 1091.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 1505.0,
+                "d": 183.0
+              },
+              {
+                "w": "narrow",
+                "t": 1689.0,
+                "d": 367.0
+              },
+              {
+                "w": "lanes",
+                "t": 2057.0,
+                "d": 688.0
+              },
+              {
+                "w": "rumors",
+                "t": 2931.0,
+                "d": 504.0
+              },
+              {
+                "w": "ran",
+                "t": 3435.0,
+                "d": 277.0
+              },
+              {
+                "w": "faster",
+                "t": 3712.0,
+                "d": 551.0
+              },
+              {
+                "w": "than",
+                "t": 4264.0,
+                "d": 228.0
+              },
+              {
+                "w": "horses",
+                "t": 4493.0,
+                "d": 874.0
+              },
+              {
+                "w": "and",
+                "t": 5505.0,
+                "d": 321.0
+              },
+              {
+                "w": "turned",
+                "t": 5827.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 6149.0,
+                "d": 45.0
+              },
+              {
+                "w": "living",
+                "t": 6195.0,
+                "d": 413.0
+              },
+              {
+                "w": "capital",
+                "t": 6609.0,
+                "d": 643.0
+              },
+              {
+                "w": "into",
+                "t": 7252.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 7574.0,
+                "d": 45.0
+              },
+              {
+                "w": "silent",
+                "t": 7620.0,
+                "d": 551.0
+              },
+              {
+                "w": "grave",
+                "t": 8172.0,
+                "d": 643.0
+              },
+              {
+                "w": "in",
+                "t": 8862.0,
+                "d": 229.0
+              },
+              {
+                "w": "one",
+                "t": 9091.0,
+                "d": 274.0
+              },
+              {
+                "w": "morning",
+                "t": 9366.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/delhi_s_six_hours_of_blood/img/cover.png",
+      "shot": "high wide shot over Shahjahanabad at dusk, domes and minarets under a looming storm, Nader Shah's troops like dark ants in the streets",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In March seventeen thirty-nine, as Nader Shah ruled Delhi for a few days, a rumour, a riot and six hours of slaughter burned a mark no emperor's pleasure could erase.",
+            "hi": "मार्च 1739 में, जब नादिर शाह कुछ ही दिनों को दिल्ली का मालिक बना, एक अफवाह, एक फसाद और छह घंटे के कत्लेआम ने ऐसा दाग छोड़ा जिसे कोई बादशाही ऐश नहीं मिटा सकी।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/cover_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "March",
+                "t": 270.0,
+                "d": 320.0
+              },
+              {
+                "w": "seventeen",
+                "t": 590.0,
+                "d": 480.0
+              },
+              {
+                "w": "thirty-nine",
+                "t": 1070.0,
+                "d": 600.0
+              },
+              {
+                "w": "as",
+                "t": 2230.0,
+                "d": 239.0
+              },
+              {
+                "w": "Nader",
+                "t": 2469.0,
+                "d": 320.0
+              },
+              {
+                "w": "Shah",
+                "t": 2789.0,
+                "d": 200.0
+              },
+              {
+                "w": "ruled",
+                "t": 2989.0,
+                "d": 320.0
+              },
+              {
+                "w": "Delhi",
+                "t": 3309.0,
+                "d": 281.0
+              },
+              {
+                "w": "for",
+                "t": 3590.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 3750.0,
+                "d": 39.0
+              },
+              {
+                "w": "few",
+                "t": 3789.0,
+                "d": 241.0
+              },
+              {
+                "w": "days",
+                "t": 4030.0,
+                "d": 600.0
+              },
+              {
+                "w": "a",
+                "t": 4790.0,
+                "d": 80.0
+              },
+              {
+                "w": "rumour",
+                "t": 4870.0,
+                "d": 400.0
+              },
+              {
+                "w": "a",
+                "t": 5270.0,
+                "d": 560.0
+              },
+              {
+                "w": "riot",
+                "t": 5830.0,
+                "d": 640.0
+              },
+              {
+                "w": "and",
+                "t": 6510.0,
+                "d": 320.0
+              },
+              {
+                "w": "six",
+                "t": 6830.0,
+                "d": 240.0
+              },
+              {
+                "w": "hours",
+                "t": 7070.0,
+                "d": 360.0
+              },
+              {
+                "w": "of",
+                "t": 7430.0,
+                "d": 80.0
+              },
+              {
+                "w": "slaughter",
+                "t": 7510.0,
+                "d": 480.0
+              },
+              {
+                "w": "burned",
+                "t": 7990.0,
+                "d": 319.0
+              },
+              {
+                "w": "a",
+                "t": 8309.0,
+                "d": 41.0
+              },
+              {
+                "w": "mark",
+                "t": 8350.0,
+                "d": 400.0
+              },
+              {
+                "w": "no",
+                "t": 8750.0,
+                "d": 319.0
+              },
+              {
+                "w": "emperor's",
+                "t": 9069.0,
+                "d": 521.0
+              },
+              {
+                "w": "pleasure",
+                "t": 9590.0,
+                "d": 559.0
+              },
+              {
+                "w": "could",
+                "t": 10229.0,
+                "d": 201.0
+              },
+              {
+                "w": "erase",
+                "t": 10430.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p01.png",
+      "shot": "slow push-in from a map-like bird’s-eye of North India down to the walled city of Shahjahanabad",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By early seventeen thirty-nine, Shahjahanabad still glowed with Mughal splendour, but its armies lay broken. Nader Shah, victor outside Karnal, now camped at its very heart.",
+            "hi": "1739 की शुरुआत तक शाहजहानाबाद अब भी मुगल शानो-शौकत से चमक रहा था, पर उसकी फ़ौजें चकनाचूर थीं। करनाल के विजेता नादिर शाह अब शहर के दिल में डेरा डाले बैठा था।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p01_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 117.0,
+                "d": 297.0
+              },
+              {
+                "w": "early",
+                "t": 414.0,
+                "d": 297.0
+              },
+              {
+                "w": "seventeen",
+                "t": 712.0,
+                "d": 510.0
+              },
+              {
+                "w": "thirty-nine",
+                "t": 1223.0,
+                "d": 723.0
+              },
+              {
+                "w": "Shahjahanabad",
+                "t": 2244.0,
+                "d": 1021.0
+              },
+              {
+                "w": "still",
+                "t": 3265.0,
+                "d": 381.0
+              },
+              {
+                "w": "glowed",
+                "t": 3647.0,
+                "d": 341.0
+              },
+              {
+                "w": "with",
+                "t": 3989.0,
+                "d": 169.0
+              },
+              {
+                "w": "Mughal",
+                "t": 4158.0,
+                "d": 298.0
+              },
+              {
+                "w": "splendour",
+                "t": 4457.0,
+                "d": 765.0
+              },
+              {
+                "w": "but",
+                "t": 5648.0,
+                "d": 170.0
+              },
+              {
+                "w": "its",
+                "t": 5819.0,
+                "d": 212.0
+              },
+              {
+                "w": "armies",
+                "t": 6074.0,
+                "d": 468.0
+              },
+              {
+                "w": "lay",
+                "t": 6542.0,
+                "d": 255.0
+              },
+              {
+                "w": "broken",
+                "t": 6797.0,
+                "d": 382.0
+              },
+              {
+                "w": "Nader",
+                "t": 7180.0,
+                "d": 1488.0
+              },
+              {
+                "w": "Shah",
+                "t": 8669.0,
+                "d": 384.0
+              },
+              {
+                "w": "victor",
+                "t": 9179.0,
+                "d": 511.0
+              },
+              {
+                "w": "outside",
+                "t": 9691.0,
+                "d": 510.0
+              },
+              {
+                "w": "Karnal",
+                "t": 10202.0,
+                "d": 638.0
+              },
+              {
+                "w": "now",
+                "t": 11095.0,
+                "d": 425.0
+              },
+              {
+                "w": "camped",
+                "t": 11521.0,
+                "d": 382.0
+              },
+              {
+                "w": "at",
+                "t": 11904.0,
+                "d": 170.0
+              },
+              {
+                "w": "its",
+                "t": 12074.0,
+                "d": 170.0
+              },
+              {
+                "w": "very",
+                "t": 12244.0,
+                "d": 340.0
+              },
+              {
+                "w": "heart",
+                "t": 12585.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p02.png",
+      "shot": "medium interior shot in the Diwan-i-Khas, low angle on throne, wide to show Persian presence",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Inside the Red Fort, the Mughal emperor shared his own hall with the Persian conqueror. For now, as Anand Ram Mukhlis notes, Nader demanded obedience, not yet blood.",
+            "hi": "लाल क़िले के भीतर, मुगल बादशाह ने अपना दीवान भी फ़ारसी फ़तह के मालिक से बाँट रखा था। अभी, जैसा आनंद राम मुख़लिस लिखता है, नादिर आज्ञा चाहता था, खून नहीं।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p02_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Inside",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 542.0,
+                "d": 127.0
+              },
+              {
+                "w": "Red",
+                "t": 670.0,
+                "d": 212.0
+              },
+              {
+                "w": "Fort",
+                "t": 882.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 1606.0,
+                "d": 255.0
+              },
+              {
+                "w": "Mughal",
+                "t": 1861.0,
+                "d": 296.0
+              },
+              {
+                "w": "emperor",
+                "t": 2158.0,
+                "d": 425.0
+              },
+              {
+                "w": "shared",
+                "t": 2584.0,
+                "d": 382.0
+              },
+              {
+                "w": "his",
+                "t": 2967.0,
+                "d": 170.0
+              },
+              {
+                "w": "own",
+                "t": 3137.0,
+                "d": 382.0
+              },
+              {
+                "w": "hall",
+                "t": 3520.0,
+                "d": 553.0
+              },
+              {
+                "w": "with",
+                "t": 4073.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 4287.0,
+                "d": 170.0
+              },
+              {
+                "w": "Persian",
+                "t": 4457.0,
+                "d": 468.0
+              },
+              {
+                "w": "conqueror",
+                "t": 4925.0,
+                "d": 723.0
+              },
+              {
+                "w": "For",
+                "t": 6202.0,
+                "d": 255.0
+              },
+              {
+                "w": "now",
+                "t": 6457.0,
+                "d": 680.0
+              },
+              {
+                "w": "as",
+                "t": 7138.0,
+                "d": 340.0
+              },
+              {
+                "w": "Anand",
+                "t": 7478.0,
+                "d": 425.0
+              },
+              {
+                "w": "Ram",
+                "t": 7904.0,
+                "d": 170.0
+              },
+              {
+                "w": "Mukhlis",
+                "t": 8074.0,
+                "d": 467.0
+              },
+              {
+                "w": "notes",
+                "t": 8541.0,
+                "d": 638.0
+              },
+              {
+                "w": "Nader",
+                "t": 9606.0,
+                "d": 510.0
+              },
+              {
+                "w": "demanded",
+                "t": 10117.0,
+                "d": 510.0
+              },
+              {
+                "w": "obedience",
+                "t": 10627.0,
+                "d": 808.0
+              },
+              {
+                "w": "not",
+                "t": 11734.0,
+                "d": 467.0
+              },
+              {
+                "w": "yet",
+                "t": 12201.0,
+                "d": 213.0
+              },
+              {
+                "w": "blood",
+                "t": 12414.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p03.png",
+      "shot": "street-level tracking shot through Chandni Chowk, slightly low angle to show bustle and foreign troops",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Outside, Persian troops quartered in the bazaars and mohallas. They took supplies, demanded payment, and moved in alien silence through lanes that had known only Mughal guards.",
+            "hi": "बाहर, फ़ारसी सिपाही बाज़ारों और मुहल्लों में डेरा डाले थे। राशन उठाते, पैसे वसूलते और उन गलियों में अजनबी सन्नाटे से गुजरते जो अब तक सिर्फ़ मुग़ल पहरेदारों की थीं।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p03_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Outside",
+                "t": 70.0,
+                "d": 880.0
+              },
+              {
+                "w": "Persian",
+                "t": 1030.0,
+                "d": 440.0
+              },
+              {
+                "w": "troops",
+                "t": 1470.0,
+                "d": 440.0
+              },
+              {
+                "w": "quartered",
+                "t": 1910.0,
+                "d": 479.0
+              },
+              {
+                "w": "in",
+                "t": 2389.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 2469.0,
+                "d": 121.0
+              },
+              {
+                "w": "bazaars",
+                "t": 2590.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 3110.0,
+                "d": 199.0
+              },
+              {
+                "w": "mohallas",
+                "t": 3309.0,
+                "d": 1161.0
+              },
+              {
+                "w": "They",
+                "t": 4470.0,
+                "d": 240.0
+              },
+              {
+                "w": "took",
+                "t": 4710.0,
+                "d": 160.0
+              },
+              {
+                "w": "supplies",
+                "t": 4870.0,
+                "d": 720.0
+              },
+              {
+                "w": "demanded",
+                "t": 5710.0,
+                "d": 520.0
+              },
+              {
+                "w": "payment",
+                "t": 6230.0,
+                "d": 720.0
+              },
+              {
+                "w": "and",
+                "t": 7030.0,
+                "d": 240.0
+              },
+              {
+                "w": "moved",
+                "t": 7270.0,
+                "d": 320.0
+              },
+              {
+                "w": "in",
+                "t": 7590.0,
+                "d": 160.0
+              },
+              {
+                "w": "alien",
+                "t": 7750.0,
+                "d": 359.0
+              },
+              {
+                "w": "silence",
+                "t": 8109.0,
+                "d": 481.0
+              },
+              {
+                "w": "through",
+                "t": 8590.0,
+                "d": 280.0
+              },
+              {
+                "w": "lanes",
+                "t": 8870.0,
+                "d": 400.0
+              },
+              {
+                "w": "that",
+                "t": 9270.0,
+                "d": 199.0
+              },
+              {
+                "w": "had",
+                "t": 9469.0,
+                "d": 160.0
+              },
+              {
+                "w": "known",
+                "t": 9629.0,
+                "d": 401.0
+              },
+              {
+                "w": "only",
+                "t": 10030.0,
+                "d": 400.0
+              },
+              {
+                "w": "Mughal",
+                "t": 10430.0,
+                "d": 320.0
+              },
+              {
+                "w": "guards",
+                "t": 10750.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/delhi_s_six_hours_of_blood/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/delhi_s_six_hours_of_blood/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From the Red Fort walls, Muhammad Shah feels Delhi's fear like a weight, yet steps toward his threatened streets instead of retreating.",
+            "hi": "लाल किले पर खड़ा मुहम्मद शाह, दिल्ली का डर बोझ सा महसूस करता है, पर पीछे नहीं हटता, खतरे में घिरती गलियों की ओर बढ़ता है।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/action/action_auto_en.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 126.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 356.0,
+                "d": 137.0
+              },
+              {
+                "w": "Red",
+                "t": 494.0,
+                "d": 229.0
+              },
+              {
+                "w": "Fort",
+                "t": 724.0,
+                "d": 275.0
+              },
+              {
+                "w": "walls",
+                "t": 1000.0,
+                "d": 781.0
+              },
+              {
+                "w": "Muhammad",
+                "t": 2241.0,
+                "d": 550.0
+              },
+              {
+                "w": "Shah",
+                "t": 2791.0,
+                "d": 277.0
+              },
+              {
+                "w": "feels",
+                "t": 3068.0,
+                "d": 459.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 3528.0,
+                "d": 458.0
+              },
+              {
+                "w": "fear",
+                "t": 3987.0,
+                "d": 597.0
+              },
+              {
+                "w": "like",
+                "t": 4632.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 4954.0,
+                "d": 45.0
+              },
+              {
+                "w": "weight",
+                "t": 5000.0,
+                "d": 781.0
+              },
+              {
+                "w": "yet",
+                "t": 5965.0,
+                "d": 321.0
+              },
+              {
+                "w": "steps",
+                "t": 6287.0,
+                "d": 413.0
+              },
+              {
+                "w": "toward",
+                "t": 6701.0,
+                "d": 321.0
+              },
+              {
+                "w": "his",
+                "t": 7022.0,
+                "d": 229.0
+              },
+              {
+                "w": "threatened",
+                "t": 7252.0,
+                "d": 505.0
+              },
+              {
+                "w": "streets",
+                "t": 7758.0,
+                "d": 505.0
+              },
+              {
+                "w": "instead",
+                "t": 8264.0,
+                "d": 459.0
+              },
+              {
+                "w": "of",
+                "t": 8724.0,
+                "d": 183.0
+              },
+              {
+                "w": "retreating",
+                "t": 8908.0,
+                "d": 918.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p04.png",
+      "shot": "intimate interior shot in a small Delhi home, candlelit, faces in half-shadow",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Delhi's people watched and waited. Some, like Mukhlis, recorded each new insult. Others only clenched their jaws and prayed the storm would pass over their roofs.",
+            "hi": "दिल्ली वाले बस देखते और टकटकी लगाए बैठे रहे। कुछ, जैसे मुख़लिस, हर नई बेअदबी लिखते गए। बाक़ी दाँत भींचकर बस दुआ करते रहे कि तूफ़ान उनकी छतों से टकराकर निकल जाए।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p04_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Delhi's",
+                "t": 110.0,
+                "d": 480.0
+              },
+              {
+                "w": "people",
+                "t": 590.0,
+                "d": 360.0
+              },
+              {
+                "w": "watched",
+                "t": 950.0,
+                "d": 480.0
+              },
+              {
+                "w": "and",
+                "t": 1430.0,
+                "d": 200.0
+              },
+              {
+                "w": "waited",
+                "t": 1630.0,
+                "d": 799.0
+              },
+              {
+                "w": "Some",
+                "t": 2510.0,
+                "d": 399.0
+              },
+              {
+                "w": "like",
+                "t": 2909.0,
+                "d": 201.0
+              },
+              {
+                "w": "Mukhlis",
+                "t": 3110.0,
+                "d": 679.0
+              },
+              {
+                "w": "recorded",
+                "t": 3869.0,
+                "d": 601.0
+              },
+              {
+                "w": "each",
+                "t": 4470.0,
+                "d": 400.0
+              },
+              {
+                "w": "new",
+                "t": 4870.0,
+                "d": 240.0
+              },
+              {
+                "w": "insult",
+                "t": 5110.0,
+                "d": 600.0
+              },
+              {
+                "w": "Others",
+                "t": 6550.0,
+                "d": 400.0
+              },
+              {
+                "w": "only",
+                "t": 6950.0,
+                "d": 320.0
+              },
+              {
+                "w": "clenched",
+                "t": 7270.0,
+                "d": 360.0
+              },
+              {
+                "w": "their",
+                "t": 7630.0,
+                "d": 200.0
+              },
+              {
+                "w": "jaws",
+                "t": 7830.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 8309.0,
+                "d": 240.0
+              },
+              {
+                "w": "prayed",
+                "t": 8549.0,
+                "d": 241.0
+              },
+              {
+                "w": "the",
+                "t": 8790.0,
+                "d": 120.0
+              },
+              {
+                "w": "storm",
+                "t": 8910.0,
+                "d": 479.0
+              },
+              {
+                "w": "would",
+                "t": 9430.0,
+                "d": 240.0
+              },
+              {
+                "w": "pass",
+                "t": 9670.0,
+                "d": 320.0
+              },
+              {
+                "w": "over",
+                "t": 9990.0,
+                "d": 239.0
+              },
+              {
+                "w": "their",
+                "t": 10229.0,
+                "d": 201.0
+              },
+              {
+                "w": "roofs",
+                "t": 10430.0,
+                "d": 520.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p05.png",
+      "shot": "dynamic street corner shot, mid-level, capturing first flare of violence",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Tensions grew. Indo-Persian chroniclers speak of quarrels over money and honour, of soldiers taking what they wished in a city that lived on trade and pride.",
+            "hi": "तनाव बढ़ता गया। हिन्द-फ़ारसी तारीख़नवीस रुपयों और इज़्ज़त की झड़पों का ज़िक्र करते हैं, उन सिपाहियों का जो उस शहर में मनमानी कर रहे थे जो सौदे और स्वाभिमान पर जीता था।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p05_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Tensions",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "grew",
+                "t": 712.0,
+                "d": 382.0
+              },
+              {
+                "w": "Indo-Persian",
+                "t": 1776.0,
+                "d": 807.0
+              },
+              {
+                "w": "chroniclers",
+                "t": 2584.0,
+                "d": 595.0
+              },
+              {
+                "w": "speak",
+                "t": 3179.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 3562.0,
+                "d": 171.0
+              },
+              {
+                "w": "quarrels",
+                "t": 3734.0,
+                "d": 509.0
+              },
+              {
+                "w": "over",
+                "t": 4243.0,
+                "d": 298.0
+              },
+              {
+                "w": "money",
+                "t": 4542.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 5010.0,
+                "d": 212.0
+              },
+              {
+                "w": "honour",
+                "t": 5265.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 6159.0,
+                "d": 297.0
+              },
+              {
+                "w": "soldiers",
+                "t": 6457.0,
+                "d": 595.0
+              },
+              {
+                "w": "taking",
+                "t": 7053.0,
+                "d": 382.0
+              },
+              {
+                "w": "what",
+                "t": 7436.0,
+                "d": 255.0
+              },
+              {
+                "w": "they",
+                "t": 7691.0,
+                "d": 212.0
+              },
+              {
+                "w": "wished",
+                "t": 7904.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 8244.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 8372.0,
+                "d": 85.0
+              },
+              {
+                "w": "city",
+                "t": 8457.0,
+                "d": 722.0
+              },
+              {
+                "w": "that",
+                "t": 9179.0,
+                "d": 298.0
+              },
+              {
+                "w": "lived",
+                "t": 9478.0,
+                "d": 339.0
+              },
+              {
+                "w": "on",
+                "t": 9818.0,
+                "d": 255.0
+              },
+              {
+                "w": "trade",
+                "t": 10073.0,
+                "d": 469.0
+              },
+              {
+                "w": "and",
+                "t": 10542.0,
+                "d": 254.0
+              },
+              {
+                "w": "pride",
+                "t": 10796.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p06.png",
+      "shot": "crowded market square shot, overhead oblique angle, chaos beginning",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Then, as later accounts agree, word raced through the bazaars: Nader Shah is dead. Whether from a scuffle, a misstep or pure rumour, the spark caught dry grass.",
+            "hi": "फिर, जैसा बाद की रिवायतें कहती हैं, ख़बर बाज़ारों में दौड़ गई: नादिर शाह मारा गया। मारपीट की, फिसलन की या महज़ अफवाह की, जो भी हो, चिंगारी सूखी घास पर जा गिरी।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p06_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Then",
+                "t": 74.0,
+                "d": 723.0
+              },
+              {
+                "w": "as",
+                "t": 840.0,
+                "d": 425.0
+              },
+              {
+                "w": "later",
+                "t": 1265.0,
+                "d": 425.0
+              },
+              {
+                "w": "accounts",
+                "t": 1691.0,
+                "d": 467.0
+              },
+              {
+                "w": "agree",
+                "t": 2158.0,
+                "d": 511.0
+              },
+              {
+                "w": "word",
+                "t": 3052.0,
+                "d": 468.0
+              },
+              {
+                "w": "raced",
+                "t": 3520.0,
+                "d": 426.0
+              },
+              {
+                "w": "through",
+                "t": 3946.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 4585.0,
+                "d": 127.0
+              },
+              {
+                "w": "bazaars",
+                "t": 4712.0,
+                "d": 553.0
+              },
+              {
+                "w": "Nader",
+                "t": 5861.0,
+                "d": 468.0
+              },
+              {
+                "w": "Shah",
+                "t": 6329.0,
+                "d": 340.0
+              },
+              {
+                "w": "is",
+                "t": 6712.0,
+                "d": 212.0
+              },
+              {
+                "w": "dead",
+                "t": 6925.0,
+                "d": 936.0
+              },
+              {
+                "w": "Whether",
+                "t": 8202.0,
+                "d": 424.0
+              },
+              {
+                "w": "from",
+                "t": 8626.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 8839.0,
+                "d": 43.0
+              },
+              {
+                "w": "scuffle",
+                "t": 8882.0,
+                "d": 808.0
+              },
+              {
+                "w": "a",
+                "t": 9776.0,
+                "d": 126.0
+              },
+              {
+                "w": "misstep",
+                "t": 9903.0,
+                "d": 681.0
+              },
+              {
+                "w": "or",
+                "t": 10585.0,
+                "d": 255.0
+              },
+              {
+                "w": "pure",
+                "t": 10840.0,
+                "d": 255.0
+              },
+              {
+                "w": "rumour",
+                "t": 11095.0,
+                "d": 595.0
+              },
+              {
+                "w": "the",
+                "t": 12030.0,
+                "d": 213.0
+              },
+              {
+                "w": "spark",
+                "t": 12244.0,
+                "d": 553.0
+              },
+              {
+                "w": "caught",
+                "t": 12797.0,
+                "d": 296.0
+              },
+              {
+                "w": "dry",
+                "t": 13094.0,
+                "d": 298.0
+              },
+              {
+                "w": "grass",
+                "t": 13393.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p07.png",
+      "shot": "fast, kinetic street-level shot with sharp diagonals, conveying erupting fury",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Believing the conqueror fallen, groups of townspeople fell upon isolated Persian bands. Anand Ram notes that in some quarters, Afsharid soldiers were attacked and cut down amidst cries of sudden courage.",
+            "hi": "फ़तह के बादशाह को मरा मानकर, शहर के झुंड, अलग-थलग फ़ारसी दलों पर टूट पड़े। आनंद राम लिखता है कि कई मुहल्लों में अफ़्शार सिपाहियों पर झपटकर, अचानाक उमड़ी हिम्मत की चीखों के बीच उन्हें काट गिराया गया।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p07_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Believing",
+                "t": 110.0,
+                "d": 440.0
+              },
+              {
+                "w": "the",
+                "t": 550.0,
+                "d": 120.0
+              },
+              {
+                "w": "conqueror",
+                "t": 670.0,
+                "d": 440.0
+              },
+              {
+                "w": "fallen",
+                "t": 1110.0,
+                "d": 560.0
+              },
+              {
+                "w": "groups",
+                "t": 1910.0,
+                "d": 439.0
+              },
+              {
+                "w": "of",
+                "t": 2349.0,
+                "d": 120.0
+              },
+              {
+                "w": "townspeople",
+                "t": 2469.0,
+                "d": 681.0
+              },
+              {
+                "w": "fell",
+                "t": 3150.0,
+                "d": 279.0
+              },
+              {
+                "w": "upon",
+                "t": 3429.0,
+                "d": 281.0
+              },
+              {
+                "w": "isolated",
+                "t": 3710.0,
+                "d": 680.0
+              },
+              {
+                "w": "Persian",
+                "t": 4390.0,
+                "d": 440.0
+              },
+              {
+                "w": "bands",
+                "t": 4830.0,
+                "d": 600.0
+              },
+              {
+                "w": "Anand",
+                "t": 5910.0,
+                "d": 360.0
+              },
+              {
+                "w": "Ram",
+                "t": 6270.0,
+                "d": 240.0
+              },
+              {
+                "w": "notes",
+                "t": 6510.0,
+                "d": 280.0
+              },
+              {
+                "w": "that",
+                "t": 6790.0,
+                "d": 200.0
+              },
+              {
+                "w": "in",
+                "t": 6990.0,
+                "d": 120.0
+              },
+              {
+                "w": "some",
+                "t": 7110.0,
+                "d": 320.0
+              },
+              {
+                "w": "quarters",
+                "t": 7430.0,
+                "d": 719.0
+              },
+              {
+                "w": "Afsharid",
+                "t": 8309.0,
+                "d": 481.0
+              },
+              {
+                "w": "soldiers",
+                "t": 8790.0,
+                "d": 480.0
+              },
+              {
+                "w": "were",
+                "t": 9270.0,
+                "d": 160.0
+              },
+              {
+                "w": "attacked",
+                "t": 9430.0,
+                "d": 480.0
+              },
+              {
+                "w": "and",
+                "t": 10069.0,
+                "d": 320.0
+              },
+              {
+                "w": "cut",
+                "t": 10389.0,
+                "d": 160.0
+              },
+              {
+                "w": "down",
+                "t": 10549.0,
+                "d": 321.0
+              },
+              {
+                "w": "amidst",
+                "t": 10870.0,
+                "d": 359.0
+              },
+              {
+                "w": "cries",
+                "t": 11229.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 11549.0,
+                "d": 121.0
+              },
+              {
+                "w": "sudden",
+                "t": 11670.0,
+                "d": 360.0
+              },
+              {
+                "w": "courage",
+                "t": 12030.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p08.png",
+      "shot": "wide city-lane shot, slightly elevated, to show scattered skirmishes without graphic detail",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Contemporary estimates speak of thousands of Persian soldiers killed in these sudden clashes. Yet the resistance was scattered, brief, and soon met an answering fury.",
+            "hi": "हमज़माना बयान कहते हैं कि इन छिटपुट झड़पों में हज़ारों फ़ारसी सिपाही मारे गए। मगर ये बग़ावत बिखरी हुई, थोड़ी देर की थी, और जल्दी ही उसके जवाब में तूफ़ान टूट पड़ा।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p08_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Contemporary",
+                "t": 70.0,
+                "d": 720.0
+              },
+              {
+                "w": "estimates",
+                "t": 790.0,
+                "d": 720.0
+              },
+              {
+                "w": "speak",
+                "t": 1550.0,
+                "d": 400.0
+              },
+              {
+                "w": "of",
+                "t": 1950.0,
+                "d": 200.0
+              },
+              {
+                "w": "thousands",
+                "t": 2150.0,
+                "d": 600.0
+              },
+              {
+                "w": "of",
+                "t": 2750.0,
+                "d": 239.0
+              },
+              {
+                "w": "Persian",
+                "t": 2989.0,
+                "d": 400.0
+              },
+              {
+                "w": "soldiers",
+                "t": 3389.0,
+                "d": 600.0
+              },
+              {
+                "w": "killed",
+                "t": 3989.0,
+                "d": 361.0
+              },
+              {
+                "w": "in",
+                "t": 4350.0,
+                "d": 240.0
+              },
+              {
+                "w": "these",
+                "t": 4590.0,
+                "d": 240.0
+              },
+              {
+                "w": "sudden",
+                "t": 4830.0,
+                "d": 320.0
+              },
+              {
+                "w": "clashes",
+                "t": 5150.0,
+                "d": 920.0
+              },
+              {
+                "w": "Yet",
+                "t": 6230.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 6550.0,
+                "d": 480.0
+              },
+              {
+                "w": "resistance",
+                "t": 7030.0,
+                "d": 560.0
+              },
+              {
+                "w": "was",
+                "t": 7590.0,
+                "d": 160.0
+              },
+              {
+                "w": "scattered",
+                "t": 7750.0,
+                "d": 719.0
+              },
+              {
+                "w": "brief",
+                "t": 8629.0,
+                "d": 600.0
+              },
+              {
+                "w": "and",
+                "t": 9350.0,
+                "d": 359.0
+              },
+              {
+                "w": "soon",
+                "t": 9709.0,
+                "d": 401.0
+              },
+              {
+                "w": "met",
+                "t": 10110.0,
+                "d": 240.0
+              },
+              {
+                "w": "an",
+                "t": 10350.0,
+                "d": 199.0
+              },
+              {
+                "w": "answering",
+                "t": 10590.0,
+                "d": 520.0
+              },
+              {
+                "w": "fury",
+                "t": 11110.0,
+                "d": 480.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p09.png",
+      "shot": "interior wide shot in a temporary Persian headquarters, focus on a messenger and Nader Shah",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When news of the killings reached Nader, the tone of his rule in Delhi changed. The chroniclers agree on what followed, though their numbers differ.",
+            "hi": "जब नादिर तक इन क़त्लों की ख़बर पहुँची, दिल्ली में उसकी बादशाहत का लहजा बदल गया। तारीख़नवीस आगे की बात पर मुतफ़िक़ हैं, बस गिनती में फ़र्क़ पड़ता है।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p09_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "news",
+                "t": 329.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 627.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 712.0,
+                "d": 127.0
+              },
+              {
+                "w": "killings",
+                "t": 840.0,
+                "d": 382.0
+              },
+              {
+                "w": "reached",
+                "t": 1223.0,
+                "d": 382.0
+              },
+              {
+                "w": "Nader",
+                "t": 1606.0,
+                "d": 765.0
+              },
+              {
+                "w": "the",
+                "t": 2372.0,
+                "d": 169.0
+              },
+              {
+                "w": "tone",
+                "t": 2541.0,
+                "d": 256.0
+              },
+              {
+                "w": "of",
+                "t": 2797.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 2925.0,
+                "d": 169.0
+              },
+              {
+                "w": "rule",
+                "t": 3094.0,
+                "d": 341.0
+              },
+              {
+                "w": "in",
+                "t": 3436.0,
+                "d": 211.0
+              },
+              {
+                "w": "Delhi",
+                "t": 3647.0,
+                "d": 298.0
+              },
+              {
+                "w": "changed",
+                "t": 3946.0,
+                "d": 638.0
+              },
+              {
+                "w": "The",
+                "t": 5180.0,
+                "d": 212.0
+              },
+              {
+                "w": "chroniclers",
+                "t": 5393.0,
+                "d": 595.0
+              },
+              {
+                "w": "agree",
+                "t": 5989.0,
+                "d": 297.0
+              },
+              {
+                "w": "on",
+                "t": 6287.0,
+                "d": 85.0
+              },
+              {
+                "w": "what",
+                "t": 6372.0,
+                "d": 212.0
+              },
+              {
+                "w": "followed",
+                "t": 6585.0,
+                "d": 1063.0
+              },
+              {
+                "w": "though",
+                "t": 7648.0,
+                "d": 255.0
+              },
+              {
+                "w": "their",
+                "t": 7904.0,
+                "d": 212.0
+              },
+              {
+                "w": "numbers",
+                "t": 8117.0,
+                "d": 424.0
+              },
+              {
+                "w": "differ",
+                "t": 8541.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p10.png",
+      "shot": "exterior wide shot of Sunehri Masjid in Chandni Chowk, slight low angle, massed troops below",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He rode to the Sunehri Masjid in Chandni Chowk. From there, say Abdul Karim and Rustam Ali, the order went out over the crowded square: a general massacre, qatl-i-am.",
+            "hi": "वो चाँदनी चौक की सुनेहरी मस्जिद तक घोड़ा दौड़ाता पहुँच गया। वहीं से, अब्दुल करीम और रुसतम अली लिखते हैं, ठसाठस भरे चौक पर हुक्म गूँज गया: आम क़त्ल, क़त्ल-ए-आम।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p10_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "rode",
+                "t": 270.0,
+                "d": 200.0
+              },
+              {
+                "w": "to",
+                "t": 470.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 550.0,
+                "d": 160.0
+              },
+              {
+                "w": "Sunehri",
+                "t": 710.0,
+                "d": 400.0
+              },
+              {
+                "w": "Masjid",
+                "t": 1110.0,
+                "d": 520.0
+              },
+              {
+                "w": "in",
+                "t": 1630.0,
+                "d": 200.0
+              },
+              {
+                "w": "Chandni",
+                "t": 1830.0,
+                "d": 479.0
+              },
+              {
+                "w": "Chowk",
+                "t": 2309.0,
+                "d": 881.0
+              },
+              {
+                "w": "From",
+                "t": 3389.0,
+                "d": 281.0
+              },
+              {
+                "w": "there",
+                "t": 3670.0,
+                "d": 600.0
+              },
+              {
+                "w": "say",
+                "t": 4310.0,
+                "d": 280.0
+              },
+              {
+                "w": "Abdul",
+                "t": 4590.0,
+                "d": 360.0
+              },
+              {
+                "w": "Karim",
+                "t": 4990.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 5350.0,
+                "d": 200.0
+              },
+              {
+                "w": "Rustam",
+                "t": 5550.0,
+                "d": 400.0
+              },
+              {
+                "w": "Ali",
+                "t": 5990.0,
+                "d": 360.0
+              },
+              {
+                "w": "the",
+                "t": 7070.0,
+                "d": 240.0
+              },
+              {
+                "w": "order",
+                "t": 7310.0,
+                "d": 320.0
+              },
+              {
+                "w": "went",
+                "t": 7630.0,
+                "d": 280.0
+              },
+              {
+                "w": "out",
+                "t": 7910.0,
+                "d": 239.0
+              },
+              {
+                "w": "over",
+                "t": 8189.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 8389.0,
+                "d": 160.0
+              },
+              {
+                "w": "crowded",
+                "t": 8549.0,
+                "d": 361.0
+              },
+              {
+                "w": "square",
+                "t": 8910.0,
+                "d": 1000.0
+              },
+              {
+                "w": "a",
+                "t": 9990.0,
+                "d": 200.0
+              },
+              {
+                "w": "general",
+                "t": 10190.0,
+                "d": 400.0
+              },
+              {
+                "w": "massacre",
+                "t": 10590.0,
+                "d": 559.0
+              },
+              {
+                "w": "qatl-i-am",
+                "t": 11510.0,
+                "d": 559.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p11.png",
+      "shot": "tight, dramatic close-up on Nader Shah’s raised arm and hard-set face, city blurred behind",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Eyewitnesses describe no long debate, no softening. In his eyes, the killing of his men by Delhi's people demanded an answer that would not be forgotten.",
+            "hi": "आँखों देखा हाल कहता है, न कोई लंबी बहस हुई, न नर्मी। उसकी नज़र में, दिल्ली वालों द्वारा उसके सिपाहियों का खून ऐसा सवाल था जिसका जवाब भुलाया न जा सके।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p11_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Eyewitnesses",
+                "t": 159.0,
+                "d": 723.0
+              },
+              {
+                "w": "describe",
+                "t": 882.0,
+                "d": 638.0
+              },
+              {
+                "w": "no",
+                "t": 1521.0,
+                "d": 297.0
+              },
+              {
+                "w": "long",
+                "t": 1819.0,
+                "d": 468.0
+              },
+              {
+                "w": "debate",
+                "t": 2287.0,
+                "d": 638.0
+              },
+              {
+                "w": "no",
+                "t": 3052.0,
+                "d": 298.0
+              },
+              {
+                "w": "softening",
+                "t": 3351.0,
+                "d": 1106.0
+              },
+              {
+                "w": "In",
+                "t": 4542.0,
+                "d": 382.0
+              },
+              {
+                "w": "his",
+                "t": 4925.0,
+                "d": 382.0
+              },
+              {
+                "w": "eyes",
+                "t": 5308.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 5478.0,
+                "d": 127.0
+              },
+              {
+                "w": "killing",
+                "t": 5606.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 5904.0,
+                "d": 85.0
+              },
+              {
+                "w": "his",
+                "t": 5989.0,
+                "d": 170.0
+              },
+              {
+                "w": "men",
+                "t": 6159.0,
+                "d": 297.0
+              },
+              {
+                "w": "by",
+                "t": 6457.0,
+                "d": 212.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 6670.0,
+                "d": 425.0
+              },
+              {
+                "w": "people",
+                "t": 7095.0,
+                "d": 425.0
+              },
+              {
+                "w": "demanded",
+                "t": 7521.0,
+                "d": 595.0
+              },
+              {
+                "w": "an",
+                "t": 8117.0,
+                "d": 255.0
+              },
+              {
+                "w": "answer",
+                "t": 8414.0,
+                "d": 764.0
+              },
+              {
+                "w": "that",
+                "t": 9223.0,
+                "d": 297.0
+              },
+              {
+                "w": "would",
+                "t": 9521.0,
+                "d": 211.0
+              },
+              {
+                "w": "not",
+                "t": 9732.0,
+                "d": 255.0
+              },
+              {
+                "w": "be",
+                "t": 9988.0,
+                "d": 170.0
+              },
+              {
+                "w": "forgotten",
+                "t": 10158.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p12.png",
+      "shot": "sweeping overhead shot over a Delhi neighbourhood, soldiers fanning out like a dark flood",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "For hours, Persian troops swept through Shahjahanabad's lanes. Indo-Persian and European reports alike speak of a city where, in many quarters, the invaders met little organised resistance.",
+            "hi": "घंटों तक फ़ारसी गिरोह शाहजहानाबाद की गलियों में बहते रहे। हिन्द-फ़ारसी और यूरोपीय लिखतें एक ऐसी दिल्ली की बातें करती हैं जहाँ कई हिस्सों में हमलावरों को ढंग की कोई संगठित मज़ाहमत नहीं मिली।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p12_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "For",
+                "t": 70.0,
+                "d": 320.0
+              },
+              {
+                "w": "hours",
+                "t": 390.0,
+                "d": 720.0
+              },
+              {
+                "w": "Persian",
+                "t": 1430.0,
+                "d": 440.0
+              },
+              {
+                "w": "troops",
+                "t": 1870.0,
+                "d": 479.0
+              },
+              {
+                "w": "swept",
+                "t": 2389.0,
+                "d": 440.0
+              },
+              {
+                "w": "through",
+                "t": 2829.0,
+                "d": 281.0
+              },
+              {
+                "w": "Shahjahanabad's",
+                "t": 3110.0,
+                "d": 960.0
+              },
+              {
+                "w": "lanes",
+                "t": 4070.0,
+                "d": 720.0
+              },
+              {
+                "w": "Indo-Persian",
+                "t": 5110.0,
+                "d": 840.0
+              },
+              {
+                "w": "and",
+                "t": 5950.0,
+                "d": 240.0
+              },
+              {
+                "w": "European",
+                "t": 6190.0,
+                "d": 440.0
+              },
+              {
+                "w": "reports",
+                "t": 6630.0,
+                "d": 480.0
+              },
+              {
+                "w": "alike",
+                "t": 7110.0,
+                "d": 320.0
+              },
+              {
+                "w": "speak",
+                "t": 7430.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 7750.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 7910.0,
+                "d": 40.0
+              },
+              {
+                "w": "city",
+                "t": 7950.0,
+                "d": 560.0
+              },
+              {
+                "w": "where",
+                "t": 8549.0,
+                "d": 401.0
+              },
+              {
+                "w": "in",
+                "t": 8950.0,
+                "d": 160.0
+              },
+              {
+                "w": "many",
+                "t": 9110.0,
+                "d": 279.0
+              },
+              {
+                "w": "quarters",
+                "t": 9389.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 10229.0,
+                "d": 240.0
+              },
+              {
+                "w": "invaders",
+                "t": 10469.0,
+                "d": 641.0
+              },
+              {
+                "w": "met",
+                "t": 11110.0,
+                "d": 279.0
+              },
+              {
+                "w": "little",
+                "t": 11389.0,
+                "d": 401.0
+              },
+              {
+                "w": "organised",
+                "t": 11790.0,
+                "d": 599.0
+              },
+              {
+                "w": "resistance",
+                "t": 12389.0,
+                "d": 840.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/delhi_s_six_hours_of_blood/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/delhi_s_six_hours_of_blood/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As Afsharid columns flood Delhi's lanes, the emperor stands exposed before his own fortress, torn between surrender and the slaughtered streets.",
+            "hi": "अफ़शारि सैनिक जब दिल्ली की गलियों में उमड़ पड़ते हैं, बादशाह अपने ही किले के सामने नंगा खड़ा है, सरेंडर करे या खून से सनी सड़कों पर डटा रहे।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/action/action_auto2_en.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "Afsharid",
+                "t": 350.0,
+                "d": 480.0
+              },
+              {
+                "w": "columns",
+                "t": 830.0,
+                "d": 440.0
+              },
+              {
+                "w": "flood",
+                "t": 1270.0,
+                "d": 280.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 1550.0,
+                "d": 440.0
+              },
+              {
+                "w": "lanes",
+                "t": 1990.0,
+                "d": 640.0
+              },
+              {
+                "w": "the",
+                "t": 2869.0,
+                "d": 201.0
+              },
+              {
+                "w": "emperor",
+                "t": 3070.0,
+                "d": 399.0
+              },
+              {
+                "w": "stands",
+                "t": 3469.0,
+                "d": 360.0
+              },
+              {
+                "w": "exposed",
+                "t": 3829.0,
+                "d": 641.0
+              },
+              {
+                "w": "before",
+                "t": 4510.0,
+                "d": 320.0
+              },
+              {
+                "w": "his",
+                "t": 4830.0,
+                "d": 160.0
+              },
+              {
+                "w": "own",
+                "t": 4990.0,
+                "d": 200.0
+              },
+              {
+                "w": "fortress",
+                "t": 5190.0,
+                "d": 880.0
+              },
+              {
+                "w": "torn",
+                "t": 6270.0,
+                "d": 320.0
+              },
+              {
+                "w": "between",
+                "t": 6590.0,
+                "d": 320.0
+              },
+              {
+                "w": "surrender",
+                "t": 6910.0,
+                "d": 640.0
+              },
+              {
+                "w": "and",
+                "t": 7550.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 7750.0,
+                "d": 120.0
+              },
+              {
+                "w": "slaughtered",
+                "t": 7870.0,
+                "d": 439.0
+              },
+              {
+                "w": "streets",
+                "t": 8309.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p13.png",
+      "shot": "mid-level lane shot focusing on civilians’ terror and submission rather than combat",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Mukhlis writes that a few offered opposition, but most were cut down or seized where they stood, unable or unwilling to fight trained soldiers in the maze of their own streets.",
+            "hi": "मुख़लिस लिखता है, कुछ लोगों ने टक्कर दी, पर ज़्यादातर वहीं के वहीं काट दिए गए या गिरफ़्तार हुए, अपनी ही गलियों की भूलभुलैया में पेशेवर फ़ौज से भिड़ने की हिम्मत या हुनर के बिना।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p13_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Mukhlis",
+                "t": 70.0,
+                "d": 480.0
+              },
+              {
+                "w": "writes",
+                "t": 550.0,
+                "d": 360.0
+              },
+              {
+                "w": "that",
+                "t": 910.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 1070.0,
+                "d": 40.0
+              },
+              {
+                "w": "few",
+                "t": 1110.0,
+                "d": 320.0
+              },
+              {
+                "w": "offered",
+                "t": 1430.0,
+                "d": 360.0
+              },
+              {
+                "w": "opposition",
+                "t": 1790.0,
+                "d": 920.0
+              },
+              {
+                "w": "but",
+                "t": 2750.0,
+                "d": 280.0
+              },
+              {
+                "w": "most",
+                "t": 3030.0,
+                "d": 439.0
+              },
+              {
+                "w": "were",
+                "t": 3469.0,
+                "d": 201.0
+              },
+              {
+                "w": "cut",
+                "t": 3670.0,
+                "d": 159.0
+              },
+              {
+                "w": "down",
+                "t": 3829.0,
+                "d": 361.0
+              },
+              {
+                "w": "or",
+                "t": 4190.0,
+                "d": 200.0
+              },
+              {
+                "w": "seized",
+                "t": 4390.0,
+                "d": 520.0
+              },
+              {
+                "w": "where",
+                "t": 4910.0,
+                "d": 240.0
+              },
+              {
+                "w": "they",
+                "t": 5150.0,
+                "d": 160.0
+              },
+              {
+                "w": "stood",
+                "t": 5310.0,
+                "d": 760.0
+              },
+              {
+                "w": "unable",
+                "t": 6070.0,
+                "d": 520.0
+              },
+              {
+                "w": "or",
+                "t": 6630.0,
+                "d": 200.0
+              },
+              {
+                "w": "unwilling",
+                "t": 6830.0,
+                "d": 520.0
+              },
+              {
+                "w": "to",
+                "t": 7350.0,
+                "d": 80.0
+              },
+              {
+                "w": "fight",
+                "t": 7430.0,
+                "d": 320.0
+              },
+              {
+                "w": "trained",
+                "t": 7750.0,
+                "d": 279.0
+              },
+              {
+                "w": "soldiers",
+                "t": 8029.0,
+                "d": 600.0
+              },
+              {
+                "w": "in",
+                "t": 8670.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 8790.0,
+                "d": 120.0
+              },
+              {
+                "w": "maze",
+                "t": 8910.0,
+                "d": 360.0
+              },
+              {
+                "w": "of",
+                "t": 9270.0,
+                "d": 160.0
+              },
+              {
+                "w": "their",
+                "t": 9430.0,
+                "d": 199.0
+              },
+              {
+                "w": "own",
+                "t": 9629.0,
+                "d": 201.0
+              },
+              {
+                "w": "streets",
+                "t": 9830.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p14.png",
+      "shot": "interior courtyard shot, intimate, emphasizing loss and fear",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Alongside the killing came seizure. Chroniclers and foreign letters speak of looting and the taking of captives, as houses were forced open and families broken apart.",
+            "hi": "क़त्ल के साथ छीना-झपटी भी चली। तारीख़ें और बाहरी ख़त लूट, गिरफ़्तारी और घरों के उज़ड़ने का ज़िक्र करते हैं, जब दरवाज़े तोड़कर खानदानों को अलग कर दिया गया।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p14_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Alongside",
+                "t": 80.0,
+                "d": 689.0
+              },
+              {
+                "w": "the",
+                "t": 770.0,
+                "d": 183.0
+              },
+              {
+                "w": "killing",
+                "t": 954.0,
+                "d": 459.0
+              },
+              {
+                "w": "came",
+                "t": 1413.0,
+                "d": 275.0
+              },
+              {
+                "w": "seizure",
+                "t": 1689.0,
+                "d": 505.0
+              },
+              {
+                "w": "Chroniclers",
+                "t": 3022.0,
+                "d": 780.0
+              },
+              {
+                "w": "and",
+                "t": 3803.0,
+                "d": 183.0
+              },
+              {
+                "w": "foreign",
+                "t": 3987.0,
+                "d": 367.0
+              },
+              {
+                "w": "letters",
+                "t": 4355.0,
+                "d": 414.0
+              },
+              {
+                "w": "speak",
+                "t": 4770.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 5137.0,
+                "d": 183.0
+              },
+              {
+                "w": "looting",
+                "t": 5321.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 5873.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 6057.0,
+                "d": 183.0
+              },
+              {
+                "w": "taking",
+                "t": 6241.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 6655.0,
+                "d": 183.0
+              },
+              {
+                "w": "captives",
+                "t": 6839.0,
+                "d": 1011.0
+              },
+              {
+                "w": "as",
+                "t": 8080.0,
+                "d": 275.0
+              },
+              {
+                "w": "houses",
+                "t": 8356.0,
+                "d": 413.0
+              },
+              {
+                "w": "were",
+                "t": 8770.0,
+                "d": 229.0
+              },
+              {
+                "w": "forced",
+                "t": 9000.0,
+                "d": 412.0
+              },
+              {
+                "w": "open",
+                "t": 9412.0,
+                "d": 736.0
+              },
+              {
+                "w": "and",
+                "t": 10195.0,
+                "d": 320.0
+              },
+              {
+                "w": "families",
+                "t": 10516.0,
+                "d": 551.0
+              },
+              {
+                "w": "broken",
+                "t": 11067.0,
+                "d": 414.0
+              },
+              {
+                "w": "apart",
+                "t": 11482.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p15.png",
+      "shot": "wide, smoky cityscape shot at a distance, showing fires and stillness after chaos",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By the time Nader called off the slaughter, perhaps tens of thousands lay dead by varying accounts. Delhi's noise, once of trade and song, fell into a stunned, smoky silence.",
+            "hi": "जब तक नादिर ने क़त्ल-ए-आम रुकवाया, अलग-अलग बयान के हिसाब से शायद दर्जनों हज़ार लोग ज़मीं पर पड़े थे। सौदे और गीतों से गूँजती दिल्ली की आवाज़ अब सन्नाटे और धुएँ में घुल गई।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p15_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 356.0,
+                "d": 137.0
+              },
+              {
+                "w": "time",
+                "t": 494.0,
+                "d": 413.0
+              },
+              {
+                "w": "Nader",
+                "t": 908.0,
+                "d": 413.0
+              },
+              {
+                "w": "called",
+                "t": 1321.0,
+                "d": 367.0
+              },
+              {
+                "w": "off",
+                "t": 1689.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 1873.0,
+                "d": 137.0
+              },
+              {
+                "w": "slaughter",
+                "t": 2011.0,
+                "d": 873.0
+              },
+              {
+                "w": "perhaps",
+                "t": 3160.0,
+                "d": 551.0
+              },
+              {
+                "w": "tens",
+                "t": 3712.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 4080.0,
+                "d": 137.0
+              },
+              {
+                "w": "thousands",
+                "t": 4218.0,
+                "d": 735.0
+              },
+              {
+                "w": "lay",
+                "t": 4954.0,
+                "d": 321.0
+              },
+              {
+                "w": "dead",
+                "t": 5275.0,
+                "d": 459.0
+              },
+              {
+                "w": "by",
+                "t": 5735.0,
+                "d": 275.0
+              },
+              {
+                "w": "varying",
+                "t": 6011.0,
+                "d": 413.0
+              },
+              {
+                "w": "accounts",
+                "t": 6425.0,
+                "d": 919.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 8356.0,
+                "d": 505.0
+              },
+              {
+                "w": "noise",
+                "t": 8862.0,
+                "d": 643.0
+              },
+              {
+                "w": "once",
+                "t": 9734.0,
+                "d": 414.0
+              },
+              {
+                "w": "of",
+                "t": 10149.0,
+                "d": 183.0
+              },
+              {
+                "w": "trade",
+                "t": 10333.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 10747.0,
+                "d": 275.0
+              },
+              {
+                "w": "song",
+                "t": 11022.0,
+                "d": 918.0
+              },
+              {
+                "w": "fell",
+                "t": 11988.0,
+                "d": 367.0
+              },
+              {
+                "w": "into",
+                "t": 12356.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 12678.0,
+                "d": 44.0
+              },
+              {
+                "w": "stunned",
+                "t": 12722.0,
+                "d": 782.0
+              },
+              {
+                "w": "smoky",
+                "t": 13597.0,
+                "d": 689.0
+              },
+              {
+                "w": "silence",
+                "t": 14287.0,
+                "d": 918.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p16.png",
+      "shot": "somber interior shot of the Diwan-i-Am or a hall in the Red Fort, wide and echoing",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "How does a king answer his people when words come too late?",
+            "hi": "जब ज़बान देर से खुले, तो बादशाह अपने लोगों को क्या जवाब दे?"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p16_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "How",
+                "t": 49.0,
+                "d": 196.1
+              },
+              {
+                "w": "does",
+                "t": 245.1,
+                "d": 294.1
+              },
+              {
+                "w": "a",
+                "t": 612.8,
+                "d": 85.8
+              },
+              {
+                "w": "king",
+                "t": 698.5,
+                "d": 294.1
+              },
+              {
+                "w": "answer",
+                "t": 1017.2,
+                "d": 428.9
+              },
+              {
+                "w": "his",
+                "t": 1446.1,
+                "d": 220.6
+              },
+              {
+                "w": "people",
+                "t": 1666.7,
+                "d": 416.7
+              },
+              {
+                "w": "when",
+                "t": 2083.3,
+                "d": 232.8
+              },
+              {
+                "w": "words",
+                "t": 2316.2,
+                "d": 428.9
+              },
+              {
+                "w": "come",
+                "t": 2745.1,
+                "d": 257.3
+              },
+              {
+                "w": "too",
+                "t": 3002.5,
+                "d": 134.8
+              },
+              {
+                "w": "late",
+                "t": 3137.2,
+                "d": 367.7
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/delhi_s_six_hours_of_blood/split_auto/s0.png",
+          "slogan": {
+            "en": "Delhi will remember this night",
+            "hi": "दिल्ली इस रात को याद रखेगी"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/delhi_s_six_hours_of_blood/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/delhi_s_six_hours_of_blood/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Amid plunder and ashes, Delhi's emperor and people lock their memories into stone, oaths, and ink, vowing this humiliation will be remembered.",
+            "hi": "लूट और राख के बीच, दिल्ली का बादशाह और लोग अपनी यादें पत्थर, कसमों और स्याही में बाँधकर कसम खाते हैं, ये जिल्लत हमेशा याद रहेगी।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/split/split_auto_en.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Amid",
+                "t": 72.0,
+                "d": 375.0
+              },
+              {
+                "w": "plunder",
+                "t": 447.0,
+                "d": 375.0
+              },
+              {
+                "w": "and",
+                "t": 822.0,
+                "d": 166.0
+              },
+              {
+                "w": "ashes",
+                "t": 989.0,
+                "d": 750.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 1906.0,
+                "d": 458.0
+              },
+              {
+                "w": "emperor",
+                "t": 2364.0,
+                "d": 748.0
+              },
+              {
+                "w": "and",
+                "t": 3113.0,
+                "d": 375.0
+              },
+              {
+                "w": "people",
+                "t": 3488.0,
+                "d": 376.0
+              },
+              {
+                "w": "lock",
+                "t": 3864.0,
+                "d": 248.0
+              },
+              {
+                "w": "their",
+                "t": 4113.0,
+                "d": 209.0
+              },
+              {
+                "w": "memories",
+                "t": 4322.0,
+                "d": 500.0
+              },
+              {
+                "w": "into",
+                "t": 4822.0,
+                "d": 291.0
+              },
+              {
+                "w": "stone",
+                "t": 5114.0,
+                "d": 875.0
+              },
+              {
+                "w": "oaths",
+                "t": 6072.0,
+                "d": 583.0
+              },
+              {
+                "w": "and",
+                "t": 6697.0,
+                "d": 291.0
+              },
+              {
+                "w": "ink",
+                "t": 6989.0,
+                "d": 583.0
+              },
+              {
+                "w": "vowing",
+                "t": 8072.0,
+                "d": 498.0
+              },
+              {
+                "w": "this",
+                "t": 8571.0,
+                "d": 209.0
+              },
+              {
+                "w": "humiliation",
+                "t": 8781.0,
+                "d": 748.0
+              },
+              {
+                "w": "will",
+                "t": 9530.0,
+                "d": 166.0
+              },
+              {
+                "w": "be",
+                "t": 9696.0,
+                "d": 83.0
+              },
+              {
+                "w": "remembered",
+                "t": 9780.0,
+                "d": 667.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p17.png",
+      "shot": "opulent interior shot of the Peacock Throne being dismantled, focus on artisans and soldiers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the days that followed, the qatl-i-am gave way to organised plunder. The Peacock Throne was stripped and carried off, and treasures like the Koh-i-Noor passed into Nader's possession.",
+            "hi": "अगले ही दिनों में क़त्ल-ए-आम की जगह बक़ायदा लूट ने ले ली। तख़्त-ए-ताउस उधेड़कर उठा लिया गया, और कोहिनूर जैसे ख़ज़ाने नादिर की झोली में चले गए।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p17_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 244.0,
+                "d": 127.0
+              },
+              {
+                "w": "days",
+                "t": 372.0,
+                "d": 212.0
+              },
+              {
+                "w": "that",
+                "t": 585.0,
+                "d": 212.0
+              },
+              {
+                "w": "followed",
+                "t": 797.0,
+                "d": 808.0
+              },
+              {
+                "w": "the",
+                "t": 1606.0,
+                "d": 212.0
+              },
+              {
+                "w": "qatl-i-am",
+                "t": 1819.0,
+                "d": 510.0
+              },
+              {
+                "w": "gave",
+                "t": 2329.0,
+                "d": 340.0
+              },
+              {
+                "w": "way",
+                "t": 2670.0,
+                "d": 212.0
+              },
+              {
+                "w": "to",
+                "t": 2882.0,
+                "d": 84.0
+              },
+              {
+                "w": "organised",
+                "t": 2967.0,
+                "d": 638.0
+              },
+              {
+                "w": "plunder",
+                "t": 3605.0,
+                "d": 767.0
+              },
+              {
+                "w": "The",
+                "t": 4755.0,
+                "d": 212.0
+              },
+              {
+                "w": "Peacock",
+                "t": 4968.0,
+                "d": 468.0
+              },
+              {
+                "w": "Throne",
+                "t": 5436.0,
+                "d": 340.0
+              },
+              {
+                "w": "was",
+                "t": 5776.0,
+                "d": 170.0
+              },
+              {
+                "w": "stripped",
+                "t": 5946.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 6414.0,
+                "d": 255.0
+              },
+              {
+                "w": "carried",
+                "t": 6670.0,
+                "d": 340.0
+              },
+              {
+                "w": "off",
+                "t": 7010.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 7734.0,
+                "d": 255.0
+              },
+              {
+                "w": "treasures",
+                "t": 7989.0,
+                "d": 510.0
+              },
+              {
+                "w": "like",
+                "t": 8500.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 8711.0,
+                "d": 127.0
+              },
+              {
+                "w": "Koh-i-Noor",
+                "t": 8839.0,
+                "d": 425.0
+              },
+              {
+                "w": "passed",
+                "t": 9264.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 9647.0,
+                "d": 213.0
+              },
+              {
+                "w": "Nader's",
+                "t": 9861.0,
+                "d": 381.0
+              },
+              {
+                "w": "possession",
+                "t": 10243.0,
+                "d": 767.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p18.png",
+      "shot": "grand riverbank shot of Nader Shah’s camp breaking along the Yamuna, with long columns readying to depart",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Nader Shah also fixed an immense indemnity, forcing Delhi and the court to yield yet more wealth. When his army finally left, it carried away fortunes that had taken generations to build.",
+            "hi": "नादिर शाह ने एक भारी भरकम मुआवज़ा भी ठोंक दिया, दिल्ली और दरबार को और दौलत उगलने पर मजबूर किया। जब उसकी फ़ौज आख़िर चली, तो सदियों की जमा पूँजी बोरियों में भरकर ले गई।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p18_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Nader",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "Shah",
+                "t": 457.0,
+                "d": 255.0
+              },
+              {
+                "w": "also",
+                "t": 712.0,
+                "d": 425.0
+              },
+              {
+                "w": "fixed",
+                "t": 1138.0,
+                "d": 340.0
+              },
+              {
+                "w": "an",
+                "t": 1478.0,
+                "d": 170.0
+              },
+              {
+                "w": "immense",
+                "t": 1648.0,
+                "d": 468.0
+              },
+              {
+                "w": "indemnity",
+                "t": 2117.0,
+                "d": 935.0
+              },
+              {
+                "w": "forcing",
+                "t": 3094.0,
+                "d": 595.0
+              },
+              {
+                "w": "Delhi",
+                "t": 3690.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 4414.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 4627.0,
+                "d": 170.0
+              },
+              {
+                "w": "court",
+                "t": 4797.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 5095.0,
+                "d": 127.0
+              },
+              {
+                "w": "yield",
+                "t": 5223.0,
+                "d": 468.0
+              },
+              {
+                "w": "yet",
+                "t": 5734.0,
+                "d": 382.0
+              },
+              {
+                "w": "more",
+                "t": 6117.0,
+                "d": 255.0
+              },
+              {
+                "w": "wealth",
+                "t": 6372.0,
+                "d": 425.0
+              },
+              {
+                "w": "When",
+                "t": 7691.0,
+                "d": 255.0
+              },
+              {
+                "w": "his",
+                "t": 7946.0,
+                "d": 170.0
+              },
+              {
+                "w": "army",
+                "t": 8117.0,
+                "d": 382.0
+              },
+              {
+                "w": "finally",
+                "t": 8500.0,
+                "d": 468.0
+              },
+              {
+                "w": "left",
+                "t": 8968.0,
+                "d": 638.0
+              },
+              {
+                "w": "it",
+                "t": 9691.0,
+                "d": 211.0
+              },
+              {
+                "w": "carried",
+                "t": 9903.0,
+                "d": 340.0
+              },
+              {
+                "w": "away",
+                "t": 10243.0,
+                "d": 213.0
+              },
+              {
+                "w": "fortunes",
+                "t": 10457.0,
+                "d": 893.0
+              },
+              {
+                "w": "that",
+                "t": 11392.0,
+                "d": 213.0
+              },
+              {
+                "w": "had",
+                "t": 11606.0,
+                "d": 127.0
+              },
+              {
+                "w": "taken",
+                "t": 11734.0,
+                "d": 381.0
+              },
+              {
+                "w": "generations",
+                "t": 12115.0,
+                "d": 681.0
+              },
+              {
+                "w": "to",
+                "t": 12797.0,
+                "d": 126.0
+              },
+              {
+                "w": "build",
+                "t": 12924.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p19",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p19.png",
+      "shot": "quiet, low-angle street shot years later, with repaired but aged buildings, focus on survivors",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "For the survivors, Delhi was never the same. Yet life crept back into its lanes, and stories of the six hours when the city bled were passed down with a mixture of grief and hard memory.",
+            "hi": "बचे हुओं के लिए दिल्ली फिर कभी वैसी नहीं रही। फिर भी, ज़िंदगी धीरे-धीरे गलियों में लौट आई, और शहर के वो छह घंटे, जब दिल्ली खून में नहाई, ग़म और कड़वी याद के साथ कहानी बनकर पीढ़ी-दर-पीढ़ी चलते रहे।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p19_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p19_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "For",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 137.0
+              },
+              {
+                "w": "survivors",
+                "t": 448.0,
+                "d": 1011.0
+              },
+              {
+                "w": "Delhi",
+                "t": 1689.0,
+                "d": 459.0
+              },
+              {
+                "w": "was",
+                "t": 2149.0,
+                "d": 182.0
+              },
+              {
+                "w": "never",
+                "t": 2332.0,
+                "d": 277.0
+              },
+              {
+                "w": "the",
+                "t": 2609.0,
+                "d": 182.0
+              },
+              {
+                "w": "same",
+                "t": 2791.0,
+                "d": 1242.0
+              },
+              {
+                "w": "Yet",
+                "t": 4218.0,
+                "d": 274.0
+              },
+              {
+                "w": "life",
+                "t": 4493.0,
+                "d": 368.0
+              },
+              {
+                "w": "crept",
+                "t": 4862.0,
+                "d": 275.0
+              },
+              {
+                "w": "back",
+                "t": 5137.0,
+                "d": 367.0
+              },
+              {
+                "w": "into",
+                "t": 5505.0,
+                "d": 275.0
+              },
+              {
+                "w": "its",
+                "t": 5781.0,
+                "d": 229.0
+              },
+              {
+                "w": "lanes",
+                "t": 6011.0,
+                "d": 965.0
+              },
+              {
+                "w": "and",
+                "t": 7114.0,
+                "d": 275.0
+              },
+              {
+                "w": "stories",
+                "t": 7390.0,
+                "d": 505.0
+              },
+              {
+                "w": "of",
+                "t": 7896.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 8034.0,
+                "d": 137.0
+              },
+              {
+                "w": "six",
+                "t": 8172.0,
+                "d": 275.0
+              },
+              {
+                "w": "hours",
+                "t": 8448.0,
+                "d": 551.0
+              },
+              {
+                "w": "when",
+                "t": 9000.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 9183.0,
+                "d": 136.0
+              },
+              {
+                "w": "city",
+                "t": 9320.0,
+                "d": 413.0
+              },
+              {
+                "w": "bled",
+                "t": 9734.0,
+                "d": 322.0
+              },
+              {
+                "w": "were",
+                "t": 10057.0,
+                "d": 229.0
+              },
+              {
+                "w": "passed",
+                "t": 10287.0,
+                "d": 412.0
+              },
+              {
+                "w": "down",
+                "t": 10700.0,
+                "d": 644.0
+              },
+              {
+                "w": "with",
+                "t": 11528.0,
+                "d": 275.0
+              },
+              {
+                "w": "a",
+                "t": 11804.0,
+                "d": 44.0
+              },
+              {
+                "w": "mixture",
+                "t": 11849.0,
+                "d": 552.0
+              },
+              {
+                "w": "of",
+                "t": 12402.0,
+                "d": 137.0
+              },
+              {
+                "w": "grief",
+                "t": 12540.0,
+                "d": 642.0
+              },
+              {
+                "w": "and",
+                "t": 13274.0,
+                "d": 231.0
+              },
+              {
+                "w": "hard",
+                "t": 13505.0,
+                "d": 321.0
+              },
+              {
+                "w": "memory",
+                "t": 13827.0,
+                "d": 643.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p20",
+      "art": "assets/delhi_s_six_hours_of_blood/img/p20.png",
+      "shot": "extreme close-up on a manuscript page being written, candlelight flickering, hand steady",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Because men like Anand Ram Mukhlis and Abdul Karim wrote what they saw and heard, Delhi's six hours of blood cannot be wished away. Their ink keeps both resistance and ruin from fading into legend.",
+            "hi": "क्योंकि आनंद राम मुख़लिस और अब्दुल करीम जैसे लोगों ने जो देखा-सुना, उसे लिख छोड़ा, दिल्ली के छह घंटे का खून अब मिटाया नहीं जा सकता। उनकी स्याही ने बग़ावत और बरबादी, दोनों को दास्तानों में घुलने से बचा लिया।"
+          },
+          "audio": {
+            "en": "assets/delhi_s_six_hours_of_blood/audio/en/p20_0.mp3",
+            "hi": "assets/delhi_s_six_hours_of_blood/audio/hi/p20_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Because",
+                "t": 74.0,
+                "d": 893.0
+              },
+              {
+                "w": "men",
+                "t": 1010.0,
+                "d": 340.0
+              },
+              {
+                "w": "like",
+                "t": 1351.0,
+                "d": 340.0
+              },
+              {
+                "w": "Anand",
+                "t": 1691.0,
+                "d": 340.0
+              },
+              {
+                "w": "Ram",
+                "t": 2031.0,
+                "d": 170.0
+              },
+              {
+                "w": "Mukhlis",
+                "t": 2202.0,
+                "d": 807.0
+              },
+              {
+                "w": "and",
+                "t": 3137.0,
+                "d": 341.0
+              },
+              {
+                "w": "Abdul",
+                "t": 3478.0,
+                "d": 425.0
+              },
+              {
+                "w": "Karim",
+                "t": 3904.0,
+                "d": 339.0
+              },
+              {
+                "w": "wrote",
+                "t": 4243.0,
+                "d": 298.0
+              },
+              {
+                "w": "what",
+                "t": 4542.0,
+                "d": 297.0
+              },
+              {
+                "w": "they",
+                "t": 4840.0,
+                "d": 170.0
+              },
+              {
+                "w": "saw",
+                "t": 5010.0,
+                "d": 212.0
+              },
+              {
+                "w": "and",
+                "t": 5223.0,
+                "d": 170.0
+              },
+              {
+                "w": "heard",
+                "t": 5393.0,
+                "d": 808.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 6585.0,
+                "d": 425.0
+              },
+              {
+                "w": "six",
+                "t": 7010.0,
+                "d": 340.0
+              },
+              {
+                "w": "hours",
+                "t": 7351.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 7648.0,
+                "d": 170.0
+              },
+              {
+                "w": "blood",
+                "t": 7819.0,
+                "d": 340.0
+              },
+              {
+                "w": "cannot",
+                "t": 8159.0,
+                "d": 381.0
+              },
+              {
+                "w": "be",
+                "t": 8541.0,
+                "d": 170.0
+              },
+              {
+                "w": "wished",
+                "t": 8711.0,
+                "d": 297.0
+              },
+              {
+                "w": "away",
+                "t": 9009.0,
+                "d": 1192.0
+              },
+              {
+                "w": "Their",
+                "t": 10287.0,
+                "d": 340.0
+              },
+              {
+                "w": "ink",
+                "t": 10627.0,
+                "d": 254.0
+              },
+              {
+                "w": "keeps",
+                "t": 10881.0,
+                "d": 340.0
+              },
+              {
+                "w": "both",
+                "t": 11222.0,
+                "d": 298.0
+              },
+              {
+                "w": "resistance",
+                "t": 11521.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 12456.0,
+                "d": 426.0
+              },
+              {
+                "w": "ruin",
+                "t": 12882.0,
+                "d": 296.0
+              },
+              {
+                "w": "from",
+                "t": 13179.0,
+                "d": 213.0
+              },
+              {
+                "w": "fading",
+                "t": 13393.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 13776.0,
+                "d": 255.0
+              },
+              {
+                "w": "legend",
+                "t": 14031.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Muhammad Shah Rangila",
+    "epithets": [
+      "Muhammad Shah Rangila",
+      "Timurid padshah of Hindustan",
+      "People of Shahjahanabad",
+      "Survivors of the Qatl‑i‑Am"
+    ],
+    "legend": "One rumor lit the city; six hours drowned it in blood."
+  }
+}
