@@ -1361,6 +1361,144 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_moving_shield_at_kup/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_moving_shield_at_kup/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Sensing the encirclement, Jassa Singh steels himself, weighing the lives of a people against the certainty of battle.",
+            "hi": "घेरा समझकर, जस्सा सिंह खुद को संभालता है, जंग की तय आग में अपनी कौम की जानें तोलता है।"
+          },
+          "audio": {
+            "en": "assets/the_moving_shield_at_kup/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_moving_shield_at_kup/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "steps",
+                "t": 356.0,
+                "d": 413.0
+              },
+              {
+                "w": "before",
+                "t": 770.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 1137.0,
+                "d": 137.0
+              },
+              {
+                "w": "wind-scoured",
+                "t": 1275.0,
+                "d": 643.0
+              },
+              {
+                "w": "plain",
+                "t": 1919.0,
+                "d": 505.0
+              },
+              {
+                "w": "vowing",
+                "t": 2837.0,
+                "d": 505.0
+              },
+              {
+                "w": "to",
+                "t": 3343.0,
+                "d": 139.0
+              },
+              {
+                "w": "be",
+                "t": 3482.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 3620.0,
+                "d": 182.0
+              },
+              {
+                "w": "shield",
+                "t": 3803.0,
+                "d": 414.0
+              },
+              {
+                "w": "between",
+                "t": 4218.0,
+                "d": 413.0
+              },
+              {
+                "w": "Abdali's",
+                "t": 4678.0,
+                "d": 597.0
+              },
+              {
+                "w": "lances",
+                "t": 5275.0,
+                "d": 781.0
+              },
+              {
+                "w": "and",
+                "t": 6103.0,
+                "d": 275.0
+              },
+              {
+                "w": "his",
+                "t": 6379.0,
+                "d": 229.0
+              },
+              {
+                "w": "people's",
+                "t": 6609.0,
+                "d": 781.0
+              },
+              {
+                "w": "fragile",
+                "t": 7436.0,
+                "d": 689.0
+              },
+              {
+                "w": "line",
+                "t": 8126.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p05",
       "art": "assets/the_moving_shield_at_kup/img/p05.png",
       "shot": "medium shot of Jassa Singh in council with other unseen chiefs, campfire light on his face",
@@ -1543,144 +1681,6 @@
                 "w": "moving",
                 "t": 15389.0,
                 "d": 644.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "action_auto",
-      "type": "action",
-      "mood": "suspense",
-      "bg": "assets/the_moving_shield_at_kup/action_auto/bg.png",
-      "chars": [
-        {
-          "img": "assets/the_moving_shield_at_kup/action_auto/char0.png",
-          "motion": {
-            "fromX": -40,
-            "toX": -10,
-            "fromScale": 0.82,
-            "toScale": 1.03,
-            "rot": -2,
-            "dur": 7200
-          }
-        }
-      ],
-      "motion": {
-        "bgZoom": 1.12,
-        "bgPan": -6,
-        "dur": 7200
-      },
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "He steps before the wind-scoured plain, vowing to be the shield between Abdali's lances and his people's fragile line.",
-            "hi": "वो आँधी सी धरती पर खड़ा, कसम खाता है — अब्दाली की बरछियों और अपनी कौम की नाज़ुक पंक्ति के बीच ढाल बनेगा।"
-          },
-          "audio": {
-            "en": "assets/the_moving_shield_at_kup/audio/action/action_auto_en.mp3",
-            "hi": "assets/the_moving_shield_at_kup/audio/action/action_auto_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "He",
-                "t": 80.0,
-                "d": 275.0
-              },
-              {
-                "w": "steps",
-                "t": 356.0,
-                "d": 413.0
-              },
-              {
-                "w": "before",
-                "t": 770.0,
-                "d": 367.0
-              },
-              {
-                "w": "the",
-                "t": 1137.0,
-                "d": 137.0
-              },
-              {
-                "w": "wind-scoured",
-                "t": 1275.0,
-                "d": 643.0
-              },
-              {
-                "w": "plain",
-                "t": 1919.0,
-                "d": 505.0
-              },
-              {
-                "w": "vowing",
-                "t": 2837.0,
-                "d": 505.0
-              },
-              {
-                "w": "to",
-                "t": 3343.0,
-                "d": 139.0
-              },
-              {
-                "w": "be",
-                "t": 3482.0,
-                "d": 137.0
-              },
-              {
-                "w": "the",
-                "t": 3620.0,
-                "d": 182.0
-              },
-              {
-                "w": "shield",
-                "t": 3803.0,
-                "d": 414.0
-              },
-              {
-                "w": "between",
-                "t": 4218.0,
-                "d": 413.0
-              },
-              {
-                "w": "Abdali's",
-                "t": 4678.0,
-                "d": 597.0
-              },
-              {
-                "w": "lances",
-                "t": 5275.0,
-                "d": 781.0
-              },
-              {
-                "w": "and",
-                "t": 6103.0,
-                "d": 275.0
-              },
-              {
-                "w": "his",
-                "t": 6379.0,
-                "d": 229.0
-              },
-              {
-                "w": "people's",
-                "t": 6609.0,
-                "d": 781.0
-              },
-              {
-                "w": "fragile",
-                "t": 7436.0,
-                "d": 689.0
-              },
-              {
-                "w": "line",
-                "t": 8126.0,
-                "d": 551.0
               }
             ],
             "hi": []
@@ -2976,8 +2976,8 @@
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "Amid mud and blood, he carves a path, dragging scattered fighters into one last living wall around the shattered caravan.",
-            "hi": "कीचड़ और खून के बीच, वो राह बनाता है, बिखरे सिपाहियों को घसीटकर टूटी काफिले के चारों ओर आख़िरी ज़िंदा दीवार खड़ी कर देता है।"
+            "en": "Grief hardens into purpose as Jassa Singh hurls himself back into the fray, determined that each step of retreat costs the enemy dearly.",
+            "hi": "ग़म अब इरादा बन चुका है, जस्सा सिंह फिर लड़ाई में कूद पड़ता है, कसम खाकर कि पीछे का हर क़दम दुश्मन पर भारी पड़े।"
           },
           "audio": {
             "en": "assets/the_moving_shield_at_kup/audio/action/action_auto2_en.mp3",
@@ -3549,6 +3549,128 @@
                 "w": "strength",
                 "t": 3406.9,
                 "d": 514.7
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_moving_shield_at_kup/split_auto/s0.png",
+          "slogan": {
+            "en": "From ashes, Khalsa rises again",
+            "hi": "राख से फिर खालसा उठेगा"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_moving_shield_at_kup/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_moving_shield_at_kup/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From ruin's ash, the Khalsa gathers its scattered strength, vowing that Punjab shall never again bow so easily.",
+            "hi": "खंडहरों की राख से खालसा बिखरी ताकत समेटता है, कसम कि पंजाब फिर कभी यूँ नहीं झुकेगा।"
+          },
+          "audio": {
+            "en": "assets/the_moving_shield_at_kup/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_moving_shield_at_kup/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "the",
+                "t": 364.0,
+                "d": 166.0
+              },
+              {
+                "w": "ashes",
+                "t": 531.0,
+                "d": 375.0
+              },
+              {
+                "w": "of",
+                "t": 906.0,
+                "d": 166.0
+              },
+              {
+                "w": "massacre",
+                "t": 1072.0,
+                "d": 583.0
+              },
+              {
+                "w": "his",
+                "t": 2113.0,
+                "d": 251.0
+              },
+              {
+                "w": "oath",
+                "t": 2364.0,
+                "d": 207.0
+              },
+              {
+                "w": "hardens",
+                "t": 2571.0,
+                "d": 709.0
+              },
+              {
+                "w": "the",
+                "t": 3988.0,
+                "d": 251.0
+              },
+              {
+                "w": "Khalsa",
+                "t": 4239.0,
+                "d": 458.0
+              },
+              {
+                "w": "will",
+                "t": 4697.0,
+                "d": 208.0
+              },
+              {
+                "w": "rise",
+                "t": 4906.0,
+                "d": 291.0
+              },
+              {
+                "w": "again",
+                "t": 5197.0,
+                "d": 666.0
+              },
+              {
+                "w": "unbroken",
+                "t": 6031.0,
+                "d": 1000.0
+              },
+              {
+                "w": "and",
+                "t": 7072.0,
+                "d": 375.0
+              },
+              {
+                "w": "unafraid",
+                "t": 7447.0,
+                "d": 915.0
               }
             ],
             "hi": []
