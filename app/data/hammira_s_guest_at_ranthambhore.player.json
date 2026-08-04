@@ -1,0 +1,4157 @@
+{
+  "id": "hammira_s_guest_at_ranthambhore",
+  "title": "Hammira's Guest at Ranthambhore",
+  "title_i18n": {
+    "en": "Hammira's Guest at Ranthambhore",
+    "hi": "रंथम्भोर में हम्मीर का मेहमान"
+  },
+  "figure": "Hammira",
+  "era": "Siege of Ranthambhore, 1299-1301 CE",
+  "moral": "An oath may outlive the ruler who keeps it.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/hammira_s_guest_at_ranthambhore/intro/hero.png",
+      "name": "Hammira of Ranthambhore",
+      "epithets": [
+        "Hammira Deva of Ranthambhore",
+        "Chahamana King of Ranthambhore",
+        "Last Chauhan of Ranthambhore",
+        "Defier of Alauddin Khalji"
+      ],
+      "legend": "He chose his guest’s oath over his own kingdom’s life.",
+      "era": "Siege of Ranthambhore, 1299-1301 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "A Rajput king shelters fugitive Mongols, then Alauddin's army darkens his walls. Will Hammira break his word to save Ranthambhore, or keep it and watch his world burn?",
+            "hi": "एक राजपूत राजा भागते मंगोलों को शरण देता है, तभी अलाउद्दीन की सेना उसके क़िले पर छा जाती है। क्या हम्मीर रणथंभौर बचाने को वचन तोड़ेगा, या निभाकर अपना संसार जलता देखेगा?"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/intro/hero_en.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "A",
+                "t": 72.0,
+                "d": 166.0
+              },
+              {
+                "w": "Rajput",
+                "t": 239.0,
+                "d": 583.0
+              },
+              {
+                "w": "king",
+                "t": 822.0,
+                "d": 208.0
+              },
+              {
+                "w": "shelters",
+                "t": 1031.0,
+                "d": 583.0
+              },
+              {
+                "w": "fugitive",
+                "t": 1614.0,
+                "d": 583.0
+              },
+              {
+                "w": "Mongols",
+                "t": 2197.0,
+                "d": 790.0
+              },
+              {
+                "w": "then",
+                "t": 3281.0,
+                "d": 332.0
+              },
+              {
+                "w": "Alauddin's",
+                "t": 3613.0,
+                "d": 667.0
+              },
+              {
+                "w": "army",
+                "t": 4281.0,
+                "d": 375.0
+              },
+              {
+                "w": "darkens",
+                "t": 4656.0,
+                "d": 458.0
+              },
+              {
+                "w": "his",
+                "t": 5114.0,
+                "d": 166.0
+              },
+              {
+                "w": "walls",
+                "t": 5281.0,
+                "d": 708.0
+              },
+              {
+                "w": "Will",
+                "t": 6697.0,
+                "d": 250.0
+              },
+              {
+                "w": "Hammira",
+                "t": 6947.0,
+                "d": 500.0
+              },
+              {
+                "w": "break",
+                "t": 7447.0,
+                "d": 291.0
+              },
+              {
+                "w": "his",
+                "t": 7739.0,
+                "d": 166.0
+              },
+              {
+                "w": "word",
+                "t": 7906.0,
+                "d": 291.0
+              },
+              {
+                "w": "to",
+                "t": 8197.0,
+                "d": 125.0
+              },
+              {
+                "w": "save",
+                "t": 8322.0,
+                "d": 332.0
+              },
+              {
+                "w": "Ranthambhore",
+                "t": 8655.0,
+                "d": 875.0
+              },
+              {
+                "w": "or",
+                "t": 9572.0,
+                "d": 290.0
+              },
+              {
+                "w": "keep",
+                "t": 9863.0,
+                "d": 250.0
+              },
+              {
+                "w": "it",
+                "t": 10113.0,
+                "d": 292.0
+              },
+              {
+                "w": "and",
+                "t": 10406.0,
+                "d": 248.0
+              },
+              {
+                "w": "watch",
+                "t": 10655.0,
+                "d": 333.0
+              },
+              {
+                "w": "his",
+                "t": 10988.0,
+                "d": 126.0
+              },
+              {
+                "w": "world",
+                "t": 11114.0,
+                "d": 291.0
+              },
+              {
+                "w": "burn",
+                "t": 11406.0,
+                "d": 457.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/hammira_s_guest_at_ranthambhore/intro/map.png",
+      "x": 0.46,
+      "y": 0.33,
+      "label": "Ranthambhore Fort, eastern Rajasthan",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In these dry hills and tiger-haunted cliffs, a stone fortress clings to life as armies, famine, and fire close in.",
+            "hi": "सूखी पहाड़ियों, बाघों वाले खडकों में एक पत्थर का किला जिद्दी खड़ा है, जबकि सेना, अकाल और आग उसे घेर रहे हैं।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/intro/map_en.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "these",
+                "t": 310.0,
+                "d": 321.0
+              },
+              {
+                "w": "dry",
+                "t": 632.0,
+                "d": 275.0
+              },
+              {
+                "w": "hills",
+                "t": 908.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 1321.0,
+                "d": 275.0
+              },
+              {
+                "w": "tiger-haunted",
+                "t": 1597.0,
+                "d": 734.0
+              },
+              {
+                "w": "cliffs",
+                "t": 2332.0,
+                "d": 367.0
+              },
+              {
+                "w": "a",
+                "t": 2700.0,
+                "d": 45.0
+              },
+              {
+                "w": "stone",
+                "t": 2745.0,
+                "d": 414.0
+              },
+              {
+                "w": "fortress",
+                "t": 3666.0,
+                "d": 826.0
+              },
+              {
+                "w": "clings",
+                "t": 4493.0,
+                "d": 322.0
+              },
+              {
+                "w": "to",
+                "t": 4816.0,
+                "d": 137.0
+              },
+              {
+                "w": "life",
+                "t": 4954.0,
+                "d": 505.0
+              },
+              {
+                "w": "as",
+                "t": 5459.0,
+                "d": 321.0
+              },
+              {
+                "w": "armies",
+                "t": 5781.0,
+                "d": 827.0
+              },
+              {
+                "w": "famine",
+                "t": 6655.0,
+                "d": 689.0
+              },
+              {
+                "w": "and",
+                "t": 7528.0,
+                "d": 367.0
+              },
+              {
+                "w": "fire",
+                "t": 7896.0,
+                "d": 459.0
+              },
+              {
+                "w": "close",
+                "t": 8356.0,
+                "d": 459.0
+              },
+              {
+                "w": "in",
+                "t": 8816.0,
+                "d": 412.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/cover.png",
+      "shot": "sweeping low-angle wide of Ranthambhore fort rising from sheer cliffs under a stormy sky",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At Ranthambhore, a Rajput king chose to shelter the Sultan's own rebel Mongols, and kept his oath until the fort, his line, and his life were all ground under the siege.",
+            "hi": "रंथम्भोर में एक राजपूत राजा ने सुल्तान के बाग़ी मंगोलों को शरण दी — और अपनी कसम निभाता रहा, जब तक किला, कुल और जान सब घेराबंदी में कुचल न गए।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/cover_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 110.0,
+                "d": 240.0
+              },
+              {
+                "w": "Ranthambhore",
+                "t": 350.0,
+                "d": 720.0
+              },
+              {
+                "w": "a",
+                "t": 1430.0,
+                "d": 160.0
+              },
+              {
+                "w": "Rajput",
+                "t": 1590.0,
+                "d": 520.0
+              },
+              {
+                "w": "king",
+                "t": 2110.0,
+                "d": 279.0
+              },
+              {
+                "w": "chose",
+                "t": 2389.0,
+                "d": 361.0
+              },
+              {
+                "w": "to",
+                "t": 2750.0,
+                "d": 119.0
+              },
+              {
+                "w": "shelter",
+                "t": 2869.0,
+                "d": 520.0
+              },
+              {
+                "w": "the",
+                "t": 3389.0,
+                "d": 121.0
+              },
+              {
+                "w": "Sultan's",
+                "t": 3510.0,
+                "d": 800.0
+              },
+              {
+                "w": "own",
+                "t": 4350.0,
+                "d": 360.0
+              },
+              {
+                "w": "rebel",
+                "t": 4710.0,
+                "d": 320.0
+              },
+              {
+                "w": "Mongols",
+                "t": 5030.0,
+                "d": 720.0
+              },
+              {
+                "w": "and",
+                "t": 5750.0,
+                "d": 400.0
+              },
+              {
+                "w": "kept",
+                "t": 6150.0,
+                "d": 240.0
+              },
+              {
+                "w": "his",
+                "t": 6390.0,
+                "d": 160.0
+              },
+              {
+                "w": "oath",
+                "t": 6550.0,
+                "d": 360.0
+              },
+              {
+                "w": "until",
+                "t": 6910.0,
+                "d": 360.0
+              },
+              {
+                "w": "the",
+                "t": 7270.0,
+                "d": 160.0
+              },
+              {
+                "w": "fort",
+                "t": 7430.0,
+                "d": 560.0
+              },
+              {
+                "w": "his",
+                "t": 8229.0,
+                "d": 320.0
+              },
+              {
+                "w": "line",
+                "t": 8549.0,
+                "d": 721.0
+              },
+              {
+                "w": "and",
+                "t": 9270.0,
+                "d": 199.0
+              },
+              {
+                "w": "his",
+                "t": 9469.0,
+                "d": 201.0
+              },
+              {
+                "w": "life",
+                "t": 9670.0,
+                "d": 320.0
+              },
+              {
+                "w": "were",
+                "t": 9990.0,
+                "d": 159.0
+              },
+              {
+                "w": "all",
+                "t": 10190.0,
+                "d": 279.0
+              },
+              {
+                "w": "ground",
+                "t": 10469.0,
+                "d": 441.0
+              },
+              {
+                "w": "under",
+                "t": 10910.0,
+                "d": 239.0
+              },
+              {
+                "w": "the",
+                "t": 11149.0,
+                "d": 160.0
+              },
+              {
+                "w": "siege",
+                "t": 11309.0,
+                "d": 641.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p01.png",
+      "shot": "wide establishing shot from a bird’s-eye view",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At the turn of the fourteenth century, Ranthambhore stood like a stone ship on a sea of ravines, one of north India's strongest forts and the heart of the Chahamana kingdom.",
+            "hi": "चौदहवीं सदी की दहलीज़ पर, रंथम्भोर खड्डों के समंदर में पत्थर के जहाज़ जैसा खड़ा था — उत्तर भारत के सबसे मजबूत किलों में से एक, चहमान राज्य का दिल।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p01_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 74.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 202.0,
+                "d": 127.0
+              },
+              {
+                "w": "turn",
+                "t": 329.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 585.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 670.0,
+                "d": 127.0
+              },
+              {
+                "w": "fourteenth",
+                "t": 797.0,
+                "d": 510.0
+              },
+              {
+                "w": "century",
+                "t": 1308.0,
+                "d": 850.0
+              },
+              {
+                "w": "Ranthambhore",
+                "t": 2202.0,
+                "d": 723.0
+              },
+              {
+                "w": "stood",
+                "t": 2925.0,
+                "d": 340.0
+              },
+              {
+                "w": "like",
+                "t": 3265.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 3478.0,
+                "d": 41.0
+              },
+              {
+                "w": "stone",
+                "t": 3520.0,
+                "d": 426.0
+              },
+              {
+                "w": "ship",
+                "t": 3946.0,
+                "d": 254.0
+              },
+              {
+                "w": "on",
+                "t": 4201.0,
+                "d": 128.0
+              },
+              {
+                "w": "a",
+                "t": 4329.0,
+                "d": 42.0
+              },
+              {
+                "w": "sea",
+                "t": 4372.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 4755.0,
+                "d": 212.0
+              },
+              {
+                "w": "ravines",
+                "t": 4968.0,
+                "d": 1148.0
+              },
+              {
+                "w": "one",
+                "t": 6159.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 6457.0,
+                "d": 127.0
+              },
+              {
+                "w": "north",
+                "t": 6585.0,
+                "d": 340.0
+              },
+              {
+                "w": "India's",
+                "t": 6925.0,
+                "d": 468.0
+              },
+              {
+                "w": "strongest",
+                "t": 7393.0,
+                "d": 595.0
+              },
+              {
+                "w": "forts",
+                "t": 7989.0,
+                "d": 850.0
+              },
+              {
+                "w": "and",
+                "t": 8839.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 9009.0,
+                "d": 128.0
+              },
+              {
+                "w": "heart",
+                "t": 9138.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 9478.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 9563.0,
+                "d": 127.0
+              },
+              {
+                "w": "Chahamana",
+                "t": 9691.0,
+                "d": 552.0
+              },
+              {
+                "w": "kingdom",
+                "t": 10243.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p02.png",
+      "shot": "medium shot in a dim audience hall",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hammira, the Chahamana ruler, had grown up in the shadow of the Delhi Sultanate's rise, watching his forefathers lose Ajmer and Delhi yet cling to these hills.",
+            "hi": "चहमान नरेश हम्मीर दिल्ली सल्तनत के उभार की छाया में बड़ा हुआ, अपने पुरखों को अजमेर और दिल्ली खोते देखता रहा, पर इन पहाड़ियों से चिपके रहते।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p02_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hammira",
+                "t": 80.0,
+                "d": 919.0
+              },
+              {
+                "w": "the",
+                "t": 1275.0,
+                "d": 275.0
+              },
+              {
+                "w": "Chahamana",
+                "t": 1551.0,
+                "d": 597.0
+              },
+              {
+                "w": "ruler",
+                "t": 2149.0,
+                "d": 504.0
+              },
+              {
+                "w": "had",
+                "t": 2837.0,
+                "d": 367.0
+              },
+              {
+                "w": "grown",
+                "t": 3205.0,
+                "d": 368.0
+              },
+              {
+                "w": "up",
+                "t": 3574.0,
+                "d": 137.0
+              },
+              {
+                "w": "in",
+                "t": 3712.0,
+                "d": 90.0
+              },
+              {
+                "w": "the",
+                "t": 3803.0,
+                "d": 137.0
+              },
+              {
+                "w": "shadow",
+                "t": 3941.0,
+                "d": 459.0
+              },
+              {
+                "w": "of",
+                "t": 4401.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 4585.0,
+                "d": 139.0
+              },
+              {
+                "w": "Delhi",
+                "t": 4724.0,
+                "d": 321.0
+              },
+              {
+                "w": "Sultanate's",
+                "t": 5045.0,
+                "d": 689.0
+              },
+              {
+                "w": "rise",
+                "t": 5735.0,
+                "d": 643.0
+              },
+              {
+                "w": "watching",
+                "t": 6885.0,
+                "d": 551.0
+              },
+              {
+                "w": "his",
+                "t": 7436.0,
+                "d": 229.0
+              },
+              {
+                "w": "forefathers",
+                "t": 7666.0,
+                "d": 735.0
+              },
+              {
+                "w": "lose",
+                "t": 8402.0,
+                "d": 413.0
+              },
+              {
+                "w": "Ajmer",
+                "t": 8816.0,
+                "d": 781.0
+              },
+              {
+                "w": "and",
+                "t": 9642.0,
+                "d": 322.0
+              },
+              {
+                "w": "Delhi",
+                "t": 9965.0,
+                "d": 367.0
+              },
+              {
+                "w": "yet",
+                "t": 10333.0,
+                "d": 1057.0
+              },
+              {
+                "w": "cling",
+                "t": 11390.0,
+                "d": 274.0
+              },
+              {
+                "w": "to",
+                "t": 11665.0,
+                "d": 139.0
+              },
+              {
+                "w": "these",
+                "t": 11804.0,
+                "d": 275.0
+              },
+              {
+                "w": "hills",
+                "t": 12080.0,
+                "d": 642.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p03.png",
+      "shot": "tight medium of Hammira with a messenger",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "To the north, Alauddin Khalji, fresh from Devagiri and Gujarat, was turning Delhi into a center of wealth and iron law, wary above all of the Mongol horsemen who kept testing his frontiers.",
+            "hi": "उत्तरी ओर, अलाउद्दीन ख़िलजी — देवगिरि और गुजरात फतह कर के — दिल्ली को दौलत और लोहे की सख़्त क़ानून का अड्डा बना रहा था, सबसे ज़्यादा चौकन्ना मंगोल घुड़सवारों से जो उसकी सरहदें परखते रहते।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p03_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "To",
+                "t": 74.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 202.0,
+                "d": 170.0
+              },
+              {
+                "w": "north",
+                "t": 372.0,
+                "d": 425.0
+              },
+              {
+                "w": "Alauddin",
+                "t": 1095.0,
+                "d": 553.0
+              },
+              {
+                "w": "Khalji",
+                "t": 1648.0,
+                "d": 595.0
+              },
+              {
+                "w": "fresh",
+                "t": 2498.0,
+                "d": 426.0
+              },
+              {
+                "w": "from",
+                "t": 2925.0,
+                "d": 254.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 3179.0,
+                "d": 554.0
+              },
+              {
+                "w": "and",
+                "t": 3734.0,
+                "d": 212.0
+              },
+              {
+                "w": "Gujarat",
+                "t": 3946.0,
+                "d": 638.0
+              },
+              {
+                "w": "was",
+                "t": 4925.0,
+                "d": 297.0
+              },
+              {
+                "w": "turning",
+                "t": 5223.0,
+                "d": 425.0
+              },
+              {
+                "w": "Delhi",
+                "t": 5648.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 6031.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 6372.0,
+                "d": 42.0
+              },
+              {
+                "w": "center",
+                "t": 6414.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 6840.0,
+                "d": 170.0
+              },
+              {
+                "w": "wealth",
+                "t": 7010.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 7351.0,
+                "d": 297.0
+              },
+              {
+                "w": "iron",
+                "t": 7648.0,
+                "d": 297.0
+              },
+              {
+                "w": "law",
+                "t": 7946.0,
+                "d": 764.0
+              },
+              {
+                "w": "wary",
+                "t": 8968.0,
+                "d": 468.0
+              },
+              {
+                "w": "above",
+                "t": 9436.0,
+                "d": 425.0
+              },
+              {
+                "w": "all",
+                "t": 9903.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 10158.0,
+                "d": 128.0
+              },
+              {
+                "w": "the",
+                "t": 10287.0,
+                "d": 127.0
+              },
+              {
+                "w": "Mongol",
+                "t": 10414.0,
+                "d": 467.0
+              },
+              {
+                "w": "horsemen",
+                "t": 10881.0,
+                "d": 681.0
+              },
+              {
+                "w": "who",
+                "t": 11563.0,
+                "d": 255.0
+              },
+              {
+                "w": "kept",
+                "t": 11819.0,
+                "d": 296.0
+              },
+              {
+                "w": "testing",
+                "t": 12115.0,
+                "d": 426.0
+              },
+              {
+                "w": "his",
+                "t": 12542.0,
+                "d": 170.0
+              },
+              {
+                "w": "frontiers",
+                "t": 12712.0,
+                "d": 851.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p04.png",
+      "shot": "wide shot of a winter plain near Delhi",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Some Mongols had entered the Sultan's service, guarding his frontiers. But in twelve ninety-nine, a faction rebelled near Delhi, their rising crushed, their leaders hunted.",
+            "hi": "कुछ मंगोल सुल्तान की सेवा में थे, उसकी सरहदों की रखवाली करते। पर 1299 में एक गुट ने दिल्ली के पास बग़ावत की, बग़ावत कुचल दी गई, उनके सरदार शिकारी बने।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p04_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Some",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "Mongols",
+                "t": 448.0,
+                "d": 505.0
+              },
+              {
+                "w": "had",
+                "t": 954.0,
+                "d": 183.0
+              },
+              {
+                "w": "entered",
+                "t": 1137.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 1597.0,
+                "d": 137.0
+              },
+              {
+                "w": "Sultan's",
+                "t": 1735.0,
+                "d": 596.0
+              },
+              {
+                "w": "service",
+                "t": 2332.0,
+                "d": 736.0
+              },
+              {
+                "w": "guarding",
+                "t": 3114.0,
+                "d": 505.0
+              },
+              {
+                "w": "his",
+                "t": 3620.0,
+                "d": 137.0
+              },
+              {
+                "w": "frontiers",
+                "t": 3758.0,
+                "d": 1057.0
+              },
+              {
+                "w": "But",
+                "t": 5321.0,
+                "d": 229.0
+              },
+              {
+                "w": "in",
+                "t": 5551.0,
+                "d": 137.0
+              },
+              {
+                "w": "twelve",
+                "t": 5689.0,
+                "d": 321.0
+              },
+              {
+                "w": "ninety-nine",
+                "t": 6011.0,
+                "d": 827.0
+              },
+              {
+                "w": "a",
+                "t": 7114.0,
+                "d": 137.0
+              },
+              {
+                "w": "faction",
+                "t": 7252.0,
+                "d": 597.0
+              },
+              {
+                "w": "rebelled",
+                "t": 7850.0,
+                "d": 505.0
+              },
+              {
+                "w": "near",
+                "t": 8356.0,
+                "d": 275.0
+              },
+              {
+                "w": "Delhi",
+                "t": 8632.0,
+                "d": 459.0
+              },
+              {
+                "w": "their",
+                "t": 9550.0,
+                "d": 367.0
+              },
+              {
+                "w": "rising",
+                "t": 9918.0,
+                "d": 414.0
+              },
+              {
+                "w": "crushed",
+                "t": 10333.0,
+                "d": 642.0
+              },
+              {
+                "w": "their",
+                "t": 11390.0,
+                "d": 229.0
+              },
+              {
+                "w": "leaders",
+                "t": 11620.0,
+                "d": 412.0
+              },
+              {
+                "w": "hunted",
+                "t": 12033.0,
+                "d": 644.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p05.png",
+      "shot": "medium at a gatehouse",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Some of these fugitive Mongols rode south and east, seeking asylum. The chronicles record that a band reached Ranthambhore and asked Hammira for shelter.",
+            "hi": "इन भागे हुए मंगोलों में कुछ दक्षिण और पूरब की तरफ़ भागे, पनाह खोजते। इतिहास में दर्ज है कि एक दल रंथम्भोर पहुँचा और हम्मीर से शरण माँगी।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p05_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Some",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 414.0,
+                "d": 85.0
+              },
+              {
+                "w": "these",
+                "t": 500.0,
+                "d": 340.0
+              },
+              {
+                "w": "fugitive",
+                "t": 840.0,
+                "d": 510.0
+              },
+              {
+                "w": "Mongols",
+                "t": 1351.0,
+                "d": 595.0
+              },
+              {
+                "w": "rode",
+                "t": 1946.0,
+                "d": 297.0
+              },
+              {
+                "w": "south",
+                "t": 2244.0,
+                "d": 381.0
+              },
+              {
+                "w": "and",
+                "t": 2626.0,
+                "d": 171.0
+              },
+              {
+                "w": "east",
+                "t": 2797.0,
+                "d": 169.0
+              },
+              {
+                "w": "seeking",
+                "t": 2967.0,
+                "d": 341.0
+              },
+              {
+                "w": "asylum",
+                "t": 3478.0,
+                "d": 1702.0
+              },
+              {
+                "w": "The",
+                "t": 5308.0,
+                "d": 212.0
+              },
+              {
+                "w": "chronicles",
+                "t": 5521.0,
+                "d": 595.0
+              },
+              {
+                "w": "record",
+                "t": 6117.0,
+                "d": 638.0
+              },
+              {
+                "w": "that",
+                "t": 6797.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 6968.0,
+                "d": 127.0
+              },
+              {
+                "w": "band",
+                "t": 7095.0,
+                "d": 425.0
+              },
+              {
+                "w": "reached",
+                "t": 7521.0,
+                "d": 382.0
+              },
+              {
+                "w": "Ranthambhore",
+                "t": 7946.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 8839.0,
+                "d": 298.0
+              },
+              {
+                "w": "asked",
+                "t": 9138.0,
+                "d": 425.0
+              },
+              {
+                "w": "Hammira",
+                "t": 9563.0,
+                "d": 424.0
+              },
+              {
+                "w": "for",
+                "t": 9988.0,
+                "d": 213.0
+              },
+              {
+                "w": "shelter",
+                "t": 10202.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p06.png",
+      "shot": "close-up on Hammira’s face",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here the traditions agree: Hammira accepted them. A Hindu Rajput king opened his great fort to Muslim Mongols who had defied the Muslim Sultan of Delhi.",
+            "hi": "यहाँ सब परंपराएँ मानती हैं: हम्मीर ने उन्हें स्वीकार कर लिया। एक हिंदू राजपूत राजा ने अपने महान किले के दरवाज़े उन मुस्लिम मंगोलों पर खोले जो दिल्ली के मुस्लिम सुल्तान से भिड़ गए थे।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p06_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "traditions",
+                "t": 414.0,
+                "d": 553.0
+              },
+              {
+                "w": "agree",
+                "t": 968.0,
+                "d": 382.0
+              },
+              {
+                "w": "Hammira",
+                "t": 2031.0,
+                "d": 552.0
+              },
+              {
+                "w": "accepted",
+                "t": 2584.0,
+                "d": 681.0
+              },
+              {
+                "w": "them",
+                "t": 3265.0,
+                "d": 850.0
+              },
+              {
+                "w": "A",
+                "t": 4201.0,
+                "d": 128.0
+              },
+              {
+                "w": "Hindu",
+                "t": 4329.0,
+                "d": 340.0
+              },
+              {
+                "w": "Rajput",
+                "t": 4670.0,
+                "d": 553.0
+              },
+              {
+                "w": "king",
+                "t": 5223.0,
+                "d": 255.0
+              },
+              {
+                "w": "opened",
+                "t": 5521.0,
+                "d": 382.0
+              },
+              {
+                "w": "his",
+                "t": 5904.0,
+                "d": 170.0
+              },
+              {
+                "w": "great",
+                "t": 6074.0,
+                "d": 297.0
+              },
+              {
+                "w": "fort",
+                "t": 6372.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 6712.0,
+                "d": 127.0
+              },
+              {
+                "w": "Muslim",
+                "t": 6840.0,
+                "d": 382.0
+              },
+              {
+                "w": "Mongols",
+                "t": 7223.0,
+                "d": 851.0
+              },
+              {
+                "w": "who",
+                "t": 8244.0,
+                "d": 212.0
+              },
+              {
+                "w": "had",
+                "t": 8457.0,
+                "d": 126.0
+              },
+              {
+                "w": "defied",
+                "t": 8584.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 9094.0,
+                "d": 128.0
+              },
+              {
+                "w": "Muslim",
+                "t": 9223.0,
+                "d": 340.0
+              },
+              {
+                "w": "Sultan",
+                "t": 9563.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 10031.0,
+                "d": 170.0
+              },
+              {
+                "w": "Delhi",
+                "t": 10202.0,
+                "d": 382.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/hammira_s_guest_at_ranthambhore/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/hammira_s_guest_at_ranthambhore/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Having chosen honor over fear, Hammira surveys the horizon, measuring the cost of sheltering enemies of the Sultan.",
+            "hi": "डर नहीं, सम्मान चुनकर, हम्मीर दूर तक देखता है, सुल्तान के दुश्मनों को शरण देने की कीमत तोलता हुआ।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/action/action_auto_en.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Having",
+                "t": 80.0,
+                "d": 413.0
+              },
+              {
+                "w": "chosen",
+                "t": 494.0,
+                "d": 505.0
+              },
+              {
+                "w": "honor",
+                "t": 1000.0,
+                "d": 367.0
+              },
+              {
+                "w": "over",
+                "t": 1367.0,
+                "d": 321.0
+              },
+              {
+                "w": "fear",
+                "t": 1689.0,
+                "d": 642.0
+              },
+              {
+                "w": "Hammira",
+                "t": 2745.0,
+                "d": 597.0
+              },
+              {
+                "w": "surveys",
+                "t": 3343.0,
+                "d": 551.0
+              },
+              {
+                "w": "the",
+                "t": 3895.0,
+                "d": 139.0
+              },
+              {
+                "w": "horizon",
+                "t": 4034.0,
+                "d": 827.0
+              },
+              {
+                "w": "measuring",
+                "t": 5183.0,
+                "d": 505.0
+              },
+              {
+                "w": "the",
+                "t": 5689.0,
+                "d": 183.0
+              },
+              {
+                "w": "cost",
+                "t": 5873.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 6241.0,
+                "d": 137.0
+              },
+              {
+                "w": "sheltering",
+                "t": 6379.0,
+                "d": 643.0
+              },
+              {
+                "w": "enemies",
+                "t": 7022.0,
+                "d": 643.0
+              },
+              {
+                "w": "of",
+                "t": 7666.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 7850.0,
+                "d": 137.0
+              },
+              {
+                "w": "Sultan",
+                "t": 7988.0,
+                "d": 735.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p07.png",
+      "shot": "wide overhead shot of Delhi court",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When news reached Alauddin that his Mongol rebels had found refuge with Hammira, he demanded their surrender. It was a test of submission as much as of loyalty.",
+            "hi": "जब अलाउद्दीन को खबर मिली कि उसके बाग़ी मंगोल हम्मीर के यहाँ शरण पा गए हैं, उसने उन्हें सौंपने की माँग की। यह जितना वफ़ादारी का, उतना ही सर झुकाने का इम्तिहान था।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p07_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "news",
+                "t": 287.0,
+                "d": 382.0
+              },
+              {
+                "w": "reached",
+                "t": 670.0,
+                "d": 382.0
+              },
+              {
+                "w": "Alauddin",
+                "t": 1053.0,
+                "d": 936.0
+              },
+              {
+                "w": "that",
+                "t": 1989.0,
+                "d": 212.0
+              },
+              {
+                "w": "his",
+                "t": 2202.0,
+                "d": 170.0
+              },
+              {
+                "w": "Mongol",
+                "t": 2372.0,
+                "d": 510.0
+              },
+              {
+                "w": "rebels",
+                "t": 2882.0,
+                "d": 425.0
+              },
+              {
+                "w": "had",
+                "t": 3308.0,
+                "d": 211.0
+              },
+              {
+                "w": "found",
+                "t": 3520.0,
+                "d": 298.0
+              },
+              {
+                "w": "refuge",
+                "t": 3819.0,
+                "d": 510.0
+              },
+              {
+                "w": "with",
+                "t": 4329.0,
+                "d": 170.0
+              },
+              {
+                "w": "Hammira",
+                "t": 4500.0,
+                "d": 765.0
+              },
+              {
+                "w": "he",
+                "t": 5478.0,
+                "d": 382.0
+              },
+              {
+                "w": "demanded",
+                "t": 5861.0,
+                "d": 510.0
+              },
+              {
+                "w": "their",
+                "t": 6372.0,
+                "d": 212.0
+              },
+              {
+                "w": "surrender",
+                "t": 6585.0,
+                "d": 893.0
+              },
+              {
+                "w": "It",
+                "t": 7734.0,
+                "d": 212.0
+              },
+              {
+                "w": "was",
+                "t": 7946.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 8074.0,
+                "d": 127.0
+              },
+              {
+                "w": "test",
+                "t": 8202.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 8500.0,
+                "d": 84.0
+              },
+              {
+                "w": "submission",
+                "t": 8584.0,
+                "d": 680.0
+              },
+              {
+                "w": "as",
+                "t": 9308.0,
+                "d": 297.0
+              },
+              {
+                "w": "much",
+                "t": 9606.0,
+                "d": 340.0
+              },
+              {
+                "w": "as",
+                "t": 9946.0,
+                "d": 170.0
+              },
+              {
+                "w": "of",
+                "t": 10117.0,
+                "d": 170.0
+              },
+              {
+                "w": "loyalty",
+                "t": 10287.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p08.png",
+      "shot": "medium shot in council chamber",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hammira refused to deliver them. The court kavyas later frame it as a matter of honor and asylum; the Sultanate chroniclers record simply that he did not obey.",
+            "hi": "हम्मीर ने उन्हें सौंपने से साफ़ मना कर दिया। दरबारी कव्यों में यह मान–सम्मान और शरण का सवाल है; सल्तनती इतिहास बस दर्ज करते हैं कि उसने हुक्म नहीं माना।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p08_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hammira",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "refused",
+                "t": 585.0,
+                "d": 510.0
+              },
+              {
+                "w": "to",
+                "t": 1095.0,
+                "d": 127.0
+              },
+              {
+                "w": "deliver",
+                "t": 1223.0,
+                "d": 382.0
+              },
+              {
+                "w": "them",
+                "t": 1606.0,
+                "d": 808.0
+              },
+              {
+                "w": "The court",
+                "t": 2584.0,
+                "d": 509.0
+              },
+              {
+                "w": "kavyas",
+                "t": 3094.0,
+                "d": 468.0
+              },
+              {
+                "w": "later",
+                "t": 3562.0,
+                "d": 384.0
+              },
+              {
+                "w": "frame",
+                "t": 3946.0,
+                "d": 382.0
+              },
+              {
+                "w": "it",
+                "t": 4329.0,
+                "d": 170.0
+              },
+              {
+                "w": "as",
+                "t": 4500.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 4712.0,
+                "d": 42.0
+              },
+              {
+                "w": "matter",
+                "t": 4755.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 5095.0,
+                "d": 212.0
+              },
+              {
+                "w": "honor",
+                "t": 5308.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 5691.0,
+                "d": 212.0
+              },
+              {
+                "w": "asylum",
+                "t": 5904.0,
+                "d": 1234.0
+              },
+              {
+                "w": "the",
+                "t": 7138.0,
+                "d": 212.0
+              },
+              {
+                "w": "Sultanate",
+                "t": 7351.0,
+                "d": 553.0
+              },
+              {
+                "w": "chroniclers",
+                "t": 7904.0,
+                "d": 595.0
+              },
+              {
+                "w": "record",
+                "t": 8500.0,
+                "d": 424.0
+              },
+              {
+                "w": "simply",
+                "t": 8924.0,
+                "d": 426.0
+              },
+              {
+                "w": "that",
+                "t": 9351.0,
+                "d": 212.0
+              },
+              {
+                "w": "he",
+                "t": 9563.0,
+                "d": 169.0
+              },
+              {
+                "w": "did",
+                "t": 9732.0,
+                "d": 213.0
+              },
+              {
+                "w": "not",
+                "t": 9946.0,
+                "d": 255.0
+              },
+              {
+                "w": "obey",
+                "t": 10202.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p09.png",
+      "shot": "wide shot of marching army",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Alauddin chose war. In twelve ninety-nine he sent his general Ulugh Khan and Nusrat Khan towards Ranthambhore, beginning a campaign that would stretch on and harden into siege.",
+            "hi": "अलाउद्दीन ने जंग चुनी। 1299 में उसने अपने सरदार उलूग ख़ाँ और नुसरत ख़ाँ को रंथम्भोर की ओर रवाना किया, एक लम्बी मुहिम शुरू हुई जो सख़्त घेराबंदी में बदल गई।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p09_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Alauddin",
+                "t": 70.0,
+                "d": 600.0
+              },
+              {
+                "w": "chose",
+                "t": 670.0,
+                "d": 320.0
+              },
+              {
+                "w": "war",
+                "t": 990.0,
+                "d": 480.0
+              },
+              {
+                "w": "In",
+                "t": 1910.0,
+                "d": 200.0
+              },
+              {
+                "w": "twelve",
+                "t": 2110.0,
+                "d": 359.0
+              },
+              {
+                "w": "ninety-nine",
+                "t": 2469.0,
+                "d": 641.0
+              },
+              {
+                "w": "he",
+                "t": 3110.0,
+                "d": 160.0
+              },
+              {
+                "w": "sent",
+                "t": 3270.0,
+                "d": 159.0
+              },
+              {
+                "w": "his",
+                "t": 3429.0,
+                "d": 641.0
+              },
+              {
+                "w": "general",
+                "t": 4070.0,
+                "d": 440.0
+              },
+              {
+                "w": "Ulugh",
+                "t": 4510.0,
+                "d": 240.0
+              },
+              {
+                "w": "Khan",
+                "t": 4750.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 5190.0,
+                "d": 240.0
+              },
+              {
+                "w": "Nusrat",
+                "t": 5430.0,
+                "d": 400.0
+              },
+              {
+                "w": "Khan",
+                "t": 5830.0,
+                "d": 440.0
+              },
+              {
+                "w": "towards",
+                "t": 6310.0,
+                "d": 320.0
+              },
+              {
+                "w": "Ranthambhore",
+                "t": 6630.0,
+                "d": 720.0
+              },
+              {
+                "w": "beginning",
+                "t": 7790.0,
+                "d": 480.0
+              },
+              {
+                "w": "a",
+                "t": 8270.0,
+                "d": 80.0
+              },
+              {
+                "w": "campaign",
+                "t": 8350.0,
+                "d": 480.0
+              },
+              {
+                "w": "that",
+                "t": 8830.0,
+                "d": 160.0
+              },
+              {
+                "w": "would",
+                "t": 8990.0,
+                "d": 200.0
+              },
+              {
+                "w": "stretch",
+                "t": 9190.0,
+                "d": 320.0
+              },
+              {
+                "w": "on",
+                "t": 9510.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 9950.0,
+                "d": 320.0
+              },
+              {
+                "w": "harden",
+                "t": 10270.0,
+                "d": 320.0
+              },
+              {
+                "w": "into",
+                "t": 10590.0,
+                "d": 280.0
+              },
+              {
+                "w": "siege",
+                "t": 10870.0,
+                "d": 640.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p10.png",
+      "shot": "dramatic wide at fort outskirts",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hammira's forces met them in the field more than once. The details differ across texts, but the core remains: skirmishes, sorties, and the long drawing of a noose.",
+            "hi": "हम्मीर की सेना उनसे मैदान में कई बार भिड़ी। तफ़सीलें ग्रंथों में बदलती हैं, पर सार वही है: झड़पें, धावे, और घिरते फंदे की लम्बी कसावट।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p10_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hammira's",
+                "t": 117.0,
+                "d": 553.0
+              },
+              {
+                "w": "forces",
+                "t": 670.0,
+                "d": 468.0
+              },
+              {
+                "w": "met",
+                "t": 1138.0,
+                "d": 255.0
+              },
+              {
+                "w": "them",
+                "t": 1393.0,
+                "d": 212.0
+              },
+              {
+                "w": "in",
+                "t": 1606.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 1691.0,
+                "d": 127.0
+              },
+              {
+                "w": "field",
+                "t": 1819.0,
+                "d": 297.0
+              },
+              {
+                "w": "more",
+                "t": 2117.0,
+                "d": 255.0
+              },
+              {
+                "w": "than",
+                "t": 2372.0,
+                "d": 169.0
+              },
+              {
+                "w": "once",
+                "t": 2541.0,
+                "d": 638.0
+              },
+              {
+                "w": "The",
+                "t": 3605.0,
+                "d": 213.0
+              },
+              {
+                "w": "details",
+                "t": 3819.0,
+                "d": 468.0
+              },
+              {
+                "w": "differ",
+                "t": 4287.0,
+                "d": 425.0
+              },
+              {
+                "w": "across",
+                "t": 4712.0,
+                "d": 425.0
+              },
+              {
+                "w": "texts",
+                "t": 5138.0,
+                "d": 978.0
+              },
+              {
+                "w": "but",
+                "t": 6202.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 6414.0,
+                "d": 170.0
+              },
+              {
+                "w": "core",
+                "t": 6585.0,
+                "d": 255.0
+              },
+              {
+                "w": "remains",
+                "t": 6840.0,
+                "d": 638.0
+              },
+              {
+                "w": "skirmishes",
+                "t": 7861.0,
+                "d": 764.0
+              },
+              {
+                "w": "sorties",
+                "t": 8626.0,
+                "d": 1235.0
+              },
+              {
+                "w": "and",
+                "t": 9946.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 10202.0,
+                "d": 126.0
+              },
+              {
+                "w": "long",
+                "t": 10328.0,
+                "d": 341.0
+              },
+              {
+                "w": "drawing",
+                "t": 10670.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 11010.0,
+                "d": 126.0
+              },
+              {
+                "w": "a",
+                "t": 11137.0,
+                "d": 43.0
+              },
+              {
+                "w": "noose",
+                "t": 11180.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p11.png",
+      "shot": "medium chaotic battlefield shot",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the fighting around Ranthambhore, Nusrat Khan was killed. Even Alauddin's court poet Amir Khusrau notes this loss, a blow that turned the Sultan's attention wholly to this siege.",
+            "hi": "रंथम्भोर के आसपास की लड़ाइयों में नुसरत ख़ाँ मारा गया। अलाउद्दीन के दरबारी शायर अमीर ख़ुसरो भी इस नुक़सान को लिखते हैं — ऐसा वार जिसने सुल्तान का ध्यान पूरा इसी घेराबंदी पर जमा दिया।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p11_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 190.0,
+                "d": 120.0
+              },
+              {
+                "w": "fighting",
+                "t": 310.0,
+                "d": 360.0
+              },
+              {
+                "w": "around",
+                "t": 670.0,
+                "d": 280.0
+              },
+              {
+                "w": "Ranthambhore",
+                "t": 950.0,
+                "d": 800.0
+              },
+              {
+                "w": "Nusrat",
+                "t": 1950.0,
+                "d": 479.0
+              },
+              {
+                "w": "Khan",
+                "t": 2429.0,
+                "d": 241.0
+              },
+              {
+                "w": "was",
+                "t": 2670.0,
+                "d": 239.0
+              },
+              {
+                "w": "killed",
+                "t": 2909.0,
+                "d": 761.0
+              },
+              {
+                "w": "Even",
+                "t": 4030.0,
+                "d": 400.0
+              },
+              {
+                "w": "Alauddin's",
+                "t": 4430.0,
+                "d": 600.0
+              },
+              {
+                "w": "court",
+                "t": 5030.0,
+                "d": 280.0
+              },
+              {
+                "w": "poet",
+                "t": 5310.0,
+                "d": 320.0
+              },
+              {
+                "w": "Amir",
+                "t": 5630.0,
+                "d": 320.0
+              },
+              {
+                "w": "Khusrau",
+                "t": 5950.0,
+                "d": 360.0
+              },
+              {
+                "w": "notes",
+                "t": 6310.0,
+                "d": 280.0
+              },
+              {
+                "w": "this",
+                "t": 6590.0,
+                "d": 200.0
+              },
+              {
+                "w": "loss",
+                "t": 6790.0,
+                "d": 520.0
+              },
+              {
+                "w": "a",
+                "t": 7510.0,
+                "d": 240.0
+              },
+              {
+                "w": "blow",
+                "t": 7750.0,
+                "d": 240.0
+              },
+              {
+                "w": "that",
+                "t": 7990.0,
+                "d": 199.0
+              },
+              {
+                "w": "turned",
+                "t": 8189.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 8469.0,
+                "d": 121.0
+              },
+              {
+                "w": "Sultan's",
+                "t": 8590.0,
+                "d": 520.0
+              },
+              {
+                "w": "attention",
+                "t": 9110.0,
+                "d": 480.0
+              },
+              {
+                "w": "wholly",
+                "t": 9590.0,
+                "d": 440.0
+              },
+              {
+                "w": "to",
+                "t": 10030.0,
+                "d": 119.0
+              },
+              {
+                "w": "this",
+                "t": 10149.0,
+                "d": 160.0
+              },
+              {
+                "w": "siege",
+                "t": 10309.0,
+                "d": 641.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p12.png",
+      "shot": "low-angle shot of Alauddin outside Ranthambhore",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Alauddin came in person. By thirteen oh one, the Sultan had ringed Ranthambhore with his own presence, determined that the fort and its defiant ruler must fall.",
+            "hi": "अलाउद्दीन खुद चला आया। 1301 तक सुल्तान ने अपनी मौजूदगी से रंथम्भोर को घेर लिया, ठान लिया कि किला और उसका सरकश मालिक अब गिर कर ही रहेंगे।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p12_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Alauddin",
+                "t": 117.0,
+                "d": 595.0
+              },
+              {
+                "w": "came",
+                "t": 712.0,
+                "d": 255.0
+              },
+              {
+                "w": "in",
+                "t": 968.0,
+                "d": 85.0
+              },
+              {
+                "w": "person",
+                "t": 1053.0,
+                "d": 765.0
+              },
+              {
+                "w": "By",
+                "t": 2244.0,
+                "d": 296.0
+              },
+              {
+                "w": "thirteen",
+                "t": 2541.0,
+                "d": 468.0
+              },
+              {
+                "w": "oh",
+                "t": 3009.0,
+                "d": 85.0
+              },
+              {
+                "w": "one",
+                "t": 3094.0,
+                "d": 852.0
+              },
+              {
+                "w": "the",
+                "t": 3946.0,
+                "d": 211.0
+              },
+              {
+                "w": "Sultan",
+                "t": 4158.0,
+                "d": 511.0
+              },
+              {
+                "w": "had",
+                "t": 4670.0,
+                "d": 255.0
+              },
+              {
+                "w": "ringed",
+                "t": 4925.0,
+                "d": 382.0
+              },
+              {
+                "w": "Ranthambhore",
+                "t": 5308.0,
+                "d": 808.0
+              },
+              {
+                "w": "with",
+                "t": 6117.0,
+                "d": 170.0
+              },
+              {
+                "w": "his",
+                "t": 6287.0,
+                "d": 170.0
+              },
+              {
+                "w": "own",
+                "t": 6457.0,
+                "d": 297.0
+              },
+              {
+                "w": "presence",
+                "t": 6755.0,
+                "d": 723.0
+              },
+              {
+                "w": "determined",
+                "t": 8031.0,
+                "d": 679.0
+              },
+              {
+                "w": "that",
+                "t": 8711.0,
+                "d": 171.0
+              },
+              {
+                "w": "the",
+                "t": 8882.0,
+                "d": 170.0
+              },
+              {
+                "w": "fort",
+                "t": 9053.0,
+                "d": 679.0
+              },
+              {
+                "w": "and",
+                "t": 9776.0,
+                "d": 211.0
+              },
+              {
+                "w": "its",
+                "t": 9988.0,
+                "d": 213.0
+              },
+              {
+                "w": "defiant",
+                "t": 10202.0,
+                "d": 553.0
+              },
+              {
+                "w": "ruler",
+                "t": 10755.0,
+                "d": 296.0
+              },
+              {
+                "w": "must",
+                "t": 11052.0,
+                "d": 426.0
+              },
+              {
+                "w": "fall",
+                "t": 11478.0,
+                "d": 467.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p13.png",
+      "shot": "wide shot of siege lines",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The siege tightened. Siege towers crept forward, trenches were dug, and the hill-fort's defenders watched their world slowly encircled by canvas, wood, and steel.",
+            "hi": "घेराबंदी कसती गई। घेरने वाले मीनारें रेंगते हुए आगे बढ़ीं, खाइयाँ खोदी गईं, और पहाड़ी किले के रक्षक अपना जहान चुपचाप कपड़े, लकड़ी और लोहे के घेरे में घिरता देखते रहे।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p13_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "siege",
+                "t": 270.0,
+                "d": 480.0
+              },
+              {
+                "w": "tightened",
+                "t": 750.0,
+                "d": 720.0
+              },
+              {
+                "w": "Siege",
+                "t": 2110.0,
+                "d": 480.0
+              },
+              {
+                "w": "towers",
+                "t": 2590.0,
+                "d": 440.0
+              },
+              {
+                "w": "crept",
+                "t": 3030.0,
+                "d": 319.0
+              },
+              {
+                "w": "forward",
+                "t": 3349.0,
+                "d": 1041.0
+              },
+              {
+                "w": "trenches",
+                "t": 4390.0,
+                "d": 520.0
+              },
+              {
+                "w": "were",
+                "t": 4910.0,
+                "d": 200.0
+              },
+              {
+                "w": "dug",
+                "t": 5110.0,
+                "d": 720.0
+              },
+              {
+                "w": "and",
+                "t": 6030.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 6230.0,
+                "d": 120.0
+              },
+              {
+                "w": "hill-fort's",
+                "t": 6350.0,
+                "d": 480.0
+              },
+              {
+                "w": "defenders",
+                "t": 6830.0,
+                "d": 560.0
+              },
+              {
+                "w": "watched",
+                "t": 7390.0,
+                "d": 400.0
+              },
+              {
+                "w": "their",
+                "t": 7790.0,
+                "d": 200.0
+              },
+              {
+                "w": "world",
+                "t": 7990.0,
+                "d": 280.0
+              },
+              {
+                "w": "slowly",
+                "t": 8270.0,
+                "d": 439.0
+              },
+              {
+                "w": "encircled",
+                "t": 8709.0,
+                "d": 561.0
+              },
+              {
+                "w": "by",
+                "t": 9270.0,
+                "d": 199.0
+              },
+              {
+                "w": "canvas",
+                "t": 9469.0,
+                "d": 760.0
+              },
+              {
+                "w": "wood",
+                "t": 10350.0,
+                "d": 640.0
+              },
+              {
+                "w": "and",
+                "t": 10990.0,
+                "d": 280.0
+              },
+              {
+                "w": "steel",
+                "t": 11270.0,
+                "d": 320.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p14.png",
+      "shot": "medium shot on the ramparts",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Inside, food and hope thinned. Khusrau and Barani both speak of famine within the fort, grain dwindling, animals slaughtered, men and women facing hunger as keen as any spear.",
+            "hi": "अन्दर खाने और उम्मीद दोनों घटने लगे। ख़ुसरो और बरनी दोनों किले के भीतर अकाल की बात करते हैं — अनाज चुकता गया, जानवर काटे गए, मर्द–औरत भाले जितनी तीखी भूख से भिड़ते रहे।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p14_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Inside",
+                "t": 70.0,
+                "d": 880.0
+              },
+              {
+                "w": "food",
+                "t": 990.0,
+                "d": 800.0
+              },
+              {
+                "w": "and",
+                "t": 1830.0,
+                "d": 240.0
+              },
+              {
+                "w": "hope",
+                "t": 2070.0,
+                "d": 399.0
+              },
+              {
+                "w": "thinned",
+                "t": 2469.0,
+                "d": 561.0
+              },
+              {
+                "w": "Khusrau",
+                "t": 3710.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 4150.0,
+                "d": 160.0
+              },
+              {
+                "w": "Barani",
+                "t": 4310.0,
+                "d": 440.0
+              },
+              {
+                "w": "both",
+                "t": 4750.0,
+                "d": 280.0
+              },
+              {
+                "w": "speak",
+                "t": 5030.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 5350.0,
+                "d": 80.0
+              },
+              {
+                "w": "famine",
+                "t": 5430.0,
+                "d": 400.0
+              },
+              {
+                "w": "within",
+                "t": 5830.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 6070.0,
+                "d": 160.0
+              },
+              {
+                "w": "fort",
+                "t": 6230.0,
+                "d": 800.0
+              },
+              {
+                "w": "grain",
+                "t": 7030.0,
+                "d": 440.0
+              },
+              {
+                "w": "dwindling",
+                "t": 7470.0,
+                "d": 800.0
+              },
+              {
+                "w": "animals",
+                "t": 8309.0,
+                "d": 400.0
+              },
+              {
+                "w": "slaughtered",
+                "t": 8709.0,
+                "d": 881.0
+              },
+              {
+                "w": "men",
+                "t": 9790.0,
+                "d": 320.0
+              },
+              {
+                "w": "and",
+                "t": 10110.0,
+                "d": 119.0
+              },
+              {
+                "w": "women",
+                "t": 10229.0,
+                "d": 361.0
+              },
+              {
+                "w": "facing",
+                "t": 10590.0,
+                "d": 440.0
+              },
+              {
+                "w": "hunger",
+                "t": 11030.0,
+                "d": 560.0
+              },
+              {
+                "w": "as",
+                "t": 11590.0,
+                "d": 400.0
+              },
+              {
+                "w": "keen",
+                "t": 11990.0,
+                "d": 319.0
+              },
+              {
+                "w": "as",
+                "t": 12309.0,
+                "d": 281.0
+              },
+              {
+                "w": "any",
+                "t": 12590.0,
+                "d": 320.0
+              },
+              {
+                "w": "spear",
+                "t": 12910.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/hammira_s_guest_at_ranthambhore/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/hammira_s_guest_at_ranthambhore/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As drums echo through the ravines, Hammira steels his men, vowing the hill-fort will blaze before it bows.",
+            "hi": "घाटियों में नगाड़े गूंज रहे हैं, हम्मीर अपने जवानों को कसता है, कसम खाकर कहता है किला जलेगा पर झुकेगा नहीं।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/action/action_auto2_en.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "drums",
+                "t": 310.0,
+                "d": 440.0
+              },
+              {
+                "w": "echo",
+                "t": 750.0,
+                "d": 320.0
+              },
+              {
+                "w": "through",
+                "t": 1070.0,
+                "d": 720.0
+              },
+              {
+                "w": "the",
+                "t": 1790.0,
+                "d": 320.0
+              },
+              {
+                "w": "ravines",
+                "t": 2590.0,
+                "d": 560.0
+              },
+              {
+                "w": "Hammira",
+                "t": 3150.0,
+                "d": 440.0
+              },
+              {
+                "w": "steels",
+                "t": 3590.0,
+                "d": 239.0
+              },
+              {
+                "w": "his",
+                "t": 3829.0,
+                "d": 120.0
+              },
+              {
+                "w": "men",
+                "t": 3949.0,
+                "d": 121.0
+              },
+              {
+                "w": "vowing",
+                "t": 4390.0,
+                "d": 520.0
+              },
+              {
+                "w": "the",
+                "t": 4910.0,
+                "d": 120.0
+              },
+              {
+                "w": "hill-fort",
+                "t": 5030.0,
+                "d": 480.0
+              },
+              {
+                "w": "will",
+                "t": 5510.0,
+                "d": 240.0
+              },
+              {
+                "w": "blaze",
+                "t": 5750.0,
+                "d": 400.0
+              },
+              {
+                "w": "before",
+                "t": 6150.0,
+                "d": 360.0
+              },
+              {
+                "w": "it",
+                "t": 6510.0,
+                "d": 80.0
+              },
+              {
+                "w": "bows",
+                "t": 6590.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p15.png",
+      "shot": "somber interior wide",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The garrison was not only warriors. The siege pressed on merchants, artisans, priests, and families, all trapped atop the hill, each day a little more desperate than the last.",
+            "hi": "किले में सिर्फ़ जाँबाज़ ही नहीं थे। घेराबंदी ने सौदागरों, कारीगरों, पुरोहितों और परिवारों को भी दबोच लिया, सब पहाड़ी पर फँसे, हर दिन पिछली से ज़्यादा बेक़रार।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p15_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "garrison",
+                "t": 270.0,
+                "d": 440.0
+              },
+              {
+                "w": "was",
+                "t": 710.0,
+                "d": 200.0
+              },
+              {
+                "w": "not",
+                "t": 910.0,
+                "d": 240.0
+              },
+              {
+                "w": "only",
+                "t": 1150.0,
+                "d": 280.0
+              },
+              {
+                "w": "warriors",
+                "t": 1430.0,
+                "d": 800.0
+              },
+              {
+                "w": "The",
+                "t": 2630.0,
+                "d": 199.0
+              },
+              {
+                "w": "siege",
+                "t": 2829.0,
+                "d": 520.0
+              },
+              {
+                "w": "pressed",
+                "t": 3349.0,
+                "d": 321.0
+              },
+              {
+                "w": "on",
+                "t": 3670.0,
+                "d": 159.0
+              },
+              {
+                "w": "merchants",
+                "t": 3829.0,
+                "d": 761.0
+              },
+              {
+                "w": "artisans",
+                "t": 4630.0,
+                "d": 920.0
+              },
+              {
+                "w": "priests",
+                "t": 5590.0,
+                "d": 640.0
+              },
+              {
+                "w": "and",
+                "t": 6230.0,
+                "d": 240.0
+              },
+              {
+                "w": "families",
+                "t": 6470.0,
+                "d": 800.0
+              },
+              {
+                "w": "all",
+                "t": 7670.0,
+                "d": 359.0
+              },
+              {
+                "w": "trapped",
+                "t": 8029.0,
+                "d": 401.0
+              },
+              {
+                "w": "atop",
+                "t": 8430.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 8750.0,
+                "d": 160.0
+              },
+              {
+                "w": "hill",
+                "t": 8910.0,
+                "d": 479.0
+              },
+              {
+                "w": "each",
+                "t": 9750.0,
+                "d": 399.0
+              },
+              {
+                "w": "day",
+                "t": 10149.0,
+                "d": 281.0
+              },
+              {
+                "w": "a",
+                "t": 10430.0,
+                "d": 160.0
+              },
+              {
+                "w": "little",
+                "t": 10590.0,
+                "d": 320.0
+              },
+              {
+                "w": "more",
+                "t": 10910.0,
+                "d": 280.0
+              },
+              {
+                "w": "desperate",
+                "t": 11190.0,
+                "d": 519.0
+              },
+              {
+                "w": "than",
+                "t": 11709.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 12030.0,
+                "d": 119.0
+              },
+              {
+                "w": "last",
+                "t": 12149.0,
+                "d": 441.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p16.png",
+      "shot": "medium in a dim royal chamber",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Our details are thinnest for the nights of decision. The Jain mahakavya imagines long speeches on dharma; the Sultanate chronicles are curt. All agree: surrender was not chosen.",
+            "hi": "फ़ैसले वाली रातों की बातों पर हमारे पास सबसे कम तफ़सील है। जैन महाकाव्य लम्बे धर्म–उपदेश रचता है; सल्तनती इतिहास रूखे रहते हैं। सब मानते हैं: आत्मसमर्पण नहीं चुना गया।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p16_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Our",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "details",
+                "t": 287.0,
+                "d": 595.0
+              },
+              {
+                "w": "are",
+                "t": 882.0,
+                "d": 255.0
+              },
+              {
+                "w": "thinnest",
+                "t": 1138.0,
+                "d": 595.0
+              },
+              {
+                "w": "for",
+                "t": 1734.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 1904.0,
+                "d": 127.0
+              },
+              {
+                "w": "nights",
+                "t": 2031.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 2414.0,
+                "d": 126.0
+              },
+              {
+                "w": "decision",
+                "t": 2541.0,
+                "d": 852.0
+              },
+              {
+                "w": "The",
+                "t": 4073.0,
+                "d": 213.0
+              },
+              {
+                "w": "Jain",
+                "t": 4287.0,
+                "d": 297.0
+              },
+              {
+                "w": "mahakavya",
+                "t": 4585.0,
+                "d": 851.0
+              },
+              {
+                "w": "imagines",
+                "t": 5436.0,
+                "d": 595.0
+              },
+              {
+                "w": "long",
+                "t": 6031.0,
+                "d": 297.0
+              },
+              {
+                "w": "speeches",
+                "t": 6329.0,
+                "d": 510.0
+              },
+              {
+                "w": "on",
+                "t": 6840.0,
+                "d": 170.0
+              },
+              {
+                "w": "dharma",
+                "t": 7010.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 8074.0,
+                "d": 212.0
+              },
+              {
+                "w": "Sultanate",
+                "t": 8287.0,
+                "d": 595.0
+              },
+              {
+                "w": "chronicles",
+                "t": 8882.0,
+                "d": 595.0
+              },
+              {
+                "w": "are",
+                "t": 9478.0,
+                "d": 169.0
+              },
+              {
+                "w": "curt",
+                "t": 9647.0,
+                "d": 554.0
+              },
+              {
+                "w": "All",
+                "t": 10670.0,
+                "d": 296.0
+              },
+              {
+                "w": "agree",
+                "t": 10967.0,
+                "d": 425.0
+              },
+              {
+                "w": "surrender",
+                "t": 12115.0,
+                "d": 596.0
+              },
+              {
+                "w": "was",
+                "t": 12712.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 12882.0,
+                "d": 255.0
+              },
+              {
+                "w": "chosen",
+                "t": 13138.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p17.png",
+      "shot": "shadowed courtyard shot",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Later accounts speak of jauhar at Ranthambhore, women choosing death by fire as the walls neared breach. The numbers and scenes are literary, but the tradition of such an ending is old and persistent.",
+            "hi": "बाद की क़िस्सागोई रंथम्भोर में जौहर की बात करती है — दीवारें टूटने को आईं तो स्त्रियाँ ने आग में मौत चुनी। आँकड़े और दृश्य साहित्यिक हैं, पर ऐसे अंत की परंपरा पुरानी और ज़िद्दी है।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p17_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Later",
+                "t": 70.0,
+                "d": 400.0
+              },
+              {
+                "w": "accounts",
+                "t": 470.0,
+                "d": 400.0
+              },
+              {
+                "w": "speak",
+                "t": 870.0,
+                "d": 280.0
+              },
+              {
+                "w": "of",
+                "t": 1150.0,
+                "d": 160.0
+              },
+              {
+                "w": "jauhar",
+                "t": 1310.0,
+                "d": 440.0
+              },
+              {
+                "w": "at",
+                "t": 1750.0,
+                "d": 200.0
+              },
+              {
+                "w": "Ranthambhore",
+                "t": 1950.0,
+                "d": 720.0
+              },
+              {
+                "w": "women",
+                "t": 3110.0,
+                "d": 400.0
+              },
+              {
+                "w": "choosing",
+                "t": 3510.0,
+                "d": 399.0
+              },
+              {
+                "w": "death",
+                "t": 3909.0,
+                "d": 241.0
+              },
+              {
+                "w": "by",
+                "t": 4150.0,
+                "d": 240.0
+              },
+              {
+                "w": "fire",
+                "t": 4390.0,
+                "d": 440.0
+              },
+              {
+                "w": "as",
+                "t": 4830.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 5030.0,
+                "d": 120.0
+              },
+              {
+                "w": "walls",
+                "t": 5150.0,
+                "d": 480.0
+              },
+              {
+                "w": "neared",
+                "t": 5630.0,
+                "d": 280.0
+              },
+              {
+                "w": "breach",
+                "t": 5910.0,
+                "d": 800.0
+              },
+              {
+                "w": "The",
+                "t": 6790.0,
+                "d": 200.0
+              },
+              {
+                "w": "numbers",
+                "t": 6990.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 7350.0,
+                "d": 160.0
+              },
+              {
+                "w": "scenes",
+                "t": 7510.0,
+                "d": 360.0
+              },
+              {
+                "w": "are",
+                "t": 7870.0,
+                "d": 120.0
+              },
+              {
+                "w": "literary",
+                "t": 7990.0,
+                "d": 960.0
+              },
+              {
+                "w": "but",
+                "t": 8990.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 9190.0,
+                "d": 119.0
+              },
+              {
+                "w": "tradition",
+                "t": 9309.0,
+                "d": 481.0
+              },
+              {
+                "w": "of",
+                "t": 9790.0,
+                "d": 80.0
+              },
+              {
+                "w": "such",
+                "t": 9870.0,
+                "d": 279.0
+              },
+              {
+                "w": "an",
+                "t": 10149.0,
+                "d": 160.0
+              },
+              {
+                "w": "ending",
+                "t": 10309.0,
+                "d": 361.0
+              },
+              {
+                "w": "is",
+                "t": 10670.0,
+                "d": 160.0
+              },
+              {
+                "w": "old",
+                "t": 10830.0,
+                "d": 399.0
+              },
+              {
+                "w": "and",
+                "t": 11229.0,
+                "d": 240.0
+              },
+              {
+                "w": "persistent",
+                "t": 11469.0,
+                "d": 840.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p18.png",
+      "shot": "heroic low-angle of final sortie",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hammira is said to have ridden out in a last sortie, choosing to die in battle. The chronicles agree that he fell in defeat, his kingdom ending in a single furious rush.",
+            "hi": "कहा जाता है हम्मीर आख़िरी धावे में घोड़े पर निकल पड़ा, रण में मरने का चुनाव करके। इतिहास मानते हैं कि वह हार में गिरा, उसका राज्य एक ही उग्र धावे में खत्म हो गया।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p18_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hammira",
+                "t": 110.0,
+                "d": 440.0
+              },
+              {
+                "w": "is",
+                "t": 550.0,
+                "d": 240.0
+              },
+              {
+                "w": "said",
+                "t": 790.0,
+                "d": 280.0
+              },
+              {
+                "w": "to",
+                "t": 1070.0,
+                "d": 160.0
+              },
+              {
+                "w": "have",
+                "t": 1230.0,
+                "d": 200.0
+              },
+              {
+                "w": "ridden",
+                "t": 1430.0,
+                "d": 280.0
+              },
+              {
+                "w": "out",
+                "t": 1710.0,
+                "d": 200.0
+              },
+              {
+                "w": "in",
+                "t": 1910.0,
+                "d": 80.0
+              },
+              {
+                "w": "a",
+                "t": 1990.0,
+                "d": 80.0
+              },
+              {
+                "w": "last",
+                "t": 2070.0,
+                "d": 359.0
+              },
+              {
+                "w": "sortie",
+                "t": 2429.0,
+                "d": 560.0
+              },
+              {
+                "w": "choosing",
+                "t": 3270.0,
+                "d": 519.0
+              },
+              {
+                "w": "to",
+                "t": 3789.0,
+                "d": 120.0
+              },
+              {
+                "w": "die",
+                "t": 3909.0,
+                "d": 281.0
+              },
+              {
+                "w": "in",
+                "t": 4190.0,
+                "d": 120.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/hammira_s_guest_at_ranthambhore/split_auto/s0.png",
+          "slogan": {
+            "en": "Ranthambhore falls, honor stands",
+            "hi": "रणथंभौर गिरे, सम्मान अडिग"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/hammira_s_guest_at_ranthambhore/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/hammira_s_guest_at_ranthambhore/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hammira's last defiance burns across stone and sky, etching his stand into the memory of Rajasthan's hills.",
+            "hi": "हमीर का आख़िरी विद्रोह पत्थर‑आसमान पर जल उठता है, उसकी आख़िरी जंग राजस्थान की पहाड़ियों में हमेशा के लिए लिख देता है।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/split/split_auto_en.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hammira's",
+                "t": 72.0,
+                "d": 625.0
+              },
+              {
+                "w": "last",
+                "t": 697.0,
+                "d": 291.0
+              },
+              {
+                "w": "defiance",
+                "t": 989.0,
+                "d": 541.0
+              },
+              {
+                "w": "burns",
+                "t": 1531.0,
+                "d": 291.0
+              },
+              {
+                "w": "across",
+                "t": 1822.0,
+                "d": 416.0
+              },
+              {
+                "w": "stone",
+                "t": 2239.0,
+                "d": 332.0
+              },
+              {
+                "w": "and",
+                "t": 2571.0,
+                "d": 167.0
+              },
+              {
+                "w": "sky",
+                "t": 2739.0,
+                "d": 916.0
+              },
+              {
+                "w": "etching",
+                "t": 3697.0,
+                "d": 457.0
+              },
+              {
+                "w": "his",
+                "t": 4155.0,
+                "d": 167.0
+              },
+              {
+                "w": "stand",
+                "t": 4322.0,
+                "d": 416.0
+              },
+              {
+                "w": "into",
+                "t": 4739.0,
+                "d": 250.0
+              },
+              {
+                "w": "the",
+                "t": 4989.0,
+                "d": 125.0
+              },
+              {
+                "w": "memory",
+                "t": 5114.0,
+                "d": 458.0
+              },
+              {
+                "w": "of",
+                "t": 5572.0,
+                "d": 208.0
+              },
+              {
+                "w": "Rajasthan's",
+                "t": 5781.0,
+                "d": 625.0
+              },
+              {
+                "w": "hills",
+                "t": 6406.0,
+                "d": 666.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p19",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p19.png",
+      "shot": "wide shot of breached fort",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Ranthambhore fell. Alauddin's banners rose over its walls, and the Chahamana stronghold passed into Sultanate control after months of hunger, siegecraft, and unbroken pressure.",
+            "hi": "रंथम्भोर गिर गया। अलाउद्दीन के परचम उसकी दीवारों पर लहराए, और चहमानों का गढ़ महीनों की भूख, घेरा और बे–रोक दबाव के बाद सल्तनत के हाथ चला गया।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p19_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p19_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Ranthambhore",
+                "t": 70.0,
+                "d": 720.0
+              },
+              {
+                "w": "fell",
+                "t": 790.0,
+                "d": 400.0
+              },
+              {
+                "w": "Alauddin's",
+                "t": 1750.0,
+                "d": 599.0
+              },
+              {
+                "w": "banners",
+                "t": 2349.0,
+                "d": 401.0
+              },
+              {
+                "w": "rose",
+                "t": 2750.0,
+                "d": 320.0
+              },
+              {
+                "w": "over",
+                "t": 3070.0,
+                "d": 359.0
+              },
+              {
+                "w": "its",
+                "t": 3429.0,
+                "d": 161.0
+              },
+              {
+                "w": "walls",
+                "t": 3590.0,
+                "d": 560.0
+              },
+              {
+                "w": "and",
+                "t": 4470.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 4670.0,
+                "d": 160.0
+              },
+              {
+                "w": "Chahamana",
+                "t": 4830.0,
+                "d": 480.0
+              },
+              {
+                "w": "stronghold",
+                "t": 5310.0,
+                "d": 640.0
+              },
+              {
+                "w": "passed",
+                "t": 5950.0,
+                "d": 360.0
+              },
+              {
+                "w": "into",
+                "t": 6310.0,
+                "d": 200.0
+              },
+              {
+                "w": "Sultanate",
+                "t": 6510.0,
+                "d": 520.0
+              },
+              {
+                "w": "control",
+                "t": 7030.0,
+                "d": 600.0
+              },
+              {
+                "w": "after",
+                "t": 7790.0,
+                "d": 319.0
+              },
+              {
+                "w": "months",
+                "t": 8109.0,
+                "d": 321.0
+              },
+              {
+                "w": "of",
+                "t": 8430.0,
+                "d": 119.0
+              },
+              {
+                "w": "hunger",
+                "t": 8549.0,
+                "d": 600.0
+              },
+              {
+                "w": "siegecraft",
+                "t": 9270.0,
+                "d": 959.0
+              },
+              {
+                "w": "and",
+                "t": 10229.0,
+                "d": 320.0
+              },
+              {
+                "w": "unbroken",
+                "t": 10549.0,
+                "d": 600.0
+              },
+              {
+                "w": "pressure",
+                "t": 11149.0,
+                "d": 521.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p20",
+      "art": "assets/hammira_s_guest_at_ranthambhore/img/p20.png",
+      "shot": "symbolic close-up on an empty throne and sword",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Hammira Mahakavya would, a century later, sing him as a martyr to his vow; Khusrau listed him among Alauddin's conquered. Between them lies a simple fact: an oath outlived the man who kept it.",
+            "hi": "एक सदी बाद, हम्मीर महाकाव्य उसे अपनी प्रतिज्ञा का शहीद गाएगा; ख़ुसरो उसे अलाउद्दीन के फ़तहों में गिनता है। इन दोनों के बीच बस एक सीधी बात है: वचन उस आदमी से ज़्यादा देर जिया जिसने उसे निभाया।"
+          },
+          "audio": {
+            "en": "assets/hammira_s_guest_at_ranthambhore/audio/en/p20_0.mp3",
+            "hi": "assets/hammira_s_guest_at_ranthambhore/audio/hi/p20_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "Hammira",
+                "t": 310.0,
+                "d": 360.0
+              },
+              {
+                "w": "Mahakavya",
+                "t": 670.0,
+                "d": 680.0
+              },
+              {
+                "w": "would",
+                "t": 1350.0,
+                "d": 560.0
+              },
+              {
+                "w": "a",
+                "t": 1910.0,
+                "d": 160.0
+              },
+              {
+                "w": "century",
+                "t": 2070.0,
+                "d": 560.0
+              },
+              {
+                "w": "later",
+                "t": 2630.0,
+                "d": 560.0
+              },
+              {
+                "w": "sing",
+                "t": 3309.0,
+                "d": 361.0
+              },
+              {
+                "w": "him",
+                "t": 3670.0,
+                "d": 159.0
+              },
+              {
+                "w": "as",
+                "t": 3829.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 3989.0,
+                "d": 81.0
+              },
+              {
+                "w": "martyr",
+                "t": 4070.0,
+                "d": 440.0
+              },
+              {
+                "w": "to",
+                "t": 4510.0,
+                "d": 120.0
+              },
+              {
+                "w": "his",
+                "t": 4630.0,
+                "d": 240.0
+              },
+              {
+                "w": "vow",
+                "t": 4870.0,
+                "d": 360.0
+              },
+              {
+                "w": "Khusrau",
+                "t": 5790.0,
+                "d": 440.0
+              },
+              {
+                "w": "listed",
+                "t": 6230.0,
+                "d": 400.0
+              },
+              {
+                "w": "him",
+                "t": 6630.0,
+                "d": 200.0
+              },
+              {
+                "w": "among",
+                "t": 6830.0,
+                "d": 360.0
+              },
+              {
+                "w": "Alauddin's",
+                "t": 7230.0,
+                "d": 680.0
+              },
+              {
+                "w": "conquered",
+                "t": 7910.0,
+                "d": 1360.0
+              },
+              {
+                "w": "Between",
+                "t": 9350.0,
+                "d": 440.0
+              },
+              {
+                "w": "them",
+                "t": 9790.0,
+                "d": 279.0
+              },
+              {
+                "w": "lies",
+                "t": 10069.0,
+                "d": 281.0
+              },
+              {
+                "w": "a",
+                "t": 10350.0,
+                "d": 39.0
+              },
+              {
+                "w": "simple",
+                "t": 10389.0,
+                "d": 441.0
+              },
+              {
+                "w": "fact",
+                "t": 10830.0,
+                "d": 680.0
+              },
+              {
+                "w": "an",
+                "t": 11830.0,
+                "d": 200.0
+              },
+              {
+                "w": "oath",
+                "t": 12069.0,
+                "d": 281.0
+              },
+              {
+                "w": "outlived",
+                "t": 12350.0,
+                "d": 560.0
+              },
+              {
+                "w": "the",
+                "t": 12910.0,
+                "d": 120.0
+              },
+              {
+                "w": "man",
+                "t": 13030.0,
+                "d": 240.0
+              },
+              {
+                "w": "who",
+                "t": 13270.0,
+                "d": 119.0
+              },
+              {
+                "w": "kept",
+                "t": 13389.0,
+                "d": 320.0
+              },
+              {
+                "w": "it",
+                "t": 13709.0,
+                "d": 440.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Hammira of Ranthambhore",
+    "epithets": [
+      "Hammira Deva of Ranthambhore",
+      "Chahamana King of Ranthambhore",
+      "Last Chauhan of Ranthambhore",
+      "Defier of Alauddin Khalji"
+    ],
+    "legend": "He chose his guest’s oath over his own kingdom’s life."
+  }
+}
