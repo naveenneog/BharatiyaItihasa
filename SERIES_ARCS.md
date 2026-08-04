@@ -572,6 +572,24 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🏹 The Great Mughal Battles  *(Early Modern — c. 1527–1739, Khanwa to Karnal)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+Thirteen battles that made and unmade the Mughal empire — from Babur's gunpowder revolution to the hollow-crown collapse at Karnal — told source-critically, weighing the Persian court chronicles against rival and eyewitness accounts, stating the documented facts (skull-towers, massacres, jauhar) plainly and marking legend as legend.
+
+1. **Khanwa and the Rajput Wall** ✅ — Babur vs Rana Sanga (1527); the matchlock-and-cannon victory over the Rajput confederacy, and the tower of heads Babur records in his own Baburnama.
+2. **Ghaghra and the Last Afghan Line** ✅ — Babur vs the Afghan–Bengal confederacy (1529); the great river-battle that closed Babur's Indian conquest.
+3. **Chausa in the Monsoon Night** ✅ — Sher Shah Suri vs Humayun (1539); the Afghan revival drowns a Mughal army in the flooded Ganga.
+4. **Kannauj and the Silent Guns** ✅ — Sher Shah vs Humayun (1540); the guns that never fired and the fifteen-year Mughal exile that followed.
+5. **Second Panipat and Hemu's Arrow** ✅ — Hemu vs Bairam Khan and Akbar (1556); a Hindu emperor's near-win undone by a chance arrow, and the contested killing the sources disagree on. *(historiography)*
+6. **Chittorgarh and the Count of Thirty Thousand** ✅ — Akbar vs Jaimal and Patta (1568); the storming, the jauhar, and the 30,000 massacre Abul Fazl frames as jihad, cross-checked against Badauni, with the statues Akbar raised to the men he undid. *(exemplary)*
+7. **Haldighati and the Missing Chronicle** ✅ — Maharana Pratap vs Man Singh I (1576); Badauni's own "Rajputs on both sides" dissolving the communal frame, a battle both sides claimed. *(historiography — exemplary)*
+8. **Swally and the Watching Mughals** ✅ — Thomas Best's English ships vs the Portuguese (1612), Jahangir watching; the sea-fight that opened the English factory at Surat.
+9. **Purandar Under Jai Singh** ✅ — Jai Singh I vs Shivaji (1665); coordinated Mughal siege engineering, Murarbaji's death defending the fort, and the treaty of twenty-three forts. *(a Rajput Hindu general commanding for Aurangzeb — imperial politics, not communal war)*
+10. **Bijapur and the Malik-i-Maidan** ✅ — Aurangzeb vs Sikandar Adil Shah (1686); the fall of the Deccan sultanate and its giant cannon.
+11. **Golconda and the Opened Gate** ✅ — Aurangzeb vs Abul Hasan Qutb Shah (1687); an eight-month siege ended by a bribed gate, not a breach.
+12. **Jajau and the First Crown After Aurangzeb** ✅ — Bahadur Shah I vs Azam Shah (1707); the succession war that opened the empire's long decline.
+13. **Karnal and the Three Hour Rout** ✅ — Nadir Shah vs Muhammad Shah (1739); three hours that emptied the Mughal treasury, and the Delhi massacre that followed. *(the Peacock Throne and Koh-i-Noor carried to Persia)*
+
 ## 🗡️ Battles That Forged Medieval India  *(Delhi Sultanate → Pre-Mughal — c. 1191–1564)*  — **✅ CHAPTER COMPLETE (10/10, de-duplicated)**
 
 Ten era-defining battles of the Sultanate and pre-Mughal centuries, de-duplicated against the Ancient-battles, Kakatiya and Mughal-battles chapters — source-critical, stating the record plainly with legend marked as legend.
