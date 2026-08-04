@@ -1,0 +1,4527 @@
+{
+  "id": "kannauj_and_the_silent_guns",
+  "title": "Kannauj and the Silent Guns",
+  "title_i18n": {
+    "en": "Kannauj and the Silent Guns",
+    "hi": "कन्नौज और ख़ामोश तोपें"
+  },
+  "figure": "Sher Shah Suri and Humayun",
+  "era": "Fall of Humayun's first empire, 17 May 1540",
+  "moral": "A weapon unused can decide a war as surely as a weapon fired.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/kannauj_and_the_silent_guns/intro/hero.png",
+      "name": "Humayun at Chausa",
+      "epithets": [
+        "Sher Shah Suri: Lion of the Afghans",
+        "Sher Shah Suri: Conqueror of Hind",
+        "Humayun: Fortunate but Unsteady Emperor",
+        "Humayun: Exiled Mughal Shah"
+      ],
+      "legend": "On the Ganges plain, one silent cannon reshaped an empire.",
+      "era": "Fall of Humayun's first empire, 17 May 1540",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Humayun stands by his great guns that never roar. Sher Shah's dust-charged charge breaks his line, and in that one stunned silence, the Mughal world slips from his hands.",
+            "hi": "हुमायूँ की घेर बंदूकें खामोश खड़ी हैं। शेरशाह की धूल उड़ाती टक्कर उसकी पंक्तियाँ तोड़ देती है, और उसी सन्नाटे में मुगल दुनिया उसके हाथ से फिसल जाती है।"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/intro/hero_en.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Humayun",
+                "t": 114.0,
+                "d": 458.0
+              },
+              {
+                "w": "stands",
+                "t": 572.0,
+                "d": 416.0
+              },
+              {
+                "w": "by",
+                "t": 989.0,
+                "d": 166.0
+              },
+              {
+                "w": "his",
+                "t": 1156.0,
+                "d": 208.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/kannauj_and_the_silent_guns/intro/map.png",
+      "x": 0.54,
+      "y": 0.35,
+      "label": "Kannauj & Bilgram, Ganges Plain",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here on the flat, hot Ganges plain, smoke, dust, and fear drowned an empire before its cannons spoke.",
+            "hi": "यहीं गर्म, सपाट गंगा के मैदानी इलाक़े में धुआँ, धूल और डर ने तोपें गरजने से पहले ही साम्राज्य डुबो दिया।"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/intro/map_en.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "on",
+                "t": 356.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 448.0,
+                "d": 137.0
+              },
+              {
+                "w": "flat",
+                "t": 586.0,
+                "d": 643.0
+              },
+              {
+                "w": "hot",
+                "t": 1459.0,
+                "d": 413.0
+              },
+              {
+                "w": "Ganges",
+                "t": 1873.0,
+                "d": 597.0
+              },
+              {
+                "w": "plain",
+                "t": 2471.0,
+                "d": 597.0
+              },
+              {
+                "w": "smoke",
+                "t": 3297.0,
+                "d": 874.0
+              },
+              {
+                "w": "dust",
+                "t": 4310.0,
+                "d": 827.0
+              },
+              {
+                "w": "and",
+                "t": 5183.0,
+                "d": 413.0
+              },
+              {
+                "w": "fear",
+                "t": 5597.0,
+                "d": 367.0
+              },
+              {
+                "w": "drowned",
+                "t": 5965.0,
+                "d": 551.0
+              },
+              {
+                "w": "an",
+                "t": 6517.0,
+                "d": 91.0
+              },
+              {
+                "w": "empire",
+                "t": 6609.0,
+                "d": 551.0
+              },
+              {
+                "w": "before",
+                "t": 7160.0,
+                "d": 459.0
+              },
+              {
+                "w": "its",
+                "t": 7620.0,
+                "d": 183.0
+              },
+              {
+                "w": "cannons",
+                "t": 7804.0,
+                "d": 413.0
+              },
+              {
+                "w": "spoke",
+                "t": 8218.0,
+                "d": 0.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/kannauj_and_the_silent_guns/img/cover.png",
+      "shot": "epic bird's-eye over the Ganges plain, two distant armies facing, a dark line of silent cannon between them",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At Kannauj in fifteen forty, Sher Shah Suri broke Humayun's first empire not by louder guns, but because the Mughal guns never spoke.",
+            "hi": "१५४० के कन्नौज में शेरशाह सूरी ने हुमायूँ की पहली सल्तनत को ज़्यादा गोलों से नहीं, बल्कि मुग़ल तोपों की खामोशी से तोड़ा"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/cover_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 110.0,
+                "d": 200.0
+              },
+              {
+                "w": "Kannauj",
+                "t": 310.0,
+                "d": 440.0
+              },
+              {
+                "w": "in",
+                "t": 750.0,
+                "d": 200.0
+              },
+              {
+                "w": "fifteen",
+                "t": 950.0,
+                "d": 400.0
+              },
+              {
+                "w": "forty",
+                "t": 1350.0,
+                "d": 760.0
+              },
+              {
+                "w": "Sher",
+                "t": 2150.0,
+                "d": 400.0
+              },
+              {
+                "w": "Shah",
+                "t": 2550.0,
+                "d": 239.0
+              },
+              {
+                "w": "Suri",
+                "t": 2789.0,
+                "d": 361.0
+              },
+              {
+                "w": "broke",
+                "t": 3150.0,
+                "d": 400.0
+              },
+              {
+                "w": "Humayun's",
+                "t": 3550.0,
+                "d": 520.0
+              },
+              {
+                "w": "first",
+                "t": 4070.0,
+                "d": 360.0
+              },
+              {
+                "w": "empire",
+                "t": 4430.0,
+                "d": 680.0
+              },
+              {
+                "w": "not",
+                "t": 5350.0,
+                "d": 320.0
+              },
+              {
+                "w": "by",
+                "t": 5670.0,
+                "d": 160.0
+              },
+              {
+                "w": "louder",
+                "t": 5830.0,
+                "d": 320.0
+              },
+              {
+                "w": "guns",
+                "t": 6150.0,
+                "d": 520.0
+              },
+              {
+                "w": "but",
+                "t": 7030.0,
+                "d": 200.0
+              },
+              {
+                "w": "because",
+                "t": 7230.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 7510.0,
+                "d": 120.0
+              },
+              {
+                "w": "Mughal",
+                "t": 7630.0,
+                "d": 240.0
+              },
+              {
+                "w": "guns",
+                "t": 7870.0,
+                "d": 279.0
+              },
+              {
+                "w": "never",
+                "t": 8149.0,
+                "d": 240.0
+              },
+              {
+                "w": "spoke",
+                "t": 8389.0,
+                "d": 481.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/kannauj_and_the_silent_guns/img/p01.png",
+      "shot": "slow push-in on Humayun at a balcony in Delhi, dusk light, distant campfires beyond the Yamuna",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Two years before Kannauj, on the banks of the Ganges at Chausa, Humayun had already felt Sher Shah's hand close around his young empire.",
+            "hi": "कन्नौज से दो साल पहले, गंगा किनारे चौसा में, हुमायूँ ने पहली बार शेरशाह की पकड़ अपने नौजवान साम्राज्य पर महसूस की"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p01_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Two",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "years",
+                "t": 356.0,
+                "d": 275.0
+              },
+              {
+                "w": "before",
+                "t": 632.0,
+                "d": 367.0
+              },
+              {
+                "w": "Kannauj",
+                "t": 1000.0,
+                "d": 413.0
+              },
+              {
+                "w": "on",
+                "t": 1413.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 1505.0,
+                "d": 643.0
+              },
+              {
+                "w": "banks",
+                "t": 2149.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 2517.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 2609.0,
+                "d": 136.0
+              },
+              {
+                "w": "Ganges",
+                "t": 2745.0,
+                "d": 505.0
+              },
+              {
+                "w": "at",
+                "t": 3251.0,
+                "d": 231.0
+              },
+              {
+                "w": "Chausa",
+                "t": 3482.0,
+                "d": 735.0
+              },
+              {
+                "w": "Humayun",
+                "t": 4585.0,
+                "d": 552.0
+              },
+              {
+                "w": "had",
+                "t": 5137.0,
+                "d": 229.0
+              },
+              {
+                "w": "already",
+                "t": 5367.0,
+                "d": 643.0
+              },
+              {
+                "w": "felt",
+                "t": 6011.0,
+                "d": 505.0
+              },
+              {
+                "w": "Sher",
+                "t": 6655.0,
+                "d": 505.0
+              },
+              {
+                "w": "Shah's",
+                "t": 7160.0,
+                "d": 459.0
+              },
+              {
+                "w": "hand",
+                "t": 7620.0,
+                "d": 367.0
+              },
+              {
+                "w": "close",
+                "t": 7988.0,
+                "d": 367.0
+              },
+              {
+                "w": "around",
+                "t": 8356.0,
+                "d": 321.0
+              },
+              {
+                "w": "his",
+                "t": 8678.0,
+                "d": 229.0
+              },
+              {
+                "w": "young",
+                "t": 8908.0,
+                "d": 275.0
+              },
+              {
+                "w": "empire",
+                "t": 9183.0,
+                "d": 826.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/kannauj_and_the_silent_guns/img/p02.png",
+      "shot": "low-angle mid-shot of Humayun in a campaign tent, maps spread out, brothers’ names marked, a single lamp casting sharp shadows",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Timurid prince ruled Delhi and Agra, yet his power was a net of sand: brothers held frontier thrones, amirs guarded their own fortunes, and Sher Shah watched every split.",
+            "hi": "तैमूरी शहज़ादा दिल्ली–आगरा का बादशाह था, पर उसकी ताक़त रेत का जाल थी: भाई सरहदों पर बादशाह, अमीर अपनी दौलत के रखवाले, और शेरशाह हर दरार पर नज़र"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p02_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "Timurid",
+                "t": 356.0,
+                "d": 551.0
+              },
+              {
+                "w": "prince",
+                "t": 908.0,
+                "d": 321.0
+              },
+              {
+                "w": "ruled",
+                "t": 1229.0,
+                "d": 275.0
+              },
+              {
+                "w": "Delhi",
+                "t": 1505.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 1965.0,
+                "d": 275.0
+              },
+              {
+                "w": "Agra",
+                "t": 2287.0,
+                "d": 735.0
+              },
+              {
+                "w": "yet",
+                "t": 3482.0,
+                "d": 366.0
+              },
+              {
+                "w": "his",
+                "t": 3849.0,
+                "d": 277.0
+              },
+              {
+                "w": "power",
+                "t": 4126.0,
+                "d": 412.0
+              },
+              {
+                "w": "was",
+                "t": 4539.0,
+                "d": 185.0
+              },
+              {
+                "w": "a",
+                "t": 4724.0,
+                "d": 91.0
+              },
+              {
+                "w": "net",
+                "t": 4816.0,
+                "d": 275.0
+              },
+              {
+                "w": "of",
+                "t": 5091.0,
+                "d": 137.0
+              },
+              {
+                "w": "sand",
+                "t": 5229.0,
+                "d": 781.0
+              },
+              {
+                "w": "brothers",
+                "t": 6471.0,
+                "d": 551.0
+              },
+              {
+                "w": "held",
+                "t": 7022.0,
+                "d": 275.0
+              },
+              {
+                "w": "frontier",
+                "t": 7298.0,
+                "d": 551.0
+              },
+              {
+                "w": "thrones",
+                "t": 7850.0,
+                "d": 781.0
+              },
+              {
+                "w": "amirs",
+                "t": 8908.0,
+                "d": 504.0
+              },
+              {
+                "w": "guarded",
+                "t": 9412.0,
+                "d": 368.0
+              },
+              {
+                "w": "their",
+                "t": 9781.0,
+                "d": 228.0
+              },
+              {
+                "w": "own",
+                "t": 10010.0,
+                "d": 185.0
+              },
+              {
+                "w": "fortunes",
+                "t": 10195.0,
+                "d": 1011.0
+              },
+              {
+                "w": "and",
+                "t": 11390.0,
+                "d": 274.0
+              },
+              {
+                "w": "Sher",
+                "t": 11665.0,
+                "d": 322.0
+              },
+              {
+                "w": "Shah",
+                "t": 11988.0,
+                "d": 228.0
+              },
+              {
+                "w": "watched",
+                "t": 12217.0,
+                "d": 597.0
+              },
+              {
+                "w": "every",
+                "t": 12862.0,
+                "d": 367.0
+              },
+              {
+                "w": "split",
+                "t": 13229.0,
+                "d": 642.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/kannauj_and_the_silent_guns/img/p03.png",
+      "shot": "wide tracking shot along the Grand Trunk road under construction, laborers, officers, milestones, caravans",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Meanwhile in Bihar and Bengal, Farid Khan, now Sher Shah, stitched his own state: roads, sarais, ferries and strongholds built with care, for war that would move like wind.",
+            "hi": "उधर बिहार–बंगाल में फ़रीद ख़ान, जो अब शेरशाह था, अपना सूबा बुन रहा था: सड़कें, सराय, घाट और किले, सब सोच‑समझकर, ताकि जंग तूफ़ान की तरह चले"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p03_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Meanwhile",
+                "t": 70.0,
+                "d": 600.0
+              },
+              {
+                "w": "in",
+                "t": 670.0,
+                "d": 120.0
+              },
+              {
+                "w": "Bihar",
+                "t": 790.0,
+                "d": 480.0
+              },
+              {
+                "w": "and",
+                "t": 1270.0,
+                "d": 200.0
+              },
+              {
+                "w": "Bengal",
+                "t": 1470.0,
+                "d": 600.0
+              },
+              {
+                "w": "Farid",
+                "t": 2230.0,
+                "d": 400.0
+              },
+              {
+                "w": "Khan",
+                "t": 2630.0,
+                "d": 480.0
+              },
+              {
+                "w": "now",
+                "t": 3389.0,
+                "d": 241.0
+              },
+              {
+                "w": "Sher",
+                "t": 3630.0,
+                "d": 319.0
+              },
+              {
+                "w": "Shah",
+                "t": 3949.0,
+                "d": 281.0
+              },
+              {
+                "w": "stitched",
+                "t": 4230.0,
+                "d": 440.0
+              },
+              {
+                "w": "his",
+                "t": 4670.0,
+                "d": 200.0
+              },
+              {
+                "w": "own",
+                "t": 4870.0,
+                "d": 320.0
+              },
+              {
+                "w": "state",
+                "t": 5190.0,
+                "d": 520.0
+              },
+              {
+                "w": "roads",
+                "t": 5910.0,
+                "d": 760.0
+              },
+              {
+                "w": "sarais",
+                "t": 6710.0,
+                "d": 760.0
+              },
+              {
+                "w": "ferries",
+                "t": 7510.0,
+                "d": 719.0
+              },
+              {
+                "w": "and",
+                "t": 8309.0,
+                "d": 361.0
+              },
+              {
+                "w": "strongholds",
+                "t": 8670.0,
+                "d": 680.0
+              },
+              {
+                "w": "built",
+                "t": 9350.0,
+                "d": 279.0
+              },
+              {
+                "w": "with",
+                "t": 9629.0,
+                "d": 241.0
+              },
+              {
+                "w": "care",
+                "t": 9870.0,
+                "d": 599.0
+              },
+              {
+                "w": "for",
+                "t": 10549.0,
+                "d": 281.0
+              },
+              {
+                "w": "war",
+                "t": 10830.0,
+                "d": 319.0
+              },
+              {
+                "w": "that",
+                "t": 11149.0,
+                "d": 201.0
+              },
+              {
+                "w": "would",
+                "t": 11350.0,
+                "d": 199.0
+              },
+              {
+                "w": "move",
+                "t": 11549.0,
+                "d": 321.0
+              },
+              {
+                "w": "like",
+                "t": 11870.0,
+                "d": 279.0
+              },
+              {
+                "w": "wind",
+                "t": 12149.0,
+                "d": 480.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/kannauj_and_the_silent_guns/img/p04.png",
+      "shot": "medium shot inside Sher Shah’s council tent from behind his shoulder, maps of the Ganges plain, arrows toward Agra and Delhi",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Abbas Khan Sarwani tells how Sher Shah measured distances, counted ferries and fords, and planned to cut Humayun from his own heartland with speed, not weight alone.",
+            "hi": "अब्बास ख़ान सरवानी लिखते हैं कि शेरशाह खुद फासले नापता, घाट–पुल गिनता, और सोचता कि सिर्फ़ ताक़त नहीं, रफ़्तार से हुमायूँ को उसके दिल से काट देगा"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p04_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Abbas",
+                "t": 70.0,
+                "d": 680.0
+              },
+              {
+                "w": "Khan",
+                "t": 1310.0,
+                "d": 280.0
+              },
+              {
+                "w": "Sarwani",
+                "t": 1590.0,
+                "d": 480.0
+              },
+              {
+                "w": "tells",
+                "t": 2070.0,
+                "d": 319.0
+              },
+              {
+                "w": "how",
+                "t": 2389.0,
+                "d": 201.0
+              },
+              {
+                "w": "Sher",
+                "t": 2590.0,
+                "d": 359.0
+              },
+              {
+                "w": "Shah",
+                "t": 2949.0,
+                "d": 241.0
+              },
+              {
+                "w": "measured",
+                "t": 3190.0,
+                "d": 480.0
+              },
+              {
+                "w": "distances",
+                "t": 3670.0,
+                "d": 920.0
+              },
+              {
+                "w": "counted",
+                "t": 4630.0,
+                "d": 480.0
+              },
+              {
+                "w": "ferries",
+                "t": 5110.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 5550.0,
+                "d": 120.0
+              },
+              {
+                "w": "fords",
+                "t": 5670.0,
+                "d": 560.0
+              },
+              {
+                "w": "and",
+                "t": 6390.0,
+                "d": 320.0
+              },
+              {
+                "w": "planned",
+                "t": 6710.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 7030.0,
+                "d": 80.0
+              },
+              {
+                "w": "cut",
+                "t": 7110.0,
+                "d": 240.0
+              },
+              {
+                "w": "Humayun",
+                "t": 7350.0,
+                "d": 440.0
+              },
+              {
+                "w": "from",
+                "t": 7790.0,
+                "d": 200.0
+              },
+              {
+                "w": "his",
+                "t": 7990.0,
+                "d": 159.0
+              },
+              {
+                "w": "own",
+                "t": 8149.0,
+                "d": 281.0
+              },
+              {
+                "w": "heartland",
+                "t": 8430.0,
+                "d": 520.0
+              },
+              {
+                "w": "with",
+                "t": 8950.0,
+                "d": 199.0
+              },
+              {
+                "w": "speed",
+                "t": 9149.0,
+                "d": 641.0
+              },
+              {
+                "w": "not",
+                "t": 9790.0,
+                "d": 359.0
+              },
+              {
+                "w": "weight",
+                "t": 10149.0,
+                "d": 240.0
+              },
+              {
+                "w": "alone",
+                "t": 10389.0,
+                "d": 521.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/kannauj_and_the_silent_guns/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/kannauj_and_the_silent_guns/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Sher Shah surveys the river plain, his calm gaze turning the Ganges into a planned corridor of conquest.",
+            "hi": "शेरशाह शांत नज़र से नदी का मैदानी इलाक़ा टटोलता है, गंगा उसकी नज़र में फ़तह की चुनी हुई राह बन जाती है।"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/action/action_auto_en.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Sher",
+                "t": 80.0,
+                "d": 459.0
+              },
+              {
+                "w": "Shah",
+                "t": 540.0,
+                "d": 321.0
+              },
+              {
+                "w": "surveys",
+                "t": 862.0,
+                "d": 551.0
+              },
+              {
+                "w": "the",
+                "t": 1413.0,
+                "d": 183.0
+              },
+              {
+                "w": "river",
+                "t": 1597.0,
+                "d": 367.0
+              },
+              {
+                "w": "plain",
+                "t": 1965.0,
+                "d": 597.0
+              },
+              {
+                "w": "his",
+                "t": 2745.0,
+                "d": 414.0
+              },
+              {
+                "w": "calm",
+                "t": 3160.0,
+                "d": 367.0
+              },
+              {
+                "w": "gaze",
+                "t": 3528.0,
+                "d": 458.0
+              },
+              {
+                "w": "turning",
+                "t": 3987.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 4355.0,
+                "d": 137.0
+              },
+              {
+                "w": "Ganges",
+                "t": 4493.0,
+                "d": 644.0
+              },
+              {
+                "w": "into",
+                "t": 5137.0,
+                "d": 367.0
+              },
+              {
+                "w": "a",
+                "t": 5505.0,
+                "d": 91.0
+              },
+              {
+                "w": "planned",
+                "t": 5597.0,
+                "d": 459.0
+              },
+              {
+                "w": "corridor",
+                "t": 6057.0,
+                "d": 643.0
+              },
+              {
+                "w": "of",
+                "t": 6701.0,
+                "d": 275.0
+              },
+              {
+                "w": "conquest",
+                "t": 6977.0,
+                "d": 1057.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/kannauj_and_the_silent_guns/img/p05.png",
+      "shot": "dramatic side-shot of night at Chausa, Humayun’s camp tents stretching along the Ganges, storm clouds gathering",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At Chausa in fifteen thirty-nine, Humayun's army lay heavy and unwary by the river, as Sher Shah crossed in the dark and struck at dawn, driving the Mughals into the Ganges' flood.",
+            "hi": "१५३९ के चौसा में, हुमायूँ की फौज गंगा किनारे भारी, बेफ़िक्र पड़ी थी, जब शेरशाह रात के अंधेरे में पार उतरा और सुबह की नमाज़ पर धावा बोलकर मुग़लों को गंगा की लहरों में धकेल दिया"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p05_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 110.0,
+                "d": 200.0
+              },
+              {
+                "w": "Chausa",
+                "t": 310.0,
+                "d": 560.0
+              },
+              {
+                "w": "in",
+                "t": 870.0,
+                "d": 120.0
+              },
+              {
+                "w": "fifteen",
+                "t": 990.0,
+                "d": 400.0
+              },
+              {
+                "w": "thirty-nine",
+                "t": 1390.0,
+                "d": 639.0
+              },
+              {
+                "w": "Humayun's",
+                "t": 2429.0,
+                "d": 601.0
+              },
+              {
+                "w": "army",
+                "t": 3030.0,
+                "d": 399.0
+              },
+              {
+                "w": "lay",
+                "t": 3429.0,
+                "d": 201.0
+              },
+              {
+                "w": "heavy",
+                "t": 3630.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 4150.0,
+                "d": 240.0
+              },
+              {
+                "w": "unwary",
+                "t": 4390.0,
+                "d": 520.0
+              },
+              {
+                "w": "by",
+                "t": 4910.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 5030.0,
+                "d": 120.0
+              },
+              {
+                "w": "river",
+                "t": 5150.0,
+                "d": 720.0
+              },
+              {
+                "w": "as",
+                "t": 6030.0,
+                "d": 280.0
+              },
+              {
+                "w": "Sher",
+                "t": 6310.0,
+                "d": 280.0
+              },
+              {
+                "w": "Shah",
+                "t": 6590.0,
+                "d": 240.0
+              },
+              {
+                "w": "crossed",
+                "t": 6830.0,
+                "d": 320.0
+              },
+              {
+                "w": "in",
+                "t": 7150.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 7230.0,
+                "d": 160.0
+              },
+              {
+                "w": "dark",
+                "t": 7390.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 7870.0,
+                "d": 159.0
+              },
+              {
+                "w": "struck",
+                "t": 8029.0,
+                "d": 280.0
+              },
+              {
+                "w": "at",
+                "t": 8309.0,
+                "d": 121.0
+              },
+              {
+                "w": "dawn",
+                "t": 8430.0,
+                "d": 520.0
+              },
+              {
+                "w": "driving",
+                "t": 9270.0,
+                "d": 439.0
+              },
+              {
+                "w": "the",
+                "t": 9709.0,
+                "d": 121.0
+              },
+              {
+                "w": "Mughals",
+                "t": 9830.0,
+                "d": 479.0
+              },
+              {
+                "w": "into",
+                "t": 10350.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 10590.0,
+                "d": 119.0
+              },
+              {
+                "w": "Ganges'",
+                "t": 10709.0,
+                "d": 561.0
+              },
+              {
+                "w": "flood",
+                "t": 11270.0,
+                "d": 560.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/kannauj_and_the_silent_guns/img/p06.png",
+      "shot": "close-up on a soaked, exhausted Humayun on a small boat, river behind him crowded with men and horses",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He escaped across the water with his life, his army broken. Sher Shah took the title of king, but the struggle for Hindustan was not yet ended.",
+            "hi": "वो किसी तरह पार निकल आया, जान तो बच गई, पर फ़ौज बिखर गई; शेरशाह ने बादशाह का ख़िताब लिया, पर हिंदुस्तान की लड़ाई अभी खत्म नहीं हुई थी"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p06_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "escaped",
+                "t": 310.0,
+                "d": 689.0
+              },
+              {
+                "w": "across",
+                "t": 1000.0,
+                "d": 505.0
+              },
+              {
+                "w": "the",
+                "t": 1505.0,
+                "d": 183.0
+              },
+              {
+                "w": "water",
+                "t": 1689.0,
+                "d": 413.0
+              },
+              {
+                "w": "with",
+                "t": 2103.0,
+                "d": 228.0
+              },
+              {
+                "w": "his",
+                "t": 2332.0,
+                "d": 185.0
+              },
+              {
+                "w": "life",
+                "t": 2517.0,
+                "d": 780.0
+              },
+              {
+                "w": "his",
+                "t": 3297.0,
+                "d": 368.0
+              },
+              {
+                "w": "army",
+                "t": 3666.0,
+                "d": 505.0
+              },
+              {
+                "w": "broken",
+                "t": 4172.0,
+                "d": 735.0
+              },
+              {
+                "w": "Sher",
+                "t": 5873.0,
+                "d": 505.0
+              },
+              {
+                "w": "Shah",
+                "t": 6379.0,
+                "d": 275.0
+              },
+              {
+                "w": "took",
+                "t": 6655.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 6885.0,
+                "d": 183.0
+              },
+              {
+                "w": "title",
+                "t": 7068.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 7482.0,
+                "d": 183.0
+              },
+              {
+                "w": "king",
+                "t": 7666.0,
+                "d": 919.0
+              },
+              {
+                "w": "but",
+                "t": 8632.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 8908.0,
+                "d": 137.0
+              },
+              {
+                "w": "struggle",
+                "t": 9045.0,
+                "d": 504.0
+              },
+              {
+                "w": "for",
+                "t": 9550.0,
+                "d": 231.0
+              },
+              {
+                "w": "Hindustan",
+                "t": 9781.0,
+                "d": 918.0
+              },
+              {
+                "w": "was",
+                "t": 10747.0,
+                "d": 367.0
+              },
+              {
+                "w": "not",
+                "t": 11114.0,
+                "d": 321.0
+              },
+              {
+                "w": "yet",
+                "t": 11436.0,
+                "d": 275.0
+              },
+              {
+                "w": "ended",
+                "t": 11712.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/kannauj_and_the_silent_guns/img/p07.png",
+      "shot": "wide shot inside the Diwan hall at Agra, Humayun on the throne, nobles divided in clusters, messengers arriving",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "After Chausa, he still held Agra and Delhi. Yet family letters from Kabul and Lahore carried cold words, and Mughal chroniclers would later speak of brothers who measured every risk in their own coin.",
+            "hi": "चौसा के बाद भी उसके पास आगरा और दिल्ली थे; मगर काबुल–लाहौर से आती घरेलू चिट्ठियाँ ठंडी थीं, और मुग़ल इतिहासकार बाद में लिखेंगे कि भाई हर ख़तरे को अपनी जेब से तौलते रहे"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p07_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "After",
+                "t": 117.0,
+                "d": 382.0
+              },
+              {
+                "w": "Chausa",
+                "t": 500.0,
+                "d": 638.0
+              },
+              {
+                "w": "he",
+                "t": 1180.0,
+                "d": 255.0
+              },
+              {
+                "w": "still",
+                "t": 1436.0,
+                "d": 297.0
+              },
+              {
+                "w": "held",
+                "t": 1734.0,
+                "d": 255.0
+              },
+              {
+                "w": "Agra",
+                "t": 1989.0,
+                "d": 637.0
+              },
+              {
+                "w": "and",
+                "t": 2670.0,
+                "d": 212.0
+              },
+              {
+                "w": "Delhi",
+                "t": 2882.0,
+                "d": 296.0
+              },
+              {
+                "w": "Yet",
+                "t": 3179.0,
+                "d": 382.0
+              },
+              {
+                "w": "family",
+                "t": 4457.0,
+                "d": 468.0
+              },
+              {
+                "w": "letters",
+                "t": 4925.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 5308.0,
+                "d": 255.0
+              },
+              {
+                "w": "Kabul",
+                "t": 5563.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 5946.0,
+                "d": 127.0
+              },
+              {
+                "w": "Lahore",
+                "t": 6074.0,
+                "d": 510.0
+              },
+              {
+                "w": "carried",
+                "t": 6627.0,
+                "d": 468.0
+              },
+              {
+                "w": "cold",
+                "t": 7095.0,
+                "d": 297.0
+              },
+              {
+                "w": "words",
+                "t": 7393.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 8202.0,
+                "d": 381.0
+              },
+              {
+                "w": "Mughal",
+                "t": 8584.0,
+                "d": 340.0
+              },
+              {
+                "w": "chroniclers",
+                "t": 8924.0,
+                "d": 681.0
+              },
+              {
+                "w": "would",
+                "t": 9606.0,
+                "d": 255.0
+              },
+              {
+                "w": "later",
+                "t": 9861.0,
+                "d": 340.0
+              },
+              {
+                "w": "speak",
+                "t": 10202.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 10542.0,
+                "d": 169.0
+              },
+              {
+                "w": "brothers",
+                "t": 10711.0,
+                "d": 595.0
+              },
+              {
+                "w": "who",
+                "t": 11351.0,
+                "d": 255.0
+              },
+              {
+                "w": "measured",
+                "t": 11606.0,
+                "d": 468.0
+              },
+              {
+                "w": "every",
+                "t": 12074.0,
+                "d": 381.0
+              },
+              {
+                "w": "risk",
+                "t": 12456.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 12882.0,
+                "d": 170.0
+              },
+              {
+                "w": "their",
+                "t": 13053.0,
+                "d": 211.0
+              },
+              {
+                "w": "own",
+                "t": 13264.0,
+                "d": 298.0
+              },
+              {
+                "w": "coin",
+                "t": 13563.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/kannauj_and_the_silent_guns/img/p08.png",
+      "shot": "medium close-up of Humayun reading a letter, face conflicted, one hand tightening on the scroll",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "So Kamran will not bring all his strength... even now.",
+            "hi": "तो कमरान आज भी पूरी ताक़त नहीं भेजेगा…"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p08_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "So",
+                "t": 49.0,
+                "d": 196.1
+              },
+              {
+                "w": "Kamran",
+                "t": 281.9,
+                "d": 539.2
+              },
+              {
+                "w": "will",
+                "t": 833.3,
+                "d": 269.6
+              },
+              {
+                "w": "not",
+                "t": 1103.0,
+                "d": 294.1
+              },
+              {
+                "w": "bring",
+                "t": 1409.3,
+                "d": 355.4
+              },
+              {
+                "w": "all",
+                "t": 1826.0,
+                "d": 269.6
+              },
+              {
+                "w": "his",
+                "t": 2095.6,
+                "d": 257.3
+              },
+              {
+                "w": "strength",
+                "t": 2402.0,
+                "d": 490.2
+              },
+              {
+                "w": "even",
+                "t": 3088.2,
+                "d": 318.6
+              },
+              {
+                "w": "now",
+                "t": 3406.9,
+                "d": 318.6
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/kannauj_and_the_silent_guns/img/p09.png",
+      "shot": "wide aerial shot of both armies maneuvering along the Ganges between Kannauj and Bilgram, dust clouds pluming",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Through late fifteen thirty-nine and early fifteen forty, Humayun and Sher Shah shadowed each other along the Ganges. Each sought ground that would feed his men, guard his flanks, and trap his rival.",
+            "hi": "१५३९ के आख़िर से १५४० की शुरुआत तक हुमायूँ और शेरशाह गंगा के साथ‑साथ चलते रहे; दोनों ऐसी ज़मीन ढूँढ रहे थे जो फौज को खिलाए, पंख बचाए और दुश्मन को फंसाए"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p09_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Through",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "late",
+                "t": 448.0,
+                "d": 367.0
+              },
+              {
+                "w": "fifteen",
+                "t": 816.0,
+                "d": 367.0
+              },
+              {
+                "w": "thirty-nine",
+                "t": 1183.0,
+                "d": 873.0
+              },
+              {
+                "w": "and",
+                "t": 2057.0,
+                "d": 183.0
+              },
+              {
+                "w": "early",
+                "t": 2241.0,
+                "d": 412.0
+              },
+              {
+                "w": "fifteen",
+                "t": 2654.0,
+                "d": 460.0
+              },
+              {
+                "w": "forty",
+                "t": 3114.0,
+                "d": 1286.0
+              },
+              {
+                "w": "Humayun",
+                "t": 4401.0,
+                "d": 598.0
+              },
+              {
+                "w": "and",
+                "t": 5000.0,
+                "d": 275.0
+              },
+              {
+                "w": "Sher",
+                "t": 5275.0,
+                "d": 321.0
+              },
+              {
+                "w": "Shah",
+                "t": 5597.0,
+                "d": 413.0
+              },
+              {
+                "w": "shadowed",
+                "t": 6149.0,
+                "d": 689.0
+              },
+              {
+                "w": "each",
+                "t": 6839.0,
+                "d": 321.0
+              },
+              {
+                "w": "other",
+                "t": 7160.0,
+                "d": 367.0
+              },
+              {
+                "w": "along",
+                "t": 7528.0,
+                "d": 413.0
+              },
+              {
+                "w": "the",
+                "t": 7942.0,
+                "d": 137.0
+              },
+              {
+                "w": "Ganges",
+                "t": 8080.0,
+                "d": 1470.0
+              },
+              {
+                "w": "Each",
+                "t": 9642.0,
+                "d": 367.0
+              },
+              {
+                "w": "sought",
+                "t": 10010.0,
+                "d": 413.0
+              },
+              {
+                "w": "ground",
+                "t": 10424.0,
+                "d": 782.0
+              },
+              {
+                "w": "that",
+                "t": 11206.0,
+                "d": 275.0
+              },
+              {
+                "w": "would",
+                "t": 11482.0,
+                "d": 229.0
+              },
+              {
+                "w": "feed",
+                "t": 11712.0,
+                "d": 228.0
+              },
+              {
+                "w": "his",
+                "t": 11941.0,
+                "d": 183.0
+              },
+              {
+                "w": "men",
+                "t": 12125.0,
+                "d": 736.0
+              },
+              {
+                "w": "guard",
+                "t": 12862.0,
+                "d": 412.0
+              },
+              {
+                "w": "his",
+                "t": 13274.0,
+                "d": 183.0
+              },
+              {
+                "w": "flanks",
+                "t": 13458.0,
+                "d": 828.0
+              },
+              {
+                "w": "and",
+                "t": 14471.0,
+                "d": 413.0
+              },
+              {
+                "w": "trap",
+                "t": 14885.0,
+                "d": 275.0
+              },
+              {
+                "w": "his",
+                "t": 15160.0,
+                "d": 183.0
+              },
+              {
+                "w": "rival",
+                "t": 15344.0,
+                "d": 643.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/kannauj_and_the_silent_guns/img/p10.png",
+      "shot": "ground-level shot of the Mughal artillery park being positioned, massive cannon dragged by oxen, engineers pointing",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By May fifteen forty, near Kannauj and Bilgram, Humayun anchored his hope in artillery. Mirza Haidar would later write that cannon and firearms stood ready, a wall of metal on the plain.",
+            "hi": "१५४० के मई में, कन्नौज–बिलग्राम के पास, हुमायूँ ने अपनी उम्मीद तोपख़ाने पर टिका दी; मिर्ज़ा हैदर बाद में लिखेगा कि तोपें और बंदूकें मैदान में लोहे की दीवार बनकर खड़ी थीं"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p10_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 70.0,
+                "d": 80.0
+              },
+              {
+                "w": "May",
+                "t": 150.0,
+                "d": 360.0
+              },
+              {
+                "w": "fifteen",
+                "t": 510.0,
+                "d": 400.0
+              },
+              {
+                "w": "forty",
+                "t": 910.0,
+                "d": 680.0
+              },
+              {
+                "w": "near",
+                "t": 1590.0,
+                "d": 360.0
+              },
+              {
+                "w": "Kannauj",
+                "t": 1950.0,
+                "d": 439.0
+              },
+              {
+                "w": "and",
+                "t": 2429.0,
+                "d": 281.0
+              },
+              {
+                "w": "Bilgram",
+                "t": 2710.0,
+                "d": 800.0
+              },
+              {
+                "w": "Humayun",
+                "t": 3510.0,
+                "d": 520.0
+              },
+              {
+                "w": "anchored",
+                "t": 4030.0,
+                "d": 440.0
+              },
+              {
+                "w": "his",
+                "t": 4470.0,
+                "d": 160.0
+              },
+              {
+                "w": "hope",
+                "t": 4630.0,
+                "d": 280.0
+              },
+              {
+                "w": "in",
+                "t": 4910.0,
+                "d": 80.0
+              },
+              {
+                "w": "artillery",
+                "t": 4990.0,
+                "d": 1120.0
+              },
+              {
+                "w": "Mirza",
+                "t": 6750.0,
+                "d": 440.0
+              },
+              {
+                "w": "Haidar",
+                "t": 7190.0,
+                "d": 320.0
+              },
+              {
+                "w": "would",
+                "t": 7510.0,
+                "d": 200.0
+              },
+              {
+                "w": "later",
+                "t": 7710.0,
+                "d": 319.0
+              },
+              {
+                "w": "write",
+                "t": 8029.0,
+                "d": 241.0
+              },
+              {
+                "w": "that",
+                "t": 8270.0,
+                "d": 199.0
+              },
+              {
+                "w": "cannon",
+                "t": 8469.0,
+                "d": 401.0
+              },
+              {
+                "w": "and",
+                "t": 8910.0,
+                "d": 200.0
+              },
+              {
+                "w": "firearms",
+                "t": 9110.0,
+                "d": 480.0
+              },
+              {
+                "w": "stood",
+                "t": 9590.0,
+                "d": 280.0
+              },
+              {
+                "w": "ready",
+                "t": 9870.0,
+                "d": 640.0
+              },
+              {
+                "w": "a",
+                "t": 10590.0,
+                "d": 240.0
+              },
+              {
+                "w": "wall",
+                "t": 10830.0,
+                "d": 280.0
+              },
+              {
+                "w": "of",
+                "t": 11110.0,
+                "d": 119.0
+              },
+              {
+                "w": "metal",
+                "t": 11229.0,
+                "d": 320.0
+              },
+              {
+                "w": "on",
+                "t": 11549.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 11629.0,
+                "d": 121.0
+              },
+              {
+                "w": "plain",
+                "t": 11750.0,
+                "d": 399.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/kannauj_and_the_silent_guns/img/p11.png",
+      "shot": "medium shot of Sher Shah on horseback on a low rise, observing the Mughal camp through the heat haze",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across the field, Sher Shah watched those guns and the river at their back. Sarwani says he chose his ground, planned his approach, and trusted his men's speed more than weight of shot.",
+            "hi": "सामने के मोर्चे पर शेरशाह उन तोपों को देख रहा था और पीठ पर बहती नदी को; सरवानी कहते हैं उसने ज़मीन चुनी, रास्ता तय किया, और गोलों से ज़्यादा अपने सिपाहियों की रफ़्तार पर भरोसा किया"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p11_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 110.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 510.0,
+                "d": 160.0
+              },
+              {
+                "w": "field",
+                "t": 670.0,
+                "d": 600.0
+              },
+              {
+                "w": "Sher",
+                "t": 1310.0,
+                "d": 440.0
+              },
+              {
+                "w": "Shah",
+                "t": 1750.0,
+                "d": 240.0
+              },
+              {
+                "w": "watched",
+                "t": 1990.0,
+                "d": 399.0
+              },
+              {
+                "w": "those",
+                "t": 2389.0,
+                "d": 241.0
+              },
+              {
+                "w": "guns",
+                "t": 2630.0,
+                "d": 640.0
+              },
+              {
+                "w": "and",
+                "t": 3309.0,
+                "d": 201.0
+              },
+              {
+                "w": "the",
+                "t": 3510.0,
+                "d": 120.0
+              },
+              {
+                "w": "river",
+                "t": 3630.0,
+                "d": 319.0
+              },
+              {
+                "w": "at",
+                "t": 3949.0,
+                "d": 161.0
+              },
+              {
+                "w": "their",
+                "t": 4110.0,
+                "d": 200.0
+              },
+              {
+                "w": "back",
+                "t": 4310.0,
+                "d": 1200.0
+              },
+              {
+                "w": "Sarwani",
+                "t": 5670.0,
+                "d": 560.0
+              },
+              {
+                "w": "says",
+                "t": 6230.0,
+                "d": 400.0
+              },
+              {
+                "w": "he",
+                "t": 6630.0,
+                "d": 200.0
+              },
+              {
+                "w": "chose",
+                "t": 6830.0,
+                "d": 320.0
+              },
+              {
+                "w": "his",
+                "t": 7150.0,
+                "d": 160.0
+              },
+              {
+                "w": "ground",
+                "t": 7310.0,
+                "d": 600.0
+              },
+              {
+                "w": "planned",
+                "t": 8149.0,
+                "d": 361.0
+              },
+              {
+                "w": "his",
+                "t": 8510.0,
+                "d": 119.0
+              },
+              {
+                "w": "approach",
+                "t": 8629.0,
+                "d": 721.0
+              },
+              {
+                "w": "and",
+                "t": 9350.0,
+                "d": 320.0
+              },
+              {
+                "w": "trusted",
+                "t": 9670.0,
+                "d": 399.0
+              },
+              {
+                "w": "his",
+                "t": 10069.0,
+                "d": 160.0
+              },
+              {
+                "w": "men's",
+                "t": 10229.0,
+                "d": 361.0
+              },
+              {
+                "w": "speed",
+                "t": 10590.0,
+                "d": 559.0
+              },
+              {
+                "w": "more",
+                "t": 11190.0,
+                "d": 359.0
+              },
+              {
+                "w": "than",
+                "t": 11549.0,
+                "d": 201.0
+              },
+              {
+                "w": "weight",
+                "t": 11750.0,
+                "d": 280.0
+              },
+              {
+                "w": "of",
+                "t": 12030.0,
+                "d": 80.0
+              },
+              {
+                "w": "shot",
+                "t": 12110.0,
+                "d": 519.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/kannauj_and_the_silent_guns/img/p12.png",
+      "shot": "tight shot from behind Humayun as he surveys his line of guns and cavalry, morning mist lifting",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "We will let the guns break them, then ride them down.",
+            "hi": "पहले तोपें इन्हें तोड़ेंगी, फिर हम घोड़ों से कुचल देंगे"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p12_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 46.3,
+                "d": 173.6
+              },
+              {
+                "w": "will",
+                "t": 254.6,
+                "d": 231.5
+              },
+              {
+                "w": "let",
+                "t": 486.1,
+                "d": 277.8
+              },
+              {
+                "w": "the",
+                "t": 775.5,
+                "d": 138.9
+              },
+              {
+                "w": "guns",
+                "t": 914.3,
+                "d": 382.0
+              },
+              {
+                "w": "break",
+                "t": 1296.3,
+                "d": 300.9
+              },
+              {
+                "w": "them",
+                "t": 1597.2,
+                "d": 358.8
+              },
+              {
+                "w": "then",
+                "t": 2094.9,
+                "d": 277.8
+              },
+              {
+                "w": "ride",
+                "t": 2372.7,
+                "d": 300.9
+              },
+              {
+                "w": "them",
+                "t": 2673.6,
+                "d": 300.9
+              },
+              {
+                "w": "down",
+                "t": 2974.5,
+                "d": 393.5
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/kannauj_and_the_silent_guns/img/p13.png",
+      "shot": "wide dynamic shot of Afghan forces advancing in ordered divisions, some slipping toward the flanks, dust swirling",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On 17 May, Sher Shah's army moved. Afghan chroniclers describe divisions sent to press the Mughal front, others to feel for their sides, seeking to break the line before the guns could speak.",
+            "hi": "१७ मई को शेरशाह की फौज चली; अफ़गान इतिहासकार लिखते हैं कि कुछ दस्ता सामने से दबाने भेजे, कुछ बाएँ–दाएँ टटोलने, ताकि पंक्ति तोड़ दें, इससे पहले कि तोपें बोलें"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p13_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "17 May",
+                "t": 310.0,
+                "d": 960.0
+              },
+              {
+                "w": "Sher",
+                "t": 1390.0,
+                "d": 400.0
+              },
+              {
+                "w": "Shah's",
+                "t": 1790.0,
+                "d": 400.0
+              },
+              {
+                "w": "army",
+                "t": 2190.0,
+                "d": 400.0
+              },
+              {
+                "w": "moved",
+                "t": 2590.0,
+                "d": 520.0
+              },
+              {
+                "w": "Afghan",
+                "t": 4030.0,
+                "d": 400.0
+              },
+              {
+                "w": "chroniclers",
+                "t": 4430.0,
+                "d": 600.0
+              },
+              {
+                "w": "describe",
+                "t": 5030.0,
+                "d": 480.0
+              },
+              {
+                "w": "divisions",
+                "t": 5510.0,
+                "d": 520.0
+              },
+              {
+                "w": "sent",
+                "t": 6030.0,
+                "d": 600.0
+              },
+              {
+                "w": "to",
+                "t": 6630.0,
+                "d": 160.0
+              },
+              {
+                "w": "press",
+                "t": 6790.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 7030.0,
+                "d": 120.0
+              },
+              {
+                "w": "Mughal",
+                "t": 7150.0,
+                "d": 320.0
+              },
+              {
+                "w": "front",
+                "t": 7470.0,
+                "d": 839.0
+              },
+              {
+                "w": "others",
+                "t": 8350.0,
+                "d": 359.0
+              },
+              {
+                "w": "to",
+                "t": 8709.0,
+                "d": 161.0
+              },
+              {
+                "w": "feel",
+                "t": 8870.0,
+                "d": 240.0
+              },
+              {
+                "w": "for",
+                "t": 9110.0,
+                "d": 160.0
+              },
+              {
+                "w": "their",
+                "t": 9270.0,
+                "d": 199.0
+              },
+              {
+                "w": "sides",
+                "t": 9469.0,
+                "d": 561.0
+              },
+              {
+                "w": "seeking",
+                "t": 10229.0,
+                "d": 521.0
+              },
+              {
+                "w": "to",
+                "t": 10750.0,
+                "d": 120.0
+              },
+              {
+                "w": "break",
+                "t": 10870.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 11110.0,
+                "d": 119.0
+              },
+              {
+                "w": "line",
+                "t": 11229.0,
+                "d": 320.0
+              },
+              {
+                "w": "before",
+                "t": 11549.0,
+                "d": 241.0
+              },
+              {
+                "w": "the",
+                "t": 11790.0,
+                "d": 160.0
+              },
+              {
+                "w": "guns",
+                "t": 11950.0,
+                "d": 279.0
+              },
+              {
+                "w": "could",
+                "t": 12229.0,
+                "d": 201.0
+              },
+              {
+                "w": "speak",
+                "t": 12430.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/kannauj_and_the_silent_guns/img/p14.png",
+      "shot": "medium shot of Mughal gunners at their pieces, fuses ready, but officers looking back toward the command tent, uncertain",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Mirza Haidar records that the cannon and matchlocks were not discharged. Whether from confusion, fear of hitting their own, or orders never given, the thunder stayed locked in iron.",
+            "hi": "मिर्ज़ा हैदर लिखते हैं कि न तोप चली, न बंदूक; न जाने गड़बड़ी से, अपने ही मरने के डर से, या हुक्म ही न आने से, गरज लोहे के सीने में बंद रही"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p14_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Mirza",
+                "t": 70.0,
+                "d": 440.0
+              },
+              {
+                "w": "Haidar",
+                "t": 510.0,
+                "d": 280.0
+              },
+              {
+                "w": "records",
+                "t": 790.0,
+                "d": 480.0
+              },
+              {
+                "w": "that",
+                "t": 1270.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 1430.0,
+                "d": 160.0
+              },
+              {
+                "w": "cannon",
+                "t": 1590.0,
+                "d": 320.0
+              },
+              {
+                "w": "and",
+                "t": 1910.0,
+                "d": 160.0
+              },
+              {
+                "w": "matchlocks",
+                "t": 2070.0,
+                "d": 520.0
+              },
+              {
+                "w": "were",
+                "t": 2590.0,
+                "d": 199.0
+              },
+              {
+                "w": "not",
+                "t": 2789.0,
+                "d": 241.0
+              },
+              {
+                "w": "discharged",
+                "t": 3030.0,
+                "d": 919.0
+              },
+              {
+                "w": "Whether",
+                "t": 4030.0,
+                "d": 320.0
+              },
+              {
+                "w": "from",
+                "t": 4350.0,
+                "d": 200.0
+              },
+              {
+                "w": "confusion",
+                "t": 4550.0,
+                "d": 800.0
+              },
+              {
+                "w": "fear",
+                "t": 5430.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 5750.0,
+                "d": 80.0
+              },
+              {
+                "w": "hitting",
+                "t": 5830.0,
+                "d": 280.0
+              },
+              {
+                "w": "their",
+                "t": 6110.0,
+                "d": 200.0
+              },
+              {
+                "w": "own",
+                "t": 6310.0,
+                "d": 480.0
+              },
+              {
+                "w": "or",
+                "t": 6910.0,
+                "d": 280.0
+              },
+              {
+                "w": "orders",
+                "t": 7190.0,
+                "d": 360.0
+              },
+              {
+                "w": "never",
+                "t": 7550.0,
+                "d": 320.0
+              },
+              {
+                "w": "given",
+                "t": 7870.0,
+                "d": 599.0
+              },
+              {
+                "w": "the",
+                "t": 8709.0,
+                "d": 241.0
+              },
+              {
+                "w": "thunder",
+                "t": 8950.0,
+                "d": 359.0
+              },
+              {
+                "w": "stayed",
+                "t": 9309.0,
+                "d": 320.0
+              },
+              {
+                "w": "locked",
+                "t": 9629.0,
+                "d": 321.0
+              },
+              {
+                "w": "in",
+                "t": 9950.0,
+                "d": 80.0
+              },
+              {
+                "w": "iron",
+                "t": 10030.0,
+                "d": 519.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/kannauj_and_the_silent_guns/img/p15.png",
+      "shot": "chaotic wide shot of the Mughal center as Afghan attack hits, cavalry wheeling, dust blinding, the gun line beginning to buckle",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Without the planned hail of shot, Sher Shah's charge bit deep into the Mughal center. The line that had been drawn around the guns became a tangle of men seeking to save themselves.",
+            "hi": "जब तयशुदा गोलों की बारिश नहीं हुई, तो शेरशाह का धावा मुग़ल बीचोंबीच धँस गया; तोपों के चारों तरफ बनाई गई लकीर टूटकर ऐसे बिखरी कि हर आदमी बस अपनी जान बचाने लगा"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p15_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Without",
+                "t": 70.0,
+                "d": 440.0
+              },
+              {
+                "w": "the",
+                "t": 510.0,
+                "d": 120.0
+              },
+              {
+                "w": "planned",
+                "t": 630.0,
+                "d": 400.0
+              },
+              {
+                "w": "hail",
+                "t": 1030.0,
+                "d": 160.0
+              },
+              {
+                "w": "of",
+                "t": 1190.0,
+                "d": 80.0
+              },
+              {
+                "w": "shot",
+                "t": 1270.0,
+                "d": 640.0
+              },
+              {
+                "w": "Sher",
+                "t": 2070.0,
+                "d": 399.0
+              },
+              {
+                "w": "Shah's",
+                "t": 2469.0,
+                "d": 400.0
+              },
+              {
+                "w": "charge",
+                "t": 2869.0,
+                "d": 401.0
+              },
+              {
+                "w": "bit",
+                "t": 3270.0,
+                "d": 159.0
+              },
+              {
+                "w": "deep",
+                "t": 3429.0,
+                "d": 360.0
+              },
+              {
+                "w": "into",
+                "t": 3789.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 3989.0,
+                "d": 161.0
+              },
+              {
+                "w": "Mughal",
+                "t": 4150.0,
+                "d": 280.0
+              },
+              {
+                "w": "center",
+                "t": 4430.0,
+                "d": 560.0
+              },
+              {
+                "w": "The",
+                "t": 5750.0,
+                "d": 160.0
+              },
+              {
+                "w": "line",
+                "t": 5910.0,
+                "d": 240.0
+              },
+              {
+                "w": "that",
+                "t": 6150.0,
+                "d": 160.0
+              },
+              {
+                "w": "had",
+                "t": 6310.0,
+                "d": 160.0
+              },
+              {
+                "w": "been",
+                "t": 6470.0,
+                "d": 160.0
+              },
+              {
+                "w": "drawn",
+                "t": 6630.0,
+                "d": 280.0
+              },
+              {
+                "w": "around",
+                "t": 6910.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 7150.0,
+                "d": 120.0
+              },
+              {
+                "w": "guns",
+                "t": 7270.0,
+                "d": 520.0
+              },
+              {
+                "w": "became",
+                "t": 7870.0,
+                "d": 400.0
+              },
+              {
+                "w": "a",
+                "t": 8270.0,
+                "d": 39.0
+              },
+              {
+                "w": "tangle",
+                "t": 8309.0,
+                "d": 441.0
+              },
+              {
+                "w": "of",
+                "t": 8750.0,
+                "d": 160.0
+              },
+              {
+                "w": "men",
+                "t": 8910.0,
+                "d": 360.0
+              },
+              {
+                "w": "seeking",
+                "t": 9350.0,
+                "d": 440.0
+              },
+              {
+                "w": "to",
+                "t": 9790.0,
+                "d": 120.0
+              },
+              {
+                "w": "save",
+                "t": 9910.0,
+                "d": 280.0
+              },
+              {
+                "w": "themselves",
+                "t": 10190.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/kannauj_and_the_silent_guns/img/p16.png",
+      "shot": "medium close-up of Humayun amid fleeing troops, trying to rally them, his horse rearing slightly",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Hold the line! Face them, do not throw away the field!",
+            "hi": "पंक्ति थामो! सामने देखो—मैदान यूँ मत फेंको!"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p16_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hold",
+                "t": 46.3,
+                "d": 312.5
+              },
+              {
+                "w": "the",
+                "t": 382.0,
+                "d": 138.9
+              },
+              {
+                "w": "line",
+                "t": 520.8,
+                "d": 393.5
+              },
+              {
+                "w": "Face",
+                "t": 1724.5,
+                "d": 312.5
+              },
+              {
+                "w": "them",
+                "t": 2037.0,
+                "d": 335.6
+              },
+              {
+                "w": "do",
+                "t": 2546.3,
+                "d": 150.5
+              },
+              {
+                "w": "not",
+                "t": 2708.3,
+                "d": 266.2
+              },
+              {
+                "w": "throw",
+                "t": 2974.5,
+                "d": 289.3
+              },
+              {
+                "w": "away",
+                "t": 3321.8,
+                "d": 289.3
+              },
+              {
+                "w": "the",
+                "t": 3611.1,
+                "d": 127.3
+              },
+              {
+                "w": "field",
+                "t": 3738.4,
+                "d": 416.7
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/kannauj_and_the_silent_guns/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/kannauj_and_the_silent_guns/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "For a heartbeat, Humayun stands against the rout, trying to turn panic into one last stand at the river's edge.",
+            "hi": "एक पल को हुमायूँ टूटती सेना के आगे जम जाता है, बेखौफ होकर नदी किनारे आख़िरी मोर्चा बनाने की जिद में।"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/action/action_auto2_en.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "For",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "a",
+                "t": 310.0,
+                "d": 40.0
+              },
+              {
+                "w": "heartbeat",
+                "t": 350.0,
+                "d": 720.0
+              },
+              {
+                "w": "Humayun",
+                "t": 1390.0,
+                "d": 480.0
+              },
+              {
+                "w": "stands",
+                "t": 1870.0,
+                "d": 360.0
+              },
+              {
+                "w": "against",
+                "t": 2230.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 2550.0,
+                "d": 120.0
+              },
+              {
+                "w": "rout",
+                "t": 2670.0,
+                "d": 480.0
+              },
+              {
+                "w": "trying",
+                "t": 3429.0,
+                "d": 321.0
+              },
+              {
+                "w": "to",
+                "t": 3750.0,
+                "d": 119.0
+              },
+              {
+                "w": "turn",
+                "t": 3869.0,
+                "d": 321.0
+              },
+              {
+                "w": "panic",
+                "t": 4190.0,
+                "d": 360.0
+              },
+              {
+                "w": "into",
+                "t": 4550.0,
+                "d": 200.0
+              },
+              {
+                "w": "one",
+                "t": 4750.0,
+                "d": 440.0
+              },
+              {
+                "w": "last",
+                "t": 5190.0,
+                "d": 280.0
+              },
+              {
+                "w": "stand",
+                "t": 5470.0,
+                "d": 480.0
+              },
+              {
+                "w": "at",
+                "t": 5990.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 6190.0,
+                "d": 120.0
+              },
+              {
+                "w": "river's",
+                "t": 6310.0,
+                "d": 360.0
+              },
+              {
+                "w": "edge",
+                "t": 6670.0,
+                "d": 480.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/kannauj_and_the_silent_guns/img/p17.png",
+      "shot": "wide shot toward the Ganges, Mughal camp followers and soldiers crowding toward the river, Afghan forces pressing in the distance",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "But the memory of Chausa clung to the men. With the river once more at their backs and the Afghan attack unbroken, many thought of escape before thought of standing.",
+            "hi": "पर चौसा की याद इनके दिलों से चिपकी थी; पीछे फिर से नदी, सामने अफ़गान हमला, तो बहुतों के दिमाग़ में खड़ा होने से पहले भागने का ख़्याल आया"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p17_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "But",
+                "t": 150.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 120.0
+              },
+              {
+                "w": "memory",
+                "t": 430.0,
+                "d": 360.0
+              },
+              {
+                "w": "of",
+                "t": 790.0,
+                "d": 160.0
+              },
+              {
+                "w": "Chausa",
+                "t": 950.0,
+                "d": 520.0
+              },
+              {
+                "w": "clung",
+                "t": 1470.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 1790.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 1910.0,
+                "d": 119.0
+              },
+              {
+                "w": "men",
+                "t": 2029.0,
+                "d": 161.0
+              },
+              {
+                "w": "With",
+                "t": 2190.0,
+                "d": 159.0
+              },
+              {
+                "w": "the",
+                "t": 2349.0,
+                "d": 201.0
+              },
+              {
+                "w": "river",
+                "t": 3070.0,
+                "d": 600.0
+              },
+              {
+                "w": "once",
+                "t": 3670.0,
+                "d": 360.0
+              },
+              {
+                "w": "more",
+                "t": 4030.0,
+                "d": 280.0
+              },
+              {
+                "w": "at",
+                "t": 4310.0,
+                "d": 120.0
+              },
+              {
+                "w": "their",
+                "t": 4430.0,
+                "d": 200.0
+              },
+              {
+                "w": "backs",
+                "t": 4630.0,
+                "d": 560.0
+              },
+              {
+                "w": "and",
+                "t": 5510.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 5750.0,
+                "d": 160.0
+              },
+              {
+                "w": "Afghan",
+                "t": 5910.0,
+                "d": 400.0
+              },
+              {
+                "w": "attack",
+                "t": 6310.0,
+                "d": 440.0
+              },
+              {
+                "w": "unbroken",
+                "t": 6750.0,
+                "d": 1240.0
+              },
+              {
+                "w": "many",
+                "t": 8309.0,
+                "d": 281.0
+              },
+              {
+                "w": "thought",
+                "t": 8590.0,
+                "d": 280.0
+              },
+              {
+                "w": "of",
+                "t": 8870.0,
+                "d": 120.0
+              },
+              {
+                "w": "escape",
+                "t": 8990.0,
+                "d": 639.0
+              },
+              {
+                "w": "before",
+                "t": 9629.0,
+                "d": 401.0
+              },
+              {
+                "w": "thought",
+                "t": 10030.0,
+                "d": 279.0
+              },
+              {
+                "w": "of",
+                "t": 10309.0,
+                "d": 80.0
+              },
+              {
+                "w": "standing",
+                "t": 10389.0,
+                "d": 601.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/kannauj_and_the_silent_guns/img/p18.png",
+      "shot": "long shot of Sher Shah’s camp after the battle, Mughal standards stacked, captured guns lined up, officers inspecting",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kannauj completed what Chausa began. Humayun's army had broken again; his guns were trophies, his road to Delhi and Agra closed by Sher Shah's new authority.",
+            "hi": "कन्नौज ने चौसा की कहानी पूरी कर दी; हुमायूँ की फौज फिर टूट गई, उसकी तोपें लूट की निशानी बनीं, और दिल्ली–आगरा का रास्ता अब शेरशाह की मुहर से बंद हो गया"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p18_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kannauj",
+                "t": 190.0,
+                "d": 440.0
+              },
+              {
+                "w": "completed",
+                "t": 630.0,
+                "d": 560.0
+              },
+              {
+                "w": "what",
+                "t": 1190.0,
+                "d": 280.0
+              },
+              {
+                "w": "Chausa",
+                "t": 1470.0,
+                "d": 440.0
+              },
+              {
+                "w": "began",
+                "t": 1910.0,
+                "d": 760.0
+              },
+              {
+                "w": "Humayun's",
+                "t": 2909.0,
+                "d": 601.0
+              },
+              {
+                "w": "army",
+                "t": 3510.0,
+                "d": 359.0
+              },
+              {
+                "w": "had",
+                "t": 3869.0,
+                "d": 201.0
+              },
+              {
+                "w": "broken",
+                "t": 4070.0,
+                "d": 280.0
+              },
+              {
+                "w": "again",
+                "t": 4350.0,
+                "d": 600.0
+              },
+              {
+                "w": "his",
+                "t": 5110.0,
+                "d": 240.0
+              },
+              {
+                "w": "guns",
+                "t": 5350.0,
+                "d": 320.0
+              },
+              {
+                "w": "were",
+                "t": 5670.0,
+                "d": 160.0
+              },
+              {
+                "w": "trophies",
+                "t": 5830.0,
+                "d": 760.0
+              },
+              {
+                "w": "his",
+                "t": 6710.0,
+                "d": 240.0
+              },
+              {
+                "w": "road",
+                "t": 6950.0,
+                "d": 200.0
+              },
+              {
+                "w": "to",
+                "t": 7150.0,
+                "d": 120.0
+              },
+              {
+                "w": "Delhi",
+                "t": 7270.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 7950.0,
+                "d": 320.0
+              },
+              {
+                "w": "Agra",
+                "t": 8270.0,
+                "d": 439.0
+              },
+              {
+                "w": "closed",
+                "t": 8709.0,
+                "d": 360.0
+              },
+              {
+                "w": "by",
+                "t": 9069.0,
+                "d": 201.0
+              },
+              {
+                "w": "Sher",
+                "t": 9270.0,
+                "d": 279.0
+              },
+              {
+                "w": "Shah's",
+                "t": 9549.0,
+                "d": 401.0
+              },
+              {
+                "w": "new",
+                "t": 9950.0,
+                "d": 199.0
+              },
+              {
+                "w": "authority",
+                "t": 10149.0,
+                "d": 641.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/kannauj_and_the_silent_guns/split_auto/s0.png",
+          "slogan": {
+            "en": "From Ganges, rule all Hindustan",
+            "hi": "गंगा से शासित होगा हिन्दुस्तान"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/kannauj_and_the_silent_guns/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/kannauj_and_the_silent_guns/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Sher Shah's victory at Kannauj reshapes Hindustan, even as Humayun drifts downstream, carrying a broken crown and unspent resolve.",
+            "hi": "कन्नौज में शेरशाह की जीत से हिंदुस्तान बदल जाता है, उधर हुमायूँ टूटा ताज और अधूरी जिद लेकर धारा में बहता चला जाता है।"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/split/split_auto_en.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Sher",
+                "t": 72.0,
+                "d": 375.0
+              },
+              {
+                "w": "Shah's",
+                "t": 447.0,
+                "d": 458.0
+              },
+              {
+                "w": "victory",
+                "t": 906.0,
+                "d": 458.0
+              },
+              {
+                "w": "at",
+                "t": 1364.0,
+                "d": 250.0
+              },
+              {
+                "w": "Kannauj",
+                "t": 1614.0,
+                "d": 375.0
+              },
+              {
+                "w": "reshapes",
+                "t": 1989.0,
+                "d": 625.0
+              },
+              {
+                "w": "Hindustan",
+                "t": 2614.0,
+                "d": 1041.0
+              },
+              {
+                "w": "even",
+                "t": 3739.0,
+                "d": 332.0
+              },
+              {
+                "w": "as",
+                "t": 4071.0,
+                "d": 167.0
+              },
+              {
+                "w": "Humayun",
+                "t": 4239.0,
+                "d": 416.0
+              },
+              {
+                "w": "drifts",
+                "t": 4656.0,
+                "d": 333.0
+              },
+              {
+                "w": "downstream",
+                "t": 4989.0,
+                "d": 875.0
+              },
+              {
+                "w": "carrying",
+                "t": 5989.0,
+                "d": 416.0
+              },
+              {
+                "w": "a",
+                "t": 6406.0,
+                "d": 83.0
+              },
+              {
+                "w": "broken",
+                "t": 6489.0,
+                "d": 375.0
+              },
+              {
+                "w": "crown",
+                "t": 6864.0,
+                "d": 375.0
+              },
+              {
+                "w": "and",
+                "t": 7239.0,
+                "d": 250.0
+              },
+              {
+                "w": "unspent",
+                "t": 7489.0,
+                "d": 500.0
+              },
+              {
+                "w": "resolve",
+                "t": 7989.0,
+                "d": 708.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p19",
+      "art": "assets/kannauj_and_the_silent_guns/img/p19.png",
+      "shot": "somber mid-shot of Humayun in a small boat on a broad river again, this time more composed, looking back toward the receding plains",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From the Ganges plain he turned away, into years of wandering in Sindh's deserts, then to Persia and Afghanistan, a king without a kingdom seeking allies and another chance.",
+            "hi": "वो गंगा की मैदानी दुनिया से मुड़कर सिंध के रेगिस्तानों में भटकता रहा, फिर फ़ारस और अफ़ग़ानिस्तान, एक बिन तख़्त का बादशाह, जो हमसफ़र और दूसरा मौक़ा ढूँढता रहा"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p19_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p19_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 127.0
+              },
+              {
+                "w": "Ganges",
+                "t": 457.0,
+                "d": 553.0
+              },
+              {
+                "w": "plain",
+                "t": 1010.0,
+                "d": 297.0
+              },
+              {
+                "w": "he",
+                "t": 1308.0,
+                "d": 212.0
+              },
+              {
+                "w": "turned",
+                "t": 1521.0,
+                "d": 340.0
+              },
+              {
+                "w": "away",
+                "t": 1861.0,
+                "d": 510.0
+              },
+              {
+                "w": "into",
+                "t": 2372.0,
+                "d": 382.0
+              },
+              {
+                "w": "years",
+                "t": 2755.0,
+                "d": 424.0
+              },
+              {
+                "w": "of",
+                "t": 3179.0,
+                "d": 171.0
+              },
+              {
+                "w": "wandering",
+                "t": 3351.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 3861.0,
+                "d": 85.0
+              },
+              {
+                "w": "Sindh's",
+                "t": 3946.0,
+                "d": 510.0
+              },
+              {
+                "w": "deserts",
+                "t": 4457.0,
+                "d": 765.0
+              },
+              {
+                "w": "then",
+                "t": 5436.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 5734.0,
+                "d": 212.0
+              },
+              {
+                "w": "Persia",
+                "t": 5946.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 6414.0,
+                "d": 425.0
+              },
+              {
+                "w": "Afghanistan",
+                "t": 6840.0,
+                "d": 1106.0
+              },
+              {
+                "w": "a",
+                "t": 8159.0,
+                "d": 340.0
+              },
+              {
+                "w": "king",
+                "t": 8500.0,
+                "d": 211.0
+              },
+              {
+                "w": "without",
+                "t": 8711.0,
+                "d": 341.0
+              },
+              {
+                "w": "a",
+                "t": 9053.0,
+                "d": 85.0
+              },
+              {
+                "w": "kingdom",
+                "t": 9138.0,
+                "d": 638.0
+              },
+              {
+                "w": "seeking",
+                "t": 9861.0,
+                "d": 553.0
+              },
+              {
+                "w": "allies",
+                "t": 10414.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 11010.0,
+                "d": 211.0
+              },
+              {
+                "w": "another",
+                "t": 11222.0,
+                "d": 384.0
+              },
+              {
+                "w": "chance",
+                "t": 11606.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p20",
+      "art": "assets/kannauj_and_the_silent_guns/img/p20.png",
+      "shot": "wide establishing shot of Sher Shah inspecting a new sarai on the Grand Trunk road, with road, trees, and travelers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Delhi and along the old Uttarapatha, Sher Shah set his order: revenues measured, coins reformed, roads stitched and sarais raised, policies the later Mughals would adopt when they returned.",
+            "hi": "दिल्ली और पुराने उत्तरापथ पर शेरशाह ने अपना निज़ाम बैठाया: लगान नापा, सिक्के सुधारे, सड़कें जोड़ीं और सरायें खड़ी कीं—वे ही चालें जिन्हें लौटकर आने वाले मुग़ल अपनाएँगे"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p20_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p20_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Delhi",
+                "t": 287.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 968.0,
+                "d": 212.0
+              },
+              {
+                "w": "along",
+                "t": 1180.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 1521.0,
+                "d": 212.0
+              },
+              {
+                "w": "old",
+                "t": 1734.0,
+                "d": 340.0
+              },
+              {
+                "w": "Uttarapatha",
+                "t": 2117.0,
+                "d": 1020.0
+              },
+              {
+                "w": "Sher",
+                "t": 3265.0,
+                "d": 424.0
+              },
+              {
+                "w": "Shah",
+                "t": 3690.0,
+                "d": 256.0
+              },
+              {
+                "w": "set",
+                "t": 3946.0,
+                "d": 254.0
+              },
+              {
+                "w": "his",
+                "t": 4201.0,
+                "d": 171.0
+              },
+              {
+                "w": "order",
+                "t": 4372.0,
+                "d": 553.0
+              },
+              {
+                "w": "revenues",
+                "t": 5436.0,
+                "d": 595.0
+              },
+              {
+                "w": "measured",
+                "t": 6031.0,
+                "d": 765.0
+              },
+              {
+                "w": "coins",
+                "t": 6797.0,
+                "d": 425.0
+              },
+              {
+                "w": "reformed",
+                "t": 7223.0,
+                "d": 936.0
+              },
+              {
+                "w": "roads",
+                "t": 8159.0,
+                "d": 424.0
+              },
+              {
+                "w": "stitched",
+                "t": 8584.0,
+                "d": 639.0
+              },
+              {
+                "w": "and",
+                "t": 9223.0,
+                "d": 340.0
+              },
+              {
+                "w": "sarais",
+                "t": 9563.0,
+                "d": 468.0
+              },
+              {
+                "w": "raised",
+                "t": 10031.0,
+                "d": 638.0
+              },
+              {
+                "w": "policies",
+                "t": 10967.0,
+                "d": 639.0
+              },
+              {
+                "w": "the",
+                "t": 11606.0,
+                "d": 127.0
+              },
+              {
+                "w": "later",
+                "t": 11734.0,
+                "d": 340.0
+              },
+              {
+                "w": "Mughals",
+                "t": 12074.0,
+                "d": 425.0
+              },
+              {
+                "w": "would",
+                "t": 12500.0,
+                "d": 212.0
+              },
+              {
+                "w": "adopt",
+                "t": 12712.0,
+                "d": 425.0
+              },
+              {
+                "w": "when",
+                "t": 13138.0,
+                "d": 211.0
+              },
+              {
+                "w": "they",
+                "t": 13350.0,
+                "d": 170.0
+              },
+              {
+                "w": "returned",
+                "t": 13520.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p21",
+      "art": "assets/kannauj_and_the_silent_guns/img/p21.png",
+      "shot": "split composition: on one side, silent cannon at Kannauj; on the other, a later Mughal official measuring fields with a rope",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Irfan Habib and others trace how Sher Shah's revenue and road systems outlived his dynasty, woven into Akbar's empire, Kannauj's defeat shaping the rules of the kingdom that would follow.",
+            "hi": "इर्फ़ान हबीब व दूसरे बताते हैं कि शेरशाह की लगान और सड़क का सिस्टम उसकी नस्ल से भी ज़्यादा जिया, अकबर की सल्तनत में घुल गया—कन्नौज की हार ने आने वाले राज्य के क़ायदे लिखे"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p21_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p21_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Irfan",
+                "t": 110.0,
+                "d": 440.0
+              },
+              {
+                "w": "Habib",
+                "t": 550.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 910.0,
+                "d": 120.0
+              },
+              {
+                "w": "others",
+                "t": 1030.0,
+                "d": 640.0
+              },
+              {
+                "w": "trace",
+                "t": 1710.0,
+                "d": 360.0
+              },
+              {
+                "w": "how",
+                "t": 2070.0,
+                "d": 200.0
+              },
+              {
+                "w": "Sher",
+                "t": 2270.0,
+                "d": 320.0
+              },
+              {
+                "w": "Shah's",
+                "t": 2590.0,
+                "d": 359.0
+              },
+              {
+                "w": "revenue",
+                "t": 2949.0,
+                "d": 480.0
+              },
+              {
+                "w": "and",
+                "t": 3429.0,
+                "d": 201.0
+              },
+              {
+                "w": "road",
+                "t": 3630.0,
+                "d": 239.0
+              },
+              {
+                "w": "systems",
+                "t": 3869.0,
+                "d": 441.0
+              },
+              {
+                "w": "outlived",
+                "t": 4310.0,
+                "d": 520.0
+              },
+              {
+                "w": "his",
+                "t": 4830.0,
+                "d": 160.0
+              },
+              {
+                "w": "dynasty",
+                "t": 4990.0,
+                "d": 840.0
+              },
+              {
+                "w": "woven",
+                "t": 6030.0,
+                "d": 440.0
+              },
+              {
+                "w": "into",
+                "t": 6470.0,
+                "d": 280.0
+              },
+              {
+                "w": "Akbar's",
+                "t": 6750.0,
+                "d": 360.0
+              },
+              {
+                "w": "empire",
+                "t": 7110.0,
+                "d": 800.0
+              },
+              {
+                "w": "Kannauj's",
+                "t": 8069.0,
+                "d": 441.0
+              },
+              {
+                "w": "defeat",
+                "t": 8510.0,
+                "d": 559.0
+              },
+              {
+                "w": "shaping",
+                "t": 9069.0,
+                "d": 480.0
+              },
+              {
+                "w": "the",
+                "t": 9549.0,
+                "d": 121.0
+              },
+              {
+                "w": "rules",
+                "t": 9670.0,
+                "d": 280.0
+              },
+              {
+                "w": "of",
+                "t": 9950.0,
+                "d": 119.0
+              },
+              {
+                "w": "the",
+                "t": 10069.0,
+                "d": 160.0
+              },
+              {
+                "w": "kingdom",
+                "t": 10229.0,
+                "d": 601.0
+              },
+              {
+                "w": "that",
+                "t": 10870.0,
+                "d": 160.0
+              },
+              {
+                "w": "would",
+                "t": 11030.0,
+                "d": 199.0
+              },
+              {
+                "w": "follow",
+                "t": 11229.0,
+                "d": 480.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p22",
+      "art": "assets/kannauj_and_the_silent_guns/img/p22.png",
+      "shot": "intimate close-up on an older Humayun’s face (hint of age), eyes reflecting both hardship and resolve, background blurred",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When Humayun returned years later with Persian aid, he walked again over plains where his guns had once kept their silence. Kannauj remained in his memory as the price of divided command.",
+            "hi": "सालों बाद जब हुमायूँ फ़ारसी मदद के साथ लौटा, तो फिर उन मैदानों से गुज़रा जहाँ उसकी तोपें कभी चुप रही थीं; कन्नौज उसकी याद में बँटा हुआ फ़रमान होने की कीमत बनकर रहा"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p22_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p22_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "Humayun",
+                "t": 310.0,
+                "d": 400.0
+              },
+              {
+                "w": "returned",
+                "t": 710.0,
+                "d": 440.0
+              },
+              {
+                "w": "years",
+                "t": 1150.0,
+                "d": 240.0
+              },
+              {
+                "w": "later",
+                "t": 1390.0,
+                "d": 400.0
+              },
+              {
+                "w": "with",
+                "t": 1790.0,
+                "d": 200.0
+              },
+              {
+                "w": "Persian",
+                "t": 1990.0,
+                "d": 520.0
+              },
+              {
+                "w": "aid",
+                "t": 2510.0,
+                "d": 479.0
+              },
+              {
+                "w": "he",
+                "t": 2989.0,
+                "d": 320.0
+              },
+              {
+                "w": "walked",
+                "t": 3309.0,
+                "d": 361.0
+              },
+              {
+                "w": "again",
+                "t": 3670.0,
+                "d": 360.0
+              },
+              {
+                "w": "over",
+                "t": 4030.0,
+                "d": 280.0
+              },
+              {
+                "w": "plains",
+                "t": 4310.0,
+                "d": 640.0
+              },
+              {
+                "w": "where",
+                "t": 4990.0,
+                "d": 240.0
+              },
+              {
+                "w": "his",
+                "t": 5230.0,
+                "d": 160.0
+              },
+              {
+                "w": "guns",
+                "t": 5390.0,
+                "d": 360.0
+              },
+              {
+                "w": "had",
+                "t": 5750.0,
+                "d": 200.0
+              },
+              {
+                "w": "once",
+                "t": 5950.0,
+                "d": 440.0
+              },
+              {
+                "w": "kept",
+                "t": 6390.0,
+                "d": 240.0
+              },
+              {
+                "w": "their",
+                "t": 6630.0,
+                "d": 200.0
+              },
+              {
+                "w": "silence",
+                "t": 6830.0,
+                "d": 720.0
+              },
+              {
+                "w": "Kannauj",
+                "t": 8189.0,
+                "d": 440.0
+              },
+              {
+                "w": "remained",
+                "t": 8629.0,
+                "d": 440.0
+              },
+              {
+                "w": "in",
+                "t": 9069.0,
+                "d": 80.0
+              },
+              {
+                "w": "his",
+                "t": 9149.0,
+                "d": 201.0
+              },
+              {
+                "w": "memory",
+                "t": 9350.0,
+                "d": 600.0
+              },
+              {
+                "w": "as",
+                "t": 9950.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 10270.0,
+                "d": 160.0
+              },
+              {
+                "w": "price",
+                "t": 10430.0,
+                "d": 360.0
+              },
+              {
+                "w": "of",
+                "t": 10790.0,
+                "d": 160.0
+              },
+              {
+                "w": "divided",
+                "t": 10950.0,
+                "d": 480.0
+              },
+              {
+                "w": "command",
+                "t": 11430.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p23",
+      "art": "assets/kannauj_and_the_silent_guns/img/p23.png",
+      "shot": "final contemplative wide shot of the empty Kannauj field at sunset, faint outlines of old trenches and gun positions in the grass",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On that plain, a weapon unused weighed as heavily as any blow struck. Kannauj reminds us that empires can fall not only to enemy steel, but to silence, hesitation and roads left open to another's design.",
+            "hi": "उस मैदान पर, जो हथियार चला ही नहीं, उसका बोझ भी चलाए गए वार जितना भारी था; कन्नौज याद दिलाता है कि सल्तनतें सिर्फ़ दुश्मन की तलवार से नहीं, खामोशी, झिझक और खुली छोड़ दी गई राहों से भी गिरती हैं"
+          },
+          "audio": {
+            "en": "assets/kannauj_and_the_silent_guns/audio/en/p23_0.mp3",
+            "hi": "assets/kannauj_and_the_silent_guns/audio/hi/p23_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "that",
+                "t": 310.0,
+                "d": 280.0
+              },
+              {
+                "w": "plain",
+                "t": 590.0,
+                "d": 480.0
+              },
+              {
+                "w": "a",
+                "t": 1190.0,
+                "d": 200.0
+              },
+              {
+                "w": "weapon",
+                "t": 1390.0,
+                "d": 639.0
+              },
+              {
+                "w": "unused",
+                "t": 2029.0,
+                "d": 320.0
+              },
+              {
+                "w": "weighed",
+                "t": 2349.0,
+                "d": 401.0
+              },
+              {
+                "w": "as",
+                "t": 2750.0,
+                "d": 280.0
+              },
+              {
+                "w": "heavily",
+                "t": 3030.0,
+                "d": 480.0
+              },
+              {
+                "w": "as",
+                "t": 3510.0,
+                "d": 279.0
+              },
+              {
+                "w": "any",
+                "t": 3789.0,
+                "d": 361.0
+              },
+              {
+                "w": "blow",
+                "t": 4150.0,
+                "d": 280.0
+              },
+              {
+                "w": "struck",
+                "t": 4430.0,
+                "d": 1040.0
+              },
+              {
+                "w": "Kannauj",
+                "t": 5630.0,
+                "d": 320.0
+              },
+              {
+                "w": "reminds",
+                "t": 5950.0,
+                "d": 480.0
+              },
+              {
+                "w": "us",
+                "t": 6430.0,
+                "d": 200.0
+              },
+              {
+                "w": "that",
+                "t": 6630.0,
+                "d": 240.0
+              },
+              {
+                "w": "empires",
+                "t": 6870.0,
+                "d": 600.0
+              },
+              {
+                "w": "can",
+                "t": 7470.0,
+                "d": 160.0
+              },
+              {
+                "w": "fall",
+                "t": 7630.0,
+                "d": 640.0
+              },
+              {
+                "w": "not",
+                "t": 8389.0,
+                "d": 320.0
+              },
+              {
+                "w": "only",
+                "t": 8709.0,
+                "d": 241.0
+              },
+              {
+                "w": "to",
+                "t": 8950.0,
+                "d": 160.0
+              },
+              {
+                "w": "enemy",
+                "t": 9149.0,
+                "d": 320.0
+              },
+              {
+                "w": "steel",
+                "t": 9469.0,
+                "d": 600.0
+              },
+              {
+                "w": "but",
+                "t": 10270.0,
+                "d": 240.0
+              },
+              {
+                "w": "to",
+                "t": 10510.0,
+                "d": 119.0
+              },
+              {
+                "w": "silence",
+                "t": 10629.0,
+                "d": 760.0
+              },
+              {
+                "w": "hesitation",
+                "t": 11510.0,
+                "d": 920.0
+              },
+              {
+                "w": "and",
+                "t": 12469.0,
+                "d": 240.0
+              },
+              {
+                "w": "roads",
+                "t": 12709.0,
+                "d": 360.0
+              },
+              {
+                "w": "left",
+                "t": 13069.0,
+                "d": 281.0
+              },
+              {
+                "w": "open",
+                "t": 13350.0,
+                "d": 400.0
+              },
+              {
+                "w": "to",
+                "t": 13750.0,
+                "d": 160.0
+              },
+              {
+                "w": "another's",
+                "t": 13910.0,
+                "d": 440.0
+              },
+              {
+                "w": "design",
+                "t": 14350.0,
+                "d": 480.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Humayun at Chausa",
+    "epithets": [
+      "Sher Shah Suri: Lion of the Afghans",
+      "Sher Shah Suri: Conqueror of Hind",
+      "Humayun: Fortunate but Unsteady Emperor",
+      "Humayun: Exiled Mughal Shah"
+    ],
+    "legend": "On the Ganges plain, one silent cannon reshaped an empire."
+  }
+}
