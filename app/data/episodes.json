@@ -1,5 +1,5 @@
 {
-  "built": 390,
+  "built": 391,
   "chapters": [
     {
       "chapter": "The Ahom Kingdom of Assam",
@@ -10328,7 +10328,7 @@
     {
       "chapter": "Battles That Broke and Made Empires",
       "blurb": "",
-      "built": 0,
+      "built": 1,
       "total": 13,
       "parts": [
         {
@@ -10340,18 +10340,24 @@
               "title": "Bakhtiyar Takes Lakhnauti",
               "era": "Ghurid conquest of Bihar and Bengal, c. 1193-1204 CE",
               "series": "Ancient & Medieval India",
-              "built": false,
+              "built": true,
               "flagship": false,
               "chapter": "Battles That Broke and Made Empires",
               "chapter_part": "I. Distant Voices and Broken Frontiers",
               "chapter_order": 1,
               "year": 1193,
               "year_label": "1193 CE",
-              "legend": "A small cavalry force sacks Bihar's viharas, drives Lakshmana Sena from Nabadwip, and opens Bengal to centuries of new rule.",
-              "epithets": [],
-              "scenes": 0,
-              "langs": [],
-              "thumb": ""
+              "legend": "With a few hundred horsemen, he cracked open Bengal’s door.",
+              "epithets": [
+                "Bakhtiyar Khalji",
+                "Conqueror of Nadia"
+              ],
+              "scenes": 22,
+              "langs": [
+                "en",
+                "hi"
+              ],
+              "thumb": "assets/bakhtiyar_takes_lakhnauti/intro/hero.png"
             }
           ]
         },
@@ -10596,6 +10602,286 @@
               "year": 1846,
               "year_label": "1846 CE",
               "legend": "When the Sutlej bridge fails or is cut, thousands of Khalsa soldiers are trapped, and the Sikh Empire is forced into the Treaty of Lahore.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "The Pala and Sena Dynasties of Bengal",
+      "blurb": "",
+      "built": 0,
+      "total": 13,
+      "parts": [
+        {
+          "part": "I. From Fish-Law to the Northern Throne",
+          "episodes": [
+            {
+              "id": "the_fish_law_election",
+              "figure": "Gopala I",
+              "title": "The Fish-Law Election",
+              "era": "Founding of Pala rule, c. 750-756 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Pala and Sena Dynasties of Bengal",
+              "chapter_part": "I. From Fish-Law to the Northern Throne",
+              "chapter_order": 1,
+              "year": 750,
+              "year_label": "750 CE",
+              "legend": "When Bengal's chiefs were trapped in fish-law, they chose Gopala to end anarchy and begin four centuries of Pala power.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "dharmapala_at_kanauj",
+              "figure": "Dharmapala",
+              "title": "Dharmapala at Kanauj",
+              "era": "Tripartite struggle era, c. 775-821 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Pala and Sena Dynasties of Bengal",
+              "chapter_part": "I. From Fish-Law to the Northern Throne",
+              "chapter_order": 2,
+              "year": 775,
+              "year_label": "775 CE",
+              "legend": "Dharmapala installed a king at Kanauj and claimed northern homage, yet his rise depended on a hard game between Palas, Pratiharas and Rashtrakutas.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "II. Emperors, Oceans and Restorers",
+          "episodes": [
+            {
+              "id": "devapala_and_the_king_from_the_sea",
+              "figure": "Devapala and Balaputradeva",
+              "title": "Devapala and the King from the Sea",
+              "era": "Pala-Sailendra contact, c. 821-861 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Pala and Sena Dynasties of Bengal",
+              "chapter_part": "II. Emperors, Oceans and Restorers",
+              "chapter_order": 3,
+              "year": 821,
+              "year_label": "821 CE",
+              "legend": "A king from Sumatra asked Devapala for villages to support a Nalanda monastery, turning a copper plate into proof of an oceanic Buddhist network.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "mahipala_restores_gauda",
+              "figure": "Mahipala I",
+              "title": "Mahipala Restores Gauda",
+              "era": "Pala restoration, c. 978-1038 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Pala and Sena Dynasties of Bengal",
+              "chapter_part": "II. Emperors, Oceans and Restorers",
+              "chapter_order": 4,
+              "year": 978,
+              "year_label": "978 CE",
+              "legend": "After a century of weakness, Mahipala rebuilt Pala authority in Bengal before Rajendra Chola's northern raid exposed its limits.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "vijayasena_and_the_deopara_stone",
+              "figure": "Vijayasena",
+              "title": "Vijayasena and the Deopara Stone",
+              "era": "Rise of the Sena dynasty, c. 1096-1159 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Pala and Sena Dynasties of Bengal",
+              "chapter_part": "II. Emperors, Oceans and Restorers",
+              "chapter_order": 5,
+              "year": 1096,
+              "year_label": "1096 CE",
+              "legend": "Vijayasena turned a Karnataka-origin warrior household into Bengal's ruling power, while the Deopara stone carved conquest into Sanskrit poetry.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "III. Revolt, Conquest and the Edge of an Era",
+          "episodes": [
+            {
+              "id": "the_kaivarta_rebellion",
+              "figure": "Divya and Ramapala",
+              "title": "The Kaivarta Rebellion",
+              "era": "Varendra revolt and Pala recovery, c. 1075-1130 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Pala and Sena Dynasties of Bengal",
+              "chapter_part": "III. Revolt, Conquest and the Edge of an Era",
+              "chapter_order": 6,
+              "year": 1075,
+              "year_label": "1075 CE",
+              "legend": "River chiefs and cultivators held Varendra against the Palas until Ramapala rebuilt power through alliances and a brutal victory.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "bakhtiyar_rides_to_nabadwip",
+              "figure": "Bakhtiyar Khalji and Lakshmanasena",
+              "title": "Bakhtiyar Rides to Nabadwip",
+              "era": "Ghurid conquest of Bengal, c. 1203-1204 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Pala and Sena Dynasties of Bengal",
+              "chapter_part": "III. Revolt, Conquest and the Edge of an Era",
+              "chapter_order": 7,
+              "year": 1203,
+              "year_label": "1203 CE",
+              "legend": "Bakhtiyar Khalji's fast cavalry surprised Lakshmanasena's court at Nabadwip and ended Sena rule in western Bengal.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "IV. Monasteries, Markets and Master Crafts",
+          "episodes": [
+            {
+              "id": "vikramashila_s_six_gate_scholars",
+              "figure": "Dharmapala and Atisha",
+              "title": "Vikramashila's Six Gate Scholars",
+              "era": "Pala mahavihara network, late 8th-11th century CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Pala and Sena Dynasties of Bengal",
+              "chapter_part": "IV. Monasteries, Markets and Master Crafts",
+              "chapter_order": 8,
+              "year": 1050,
+              "year_label": "1050 CE",
+              "legend": "Dharmapala's monasteries trained scholars behind debated gates, cooled manuscripts with clever design and sent Atisha toward Tibet.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "cowries_and_copper_plates",
+              "figure": "Bengal merchants and grant scribes",
+              "title": "Cowries and Copper Plates",
+              "era": "Pala-Sena economy, 8th-12th century CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Pala and Sena Dynasties of Bengal",
+              "chapter_part": "IV. Monasteries, Markets and Master Crafts",
+              "chapter_order": 9,
+              "year": 1150,
+              "year_label": "1150 CE",
+              "legend": "In a delta short of metal coins, cowrie shells and copper-plate grants helped villages, monasteries and markets keep accounts.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "the_bronze_that_crossed_the_himalayas",
+              "figure": "Pala metalworkers and monks",
+              "title": "The Bronze That Crossed the Himalayas",
+              "era": "Pala art and manuscript circulation, 9th-12th century CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Pala and Sena Dynasties of Bengal",
+              "chapter_part": "IV. Monasteries, Markets and Master Crafts",
+              "chapter_order": 10,
+              "year": 1150,
+              "year_label": "1150 CE",
+              "legend": "Pala artists shaped bronzes and painted manuscripts that traveled with monks and helped form Buddhist art across the Himalayas.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "V. Books, Song and Surviving Memory",
+          "episodes": [
+            {
+              "id": "ballalasena_s_two_books",
+              "figure": "Ballalasena",
+              "title": "Ballalasena's Two Books",
+              "era": "Sena scholarship and social ordering, c. 1160-1178 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Pala and Sena Dynasties of Bengal",
+              "chapter_part": "V. Books, Song and Surviving Memory",
+              "chapter_order": 11,
+              "year": 1160,
+              "year_label": "1160 CE",
+              "legend": "Ballalasena wrote Sanskrit digests on gifts and omens while later memory tied his name to Bengal's strict Kulin hierarchy.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "jayadeva_sings_radha_s_return",
+              "figure": "Jayadeva",
+              "title": "Jayadeva Sings Radha's Return",
+              "era": "Court of Lakshmanasena, late 12th century CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Pala and Sena Dynasties of Bengal",
+              "chapter_part": "V. Books, Song and Surviving Memory",
+              "chapter_order": 12,
+              "year": 1150,
+              "year_label": "1150 CE",
+              "legend": "Jayadeva's Gita Govinda joined Sanskrit lyric, raga, tala and Radha-Krishna devotion into a song that crossed temples and languages.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "the_surviving_prajnaparamita",
+              "figure": "Pala scribes and Tibetan monks",
+              "title": "The Surviving Prajnaparamita",
+              "era": "Pala manuscript culture, 9th-13th century CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "The Pala and Sena Dynasties of Bengal",
+              "chapter_part": "V. Books, Song and Surviving Memory",
+              "chapter_order": 13,
+              "year": 1250,
+              "year_label": "1250 CE",
+              "legend": "Painted palm-leaf Prajnaparamita manuscripts survived because Pala monastic networks had already carried copies beyond the burning frontier.",
               "epithets": [],
               "scenes": 0,
               "langs": [],
