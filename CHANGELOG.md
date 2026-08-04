@@ -5,6 +5,14 @@ problems. Newest first.
 
 ---
 
+## 2026-08-04 — 🗡️ Battles That Forged Medieval India COMPLETE (10/10, de-duplicated) · 27 chapters · ten era-defining battles of the Delhi-Sultanate and pre-Mughal centuries (c. 1191–1564), Tarain to Sammel · builds roll into The Great Mughal Battles
+
+- **Battles That Forged Medieval India is COMPLETE (10/10, QA-clean, DE-DUPLICATED):** the seed had repeated several battles already told in the Ancient-battles, Kakatiya and Mughal-battles chapters; the unbuilt duplicates were replaced with fresh unique medieval battles, and the three that had already built (Dahir/Sindh, Nagabhata/Navsari, Suheldev/Bahraich — all told compliantly in the Ancient chapter) were removed for a clean, non-redundant chapter.
+- **The ten (chronological):** Tarain I & II (Prithviraj vs Ghor, the victory that became a defeat) · Gwalior (Qutb al-Din Aibak vs Sulakshanapala) · Chittor 1303 (Alauddin Khalji vs Ratnasimha — the siege's slaughter stated, the Padmini legend separated from the record) · Siwana (Khalji's desert siege) · Diu 1509 (Almeida vs the Mamluk-Gujarat fleet) · Sarangpur (Rana Kumbha vs Malwa) · Champaner (Mahmud Begada vs Patai Rawal — a conquest that became a capital) · Gagron (Rana Sanga's high tide) · Narrai (Rani Durgavati's last stand) · Sammel (Sher Shah vs Rao Maldev, "a handful of millet").
+- **Editorial standard held:** each states the record plainly — Chittor's slaughter (Khusrau), Champaner's execution of Patai Rawal (Mirat-i-Sikandari), Siwana's killing/plunder (the Delhi chroniclers) — attributed to the named source, with legend marked as legend (Padmini, the Durgavati dagger) and inflated numbers flagged. Durgavati's and Kumbha/Sanga's stands honour the defenders' valour truthfully.
+- **Pipeline lesson banked:** grow.py caches a chapter's episode list at build start, so the mid-build de-dup required stopping the running build and relaunching to reload the collection; a committed orphan (chandawar) plus the three removed duplicates remain as invisible asset files to be swept later.
+- **Voice QA:** the per-clip truncation scan caught and repaired several defective clips across the chapter (tarain p11, diu hi p05, narrai en p12/p18, copper_plate hi p08); all re-voiced.
+
 ## 2026-08-03 — 🛡️ Battles That Forged Ancient India COMPLETE (13/13) · 26 chapters · thirteen era-defining battles (c. 150 BCE – 1194 CE) that formed or ended dynasties across ancient and early-medieval India, each told from named manuscripts and cross-checked against coins, inscriptions and rival chronicles · builds roll into Battles That Forged Medieval India
 
 - **Battles That Forged Ancient India is COMPLETE (13/13, QA-clean):** thirteen era-defining battles built as source-critical anime-action — the record weighed against itself, legend marked as legend, and the hard facts stated plainly from the sources rather than softened or inflamed.

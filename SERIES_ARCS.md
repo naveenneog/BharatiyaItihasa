@@ -572,6 +572,21 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🗡️ Battles That Forged Medieval India  *(Delhi Sultanate → Pre-Mughal — c. 1191–1564)*  — **✅ CHAPTER COMPLETE (10/10, de-duplicated)**
+
+Ten era-defining battles of the Sultanate and pre-Mughal centuries, de-duplicated against the Ancient-battles, Kakatiya and Mughal-battles chapters — source-critical, stating the record plainly with legend marked as legend.
+
+1. **Tarain Twice and the Year Between Victories** ✅ — Prithviraj III vs Muhammad of Ghor (1191–92), the victory that became a defeat.
+2. **Gwalior and the Fort Above the Plain** ✅ — Qutb al-Din Aibak vs Sulakshanapala (1196).
+3. **Chittor Taken and the Queen the Sources Do Not See** ✅ — Alauddin Khalji vs Ratnasimha (1303); the slaughter stated (Khusrau), the Padmini legend (Jayasi) separated from the record. *(historiography)*
+4. **Siwana and the Chauhan Fort in the Desert** ✅ — Khalji's desert siege (1308); the killing/plunder stated from the Delhi chroniclers.
+5. **Diu and the Cannon That Sealed the Sea** ✅ — Almeida vs Amir Hussain (1509), the Indian Ocean turns Portuguese.
+6. **Sarangpur and the Sultan Taken Alive** ✅ — Rana Kumbha vs Mahmud Khalji of Malwa (1437).
+7. **Champaner and the Hill That Became a Capital** ✅ — Mahmud Begada vs Patai Rawal (1484). *(innovation: the new capital Muhammadabad-Champaner + its stepwell waterworks)*
+8. **Gagron and the Mewar High Tide** ✅ — Rana Sanga vs Mahmud Khalji II (~1519).
+9. **Narrai and the Rani Who Would Not Yield** ✅ — Rani Durgavati vs Asaf Khan (1564), a Gond queen's last stand.
+10. **Sammel and the Handful of Millet** ✅ — Sher Shah Suri vs Rao Maldev (1544).
+
 ## 🛡️ Battles That Forged Ancient India  *(Ancient → Early Medieval — c. 150 BCE–1194 CE, subcontinent-wide)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 Thirteen era-defining battles that formed or ended dynasties — built as source-critical anime-action from named manuscripts, cross-checked against coins, inscriptions and rival chronicles, with legend marked as legend and the hard facts stated plainly (no whitewashing, no communal spin). Grouped in five acts.
