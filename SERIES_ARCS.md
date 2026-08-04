@@ -572,6 +572,24 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🏔️ The Resistance Front: India's Stand Against the Invaders  *(c. 1008–1762 — the under-told defence)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+@naveenneog's seed: the valour, sacrifice and actual battles of India's resistance to Ghazni, Ghor, the Mongols, Timur and Abdali — told defender-first and TRUTHFULLY (valour AND defeat, atrocities stated from the sources, no hagiography or communal spin). A deliberately pan-Indian defence: Hindu, Muslim and Sikh defenders of the land.
+
+1. **The Last Confederacy at Chach** ✅ — Anandapala's Shahi–tribal confederacy vs Mahmud of Ghazni (c.1008); the Gakhar charge that nearly turned the day, Utbi weighed against al-Biruni. *(historiography)*
+2. **Somnath's Last Watch** ✅ — Bhima I and Somnath's defenders vs Mahmud (1026); the desecration and plunder stated (Gardizi, Ibn al-Athir), the inflated later numbers flagged.
+3. **The Hills That Would Not Yield** ✅ — Trilochanapala, the last Hindu Shahi, in the Salt Range; the romantic guerrilla legend explicitly refused (al-Biruni + Kalhana).
+4. **The Khokhars Rise on the Jhelum** ✅ — Raisal & Bhikan vs Muhammad of Ghor (1204–06); the brutal suppression and Ghor's contested Dhamiak death.
+5. **Kalinjar Falls and Returns** ✅ — Paramardi & Trailokyavarman vs Qutb al-Din Aibak (1202–05); the temple looting stated (Hasan Nizami), the Chandela reconquest within three years.
+6. **Zafar Khan's Last Charge at Kili** ✅ — Zafar Khan vs the Chagatai Mongols (1299); a defender who broke discipline into a baited ambush and would not kneel. *(non-hagiographic)*
+7. **The Dipalpur Line** ✅ — Ghazi Malik's frontier logistics vs the Mongols; the contested victory-count (18 / 20 / 29) weighed. *(innovation — frontier defence)*
+8. **Hammira's Guest at Ranthambhore** ✅ — Hammira Chahamana shelters the Sultan's Mongol rebels and dies for the oath vs Alauddin Khalji (1301).
+9. **Bhatner to Delhi Against Timur** ✅ — Rao Daljit and Sultan Mahmud vs Timur (1398); the prisoner-killing and Delhi qatl-i-am stated (Yazdi, Malfuzat), numbers flagged as symbol.
+10. **The Moving Shield at Kup** ✅ — Jassa Singh Ahluwalia and the Vadda Ghallughara (1762); a nation shielding its families on the march, no triumphalism.
+11. **Delhi's Six Hours of Blood** ✅ — Muhammad Shah and Delhi's residents under Nader Shah's qatl-i-am (1739); the residents' resistance and the massacre both stated (Anand Ram Mukhlis).
+12. **The Shrine They Rebuilt** ✅ — Bhima I & Kumarapala restore Somnath; resistance as rebuilding, the nationalist frame named and refused. *(innovation — the constructive answer)*
+13. **The Source Battlefield** ✅ — al-Biruni's critical method vs Chand Bardai's bardic song; how resistance is remembered, and how to weigh a source. *(historiography capstone)*
+
 ## 🏹 The Great Mughal Battles  *(Early Modern — c. 1527–1739, Khanwa to Karnal)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 Thirteen battles that made and unmade the Mughal empire — from Babur's gunpowder revolution to the hollow-crown collapse at Karnal — told source-critically, weighing the Persian court chronicles against rival and eyewitness accounts, stating the documented facts (skull-towers, massacres, jauhar) plainly and marking legend as legend.
