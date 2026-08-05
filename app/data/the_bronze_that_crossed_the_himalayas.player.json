@@ -1,0 +1,3937 @@
+{
+  "id": "the_bronze_that_crossed_the_himalayas",
+  "title": "The Bronze That Crossed the Himalayas",
+  "title_i18n": {
+    "en": "The Bronze That Crossed the Himalayas",
+    "hi": "हिमालय पार करता काँसा"
+  },
+  "figure": "Pala metalworkers and monks",
+  "era": "Pala art and manuscript circulation, 9th-12th century CE",
+  "moral": "Beauty can migrate farther than an army.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/intro/hero.png",
+      "name": "Kurkihar Artisan-Monk",
+      "epithets": [
+        "Masters of Pala bronzes",
+        "Keepers of painted Dharma",
+        "Makers of wandering Buddhas",
+        "Smiths of the Vajrayana age"
+      ],
+      "legend": "Their bronzes walked where armies could not go.",
+      "era": "Pala art and manuscript circulation, 9th-12th century CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the mist of Bihar and Bengal, quiet hands cast glowing Buddhas that outlived kings. As monks carried them over the Himalayas, whose faith would these shining images reshape?",
+            "hi": "बिहार और बंगाल की धुंध में, खामोश हाथों ने ऐसे जगमगाते बुद्ध गढ़े जो राजाओं से भी ज्यादा जिए। जब भिक्षु उन्हें हिमालय पार ले चले, ये चमकती मूर्तियाँ किसका विश्वास बदलेंगी?"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/intro/hero_en.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 72.0,
+                "d": 166.0
+              },
+              {
+                "w": "the",
+                "t": 239.0,
+                "d": 125.0
+              },
+              {
+                "w": "mist",
+                "t": 364.0,
+                "d": 250.0
+              },
+              {
+                "w": "of",
+                "t": 614.0,
+                "d": 166.0
+              },
+              {
+                "w": "Bihar",
+                "t": 781.0,
+                "d": 458.0
+              },
+              {
+                "w": "and",
+                "t": 1239.0,
+                "d": 250.0
+              },
+              {
+                "w": "Bengal",
+                "t": 1489.0,
+                "d": 666.0
+              },
+              {
+                "w": "quiet",
+                "t": 2446.0,
+                "d": 417.0
+              },
+              {
+                "w": "hands",
+                "t": 2864.0,
+                "d": 458.0
+              },
+              {
+                "w": "cast",
+                "t": 3322.0,
+                "d": 500.0
+              },
+              {
+                "w": "glowing",
+                "t": 3822.0,
+                "d": 416.0
+              },
+              {
+                "w": "Buddhas",
+                "t": 4239.0,
+                "d": 416.0
+              },
+              {
+                "w": "that",
+                "t": 4864.0,
+                "d": 250.0
+              },
+              {
+                "w": "outlived",
+                "t": 5156.0,
+                "d": 541.0
+              },
+              {
+                "w": "kings",
+                "t": 5697.0,
+                "d": 750.0
+              },
+              {
+                "w": "As",
+                "t": 6697.0,
+                "d": 416.0
+              },
+              {
+                "w": "monks",
+                "t": 7114.0,
+                "d": 375.0
+              },
+              {
+                "w": "carried",
+                "t": 7489.0,
+                "d": 375.0
+              },
+              {
+                "w": "them",
+                "t": 7864.0,
+                "d": 291.0
+              },
+              {
+                "w": "over",
+                "t": 8156.0,
+                "d": 207.0
+              },
+              {
+                "w": "the",
+                "t": 8363.0,
+                "d": 125.0
+              },
+              {
+                "w": "Himalayas",
+                "t": 8488.0,
+                "d": 792.0
+              },
+              {
+                "w": "whose",
+                "t": 9489.0,
+                "d": 416.0
+              },
+              {
+                "w": "faith",
+                "t": 9906.0,
+                "d": 416.0
+              },
+              {
+                "w": "would",
+                "t": 10322.0,
+                "d": 248.0
+              },
+              {
+                "w": "these",
+                "t": 10571.0,
+                "d": 209.0
+              },
+              {
+                "w": "shining",
+                "t": 10781.0,
+                "d": 625.0
+              },
+              {
+                "w": "images",
+                "t": 11406.0,
+                "d": 500.0
+              },
+              {
+                "w": "reshape",
+                "t": 11906.0,
+                "d": 625.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_bronze_that_crossed_the_himalayas/intro/map.png",
+      "x": 0.62,
+      "y": 0.38,
+      "label": "Bihar & Bengal to Nepal and Tibet",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across these river plains and cold passes, bronze Buddhas and palm-leaf books drift north like slow, shining prayers.",
+            "hi": "इन मैदानों और ठंडी दर्रों से कांस्य बुद्ध और ताड़-पत्तों की किताबें ऐसे बहती हैं, जैसे धीमी चमकती दुआएँ।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/intro/map_en.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 80.0,
+                "d": 551.0
+              },
+              {
+                "w": "these",
+                "t": 632.0,
+                "d": 321.0
+              },
+              {
+                "w": "river",
+                "t": 954.0,
+                "d": 367.0
+              },
+              {
+                "w": "plains",
+                "t": 1321.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 1873.0,
+                "d": 367.0
+              },
+              {
+                "w": "cold",
+                "t": 2241.0,
+                "d": 367.0
+              },
+              {
+                "w": "passes",
+                "t": 2609.0,
+                "d": 873.0
+              },
+              {
+                "w": "bronze",
+                "t": 3758.0,
+                "d": 596.0
+              },
+              {
+                "w": "Buddhas",
+                "t": 4355.0,
+                "d": 506.0
+              },
+              {
+                "w": "and",
+                "t": 4862.0,
+                "d": 919.0
+              },
+              {
+                "w": "palm-leaf",
+                "t": 5781.0,
+                "d": 551.0
+              },
+              {
+                "w": "books",
+                "t": 6333.0,
+                "d": 413.0
+              },
+              {
+                "w": "drift",
+                "t": 6747.0,
+                "d": 597.0
+              },
+              {
+                "w": "north",
+                "t": 7344.0,
+                "d": 551.0
+              },
+              {
+                "w": "like",
+                "t": 7896.0,
+                "d": 321.0
+              },
+              {
+                "w": "slow",
+                "t": 8218.0,
+                "d": 735.0
+              },
+              {
+                "w": "shining",
+                "t": 8954.0,
+                "d": 735.0
+              },
+              {
+                "w": "prayers",
+                "t": 9689.0,
+                "d": 781.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/cover.png",
+      "shot": "epic three-quarter wide of a monk-artisan holding up a glowing bronze Buddha against a backdrop of distant snow peaks",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the age of the Pala kings, monks carried bronze Buddhas from Bihar across the Himalayas, quiet images that travelled farther than most armies, and changed how half a world saw the sacred.",
+            "hi": "पाला राजाओं के ज़माने में, भिक्षु बिहार से काँसे के बुद्ध हिमालय पार ले गए—चुप मूर्तियाँ, जो फौजों से भी दूर चलीं, और आधी दुनिया की नज़र में पवित्रता बदल दी।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/cover_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 212.0
+              },
+              {
+                "w": "age",
+                "t": 500.0,
+                "d": 170.0
+              },
+              {
+                "w": "of",
+                "t": 670.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 755.0,
+                "d": 170.0
+              },
+              {
+                "w": "Pala",
+                "t": 925.0,
+                "d": 340.0
+              },
+              {
+                "w": "kings",
+                "t": 1265.0,
+                "d": 765.0
+              },
+              {
+                "w": "monks",
+                "t": 2117.0,
+                "d": 509.0
+              },
+              {
+                "w": "carried",
+                "t": 2626.0,
+                "d": 425.0
+              },
+              {
+                "w": "bronze",
+                "t": 3052.0,
+                "d": 426.0
+              },
+              {
+                "w": "Buddhas",
+                "t": 3478.0,
+                "d": 510.0
+              },
+              {
+                "w": "from",
+                "t": 4158.0,
+                "d": 341.0
+              },
+              {
+                "w": "Bihar",
+                "t": 4500.0,
+                "d": 382.0
+              },
+              {
+                "w": "across",
+                "t": 4882.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 5393.0,
+                "d": 127.0
+              },
+              {
+                "w": "Himalayas",
+                "t": 5521.0,
+                "d": 851.0
+              },
+              {
+                "w": "quiet",
+                "t": 6882.0,
+                "d": 382.0
+              },
+              {
+                "w": "images",
+                "t": 7265.0,
+                "d": 425.0
+              },
+              {
+                "w": "that",
+                "t": 7691.0,
+                "d": 170.0
+              },
+              {
+                "w": "travelled",
+                "t": 7861.0,
+                "d": 468.0
+              },
+              {
+                "w": "farther",
+                "t": 8329.0,
+                "d": 468.0
+              },
+              {
+                "w": "than",
+                "t": 8797.0,
+                "d": 170.0
+              },
+              {
+                "w": "most",
+                "t": 8968.0,
+                "d": 340.0
+              },
+              {
+                "w": "armies",
+                "t": 9308.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 10414.0,
+                "d": 255.0
+              },
+              {
+                "w": "changed",
+                "t": 10670.0,
+                "d": 510.0
+              },
+              {
+                "w": "how",
+                "t": 11180.0,
+                "d": 297.0
+              },
+              {
+                "w": "half",
+                "t": 11478.0,
+                "d": 296.0
+              },
+              {
+                "w": "a",
+                "t": 11775.0,
+                "d": 85.0
+              },
+              {
+                "w": "world",
+                "t": 11860.0,
+                "d": 425.0
+              },
+              {
+                "w": "saw",
+                "t": 12286.0,
+                "d": 256.0
+              },
+              {
+                "w": "the",
+                "t": 12542.0,
+                "d": 127.0
+              },
+              {
+                "w": "sacred",
+                "t": 12670.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p01.png",
+      "shot": "bird's-eye view over the Ganga plain, slowly dropping toward a cluster of monasteries near Bodhgaya",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From the 9th to the 12th century, under the Pala rulers of Bihar and Bengal, monasteries near Bodhgaya became more than schools of scripture; they became workshops of bronze and stone.",
+            "hi": "नवीं से बारहवीं सदी तक, बिहार‑बंगाल के पाला शासकों के समय, बोधगया के पास के मठ सिर्फ शास्त्र‑विद्यालय नहीं रहे; वे काँसे और पत्थर की कार्यशालाएँ बन गए।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p01_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 117.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 127.0
+              },
+              {
+                "w": "9th",
+                "t": 457.0,
+                "d": 510.0
+              },
+              {
+                "w": "to",
+                "t": 968.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 1053.0,
+                "d": 170.0
+              },
+              {
+                "w": "12th",
+                "t": 1223.0,
+                "d": 468.0
+              },
+              {
+                "w": "century",
+                "t": 1734.0,
+                "d": 510.0
+              },
+              {
+                "w": "under",
+                "t": 2541.0,
+                "d": 298.0
+              },
+              {
+                "w": "the",
+                "t": 2840.0,
+                "d": 211.0
+              },
+              {
+                "w": "Pala",
+                "t": 3052.0,
+                "d": 341.0
+              },
+              {
+                "w": "rulers",
+                "t": 3393.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 3861.0,
+                "d": 169.0
+              },
+              {
+                "w": "Bihar",
+                "t": 4030.0,
+                "d": 469.0
+              },
+              {
+                "w": "and",
+                "t": 4500.0,
+                "d": 255.0
+              },
+              {
+                "w": "Bengal",
+                "t": 4755.0,
+                "d": 595.0
+              },
+              {
+                "w": "monasteries",
+                "t": 5819.0,
+                "d": 765.0
+              },
+              {
+                "w": "near",
+                "t": 6585.0,
+                "d": 255.0
+              },
+              {
+                "w": "Bodhgaya",
+                "t": 6840.0,
+                "d": 851.0
+              },
+              {
+                "w": "became",
+                "t": 7904.0,
+                "d": 468.0
+              },
+              {
+                "w": "more",
+                "t": 8372.0,
+                "d": 211.0
+              },
+              {
+                "w": "than",
+                "t": 8584.0,
+                "d": 170.0
+              },
+              {
+                "w": "schools",
+                "t": 8754.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 9179.0,
+                "d": 85.0
+              },
+              {
+                "w": "scripture",
+                "t": 9264.0,
+                "d": 1022.0
+              },
+              {
+                "w": "they",
+                "t": 10287.0,
+                "d": 297.0
+              },
+              {
+                "w": "became",
+                "t": 10585.0,
+                "d": 340.0
+              },
+              {
+                "w": "workshops",
+                "t": 10925.0,
+                "d": 638.0
+              },
+              {
+                "w": "of",
+                "t": 11563.0,
+                "d": 127.0
+              },
+              {
+                "w": "bronze",
+                "t": 11691.0,
+                "d": 509.0
+              },
+              {
+                "w": "and",
+                "t": 12201.0,
+                "d": 213.0
+              },
+              {
+                "w": "stone",
+                "t": 12414.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p02.png",
+      "shot": "intimate interior medium shot of a workshop, low angle toward an artisan at his bench",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At Kurkihar, near Bodhgaya, monks and craftsmen fused practice and craft; they drew, cast and polished images whose style scholars now call the Pala school.",
+            "hi": "बोधगया के पास कुरकिहार में भिक्षु और कारीगर साधना और हुनर को मिलाते थे; वे रेखाचित्र बनाते, ढलाई करते, घिस‑पॉलिश करते—इन्हीं से निकली शैली को आज विद्वान ‘पाला स्कूल’ कहते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p02_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 159.0,
+                "d": 212.0
+              },
+              {
+                "w": "Kurkihar",
+                "t": 372.0,
+                "d": 723.0
+              },
+              {
+                "w": "near",
+                "t": 1393.0,
+                "d": 382.0
+              },
+              {
+                "w": "Bodhgaya",
+                "t": 1776.0,
+                "d": 595.0
+              },
+              {
+                "w": "monks",
+                "t": 2755.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 3223.0,
+                "d": 255.0
+              },
+              {
+                "w": "craftsmen",
+                "t": 3478.0,
+                "d": 594.0
+              },
+              {
+                "w": "fused",
+                "t": 4073.0,
+                "d": 426.0
+              },
+              {
+                "w": "practice",
+                "t": 4500.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 5010.0,
+                "d": 212.0
+              },
+              {
+                "w": "craft",
+                "t": 5223.0,
+                "d": 765.0
+              },
+              {
+                "w": "they",
+                "t": 6202.0,
+                "d": 297.0
+              },
+              {
+                "w": "drew",
+                "t": 6500.0,
+                "d": 553.0
+              },
+              {
+                "w": "cast",
+                "t": 7265.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 7861.0,
+                "d": 382.0
+              },
+              {
+                "w": "polished",
+                "t": 8244.0,
+                "d": 467.0
+              },
+              {
+                "w": "images",
+                "t": 8711.0,
+                "d": 553.0
+              },
+              {
+                "w": "whose",
+                "t": 9264.0,
+                "d": 256.0
+              },
+              {
+                "w": "style",
+                "t": 9521.0,
+                "d": 340.0
+              },
+              {
+                "w": "scholars",
+                "t": 9861.0,
+                "d": 467.0
+              },
+              {
+                "w": "now",
+                "t": 10328.0,
+                "d": 256.0
+              },
+              {
+                "w": "call",
+                "t": 10585.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 10840.0,
+                "d": 211.0
+              },
+              {
+                "w": "Pala",
+                "t": 11052.0,
+                "d": 298.0
+              },
+              {
+                "w": "school",
+                "t": 11351.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p03.png",
+      "shot": "close-up on hands working wax and clay, shallow focus on the emerging form of a deity",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "They used the lost-wax process: shaping wax, sealing it in clay, then draining the wax so molten bronze could take its place, each cast a unique and unrepeatable body of the sacred.",
+            "hi": "वे ‘लॉस्ट‑वैक्स’ तरीका अपनाते—मोम गढ़ना, उसे मिट्टी में बंद करना, फिर मोम गलाकर निकाल देना, ताकि पिघला काँसा उसकी जगह भर दे; हर ढलाई, पवित्र देह का एक‑ही‑बार जन्म।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p03_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "They",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "used",
+                "t": 372.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 712.0,
+                "d": 127.0
+              },
+              {
+                "w": "lost-wax",
+                "t": 840.0,
+                "d": 553.0
+              },
+              {
+                "w": "process",
+                "t": 1393.0,
+                "d": 808.0
+              },
+              {
+                "w": "shaping",
+                "t": 2712.0,
+                "d": 510.0
+              },
+              {
+                "w": "wax",
+                "t": 3223.0,
+                "d": 381.0
+              },
+              {
+                "w": "sealing",
+                "t": 3605.0,
+                "d": 1022.0
+              },
+              {
+                "w": "it",
+                "t": 4627.0,
+                "d": 127.0
+              },
+              {
+                "w": "in",
+                "t": 4755.0,
+                "d": 170.0
+              },
+              {
+                "w": "clay",
+                "t": 4925.0,
+                "d": 851.0
+              },
+              {
+                "w": "then",
+                "t": 5819.0,
+                "d": 340.0
+              },
+              {
+                "w": "draining",
+                "t": 6159.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 6542.0,
+                "d": 127.0
+              },
+              {
+                "w": "wax",
+                "t": 6670.0,
+                "d": 638.0
+              },
+              {
+                "w": "so",
+                "t": 7393.0,
+                "d": 297.0
+              },
+              {
+                "w": "molten",
+                "t": 7691.0,
+                "d": 468.0
+              },
+              {
+                "w": "bronze",
+                "t": 8159.0,
+                "d": 509.0
+              },
+              {
+                "w": "could",
+                "t": 8754.0,
+                "d": 255.0
+              },
+              {
+                "w": "take",
+                "t": 9009.0,
+                "d": 213.0
+              },
+              {
+                "w": "its",
+                "t": 9223.0,
+                "d": 170.0
+              },
+              {
+                "w": "place",
+                "t": 9393.0,
+                "d": 764.0
+              },
+              {
+                "w": "each",
+                "t": 10627.0,
+                "d": 382.0
+              },
+              {
+                "w": "cast",
+                "t": 11010.0,
+                "d": 425.0
+              },
+              {
+                "w": "a",
+                "t": 11436.0,
+                "d": 170.0
+              },
+              {
+                "w": "unique",
+                "t": 11606.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 12201.0,
+                "d": 255.0
+              },
+              {
+                "w": "unrepeatable",
+                "t": 12456.0,
+                "d": 893.0
+              },
+              {
+                "w": "body",
+                "t": 13350.0,
+                "d": 426.0
+              },
+              {
+                "w": "of",
+                "t": 13776.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 13946.0,
+                "d": 126.0
+              },
+              {
+                "w": "sacred",
+                "t": 14073.0,
+                "d": 724.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_bronze_that_crossed_the_himalayas/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_bronze_that_crossed_the_himalayas/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He carries the fragile wax form like a vow, crossing the smoky yard toward the roaring furnace.",
+            "hi": "वो नाज़ुक मोम की मूर्ति को वचन की तरह थामे, धुएँभरे आँगन से दहकते भट्ठे की ओर बढ़ता है।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "carries",
+                "t": 356.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 724.0,
+                "d": 183.0
+              },
+              {
+                "w": "fragile",
+                "t": 908.0,
+                "d": 597.0
+              },
+              {
+                "w": "wax",
+                "t": 1505.0,
+                "d": 367.0
+              },
+              {
+                "w": "form",
+                "t": 1873.0,
+                "d": 551.0
+              },
+              {
+                "w": "like",
+                "t": 2563.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 2885.0,
+                "d": 91.0
+              },
+              {
+                "w": "vow",
+                "t": 2977.0,
+                "d": 412.0
+              },
+              {
+                "w": "crossing",
+                "t": 3849.0,
+                "d": 551.0
+              },
+              {
+                "w": "the",
+                "t": 4401.0,
+                "d": 137.0
+              },
+              {
+                "w": "smoky",
+                "t": 4539.0,
+                "d": 460.0
+              },
+              {
+                "w": "yard",
+                "t": 5000.0,
+                "d": 505.0
+              },
+              {
+                "w": "toward",
+                "t": 5551.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 5919.0,
+                "d": 137.0
+              },
+              {
+                "w": "roaring",
+                "t": 6057.0,
+                "d": 413.0
+              },
+              {
+                "w": "furnace",
+                "t": 6471.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p04.png",
+      "shot": "dramatic low-angle of artisans around a furnace, sparks flying into twilight",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Copper, tin, sometimes a trace of silver, heated until the air shimmered; the alloy poured into molds while chants murmured, joining heat, metal and mantra in one act.",
+            "hi": "ताँबा, राँगा, कभी‑कभी ज़रा‑सा चाँदी, इतनी गर्म कि हवा लहराए; मिश्रधातु साँचे में बहती, और साथ में धीमी जप—ताप, धातु और मंत्र एक ही क्रिया में बंध जाते।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p04_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Copper",
+                "t": 74.0,
+                "d": 723.0
+              },
+              {
+                "w": "tin",
+                "t": 925.0,
+                "d": 553.0
+              },
+              {
+                "w": "sometimes",
+                "t": 1691.0,
+                "d": 723.0
+              },
+              {
+                "w": "a",
+                "t": 2414.0,
+                "d": 41.0
+              },
+              {
+                "w": "trace",
+                "t": 2456.0,
+                "d": 341.0
+              },
+              {
+                "w": "of",
+                "t": 2797.0,
+                "d": 127.0
+              },
+              {
+                "w": "silver",
+                "t": 2925.0,
+                "d": 808.0
+              },
+              {
+                "w": "heated",
+                "t": 3734.0,
+                "d": 638.0
+              },
+              {
+                "w": "until",
+                "t": 4372.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 4712.0,
+                "d": 255.0
+              },
+              {
+                "w": "air",
+                "t": 4968.0,
+                "d": 255.0
+              },
+              {
+                "w": "shimmered",
+                "t": 5223.0,
+                "d": 808.0
+              },
+              {
+                "w": "the",
+                "t": 6244.0,
+                "d": 255.0
+              },
+              {
+                "w": "alloy",
+                "t": 6500.0,
+                "d": 468.0
+              },
+              {
+                "w": "poured",
+                "t": 6968.0,
+                "d": 297.0
+              },
+              {
+                "w": "into",
+                "t": 7265.0,
+                "d": 212.0
+              },
+              {
+                "w": "molds",
+                "t": 7478.0,
+                "d": 680.0
+              },
+              {
+                "w": "while",
+                "t": 8287.0,
+                "d": 339.0
+              },
+              {
+                "w": "chants",
+                "t": 8626.0,
+                "d": 468.0
+              },
+              {
+                "w": "murmured",
+                "t": 9094.0,
+                "d": 767.0
+              },
+              {
+                "w": "joining",
+                "t": 9861.0,
+                "d": 553.0
+              },
+              {
+                "w": "heat",
+                "t": 10414.0,
+                "d": 595.0
+              },
+              {
+                "w": "metal",
+                "t": 11052.0,
+                "d": 681.0
+              },
+              {
+                "w": "and",
+                "t": 11734.0,
+                "d": 255.0
+              },
+              {
+                "w": "mantra",
+                "t": 11989.0,
+                "d": 595.0
+              },
+              {
+                "w": "in",
+                "t": 12627.0,
+                "d": 296.0
+              },
+              {
+                "w": "one",
+                "t": 12924.0,
+                "d": 255.0
+              },
+              {
+                "w": "act",
+                "t": 13179.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p05.png",
+      "shot": "medium shot from behind the artisan, focused on a finished bronze with rich ornament",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Pala bronzes showed smooth, elongated bodies, robes cut in fine lines, halos like burning discs and arches where makaras, vyalas and lotus-scrolls framed the deity in a world of pattern.",
+            "hi": "पाला काँसे की देहें चिकनी, लंबी, वस्त्र बारीक रेखाओं में कटा, प्रभामंडल जलते चक्र जैसे, और मेहराबों में मकर, व्याल और लता‑पट्टियाँ—देवता एक नज़र‑भरी दुनिया में जड़ा।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p05_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "Pala",
+                "t": 372.0,
+                "d": 340.0
+              },
+              {
+                "w": "bronzes",
+                "t": 712.0,
+                "d": 595.0
+              },
+              {
+                "w": "showed",
+                "t": 1308.0,
+                "d": 382.0
+              },
+              {
+                "w": "smooth",
+                "t": 1691.0,
+                "d": 807.0
+              },
+              {
+                "w": "elongated",
+                "t": 2584.0,
+                "d": 681.0
+              },
+              {
+                "w": "bodies",
+                "t": 3265.0,
+                "d": 723.0
+              },
+              {
+                "w": "robes",
+                "t": 4158.0,
+                "d": 639.0
+              },
+              {
+                "w": "cut",
+                "t": 4797.0,
+                "d": 212.0
+              },
+              {
+                "w": "in",
+                "t": 5010.0,
+                "d": 127.0
+              },
+              {
+                "w": "fine",
+                "t": 5138.0,
+                "d": 340.0
+              },
+              {
+                "w": "lines",
+                "t": 5478.0,
+                "d": 638.0
+              },
+              {
+                "w": "halos",
+                "t": 6457.0,
+                "d": 595.0
+              },
+              {
+                "w": "like",
+                "t": 7053.0,
+                "d": 255.0
+              },
+              {
+                "w": "burning",
+                "t": 7308.0,
+                "d": 382.0
+              },
+              {
+                "w": "discs",
+                "t": 7691.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 8329.0,
+                "d": 296.0
+              },
+              {
+                "w": "arches",
+                "t": 8626.0,
+                "d": 852.0
+              },
+              {
+                "w": "where",
+                "t": 9647.0,
+                "d": 298.0
+              },
+              {
+                "w": "makaras",
+                "t": 9946.0,
+                "d": 723.0
+              },
+              {
+                "w": "vyalas",
+                "t": 10796.0,
+                "d": 724.0
+              },
+              {
+                "w": "and",
+                "t": 11521.0,
+                "d": 254.0
+              },
+              {
+                "w": "lotus-scrolls",
+                "t": 11775.0,
+                "d": 809.0
+              },
+              {
+                "w": "framed",
+                "t": 12585.0,
+                "d": 509.0
+              },
+              {
+                "w": "the",
+                "t": 13094.0,
+                "d": 128.0
+              },
+              {
+                "w": "deity",
+                "t": 13223.0,
+                "d": 595.0
+              },
+              {
+                "w": "in",
+                "t": 13903.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 14117.0,
+                "d": 85.0
+              },
+              {
+                "w": "world",
+                "t": 14202.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 14627.0,
+                "d": 170.0
+              },
+              {
+                "w": "pattern",
+                "t": 14797.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p06.png",
+      "shot": "tabletop overhead shot of multiple bronzes and palm-leaf folios laid out for inspection",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Images of Shakyamuni, Avalokiteshvara, Tara and the fierce deities of Vajrayana, alongside palm-leaf manuscripts painted in bright mineral colours, were made to be portable, offerings, teaching tools, traveling altars.",
+            "hi": "शाक्यमुनि, अवलोकितेश्वर, तारा और वज्रयान के उग्र देवता—साथ में चमकीले खनिज रंगों से रँगे ताड़पत्र—सबको हल्का, उठाने‑लायक बनाया गया; वे भेंट भी थे, पाठ्य‑उपकरण भी, चलते‑फिरते वेदियाँ भी।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p06_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Images",
+                "t": 74.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 627.0,
+                "d": 170.0
+              },
+              {
+                "w": "Shakyamuni",
+                "t": 797.0,
+                "d": 851.0
+              },
+              {
+                "w": "Avalokiteshvara",
+                "t": 1946.0,
+                "d": 1062.0
+              },
+              {
+                "w": "Tara",
+                "t": 3308.0,
+                "d": 339.0
+              },
+              {
+                "w": "and",
+                "t": 3647.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 4073.0,
+                "d": 127.0
+              },
+              {
+                "w": "fierce",
+                "t": 4201.0,
+                "d": 426.0
+              },
+              {
+                "w": "deities",
+                "t": 4627.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 5010.0,
+                "d": 170.0
+              },
+              {
+                "w": "Vajrayana",
+                "t": 5180.0,
+                "d": 765.0
+              },
+              {
+                "w": "alongside",
+                "t": 6329.0,
+                "d": 680.0
+              },
+              {
+                "w": "palm-leaf",
+                "t": 7010.0,
+                "d": 468.0
+              },
+              {
+                "w": "manuscripts",
+                "t": 7478.0,
+                "d": 680.0
+              },
+              {
+                "w": "painted",
+                "t": 8159.0,
+                "d": 467.0
+              },
+              {
+                "w": "in",
+                "t": 8626.0,
+                "d": 212.0
+              },
+              {
+                "w": "bright",
+                "t": 8839.0,
+                "d": 340.0
+              },
+              {
+                "w": "mineral",
+                "t": 9179.0,
+                "d": 341.0
+              },
+              {
+                "w": "colours",
+                "t": 9521.0,
+                "d": 595.0
+              },
+              {
+                "w": "were",
+                "t": 10287.0,
+                "d": 255.0
+              },
+              {
+                "w": "made",
+                "t": 10542.0,
+                "d": 212.0
+              },
+              {
+                "w": "to",
+                "t": 10755.0,
+                "d": 126.0
+              },
+              {
+                "w": "be",
+                "t": 10881.0,
+                "d": 213.0
+              },
+              {
+                "w": "portable",
+                "t": 11095.0,
+                "d": 808.0
+              },
+              {
+                "w": "offerings",
+                "t": 11945.0,
+                "d": 893.0
+              },
+              {
+                "w": "teaching",
+                "t": 12968.0,
+                "d": 425.0
+              },
+              {
+                "w": "tools",
+                "t": 13393.0,
+                "d": 723.0
+              },
+              {
+                "w": "traveling",
+                "t": 14158.0,
+                "d": 511.0
+              },
+              {
+                "w": "altars",
+                "t": 14670.0,
+                "d": 765.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p07.png",
+      "shot": "medium shot of a donor and artisan facing each other, side-lit, hands meeting over a bronze",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Patrons, local landlords, merchants, even Pala officials, commissioned these works, inscribing dedications on bases; some gifts stayed in monasteries, others were sent out as tokens to distant shrines.",
+            "hi": "किसान‑ज़मींदार, व्यापारी, यहाँ तक कि पाला अफसर तक, ऐसी मूर्तियाँ बनवाते; आधार पर दान‑लेख खुदवाते; कुछ भेंटें मठों में रह जातीं, कुछ दूर‑दराज़ मंदिरों को निशानी बनकर चली जातीं।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p07_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Patrons",
+                "t": 74.0,
+                "d": 851.0
+              },
+              {
+                "w": "local",
+                "t": 1138.0,
+                "d": 468.0
+              },
+              {
+                "w": "landlords",
+                "t": 1606.0,
+                "d": 935.0
+              },
+              {
+                "w": "merchants",
+                "t": 2712.0,
+                "d": 892.0
+              },
+              {
+                "w": "even",
+                "t": 4030.0,
+                "d": 426.0
+              },
+              {
+                "w": "Pala",
+                "t": 4457.0,
+                "d": 297.0
+              },
+              {
+                "w": "officials",
+                "t": 4755.0,
+                "d": 893.0
+              },
+              {
+                "w": "commissioned",
+                "t": 5691.0,
+                "d": 595.0
+              },
+              {
+                "w": "these",
+                "t": 6287.0,
+                "d": 212.0
+              },
+              {
+                "w": "works",
+                "t": 6500.0,
+                "d": 595.0
+              },
+              {
+                "w": "inscribing",
+                "t": 7351.0,
+                "d": 680.0
+              },
+              {
+                "w": "dedications",
+                "t": 8031.0,
+                "d": 679.0
+              },
+              {
+                "w": "on",
+                "t": 8711.0,
+                "d": 256.0
+              },
+              {
+                "w": "bases",
+                "t": 8968.0,
+                "d": 893.0
+              },
+              {
+                "w": "some",
+                "t": 10117.0,
+                "d": 468.0
+              },
+              {
+                "w": "gifts",
+                "t": 10585.0,
+                "d": 340.0
+              },
+              {
+                "w": "stayed",
+                "t": 10925.0,
+                "d": 595.0
+              },
+              {
+                "w": "in",
+                "t": 11521.0,
+                "d": 170.0
+              },
+              {
+                "w": "monasteries",
+                "t": 11691.0,
+                "d": 978.0
+              },
+              {
+                "w": "others",
+                "t": 13009.0,
+                "d": 469.0
+              },
+              {
+                "w": "were",
+                "t": 13478.0,
+                "d": 170.0
+              },
+              {
+                "w": "sent",
+                "t": 13648.0,
+                "d": 339.0
+              },
+              {
+                "w": "out",
+                "t": 13988.0,
+                "d": 255.0
+              },
+              {
+                "w": "as",
+                "t": 14243.0,
+                "d": 298.0
+              },
+              {
+                "w": "tokens",
+                "t": 14542.0,
+                "d": 509.0
+              },
+              {
+                "w": "to",
+                "t": 15052.0,
+                "d": 213.0
+              },
+              {
+                "w": "distant",
+                "t": 15265.0,
+                "d": 510.0
+              },
+              {
+                "w": "shrines",
+                "t": 15776.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p08.png",
+      "shot": "wide shot of a caravan assembling, with monasteries in the background and mountains faint ahead",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Pala Bihar and Bengal, caravans carried these bronzes and books along trade and pilgrimage routes northward, toward the passes, toward Nepal, Tibet and beyond.",
+            "hi": "पाला काल के बिहार‑बंगाल से कारवाँ ये काँसे और ग्रंथ व्यापार व तीर्थ‑मार्गों से उत्तर की ओर ले गए—दर्रों की तरफ, नेपाल, तिब्बत और उससे आगे।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p08_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "Pala",
+                "t": 414.0,
+                "d": 340.0
+              },
+              {
+                "w": "Bihar",
+                "t": 755.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 1095.0,
+                "d": 170.0
+              },
+              {
+                "w": "Bengal",
+                "t": 1265.0,
+                "d": 680.0
+              },
+              {
+                "w": "caravans",
+                "t": 2287.0,
+                "d": 595.0
+              },
+              {
+                "w": "carried",
+                "t": 2882.0,
+                "d": 382.0
+              },
+              {
+                "w": "these",
+                "t": 3265.0,
+                "d": 212.0
+              },
+              {
+                "w": "bronzes",
+                "t": 3478.0,
+                "d": 552.0
+              },
+              {
+                "w": "and",
+                "t": 4073.0,
+                "d": 213.0
+              },
+              {
+                "w": "books",
+                "t": 4287.0,
+                "d": 297.0
+              },
+              {
+                "w": "along",
+                "t": 4627.0,
+                "d": 340.0
+              },
+              {
+                "w": "trade",
+                "t": 4968.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 5563.0,
+                "d": 382.0
+              },
+              {
+                "w": "pilgrimage",
+                "t": 5946.0,
+                "d": 553.0
+              },
+              {
+                "w": "routes",
+                "t": 6500.0,
+                "d": 340.0
+              },
+              {
+                "w": "northward",
+                "t": 6840.0,
+                "d": 978.0
+              },
+              {
+                "w": "toward",
+                "t": 7946.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 8372.0,
+                "d": 127.0
+              },
+              {
+                "w": "passes",
+                "t": 8500.0,
+                "d": 679.0
+              },
+              {
+                "w": "toward",
+                "t": 9308.0,
+                "d": 339.0
+              },
+              {
+                "w": "Nepal",
+                "t": 9647.0,
+                "d": 809.0
+              },
+              {
+                "w": "Tibet",
+                "t": 10457.0,
+                "d": 679.0
+              },
+              {
+                "w": "and",
+                "t": 11180.0,
+                "d": 255.0
+              },
+              {
+                "w": "beyond",
+                "t": 11436.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p09.png",
+      "shot": "long shot of the caravan on a narrow mountain path, clouds drifting below them",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Over stone and snow, through passes where breath turned thin, monks and traders carried these small icons; they weighed little, yet they bore complex systems of form and meaning.",
+            "hi": "पत्थर और बर्फ के ऊपर से, उन दर्रों से जहाँ साँस हल्की पड़ जाए, भिक्षु और व्यापारी ये छोटे प्रतीक ढोते; इनका वज़न कम, पर इनके भीतर रूप और अर्थ की पूरी जालियाँ।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p09_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Over",
+                "t": 70.0,
+                "d": 320.0
+              },
+              {
+                "w": "stone",
+                "t": 390.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 830.0,
+                "d": 120.0
+              },
+              {
+                "w": "snow",
+                "t": 950.0,
+                "d": 480.0
+              },
+              {
+                "w": "through",
+                "t": 1910.0,
+                "d": 360.0
+              },
+              {
+                "w": "passes",
+                "t": 2270.0,
+                "d": 440.0
+              },
+              {
+                "w": "where",
+                "t": 2710.0,
+                "d": 199.0
+              },
+              {
+                "w": "breath",
+                "t": 2909.0,
+                "d": 361.0
+              },
+              {
+                "w": "turned",
+                "t": 3270.0,
+                "d": 400.0
+              },
+              {
+                "w": "thin",
+                "t": 3670.0,
+                "d": 600.0
+              },
+              {
+                "w": "monks",
+                "t": 4750.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 5270.0,
+                "d": 320.0
+              },
+              {
+                "w": "traders",
+                "t": 5590.0,
+                "d": 480.0
+              },
+              {
+                "w": "carried",
+                "t": 6070.0,
+                "d": 400.0
+              },
+              {
+                "w": "these",
+                "t": 6470.0,
+                "d": 240.0
+              },
+              {
+                "w": "small",
+                "t": 6710.0,
+                "d": 440.0
+              },
+              {
+                "w": "icons",
+                "t": 7150.0,
+                "d": 760.0
+              },
+              {
+                "w": "they",
+                "t": 8469.0,
+                "d": 321.0
+              },
+              {
+                "w": "weighed",
+                "t": 8790.0,
+                "d": 279.0
+              },
+              {
+                "w": "little",
+                "t": 9069.0,
+                "d": 640.0
+              },
+              {
+                "w": "yet",
+                "t": 9910.0,
+                "d": 360.0
+              },
+              {
+                "w": "they",
+                "t": 10270.0,
+                "d": 240.0
+              },
+              {
+                "w": "bore",
+                "t": 10510.0,
+                "d": 360.0
+              },
+              {
+                "w": "complex",
+                "t": 10870.0,
+                "d": 519.0
+              },
+              {
+                "w": "systems",
+                "t": 11389.0,
+                "d": 521.0
+              },
+              {
+                "w": "of",
+                "t": 11910.0,
+                "d": 120.0
+              },
+              {
+                "w": "form",
+                "t": 12030.0,
+                "d": 599.0
+              },
+              {
+                "w": "and",
+                "t": 12629.0,
+                "d": 281.0
+              },
+              {
+                "w": "meaning",
+                "t": 12910.0,
+                "d": 479.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_bronze_that_crossed_the_himalayas/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_bronze_that_crossed_the_himalayas/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "A sudden gust claws at the cliff path; he braces the laden beast, guarding the bronzes from the abyss.",
+            "hi": "अचानक तेज़ झोंका चट्टान की राह को नोचता है; वो बोझिल जानवर थामे, कांस्य को खाई से बचाता है।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "A",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "sudden",
+                "t": 230.0,
+                "d": 440.0
+              },
+              {
+                "w": "gust",
+                "t": 670.0,
+                "d": 360.0
+              },
+              {
+                "w": "claws",
+                "t": 1030.0,
+                "d": 360.0
+              },
+              {
+                "w": "at",
+                "t": 1390.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 1590.0,
+                "d": 160.0
+              },
+              {
+                "w": "cliff",
+                "t": 1750.0,
+                "d": 279.0
+              },
+              {
+                "w": "path",
+                "t": 2029.0,
+                "d": 440.0
+              },
+              {
+                "w": "he",
+                "t": 2949.0,
+                "d": 321.0
+              },
+              {
+                "w": "braces",
+                "t": 3270.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 3670.0,
+                "d": 159.0
+              },
+              {
+                "w": "laden",
+                "t": 3829.0,
+                "d": 401.0
+              },
+              {
+                "w": "beast",
+                "t": 4230.0,
+                "d": 680.0
+              },
+              {
+                "w": "guarding",
+                "t": 5070.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 5470.0,
+                "d": 120.0
+              },
+              {
+                "w": "bronzes",
+                "t": 5590.0,
+                "d": 520.0
+              },
+              {
+                "w": "from",
+                "t": 6110.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 6310.0,
+                "d": 160.0
+              },
+              {
+                "w": "abyss",
+                "t": 6470.0,
+                "d": 640.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p10.png",
+      "shot": "establishing wide shot of a Kathmandu valley monastery courtyard bustling with artisans",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Nepal, Newar artists studied such imports, blending Pala lines and iconography with their own traditions, so that a shared visual language grew, but always with local accents.",
+            "hi": "नेपाल में नेवार कलाकारों ने इन मूर्तियों को पढ़ा; पाला रेखाओं और प्रतीकों को अपनी परंपराओं में घोल दिया, ताकि एक साझा दृश्य भाषा बने—पर हर जगह अपना स्थानीय लहजा रहे।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p10_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Nepal",
+                "t": 287.0,
+                "d": 723.0
+              },
+              {
+                "w": "Newar",
+                "t": 1095.0,
+                "d": 553.0
+              },
+              {
+                "w": "artists",
+                "t": 1648.0,
+                "d": 509.0
+              },
+              {
+                "w": "studied",
+                "t": 2158.0,
+                "d": 596.0
+              },
+              {
+                "w": "such",
+                "t": 2755.0,
+                "d": 339.0
+              },
+              {
+                "w": "imports",
+                "t": 3094.0,
+                "d": 978.0
+              },
+              {
+                "w": "blending",
+                "t": 4158.0,
+                "d": 554.0
+              },
+              {
+                "w": "Pala",
+                "t": 4712.0,
+                "d": 297.0
+              },
+              {
+                "w": "lines",
+                "t": 5010.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 5478.0,
+                "d": 255.0
+              },
+              {
+                "w": "iconography",
+                "t": 5734.0,
+                "d": 1063.0
+              },
+              {
+                "w": "with",
+                "t": 6797.0,
+                "d": 255.0
+              },
+              {
+                "w": "their",
+                "t": 7053.0,
+                "d": 212.0
+              },
+              {
+                "w": "own",
+                "t": 7265.0,
+                "d": 212.0
+              },
+              {
+                "w": "traditions",
+                "t": 7478.0,
+                "d": 1021.0
+              },
+              {
+                "w": "so",
+                "t": 8584.0,
+                "d": 255.0
+              },
+              {
+                "w": "that",
+                "t": 8839.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 9223.0,
+                "d": 85.0
+              },
+              {
+                "w": "shared",
+                "t": 9308.0,
+                "d": 382.0
+              },
+              {
+                "w": "visual",
+                "t": 9691.0,
+                "d": 381.0
+              },
+              {
+                "w": "language",
+                "t": 10073.0,
+                "d": 426.0
+              },
+              {
+                "w": "grew",
+                "t": 10500.0,
+                "d": 510.0
+              },
+              {
+                "w": "but",
+                "t": 11265.0,
+                "d": 297.0
+              },
+              {
+                "w": "always",
+                "t": 11563.0,
+                "d": 552.0
+              },
+              {
+                "w": "with",
+                "t": 12115.0,
+                "d": 213.0
+              },
+              {
+                "w": "local",
+                "t": 12329.0,
+                "d": 425.0
+              },
+              {
+                "w": "accents",
+                "t": 12755.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p11.png",
+      "shot": "medium two-shot of a Tibetan monk and Kurkihar artisan seated over a manuscript, top-lit",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Tibet, teachers and artists consulted Pala bronzes and illustrated manuscripts alongside other models; Pala forms became one strong thread within a wider weave of Central Asian and local styles.",
+            "hi": "तिब्बत में गुरु और कलाकार पाला काँसे और चित्रित पांडुलिपियाँ, दूसरे मॉडल के साथ रखकर देखते; पाला रूप वहाँ की कला‑बुनावट में मध्य एशियाई और देसी शैलियों के बीच एक मजबूत धागा बन गया।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p11_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Tibet",
+                "t": 287.0,
+                "d": 510.0
+              },
+              {
+                "w": "teachers",
+                "t": 968.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 1478.0,
+                "d": 127.0
+              },
+              {
+                "w": "artists",
+                "t": 1606.0,
+                "d": 552.0
+              },
+              {
+                "w": "consulted",
+                "t": 2158.0,
+                "d": 639.0
+              },
+              {
+                "w": "Pala",
+                "t": 2797.0,
+                "d": 339.0
+              },
+              {
+                "w": "bronzes",
+                "t": 3137.0,
+                "d": 767.0
+              },
+              {
+                "w": "and",
+                "t": 3904.0,
+                "d": 382.0
+              },
+              {
+                "w": "illustrated",
+                "t": 4287.0,
+                "d": 638.0
+              },
+              {
+                "w": "manuscripts",
+                "t": 4925.0,
+                "d": 723.0
+              },
+              {
+                "w": "alongside",
+                "t": 5648.0,
+                "d": 638.0
+              },
+              {
+                "w": "other",
+                "t": 6287.0,
+                "d": 255.0
+              },
+              {
+                "w": "models",
+                "t": 6542.0,
+                "d": 1276.0
+              },
+              {
+                "w": "Pala",
+                "t": 7861.0,
+                "d": 382.0
+              },
+              {
+                "w": "forms",
+                "t": 8244.0,
+                "d": 424.0
+              },
+              {
+                "w": "became",
+                "t": 8669.0,
+                "d": 425.0
+              },
+              {
+                "w": "one",
+                "t": 9094.0,
+                "d": 256.0
+              },
+              {
+                "w": "strong",
+                "t": 9351.0,
+                "d": 467.0
+              },
+              {
+                "w": "thread",
+                "t": 9818.0,
+                "d": 340.0
+              },
+              {
+                "w": "within",
+                "t": 10158.0,
+                "d": 341.0
+              },
+              {
+                "w": "a",
+                "t": 10500.0,
+                "d": 42.0
+              },
+              {
+                "w": "wider",
+                "t": 10542.0,
+                "d": 468.0
+              },
+              {
+                "w": "weave",
+                "t": 11010.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 11606.0,
+                "d": 254.0
+              },
+              {
+                "w": "Central",
+                "t": 11860.0,
+                "d": 469.0
+              },
+              {
+                "w": "Asian",
+                "t": 12329.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 12882.0,
+                "d": 255.0
+              },
+              {
+                "w": "local",
+                "t": 13138.0,
+                "d": 296.0
+              },
+              {
+                "w": "styles",
+                "t": 13435.0,
+                "d": 767.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_bronze_that_crossed_the_himalayas/split_auto/s0.png",
+          "slogan": {
+            "en": "Metal bears the Dharma",
+            "hi": "धर्म को धारण करता धातु"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_bronze_that_crossed_the_himalayas/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_bronze_that_crossed_the_himalayas/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Bihar to Kathmandu and Lhasa, his bronzes and teachings ripple outward like hammered rings of light.",
+            "hi": "बिहार से काठमांडू, ल्हासा तक, उसकी मूर्तियाँ और उपदेश रोशनी की लहरों-से चारों तरफ फैलते जाते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "Bihar",
+                "t": 364.0,
+                "d": 375.0
+              },
+              {
+                "w": "to",
+                "t": 739.0,
+                "d": 166.0
+              },
+              {
+                "w": "Kathmandu",
+                "t": 906.0,
+                "d": 541.0
+              },
+              {
+                "w": "and",
+                "t": 1447.0,
+                "d": 166.0
+              },
+              {
+                "w": "Lhasa",
+                "t": 1614.0,
+                "d": 666.0
+              },
+              {
+                "w": "his",
+                "t": 2364.0,
+                "d": 291.0
+              },
+              {
+                "w": "bronzes",
+                "t": 2656.0,
+                "d": 583.0
+              },
+              {
+                "w": "and",
+                "t": 3239.0,
+                "d": 166.0
+              },
+              {
+                "w": "teachings",
+                "t": 3406.0,
+                "d": 540.0
+              },
+              {
+                "w": "ripple",
+                "t": 3946.0,
+                "d": 376.0
+              },
+              {
+                "w": "outward",
+                "t": 4322.0,
+                "d": 500.0
+              },
+              {
+                "w": "like",
+                "t": 4822.0,
+                "d": 250.0
+              },
+              {
+                "w": "hammered",
+                "t": 5072.0,
+                "d": 416.0
+              },
+              {
+                "w": "rings",
+                "t": 5489.0,
+                "d": 250.0
+              },
+              {
+                "w": "of",
+                "t": 5739.0,
+                "d": 166.0
+              },
+              {
+                "w": "light",
+                "t": 5906.0,
+                "d": 541.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p12.png",
+      "shot": "montage-style wide shot showing different regions, with subtle visual echoes of style among them",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Burma to the eastern Himalayas, certain ways of showing Buddhas and bodhisattvas, hand gestures, seated postures, even specific tantric mandalas, carried a Pala imprint, reshaped by each region they entered.",
+            "hi": "बर्मा से पूर्वी हिमालय तक, बुद्ध और बोधिसत्त्वों को दिखाने के कई तरीके—हाथ के मुद्राएँ, बैठने के आसन, खास तांत्रिक मंडल—सब पर पाला की छाप दिखी, जो हर इलाके में अलग ढंग से ढली।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p12_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "Burma",
+                "t": 414.0,
+                "d": 425.0
+              },
+              {
+                "w": "to",
+                "t": 840.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 968.0,
+                "d": 127.0
+              },
+              {
+                "w": "eastern",
+                "t": 1095.0,
+                "d": 510.0
+              },
+              {
+                "w": "Himalayas",
+                "t": 1606.0,
+                "d": 1191.0
+              },
+              {
+                "w": "certain",
+                "t": 2797.0,
+                "d": 339.0
+              },
+              {
+                "w": "ways",
+                "t": 3137.0,
+                "d": 256.0
+              },
+              {
+                "w": "of",
+                "t": 3393.0,
+                "d": 85.0
+              },
+              {
+                "w": "showing",
+                "t": 3478.0,
+                "d": 425.0
+              },
+              {
+                "w": "Buddhas",
+                "t": 3904.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 4414.0,
+                "d": 212.0
+              },
+              {
+                "w": "bodhisattvas",
+                "t": 4627.0,
+                "d": 680.0
+              },
+              {
+                "w": "hand",
+                "t": 5308.0,
+                "d": 170.0
+              },
+              {
+                "w": "gestures",
+                "t": 5904.0,
+                "d": 1063.0
+              },
+              {
+                "w": "seated",
+                "t": 7223.0,
+                "d": 510.0
+              },
+              {
+                "w": "postures",
+                "t": 7734.0,
+                "d": 892.0
+              },
+              {
+                "w": "even",
+                "t": 8797.0,
+                "d": 296.0
+              },
+              {
+                "w": "specific",
+                "t": 9094.0,
+                "d": 596.0
+              },
+              {
+                "w": "tantric",
+                "t": 9691.0,
+                "d": 510.0
+              },
+              {
+                "w": "mandalas",
+                "t": 10202.0,
+                "d": 764.0
+              },
+              {
+                "w": "carried",
+                "t": 11222.0,
+                "d": 384.0
+              },
+              {
+                "w": "a",
+                "t": 11606.0,
+                "d": 127.0
+              },
+              {
+                "w": "Pala",
+                "t": 11734.0,
+                "d": 296.0
+              },
+              {
+                "w": "imprint",
+                "t": 12030.0,
+                "d": 808.0
+              },
+              {
+                "w": "reshaped",
+                "t": 13009.0,
+                "d": 596.0
+              },
+              {
+                "w": "by",
+                "t": 13606.0,
+                "d": 212.0
+              },
+              {
+                "w": "each",
+                "t": 13819.0,
+                "d": 339.0
+              },
+              {
+                "w": "region",
+                "t": 14158.0,
+                "d": 511.0
+              },
+              {
+                "w": "they",
+                "t": 14670.0,
+                "d": 170.0
+              },
+              {
+                "w": "entered",
+                "t": 14840.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p13.png",
+      "shot": "subtle dramatic shot of a 19th-century countryside scene as labourers unearth buried bronzes",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Centuries later, in eighteen forty-seven and again in eighteen sixty-one, hoards of Pala bronzes were unearthed near Kurkihar, their buried cluster now the largest documented group of such images from a single site.",
+            "hi": "सदियाँ बीतने के बाद, 1847 और फिर 1861 में, कुरकिहार के पास पाला‑कालीन काँसे के खज़ाने मिले—एक ही जगह से निकला ये समूह आज तक का सबसे बड़ा दर्ज उदाहरण है।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p13_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Centuries",
+                "t": 117.0,
+                "d": 680.0
+              },
+              {
+                "w": "later",
+                "t": 797.0,
+                "d": 553.0
+              },
+              {
+                "w": "in",
+                "t": 1393.0,
+                "d": 255.0
+              },
+              {
+                "w": "eighteen",
+                "t": 1648.0,
+                "d": 468.0
+              },
+              {
+                "w": "forty-seven",
+                "t": 2117.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 2925.0,
+                "d": 297.0
+              },
+              {
+                "w": "again",
+                "t": 3223.0,
+                "d": 553.0
+              },
+              {
+                "w": "in",
+                "t": 3819.0,
+                "d": 254.0
+              },
+              {
+                "w": "eighteen",
+                "t": 4073.0,
+                "d": 384.0
+              },
+              {
+                "w": "sixty-one",
+                "t": 4457.0,
+                "d": 680.0
+              },
+              {
+                "w": "hoards",
+                "t": 5648.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 6074.0,
+                "d": 212.0
+              },
+              {
+                "w": "Pala",
+                "t": 6287.0,
+                "d": 340.0
+              },
+              {
+                "w": "bronzes",
+                "t": 6627.0,
+                "d": 723.0
+              },
+              {
+                "w": "were",
+                "t": 7351.0,
+                "d": 255.0
+              },
+              {
+                "w": "unearthed",
+                "t": 7606.0,
+                "d": 638.0
+              },
+              {
+                "w": "near",
+                "t": 8244.0,
+                "d": 255.0
+              },
+              {
+                "w": "Kurkihar",
+                "t": 8500.0,
+                "d": 936.0
+              },
+              {
+                "w": "their",
+                "t": 9818.0,
+                "d": 255.0
+              },
+              {
+                "w": "buried",
+                "t": 10073.0,
+                "d": 341.0
+              },
+              {
+                "w": "cluster",
+                "t": 10414.0,
+                "d": 510.0
+              },
+              {
+                "w": "now",
+                "t": 10925.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 11606.0,
+                "d": 254.0
+              },
+              {
+                "w": "largest",
+                "t": 11860.0,
+                "d": 510.0
+              },
+              {
+                "w": "documented",
+                "t": 12371.0,
+                "d": 681.0
+              },
+              {
+                "w": "group",
+                "t": 13053.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 13393.0,
+                "d": 126.0
+              },
+              {
+                "w": "such",
+                "t": 13520.0,
+                "d": 341.0
+              },
+              {
+                "w": "images",
+                "t": 13861.0,
+                "d": 467.0
+              },
+              {
+                "w": "from",
+                "t": 14328.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 14542.0,
+                "d": 41.0
+              },
+              {
+                "w": "single",
+                "t": 14584.0,
+                "d": 468.0
+              },
+              {
+                "w": "site",
+                "t": 15052.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p14.png",
+      "shot": "gallery-like wide shot of museum cases in Patna and Kolkata, bronzes lit dramatically in the dark",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today, many Kurkihar bronzes rest in the Patna Museum and the Indian Museum, allowing scholars like Susan Huntington to reconstruct the style and chronology of Pala-Sena sculpture.",
+            "hi": "आज कई कुरकिहार मूर्तियाँ पटना संग्रहालय और इंडियन म्यूज़ियम में हैं; इन्हीं से स्यूज़न हंटिंगटन जैसे विद्वान पाला‑सेना मूर्तिकला की शैली और तारीखों को जोड़ पा रहे हैं।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p14_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 80.0,
+                "d": 551.0
+              },
+              {
+                "w": "many",
+                "t": 1091.0,
+                "d": 505.0
+              },
+              {
+                "w": "Kurkihar",
+                "t": 1643.0,
+                "d": 597.0
+              },
+              {
+                "w": "bronzes",
+                "t": 2241.0,
+                "d": 827.0
+              },
+              {
+                "w": "rest",
+                "t": 3114.0,
+                "d": 459.0
+              },
+              {
+                "w": "in",
+                "t": 3574.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 3712.0,
+                "d": 136.0
+              },
+              {
+                "w": "Patna",
+                "t": 3849.0,
+                "d": 414.0
+              },
+              {
+                "w": "Museum",
+                "t": 4264.0,
+                "d": 781.0
+              },
+              {
+                "w": "and",
+                "t": 5045.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 5229.0,
+                "d": 275.0
+              },
+              {
+                "w": "Indian",
+                "t": 5505.0,
+                "d": 413.0
+              },
+              {
+                "w": "Museum",
+                "t": 5919.0,
+                "d": 1057.0
+              },
+              {
+                "w": "allowing",
+                "t": 6977.0,
+                "d": 505.0
+              },
+              {
+                "w": "scholars",
+                "t": 7482.0,
+                "d": 551.0
+              },
+              {
+                "w": "like",
+                "t": 8034.0,
+                "d": 229.0
+              },
+              {
+                "w": "Susan",
+                "t": 8264.0,
+                "d": 413.0
+              },
+              {
+                "w": "Huntington",
+                "t": 8678.0,
+                "d": 872.0
+              },
+              {
+                "w": "to",
+                "t": 9642.0,
+                "d": 231.0
+              },
+              {
+                "w": "reconstruct",
+                "t": 9873.0,
+                "d": 734.0
+              },
+              {
+                "w": "the",
+                "t": 10608.0,
+                "d": 139.0
+              },
+              {
+                "w": "style",
+                "t": 10747.0,
+                "d": 643.0
+              },
+              {
+                "w": "and",
+                "t": 11436.0,
+                "d": 412.0
+              },
+              {
+                "w": "chronology",
+                "t": 11849.0,
+                "d": 965.0
+              },
+              {
+                "w": "of",
+                "t": 12862.0,
+                "d": 275.0
+              },
+              {
+                "w": "Pala-Sena",
+                "t": 13137.0,
+                "d": 597.0
+              },
+              {
+                "w": "sculpture",
+                "t": 13735.0,
+                "d": 872.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p15.png",
+      "shot": "medium shot of an art historian’s desk strewn with photographs, notes and old sale catalogues",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Yet not every bronze can be traced so clearly; many reached markets through undocumented or looted paths, so recent art history warns against assigning every Pala-style image to a single origin monastery.",
+            "hi": "पर हर काँसे की राह साफ नहीं दिखती; बहुत‑सी मूर्तियाँ बिना रिकॉर्ड या लूट के रास्तों से बाज़ारों तक पहुँचीं; इसलिए नई कला‑इतिहास चेतावनी देती है कि हर पाला‑जैसी मूर्ति को एक ही मठ से न जोड़ दो।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p15_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Yet",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "not",
+                "t": 414.0,
+                "d": 382.0
+              },
+              {
+                "w": "every",
+                "t": 797.0,
+                "d": 510.0
+              },
+              {
+                "w": "bronze",
+                "t": 1308.0,
+                "d": 510.0
+              },
+              {
+                "w": "can",
+                "t": 1819.0,
+                "d": 170.0
+              },
+              {
+                "w": "be",
+                "t": 1989.0,
+                "d": 169.0
+              },
+              {
+                "w": "traced",
+                "t": 2158.0,
+                "d": 382.0
+              },
+              {
+                "w": "so",
+                "t": 2541.0,
+                "d": 341.0
+              },
+              {
+                "w": "clearly",
+                "t": 2882.0,
+                "d": 893.0
+              },
+              {
+                "w": "many",
+                "t": 3904.0,
+                "d": 425.0
+              },
+              {
+                "w": "reached",
+                "t": 4329.0,
+                "d": 340.0
+              },
+              {
+                "w": "markets",
+                "t": 4670.0,
+                "d": 510.0
+              },
+              {
+                "w": "through",
+                "t": 5180.0,
+                "d": 340.0
+              },
+              {
+                "w": "undocumented",
+                "t": 5521.0,
+                "d": 1106.0
+              },
+              {
+                "w": "or",
+                "t": 6670.0,
+                "d": 212.0
+              },
+              {
+                "w": "looted",
+                "t": 6882.0,
+                "d": 468.0
+              },
+              {
+                "w": "paths",
+                "t": 7351.0,
+                "d": 382.0
+              },
+              {
+                "w": "so",
+                "t": 7734.0,
+                "d": 638.0
+              },
+              {
+                "w": "recent",
+                "t": 8372.0,
+                "d": 467.0
+              },
+              {
+                "w": "art",
+                "t": 8882.0,
+                "d": 255.0
+              },
+              {
+                "w": "history",
+                "t": 9138.0,
+                "d": 509.0
+              },
+              {
+                "w": "warns",
+                "t": 9647.0,
+                "d": 554.0
+              },
+              {
+                "w": "against",
+                "t": 10202.0,
+                "d": 468.0
+              },
+              {
+                "w": "assigning",
+                "t": 10670.0,
+                "d": 722.0
+              },
+              {
+                "w": "every",
+                "t": 11436.0,
+                "d": 594.0
+              },
+              {
+                "w": "Pala-style",
+                "t": 12030.0,
+                "d": 808.0
+              },
+              {
+                "w": "image",
+                "t": 12839.0,
+                "d": 680.0
+              },
+              {
+                "w": "to",
+                "t": 13563.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 13734.0,
+                "d": 42.0
+              },
+              {
+                "w": "single",
+                "t": 13776.0,
+                "d": 595.0
+              },
+              {
+                "w": "origin",
+                "t": 14413.0,
+                "d": 469.0
+              },
+              {
+                "w": "monastery",
+                "t": 14882.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p16.png",
+      "shot": "time-layered shot: artisan at work in foreground, faint overlay of a modern monastery interior using a similar image",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Still, each time a modern monk turns a prayer wheel before such a figure, they stand in a chain that links Pala workshops, Newar studios and highland shrines through shared images and practices.",
+            "hi": "फिर भी, जब भी कोई आधुनिक भिक्षु ऐसी मूर्ति के सामने प्रार्थना‑चक्र घुमाता है, वह उसी कड़ी में खड़ा होता है जो पाला कारखानों, नेवार स्टूडियो और पहाड़ी देवालयों को साझा छवियों और अभ्यासों से जोड़ती है।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p16_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Still",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "each",
+                "t": 1095.0,
+                "d": 340.0
+              },
+              {
+                "w": "time",
+                "t": 1436.0,
+                "d": 425.0
+              },
+              {
+                "w": "a",
+                "t": 1861.0,
+                "d": 127.0
+              },
+              {
+                "w": "modern",
+                "t": 1989.0,
+                "d": 425.0
+              },
+              {
+                "w": "monk",
+                "t": 2414.0,
+                "d": 297.0
+              },
+              {
+                "w": "turns",
+                "t": 2712.0,
+                "d": 339.0
+              },
+              {
+                "w": "a",
+                "t": 3052.0,
+                "d": 127.0
+              },
+              {
+                "w": "prayer",
+                "t": 3179.0,
+                "d": 382.0
+              },
+              {
+                "w": "wheel",
+                "t": 3562.0,
+                "d": 384.0
+              },
+              {
+                "w": "before",
+                "t": 4243.0,
+                "d": 469.0
+              },
+              {
+                "w": "such",
+                "t": 4712.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 5010.0,
+                "d": 42.0
+              },
+              {
+                "w": "figure",
+                "t": 5053.0,
+                "d": 468.0
+              },
+              {
+                "w": "they",
+                "t": 6117.0,
+                "d": 255.0
+              },
+              {
+                "w": "stand",
+                "t": 6372.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 6755.0,
+                "d": 85.0
+              },
+              {
+                "w": "a",
+                "t": 6840.0,
+                "d": 127.0
+              },
+              {
+                "w": "chain",
+                "t": 6968.0,
+                "d": 340.0
+              },
+              {
+                "w": "that",
+                "t": 7308.0,
+                "d": 212.0
+              },
+              {
+                "w": "links",
+                "t": 7521.0,
+                "d": 297.0
+              },
+              {
+                "w": "Pala",
+                "t": 7819.0,
+                "d": 297.0
+              },
+              {
+                "w": "workshops",
+                "t": 8117.0,
+                "d": 892.0
+              },
+              {
+                "w": "Newar",
+                "t": 9223.0,
+                "d": 424.0
+              },
+              {
+                "w": "studios",
+                "t": 9647.0,
+                "d": 809.0
+              },
+              {
+                "w": "and",
+                "t": 10542.0,
+                "d": 297.0
+              },
+              {
+                "w": "highland",
+                "t": 10840.0,
+                "d": 340.0
+              },
+              {
+                "w": "shrines",
+                "t": 11180.0,
+                "d": 468.0
+              },
+              {
+                "w": "through",
+                "t": 11648.0,
+                "d": 296.0
+              },
+              {
+                "w": "shared",
+                "t": 11945.0,
+                "d": 340.0
+              },
+              {
+                "w": "images",
+                "t": 12286.0,
+                "d": 596.0
+              },
+              {
+                "w": "and",
+                "t": 12882.0,
+                "d": 211.0
+              },
+              {
+                "w": "practices",
+                "t": 13094.0,
+                "d": 937.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p17.png",
+      "shot": "quiet close-up on the artisan-monk’s thoughtful face, lit by the reflection of the bronze",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "May this image walk where I will never go, and still do its work.",
+            "hi": "“ये मूर्ति वहाँ चले, जहाँ मैं कभी न पहुँचूँ—और अपना काम फिर भी करती रहे।”"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p17_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "May",
+                "t": 49.0,
+                "d": 196.1
+              },
+              {
+                "w": "this",
+                "t": 257.3,
+                "d": 281.9
+              },
+              {
+                "w": "image",
+                "t": 612.8,
+                "d": 318.6
+              },
+              {
+                "w": "walk",
+                "t": 931.4,
+                "d": 330.9
+              },
+              {
+                "w": "where",
+                "t": 1262.2,
+                "d": 379.9
+              },
+              {
+                "w": "I",
+                "t": 1728.0,
+                "d": 171.5
+              },
+              {
+                "w": "will",
+                "t": 1899.5,
+                "d": 269.6
+              },
+              {
+                "w": "never",
+                "t": 2169.1,
+                "d": 355.4
+              },
+              {
+                "w": "go",
+                "t": 2524.5,
+                "d": 294.1
+              },
+              {
+                "w": "and",
+                "t": 3174.0,
+                "d": 208.3
+              },
+              {
+                "w": "still",
+                "t": 3382.3,
+                "d": 392.2
+              },
+              {
+                "w": "do",
+                "t": 3774.5,
+                "d": 183.8
+              },
+              {
+                "w": "its",
+                "t": 3970.6,
+                "d": 245.1
+              },
+              {
+                "w": "work",
+                "t": 4215.7,
+                "d": 392.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/the_bronze_that_crossed_the_himalayas/img/p18.png",
+      "shot": "final wide shot of a small bronze on a simple altar, mountains and plains dissolving together behind it",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Pala bronzes of Kurkihar show how beauty and practice can migrate beyond kings and borders, crossing mountains quietly, yet leaving lines and gestures that outlast empires and battle-lines alike.",
+            "hi": "कुरकिहार के पाला काँसे दिखाते हैं कि रूप और साधना, राजा और सरहदों से बाहर भी सफ़र कर सकते हैं—पहाड़ चुपचाप पार करते हुए, ऐसी रेखाएँ और मुद्राएँ छोड़ जाते हैं, जो साम्राज्यों और जंग‑रेखाओं से ज़्यादा देर टिकती हैं।"
+          },
+          "audio": {
+            "en": "assets/the_bronze_that_crossed_the_himalayas/audio/en/p18_0.mp3",
+            "hi": "assets/the_bronze_that_crossed_the_himalayas/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "Pala",
+                "t": 270.0,
+                "d": 280.0
+              },
+              {
+                "w": "bronzes",
+                "t": 550.0,
+                "d": 560.0
+              },
+              {
+                "w": "of",
+                "t": 1110.0,
+                "d": 240.0
+              },
+              {
+                "w": "Kurkihar",
+                "t": 1350.0,
+                "d": 520.0
+              },
+              {
+                "w": "show",
+                "t": 1870.0,
+                "d": 320.0
+              },
+              {
+                "w": "how",
+                "t": 2190.0,
+                "d": 199.0
+              },
+              {
+                "w": "beauty",
+                "t": 2389.0,
+                "d": 321.0
+              },
+              {
+                "w": "and",
+                "t": 2710.0,
+                "d": 159.0
+              },
+              {
+                "w": "practice",
+                "t": 2869.0,
+                "d": 480.0
+              },
+              {
+                "w": "can",
+                "t": 3349.0,
+                "d": 201.0
+              },
+              {
+                "w": "migrate",
+                "t": 3550.0,
+                "d": 439.0
+              },
+              {
+                "w": "beyond",
+                "t": 3989.0,
+                "d": 361.0
+              },
+              {
+                "w": "kings",
+                "t": 4350.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 4710.0,
+                "d": 160.0
+              },
+              {
+                "w": "borders",
+                "t": 4870.0,
+                "d": 880.0
+              },
+              {
+                "w": "crossing",
+                "t": 5950.0,
+                "d": 480.0
+              },
+              {
+                "w": "mountains",
+                "t": 6430.0,
+                "d": 560.0
+              },
+              {
+                "w": "quietly",
+                "t": 6990.0,
+                "d": 920.0
+              },
+              {
+                "w": "yet",
+                "t": 7990.0,
+                "d": 280.0
+              },
+              {
+                "w": "leaving",
+                "t": 8270.0,
+                "d": 359.0
+              },
+              {
+                "w": "lines",
+                "t": 8629.0,
+                "d": 321.0
+              },
+              {
+                "w": "and",
+                "t": 8950.0,
+                "d": 240.0
+              },
+              {
+                "w": "gestures",
+                "t": 9190.0,
+                "d": 600.0
+              },
+              {
+                "w": "that",
+                "t": 9790.0,
+                "d": 240.0
+              },
+              {
+                "w": "outlast",
+                "t": 10030.0,
+                "d": 519.0
+              },
+              {
+                "w": "empires",
+                "t": 10549.0,
+                "d": 561.0
+              },
+              {
+                "w": "and",
+                "t": 11110.0,
+                "d": 240.0
+              },
+              {
+                "w": "battle-lines",
+                "t": 11350.0,
+                "d": 480.0
+              },
+              {
+                "w": "alike",
+                "t": 11830.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Kurkihar Artisan-Monk",
+    "epithets": [
+      "Masters of Pala bronzes",
+      "Keepers of painted Dharma",
+      "Makers of wandering Buddhas",
+      "Smiths of the Vajrayana age"
+    ],
+    "legend": "Their bronzes walked where armies could not go."
+  }
+}
