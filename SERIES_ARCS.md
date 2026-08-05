@@ -572,6 +572,24 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 💥 Battles That Broke and Made Empires  *(c. 1204–1846 — thrones toppled and founded)*  — **✅ CHAPTER COMPLETE (13/13, de-duplicated + refilled)**
+
+Thirteen battles that made or unmade empires across India, from the Ghurid raid that ended Sena Bengal to the fall of the Sikh Empire — the long arc into the colonial conquest, told source-critically with the standard held hardest on the winners. De-duplicated against the other battle chapters (Porus/Somnath/Hammira removed) and refilled with three fresh unique battles.
+
+1. **Bakhtiyar Takes Lakhnauti** ✅ — Bakhtiyar Khalji's cavalry raid ends Sena Bengal (1204); the single-source problem (Minhaj) made explicit. *(historiography)*
+2. **Devagiri Pays for a Throne** ✅ — Alauddin Khalji's 1296 Deccan raid; the gold that funded a coup and an empire.
+3. **The Skulls of Chanderi** ✅ — Babur vs Medini Rai (1528); the skull-tower and jauhar from Babur's own Baburnama.
+4. **Tukaroi Opens Bengal to Akbar** ✅ — Munim Khan vs Daud Khan Karrani (1575–76); the two-stage Mughal conquest of Bengal. *(fresh — dedup refill)*
+5. **Banda Singh Breaks Sirhind** ✅ — Banda Bahadur vs Wazir Khan (1710); both framings stated, the sack not whitewashed.
+6. **Plassey Was a Treaty Before a Battle** ✅ — Clive vs Siraj ud-Daulah (1757); the forged treaty and the betrayal that "signed" the victory.
+7. **Adyar Breaks the Nawab's Line** ✅ — Paradis vs Mahfuz Khan (1746); the French "military revolution", racial framing refused. *(fresh — dedup refill)*
+8. **Wandiwash Closes the French Road** ✅ — Eyre Coote vs Comte de Lally (1760); the end of French India.
+9. **Buxar Hands Over the Diwani** ✅ — Munro vs Shah Alam II (1764–65); how a battle became bookkeeping — the Company gains the Diwani.
+10. **Kharda Marks the Confederacy's High Tide** ✅ — Parshuram Bhau vs Nizam Ali Khan (1795); the last united Maratha victory, unity peaking as decline begins. *(fresh — dedup refill)*
+11. **Seringapatam and the Tiger's Gate** ✅ — Tipu Sultan vs George Harris (1799); the Tiger of Mysore's fall, his dual record held in one frame. *(complementary to the Wodeyar chapter's Tipu-rockets story)*
+12. **Assaye Bleeds the Maratha Guns** ✅ — Arthur Wellesley vs Daulat Rao Scindia (1803); the victory that made even the victor doubt.
+13. **Sobraon's Broken Bridge** ✅ — Sham Singh Attariwala vs Hugh Gough (1846); the Sikh Empire's fall and the Koh-i-Noor's road to a foreign crown.
+
 ## 🏔️ The Resistance Front: India's Stand Against the Invaders  *(c. 1008–1762 — the under-told defence)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 @naveenneog's seed: the valour, sacrifice and actual battles of India's resistance to Ghazni, Ghor, the Mongols, Timur and Abdali — told defender-first and TRUTHFULLY (valour AND defeat, atrocities stated from the sources, no hagiography or communal spin). A deliberately pan-Indian defence: Hindu, Muslim and Sikh defenders of the land.
