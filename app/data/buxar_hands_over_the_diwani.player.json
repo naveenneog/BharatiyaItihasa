@@ -1,0 +1,4272 @@
+{
+  "id": "buxar_hands_over_the_diwani",
+  "title": "Buxar Hands Over the Diwani",
+  "title_i18n": {
+    "en": "Buxar Hands Over the Diwani",
+    "hi": "बक्सर ने दीवानी सौंपी"
+  },
+  "figure": "Hector Munro and Shah Alam II",
+  "era": "Battle of Buxar and Treaty of Allahabad, 1764-1765 CE",
+  "moral": "A battlefield can become a ledger.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/buxar_hands_over_the_diwani/intro/hero.png",
+      "name": "Hector Munro & Shah Alam II (Dual Character Sheet)",
+      "epithets": [
+        "Hector Munro: Victor of Buxar",
+        "Hector Munro: Company’s Iron Colonel",
+        "Shah Alam II: Mughal Emperor in Exile",
+        "Shah Alam II: Emperor Who Signed Away Bengal"
+      ],
+      "legend": "One battle turned an emperor’s seal into the Company’s sword.",
+      "era": "Battle of Buxar and Treaty of Allahabad, 1764-1765 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On the dusty fields of Buxar, a Scottish colonel breaks an imperial army, while a homeless Mughal emperor later signs away Bengal's wealth. Was this victory, or the quiet death of a throne?",
+            "hi": "बक्सर की धूल भरी जमीन पर, एक स्कॉटिश कर्नल सम्राट की फौज तोड़ देता है, और बाद में बेघर मुगल बादशाह बंगाल की दौलत पर दस्तखत कर देता है। ये जीत थी, या तख्त की चुपचाप मौत?"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/intro/hero_en.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 72.0,
+                "d": 166.0
+              },
+              {
+                "w": "the",
+                "t": 239.0,
+                "d": 125.0
+              },
+              {
+                "w": "dusty",
+                "t": 364.0,
+                "d": 375.0
+              },
+              {
+                "w": "fields",
+                "t": 739.0,
+                "d": 333.0
+              },
+              {
+                "w": "of",
+                "t": 1072.0,
+                "d": 166.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/buxar_hands_over_the_diwani/intro/map.png",
+      "x": 0.64,
+      "y": 0.32,
+      "label": "Buxar & Allahabad, Gangetic Plain",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, on the long bend of the Ganga, muskets cracked and ink dried, and Bengal's rivers of revenue changed hands forever.",
+            "hi": "यहीं गंगा की इस लंबी मोड़ पर बंदूकें गरजीं, स्याही सूख गई, और बंगाल की आमदनी की नदियाँ हमेशा के लिए हाथ बदल गईं।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/intro/map_en.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 643.0
+              },
+              {
+                "w": "on",
+                "t": 770.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 1000.0,
+                "d": 183.0
+              },
+              {
+                "w": "long",
+                "t": 1183.0,
+                "d": 459.0
+              },
+              {
+                "w": "bend",
+                "t": 1643.0,
+                "d": 275.0
+              },
+              {
+                "w": "of",
+                "t": 1919.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 2057.0,
+                "d": 137.0
+              },
+              {
+                "w": "Ganga",
+                "t": 2195.0,
+                "d": 642.0
+              },
+              {
+                "w": "muskets",
+                "t": 3160.0,
+                "d": 688.0
+              },
+              {
+                "w": "cracked",
+                "t": 3849.0,
+                "d": 460.0
+              },
+              {
+                "w": "and",
+                "t": 4310.0,
+                "d": 136.0
+              },
+              {
+                "w": "ink",
+                "t": 4447.0,
+                "d": 322.0
+              },
+              {
+                "w": "dried",
+                "t": 4770.0,
+                "d": 689.0
+              },
+              {
+                "w": "and",
+                "t": 5505.0,
+                "d": 367.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 5873.0,
+                "d": 597.0
+              },
+              {
+                "w": "rivers",
+                "t": 6471.0,
+                "d": 459.0
+              },
+              {
+                "w": "of",
+                "t": 6931.0,
+                "d": 137.0
+              },
+              {
+                "w": "revenue",
+                "t": 7068.0,
+                "d": 505.0
+              },
+              {
+                "w": "changed",
+                "t": 7574.0,
+                "d": 505.0
+              },
+              {
+                "w": "hands",
+                "t": 8080.0,
+                "d": 459.0
+              },
+              {
+                "w": "forever",
+                "t": 8540.0,
+                "d": 688.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/buxar_hands_over_the_diwani/img/cover.png",
+      "shot": "split-composition wide, half a smoky battlefield at Buxar, half a dim hall with a Mughal emperor sealing a document",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In seventeen sixty-four, at Buxar, muskets spoke; in seventeen sixty-five, at Allahabad, ink flowed. Between Hector Munro's guns and Shah Alam the Second's seal, a trading company quietly became a tax‐collecting power over millions.",
+            "hi": "१७६४ में बक्सर पर बंदूकें गरजीं, १७६५ में इलाहाबाद पर कलम चली। हेक्टर मुनरो की तोपों और शाह आलम द्वितीय की मुहर के बीच, एक व्यापारी कम्पनी चुपचाप लाखों की महसूलदार बन गई।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/cover_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "seventeen",
+                "t": 270.0,
+                "d": 480.0
+              },
+              {
+                "w": "sixty-four",
+                "t": 750.0,
+                "d": 680.0
+              },
+              {
+                "w": "at",
+                "t": 1630.0,
+                "d": 280.0
+              },
+              {
+                "w": "Buxar",
+                "t": 1910.0,
+                "d": 640.0
+              },
+              {
+                "w": "muskets",
+                "t": 2710.0,
+                "d": 560.0
+              },
+              {
+                "w": "spoke",
+                "t": 3270.0,
+                "d": 519.0
+              },
+              {
+                "w": "in",
+                "t": 4150.0,
+                "d": 240.0
+              },
+              {
+                "w": "seventeen",
+                "t": 4390.0,
+                "d": 480.0
+              },
+              {
+                "w": "sixty-five",
+                "t": 4870.0,
+                "d": 760.0
+              },
+              {
+                "w": "at",
+                "t": 5790.0,
+                "d": 280.0
+              },
+              {
+                "w": "Allahabad",
+                "t": 6070.0,
+                "d": 680.0
+              },
+              {
+                "w": "ink",
+                "t": 6790.0,
+                "d": 240.0
+              },
+              {
+                "w": "flowed",
+                "t": 7030.0,
+                "d": 680.0
+              },
+              {
+                "w": "Between",
+                "t": 8109.0,
+                "d": 440.0
+              },
+              {
+                "w": "Hector",
+                "t": 8549.0,
+                "d": 361.0
+              },
+              {
+                "w": "Munro's",
+                "t": 8910.0,
+                "d": 399.0
+              },
+              {
+                "w": "guns",
+                "t": 9309.0,
+                "d": 361.0
+              },
+              {
+                "w": "and",
+                "t": 9670.0,
+                "d": 160.0
+              },
+              {
+                "w": "Shah",
+                "t": 9830.0,
+                "d": 239.0
+              },
+              {
+                "w": "Alam",
+                "t": 10069.0,
+                "d": 441.0
+              },
+              {
+                "w": "the",
+                "t": 10510.0,
+                "d": 119.0
+              },
+              {
+                "w": "Second's",
+                "t": 10629.0,
+                "d": 440.0
+              },
+              {
+                "w": "seal",
+                "t": 11069.0,
+                "d": 400.0
+              },
+              {
+                "w": "a",
+                "t": 11750.0,
+                "d": 240.0
+              },
+              {
+                "w": "trading",
+                "t": 11990.0,
+                "d": 399.0
+              },
+              {
+                "w": "company",
+                "t": 12389.0,
+                "d": 401.0
+              },
+              {
+                "w": "quietly",
+                "t": 12790.0,
+                "d": 480.0
+              },
+              {
+                "w": "became",
+                "t": 13270.0,
+                "d": 359.0
+              },
+              {
+                "w": "a",
+                "t": 13629.0,
+                "d": 121.0
+              },
+              {
+                "w": "tax‐collecting",
+                "t": 13750.0,
+                "d": 760.0
+              },
+              {
+                "w": "power",
+                "t": 14510.0,
+                "d": 400.0
+              },
+              {
+                "w": "over",
+                "t": 14910.0,
+                "d": 239.0
+              },
+              {
+                "w": "millions",
+                "t": 15149.0,
+                "d": 761.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/buxar_hands_over_the_diwani/img/p01.png",
+      "shot": "slow push-in on a large wall map of eastern India lit by flickering lamplight",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "After Plassey, Bengal did not fall in a single stroke. It tottered for years, between nawabs, bankers and a Company that still pretended to be only a trader.",
+            "hi": "प्लासी के बाद बंगाल एक वार में नहीं गिरा। सालों तक नवाबों, साहूकारों और खुद को सिर्फ व्यापारी कहने वाली कम्पनी के बीच डगमगाता रहा।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p01_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "After",
+                "t": 159.0,
+                "d": 340.0
+              },
+              {
+                "w": "Plassey",
+                "t": 500.0,
+                "d": 638.0
+              },
+              {
+                "w": "Bengal",
+                "t": 1393.0,
+                "d": 595.0
+              },
+              {
+                "w": "did",
+                "t": 1989.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 2202.0,
+                "d": 254.0
+              },
+              {
+                "w": "fall",
+                "t": 2456.0,
+                "d": 341.0
+              },
+              {
+                "w": "in",
+                "t": 2797.0,
+                "d": 85.0
+              },
+              {
+                "w": "a",
+                "t": 2882.0,
+                "d": 42.0
+              },
+              {
+                "w": "single",
+                "t": 2925.0,
+                "d": 468.0
+              },
+              {
+                "w": "stroke",
+                "t": 3393.0,
+                "d": 637.0
+              },
+              {
+                "w": "It",
+                "t": 4542.0,
+                "d": 170.0
+              },
+              {
+                "w": "tottered",
+                "t": 4712.0,
+                "d": 468.0
+              },
+              {
+                "w": "for",
+                "t": 5180.0,
+                "d": 212.0
+              },
+              {
+                "w": "years",
+                "t": 5393.0,
+                "d": 808.0
+              },
+              {
+                "w": "between",
+                "t": 6329.0,
+                "d": 425.0
+              },
+              {
+                "w": "nawabs",
+                "t": 6755.0,
+                "d": 851.0
+              },
+              {
+                "w": "bankers",
+                "t": 7648.0,
+                "d": 935.0
+              },
+              {
+                "w": "and",
+                "t": 8626.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 8924.0,
+                "d": 128.0
+              },
+              {
+                "w": "Company",
+                "t": 9053.0,
+                "d": 468.0
+              },
+              {
+                "w": "that",
+                "t": 9521.0,
+                "d": 170.0
+              },
+              {
+                "w": "still",
+                "t": 9691.0,
+                "d": 340.0
+              },
+              {
+                "w": "pretended",
+                "t": 10031.0,
+                "d": 595.0
+              },
+              {
+                "w": "to",
+                "t": 10627.0,
+                "d": 169.0
+              },
+              {
+                "w": "be",
+                "t": 10796.0,
+                "d": 213.0
+              },
+              {
+                "w": "only",
+                "t": 11010.0,
+                "d": 381.0
+              },
+              {
+                "w": "a",
+                "t": 11392.0,
+                "d": 171.0
+              },
+              {
+                "w": "trader",
+                "t": 11563.0,
+                "d": 637.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/buxar_hands_over_the_diwani/img/p02.png",
+      "shot": "medium wide inside a nawab’s durbar, slightly low angle to show hierarchy",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Mir Qasim, the new nawab of Bengal, quarrelled with the Company over duties and trade privileges. In Awadh, Shuja-ud-Daula watched uneasily. Shah Alam the Second, emperor without a capital, sought a path back to power.",
+            "hi": "नए बंगाल नवाब मीर क़ासिम की कम्पनी से लगान और सुभीदा पर ठन गई। अवध में शुजा-उद-दौला चिंतित नज़र रखे थे। राजधानी से बेदखल बादशाह शाह आलम द्वितीय फिर ताक़त की राह खोज रहे थे।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p02_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Mir",
+                "t": 80.0,
+                "d": 413.0
+              },
+              {
+                "w": "Qasim",
+                "t": 494.0,
+                "d": 505.0
+              },
+              {
+                "w": "the",
+                "t": 1229.0,
+                "d": 229.0
+              },
+              {
+                "w": "new",
+                "t": 1459.0,
+                "d": 229.0
+              },
+              {
+                "w": "nawab",
+                "t": 1689.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 2103.0,
+                "d": 183.0
+              },
+              {
+                "w": "Bengal",
+                "t": 2287.0,
+                "d": 781.0
+              },
+              {
+                "w": "quarrelled",
+                "t": 3343.0,
+                "d": 505.0
+              },
+              {
+                "w": "with",
+                "t": 3849.0,
+                "d": 185.0
+              },
+              {
+                "w": "the",
+                "t": 4034.0,
+                "d": 137.0
+              },
+              {
+                "w": "Company",
+                "t": 4172.0,
+                "d": 459.0
+              },
+              {
+                "w": "over",
+                "t": 4632.0,
+                "d": 321.0
+              },
+              {
+                "w": "duties",
+                "t": 4954.0,
+                "d": 689.0
+              },
+              {
+                "w": "and",
+                "t": 5643.0,
+                "d": 505.0
+              },
+              {
+                "w": "trade",
+                "t": 6149.0,
+                "d": 367.0
+              },
+              {
+                "w": "privileges",
+                "t": 6517.0,
+                "d": 1563.0
+              },
+              {
+                "w": "In",
+                "t": 8080.0,
+                "d": 275.0
+              },
+              {
+                "w": "Awadh",
+                "t": 8356.0,
+                "d": 459.0
+              },
+              {
+                "w": "Shuja-ud-Daula",
+                "t": 9183.0,
+                "d": 919.0
+              },
+              {
+                "w": "watched",
+                "t": 10103.0,
+                "d": 459.0
+              },
+              {
+                "w": "uneasily",
+                "t": 10608.0,
+                "d": 1517.0
+              },
+              {
+                "w": "Shah",
+                "t": 12125.0,
+                "d": 414.0
+              },
+              {
+                "w": "Alam",
+                "t": 12540.0,
+                "d": 413.0
+              },
+              {
+                "w": "the",
+                "t": 12954.0,
+                "d": 136.0
+              },
+              {
+                "w": "Second",
+                "t": 13090.0,
+                "d": 781.0
+              },
+              {
+                "w": "emperor",
+                "t": 14103.0,
+                "d": 551.0
+              },
+              {
+                "w": "without",
+                "t": 14655.0,
+                "d": 413.0
+              },
+              {
+                "w": "a",
+                "t": 15068.0,
+                "d": 91.0
+              },
+              {
+                "w": "capital",
+                "t": 15160.0,
+                "d": 643.0
+              },
+              {
+                "w": "sought",
+                "t": 16034.0,
+                "d": 459.0
+              },
+              {
+                "w": "a",
+                "t": 16494.0,
+                "d": 44.0
+              },
+              {
+                "w": "path",
+                "t": 16539.0,
+                "d": 414.0
+              },
+              {
+                "w": "back",
+                "t": 16954.0,
+                "d": 275.0
+              },
+              {
+                "w": "to",
+                "t": 17229.0,
+                "d": 137.0
+              },
+              {
+                "w": "power",
+                "t": 17367.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/buxar_hands_over_the_diwani/img/p03.png",
+      "shot": "dynamic oblique overhead of marching columns converging along the Ganga",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In seventeen sixty-four, their interests met in one decision: to challenge the Company in open field. The nawab of Bengal, the nawab of Awadh and the Mughal emperor formed a fragile coalition, marching towards Buxar on the Ganga.",
+            "hi": "१७६४ में सबकी दिलचस्पी एक फैसले पर मिली—मैदान में कम्पनी को सीधी चुनौती। बंगाल का नवाब, अवध का नवाब और बादशाह ने नाज़ुक गुट बनाया और गंगा किनारे बक्सर की ओर कूच किया।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p03_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "seventeen",
+                "t": 287.0,
+                "d": 510.0
+              },
+              {
+                "w": "sixty-four",
+                "t": 797.0,
+                "d": 723.0
+              },
+              {
+                "w": "their",
+                "t": 1734.0,
+                "d": 297.0
+              },
+              {
+                "w": "interests",
+                "t": 2031.0,
+                "d": 594.0
+              },
+              {
+                "w": "met",
+                "t": 2626.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 3009.0,
+                "d": 170.0
+              },
+              {
+                "w": "one",
+                "t": 3179.0,
+                "d": 256.0
+              },
+              {
+                "w": "decision",
+                "t": 3436.0,
+                "d": 851.0
+              },
+              {
+                "w": "to",
+                "t": 4627.0,
+                "d": 212.0
+              },
+              {
+                "w": "challenge",
+                "t": 4840.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 5265.0,
+                "d": 170.0
+              },
+              {
+                "w": "Company",
+                "t": 5436.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 5946.0,
+                "d": 212.0
+              },
+              {
+                "w": "open",
+                "t": 6202.0,
+                "d": 382.0
+              },
+              {
+                "w": "field",
+                "t": 6585.0,
+                "d": 851.0
+              },
+              {
+                "w": "The",
+                "t": 7691.0,
+                "d": 255.0
+              },
+              {
+                "w": "nawab",
+                "t": 7946.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 8372.0,
+                "d": 169.0
+              },
+              {
+                "w": "Bengal",
+                "t": 8541.0,
+                "d": 937.0
+              },
+              {
+                "w": "the",
+                "t": 9606.0,
+                "d": 255.0
+              },
+              {
+                "w": "nawab",
+                "t": 9861.0,
+                "d": 467.0
+              },
+              {
+                "w": "of",
+                "t": 10328.0,
+                "d": 256.0
+              },
+              {
+                "w": "Awadh",
+                "t": 10585.0,
+                "d": 467.0
+              },
+              {
+                "w": "and",
+                "t": 11521.0,
+                "d": 254.0
+              },
+              {
+                "w": "the",
+                "t": 11775.0,
+                "d": 128.0
+              },
+              {
+                "w": "Mughal",
+                "t": 11904.0,
+                "d": 340.0
+              },
+              {
+                "w": "emperor",
+                "t": 12244.0,
+                "d": 425.0
+              },
+              {
+                "w": "formed",
+                "t": 12670.0,
+                "d": 424.0
+              },
+              {
+                "w": "a",
+                "t": 13138.0,
+                "d": 85.0
+              },
+              {
+                "w": "fragile",
+                "t": 13223.0,
+                "d": 638.0
+              },
+              {
+                "w": "coalition",
+                "t": 13861.0,
+                "d": 851.0
+              },
+              {
+                "w": "marching",
+                "t": 14755.0,
+                "d": 552.0
+              },
+              {
+                "w": "towards",
+                "t": 15307.0,
+                "d": 426.0
+              },
+              {
+                "w": "Buxar",
+                "t": 15734.0,
+                "d": 510.0
+              },
+              {
+                "w": "on",
+                "t": 16244.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 16414.0,
+                "d": 126.0
+              },
+              {
+                "w": "Ganga",
+                "t": 16541.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/buxar_hands_over_the_diwani/img/p04.png",
+      "shot": "low-angle medium on Munro on horseback against a hazy dawn",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Facing them stood Hector Munro with a much smaller force, but drilled battalions and well‐served guns. His dispatches speak of discipline, steady volleys and the quiet confidence of men used to line and file.",
+            "hi": "उनके सामने था हेक्टर मुनरो, फौज कम, पर कड़ी तरबीयत और चुस्त तोपख़ाना। उसकी रिपोर्टों में अनुशासन, थमी हुई गोलियां और कतारों के आदी सिपाहियों का बेफिक्र भरोसा झलकता है।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p04_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Facing",
+                "t": 70.0,
+                "d": 480.0
+              },
+              {
+                "w": "them",
+                "t": 550.0,
+                "d": 200.0
+              },
+              {
+                "w": "stood",
+                "t": 750.0,
+                "d": 320.0
+              },
+              {
+                "w": "Hector",
+                "t": 1070.0,
+                "d": 400.0
+              },
+              {
+                "w": "Munro",
+                "t": 1470.0,
+                "d": 360.0
+              },
+              {
+                "w": "with",
+                "t": 1830.0,
+                "d": 559.0
+              },
+              {
+                "w": "a",
+                "t": 2389.0,
+                "d": 40.0
+              },
+              {
+                "w": "much",
+                "t": 2429.0,
+                "d": 281.0
+              },
+              {
+                "w": "smaller",
+                "t": 2710.0,
+                "d": 360.0
+              },
+              {
+                "w": "force",
+                "t": 3070.0,
+                "d": 680.0
+              },
+              {
+                "w": "but",
+                "t": 3869.0,
+                "d": 281.0
+              },
+              {
+                "w": "drilled",
+                "t": 4150.0,
+                "d": 320.0
+              },
+              {
+                "w": "battalions",
+                "t": 4470.0,
+                "d": 640.0
+              },
+              {
+                "w": "and",
+                "t": 5110.0,
+                "d": 240.0
+              },
+              {
+                "w": "well‐served",
+                "t": 5350.0,
+                "d": 480.0
+              },
+              {
+                "w": "guns",
+                "t": 5830.0,
+                "d": 560.0
+              },
+              {
+                "w": "His",
+                "t": 6870.0,
+                "d": 240.0
+              },
+              {
+                "w": "dispatches",
+                "t": 7110.0,
+                "d": 560.0
+              },
+              {
+                "w": "speak",
+                "t": 7670.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 7990.0,
+                "d": 119.0
+              },
+              {
+                "w": "discipline",
+                "t": 8109.0,
+                "d": 641.0
+              },
+              {
+                "w": "steady",
+                "t": 9030.0,
+                "d": 439.0
+              },
+              {
+                "w": "volleys",
+                "t": 9469.0,
+                "d": 641.0
+              },
+              {
+                "w": "and",
+                "t": 10229.0,
+                "d": 201.0
+              },
+              {
+                "w": "the",
+                "t": 10430.0,
+                "d": 160.0
+              },
+              {
+                "w": "quiet",
+                "t": 10590.0,
+                "d": 360.0
+              },
+              {
+                "w": "confidence",
+                "t": 10950.0,
+                "d": 599.0
+              },
+              {
+                "w": "of",
+                "t": 11549.0,
+                "d": 241.0
+              },
+              {
+                "w": "men",
+                "t": 11790.0,
+                "d": 400.0
+              },
+              {
+                "w": "used",
+                "t": 12270.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 12590.0,
+                "d": 80.0
+              },
+              {
+                "w": "line",
+                "t": 12670.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 13030.0,
+                "d": 199.0
+              },
+              {
+                "w": "file",
+                "t": 13229.0,
+                "d": 441.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/buxar_hands_over_the_diwani/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/buxar_hands_over_the_diwani/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Munro steps onto the field himself, turning cold calculation into motion as the Company line braces for the coalition's first thunder.",
+            "hi": "मुनरो खुद मैदान में उतरता है, ठंडी गणना को कार्रवाई में बदलते ही कंपनी की पंक्ति गठबंधन की पहली गरज के लिए तन जाती है।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/action/action_auto_en.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Munro",
+                "t": 70.0,
+                "d": 400.0
+              },
+              {
+                "w": "steps",
+                "t": 470.0,
+                "d": 480.0
+              },
+              {
+                "w": "onto",
+                "t": 950.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 1230.0,
+                "d": 160.0
+              },
+              {
+                "w": "field",
+                "t": 1390.0,
+                "d": 320.0
+              },
+              {
+                "w": "himself",
+                "t": 1710.0,
+                "d": 679.0
+              },
+              {
+                "w": "turning",
+                "t": 2909.0,
+                "d": 480.0
+              },
+              {
+                "w": "cold",
+                "t": 3389.0,
+                "d": 281.0
+              },
+              {
+                "w": "calculation",
+                "t": 3670.0,
+                "d": 840.0
+              },
+              {
+                "w": "into",
+                "t": 4510.0,
+                "d": 280.0
+              },
+              {
+                "w": "motion",
+                "t": 4790.0,
+                "d": 800.0
+              },
+              {
+                "w": "as",
+                "t": 5670.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 5910.0,
+                "d": 120.0
+              },
+              {
+                "w": "Company",
+                "t": 6030.0,
+                "d": 440.0
+              },
+              {
+                "w": "line",
+                "t": 6470.0,
+                "d": 240.0
+              },
+              {
+                "w": "braces",
+                "t": 6710.0,
+                "d": 560.0
+              },
+              {
+                "w": "for",
+                "t": 7270.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 7390.0,
+                "d": 120.0
+              },
+              {
+                "w": "coalition's",
+                "t": 7510.0,
+                "d": 599.0
+              },
+              {
+                "w": "first",
+                "t": 8109.0,
+                "d": 360.0
+              },
+              {
+                "w": "thunder",
+                "t": 8469.0,
+                "d": 561.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/buxar_hands_over_the_diwani/img/p05.png",
+      "shot": "wide panoramic battlefield shot, slightly elevated, capturing both armies at the moment before engagement",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On 22 October seventeen sixty-four, near Buxar, the armies drew up. Ghulam Hussain Khan later wrote of a coalition strong in numbers but loose in command, confronting Company troops whose strength lay in cohesion more than in size.",
+            "hi": "२२ अक्तूबर १७६४ को बक्सर के पास दोनों फौजें आमने-सामने खड़ी हुईं। ग़ुलाम हुसैन ख़ान ने बाद में लिखा—जोड़ में मजबूत, पर कमान में ढीला गुट, ऐसे सिपाहियों से भिड़ा जिनकी ताक़त संख्या से ज्यादा एकजुटता थी।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p05_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "22 October",
+                "t": 270.0,
+                "d": 960.0
+              },
+              {
+                "w": "seventeen",
+                "t": 1230.0,
+                "d": 480.0
+              },
+              {
+                "w": "sixty-four",
+                "t": 1710.0,
+                "d": 560.0
+              },
+              {
+                "w": "near",
+                "t": 2270.0,
+                "d": 400.0
+              },
+              {
+                "w": "Buxar",
+                "t": 2829.0,
+                "d": 1000.0
+              },
+              {
+                "w": "the",
+                "t": 3869.0,
+                "d": 281.0
+              },
+              {
+                "w": "armies",
+                "t": 4150.0,
+                "d": 320.0
+              },
+              {
+                "w": "drew",
+                "t": 4470.0,
+                "d": 160.0
+              },
+              {
+                "w": "up",
+                "t": 4630.0,
+                "d": 720.0
+              },
+              {
+                "w": "Ghulam",
+                "t": 5870.0,
+                "d": 400.0
+              },
+              {
+                "w": "Hussain",
+                "t": 6270.0,
+                "d": 320.0
+              },
+              {
+                "w": "Khan",
+                "t": 6590.0,
+                "d": 320.0
+              },
+              {
+                "w": "later",
+                "t": 6910.0,
+                "d": 360.0
+              },
+              {
+                "w": "wrote",
+                "t": 7270.0,
+                "d": 200.0
+              },
+              {
+                "w": "of",
+                "t": 7470.0,
+                "d": 120.0
+              },
+              {
+                "w": "a",
+                "t": 7590.0,
+                "d": 80.0
+              },
+              {
+                "w": "coalition",
+                "t": 7670.0,
+                "d": 519.0
+              },
+              {
+                "w": "strong",
+                "t": 8189.0,
+                "d": 360.0
+              },
+              {
+                "w": "in",
+                "t": 8549.0,
+                "d": 80.0
+              },
+              {
+                "w": "numbers",
+                "t": 8629.0,
+                "d": 760.0
+              },
+              {
+                "w": "but",
+                "t": 9469.0,
+                "d": 281.0
+              },
+              {
+                "w": "loose",
+                "t": 9750.0,
+                "d": 240.0
+              },
+              {
+                "w": "in",
+                "t": 9990.0,
+                "d": 159.0
+              },
+              {
+                "w": "command",
+                "t": 10149.0,
+                "d": 560.0
+              },
+              {
+                "w": "confronting",
+                "t": 11190.0,
+                "d": 560.0
+              },
+              {
+                "w": "Company",
+                "t": 11750.0,
+                "d": 399.0
+              },
+              {
+                "w": "troops",
+                "t": 12149.0,
+                "d": 601.0
+              },
+              {
+                "w": "whose",
+                "t": 12830.0,
+                "d": 239.0
+              },
+              {
+                "w": "strength",
+                "t": 13069.0,
+                "d": 441.0
+              },
+              {
+                "w": "lay",
+                "t": 13510.0,
+                "d": 240.0
+              },
+              {
+                "w": "in",
+                "t": 13750.0,
+                "d": 160.0
+              },
+              {
+                "w": "cohesion",
+                "t": 13910.0,
+                "d": 880.0
+              },
+              {
+                "w": "more",
+                "t": 14870.0,
+                "d": 320.0
+              },
+              {
+                "w": "than",
+                "t": 15190.0,
+                "d": 160.0
+              },
+              {
+                "w": "in",
+                "t": 15350.0,
+                "d": 119.0
+              },
+              {
+                "w": "size",
+                "t": 15469.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/buxar_hands_over_the_diwani/img/p06.png",
+      "shot": "tight, dramatic three-quarter view of allied guns firing, smoke rolling across",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Guns opened first. The coalition fielded many pieces, yet coordination faltered. Munro's own records recount how his artillery answered methodically, each shot part of a measured pattern rather than a scattered roar.",
+            "hi": "पहली दहाड़ तोपों की थी। गुट के पास तोपें तो बहुत थीं, तालमेल कमज़ोर। मुनरो के कागज़ बताते हैं कि उसका तोपख़ाना नाप-तौल कर जवाब देता रहा—हर गोला एक पैटर्न में, बिखरी दहाड़ नहीं।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p06_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Guns",
+                "t": 70.0,
+                "d": 440.0
+              },
+              {
+                "w": "opened",
+                "t": 510.0,
+                "d": 400.0
+              },
+              {
+                "w": "first",
+                "t": 910.0,
+                "d": 1000.0
+              },
+              {
+                "w": "The",
+                "t": 2150.0,
+                "d": 199.0
+              },
+              {
+                "w": "coalition",
+                "t": 2349.0,
+                "d": 560.0
+              },
+              {
+                "w": "fielded",
+                "t": 2909.0,
+                "d": 440.0
+              },
+              {
+                "w": "many",
+                "t": 3349.0,
+                "d": 321.0
+              },
+              {
+                "w": "pieces",
+                "t": 3670.0,
+                "d": 800.0
+              },
+              {
+                "w": "yet",
+                "t": 4630.0,
+                "d": 400.0
+              },
+              {
+                "w": "coordination",
+                "t": 5030.0,
+                "d": 680.0
+              },
+              {
+                "w": "faltered",
+                "t": 5710.0,
+                "d": 1000.0
+              },
+              {
+                "w": "Munro's",
+                "t": 7070.0,
+                "d": 560.0
+              },
+              {
+                "w": "own",
+                "t": 7630.0,
+                "d": 280.0
+              },
+              {
+                "w": "records",
+                "t": 7910.0,
+                "d": 440.0
+              },
+              {
+                "w": "recount",
+                "t": 8350.0,
+                "d": 520.0
+              },
+              {
+                "w": "how",
+                "t": 8870.0,
+                "d": 279.0
+              },
+              {
+                "w": "his",
+                "t": 9149.0,
+                "d": 201.0
+              },
+              {
+                "w": "artillery",
+                "t": 9350.0,
+                "d": 640.0
+              },
+              {
+                "w": "answered",
+                "t": 9990.0,
+                "d": 479.0
+              },
+              {
+                "w": "methodically",
+                "t": 10469.0,
+                "d": 1041.0
+              },
+              {
+                "w": "each",
+                "t": 11709.0,
+                "d": 321.0
+              },
+              {
+                "w": "shot",
+                "t": 12030.0,
+                "d": 320.0
+              },
+              {
+                "w": "part",
+                "t": 12350.0,
+                "d": 240.0
+              },
+              {
+                "w": "of",
+                "t": 12590.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 12750.0,
+                "d": 40.0
+              },
+              {
+                "w": "measured",
+                "t": 12790.0,
+                "d": 439.0
+              },
+              {
+                "w": "pattern",
+                "t": 13229.0,
+                "d": 441.0
+              },
+              {
+                "w": "rather",
+                "t": 13670.0,
+                "d": 479.0
+              },
+              {
+                "w": "than",
+                "t": 14149.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 14309.0,
+                "d": 41.0
+              },
+              {
+                "w": "scattered",
+                "t": 14350.0,
+                "d": 520.0
+              },
+              {
+                "w": "roar",
+                "t": 14870.0,
+                "d": 400.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/buxar_hands_over_the_diwani/img/p07.png",
+      "shot": "medium wide on Munro and sepoys firing volleys, slight low angle to emphasize discipline",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Steady, men. Fire by platoons, hold the line.",
+            "hi": "हौंसला रखो, सिपाहियो। पलटन-पलटन फायर करो—कतार मत तोड़ो।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p07_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Steady",
+                "t": 49.0,
+                "d": 441.2
+              },
+              {
+                "w": "men",
+                "t": 563.7,
+                "d": 379.9
+              },
+              {
+                "w": "Fire",
+                "t": 1801.5,
+                "d": 392.2
+              },
+              {
+                "w": "by",
+                "t": 2193.6,
+                "d": 232.8
+              },
+              {
+                "w": "platoons",
+                "t": 2426.5,
+                "d": 612.8
+              },
+              {
+                "w": "hold",
+                "t": 3272.0,
+                "d": 294.1
+              },
+              {
+                "w": "the",
+                "t": 3566.2,
+                "d": 159.3
+              },
+              {
+                "w": "line",
+                "t": 3725.5,
+                "d": 416.7
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/buxar_hands_over_the_diwani/img/p08.png",
+      "shot": "wide shot of allied line beginning to waver, seen from behind their ranks",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As the day wore on, cohesion broke on the allied side. The Siyar ul-Mutakhkhirin remembers confusion and sudden retreats. Munro reported the opposing line giving way, their guns and camp left exposed.",
+            "hi": "दिन बढ़ते-बढ़ते जोड़ की तरफ़ से डोर टूट गई। सियार-उल-मुतअख्खिरिन में अफ़रा-तफ़री और अचानक भागते दस्ता दर्ज है। मुनरो ने सामने की कतार टूटने, उनकी तोपें और डेरा खुला छूटने की खबर की।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p08_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 350.0,
+                "d": 160.0
+              },
+              {
+                "w": "day",
+                "t": 510.0,
+                "d": 200.0
+              },
+              {
+                "w": "wore",
+                "t": 710.0,
+                "d": 280.0
+              },
+              {
+                "w": "on",
+                "t": 990.0,
+                "d": 520.0
+              },
+              {
+                "w": "cohesion",
+                "t": 1590.0,
+                "d": 680.0
+              },
+              {
+                "w": "broke",
+                "t": 2270.0,
+                "d": 400.0
+              },
+              {
+                "w": "on",
+                "t": 2670.0,
+                "d": 159.0
+              },
+              {
+                "w": "the",
+                "t": 2829.0,
+                "d": 201.0
+              },
+              {
+                "w": "allied",
+                "t": 3030.0,
+                "d": 399.0
+              },
+              {
+                "w": "side",
+                "t": 3429.0,
+                "d": 761.0
+              },
+              {
+                "w": "The",
+                "t": 4550.0,
+                "d": 200.0
+              },
+              {
+                "w": "Siyar",
+                "t": 4750.0,
+                "d": 400.0
+              },
+              {
+                "w": "ul-Mutakhkhirin",
+                "t": 5150.0,
+                "d": 760.0
+              },
+              {
+                "w": "remembers",
+                "t": 5950.0,
+                "d": 480.0
+              },
+              {
+                "w": "confusion",
+                "t": 6430.0,
+                "d": 880.0
+              },
+              {
+                "w": "and",
+                "t": 7350.0,
+                "d": 320.0
+              },
+              {
+                "w": "sudden",
+                "t": 7670.0,
+                "d": 320.0
+              },
+              {
+                "w": "retreats",
+                "t": 7990.0,
+                "d": 760.0
+              },
+              {
+                "w": "Munro",
+                "t": 9389.0,
+                "d": 401.0
+              },
+              {
+                "w": "reported",
+                "t": 9790.0,
+                "d": 519.0
+              },
+              {
+                "w": "the",
+                "t": 10309.0,
+                "d": 160.0
+              },
+              {
+                "w": "opposing",
+                "t": 10469.0,
+                "d": 521.0
+              },
+              {
+                "w": "line",
+                "t": 10990.0,
+                "d": 280.0
+              },
+              {
+                "w": "giving",
+                "t": 11270.0,
+                "d": 320.0
+              },
+              {
+                "w": "way",
+                "t": 11590.0,
+                "d": 600.0
+              },
+              {
+                "w": "their",
+                "t": 12430.0,
+                "d": 279.0
+              },
+              {
+                "w": "guns",
+                "t": 12709.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 13229.0,
+                "d": 400.0
+              },
+              {
+                "w": "camp",
+                "t": 13629.0,
+                "d": 321.0
+              },
+              {
+                "w": "left",
+                "t": 13950.0,
+                "d": 320.0
+              },
+              {
+                "w": "exposed",
+                "t": 14270.0,
+                "d": 840.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/buxar_hands_over_the_diwani/img/p09.png",
+      "shot": "dramatic ground-level shot of abandoned artillery and a disordered camp, with the Company in the background",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By evening, the coalition was routed. British records claim 133 guns taken and rich cash stores seized. However we weigh their figures, the result is clear: the nawab of Awadh and the emperor could no longer dictate terms by force.",
+            "hi": "शाम तक गुट पूरी तरह बिखर गया। अंग्रेज़ी रेकॉर्ड १३३ तोपें और भारी नक़दी हाथ लगने का दावा करते हैं। गिनती जैसी भी हो, नतीजा साफ़ था—अवध का नवाब और बादशाह अब ज़बरदस्ती शर्तें मनवा नहीं सकते थे।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p09_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "evening",
+                "t": 350.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 1070.0,
+                "d": 200.0
+              },
+              {
+                "w": "coalition",
+                "t": 1270.0,
+                "d": 520.0
+              },
+              {
+                "w": "was",
+                "t": 1790.0,
+                "d": 200.0
+              },
+              {
+                "w": "routed",
+                "t": 1990.0,
+                "d": 680.0
+              },
+              {
+                "w": "British",
+                "t": 3190.0,
+                "d": 400.0
+              },
+              {
+                "w": "records",
+                "t": 3590.0,
+                "d": 520.0
+              },
+              {
+                "w": "claim",
+                "t": 4110.0,
+                "d": 320.0
+              },
+              {
+                "w": "133",
+                "t": 4430.0,
+                "d": 1160.0
+              },
+              {
+                "w": "guns",
+                "t": 5590.0,
+                "d": 360.0
+              },
+              {
+                "w": "taken",
+                "t": 5950.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 6470.0,
+                "d": 280.0
+              },
+              {
+                "w": "rich",
+                "t": 6750.0,
+                "d": 240.0
+              },
+              {
+                "w": "cash",
+                "t": 6990.0,
+                "d": 320.0
+              },
+              {
+                "w": "stores",
+                "t": 7310.0,
+                "d": 320.0
+              },
+              {
+                "w": "seized",
+                "t": 7630.0,
+                "d": 999.0
+              },
+              {
+                "w": "However",
+                "t": 8990.0,
+                "d": 520.0
+              },
+              {
+                "w": "we",
+                "t": 9510.0,
+                "d": 119.0
+              },
+              {
+                "w": "weigh",
+                "t": 9629.0,
+                "d": 201.0
+              },
+              {
+                "w": "their",
+                "t": 9830.0,
+                "d": 200.0
+              },
+              {
+                "w": "figures",
+                "t": 10030.0,
+                "d": 599.0
+              },
+              {
+                "w": "the",
+                "t": 10750.0,
+                "d": 160.0
+              },
+              {
+                "w": "result",
+                "t": 10910.0,
+                "d": 319.0
+              },
+              {
+                "w": "is",
+                "t": 11229.0,
+                "d": 160.0
+              },
+              {
+                "w": "clear",
+                "t": 11389.0,
+                "d": 441.0
+              },
+              {
+                "w": "the",
+                "t": 12950.0,
+                "d": 240.0
+              },
+              {
+                "w": "nawab",
+                "t": 13190.0,
+                "d": 519.0
+              },
+              {
+                "w": "of",
+                "t": 13709.0,
+                "d": 401.0
+              },
+              {
+                "w": "Awadh",
+                "t": 14110.0,
+                "d": 240.0
+              },
+              {
+                "w": "and",
+                "t": 14709.0,
+                "d": 241.0
+              },
+              {
+                "w": "the",
+                "t": 14950.0,
+                "d": 119.0
+              },
+              {
+                "w": "emperor",
+                "t": 15069.0,
+                "d": 441.0
+              },
+              {
+                "w": "could",
+                "t": 15510.0,
+                "d": 240.0
+              },
+              {
+                "w": "no",
+                "t": 15750.0,
+                "d": 120.0
+              },
+              {
+                "w": "longer",
+                "t": 15870.0,
+                "d": 360.0
+              },
+              {
+                "w": "dictate",
+                "t": 16230.0,
+                "d": 440.0
+              },
+              {
+                "w": "terms",
+                "t": 16670.0,
+                "d": 400.0
+              },
+              {
+                "w": "by",
+                "t": 17070.0,
+                "d": 240.0
+              },
+              {
+                "w": "force",
+                "t": 17310.0,
+                "d": 640.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/buxar_hands_over_the_diwani/img/p10.png",
+      "shot": "intimate medium shot of Shah Alam II in a quiet tent after defeat, lantern light casting long shadows",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "For Shah Alam the Second, Buxar was another bitter turn. Once emperor in name, now defeated ally, he had seen Delhi lost and now watched another hope fall at the Ganga's edge. His path would turn from sword to seal.",
+            "hi": "शाह आलम द्वितीय के लिए बक्सर एक और कड़वा मोड़ था। कभी नाम के बादशाह, अब हारे हुए हमसफर; दिल्ली हाथ से जा चुकी, अब गंगा किनारे एक और आस ढहती दिखी। उनका रास्ता तलवार से मुहर की ओर मुड़ गया।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p10_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "For",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "Shah",
+                "t": 270.0,
+                "d": 280.0
+              },
+              {
+                "w": "Alam",
+                "t": 550.0,
+                "d": 360.0
+              },
+              {
+                "w": "the",
+                "t": 910.0,
+                "d": 120.0
+              },
+              {
+                "w": "Second",
+                "t": 1030.0,
+                "d": 720.0
+              },
+              {
+                "w": "Buxar",
+                "t": 1790.0,
+                "d": 519.0
+              },
+              {
+                "w": "was",
+                "t": 2309.0,
+                "d": 201.0
+              },
+              {
+                "w": "another",
+                "t": 2510.0,
+                "d": 359.0
+              },
+              {
+                "w": "bitter",
+                "t": 2869.0,
+                "d": 281.0
+              },
+              {
+                "w": "turn",
+                "t": 3150.0,
+                "d": 520.0
+              },
+              {
+                "w": "Once",
+                "t": 4150.0,
+                "d": 360.0
+              },
+              {
+                "w": "emperor",
+                "t": 4510.0,
+                "d": 480.0
+              },
+              {
+                "w": "in",
+                "t": 4990.0,
+                "d": 80.0
+              },
+              {
+                "w": "name",
+                "t": 5070.0,
+                "d": 680.0
+              },
+              {
+                "w": "now",
+                "t": 5750.0,
+                "d": 360.0
+              },
+              {
+                "w": "defeated",
+                "t": 6110.0,
+                "d": 440.0
+              },
+              {
+                "w": "ally",
+                "t": 6550.0,
+                "d": 280.0
+              },
+              {
+                "w": "he",
+                "t": 6830.0,
+                "d": 160.0
+              },
+              {
+                "w": "had",
+                "t": 7350.0,
+                "d": 400.0
+              },
+              {
+                "w": "seen",
+                "t": 7750.0,
+                "d": 319.0
+              },
+              {
+                "w": "Delhi",
+                "t": 8069.0,
+                "d": 281.0
+              },
+              {
+                "w": "lost",
+                "t": 8350.0,
+                "d": 600.0
+              },
+              {
+                "w": "and",
+                "t": 8950.0,
+                "d": 359.0
+              },
+              {
+                "w": "now",
+                "t": 9309.0,
+                "d": 201.0
+              },
+              {
+                "w": "watched",
+                "t": 9510.0,
+                "d": 440.0
+              },
+              {
+                "w": "another",
+                "t": 9950.0,
+                "d": 439.0
+              },
+              {
+                "w": "hope",
+                "t": 10389.0,
+                "d": 281.0
+              },
+              {
+                "w": "fall",
+                "t": 10670.0,
+                "d": 320.0
+              },
+              {
+                "w": "at",
+                "t": 10990.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 11110.0,
+                "d": 160.0
+              },
+              {
+                "w": "Ganga's",
+                "t": 11270.0,
+                "d": 439.0
+              },
+              {
+                "w": "edge",
+                "t": 11709.0,
+                "d": 561.0
+              },
+              {
+                "w": "His",
+                "t": 12790.0,
+                "d": 320.0
+              },
+              {
+                "w": "path",
+                "t": 13110.0,
+                "d": 279.0
+              },
+              {
+                "w": "would",
+                "t": 13389.0,
+                "d": 240.0
+              },
+              {
+                "w": "turn",
+                "t": 13629.0,
+                "d": 201.0
+              },
+              {
+                "w": "from",
+                "t": 13830.0,
+                "d": 239.0
+              },
+              {
+                "w": "sword",
+                "t": 14069.0,
+                "d": 480.0
+              },
+              {
+                "w": "to",
+                "t": 14590.0,
+                "d": 119.0
+              },
+              {
+                "w": "seal",
+                "t": 14709.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/buxar_hands_over_the_diwani/img/p11.png",
+      "shot": "wide view of Allahabad fort and confluence, majestic, from a distance at sunset",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In seventeen sixty-five, the road led to Allahabad, where the Yamuna meets the Ganga. There, under Company protection, the emperor set up his camp, and negotiations began that would bind Bengal's revenue to a foreign corporation.",
+            "hi": "१७६५ में राह उन्हें इलाहाबाद लाई, जहाँ यमुना गंगा से मिलती है। वहीं कम्पनी की हिफ़ाज़त में बादशाह ने डेरा डाला, और बात-चीत शुरू हुई जिसने बंगाल की आमदनी एक विदेशी कम्पनी से बाँध दी।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p11_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "seventeen",
+                "t": 287.0,
+                "d": 510.0
+              },
+              {
+                "w": "sixty-five",
+                "t": 797.0,
+                "d": 851.0
+              },
+              {
+                "w": "the",
+                "t": 1648.0,
+                "d": 509.0
+              },
+              {
+                "w": "road",
+                "t": 2158.0,
+                "d": 256.0
+              },
+              {
+                "w": "led",
+                "t": 2414.0,
+                "d": 211.0
+              },
+              {
+                "w": "to",
+                "t": 2626.0,
+                "d": 171.0
+              },
+              {
+                "w": "Allahabad",
+                "t": 2797.0,
+                "d": 892.0
+              },
+              {
+                "w": "where",
+                "t": 3861.0,
+                "d": 254.0
+              },
+              {
+                "w": "the",
+                "t": 4115.0,
+                "d": 127.0
+              },
+              {
+                "w": "Yamuna",
+                "t": 4243.0,
+                "d": 384.0
+              },
+              {
+                "w": "meets",
+                "t": 4627.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 5010.0,
+                "d": 127.0
+              },
+              {
+                "w": "Ganga",
+                "t": 5138.0,
+                "d": 553.0
+              },
+              {
+                "w": "There",
+                "t": 6287.0,
+                "d": 723.0
+              },
+              {
+                "w": "under",
+                "t": 7138.0,
+                "d": 255.0
+              },
+              {
+                "w": "Company",
+                "t": 7393.0,
+                "d": 468.0
+              },
+              {
+                "w": "protection",
+                "t": 7861.0,
+                "d": 977.0
+              },
+              {
+                "w": "the",
+                "t": 9009.0,
+                "d": 213.0
+              },
+              {
+                "w": "emperor",
+                "t": 9223.0,
+                "d": 468.0
+              },
+              {
+                "w": "set",
+                "t": 9691.0,
+                "d": 255.0
+              },
+              {
+                "w": "up",
+                "t": 9946.0,
+                "d": 126.0
+              },
+              {
+                "w": "his",
+                "t": 10073.0,
+                "d": 213.0
+              },
+              {
+                "w": "camp",
+                "t": 10287.0,
+                "d": 679.0
+              },
+              {
+                "w": "and",
+                "t": 10967.0,
+                "d": 298.0
+              },
+              {
+                "w": "negotiations",
+                "t": 11265.0,
+                "d": 850.0
+              },
+              {
+                "w": "began",
+                "t": 12115.0,
+                "d": 723.0
+              },
+              {
+                "w": "that",
+                "t": 13009.0,
+                "d": 213.0
+              },
+              {
+                "w": "would",
+                "t": 13223.0,
+                "d": 255.0
+              },
+              {
+                "w": "bind",
+                "t": 13478.0,
+                "d": 340.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 13819.0,
+                "d": 509.0
+              },
+              {
+                "w": "revenue",
+                "t": 14328.0,
+                "d": 808.0
+              },
+              {
+                "w": "to",
+                "t": 15222.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 15392.0,
+                "d": 85.0
+              },
+              {
+                "w": "foreign",
+                "t": 15477.0,
+                "d": 426.0
+              },
+              {
+                "w": "corporation",
+                "t": 15904.0,
+                "d": 936.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/buxar_hands_over_the_diwani/img/p12.png",
+      "shot": "medium interior of a formal meeting hall within Allahabad fort, balanced two-shot of Munro and Shah Alam II",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Between us, Majesty, the pen must now finish what the sword began.",
+            "hi": "हम दोनों के बीच, हुज़ूर, अब तलवार नहीं, कलम काम पूरा करेगी।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p12_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Between",
+                "t": 46.3,
+                "d": 393.5
+              },
+              {
+                "w": "us",
+                "t": 439.8,
+                "d": 289.3
+              },
+              {
+                "w": "Majesty",
+                "t": 856.5,
+                "d": 590.3
+              },
+              {
+                "w": "the",
+                "t": 1666.7,
+                "d": 115.8
+              },
+              {
+                "w": "pen",
+                "t": 1782.4,
+                "d": 266.2
+              },
+              {
+                "w": "must",
+                "t": 2048.6,
+                "d": 312.5
+              },
+              {
+                "w": "now",
+                "t": 2419.0,
+                "d": 266.2
+              },
+              {
+                "w": "finish",
+                "t": 2685.2,
+                "d": 405.1
+              },
+              {
+                "w": "what",
+                "t": 3148.2,
+                "d": 277.8
+              },
+              {
+                "w": "the",
+                "t": 3425.9,
+                "d": 150.5
+              },
+              {
+                "w": "sword",
+                "t": 3576.4,
+                "d": 393.5
+              },
+              {
+                "w": "began",
+                "t": 3969.9,
+                "d": 509.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/buxar_hands_over_the_diwani/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/buxar_hands_over_the_diwani/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Outside the emperor's chamber, Munro pauses, weighing conquest against diplomacy as the fate of Bengal's revenues hangs in the balance.",
+            "hi": "बादशाह के कक्ष के बाहर, मनरो रुक गया—फतह या सुलह? बंगाल की आमदनी दांव पर है।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/action/action_auto2_en.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Outside",
+                "t": 172.0,
+                "d": 551.0
+              },
+              {
+                "w": "the",
+                "t": 724.0,
+                "d": 137.0
+              },
+              {
+                "w": "emperor's",
+                "t": 862.0,
+                "d": 643.0
+              },
+              {
+                "w": "chamber",
+                "t": 1505.0,
+                "d": 919.0
+              },
+              {
+                "w": "Munro",
+                "t": 2471.0,
+                "d": 505.0
+              },
+              {
+                "w": "pauses",
+                "t": 2977.0,
+                "d": 872.0
+              },
+              {
+                "w": "weighing",
+                "t": 4034.0,
+                "d": 412.0
+              },
+              {
+                "w": "conquest",
+                "t": 4447.0,
+                "d": 690.0
+              },
+              {
+                "w": "against",
+                "t": 5137.0,
+                "d": 459.0
+              },
+              {
+                "w": "diplomacy",
+                "t": 5597.0,
+                "d": 1011.0
+              },
+              {
+                "w": "as",
+                "t": 6655.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 7022.0,
+                "d": 137.0
+              },
+              {
+                "w": "fate",
+                "t": 7160.0,
+                "d": 459.0
+              },
+              {
+                "w": "of",
+                "t": 7620.0,
+                "d": 229.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 7850.0,
+                "d": 643.0
+              },
+              {
+                "w": "revenues",
+                "t": 8494.0,
+                "d": 643.0
+              },
+              {
+                "w": "hangs",
+                "t": 9137.0,
+                "d": 367.0
+              },
+              {
+                "w": "in",
+                "t": 9505.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 9597.0,
+                "d": 136.0
+              },
+              {
+                "w": "balance",
+                "t": 9734.0,
+                "d": 781.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/buxar_hands_over_the_diwani/img/p13.png",
+      "shot": "close-up on a scribe’s hands writing Persian script on thick paper, with seals and ink nearby",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Treaty of Allahabad took shape in careful script. One key clause granted the English Company the diwani of Bengal, Bihar and Orissa, the right to collect revenue in the emperor's name, for an annual payment to his court.",
+            "hi": "इलाहाबाद की सन्धि सधे हुए लफ़्ज़ों में ढली। एक अहम धारा में अंग्रेज़ कम्पनी को बंगाल, बिहार और उड़ीसा की दीवानी मिली—बादशाह के नाम पर वसूली का हक, बदले में दरबार को सालाना अदायगी।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p13_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Treaty",
+                "t": 329.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 712.0,
+                "d": 255.0
+              },
+              {
+                "w": "Allahabad",
+                "t": 968.0,
+                "d": 851.0
+              },
+              {
+                "w": "took",
+                "t": 1819.0,
+                "d": 170.0
+              },
+              {
+                "w": "shape",
+                "t": 1989.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 2414.0,
+                "d": 211.0
+              },
+              {
+                "w": "careful",
+                "t": 2626.0,
+                "d": 425.0
+              },
+              {
+                "w": "script",
+                "t": 3052.0,
+                "d": 595.0
+              },
+              {
+                "w": "One",
+                "t": 4329.0,
+                "d": 382.0
+              },
+              {
+                "w": "key",
+                "t": 4712.0,
+                "d": 170.0
+              },
+              {
+                "w": "clause",
+                "t": 4882.0,
+                "d": 340.0
+              },
+              {
+                "w": "granted",
+                "t": 5223.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 5691.0,
+                "d": 127.0
+              },
+              {
+                "w": "English",
+                "t": 5819.0,
+                "d": 425.0
+              },
+              {
+                "w": "Company",
+                "t": 6244.0,
+                "d": 723.0
+              },
+              {
+                "w": "the",
+                "t": 6968.0,
+                "d": 212.0
+              },
+              {
+                "w": "diwani",
+                "t": 7180.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 7691.0,
+                "d": 255.0
+              },
+              {
+                "w": "Bengal",
+                "t": 7946.0,
+                "d": 679.0
+              },
+              {
+                "w": "Bihar",
+                "t": 8669.0,
+                "d": 554.0
+              },
+              {
+                "w": "and",
+                "t": 9223.0,
+                "d": 212.0
+              },
+              {
+                "w": "Orissa",
+                "t": 9436.0,
+                "d": 807.0
+              },
+              {
+                "w": "the",
+                "t": 10457.0,
+                "d": 254.0
+              },
+              {
+                "w": "right",
+                "t": 10711.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 10967.0,
+                "d": 128.0
+              },
+              {
+                "w": "collect",
+                "t": 11095.0,
+                "d": 382.0
+              },
+              {
+                "w": "revenue",
+                "t": 11478.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 11989.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 12115.0,
+                "d": 128.0
+              },
+              {
+                "w": "emperor's",
+                "t": 12244.0,
+                "d": 553.0
+              },
+              {
+                "w": "name",
+                "t": 12797.0,
+                "d": 680.0
+              },
+              {
+                "w": "for",
+                "t": 13520.0,
+                "d": 298.0
+              },
+              {
+                "w": "an",
+                "t": 13819.0,
+                "d": 127.0
+              },
+              {
+                "w": "annual",
+                "t": 13946.0,
+                "d": 510.0
+              },
+              {
+                "w": "payment",
+                "t": 14457.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 14840.0,
+                "d": 85.0
+              },
+              {
+                "w": "his",
+                "t": 14925.0,
+                "d": 211.0
+              },
+              {
+                "w": "court",
+                "t": 15137.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/buxar_hands_over_the_diwani/img/p14.png",
+      "shot": "tight, reverent close-up of Shah Alam II’s hand pressing his seal on the document",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On 16 August seventeen sixty-five, the emperor affixed his seal. In form, he remained sovereign. In practice, he granted a private company the fiscal lifeblood of three rich provinces, in exchange for tribute and protection.",
+            "hi": "१६ अगस्त १७६५ को बादशाह ने अपनी मुहर लगा दी। काग़ज़ पर वो मालिक रहे, पर अमल में उन्होंने तीन सूबों की खून-सी आमदनी एक निजी कम्पनी को दे दी—नज़र और हिफ़ाज़त के बदले।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p14_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 74.0,
+                "d": 85.0
+              },
+              {
+                "w": "16 August",
+                "t": 159.0,
+                "d": 1148.0
+              },
+              {
+                "w": "seventeen",
+                "t": 1308.0,
+                "d": 510.0
+              },
+              {
+                "w": "sixty-five",
+                "t": 1819.0,
+                "d": 764.0
+              },
+              {
+                "w": "the",
+                "t": 2584.0,
+                "d": 382.0
+              },
+              {
+                "w": "emperor",
+                "t": 3094.0,
+                "d": 681.0
+              },
+              {
+                "w": "affixed",
+                "t": 3776.0,
+                "d": 510.0
+              },
+              {
+                "w": "his",
+                "t": 4287.0,
+                "d": 212.0
+              },
+              {
+                "w": "seal",
+                "t": 4500.0,
+                "d": 723.0
+              },
+              {
+                "w": "In",
+                "t": 5819.0,
+                "d": 255.0
+              },
+              {
+                "w": "form",
+                "t": 6074.0,
+                "d": 595.0
+              },
+              {
+                "w": "he",
+                "t": 6670.0,
+                "d": 212.0
+              },
+              {
+                "w": "remained",
+                "t": 6882.0,
+                "d": 340.0
+              },
+              {
+                "w": "sovereign",
+                "t": 7223.0,
+                "d": 765.0
+              },
+              {
+                "w": "In",
+                "t": 8372.0,
+                "d": 254.0
+              },
+              {
+                "w": "practice",
+                "t": 8626.0,
+                "d": 638.0
+              },
+              {
+                "w": "he",
+                "t": 9521.0,
+                "d": 255.0
+              },
+              {
+                "w": "granted",
+                "t": 9776.0,
+                "d": 425.0
+              },
+              {
+                "w": "a",
+                "t": 10202.0,
+                "d": 85.0
+              },
+              {
+                "w": "private",
+                "t": 10287.0,
+                "d": 424.0
+              },
+              {
+                "w": "company",
+                "t": 10711.0,
+                "d": 595.0
+              },
+              {
+                "w": "the",
+                "t": 11307.0,
+                "d": 171.0
+              },
+              {
+                "w": "fiscal",
+                "t": 11478.0,
+                "d": 425.0
+              },
+              {
+                "w": "lifeblood",
+                "t": 11904.0,
+                "d": 638.0
+              },
+              {
+                "w": "of",
+                "t": 12542.0,
+                "d": 212.0
+              },
+              {
+                "w": "three",
+                "t": 12755.0,
+                "d": 339.0
+              },
+              {
+                "w": "rich",
+                "t": 13094.0,
+                "d": 298.0
+              },
+              {
+                "w": "provinces",
+                "t": 13393.0,
+                "d": 978.0
+              },
+              {
+                "w": "in",
+                "t": 14498.0,
+                "d": 213.0
+              },
+              {
+                "w": "exchange",
+                "t": 14712.0,
+                "d": 468.0
+              },
+              {
+                "w": "for",
+                "t": 15180.0,
+                "d": 170.0
+              },
+              {
+                "w": "tribute",
+                "t": 15351.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 15946.0,
+                "d": 254.0
+              },
+              {
+                "w": "protection",
+                "t": 16201.0,
+                "d": 809.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/buxar_hands_over_the_diwani/split_auto/s0.png",
+          "slogan": {
+            "en": "Steel and ink shape empires",
+            "hi": "इस्पात और स्याही साम्राज्य गढ़ते हैं"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/buxar_hands_over_the_diwani/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/buxar_hands_over_the_diwani/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As wax seals harden, the Ganga's destiny bends, Buxar's guns echo within the fort's stone halls and across Bengal's quiet villages.",
+            "hi": "जब मोम की मुहरें सख्त हो रही हैं, गंगा की किस्मत मुड़ रही है, बक्सर की तोपें किले की दीवारों में गूंजती हैं, आवाज़ें पूरे शांत बंगाल में फैल रही हैं।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/split/split_auto_en.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 72.0,
+                "d": 333.0
+              },
+              {
+                "w": "wax",
+                "t": 406.0,
+                "d": 250.0
+              },
+              {
+                "w": "seals",
+                "t": 656.0,
+                "d": 333.0
+              },
+              {
+                "w": "harden",
+                "t": 989.0,
+                "d": 625.0
+              },
+              {
+                "w": "the",
+                "t": 1906.0,
+                "d": 207.0
+              },
+              {
+                "w": "Ganga's",
+                "t": 2113.0,
+                "d": 458.0
+              },
+              {
+                "w": "destiny",
+                "t": 2571.0,
+                "d": 500.0
+              },
+              {
+                "w": "bends",
+                "t": 3071.0,
+                "d": 541.0
+              },
+              {
+                "w": "Buxar's",
+                "t": 3946.0,
+                "d": 542.0
+              },
+              {
+                "w": "guns",
+                "t": 4489.0,
+                "d": 333.0
+              },
+              {
+                "w": "echo",
+                "t": 4822.0,
+                "d": 416.0
+              },
+              {
+                "w": "within",
+                "t": 5239.0,
+                "d": 291.0
+              },
+              {
+                "w": "the",
+                "t": 5531.0,
+                "d": 125.0
+              },
+              {
+                "w": "fort's",
+                "t": 5656.0,
+                "d": 375.0
+              },
+              {
+                "w": "stone",
+                "t": 6031.0,
+                "d": 291.0
+              },
+              {
+                "w": "halls",
+                "t": 6322.0,
+                "d": 541.0
+              },
+              {
+                "w": "and",
+                "t": 7072.0,
+                "d": 291.0
+              },
+              {
+                "w": "across",
+                "t": 7364.0,
+                "d": 375.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 7739.0,
+                "d": 583.0
+              },
+              {
+                "w": "quiet",
+                "t": 8322.0,
+                "d": 332.0
+              },
+              {
+                "w": "villages",
+                "t": 8655.0,
+                "d": 667.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/buxar_hands_over_the_diwani/img/p15.png",
+      "shot": "medium shot of Munro and Company officials examining revenue ledgers and maps, slight overhead",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Fort William's records we see what followed: surveys, new collectors, streams of coin redirected to Company treasuries. Buxar's battlefield victory became, through Allahabad's treaty, a steady claim upon land and labour.",
+            "hi": "फ़ोर्ट विलियम के रेकॉर्ड दिखाते हैं आगे क्या हुआ—नक़्शे, नए कलेक्टर, सिक्कों की धाराएँ कम्पनी के ख़ज़ानों की ओर मुड़ती हुई। बक्सर की फतह इलाहाबाद की सन्धि से ज़मीन और मेहनत पर टिकाऊ दावा बन गई।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p15_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "Fort",
+                "t": 350.0,
+                "d": 320.0
+              },
+              {
+                "w": "William's",
+                "t": 670.0,
+                "d": 360.0
+              },
+              {
+                "w": "records",
+                "t": 1030.0,
+                "d": 560.0
+              },
+              {
+                "w": "we",
+                "t": 1630.0,
+                "d": 240.0
+              },
+              {
+                "w": "see",
+                "t": 1870.0,
+                "d": 159.0
+              },
+              {
+                "w": "what",
+                "t": 2029.0,
+                "d": 241.0
+              },
+              {
+                "w": "followed",
+                "t": 2270.0,
+                "d": 920.0
+              },
+              {
+                "w": "surveys",
+                "t": 3190.0,
+                "d": 799.0
+              },
+              {
+                "w": "new",
+                "t": 4110.0,
+                "d": 240.0
+              },
+              {
+                "w": "collectors",
+                "t": 4350.0,
+                "d": 600.0
+              },
+              {
+                "w": "streams",
+                "t": 4950.0,
+                "d": 680.0
+              },
+              {
+                "w": "of",
+                "t": 5630.0,
+                "d": 160.0
+              },
+              {
+                "w": "coin",
+                "t": 5790.0,
+                "d": 320.0
+              },
+              {
+                "w": "redirected",
+                "t": 6110.0,
+                "d": 640.0
+              },
+              {
+                "w": "to",
+                "t": 6750.0,
+                "d": 120.0
+              },
+              {
+                "w": "Company",
+                "t": 6870.0,
+                "d": 400.0
+              },
+              {
+                "w": "treasuries",
+                "t": 7270.0,
+                "d": 1199.0
+              },
+              {
+                "w": "Buxar's",
+                "t": 8790.0,
+                "d": 599.0
+              },
+              {
+                "w": "battlefield",
+                "t": 9389.0,
+                "d": 601.0
+              },
+              {
+                "w": "victory",
+                "t": 9990.0,
+                "d": 440.0
+              },
+              {
+                "w": "became",
+                "t": 10430.0,
+                "d": 760.0
+              },
+              {
+                "w": "through",
+                "t": 11229.0,
+                "d": 320.0
+              },
+              {
+                "w": "Allahabad's",
+                "t": 11549.0,
+                "d": 680.0
+              },
+              {
+                "w": "treaty",
+                "t": 12229.0,
+                "d": 681.0
+              },
+              {
+                "w": "a",
+                "t": 12950.0,
+                "d": 160.0
+              },
+              {
+                "w": "steady",
+                "t": 13110.0,
+                "d": 400.0
+              },
+              {
+                "w": "claim",
+                "t": 13510.0,
+                "d": 280.0
+              },
+              {
+                "w": "upon",
+                "t": 13790.0,
+                "d": 240.0
+              },
+              {
+                "w": "land",
+                "t": 14030.0,
+                "d": 320.0
+              },
+              {
+                "w": "and",
+                "t": 14350.0,
+                "d": 199.0
+              },
+              {
+                "w": "labour",
+                "t": 14549.0,
+                "d": 561.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/buxar_hands_over_the_diwani/img/p16.png",
+      "shot": "somber medium on Shah Alam II in his Allahabad camp, gazing toward the river, profile view",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Ghulam Hussain Khan saw in these years an emperor forced to trade authority for survival. For Shah Alam the Second, the diwani grant was both necessity and loss: a way to draw revenue, but also an admission of altered power.",
+            "hi": "ग़ुलाम हुसैन ख़ान ने इन सालों में एक ऐसा बादशाह देखा जो ज़िंदा रहने को इख़्तियार बेचने पर मजबूर था। शाह आलम द्वितीय के लिए दीवानी देना ज़रूरत भी थी, नुक़सान भी—आमदनी का ज़रिया, मगर घटती ताक़त का इक़रार।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p16_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Ghulam",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "Hussain",
+                "t": 457.0,
+                "d": 382.0
+              },
+              {
+                "w": "Khan",
+                "t": 840.0,
+                "d": 340.0
+              },
+              {
+                "w": "saw",
+                "t": 1180.0,
+                "d": 255.0
+              },
+              {
+                "w": "in",
+                "t": 1436.0,
+                "d": 127.0
+              },
+              {
+                "w": "these",
+                "t": 1563.0,
+                "d": 340.0
+              },
+              {
+                "w": "years",
+                "t": 1904.0,
+                "d": 382.0
+              },
+              {
+                "w": "an",
+                "t": 2287.0,
+                "d": 254.0
+              },
+              {
+                "w": "emperor",
+                "t": 2541.0,
+                "d": 468.0
+              },
+              {
+                "w": "forced",
+                "t": 3009.0,
+                "d": 384.0
+              },
+              {
+                "w": "to",
+                "t": 3393.0,
+                "d": 126.0
+              },
+              {
+                "w": "trade",
+                "t": 3520.0,
+                "d": 341.0
+              },
+              {
+                "w": "authority",
+                "t": 3861.0,
+                "d": 553.0
+              },
+              {
+                "w": "for",
+                "t": 4414.0,
+                "d": 170.0
+              },
+              {
+                "w": "survival",
+                "t": 4585.0,
+                "d": 851.0
+              },
+              {
+                "w": "For",
+                "t": 5776.0,
+                "d": 255.0
+              },
+              {
+                "w": "Shah",
+                "t": 6031.0,
+                "d": 212.0
+              },
+              {
+                "w": "Alam",
+                "t": 6244.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 6670.0,
+                "d": 170.0
+              },
+              {
+                "w": "Second",
+                "t": 6840.0,
+                "d": 851.0
+              },
+              {
+                "w": "the",
+                "t": 7734.0,
+                "d": 212.0
+              },
+              {
+                "w": "diwani",
+                "t": 7946.0,
+                "d": 425.0
+              },
+              {
+                "w": "grant",
+                "t": 8372.0,
+                "d": 339.0
+              },
+              {
+                "w": "was",
+                "t": 8711.0,
+                "d": 212.0
+              },
+              {
+                "w": "both",
+                "t": 8924.0,
+                "d": 340.0
+              },
+              {
+                "w": "necessity",
+                "t": 9264.0,
+                "d": 681.0
+              },
+              {
+                "w": "and",
+                "t": 9946.0,
+                "d": 296.0
+              },
+              {
+                "w": "loss",
+                "t": 10243.0,
+                "d": 638.0
+              },
+              {
+                "w": "a",
+                "t": 11265.0,
+                "d": 212.0
+              },
+              {
+                "w": "way",
+                "t": 11478.0,
+                "d": 212.0
+              },
+              {
+                "w": "to",
+                "t": 11691.0,
+                "d": 127.0
+              },
+              {
+                "w": "draw",
+                "t": 11819.0,
+                "d": 211.0
+              },
+              {
+                "w": "revenue",
+                "t": 12030.0,
+                "d": 767.0
+              },
+              {
+                "w": "but",
+                "t": 12882.0,
+                "d": 211.0
+              },
+              {
+                "w": "also",
+                "t": 13094.0,
+                "d": 425.0
+              },
+              {
+                "w": "an",
+                "t": 13520.0,
+                "d": 86.0
+              },
+              {
+                "w": "admission",
+                "t": 13606.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 14117.0,
+                "d": 296.0
+              },
+              {
+                "w": "altered",
+                "t": 14413.0,
+                "d": 469.0
+              },
+              {
+                "w": "power",
+                "t": 14882.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/buxar_hands_over_the_diwani/img/p17.png",
+      "shot": "broad, time-lapse style bird’s-eye composite over Bengal’s countryside, hinting at future changes",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Plassey had placed a nawab under Company influence, but Buxar and Allahabad gave formal, imperial sanction to Company revenue rights. A battlefield decision rippled into the daily lives of cultivators, traders and zamindars across the delta.",
+            "hi": "प्लासी ने एक नवाब को कम्पनी के ताबे कर दिया, पर बक्सर और इलाहाबाद ने कम्पनी के महसूल हक़ को बाकायदा बादशाही मंज़ूरी दी। मैदान का फ़ैसला डेल्टा भर के किसानों, सौदागरों और ज़मींदारों की रोज़मर्रा ज़िंदगी तक लहर बन कर पहुँचा।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p17_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Plassey",
+                "t": 70.0,
+                "d": 320.0
+              },
+              {
+                "w": "had",
+                "t": 390.0,
+                "d": 160.0
+              },
+              {
+                "w": "placed",
+                "t": 550.0,
+                "d": 360.0
+              },
+              {
+                "w": "a",
+                "t": 910.0,
+                "d": 80.0
+              },
+              {
+                "w": "nawab",
+                "t": 990.0,
+                "d": 480.0
+              },
+              {
+                "w": "under",
+                "t": 1470.0,
+                "d": 280.0
+              },
+              {
+                "w": "Company",
+                "t": 1750.0,
+                "d": 440.0
+              },
+              {
+                "w": "influence",
+                "t": 2190.0,
+                "d": 840.0
+              },
+              {
+                "w": "but",
+                "t": 3230.0,
+                "d": 280.0
+              },
+              {
+                "w": "Buxar",
+                "t": 3510.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 4030.0,
+                "d": 240.0
+              },
+              {
+                "w": "Allahabad",
+                "t": 4270.0,
+                "d": 760.0
+              },
+              {
+                "w": "gave",
+                "t": 5110.0,
+                "d": 320.0
+              },
+              {
+                "w": "formal",
+                "t": 5430.0,
+                "d": 480.0
+              },
+              {
+                "w": "imperial",
+                "t": 5950.0,
+                "d": 480.0
+              },
+              {
+                "w": "sanction",
+                "t": 6430.0,
+                "d": 480.0
+              },
+              {
+                "w": "to",
+                "t": 6910.0,
+                "d": 120.0
+              },
+              {
+                "w": "Company",
+                "t": 7030.0,
+                "d": 440.0
+              },
+              {
+                "w": "revenue",
+                "t": 7470.0,
+                "d": 360.0
+              },
+              {
+                "w": "rights",
+                "t": 7830.0,
+                "d": 600.0
+              },
+              {
+                "w": "A",
+                "t": 8990.0,
+                "d": 200.0
+              },
+              {
+                "w": "battlefield",
+                "t": 9190.0,
+                "d": 560.0
+              },
+              {
+                "w": "decision",
+                "t": 9750.0,
+                "d": 479.0
+              },
+              {
+                "w": "rippled",
+                "t": 10229.0,
+                "d": 400.0
+              },
+              {
+                "w": "into",
+                "t": 10629.0,
+                "d": 241.0
+              },
+              {
+                "w": "the",
+                "t": 10870.0,
+                "d": 160.0
+              },
+              {
+                "w": "daily",
+                "t": 11030.0,
+                "d": 279.0
+              },
+              {
+                "w": "lives",
+                "t": 11309.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 11629.0,
+                "d": 121.0
+              },
+              {
+                "w": "cultivators",
+                "t": 11750.0,
+                "d": 920.0
+              },
+              {
+                "w": "traders",
+                "t": 12790.0,
+                "d": 640.0
+              },
+              {
+                "w": "and",
+                "t": 13430.0,
+                "d": 279.0
+              },
+              {
+                "w": "zamindars",
+                "t": 13709.0,
+                "d": 561.0
+              },
+              {
+                "w": "across",
+                "t": 14270.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 14670.0,
+                "d": 160.0
+              },
+              {
+                "w": "delta",
+                "t": 14830.0,
+                "d": 559.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/buxar_hands_over_the_diwani/img/p18.png",
+      "shot": "split close-up of Munro’s weathered face fading into Shah Alam II’s lined visage, both looking in opposite directions",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Buxar did not end in a single victory cry; it ended in a signature that turned battle into bookkeeping. In Munro's volleys and Shah Alam's seal, we see how, in seventeen sixty-five, a ledger quietly took the place of a throne.",
+            "hi": "बक्सर का अंत एक जंगी नारे पर नहीं, एक दस्तख़त पर हुआ—जिसने जंग को हिसाब-किताब में बदल दिया। मुनरो की गोलियों और शाह आलम की मुहर में दिखता है कैसे १७६५ में ख़ज़ाने की किताब ने चुपचाप तख़्त की जगह ले ली।"
+          },
+          "audio": {
+            "en": "assets/buxar_hands_over_the_diwani/audio/en/p18_0.mp3",
+            "hi": "assets/buxar_hands_over_the_diwani/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Buxar",
+                "t": 70.0,
+                "d": 320.0
+              },
+              {
+                "w": "did",
+                "t": 430.0,
+                "d": 320.0
+              },
+              {
+                "w": "not",
+                "t": 750.0,
+                "d": 320.0
+              },
+              {
+                "w": "end",
+                "t": 1070.0,
+                "d": 280.0
+              },
+              {
+                "w": "in",
+                "t": 1350.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 1510.0,
+                "d": 80.0
+              },
+              {
+                "w": "single",
+                "t": 1590.0,
+                "d": 400.0
+              },
+              {
+                "w": "victory",
+                "t": 1990.0,
+                "d": 399.0
+              },
+              {
+                "w": "cry",
+                "t": 2389.0,
+                "d": 600.0
+              },
+              {
+                "w": "it",
+                "t": 3070.0,
+                "d": 319.0
+              },
+              {
+                "w": "ended",
+                "t": 3389.0,
+                "d": 321.0
+              },
+              {
+                "w": "in",
+                "t": 3710.0,
+                "d": 119.0
+              },
+              {
+                "w": "a",
+                "t": 3829.0,
+                "d": 40.0
+              },
+              {
+                "w": "signature",
+                "t": 3869.0,
+                "d": 601.0
+              },
+              {
+                "w": "that",
+                "t": 4470.0,
+                "d": 200.0
+              },
+              {
+                "w": "turned",
+                "t": 4670.0,
+                "d": 320.0
+              },
+              {
+                "w": "battle",
+                "t": 4990.0,
+                "d": 400.0
+              },
+              {
+                "w": "into",
+                "t": 5390.0,
+                "d": 280.0
+              },
+              {
+                "w": "bookkeeping",
+                "t": 5670.0,
+                "d": 1080.0
+              },
+              {
+                "w": "In",
+                "t": 6910.0,
+                "d": 240.0
+              },
+              {
+                "w": "Munro's",
+                "t": 7150.0,
+                "d": 400.0
+              },
+              {
+                "w": "volleys",
+                "t": 7550.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 7990.0,
+                "d": 199.0
+              },
+              {
+                "w": "Shah",
+                "t": 8189.0,
+                "d": 200.0
+              },
+              {
+                "w": "Alam's",
+                "t": 8389.0,
+                "d": 401.0
+              },
+              {
+                "w": "seal",
+                "t": 8790.0,
+                "d": 359.0
+              },
+              {
+                "w": "we",
+                "t": 9469.0,
+                "d": 201.0
+              },
+              {
+                "w": "see",
+                "t": 9670.0,
+                "d": 200.0
+              },
+              {
+                "w": "how",
+                "t": 9870.0,
+                "d": 560.0
+              },
+              {
+                "w": "in",
+                "t": 10510.0,
+                "d": 199.0
+              },
+              {
+                "w": "seventeen",
+                "t": 10709.0,
+                "d": 481.0
+              },
+              {
+                "w": "sixty-five",
+                "t": 11190.0,
+                "d": 760.0
+              },
+              {
+                "w": "a",
+                "t": 12190.0,
+                "d": 160.0
+              },
+              {
+                "w": "ledger",
+                "t": 12350.0,
+                "d": 359.0
+              },
+              {
+                "w": "quietly",
+                "t": 12709.0,
+                "d": 481.0
+              },
+              {
+                "w": "took",
+                "t": 13190.0,
+                "d": 199.0
+              },
+              {
+                "w": "the",
+                "t": 13389.0,
+                "d": 121.0
+              },
+              {
+                "w": "place",
+                "t": 13510.0,
+                "d": 360.0
+              },
+              {
+                "w": "of",
+                "t": 13870.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 14030.0,
+                "d": 39.0
+              },
+              {
+                "w": "throne",
+                "t": 14069.0,
+                "d": 521.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Hector Munro & Shah Alam II (Dual Character Sheet)",
+    "epithets": [
+      "Hector Munro: Victor of Buxar",
+      "Hector Munro: Company’s Iron Colonel",
+      "Shah Alam II: Mughal Emperor in Exile",
+      "Shah Alam II: Emperor Who Signed Away Bengal"
+    ],
+    "legend": "One battle turned an emperor’s seal into the Company’s sword."
+  }
+}
