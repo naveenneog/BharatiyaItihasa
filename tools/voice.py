@@ -136,6 +136,10 @@ _RE_RANGE = re.compile(rf"\b({_YEAR})\s*[-\u2013\u2014]\s*(\d{{2,4}})\b")
 _RE_DECADE = re.compile(rf"\b({_YEAR})s\b")
 _RE_ERA = re.compile(r"\b(\d{3,4})(\s+(?:BCE|BC|CE|AD))\b")
 _RE_YEAR = re.compile(rf"\b({_YEAR})\b")
+# First-millennium years (100-999) written as bare digits are only spoken as YEARS when a strong
+# year-cue precedes them (in 713 -> 'seven thirteen'); quantities like '133 guns' / 'sent 300 men'
+# have no such cue and are left as digits so the TTS still says them as plain numbers.
+_RE_YEAR3_CUE = re.compile(r"\b(in|by|since|until|till|from|circa|c\.|year)\s+([1-9]\d{2})\b", re.IGNORECASE)
 
 
 def _range_rep(m):
@@ -154,6 +158,7 @@ def _expand_years(text):
     t = _RE_DECADE.sub(lambda m: _decade_words(m.group(1)), t)
     t = _RE_ERA.sub(lambda m: _year_words(m.group(1)) + m.group(2), t)
     t = _RE_YEAR.sub(lambda m: _year_words(m.group(1)), t)
+    t = _RE_YEAR3_CUE.sub(lambda m: f"{m.group(1)} {_year_words(m.group(2))}", t)
     return t
 
 
