@@ -572,6 +572,24 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## ☀️ The Karkota Empire of Kashmir  *(c. 625–855 — Kashmir's first imperial age)*  — **✅ CHAPTER COMPLETE (13/13, de-duplicated)**
+
+Kashmir's imperial dynasty — Lalitaditya Muktapida at its centre — told as dynasty, diplomacy, architecture, economy, learning and HISTORIOGRAPHY, the legend of the mountain kingdom weighed strictly against Kalhana, coins, Tang records and ruins.
+
+1. **Durlabhavardhana Claims the Naga Name** ✅ — the founder legitimises a new line by claiming Naga descent; Kalhana flagged as centuries-late. *(historiography)*
+2. **Candrapida Writes to the Tang Emperor** ✅ — the 713 CE embassy to Tang China, grounded in the Xin Tangshu; the "vassal" misreading corrected. *(diplomacy)*
+3. **Lalitaditya's Empire and Its Legend** ✅ — the digvijaya weighed against coins + Tang records (Tansen Sen's rejection of the Kapisa/Zabulistan claims). *(reframed to differentiate from the Ancient-battles Yashovarman story)*
+4. **Kashmir Between China and Tibet** ✅ — the 722 Gilgit grain-support; geography as leverage ("Mountains are walls until someone holds the keys").
+5. **Lalitaditya Builds the City That Laughed** ✅ — Parihasapura, the planned royal city as a stone mandala.
+6. **The Sun Temple on the High Plateau** ✅ — Martand's architectural synthesis (trefoil arches, Gandhara + Kashmiri); its later destruction under Sikandar Shah Miri stated from Jonaraja. *(architecture)*
+7. **A Copper Buddha and a Golden Vishnu** ✅ — the Karkota pluralist patronage (Buddhist + Shaiva + Vaishnava as statecraft).
+8. **The Agrahara Machine Gives Land for Learning** ✅ — the tax-free village grants that drew scholars. *(economic / social)*
+9. **Lalitaditya's Living Library** ✅ — Atrigupta and the scholar-migration from Kannauj. *(scholarship)*
+10. **The Nilamata's Sixty-Five Rites** ✅ — the text that mapped Kashmir's Nagas, rivers and festivals. *(cultural memory)*
+11. **Jayapida's Double Court** ✅ — patron of scholars AND tax-tyrant, weighed in one man.
+12. **The Debased Coin and the Divided Court** ✅ — the decline read through numismatics; the slave trade into Kashmir named. *(economic decline)*
+13. **Kalhana Writes the River of Kings** ✅ — the Rajatarangini and its judge-like method: the chapter's own source reflecting on itself. *(historiography capstone)*
+
 ## 📜 The Pala and Sena Dynasties of Bengal  *(c. 750–1206 — Buddhist Palas and the Hindu Senas)*  — **✅ CHAPTER COMPLETE (13/13, de-duplicated)**
 
 Four centuries of early-medieval Bengal, carried by manuscripts, monasteries, cowries and poetry more than by battles — dynasty, rebellion, economy, learning and art, told source-critically (the court poems read against the record, the caste and "election" myths corrected). De-duplicated against the Battles chapter (Bakhtiyar) and the Eastern Ganga chapter (Jayadeva).
