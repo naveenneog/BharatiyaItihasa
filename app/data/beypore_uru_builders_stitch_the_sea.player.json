@@ -1,0 +1,3767 @@
+{
+  "id": "beypore_uru_builders_stitch_the_sea",
+  "title": "Beypore Uru Builders Stitch the Sea",
+  "title_i18n": {
+    "en": "Beypore Uru Builders Stitch the Sea",
+    "hi": "बेपोर के उरु कारीगर समंदर को सिलते हैं"
+  },
+  "figure": "Beypore Shipwrights",
+  "era": "Long-lived Malabar shipbuilding tradition, medieval to early modern era",
+  "moral": "Technology survives when hands teach hands.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/intro/hero.png",
+      "name": "Beypore Shipwright",
+      "epithets": [
+        "Uru Makers of Beypore",
+        "Master Shipwrights of Malabar",
+        "Arabian Sea Boat Builders",
+        "Custodians of Coir and Timber Craft"
+      ],
+      "legend": "Their wooden urus carried Malabar’s memory across the Arabian Sea.",
+      "era": "Long-lived Malabar shipbuilding tradition, medieval to early modern era",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Generation after generation, they build giant sea boats without written plans. When traders vanish and ports fall silent, can their secret craft still live from hand to hand?",
+            "hi": "पीढ़ी दर पीढ़ी वो बिना नक्शे के समंदर के महा-जहाज़ बनाते रहे। जब सौदागर गायब हो जाएँ, बंदरगाह सूने पड़ जाएँ… तो क्या उनका गुप्त हुनर हाथों से हाथों तक जिंदा रह पाएगा?"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/intro/hero_en.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Generation",
+                "t": 72.0,
+                "d": 833.0
+              },
+              {
+                "w": "after",
+                "t": 906.0,
+                "d": 333.0
+              },
+              {
+                "w": "generation",
+                "t": 1239.0,
+                "d": 1083.0
+              },
+              {
+                "w": "they",
+                "t": 2322.0,
+                "d": 291.0
+              },
+              {
+                "w": "build",
+                "t": 2614.0,
+                "d": 290.0
+              },
+              {
+                "w": "giant",
+                "t": 2905.0,
+                "d": 417.0
+              },
+              {
+                "w": "sea",
+                "t": 3322.0,
+                "d": 207.0
+              },
+              {
+                "w": "boats",
+                "t": 3530.0,
+                "d": 376.0
+              },
+              {
+                "w": "without",
+                "t": 3906.0,
+                "d": 333.0
+              },
+              {
+                "w": "written",
+                "t": 4239.0,
+                "d": 333.0
+              },
+              {
+                "w": "plans",
+                "t": 4572.0,
+                "d": 1083.0
+              },
+              {
+                "w": "When",
+                "t": 5906.0,
+                "d": 291.0
+              },
+              {
+                "w": "traders",
+                "t": 6197.0,
+                "d": 458.0
+              },
+              {
+                "w": "vanish",
+                "t": 6656.0,
+                "d": 375.0
+              },
+              {
+                "w": "and",
+                "t": 7031.0,
+                "d": 166.0
+              },
+              {
+                "w": "ports",
+                "t": 7197.0,
+                "d": 333.0
+              },
+              {
+                "w": "fall",
+                "t": 7531.0,
+                "d": 291.0
+              },
+              {
+                "w": "silent",
+                "t": 7822.0,
+                "d": 665.0
+              },
+              {
+                "w": "can",
+                "t": 8864.0,
+                "d": 207.0
+              },
+              {
+                "w": "their",
+                "t": 9071.0,
+                "d": 209.0
+              },
+              {
+                "w": "secret",
+                "t": 9281.0,
+                "d": 415.0
+              },
+              {
+                "w": "craft",
+                "t": 9696.0,
+                "d": 376.0
+              },
+              {
+                "w": "still",
+                "t": 10072.0,
+                "d": 333.0
+              },
+              {
+                "w": "live",
+                "t": 10406.0,
+                "d": 332.0
+              },
+              {
+                "w": "from",
+                "t": 10738.0,
+                "d": 250.0
+              },
+              {
+                "w": "hand",
+                "t": 10988.0,
+                "d": 251.0
+              },
+              {
+                "w": "to",
+                "t": 11239.0,
+                "d": 125.0
+              },
+              {
+                "w": "hand",
+                "t": 11364.0,
+                "d": 498.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/beypore_uru_builders_stitch_the_sea/intro/map.png",
+      "x": 0.62,
+      "y": 0.77,
+      "label": "Beypore & Chaliyar River, near Calicut",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here the Chaliyar meets the Arabian Sea, and urus rise from riverbank sand into deep-ocean journeys.",
+            "hi": "यहीं चेलियार अरब सागर से मिलता है, और उरुस नदी किनारे की रेत से उठकर गहरे समंदर की ओर निकल पड़ते हैं।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/intro/map_en.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 264.0,
+                "d": 137.0
+              },
+              {
+                "w": "Chaliyar",
+                "t": 540.0,
+                "d": 551.0
+              },
+              {
+                "w": "meets",
+                "t": 1091.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 1459.0,
+                "d": 137.0
+              },
+              {
+                "w": "Arabian",
+                "t": 1597.0,
+                "d": 597.0
+              },
+              {
+                "w": "Sea",
+                "t": 2195.0,
+                "d": 321.0
+              },
+              {
+                "w": "and",
+                "t": 2745.0,
+                "d": 459.0
+              },
+              {
+                "w": "urus",
+                "t": 3251.0,
+                "d": 368.0
+              },
+              {
+                "w": "rise",
+                "t": 3620.0,
+                "d": 320.0
+              },
+              {
+                "w": "from",
+                "t": 3941.0,
+                "d": 231.0
+              },
+              {
+                "w": "riverbank",
+                "t": 4172.0,
+                "d": 551.0
+              },
+              {
+                "w": "sand",
+                "t": 4724.0,
+                "d": 459.0
+              },
+              {
+                "w": "into",
+                "t": 5183.0,
+                "d": 321.0
+              },
+              {
+                "w": "deep-ocean",
+                "t": 5505.0,
+                "d": 643.0
+              },
+              {
+                "w": "journeys",
+                "t": 6149.0,
+                "d": 781.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/cover.png",
+      "shot": "epic aerial wide over Beypore estuary at sunset",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "For centuries at Beypore, unnamed shipwrights stitched wood and coir into mighty urus that carried the Zamorin's world across the sea, yet their science lived only from hand to hand, never on paper.",
+            "hi": "सदियों से बेपोर में गुमनाम कारीगरों ने लकड़ी और कय्या से ऐसे उरु सिले जो ज़मोरिन की दुनिया समंदर पार ले गए — पर उनकी विद्या बस हाथों में रही, कागज़ पर नहीं।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/cover_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "For",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "centuries",
+                "t": 372.0,
+                "d": 638.0
+              },
+              {
+                "w": "at",
+                "t": 1010.0,
+                "d": 255.0
+              },
+              {
+                "w": "Beypore",
+                "t": 1265.0,
+                "d": 892.0
+              },
+              {
+                "w": "unnamed",
+                "t": 2329.0,
+                "d": 510.0
+              },
+              {
+                "w": "shipwrights",
+                "t": 2840.0,
+                "d": 595.0
+              },
+              {
+                "w": "stitched",
+                "t": 3436.0,
+                "d": 468.0
+              },
+              {
+                "w": "wood",
+                "t": 3904.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 4500.0,
+                "d": 382.0
+              },
+              {
+                "w": "coir",
+                "t": 4882.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 5265.0,
+                "d": 297.0
+              },
+              {
+                "w": "mighty",
+                "t": 5563.0,
+                "d": 553.0
+              },
+              {
+                "w": "urus",
+                "t": 6117.0,
+                "d": 297.0
+              },
+              {
+                "w": "that",
+                "t": 6414.0,
+                "d": 255.0
+              },
+              {
+                "w": "carried",
+                "t": 6670.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 7053.0,
+                "d": 170.0
+              },
+              {
+                "w": "Zamorin's",
+                "t": 7223.0,
+                "d": 638.0
+              },
+              {
+                "w": "world",
+                "t": 7861.0,
+                "d": 382.0
+              },
+              {
+                "w": "across",
+                "t": 8244.0,
+                "d": 467.0
+              },
+              {
+                "w": "the",
+                "t": 8711.0,
+                "d": 171.0
+              },
+              {
+                "w": "sea",
+                "t": 8882.0,
+                "d": 170.0
+              },
+              {
+                "w": "yet",
+                "t": 9053.0,
+                "d": 1020.0
+              },
+              {
+                "w": "their",
+                "t": 10073.0,
+                "d": 808.0
+              },
+              {
+                "w": "science",
+                "t": 10881.0,
+                "d": 425.0
+              },
+              {
+                "w": "lived",
+                "t": 11307.0,
+                "d": 384.0
+              },
+              {
+                "w": "only",
+                "t": 11691.0,
+                "d": 468.0
+              },
+              {
+                "w": "from",
+                "t": 12159.0,
+                "d": 255.0
+              },
+              {
+                "w": "hand",
+                "t": 12414.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 12670.0,
+                "d": 127.0
+              },
+              {
+                "w": "hand",
+                "t": 12797.0,
+                "d": 637.0
+              },
+              {
+                "w": "never",
+                "t": 13776.0,
+                "d": 510.0
+              },
+              {
+                "w": "on",
+                "t": 14287.0,
+                "d": 170.0
+              },
+              {
+                "w": "paper",
+                "t": 14457.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p01.png",
+      "shot": "low-angle wide from riverbank, framing half-built uru hull towering over workers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Ibn Battuta wrote of Calicut's crowded harbor and strong ships. Few lines mention Beypore by name, but his words hang over this river mouth, where those ships were born in timber and sweat.",
+            "hi": "इब्न बतूता ने कालीकट की भरी बंदरगाह और मज़बूत जहाज़ों का ज़िक्र किया। बेपोर का नाम कम ही आया, पर उसकी बातें आज भी इस मुहाने पर तैरती हैं, जहाँ वो जहाज़ लकड़ी और पसीने से जनमे थे।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p01_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Ibn",
+                "t": 159.0,
+                "d": 510.0
+              },
+              {
+                "w": "Battuta",
+                "t": 670.0,
+                "d": 510.0
+              },
+              {
+                "w": "wrote",
+                "t": 1180.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 1478.0,
+                "d": 170.0
+              },
+              {
+                "w": "Calicut's",
+                "t": 1648.0,
+                "d": 680.0
+              },
+              {
+                "w": "crowded",
+                "t": 2329.0,
+                "d": 468.0
+              },
+              {
+                "w": "harbor",
+                "t": 2797.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 3308.0,
+                "d": 211.0
+              },
+              {
+                "w": "strong",
+                "t": 3520.0,
+                "d": 384.0
+              },
+              {
+                "w": "ships",
+                "t": 3904.0,
+                "d": 1191.0
+              },
+              {
+                "w": "Few",
+                "t": 5138.0,
+                "d": 340.0
+              },
+              {
+                "w": "lines",
+                "t": 5478.0,
+                "d": 340.0
+              },
+              {
+                "w": "mention",
+                "t": 5819.0,
+                "d": 510.0
+              },
+              {
+                "w": "Beypore",
+                "t": 6329.0,
+                "d": 468.0
+              },
+              {
+                "w": "by",
+                "t": 6797.0,
+                "d": 170.0
+              },
+              {
+                "w": "name",
+                "t": 6968.0,
+                "d": 851.0
+              },
+              {
+                "w": "but",
+                "t": 7904.0,
+                "d": 255.0
+              },
+              {
+                "w": "his",
+                "t": 8159.0,
+                "d": 170.0
+              },
+              {
+                "w": "words",
+                "t": 8329.0,
+                "d": 381.0
+              },
+              {
+                "w": "hang",
+                "t": 8711.0,
+                "d": 297.0
+              },
+              {
+                "w": "over",
+                "t": 9009.0,
+                "d": 213.0
+              },
+              {
+                "w": "this",
+                "t": 9223.0,
+                "d": 212.0
+              },
+              {
+                "w": "river",
+                "t": 9436.0,
+                "d": 255.0
+              },
+              {
+                "w": "mouth",
+                "t": 9691.0,
+                "d": 425.0
+              },
+              {
+                "w": "where",
+                "t": 10627.0,
+                "d": 297.0
+              },
+              {
+                "w": "those",
+                "t": 10925.0,
+                "d": 255.0
+              },
+              {
+                "w": "ships",
+                "t": 11180.0,
+                "d": 340.0
+              },
+              {
+                "w": "were",
+                "t": 11521.0,
+                "d": 170.0
+              },
+              {
+                "w": "born",
+                "t": 11691.0,
+                "d": 297.0
+              },
+              {
+                "w": "in",
+                "t": 11989.0,
+                "d": 126.0
+              },
+              {
+                "w": "timber",
+                "t": 12115.0,
+                "d": 469.0
+              },
+              {
+                "w": "and",
+                "t": 12585.0,
+                "d": 170.0
+              },
+              {
+                "w": "sweat",
+                "t": 12755.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p02.png",
+      "shot": "close-up on weathered hands sketching hull curves in wet sand with a stick",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here there were no printed plans. Hulls began as lines in sand, as memory in muscle, ratios of length, beam and draft carried in a master's eye, tested by monsoon after monsoon.",
+            "hi": "ये लोग नक्शे नहीं छापते थे। ज्योंत रेत पर लकीरों से शुरू होती, माँसपेशियों की याद से — लंबाई, चौड़ाई, गहराई के हिसाब उस्ताद की आँख में, हर मानसून की कसौटी पर खरे।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p02_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "there",
+                "t": 414.0,
+                "d": 212.0
+              },
+              {
+                "w": "were",
+                "t": 627.0,
+                "d": 170.0
+              },
+              {
+                "w": "no",
+                "t": 797.0,
+                "d": 212.0
+              },
+              {
+                "w": "printed",
+                "t": 1010.0,
+                "d": 468.0
+              },
+              {
+                "w": "plans",
+                "t": 1478.0,
+                "d": 723.0
+              },
+              {
+                "w": "Hulls",
+                "t": 2541.0,
+                "d": 468.0
+              },
+              {
+                "w": "began",
+                "t": 3009.0,
+                "d": 384.0
+              },
+              {
+                "w": "as",
+                "t": 3393.0,
+                "d": 211.0
+              },
+              {
+                "w": "lines",
+                "t": 3605.0,
+                "d": 341.0
+              },
+              {
+                "w": "in",
+                "t": 3946.0,
+                "d": 169.0
+              },
+              {
+                "w": "sand",
+                "t": 4115.0,
+                "d": 767.0
+              },
+              {
+                "w": "as",
+                "t": 4925.0,
+                "d": 297.0
+              },
+              {
+                "w": "memory",
+                "t": 5223.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 5606.0,
+                "d": 127.0
+              },
+              {
+                "w": "muscle",
+                "t": 5734.0,
+                "d": 595.0
+              },
+              {
+                "w": "ratios",
+                "t": 6542.0,
+                "d": 638.0
+              },
+              {
+                "w": "of",
+                "t": 7180.0,
+                "d": 170.0
+              },
+              {
+                "w": "length",
+                "t": 7351.0,
+                "d": 425.0
+              },
+              {
+                "w": "beam",
+                "t": 7989.0,
+                "d": 552.0
+              },
+              {
+                "w": "and",
+                "t": 8541.0,
+                "d": 212.0
+              },
+              {
+                "w": "draft",
+                "t": 8754.0,
+                "d": 724.0
+              },
+              {
+                "w": "carried",
+                "t": 9647.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 10073.0,
+                "d": 128.0
+              },
+              {
+                "w": "a",
+                "t": 10202.0,
+                "d": 126.0
+              },
+              {
+                "w": "master's",
+                "t": 10328.0,
+                "d": 596.0
+              },
+              {
+                "w": "eye",
+                "t": 10925.0,
+                "d": 425.0
+              },
+              {
+                "w": "tested",
+                "t": 11819.0,
+                "d": 510.0
+              },
+              {
+                "w": "by",
+                "t": 12329.0,
+                "d": 212.0
+              },
+              {
+                "w": "monsoon",
+                "t": 12542.0,
+                "d": 680.0
+              },
+              {
+                "w": "after",
+                "t": 13223.0,
+                "d": 382.0
+              },
+              {
+                "w": "monsoon",
+                "t": 13606.0,
+                "d": 765.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p03.png",
+      "shot": "medium shot of shipwright selecting a teak log from a pile, sunlight catching grain",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Teak from inland forests and anjili from Kerala's hills arrived by river and cart. Each log was weighed by eye for strength and bend, matched to a place in a future hull.",
+            "hi": "भीतर के जंगलों से सागौन, और केरल की पहाड़ियों से अंजीली नदी और बैलगाड़ियों पर आती। हर लट्ठा आँख से तौला जाता, ताकत और मोड़ के लिए, किसी आने वाले ज्योंत की सही जगह के लिए।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p03_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Teak",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "from",
+                "t": 414.0,
+                "d": 255.0
+              },
+              {
+                "w": "inland",
+                "t": 670.0,
+                "d": 425.0
+              },
+              {
+                "w": "forests",
+                "t": 1095.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 2031.0,
+                "d": 255.0
+              },
+              {
+                "w": "anjili",
+                "t": 2287.0,
+                "d": 679.0
+              },
+              {
+                "w": "from",
+                "t": 3052.0,
+                "d": 298.0
+              },
+              {
+                "w": "Kerala's",
+                "t": 3351.0,
+                "d": 510.0
+              },
+              {
+                "w": "hills",
+                "t": 3861.0,
+                "d": 381.0
+              },
+              {
+                "w": "arrived",
+                "t": 4243.0,
+                "d": 469.0
+              },
+              {
+                "w": "by",
+                "t": 4712.0,
+                "d": 212.0
+              },
+              {
+                "w": "river",
+                "t": 4925.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 5351.0,
+                "d": 212.0
+              },
+              {
+                "w": "cart",
+                "t": 5563.0,
+                "d": 680.0
+              },
+              {
+                "w": "Each",
+                "t": 6670.0,
+                "d": 425.0
+              },
+              {
+                "w": "log",
+                "t": 7095.0,
+                "d": 255.0
+              },
+              {
+                "w": "was",
+                "t": 7351.0,
+                "d": 212.0
+              },
+              {
+                "w": "weighed",
+                "t": 7563.0,
+                "d": 340.0
+              },
+              {
+                "w": "by",
+                "t": 7904.0,
+                "d": 255.0
+              },
+              {
+                "w": "eye",
+                "t": 8159.0,
+                "d": 255.0
+              },
+              {
+                "w": "for",
+                "t": 8414.0,
+                "d": 211.0
+              },
+              {
+                "w": "strength",
+                "t": 8626.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 9094.0,
+                "d": 128.0
+              },
+              {
+                "w": "bend",
+                "t": 9223.0,
+                "d": 509.0
+              },
+              {
+                "w": "matched",
+                "t": 10117.0,
+                "d": 425.0
+              },
+              {
+                "w": "to",
+                "t": 10542.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 10670.0,
+                "d": 85.0
+              },
+              {
+                "w": "place",
+                "t": 10755.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 11095.0,
+                "d": 85.0
+              },
+              {
+                "w": "a",
+                "t": 11180.0,
+                "d": 85.0
+              },
+              {
+                "w": "future",
+                "t": 11265.0,
+                "d": 468.0
+              },
+              {
+                "w": "hull",
+                "t": 11734.0,
+                "d": 381.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/beypore_uru_builders_stitch_the_sea/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/beypore_uru_builders_stitch_the_sea/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He claims the riverbank as his forge, shaping forests into hulls that will command the monsoon seas.",
+            "hi": "वो नदी किनारे को अपनी भट्टी बना देता है, जंगलों को जहाज़ों में ढालकर जो मानसून समंदर पर राज करेंगे।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/action/action_auto_en.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "claims",
+                "t": 230.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 550.0,
+                "d": 120.0
+              },
+              {
+                "w": "riverbank",
+                "t": 670.0,
+                "d": 600.0
+              },
+              {
+                "w": "as",
+                "t": 1270.0,
+                "d": 120.0
+              },
+              {
+                "w": "his",
+                "t": 1390.0,
+                "d": 200.0
+              },
+              {
+                "w": "forge",
+                "t": 1590.0,
+                "d": 600.0
+              },
+              {
+                "w": "shaping",
+                "t": 2230.0,
+                "d": 480.0
+              },
+              {
+                "w": "forests",
+                "t": 2710.0,
+                "d": 560.0
+              },
+              {
+                "w": "into",
+                "t": 3270.0,
+                "d": 280.0
+              },
+              {
+                "w": "hulls",
+                "t": 3550.0,
+                "d": 560.0
+              },
+              {
+                "w": "that",
+                "t": 4270.0,
+                "d": 280.0
+              },
+              {
+                "w": "will",
+                "t": 4550.0,
+                "d": 200.0
+              },
+              {
+                "w": "command",
+                "t": 4750.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 5150.0,
+                "d": 120.0
+              },
+              {
+                "w": "monsoon",
+                "t": 5270.0,
+                "d": 440.0
+              },
+              {
+                "w": "seas",
+                "t": 5710.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p04.png",
+      "shot": "tight close-up of adze striking wood, curving a rib against simple wooden template",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Ribs were not guessed. Templates, rules of thumb and long practice gave each frame its arc, so that dozens of pieces of timber could agree on one smooth, sea-cutting curve.",
+            "hi": "पसलीं अंदाज़े से नहीं बनतीं। साँचे, अनुभवी नियम और सालों की रियाज़ हर फ्रेम को उसका कमान देते, ताकि दर्जनों टुकड़े मिलकर एक चिकनी, लहर चीरती वक्र बना सकें।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p04_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Ribs",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "were",
+                "t": 542.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 712.0,
+                "d": 170.0
+              },
+              {
+                "w": "guessed",
+                "t": 882.0,
+                "d": 382.0
+              },
+              {
+                "w": "Templates",
+                "t": 1265.0,
+                "d": 1871.0
+              },
+              {
+                "w": "rules",
+                "t": 3265.0,
+                "d": 381.0
+              },
+              {
+                "w": "of",
+                "t": 3647.0,
+                "d": 171.0
+              },
+              {
+                "w": "thumb",
+                "t": 3819.0,
+                "d": 381.0
+              },
+              {
+                "w": "and",
+                "t": 4457.0,
+                "d": 297.0
+              },
+              {
+                "w": "long",
+                "t": 4755.0,
+                "d": 297.0
+              },
+              {
+                "w": "practice",
+                "t": 5053.0,
+                "d": 425.0
+              },
+              {
+                "w": "gave",
+                "t": 5478.0,
+                "d": 297.0
+              },
+              {
+                "w": "each",
+                "t": 5776.0,
+                "d": 425.0
+              },
+              {
+                "w": "frame",
+                "t": 6202.0,
+                "d": 297.0
+              },
+              {
+                "w": "its",
+                "t": 6500.0,
+                "d": 170.0
+              },
+              {
+                "w": "arc",
+                "t": 6670.0,
+                "d": 595.0
+              },
+              {
+                "w": "so",
+                "t": 7478.0,
+                "d": 255.0
+              },
+              {
+                "w": "that",
+                "t": 7734.0,
+                "d": 212.0
+              },
+              {
+                "w": "dozens",
+                "t": 7946.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 8329.0,
+                "d": 170.0
+              },
+              {
+                "w": "pieces",
+                "t": 8500.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 8882.0,
+                "d": 170.0
+              },
+              {
+                "w": "timber",
+                "t": 9053.0,
+                "d": 382.0
+              },
+              {
+                "w": "could",
+                "t": 9436.0,
+                "d": 211.0
+              },
+              {
+                "w": "agree",
+                "t": 9647.0,
+                "d": 340.0
+              },
+              {
+                "w": "on",
+                "t": 9988.0,
+                "d": 128.0
+              },
+              {
+                "w": "one",
+                "t": 10117.0,
+                "d": 382.0
+              },
+              {
+                "w": "smooth",
+                "t": 10500.0,
+                "d": 595.0
+              },
+              {
+                "w": "sea-cutting",
+                "t": 11137.0,
+                "d": 638.0
+              },
+              {
+                "w": "curve",
+                "t": 11775.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p05.png",
+      "shot": "wide interior shot of half-framed hull, ribs rising like a wooden skeleton",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The shipwrights knew the Chaliyar's moods and the Arabian Sea's long swell. The hull's deep belly and high prow were tuned to ride cargo-heavy yet answer the pull of monsoon winds.",
+            "hi": "कारीगरों को चेलियार का मिज़ाज और अरब सागर की लंबी लहरें पता थीं। जहाज़ का गहरा पेट और ऊँचा नाक माल-भरे सफ़र के लिए तराशा जाता, फिर भी मानसून की हवा का खिंचाव सुन सके।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p05_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "shipwrights",
+                "t": 244.0,
+                "d": 595.0
+              },
+              {
+                "w": "knew",
+                "t": 840.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 1095.0,
+                "d": 170.0
+              },
+              {
+                "w": "Chaliyar's",
+                "t": 1265.0,
+                "d": 510.0
+              },
+              {
+                "w": "moods",
+                "t": 1776.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 2456.0,
+                "d": 256.0
+              },
+              {
+                "w": "the",
+                "t": 2712.0,
+                "d": 170.0
+              },
+              {
+                "w": "Arabian",
+                "t": 2882.0,
+                "d": 553.0
+              },
+              {
+                "w": "Sea's",
+                "t": 3436.0,
+                "d": 382.0
+              },
+              {
+                "w": "long",
+                "t": 3819.0,
+                "d": 296.0
+              },
+              {
+                "w": "swell",
+                "t": 4115.0,
+                "d": 979.0
+              },
+              {
+                "w": "The",
+                "t": 5351.0,
+                "d": 212.0
+              },
+              {
+                "w": "hull's",
+                "t": 5563.0,
+                "d": 382.0
+              },
+              {
+                "w": "deep",
+                "t": 5946.0,
+                "d": 212.0
+              },
+              {
+                "w": "belly",
+                "t": 6159.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 6712.0,
+                "d": 212.0
+              },
+              {
+                "w": "high",
+                "t": 6925.0,
+                "d": 255.0
+              },
+              {
+                "w": "prow",
+                "t": 7180.0,
+                "d": 297.0
+              },
+              {
+                "w": "were",
+                "t": 7478.0,
+                "d": 170.0
+              },
+              {
+                "w": "tuned",
+                "t": 7648.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 8031.0,
+                "d": 127.0
+              },
+              {
+                "w": "ride",
+                "t": 8159.0,
+                "d": 340.0
+              },
+              {
+                "w": "cargo-heavy",
+                "t": 8500.0,
+                "d": 679.0
+              },
+              {
+                "w": "yet",
+                "t": 9179.0,
+                "d": 978.0
+              },
+              {
+                "w": "answer",
+                "t": 10202.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 10627.0,
+                "d": 212.0
+              },
+              {
+                "w": "pull",
+                "t": 10840.0,
+                "d": 296.0
+              },
+              {
+                "w": "of",
+                "t": 11180.0,
+                "d": 211.0
+              },
+              {
+                "w": "monsoon",
+                "t": 11392.0,
+                "d": 468.0
+              },
+              {
+                "w": "winds",
+                "t": 11860.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p06.png",
+      "shot": "close-up on coir rope being twisted and passed through plank edge holes",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Coir, spun from coconut husk, was their hidden steel. Twisted and passed through holes in planks, it let the hull flex with the sea instead of cracking against it.",
+            "hi": "नारियल की जटा से सूत बना कय्या उनका छुपा लोहा था। तख्तों में छेदों से गुज़ारकर और कसकर, वो ज्योंत को समंदर के साथ झुकने देता, उससे टूटने नहीं देता।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p06_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Coir",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "spun",
+                "t": 627.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 1010.0,
+                "d": 212.0
+              },
+              {
+                "w": "coconut",
+                "t": 1223.0,
+                "d": 468.0
+              },
+              {
+                "w": "husk",
+                "t": 1691.0,
+                "d": 595.0
+              },
+              {
+                "w": "was",
+                "t": 2456.0,
+                "d": 256.0
+              },
+              {
+                "w": "their",
+                "t": 2712.0,
+                "d": 212.0
+              },
+              {
+                "w": "hidden",
+                "t": 2925.0,
+                "d": 254.0
+              },
+              {
+                "w": "steel",
+                "t": 3179.0,
+                "d": 425.0
+              },
+              {
+                "w": "Twisted",
+                "t": 4414.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 4968.0,
+                "d": 297.0
+              },
+              {
+                "w": "passed",
+                "t": 5265.0,
+                "d": 297.0
+              },
+              {
+                "w": "through",
+                "t": 5563.0,
+                "d": 297.0
+              },
+              {
+                "w": "holes",
+                "t": 5861.0,
+                "d": 255.0
+              },
+              {
+                "w": "in",
+                "t": 6117.0,
+                "d": 127.0
+              },
+              {
+                "w": "planks",
+                "t": 6244.0,
+                "d": 680.0
+              },
+              {
+                "w": "it",
+                "t": 7265.0,
+                "d": 297.0
+              },
+              {
+                "w": "let",
+                "t": 7563.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 7734.0,
+                "d": 170.0
+              },
+              {
+                "w": "hull",
+                "t": 7904.0,
+                "d": 212.0
+              },
+              {
+                "w": "flex",
+                "t": 8117.0,
+                "d": 382.0
+              },
+              {
+                "w": "with",
+                "t": 8500.0,
+                "d": 169.0
+              },
+              {
+                "w": "the",
+                "t": 8669.0,
+                "d": 128.0
+              },
+              {
+                "w": "sea",
+                "t": 8797.0,
+                "d": 381.0
+              },
+              {
+                "w": "instead",
+                "t": 9351.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 9776.0,
+                "d": 170.0
+              },
+              {
+                "w": "cracking",
+                "t": 9946.0,
+                "d": 425.0
+              },
+              {
+                "w": "against",
+                "t": 10372.0,
+                "d": 424.0
+              },
+              {
+                "w": "it",
+                "t": 10796.0,
+                "d": 384.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p07.png",
+      "shot": "medium shot from deck level, shipwright inspecting sewn seams and some metal fastenings",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Earlier urus leaned heavily on sewn planks; later ones mixed coir lashings with metal fastenings. The craft shifted with markets, yet kept its core: flexible, repairable hulls for hard seas.",
+            "hi": "पुराने उरु तख्तों की सिलाई पर ज़्यादा टिके थे; बाद के उरु में कय्या की बंधन के साथ लोहे की जकड़ भी आई। हुनर बाज़ार के साथ बदला, पर असल बात रही — सख़्त समंदर के लिए लचीली, सुधरने वाली ज्योंतें।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p07_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Earlier",
+                "t": 74.0,
+                "d": 553.0
+              },
+              {
+                "w": "urus",
+                "t": 627.0,
+                "d": 340.0
+              },
+              {
+                "w": "leaned",
+                "t": 968.0,
+                "d": 255.0
+              },
+              {
+                "w": "heavily",
+                "t": 1223.0,
+                "d": 425.0
+              },
+              {
+                "w": "on",
+                "t": 1648.0,
+                "d": 170.0
+              },
+              {
+                "w": "sewn",
+                "t": 1819.0,
+                "d": 425.0
+              },
+              {
+                "w": "planks",
+                "t": 2244.0,
+                "d": 680.0
+              },
+              {
+                "w": "later",
+                "t": 3179.0,
+                "d": 382.0
+              },
+              {
+                "w": "ones",
+                "t": 3562.0,
+                "d": 468.0
+              },
+              {
+                "w": "mixed",
+                "t": 4030.0,
+                "d": 384.0
+              },
+              {
+                "w": "coir",
+                "t": 4414.0,
+                "d": 297.0
+              },
+              {
+                "w": "lashings",
+                "t": 4712.0,
+                "d": 510.0
+              },
+              {
+                "w": "with",
+                "t": 5223.0,
+                "d": 170.0
+              },
+              {
+                "w": "metal",
+                "t": 5393.0,
+                "d": 382.0
+              },
+              {
+                "w": "fastenings",
+                "t": 5776.0,
+                "d": 1021.0
+              },
+              {
+                "w": "The",
+                "t": 7053.0,
+                "d": 212.0
+              },
+              {
+                "w": "craft",
+                "t": 7265.0,
+                "d": 382.0
+              },
+              {
+                "w": "shifted",
+                "t": 7648.0,
+                "d": 425.0
+              },
+              {
+                "w": "with",
+                "t": 8074.0,
+                "d": 170.0
+              },
+              {
+                "w": "markets",
+                "t": 8244.0,
+                "d": 764.0
+              },
+              {
+                "w": "yet",
+                "t": 9223.0,
+                "d": 468.0
+              },
+              {
+                "w": "kept",
+                "t": 9691.0,
+                "d": 296.0
+              },
+              {
+                "w": "its",
+                "t": 9988.0,
+                "d": 213.0
+              },
+              {
+                "w": "core",
+                "t": 10202.0,
+                "d": 594.0
+              },
+              {
+                "w": "flexible",
+                "t": 10840.0,
+                "d": 1020.0
+              },
+              {
+                "w": "repairable",
+                "t": 11904.0,
+                "d": 638.0
+              },
+              {
+                "w": "hulls",
+                "t": 12542.0,
+                "d": 340.0
+              },
+              {
+                "w": "for",
+                "t": 12882.0,
+                "d": 126.0
+              },
+              {
+                "w": "hard",
+                "t": 13009.0,
+                "d": 298.0
+              },
+              {
+                "w": "seas",
+                "t": 13308.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p08.png",
+      "shot": "close-up of caulker pressing fibre into seam, black pitch smeared over",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Every seam was packed with fibre and sealed with pitch. Between river water, salt spray and heat, a uru survived only if its skin stayed tight. Caulking was quiet, exacting science.",
+            "hi": "हर जोड़ में रेशे ठूँसे जाते, ऊपर राल जड़ी जाती। नदी का पानी, नमकीन छींटे और धूप के बीच, उरु तभी बचता था जब उसकी चमड़ी कसी रहे। गूंजन एक खामोश, सटीक विज्ञान था।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p08_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Every",
+                "t": 74.0,
+                "d": 425.0
+              },
+              {
+                "w": "seam",
+                "t": 500.0,
+                "d": 340.0
+              },
+              {
+                "w": "was",
+                "t": 840.0,
+                "d": 255.0
+              },
+              {
+                "w": "packed",
+                "t": 1095.0,
+                "d": 382.0
+              },
+              {
+                "w": "with",
+                "t": 1478.0,
+                "d": 170.0
+              },
+              {
+                "w": "fibre",
+                "t": 1648.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 2329.0,
+                "d": 254.0
+              },
+              {
+                "w": "sealed",
+                "t": 2584.0,
+                "d": 382.0
+              },
+              {
+                "w": "with",
+                "t": 2967.0,
+                "d": 256.0
+              },
+              {
+                "w": "pitch",
+                "t": 3223.0,
+                "d": 1191.0
+              },
+              {
+                "w": "Between",
+                "t": 4585.0,
+                "d": 553.0
+              },
+              {
+                "w": "river",
+                "t": 5138.0,
+                "d": 297.0
+              },
+              {
+                "w": "water",
+                "t": 5436.0,
+                "d": 680.0
+              },
+              {
+                "w": "salt",
+                "t": 6244.0,
+                "d": 468.0
+              },
+              {
+                "w": "spray",
+                "t": 6712.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 7138.0,
+                "d": 212.0
+              },
+              {
+                "w": "heat",
+                "t": 7351.0,
+                "d": 595.0
+              },
+              {
+                "w": "a",
+                "t": 8159.0,
+                "d": 297.0
+              },
+              {
+                "w": "uru",
+                "t": 8457.0,
+                "d": 296.0
+              },
+              {
+                "w": "survived",
+                "t": 8754.0,
+                "d": 596.0
+              },
+              {
+                "w": "only",
+                "t": 9393.0,
+                "d": 468.0
+              },
+              {
+                "w": "if",
+                "t": 9861.0,
+                "d": 211.0
+              },
+              {
+                "w": "its",
+                "t": 10073.0,
+                "d": 128.0
+              },
+              {
+                "w": "skin",
+                "t": 10202.0,
+                "d": 340.0
+              },
+              {
+                "w": "stayed",
+                "t": 10542.0,
+                "d": 382.0
+              },
+              {
+                "w": "tight",
+                "t": 10925.0,
+                "d": 467.0
+              },
+              {
+                "w": "Caulking",
+                "t": 12755.0,
+                "d": 424.0
+              },
+              {
+                "w": "was",
+                "t": 13179.0,
+                "d": 213.0
+              },
+              {
+                "w": "quiet",
+                "t": 13393.0,
+                "d": 679.0
+              },
+              {
+                "w": "exacting",
+                "t": 14287.0,
+                "d": 638.0
+              },
+              {
+                "w": "science",
+                "t": 14925.0,
+                "d": 637.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p09.png",
+      "shot": "wide shot of busy yard with two different vessels: a large trading uru and a smaller, sleeker coastal craft",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Around Calicut, Francois Pyrard saw big ocean traders and swift coastal craft. The Kunjali Marakkars' paraos and fustas drew on the same skills, shaped for speed and maneuver instead of bulk.",
+            "hi": "कालीकट के आसपास फ्राँस्वा पिरार ने बड़े समुद्री सौदागर और फुर्तीले तटवर्ती जहाज़ देखे। कुंजाली मरक्कारों के पराओ और फुस्ता भी इसी हुनर से बने, भारीपन नहीं, रफ़्तार और चालाकी के लिए।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p09_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Around",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "Calicut",
+                "t": 457.0,
+                "d": 765.0
+              },
+              {
+                "w": "Francois",
+                "t": 1308.0,
+                "d": 723.0
+              },
+              {
+                "w": "Pyrard",
+                "t": 2031.0,
+                "d": 424.0
+              },
+              {
+                "w": "saw",
+                "t": 2456.0,
+                "d": 298.0
+              },
+              {
+                "w": "big",
+                "t": 2755.0,
+                "d": 339.0
+              },
+              {
+                "w": "ocean",
+                "t": 3094.0,
+                "d": 384.0
+              },
+              {
+                "w": "traders",
+                "t": 3478.0,
+                "d": 552.0
+              },
+              {
+                "w": "and",
+                "t": 4030.0,
+                "d": 256.0
+              },
+              {
+                "w": "swift",
+                "t": 4287.0,
+                "d": 382.0
+              },
+              {
+                "w": "coastal",
+                "t": 4670.0,
+                "d": 425.0
+              },
+              {
+                "w": "craft",
+                "t": 5095.0,
+                "d": 1021.0
+              },
+              {
+                "w": "The",
+                "t": 6372.0,
+                "d": 425.0
+              },
+              {
+                "w": "Kunjali",
+                "t": 6797.0,
+                "d": 382.0
+              },
+              {
+                "w": "Marakkars'",
+                "t": 7180.0,
+                "d": 638.0
+              },
+              {
+                "w": "paraos",
+                "t": 7819.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 8500.0,
+                "d": 254.0
+              },
+              {
+                "w": "fustas",
+                "t": 8754.0,
+                "d": 469.0
+              },
+              {
+                "w": "drew",
+                "t": 9223.0,
+                "d": 297.0
+              },
+              {
+                "w": "on",
+                "t": 9521.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 9691.0,
+                "d": 126.0
+              },
+              {
+                "w": "same",
+                "t": 9818.0,
+                "d": 384.0
+              },
+              {
+                "w": "skills",
+                "t": 10202.0,
+                "d": 679.0
+              },
+              {
+                "w": "shaped",
+                "t": 11010.0,
+                "d": 553.0
+              },
+              {
+                "w": "for",
+                "t": 11563.0,
+                "d": 170.0
+              },
+              {
+                "w": "speed",
+                "t": 11734.0,
+                "d": 467.0
+              },
+              {
+                "w": "and",
+                "t": 12201.0,
+                "d": 213.0
+              },
+              {
+                "w": "maneuver",
+                "t": 12414.0,
+                "d": 638.0
+              },
+              {
+                "w": "instead",
+                "t": 13094.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 13520.0,
+                "d": 128.0
+              },
+              {
+                "w": "bulk",
+                "t": 13648.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p10.png",
+      "shot": "medium shot of shipwright and Arab merchant on riverside, pointing at hull and horizon",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Logan's Malabar Manual notes Beypore's tie to Calicut's trade. Arab merchants trusted these yards, ordering urus to sail to Hormuz, Basra, and later the Gulf ports, carrying spices, timber and people.",
+            "hi": "लोगन की ‘मालाबार मैन्युअल’ में बेपोर का कालीकट की मंडी से रिश्ता दर्ज है। अरब सौदागर इन घाटों पर भरोसा करते, उरु बनवाते जो होर्मुज़, बसरा और बाद में खाड़ी के बंदरगाहों तक जाते, मसाले, लकड़ी और लोग ले जाते।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p10_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Logan's",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "Malabar",
+                "t": 670.0,
+                "d": 425.0
+              },
+              {
+                "w": "Manual",
+                "t": 1095.0,
+                "d": 425.0
+              },
+              {
+                "w": "notes",
+                "t": 1521.0,
+                "d": 340.0
+              },
+              {
+                "w": "Beypore's",
+                "t": 1861.0,
+                "d": 553.0
+              },
+              {
+                "w": "tie",
+                "t": 2414.0,
+                "d": 169.0
+              },
+              {
+                "w": "to",
+                "t": 2584.0,
+                "d": 213.0
+              },
+              {
+                "w": "Calicut's",
+                "t": 2797.0,
+                "d": 510.0
+              },
+              {
+                "w": "trade",
+                "t": 3308.0,
+                "d": 553.0
+              },
+              {
+                "w": "Arab",
+                "t": 4457.0,
+                "d": 340.0
+              },
+              {
+                "w": "merchants",
+                "t": 4797.0,
+                "d": 553.0
+              },
+              {
+                "w": "trusted",
+                "t": 5351.0,
+                "d": 425.0
+              },
+              {
+                "w": "these",
+                "t": 5776.0,
+                "d": 297.0
+              },
+              {
+                "w": "yards",
+                "t": 6074.0,
+                "d": 510.0
+              },
+              {
+                "w": "ordering",
+                "t": 6797.0,
+                "d": 468.0
+              },
+              {
+                "w": "urus",
+                "t": 7265.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 7563.0,
+                "d": 170.0
+              },
+              {
+                "w": "sail",
+                "t": 7734.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 8031.0,
+                "d": 127.0
+              },
+              {
+                "w": "Hormuz",
+                "t": 8159.0,
+                "d": 424.0
+              },
+              {
+                "w": "Basra",
+                "t": 8839.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 9264.0,
+                "d": 638.0
+              },
+              {
+                "w": "later",
+                "t": 9903.0,
+                "d": 298.0
+              },
+              {
+                "w": "the",
+                "t": 10202.0,
+                "d": 126.0
+              },
+              {
+                "w": "Gulf",
+                "t": 10328.0,
+                "d": 341.0
+              },
+              {
+                "w": "ports",
+                "t": 10670.0,
+                "d": 552.0
+              },
+              {
+                "w": "carrying",
+                "t": 11392.0,
+                "d": 341.0
+              },
+              {
+                "w": "spices",
+                "t": 11734.0,
+                "d": 808.0
+              },
+              {
+                "w": "timber",
+                "t": 12627.0,
+                "d": 637.0
+              },
+              {
+                "w": "and",
+                "t": 13264.0,
+                "d": 341.0
+              },
+              {
+                "w": "people",
+                "t": 13606.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p11.png",
+      "shot": "low-angle shot of hull being launched, crowd straining on ropes as it slides to water",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Hold steady! Let her feel the water, not fear it.",
+            "hi": "थाम कर रखो! उसे पानी को महसूस करने दो, डरने मत दो।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p11_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hold",
+                "t": 52.6,
+                "d": 342.1
+              },
+              {
+                "w": "steady",
+                "t": 394.8,
+                "d": 460.5
+              },
+              {
+                "w": "Let",
+                "t": 1815.8,
+                "d": 263.2
+              },
+              {
+                "w": "her",
+                "t": 2079.0,
+                "d": 250.0
+              },
+              {
+                "w": "feel",
+                "t": 2329.0,
+                "d": 394.7
+              },
+              {
+                "w": "the",
+                "t": 2723.7,
+                "d": 131.6
+              },
+              {
+                "w": "water",
+                "t": 2855.2,
+                "d": 513.2
+              },
+              {
+                "w": "not",
+                "t": 3592.1,
+                "d": 328.9
+              },
+              {
+                "w": "fear",
+                "t": 3921.0,
+                "d": 394.8
+              },
+              {
+                "w": "it",
+                "t": 4315.8,
+                "d": 223.7
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/beypore_uru_builders_stitch_the_sea/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/beypore_uru_builders_stitch_the_sea/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With every heave, he wrestles earth and river together, driving the great uru toward its first taste of open water.",
+            "hi": "हर जोर से वो मिट्टी और नदी को जोड़ता, विशाल उरु को पहले खुले पानी की ओर धकेलता जाता है।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/action/action_auto2_en.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "every",
+                "t": 350.0,
+                "d": 480.0
+              },
+              {
+                "w": "heave",
+                "t": 830.0,
+                "d": 600.0
+              },
+              {
+                "w": "he",
+                "t": 1430.0,
+                "d": 240.0
+              },
+              {
+                "w": "wrestles",
+                "t": 1670.0,
+                "d": 480.0
+              },
+              {
+                "w": "earth",
+                "t": 2150.0,
+                "d": 400.0
+              },
+              {
+                "w": "and",
+                "t": 2590.0,
+                "d": 239.0
+              },
+              {
+                "w": "river",
+                "t": 2829.0,
+                "d": 241.0
+              },
+              {
+                "w": "together",
+                "t": 3070.0,
+                "d": 680.0
+              },
+              {
+                "w": "driving",
+                "t": 3989.0,
+                "d": 481.0
+              },
+              {
+                "w": "the",
+                "t": 4470.0,
+                "d": 120.0
+              },
+              {
+                "w": "great",
+                "t": 4590.0,
+                "d": 360.0
+              },
+              {
+                "w": "uru",
+                "t": 4990.0,
+                "d": 560.0
+              },
+              {
+                "w": "toward",
+                "t": 5670.0,
+                "d": 360.0
+              },
+              {
+                "w": "its",
+                "t": 6030.0,
+                "d": 200.0
+              },
+              {
+                "w": "first",
+                "t": 6230.0,
+                "d": 400.0
+              },
+              {
+                "w": "taste",
+                "t": 6630.0,
+                "d": 400.0
+              },
+              {
+                "w": "of",
+                "t": 7030.0,
+                "d": 200.0
+              },
+              {
+                "w": "open",
+                "t": 7230.0,
+                "d": 320.0
+              },
+              {
+                "w": "water",
+                "t": 7550.0,
+                "d": 599.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p12.png",
+      "shot": "wide shot of newly launched uru floating on river, shipwright’s reflection in water",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Launches tested years of judgment. If the hull sat wrong, it betrayed every choice of timber and curve. If it rode true, the river itself confirmed the master's stored calculations.",
+            "hi": "हर ज्योंत की पहली नाव-परीक्षा सालों की सोच की कसौटी थी। ज्योंत अगर गलत बैठती, तो हर लकड़ी, हर वक्र की चुगली कर देती। सही तैरती, तो नदी खुद उस्ताद की गिनी-चुनी गणना मान लेती।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p12_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Launches",
+                "t": 80.0,
+                "d": 689.0
+              },
+              {
+                "w": "tested",
+                "t": 770.0,
+                "d": 505.0
+              },
+              {
+                "w": "years",
+                "t": 1275.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 1643.0,
+                "d": 183.0
+              },
+              {
+                "w": "judgment",
+                "t": 1827.0,
+                "d": 872.0
+              },
+              {
+                "w": "If",
+                "t": 3114.0,
+                "d": 228.0
+              },
+              {
+                "w": "the",
+                "t": 3343.0,
+                "d": 185.0
+              },
+              {
+                "w": "hull",
+                "t": 3528.0,
+                "d": 229.0
+              },
+              {
+                "w": "sat",
+                "t": 3758.0,
+                "d": 275.0
+              },
+              {
+                "w": "wrong",
+                "t": 4034.0,
+                "d": 781.0
+              },
+              {
+                "w": "it",
+                "t": 4816.0,
+                "d": 275.0
+              },
+              {
+                "w": "betrayed",
+                "t": 5091.0,
+                "d": 551.0
+              },
+              {
+                "w": "every",
+                "t": 5643.0,
+                "d": 597.0
+              },
+              {
+                "w": "choice",
+                "t": 6241.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 6655.0,
+                "d": 229.0
+              },
+              {
+                "w": "timber",
+                "t": 6885.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 7436.0,
+                "d": 275.0
+              },
+              {
+                "w": "curve",
+                "t": 7712.0,
+                "d": 643.0
+              },
+              {
+                "w": "If",
+                "t": 9183.0,
+                "d": 228.0
+              },
+              {
+                "w": "it",
+                "t": 9412.0,
+                "d": 137.0
+              },
+              {
+                "w": "rode",
+                "t": 9550.0,
+                "d": 275.0
+              },
+              {
+                "w": "true",
+                "t": 9826.0,
+                "d": 597.0
+              },
+              {
+                "w": "the",
+                "t": 10700.0,
+                "d": 275.0
+              },
+              {
+                "w": "river",
+                "t": 10975.0,
+                "d": 414.0
+              },
+              {
+                "w": "itself",
+                "t": 11390.0,
+                "d": 550.0
+              },
+              {
+                "w": "confirmed",
+                "t": 11941.0,
+                "d": 736.0
+              },
+              {
+                "w": "the",
+                "t": 12678.0,
+                "d": 136.0
+              },
+              {
+                "w": "master's",
+                "t": 12814.0,
+                "d": 643.0
+              },
+              {
+                "w": "stored",
+                "t": 13458.0,
+                "d": 828.0
+              },
+              {
+                "w": "calculations",
+                "t": 14287.0,
+                "d": 1149.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p13.png",
+      "shot": "interior deck shot, shipwright teaching a young apprentice to knot coir and read grain",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Knowledge stayed alive by touch. Masters taught apprentices how wood should sound under a tap, how coir should feel when tight enough, how a hull should lean under a crosswind.",
+            "hi": "विद्या छूकर ज़िंदा रहती थी। उस्ताद शागिर्दों को सिखाते कि चोट पर लकड़ी कैसी आवाज़ दे, कसने पर कय्या कैसा हाथ में लगे, और आड़ी हवा पर ज्योंत कैसे झुके।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p13_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Knowledge",
+                "t": 74.0,
+                "d": 553.0
+              },
+              {
+                "w": "stayed",
+                "t": 627.0,
+                "d": 382.0
+              },
+              {
+                "w": "alive",
+                "t": 1010.0,
+                "d": 468.0
+              },
+              {
+                "w": "by",
+                "t": 1478.0,
+                "d": 170.0
+              },
+              {
+                "w": "touch",
+                "t": 1648.0,
+                "d": 1063.0
+              },
+              {
+                "w": "Masters",
+                "t": 2925.0,
+                "d": 722.0
+              },
+              {
+                "w": "taught",
+                "t": 3647.0,
+                "d": 256.0
+              },
+              {
+                "w": "apprentices",
+                "t": 3904.0,
+                "d": 1191.0
+              },
+              {
+                "w": "how",
+                "t": 5180.0,
+                "d": 297.0
+              },
+              {
+                "w": "wood",
+                "t": 5478.0,
+                "d": 255.0
+              },
+              {
+                "w": "should",
+                "t": 5734.0,
+                "d": 255.0
+              },
+              {
+                "w": "sound",
+                "t": 5989.0,
+                "d": 340.0
+              },
+              {
+                "w": "under",
+                "t": 6329.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 6712.0,
+                "d": 42.0
+              },
+              {
+                "w": "tap",
+                "t": 6755.0,
+                "d": 851.0
+              },
+              {
+                "w": "how",
+                "t": 7819.0,
+                "d": 382.0
+              },
+              {
+                "w": "coir",
+                "t": 8202.0,
+                "d": 381.0
+              },
+              {
+                "w": "should",
+                "t": 8584.0,
+                "d": 255.0
+              },
+              {
+                "w": "feel",
+                "t": 8839.0,
+                "d": 340.0
+              },
+              {
+                "w": "when",
+                "t": 9563.0,
+                "d": 339.0
+              },
+              {
+                "w": "tight",
+                "t": 9903.0,
+                "d": 255.0
+              },
+              {
+                "w": "enough",
+                "t": 10158.0,
+                "d": 638.0
+              },
+              {
+                "w": "how",
+                "t": 11222.0,
+                "d": 298.0
+              },
+              {
+                "w": "a",
+                "t": 11521.0,
+                "d": 85.0
+              },
+              {
+                "w": "hull",
+                "t": 11606.0,
+                "d": 212.0
+              },
+              {
+                "w": "should",
+                "t": 11819.0,
+                "d": 255.0
+              },
+              {
+                "w": "lean",
+                "t": 12074.0,
+                "d": 381.0
+              },
+              {
+                "w": "under",
+                "t": 12456.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 12839.0,
+                "d": 43.0
+              },
+              {
+                "w": "crosswind",
+                "t": 12882.0,
+                "d": 765.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p14.png",
+      "shot": "split-scene wide: one side shows older medieval yard, the other modern yard with power tools, same river",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Himanshu Prabha Ray and Kerala archaeologists trace this coast's long maritime life. Methods and markets changed, but Beypore stayed a place where timber met ocean routes and local skill met global demand.",
+            "hi": "हिमांशु प्रभा राय और केरल के पुरातत्ववेत्ता इस तट की लंबी समुद्री कहानी खोज रहे हैं। तरीक़े और बाज़ार बदले, पर बेपोर वही जगह रहा जहाँ लकड़ी समुद्री राहों से मिली और स्थानीय हुनर दुनिया की माँग से।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p14_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Himanshu",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "Prabha",
+                "t": 585.0,
+                "d": 680.0
+              },
+              {
+                "w": "Ray",
+                "t": 1351.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 1691.0,
+                "d": 297.0
+              },
+              {
+                "w": "Kerala",
+                "t": 1989.0,
+                "d": 297.0
+              },
+              {
+                "w": "archaeologists",
+                "t": 2329.0,
+                "d": 595.0
+              },
+              {
+                "w": "trace",
+                "t": 2925.0,
+                "d": 254.0
+              },
+              {
+                "w": "this",
+                "t": 3179.0,
+                "d": 256.0
+              },
+              {
+                "w": "coast's",
+                "t": 3436.0,
+                "d": 553.0
+              },
+              {
+                "w": "long",
+                "t": 4030.0,
+                "d": 469.0
+              },
+              {
+                "w": "maritime",
+                "t": 4500.0,
+                "d": 510.0
+              },
+              {
+                "w": "life",
+                "t": 5010.0,
+                "d": 808.0
+              },
+              {
+                "w": "Methods",
+                "t": 6287.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 6840.0,
+                "d": 127.0
+              },
+              {
+                "w": "markets",
+                "t": 6968.0,
+                "d": 510.0
+              },
+              {
+                "w": "changed",
+                "t": 7478.0,
+                "d": 808.0
+              },
+              {
+                "w": "but",
+                "t": 8329.0,
+                "d": 296.0
+              },
+              {
+                "w": "Beypore",
+                "t": 8626.0,
+                "d": 468.0
+              },
+              {
+                "w": "stayed",
+                "t": 9094.0,
+                "d": 341.0
+              },
+              {
+                "w": "a",
+                "t": 9436.0,
+                "d": 42.0
+              },
+              {
+                "w": "place",
+                "t": 9478.0,
+                "d": 382.0
+              },
+              {
+                "w": "where",
+                "t": 9861.0,
+                "d": 211.0
+              },
+              {
+                "w": "timber",
+                "t": 10073.0,
+                "d": 384.0
+              },
+              {
+                "w": "met",
+                "t": 10457.0,
+                "d": 254.0
+              },
+              {
+                "w": "ocean",
+                "t": 10755.0,
+                "d": 381.0
+              },
+              {
+                "w": "routes",
+                "t": 11137.0,
+                "d": 554.0
+              },
+              {
+                "w": "and",
+                "t": 11734.0,
+                "d": 340.0
+              },
+              {
+                "w": "local",
+                "t": 12074.0,
+                "d": 340.0
+              },
+              {
+                "w": "skill",
+                "t": 12414.0,
+                "d": 297.0
+              },
+              {
+                "w": "met",
+                "t": 12712.0,
+                "d": 255.0
+              },
+              {
+                "w": "global",
+                "t": 12968.0,
+                "d": 381.0
+              },
+              {
+                "w": "demand",
+                "t": 13350.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p15.png",
+      "shot": "wide shot of uru heading out to sea, shipwright watching from shore with apprentices",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "Our work will touch lands we will never see.",
+            "hi": "हमारा काम उन ज़मीनों को छुएगा जिन्हें हम कभी नहीं देखेंगे।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p15_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Our",
+                "t": 52.6,
+                "d": 210.5
+              },
+              {
+                "w": "work",
+                "t": 276.3,
+                "d": 434.2
+              },
+              {
+                "w": "will",
+                "t": 736.8,
+                "d": 315.8
+              },
+              {
+                "w": "touch",
+                "t": 1052.6,
+                "d": 329.0
+              },
+              {
+                "w": "lands",
+                "t": 1394.8,
+                "d": 486.8
+              },
+              {
+                "w": "we",
+                "t": 1947.4,
+                "d": 276.3
+              },
+              {
+                "w": "will",
+                "t": 2236.8,
+                "d": 276.3
+              },
+              {
+                "w": "never",
+                "t": 2513.2,
+                "d": 381.6
+              },
+              {
+                "w": "see",
+                "t": 2894.8,
+                "d": 342.1
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/beypore_uru_builders_stitch_the_sea/split_auto/s0.png",
+          "slogan": {
+            "en": "Our timbers, their endless horizons",
+            "hi": "हमारी लकड़ी, उनके असीम क्षितिज"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/beypore_uru_builders_stitch_the_sea/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/beypore_uru_builders_stitch_the_sea/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across centuries, his craft threads Malabar's shores to distant horizons, each uru a promise carried on Arabian winds.",
+            "hi": "सदियों से उसकी कलाकारी मलाबार की तटरेखा से दूर क्षितिज तक बुनी है, हर उरु अरबी हवाओं पर उड़ता वादा है।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/split/split_auto_en.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 72.0,
+                "d": 500.0
+              },
+              {
+                "w": "centuries",
+                "t": 572.0,
+                "d": 833.0
+              },
+              {
+                "w": "his",
+                "t": 1531.0,
+                "d": 250.0
+              },
+              {
+                "w": "craft",
+                "t": 1781.0,
+                "d": 416.0
+              },
+              {
+                "w": "threads",
+                "t": 2197.0,
+                "d": 541.0
+              },
+              {
+                "w": "Malabar's",
+                "t": 2781.0,
+                "d": 665.0
+              },
+              {
+                "w": "shores",
+                "t": 3446.0,
+                "d": 459.0
+              },
+              {
+                "w": "to",
+                "t": 3906.0,
+                "d": 207.0
+              },
+              {
+                "w": "distant",
+                "t": 4113.0,
+                "d": 459.0
+              },
+              {
+                "w": "horizons",
+                "t": 4572.0,
+                "d": 875.0
+              },
+              {
+                "w": "each",
+                "t": 5697.0,
+                "d": 333.0
+              },
+              {
+                "w": "uru",
+                "t": 6072.0,
+                "d": 375.0
+              },
+              {
+                "w": "a",
+                "t": 6447.0,
+                "d": 166.0
+              },
+              {
+                "w": "promise",
+                "t": 6614.0,
+                "d": 416.0
+              },
+              {
+                "w": "carried",
+                "t": 7031.0,
+                "d": 375.0
+              },
+              {
+                "w": "on",
+                "t": 7406.0,
+                "d": 250.0
+              },
+              {
+                "w": "Arabian",
+                "t": 7656.0,
+                "d": 458.0
+              },
+              {
+                "w": "winds",
+                "t": 8114.0,
+                "d": 623.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p16.png",
+      "shot": "close-up on the face of an elderly shipwright beside a younger one, river behind them",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Some compare these sewn hulls to far older ships of distant lands, but links are debated. What is certain is this: Beypore's urus endure because each generation makes the next a witness and a partner.",
+            "hi": "कुछ लोग इन सिले हुए ढाँचों को दूर देशों के प्राचीन जहाज़ों से जोड़ते हैं, पर रिश्तों पर मतभेद हैं। पक्की बात बस इतनी है — बेपोर के उरु इसलिए टिके रहे, क्योंकि हर नई पीढ़ी अगली को गवाह और साथी बनाती रही।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p16_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Some",
+                "t": 74.0,
+                "d": 425.0
+              },
+              {
+                "w": "compare",
+                "t": 500.0,
+                "d": 553.0
+              },
+              {
+                "w": "these",
+                "t": 1053.0,
+                "d": 425.0
+              },
+              {
+                "w": "sewn",
+                "t": 1521.0,
+                "d": 468.0
+              },
+              {
+                "w": "hulls",
+                "t": 1989.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 2372.0,
+                "d": 169.0
+              },
+              {
+                "w": "far",
+                "t": 2541.0,
+                "d": 425.0
+              },
+              {
+                "w": "older",
+                "t": 2967.0,
+                "d": 384.0
+              },
+              {
+                "w": "ships",
+                "t": 3351.0,
+                "d": 339.0
+              },
+              {
+                "w": "of",
+                "t": 3690.0,
+                "d": 171.0
+              },
+              {
+                "w": "distant",
+                "t": 3861.0,
+                "d": 381.0
+              },
+              {
+                "w": "lands",
+                "t": 4243.0,
+                "d": 639.0
+              },
+              {
+                "w": "but",
+                "t": 5436.0,
+                "d": 340.0
+              },
+              {
+                "w": "links",
+                "t": 5776.0,
+                "d": 340.0
+              },
+              {
+                "w": "are",
+                "t": 6117.0,
+                "d": 127.0
+              },
+              {
+                "w": "debated",
+                "t": 6244.0,
+                "d": 1276.0
+              },
+              {
+                "w": "What",
+                "t": 8031.0,
+                "d": 297.0
+              },
+              {
+                "w": "is",
+                "t": 8329.0,
+                "d": 170.0
+              },
+              {
+                "w": "certain",
+                "t": 8500.0,
+                "d": 509.0
+              },
+              {
+                "w": "is",
+                "t": 9053.0,
+                "d": 211.0
+              },
+              {
+                "w": "this",
+                "t": 9264.0,
+                "d": 767.0
+              },
+              {
+                "w": "Beypore's",
+                "t": 10414.0,
+                "d": 765.0
+              },
+              {
+                "w": "urus",
+                "t": 11180.0,
+                "d": 340.0
+              },
+              {
+                "w": "endure",
+                "t": 11521.0,
+                "d": 638.0
+              },
+              {
+                "w": "because",
+                "t": 12414.0,
+                "d": 468.0
+              },
+              {
+                "w": "each",
+                "t": 12882.0,
+                "d": 381.0
+              },
+              {
+                "w": "generation",
+                "t": 13264.0,
+                "d": 893.0
+              },
+              {
+                "w": "makes",
+                "t": 14202.0,
+                "d": 381.0
+              },
+              {
+                "w": "the",
+                "t": 14584.0,
+                "d": 128.0
+              },
+              {
+                "w": "next",
+                "t": 14712.0,
+                "d": 468.0
+              },
+              {
+                "w": "a",
+                "t": 15222.0,
+                "d": 170.0
+              },
+              {
+                "w": "witness",
+                "t": 15392.0,
+                "d": 767.0
+              },
+              {
+                "w": "and",
+                "t": 16201.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 16414.0,
+                "d": 126.0
+              },
+              {
+                "w": "partner",
+                "t": 16541.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/beypore_uru_builders_stitch_the_sea/img/p17.png",
+      "shot": "epic aerial over Beypore and sea lanes, faint silhouettes of urus across centuries",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Beypore shipwrights never wrote treatises, yet their hulls carried Malabar's power, trade and resistance. Their true invention was a living chain of minds where technology survived because hands kept teaching hands.",
+            "hi": "बेपोर के कारीगरों ने कभी किताबें नहीं लिखीं, पर उनकी ज्योंतों ने मालाबार की ताकत, व्यापार और बग़ावत ढोई। उनकी असली खोज एक ज़िंदा ज़ंजीर थी, जहाँ तकनीक बची, क्योंकि हाथ हमेशा हाथों को सिखाते रहे।"
+          },
+          "audio": {
+            "en": "assets/beypore_uru_builders_stitch_the_sea/audio/en/p17_0.mp3",
+            "hi": "assets/beypore_uru_builders_stitch_the_sea/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Beypore",
+                "t": 287.0,
+                "d": 425.0
+              },
+              {
+                "w": "shipwrights",
+                "t": 712.0,
+                "d": 638.0
+              },
+              {
+                "w": "never",
+                "t": 1351.0,
+                "d": 340.0
+              },
+              {
+                "w": "wrote",
+                "t": 1691.0,
+                "d": 297.0
+              },
+              {
+                "w": "treatises",
+                "t": 1989.0,
+                "d": 1062.0
+              },
+              {
+                "w": "yet",
+                "t": 3094.0,
+                "d": 341.0
+              },
+              {
+                "w": "their",
+                "t": 3436.0,
+                "d": 254.0
+              },
+              {
+                "w": "hulls",
+                "t": 3690.0,
+                "d": 382.0
+              },
+              {
+                "w": "carried",
+                "t": 4073.0,
+                "d": 384.0
+              },
+              {
+                "w": "Malabar's",
+                "t": 4457.0,
+                "d": 595.0
+              },
+              {
+                "w": "power",
+                "t": 5053.0,
+                "d": 723.0
+              },
+              {
+                "w": "trade",
+                "t": 5904.0,
+                "d": 255.0
+              },
+              {
+                "w": "and",
+                "t": 6159.0,
+                "d": 297.0
+              },
+              {
+                "w": "resistance",
+                "t": 6670.0,
+                "d": 936.0
+              },
+              {
+                "w": "Their",
+                "t": 8202.0,
+                "d": 297.0
+              },
+              {
+                "w": "true",
+                "t": 8500.0,
+                "d": 211.0
+              },
+              {
+                "w": "invention",
+                "t": 8711.0,
+                "d": 553.0
+              },
+              {
+                "w": "was",
+                "t": 9264.0,
+                "d": 171.0
+              },
+              {
+                "w": "a",
+                "t": 9436.0,
+                "d": 85.0
+              },
+              {
+                "w": "living",
+                "t": 9521.0,
+                "d": 381.0
+              },
+              {
+                "w": "chain",
+                "t": 9903.0,
+                "d": 213.0
+              },
+              {
+                "w": "of",
+                "t": 10117.0,
+                "d": 170.0
+              },
+              {
+                "w": "minds",
+                "t": 10287.0,
+                "d": 594.0
+              },
+              {
+                "w": "where",
+                "t": 11052.0,
+                "d": 255.0
+              },
+              {
+                "w": "technology",
+                "t": 11307.0,
+                "d": 723.0
+              },
+              {
+                "w": "survived",
+                "t": 12030.0,
+                "d": 852.0
+              },
+              {
+                "w": "because",
+                "t": 13053.0,
+                "d": 467.0
+              },
+              {
+                "w": "hands",
+                "t": 13520.0,
+                "d": 596.0
+              },
+              {
+                "w": "kept",
+                "t": 14117.0,
+                "d": 296.0
+              },
+              {
+                "w": "teaching",
+                "t": 14413.0,
+                "d": 341.0
+              },
+              {
+                "w": "hands",
+                "t": 14755.0,
+                "d": 722.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Beypore Shipwright",
+    "epithets": [
+      "Uru Makers of Beypore",
+      "Master Shipwrights of Malabar",
+      "Arabian Sea Boat Builders",
+      "Custodians of Coir and Timber Craft"
+    ],
+    "legend": "Their wooden urus carried Malabar’s memory across the Arabian Sea."
+  }
+}
