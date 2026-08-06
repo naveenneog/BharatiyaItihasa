@@ -1,0 +1,3622 @@
+{
+  "id": "calicut_calls_cairo",
+  "title": "Calicut Calls Cairo",
+  "title_i18n": {
+    "en": "Calicut Calls Cairo",
+    "hi": "कालीकट की पुकार काहिरा तक"
+  },
+  "figure": "Zamorin's Merchant Envoys",
+  "era": "Chaul and Diu, 1508-1509",
+  "moral": "Coalitions need shared tactics as much as shared fear.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/calicut_calls_cairo/intro/hero.png",
+      "name": "Zamorin’s Merchant Envoy of Calicut",
+      "epithets": [
+        "Pepper Port Envoys of Calicut",
+        "Merchants of the Zamorin",
+        "Diplomats of the Arabian Sea",
+        "Traders Against the Cross"
+      ],
+      "legend": "Merchant tongues tried to stop cannon mouths from ruling the seas.",
+      "era": "Chaul and Diu, 1508-1509",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "They carried pepper dreams, not guns, into courts from Cairo to Gujarat. If their words failed, the Portuguese cartaz would choke every Muslim ship on the Indian Ocean.",
+            "hi": "वे बंदूक नहीं, मिर्च के सपने लेकर काहिरा से गुजरात की अदालतों में पहुंचे। उनके शब्द चले नहीं तो पुर्तगाली करताज़ हर मुसलमान जहाज़ का गला हिंद महासागर में घोंट देता।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/intro/hero_en.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "They",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "carried",
+                "t": 364.0,
+                "d": 458.0
+              },
+              {
+                "w": "pepper",
+                "t": 822.0,
+                "d": 375.0
+              },
+              {
+                "w": "dreams",
+                "t": 1197.0,
+                "d": 708.0
+              },
+              {
+                "w": "not",
+                "t": 1947.0,
+                "d": 333.0
+              },
+              {
+                "w": "guns",
+                "t": 2281.0,
+                "d": 665.0
+              },
+              {
+                "w": "into",
+                "t": 3071.0,
+                "d": 416.0
+              },
+              {
+                "w": "courts",
+                "t": 3488.0,
+                "d": 376.0
+              },
+              {
+                "w": "from",
+                "t": 3864.0,
+                "d": 290.0
+              },
+              {
+                "w": "Cairo",
+                "t": 4155.0,
+                "d": 376.0
+              },
+              {
+                "w": "to",
+                "t": 4531.0,
+                "d": 166.0
+              },
+              {
+                "w": "Gujarat",
+                "t": 4697.0,
+                "d": 750.0
+              },
+              {
+                "w": "If",
+                "t": 5864.0,
+                "d": 291.0
+              },
+              {
+                "w": "their",
+                "t": 6156.0,
+                "d": 208.0
+              },
+              {
+                "w": "words",
+                "t": 6364.0,
+                "d": 375.0
+              },
+              {
+                "w": "failed",
+                "t": 6739.0,
+                "d": 750.0
+              },
+              {
+                "w": "the",
+                "t": 7572.0,
+                "d": 208.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 7781.0,
+                "d": 623.0
+              },
+              {
+                "w": "cartaz",
+                "t": 8405.0,
+                "d": 459.0
+              },
+              {
+                "w": "would",
+                "t": 8864.0,
+                "d": 250.0
+              },
+              {
+                "w": "choke",
+                "t": 9114.0,
+                "d": 332.0
+              },
+              {
+                "w": "every",
+                "t": 9489.0,
+                "d": 416.0
+              },
+              {
+                "w": "Muslim",
+                "t": 9906.0,
+                "d": 375.0
+              },
+              {
+                "w": "ship",
+                "t": 10281.0,
+                "d": 250.0
+              },
+              {
+                "w": "on",
+                "t": 10531.0,
+                "d": 123.0
+              },
+              {
+                "w": "the",
+                "t": 10655.0,
+                "d": 166.0
+              },
+              {
+                "w": "Indian",
+                "t": 10821.0,
+                "d": 958.0
+              },
+              {
+                "w": "Ocean",
+                "t": 11780.0,
+                "d": 0.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/calicut_calls_cairo/intro/map.png",
+      "x": 0.32,
+      "y": 0.55,
+      "label": "Calicut & Chaul–Diu, Malabar and Gujarat coasts",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Calicut's spice shore to Chaul and Diu's busy harbors, merchants race the monsoon to bind scattered ports into one bold stand.",
+            "hi": "कालीकट की मसालेदार तट से चाल, दीव के चहल-पहल भरे बंदरगाह तक, सौदागर तूफ़ानी बरसात से दौड़ लगाते हैं—छिटके हुए बंदरगाहों को एक साहसी मोर्चे में बाँधने को।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/intro/map_en.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "Calicut's",
+                "t": 448.0,
+                "d": 551.0
+              },
+              {
+                "w": "spice",
+                "t": 1000.0,
+                "d": 367.0
+              },
+              {
+                "w": "shore",
+                "t": 1367.0,
+                "d": 321.0
+              },
+              {
+                "w": "to",
+                "t": 1689.0,
+                "d": 137.0
+              },
+              {
+                "w": "Chaul",
+                "t": 1827.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 2425.0,
+                "d": 274.0
+              },
+              {
+                "w": "Diu's",
+                "t": 2700.0,
+                "d": 597.0
+              },
+              {
+                "w": "busy",
+                "t": 3297.0,
+                "d": 368.0
+              },
+              {
+                "w": "harbors",
+                "t": 3666.0,
+                "d": 826.0
+              },
+              {
+                "w": "merchants",
+                "t": 4770.0,
+                "d": 735.0
+              },
+              {
+                "w": "race",
+                "t": 5505.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 5827.0,
+                "d": 183.0
+              },
+              {
+                "w": "monsoon",
+                "t": 6011.0,
+                "d": 551.0
+              },
+              {
+                "w": "to",
+                "t": 6563.0,
+                "d": 183.0
+              },
+              {
+                "w": "bind",
+                "t": 6747.0,
+                "d": 321.0
+              },
+              {
+                "w": "scattered",
+                "t": 7068.0,
+                "d": 643.0
+              },
+              {
+                "w": "ports",
+                "t": 7712.0,
+                "d": 459.0
+              },
+              {
+                "w": "into",
+                "t": 8172.0,
+                "d": 275.0
+              },
+              {
+                "w": "one",
+                "t": 8448.0,
+                "d": 459.0
+              },
+              {
+                "w": "bold",
+                "t": 8908.0,
+                "d": 320.0
+              },
+              {
+                "w": "stand",
+                "t": 9228.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/calicut_calls_cairo/img/cover.png",
+      "shot": "sweeping wide shot from above a late 15th-century Calicut harbor at dusk",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In fifteen oh eight, as Portuguese cannon squeezed the pepper routes, the Zamorin's merchant envoys sailed from Calicut to Cairo and Gujarat, trying to rally a sea-wide coalition before the old world of trade collapsed.",
+            "hi": "१५०८ में, जब पुर्तगाली तोपें मिर्ची के रास्तों को कस रही थीं, ज़मोरिन के व्यापारी दूत कालीकट से काहिरा और गुजरात के लिए रवाना हुए, ताकि पुरानी व्यापार दुनिया ढहने से पहले समंदर भर की एकजुट ताक़त खड़ी की जा सके।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/cover_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "fifteen",
+                "t": 270.0,
+                "d": 440.0
+              },
+              {
+                "w": "oh",
+                "t": 710.0,
+                "d": 240.0
+              },
+              {
+                "w": "eight",
+                "t": 950.0,
+                "d": 520.0
+              },
+              {
+                "w": "as",
+                "t": 1510.0,
+                "d": 280.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 1790.0,
+                "d": 679.0
+              },
+              {
+                "w": "cannon",
+                "t": 2469.0,
+                "d": 360.0
+              },
+              {
+                "w": "squeezed",
+                "t": 2829.0,
+                "d": 401.0
+              },
+              {
+                "w": "the",
+                "t": 3230.0,
+                "d": 119.0
+              },
+              {
+                "w": "pepper",
+                "t": 3349.0,
+                "d": 321.0
+              },
+              {
+                "w": "routes",
+                "t": 3670.0,
+                "d": 560.0
+              },
+              {
+                "w": "the",
+                "t": 4310.0,
+                "d": 200.0
+              },
+              {
+                "w": "Zamorin's",
+                "t": 4510.0,
+                "d": 480.0
+              },
+              {
+                "w": "merchant",
+                "t": 4990.0,
+                "d": 480.0
+              },
+              {
+                "w": "envoys",
+                "t": 5470.0,
+                "d": 400.0
+              },
+              {
+                "w": "sailed",
+                "t": 5870.0,
+                "d": 360.0
+              },
+              {
+                "w": "from",
+                "t": 6230.0,
+                "d": 200.0
+              },
+              {
+                "w": "Calicut",
+                "t": 6430.0,
+                "d": 400.0
+              },
+              {
+                "w": "to",
+                "t": 6830.0,
+                "d": 160.0
+              },
+              {
+                "w": "Cairo",
+                "t": 6990.0,
+                "d": 280.0
+              },
+              {
+                "w": "and",
+                "t": 7270.0,
+                "d": 160.0
+              },
+              {
+                "w": "Gujarat",
+                "t": 7430.0,
+                "d": 679.0
+              },
+              {
+                "w": "trying",
+                "t": 8309.0,
+                "d": 281.0
+              },
+              {
+                "w": "to",
+                "t": 8590.0,
+                "d": 119.0
+              },
+              {
+                "w": "rally",
+                "t": 8709.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 9030.0,
+                "d": 80.0
+              },
+              {
+                "w": "sea-wide",
+                "t": 9110.0,
+                "d": 480.0
+              },
+              {
+                "w": "coalition",
+                "t": 9590.0,
+                "d": 559.0
+              },
+              {
+                "w": "before",
+                "t": 10149.0,
+                "d": 281.0
+              },
+              {
+                "w": "the",
+                "t": 10430.0,
+                "d": 160.0
+              },
+              {
+                "w": "old",
+                "t": 10590.0,
+                "d": 280.0
+              },
+              {
+                "w": "world",
+                "t": 10870.0,
+                "d": 359.0
+              },
+              {
+                "w": "of",
+                "t": 11229.0,
+                "d": 201.0
+              },
+              {
+                "w": "trade",
+                "t": 11430.0,
+                "d": 320.0
+              },
+              {
+                "w": "collapsed",
+                "t": 11750.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/calicut_calls_cairo/img/p01.png",
+      "shot": "slow push-in from the sea toward Calicut’s shoreline, early morning haze",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "For a century, Calicut lived by pepper. Arab, Persian and Gujarati merchants fed Red Sea and Mediterranean markets from this open roadstead on Malabar's shore.",
+            "hi": "एक सदी तक कालीकट मिर्च पर जीता रहा। अरब, फ़ारसी और गुजराती व्यापारी लाल सागर और भूमध्य सागर के बाज़ारों को मलाबार तट के इस खुले लंगरगाह से माल पहुँचाते थे।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p01_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "For",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 372.0,
+                "d": 42.0
+              },
+              {
+                "w": "century",
+                "t": 414.0,
+                "d": 808.0
+              },
+              {
+                "w": "Calicut",
+                "t": 1223.0,
+                "d": 595.0
+              },
+              {
+                "w": "lived",
+                "t": 1819.0,
+                "d": 339.0
+              },
+              {
+                "w": "by",
+                "t": 2158.0,
+                "d": 297.0
+              },
+              {
+                "w": "pepper",
+                "t": 2456.0,
+                "d": 767.0
+              },
+              {
+                "w": "Arab",
+                "t": 3478.0,
+                "d": 808.0
+              },
+              {
+                "w": "Persian",
+                "t": 4287.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 4840.0,
+                "d": 212.0
+              },
+              {
+                "w": "Gujarati",
+                "t": 5053.0,
+                "d": 553.0
+              },
+              {
+                "w": "merchants",
+                "t": 5606.0,
+                "d": 595.0
+              },
+              {
+                "w": "fed",
+                "t": 6202.0,
+                "d": 382.0
+              },
+              {
+                "w": "Red",
+                "t": 6585.0,
+                "d": 212.0
+              },
+              {
+                "w": "Sea",
+                "t": 6797.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 7351.0,
+                "d": 340.0
+              },
+              {
+                "w": "Mediterranean",
+                "t": 7691.0,
+                "d": 723.0
+              },
+              {
+                "w": "markets",
+                "t": 8414.0,
+                "d": 468.0
+              },
+              {
+                "w": "from",
+                "t": 8882.0,
+                "d": 255.0
+              },
+              {
+                "w": "this",
+                "t": 9138.0,
+                "d": 212.0
+              },
+              {
+                "w": "open",
+                "t": 9351.0,
+                "d": 381.0
+              },
+              {
+                "w": "roadstead",
+                "t": 9732.0,
+                "d": 554.0
+              },
+              {
+                "w": "on",
+                "t": 10287.0,
+                "d": 255.0
+              },
+              {
+                "w": "Malabar's",
+                "t": 10542.0,
+                "d": 509.0
+              },
+              {
+                "w": "shore",
+                "t": 11052.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/calicut_calls_cairo/img/p02.png",
+      "shot": "medium shot inside a wooden counting-house, low angle on hands weighing pepper",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Muslim merchant-brokers of Calicut balanced prices, credit and risk. Their fortunes, and the Zamorin's customs, ran along the Red Sea route to Cairo and beyond.",
+            "hi": "कालीकट के मुस्लिम दलाल-व्यापारी ही दाम, उधार और ख़तरा संभालते थे। उनकी दौलत—और ज़मोरिन की चुंगी—लाल सागर के रास्ते काहिरा और आगे तक बहती थी।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p02_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Muslim",
+                "t": 110.0,
+                "d": 480.0
+              },
+              {
+                "w": "merchant-brokers",
+                "t": 590.0,
+                "d": 880.0
+              },
+              {
+                "w": "of",
+                "t": 1470.0,
+                "d": 160.0
+              },
+              {
+                "w": "Calicut",
+                "t": 1630.0,
+                "d": 520.0
+              },
+              {
+                "w": "balanced",
+                "t": 2150.0,
+                "d": 400.0
+              },
+              {
+                "w": "prices",
+                "t": 2550.0,
+                "d": 759.0
+              },
+              {
+                "w": "credit",
+                "t": 3309.0,
+                "d": 560.0
+              },
+              {
+                "w": "and",
+                "t": 3869.0,
+                "d": 281.0
+              },
+              {
+                "w": "risk",
+                "t": 4150.0,
+                "d": 720.0
+              },
+              {
+                "w": "Their",
+                "t": 5110.0,
+                "d": 240.0
+              },
+              {
+                "w": "fortunes",
+                "t": 5350.0,
+                "d": 840.0
+              },
+              {
+                "w": "and",
+                "t": 6310.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 6510.0,
+                "d": 120.0
+              },
+              {
+                "w": "Zamorin's",
+                "t": 6630.0,
+                "d": 520.0
+              },
+              {
+                "w": "customs",
+                "t": 7150.0,
+                "d": 800.0
+              },
+              {
+                "w": "ran",
+                "t": 8149.0,
+                "d": 361.0
+              },
+              {
+                "w": "along",
+                "t": 8510.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 8830.0,
+                "d": 120.0
+              },
+              {
+                "w": "Red",
+                "t": 8950.0,
+                "d": 240.0
+              },
+              {
+                "w": "Sea",
+                "t": 9190.0,
+                "d": 240.0
+              },
+              {
+                "w": "route",
+                "t": 9430.0,
+                "d": 240.0
+              },
+              {
+                "w": "to",
+                "t": 9670.0,
+                "d": 160.0
+              },
+              {
+                "w": "Cairo",
+                "t": 9830.0,
+                "d": 399.0
+              },
+              {
+                "w": "and",
+                "t": 10229.0,
+                "d": 240.0
+              },
+              {
+                "w": "beyond",
+                "t": 10469.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/calicut_calls_cairo/img/p03.png",
+      "shot": "sweeping wide shot offshore, contrasting fleets",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Then, from fourteen ninety-eight onward, Portuguese caravels appeared, armed, armoured and ordered by Lisbon to pull pepper away from the Red Sea and drive it round the Cape.",
+            "hi": "फिर १४९८ से, पुर्तगाली करावेल दिखाई देने लगे—हथियारबंद, लोहे में ढले, और लिस्बन से हुक्म लिए कि मिर्च को लाल सागर से खींचकर केप के चक्कर से घुमाओ।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p03_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Then",
+                "t": 80.0,
+                "d": 781.0
+              },
+              {
+                "w": "from",
+                "t": 862.0,
+                "d": 367.0
+              },
+              {
+                "w": "fourteen",
+                "t": 1229.0,
+                "d": 505.0
+              },
+              {
+                "w": "ninety-eight",
+                "t": 1735.0,
+                "d": 781.0
+              },
+              {
+                "w": "onward",
+                "t": 2517.0,
+                "d": 1057.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 3666.0,
+                "d": 826.0
+              },
+              {
+                "w": "caravels",
+                "t": 4493.0,
+                "d": 644.0
+              },
+              {
+                "w": "appeared",
+                "t": 5137.0,
+                "d": 1103.0
+              },
+              {
+                "w": "armed",
+                "t": 6287.0,
+                "d": 827.0
+              },
+              {
+                "w": "armoured",
+                "t": 7160.0,
+                "d": 781.0
+              },
+              {
+                "w": "and",
+                "t": 7988.0,
+                "d": 367.0
+              },
+              {
+                "w": "ordered",
+                "t": 8356.0,
+                "d": 505.0
+              },
+              {
+                "w": "by",
+                "t": 8862.0,
+                "d": 229.0
+              },
+              {
+                "w": "Lisbon",
+                "t": 9091.0,
+                "d": 781.0
+              },
+              {
+                "w": "to",
+                "t": 10010.0,
+                "d": 231.0
+              },
+              {
+                "w": "pull",
+                "t": 10241.0,
+                "d": 229.0
+              },
+              {
+                "w": "pepper",
+                "t": 10471.0,
+                "d": 459.0
+              },
+              {
+                "w": "away",
+                "t": 10931.0,
+                "d": 321.0
+              },
+              {
+                "w": "from",
+                "t": 11252.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 11482.0,
+                "d": 182.0
+              },
+              {
+                "w": "Red",
+                "t": 11665.0,
+                "d": 231.0
+              },
+              {
+                "w": "Sea",
+                "t": 11896.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 12494.0,
+                "d": 367.0
+              },
+              {
+                "w": "drive",
+                "t": 12862.0,
+                "d": 412.0
+              },
+              {
+                "w": "it",
+                "t": 13274.0,
+                "d": 139.0
+              },
+              {
+                "w": "round",
+                "t": 13413.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 13689.0,
+                "d": 137.0
+              },
+              {
+                "w": "Cape",
+                "t": 13827.0,
+                "d": 688.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/calicut_calls_cairo/img/p04.png",
+      "shot": "dramatic close-up through a cabin window, cannons dominating the frame",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "They imposed the cartaz, a pass system backed by interception and blockade. Ships bound for the Red Sea now faced inspection, seizure or destruction at sea.",
+            "hi": "उन्होंने ‘कार्ताज़’ थोप दिया—पास-पर्मिट, जिसे पकड़-धकड़ और नाकेबंदी ने और सख़्त बनाया। अब लाल सागर की ओर जाने वाले जहाज़ों पर तलाशी, ज़ब्ती या समंदर में तबाही मंडराती थी।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p04_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "They",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "imposed",
+                "t": 350.0,
+                "d": 360.0
+              },
+              {
+                "w": "the",
+                "t": 710.0,
+                "d": 120.0
+              },
+              {
+                "w": "cartaz",
+                "t": 830.0,
+                "d": 520.0
+              },
+              {
+                "w": "a",
+                "t": 1350.0,
+                "d": 40.0
+              },
+              {
+                "w": "pass",
+                "t": 1390.0,
+                "d": 160.0
+              },
+              {
+                "w": "system",
+                "t": 1990.0,
+                "d": 640.0
+              },
+              {
+                "w": "backed",
+                "t": 2630.0,
+                "d": 359.0
+              },
+              {
+                "w": "by",
+                "t": 2989.0,
+                "d": 161.0
+              },
+              {
+                "w": "interception",
+                "t": 3150.0,
+                "d": 799.0
+              },
+              {
+                "w": "and",
+                "t": 3949.0,
+                "d": 241.0
+              },
+              {
+                "w": "blockade",
+                "t": 4190.0,
+                "d": 800.0
+              },
+              {
+                "w": "Ships",
+                "t": 5230.0,
+                "d": 480.0
+              },
+              {
+                "w": "bound",
+                "t": 5710.0,
+                "d": 280.0
+              },
+              {
+                "w": "for",
+                "t": 5990.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 6150.0,
+                "d": 120.0
+              },
+              {
+                "w": "Red",
+                "t": 6270.0,
+                "d": 240.0
+              },
+              {
+                "w": "Sea",
+                "t": 6510.0,
+                "d": 320.0
+              },
+              {
+                "w": "now",
+                "t": 7230.0,
+                "d": 360.0
+              },
+              {
+                "w": "faced",
+                "t": 7590.0,
+                "d": 320.0
+              },
+              {
+                "w": "inspection",
+                "t": 7910.0,
+                "d": 920.0
+              },
+              {
+                "w": "seizure",
+                "t": 8870.0,
+                "d": 679.0
+              },
+              {
+                "w": "or",
+                "t": 9590.0,
+                "d": 119.0
+              },
+              {
+                "w": "destruction",
+                "t": 9709.0,
+                "d": 600.0
+              },
+              {
+                "w": "at",
+                "t": 10309.0,
+                "d": 240.0
+              },
+              {
+                "w": "sea",
+                "t": 10549.0,
+                "d": 321.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/calicut_calls_cairo/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/calicut_calls_cairo/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He measures Portuguese cannon thunder against Malabar courage, plotting new sea-roads in the fading light.",
+            "hi": "ढलती रौशनी में वो पुर्तगाली तोपों की गरज को मलबार की हिम्मत से तोलता, समंदर में नए रास्ते रचता है।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/action/action_auto_en.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "measures",
+                "t": 356.0,
+                "d": 551.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 908.0,
+                "d": 781.0
+              },
+              {
+                "w": "cannon",
+                "t": 1689.0,
+                "d": 413.0
+              },
+              {
+                "w": "thunder",
+                "t": 2103.0,
+                "d": 505.0
+              },
+              {
+                "w": "against",
+                "t": 2609.0,
+                "d": 505.0
+              },
+              {
+                "w": "Malabar",
+                "t": 3114.0,
+                "d": 597.0
+              },
+              {
+                "w": "courage",
+                "t": 3712.0,
+                "d": 872.0
+              },
+              {
+                "w": "plotting",
+                "t": 4770.0,
+                "d": 459.0
+              },
+              {
+                "w": "new",
+                "t": 5229.0,
+                "d": 183.0
+              },
+              {
+                "w": "sea-roads",
+                "t": 5413.0,
+                "d": 505.0
+              },
+              {
+                "w": "in",
+                "t": 5919.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 6057.0,
+                "d": 137.0
+              },
+              {
+                "w": "fading",
+                "t": 6195.0,
+                "d": 459.0
+              },
+              {
+                "w": "light",
+                "t": 6655.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/calicut_calls_cairo/img/p05.png",
+      "shot": "medium shot inside the Zamorin’s audience hall, side view",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "William Logan notes that as customs fell and Muslim brokers lost ships and clients, the Zamorin's court turned westward, seeking allies beyond India's shores.",
+            "hi": "विलियम लॉगन लिखते हैं कि जैसे-जैसे चुंगी गिरी और मुस्लिम दलालों ने जहाज़ और ग्राहक खोए, ज़मोरिन का दरबार नज़र पश्चिम पर टिकाने लगा, हिंद की सरहद से बाहर साथी ढूँढते हुए।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p05_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "William",
+                "t": 80.0,
+                "d": 551.0
+              },
+              {
+                "w": "Logan",
+                "t": 632.0,
+                "d": 367.0
+              },
+              {
+                "w": "notes",
+                "t": 1000.0,
+                "d": 459.0
+              },
+              {
+                "w": "that",
+                "t": 1459.0,
+                "d": 367.0
+              },
+              {
+                "w": "as",
+                "t": 1919.0,
+                "d": 321.0
+              },
+              {
+                "w": "customs",
+                "t": 2241.0,
+                "d": 550.0
+              },
+              {
+                "w": "fell",
+                "t": 2791.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 3205.0,
+                "d": 229.0
+              },
+              {
+                "w": "Muslim",
+                "t": 3435.0,
+                "d": 413.0
+              },
+              {
+                "w": "brokers",
+                "t": 3849.0,
+                "d": 551.0
+              },
+              {
+                "w": "lost",
+                "t": 4401.0,
+                "d": 414.0
+              },
+              {
+                "w": "ships",
+                "t": 4816.0,
+                "d": 321.0
+              },
+              {
+                "w": "and",
+                "t": 5137.0,
+                "d": 183.0
+              },
+              {
+                "w": "clients",
+                "t": 5321.0,
+                "d": 735.0
+              },
+              {
+                "w": "the",
+                "t": 6379.0,
+                "d": 275.0
+              },
+              {
+                "w": "Zamorin's",
+                "t": 6655.0,
+                "d": 643.0
+              },
+              {
+                "w": "court",
+                "t": 7298.0,
+                "d": 367.0
+              },
+              {
+                "w": "turned",
+                "t": 7666.0,
+                "d": 275.0
+              },
+              {
+                "w": "westward",
+                "t": 7942.0,
+                "d": 965.0
+              },
+              {
+                "w": "seeking",
+                "t": 8954.0,
+                "d": 596.0
+              },
+              {
+                "w": "allies",
+                "t": 9550.0,
+                "d": 552.0
+              },
+              {
+                "w": "beyond",
+                "t": 10103.0,
+                "d": 412.0
+              },
+              {
+                "w": "India's",
+                "t": 10563.0,
+                "d": 459.0
+              },
+              {
+                "w": "shores",
+                "t": 11022.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/calicut_calls_cairo/img/p06.png",
+      "shot": "low-angle close-up on envoy’s determined face",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "We must reach Cairo and Gujarat before the sea belongs to them alone.",
+            "hi": "हमें काहिरा और गुजरात तक उनसे पहले पहुँचना होगा, वरना समंदर सिर्फ़ उनका रह जाएगा।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p06_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 49.0,
+                "d": 134.8
+              },
+              {
+                "w": "must",
+                "t": 232.8,
+                "d": 330.9
+              },
+              {
+                "w": "reach",
+                "t": 625.0,
+                "d": 355.4
+              },
+              {
+                "w": "Cairo",
+                "t": 980.4,
+                "d": 453.4
+              },
+              {
+                "w": "and",
+                "t": 1507.3,
+                "d": 257.3
+              },
+              {
+                "w": "Gujarat",
+                "t": 1764.7,
+                "d": 527.0
+              },
+              {
+                "w": "before",
+                "t": 2328.4,
+                "d": 441.2
+              },
+              {
+                "w": "the",
+                "t": 2769.6,
+                "d": 134.8
+              },
+              {
+                "w": "sea",
+                "t": 2904.4,
+                "d": 257.3
+              },
+              {
+                "w": "belongs",
+                "t": 3161.8,
+                "d": 502.5
+              },
+              {
+                "w": "to",
+                "t": 3676.5,
+                "d": 110.3
+              },
+              {
+                "w": "them",
+                "t": 3786.8,
+                "d": 281.9
+              },
+              {
+                "w": "alone",
+                "t": 4093.1,
+                "d": 502.5
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/calicut_calls_cairo/img/p07.png",
+      "shot": "wide shot of Calicut harbor at sunset, fleet preparing",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Calicut's envoys, drawn from its merchant elite, readied vessels for the Arabian Sea. Their mission: warn Cairo, rally Diu, and hold open the Red Sea pepper road.",
+            "hi": "कालीकट के दूत, उसके नामी व्यापारी घरानों से चुने गए, अरबी सागर के लिए जहाज़ तैयार करने लगे। उनका मिशन: काहिरा को चेतावनी, दीव को जगाना, और लाल सागर की मिर्च राह खुली रखना।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p07_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Calicut's",
+                "t": 80.0,
+                "d": 643.0
+              },
+              {
+                "w": "envoys",
+                "t": 724.0,
+                "d": 689.0
+              },
+              {
+                "w": "drawn",
+                "t": 1505.0,
+                "d": 551.0
+              },
+              {
+                "w": "from",
+                "t": 2057.0,
+                "d": 229.0
+              },
+              {
+                "w": "its",
+                "t": 2287.0,
+                "d": 183.0
+              },
+              {
+                "w": "merchant",
+                "t": 2471.0,
+                "d": 597.0
+              },
+              {
+                "w": "elite",
+                "t": 3068.0,
+                "d": 689.0
+              },
+              {
+                "w": "readied",
+                "t": 3895.0,
+                "d": 505.0
+              },
+              {
+                "w": "vessels",
+                "t": 4401.0,
+                "d": 506.0
+              },
+              {
+                "w": "for",
+                "t": 4908.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 5091.0,
+                "d": 183.0
+              },
+              {
+                "w": "Arabian",
+                "t": 5275.0,
+                "d": 459.0
+              },
+              {
+                "w": "Sea",
+                "t": 5735.0,
+                "d": 367.0
+              },
+              {
+                "w": "Their",
+                "t": 7068.0,
+                "d": 367.0
+              },
+              {
+                "w": "mission",
+                "t": 7436.0,
+                "d": 1011.0
+              },
+              {
+                "w": "warn",
+                "t": 8448.0,
+                "d": 459.0
+              },
+              {
+                "w": "Cairo",
+                "t": 8908.0,
+                "d": 642.0
+              },
+              {
+                "w": "rally",
+                "t": 9642.0,
+                "d": 506.0
+              },
+              {
+                "w": "Diu",
+                "t": 10149.0,
+                "d": 734.0
+              },
+              {
+                "w": "and",
+                "t": 10883.0,
+                "d": 322.0
+              },
+              {
+                "w": "hold",
+                "t": 11206.0,
+                "d": 366.0
+              },
+              {
+                "w": "open",
+                "t": 11573.0,
+                "d": 414.0
+              },
+              {
+                "w": "the",
+                "t": 11988.0,
+                "d": 136.0
+              },
+              {
+                "w": "Red",
+                "t": 12125.0,
+                "d": 322.0
+              },
+              {
+                "w": "Sea",
+                "t": 12448.0,
+                "d": 229.0
+              },
+              {
+                "w": "pepper",
+                "t": 12678.0,
+                "d": 459.0
+              },
+              {
+                "w": "road",
+                "t": 13137.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/calicut_calls_cairo/img/p08.png",
+      "shot": "bird’s-eye view over a convoy crossing the Arabian Sea",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across the Arabian Sea they sailed along old monsoon tracks, now shadowed by Portuguese patrols, as news of cartaz searches spread from port to port.",
+            "hi": "अरबी सागर पार करते वे पुराने मानसून रास्तों पर चले—अब पुर्तगाली पहरे की परछाईं में—जैसे कार्ताज़ तलाशी की ख़बर बंदरगाह-दर-बंदरगाह फैलती गई।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p08_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 80.0,
+                "d": 505.0
+              },
+              {
+                "w": "the",
+                "t": 586.0,
+                "d": 137.0
+              },
+              {
+                "w": "Arabian",
+                "t": 724.0,
+                "d": 505.0
+              },
+              {
+                "w": "Sea",
+                "t": 1229.0,
+                "d": 183.0
+              },
+              {
+                "w": "they",
+                "t": 1413.0,
+                "d": 413.0
+              },
+              {
+                "w": "sailed",
+                "t": 1965.0,
+                "d": 366.0
+              },
+              {
+                "w": "along",
+                "t": 2332.0,
+                "d": 598.0
+              },
+              {
+                "w": "old",
+                "t": 2931.0,
+                "d": 229.0
+              },
+              {
+                "w": "monsoon",
+                "t": 3160.0,
+                "d": 413.0
+              },
+              {
+                "w": "tracks",
+                "t": 3574.0,
+                "d": 689.0
+              },
+              {
+                "w": "now",
+                "t": 4678.0,
+                "d": 321.0
+              },
+              {
+                "w": "shadowed",
+                "t": 5000.0,
+                "d": 505.0
+              },
+              {
+                "w": "by",
+                "t": 5505.0,
+                "d": 183.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 5689.0,
+                "d": 597.0
+              },
+              {
+                "w": "patrols",
+                "t": 6287.0,
+                "d": 827.0
+              },
+              {
+                "w": "as",
+                "t": 7298.0,
+                "d": 275.0
+              },
+              {
+                "w": "news",
+                "t": 7574.0,
+                "d": 275.0
+              },
+              {
+                "w": "of",
+                "t": 7850.0,
+                "d": 183.0
+              },
+              {
+                "w": "cartaz",
+                "t": 8034.0,
+                "d": 459.0
+              },
+              {
+                "w": "searches",
+                "t": 8494.0,
+                "d": 597.0
+              },
+              {
+                "w": "spread",
+                "t": 9091.0,
+                "d": 458.0
+              },
+              {
+                "w": "from",
+                "t": 9550.0,
+                "d": 322.0
+              },
+              {
+                "w": "port",
+                "t": 9873.0,
+                "d": 321.0
+              },
+              {
+                "w": "to",
+                "t": 10195.0,
+                "d": 228.0
+              },
+              {
+                "w": "port",
+                "t": 10424.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/calicut_calls_cairo/img/p09.png",
+      "shot": "epic wide shot of Cairo’s harbor on the Nile, bustling with craft",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Barros and Castanheda place Calicut in a wider alarm. In Cairo, Qansuh al-Ghawri's Mamluk regime feared for customs that funded its armies and authority.",
+            "hi": "बाररोस और काश्तन्हेदा कालीकट को एक बड़े ख़तरे के घेरे में दिखाते हैं। काहिरा में क़ानसूह अल-ग़ौरी की ममलूक सल्तनत उन चुंगियों के लिए काँप रही थी, जिनसे उसकी फ़ौज और हुकूमत चलती थी।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p09_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Barros",
+                "t": 80.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 632.0,
+                "d": 183.0
+              },
+              {
+                "w": "Castanheda place",
+                "t": 816.0,
+                "d": 1194.0
+              },
+              {
+                "w": "Calicut",
+                "t": 2011.0,
+                "d": 688.0
+              },
+              {
+                "w": "in",
+                "t": 2700.0,
+                "d": 137.0
+              },
+              {
+                "w": "a",
+                "t": 2837.0,
+                "d": 93.0
+              },
+              {
+                "w": "wider",
+                "t": 2931.0,
+                "d": 551.0
+              },
+              {
+                "w": "alarm",
+                "t": 3482.0,
+                "d": 964.0
+              },
+              {
+                "w": "In",
+                "t": 4493.0,
+                "d": 277.0
+              },
+              {
+                "w": "Cairo",
+                "t": 4770.0,
+                "d": 597.0
+              },
+              {
+                "w": "Qansuh",
+                "t": 5643.0,
+                "d": 459.0
+              },
+              {
+                "w": "al-Ghawri's",
+                "t": 6103.0,
+                "d": 781.0
+              },
+              {
+                "w": "Mamluk",
+                "t": 6885.0,
+                "d": 505.0
+              },
+              {
+                "w": "regime",
+                "t": 7390.0,
+                "d": 551.0
+              },
+              {
+                "w": "feared",
+                "t": 7942.0,
+                "d": 459.0
+              },
+              {
+                "w": "for",
+                "t": 8402.0,
+                "d": 183.0
+              },
+              {
+                "w": "customs",
+                "t": 8586.0,
+                "d": 642.0
+              },
+              {
+                "w": "that",
+                "t": 9228.0,
+                "d": 277.0
+              },
+              {
+                "w": "funded",
+                "t": 9505.0,
+                "d": 551.0
+              },
+              {
+                "w": "its",
+                "t": 10057.0,
+                "d": 321.0
+              },
+              {
+                "w": "armies",
+                "t": 10379.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 10931.0,
+                "d": 228.0
+              },
+              {
+                "w": "authority",
+                "t": 11159.0,
+                "d": 736.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/calicut_calls_cairo/img/p10.png",
+      "shot": "intimate interior shot in a Mamluk council chamber",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Calicut's envoys described seized ships and diverted cargoes. Islamic idioms framed their plea, but the core was revenue, sea-lanes and survival of old trading cities.",
+            "hi": "कालीकट के दूतों ने ज़ब्त किए जहाज़ों और मोड़ दिए माल की बातें रखीं। उनकी गुहार इस्लामी ज़ुबान में थी, पर असली मुद्दा था चुंगी, समंदर के रास्ते और पुरानी कारोबारी शहरों की जान बचाना।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p10_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Calicut's",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "envoys",
+                "t": 670.0,
+                "d": 510.0
+              },
+              {
+                "w": "described",
+                "t": 1180.0,
+                "d": 595.0
+              },
+              {
+                "w": "seized",
+                "t": 1776.0,
+                "d": 468.0
+              },
+              {
+                "w": "ships",
+                "t": 2244.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 2755.0,
+                "d": 211.0
+              },
+              {
+                "w": "diverted",
+                "t": 2967.0,
+                "d": 595.0
+              },
+              {
+                "w": "cargoes",
+                "t": 3562.0,
+                "d": 767.0
+              },
+              {
+                "w": "Islamic",
+                "t": 4840.0,
+                "d": 723.0
+              },
+              {
+                "w": "idioms",
+                "t": 5563.0,
+                "d": 468.0
+              },
+              {
+                "w": "framed",
+                "t": 6031.0,
+                "d": 297.0
+              },
+              {
+                "w": "their",
+                "t": 6329.0,
+                "d": 255.0
+              },
+              {
+                "w": "plea",
+                "t": 6585.0,
+                "d": 255.0
+              },
+              {
+                "w": "but",
+                "t": 7351.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 7606.0,
+                "d": 170.0
+              },
+              {
+                "w": "core",
+                "t": 7776.0,
+                "d": 382.0
+              },
+              {
+                "w": "was",
+                "t": 8159.0,
+                "d": 297.0
+              },
+              {
+                "w": "revenue",
+                "t": 8457.0,
+                "d": 807.0
+              },
+              {
+                "w": "sea-lanes",
+                "t": 9308.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 10031.0,
+                "d": 296.0
+              },
+              {
+                "w": "survival",
+                "t": 10328.0,
+                "d": 638.0
+              },
+              {
+                "w": "of",
+                "t": 10967.0,
+                "d": 298.0
+              },
+              {
+                "w": "old",
+                "t": 11265.0,
+                "d": 297.0
+              },
+              {
+                "w": "trading",
+                "t": 11563.0,
+                "d": 425.0
+              },
+              {
+                "w": "cities",
+                "t": 11989.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/calicut_calls_cairo/img/p11.png",
+      "shot": "medium shot, over-the-shoulder from a Venetian factor listening",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Modern scholars like Casale and Pearson show that Venetian interests overlapped with Cairo's. If Portuguese captured the spice flow, Venice's own markets would wither.",
+            "hi": "आधुनिक विद्वान कसाले और पियरसन दिखाते हैं कि वेनिस के हित काहिरा से टकरा नहीं, बल्कि मिलते थे। अगर पुर्तगाली मसाले की धार पकड़ लेते, तो वेनिस के बाज़ार ख़ुद सूख जाते।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p11_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Modern",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "scholars",
+                "t": 542.0,
+                "d": 468.0
+              },
+              {
+                "w": "like",
+                "t": 1010.0,
+                "d": 212.0
+              },
+              {
+                "w": "Casale",
+                "t": 1223.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 1734.0,
+                "d": 297.0
+              },
+              {
+                "w": "Pearson",
+                "t": 2031.0,
+                "d": 509.0
+              },
+              {
+                "w": "show",
+                "t": 2541.0,
+                "d": 384.0
+              },
+              {
+                "w": "that",
+                "t": 2925.0,
+                "d": 340.0
+              },
+              {
+                "w": "Venetian",
+                "t": 3265.0,
+                "d": 595.0
+              },
+              {
+                "w": "interests",
+                "t": 3861.0,
+                "d": 638.0
+              },
+              {
+                "w": "overlapped",
+                "t": 4500.0,
+                "d": 595.0
+              },
+              {
+                "w": "with",
+                "t": 5095.0,
+                "d": 212.0
+              },
+              {
+                "w": "Cairo's",
+                "t": 5308.0,
+                "d": 723.0
+              },
+              {
+                "w": "If",
+                "t": 6414.0,
+                "d": 297.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 6712.0,
+                "d": 595.0
+              },
+              {
+                "w": "captured",
+                "t": 7308.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 7776.0,
+                "d": 127.0
+              },
+              {
+                "w": "spice",
+                "t": 7904.0,
+                "d": 425.0
+              },
+              {
+                "w": "flow",
+                "t": 8329.0,
+                "d": 594.0
+              },
+              {
+                "w": "Venice's",
+                "t": 8968.0,
+                "d": 679.0
+              },
+              {
+                "w": "own",
+                "t": 9647.0,
+                "d": 298.0
+              },
+              {
+                "w": "markets",
+                "t": 9946.0,
+                "d": 468.0
+              },
+              {
+                "w": "would",
+                "t": 10414.0,
+                "d": 255.0
+              },
+              {
+                "w": "wither",
+                "t": 10670.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/calicut_calls_cairo/img/p12.png",
+      "shot": "wide shot of a Mamluk naval yard at Suez or the Red Sea coast",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "These talks helped spur a rare Mamluk naval effort. Warships for the Indian Ocean were ordered, funded by threatened customs, and aimed toward India's western shores.",
+            "hi": "इन बातों ने एक विरले ममलूक समुद्री अभियान को हवा दी। हिंद महासागर के लिए जंगी जहाज़ों का हुक्म हुआ, ख़तरे में पड़ी चुंगी से उन्हें पैसा मिला, और निशाना बना हिंद की पश्चिमी टट।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p12_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "These",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "talks",
+                "t": 457.0,
+                "d": 382.0
+              },
+              {
+                "w": "helped",
+                "t": 840.0,
+                "d": 510.0
+              },
+              {
+                "w": "spur",
+                "t": 1351.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 1563.0,
+                "d": 85.0
+              },
+              {
+                "w": "rare",
+                "t": 1648.0,
+                "d": 425.0
+              },
+              {
+                "w": "Mamluk",
+                "t": 2074.0,
+                "d": 638.0
+              },
+              {
+                "w": "naval",
+                "t": 2755.0,
+                "d": 339.0
+              },
+              {
+                "w": "effort",
+                "t": 3094.0,
+                "d": 553.0
+              },
+              {
+                "w": "Warships",
+                "t": 4158.0,
+                "d": 681.0
+              },
+              {
+                "w": "for",
+                "t": 4840.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 4968.0,
+                "d": 170.0
+              },
+              {
+                "w": "Indian",
+                "t": 5138.0,
+                "d": 382.0
+              },
+              {
+                "w": "Ocean",
+                "t": 5521.0,
+                "d": 425.0
+              },
+              {
+                "w": "were",
+                "t": 5946.0,
+                "d": 212.0
+              },
+              {
+                "w": "ordered",
+                "t": 6159.0,
+                "d": 638.0
+              },
+              {
+                "w": "funded",
+                "t": 6840.0,
+                "d": 510.0
+              },
+              {
+                "w": "by",
+                "t": 7351.0,
+                "d": 212.0
+              },
+              {
+                "w": "threatened",
+                "t": 7563.0,
+                "d": 468.0
+              },
+              {
+                "w": "customs",
+                "t": 8031.0,
+                "d": 807.0
+              },
+              {
+                "w": "and",
+                "t": 8839.0,
+                "d": 384.0
+              },
+              {
+                "w": "aimed",
+                "t": 9264.0,
+                "d": 298.0
+              },
+              {
+                "w": "toward",
+                "t": 9563.0,
+                "d": 382.0
+              },
+              {
+                "w": "India's",
+                "t": 9946.0,
+                "d": 510.0
+              },
+              {
+                "w": "western",
+                "t": 10457.0,
+                "d": 424.0
+              },
+              {
+                "w": "shores",
+                "t": 10881.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/calicut_calls_cairo/img/p13.png",
+      "shot": "transition shot showing map dissolving into scenes of Diu’s harbor",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Farther east, the Sultanate of Gujarat watched uneasily. Diu was its key port, and Portuguese demands and raids threatened its maritime security and revenues.",
+            "hi": "और पूरब में, गुजरात सल्तनत बेचैन नज़र से देख रही थी। दीव उसका अहम बंदरगाह था, और पुर्तगाली माँगें व हमले उसकी समुद्री सलामती और आमदनी को डगमगा रहे थे।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p13_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Farther",
+                "t": 80.0,
+                "d": 505.0
+              },
+              {
+                "w": "east",
+                "t": 586.0,
+                "d": 735.0
+              },
+              {
+                "w": "the",
+                "t": 1367.0,
+                "d": 229.0
+              },
+              {
+                "w": "Sultanate",
+                "t": 1597.0,
+                "d": 643.0
+              },
+              {
+                "w": "of",
+                "t": 2241.0,
+                "d": 90.0
+              },
+              {
+                "w": "Gujarat",
+                "t": 2332.0,
+                "d": 552.0
+              },
+              {
+                "w": "watched",
+                "t": 2885.0,
+                "d": 412.0
+              },
+              {
+                "w": "uneasily",
+                "t": 3297.0,
+                "d": 1472.0
+              },
+              {
+                "w": "Diu",
+                "t": 4954.0,
+                "d": 505.0
+              },
+              {
+                "w": "was",
+                "t": 5459.0,
+                "d": 275.0
+              },
+              {
+                "w": "its",
+                "t": 5735.0,
+                "d": 229.0
+              },
+              {
+                "w": "key",
+                "t": 5965.0,
+                "d": 275.0
+              },
+              {
+                "w": "port",
+                "t": 6241.0,
+                "d": 735.0
+              },
+              {
+                "w": "and",
+                "t": 6977.0,
+                "d": 321.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 7298.0,
+                "d": 643.0
+              },
+              {
+                "w": "demands",
+                "t": 7942.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 8540.0,
+                "d": 321.0
+              },
+              {
+                "w": "raids",
+                "t": 8862.0,
+                "d": 412.0
+              },
+              {
+                "w": "threatened",
+                "t": 9274.0,
+                "d": 551.0
+              },
+              {
+                "w": "its",
+                "t": 9826.0,
+                "d": 277.0
+              },
+              {
+                "w": "maritime",
+                "t": 10103.0,
+                "d": 504.0
+              },
+              {
+                "w": "security",
+                "t": 10608.0,
+                "d": 782.0
+              },
+              {
+                "w": "and",
+                "t": 11436.0,
+                "d": 183.0
+              },
+              {
+                "w": "revenues",
+                "t": 11620.0,
+                "d": 688.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/calicut_calls_cairo/img/p14.png",
+      "shot": "medium shot in a Gujarati court or merchant hall in Diu",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Calicut's envoys tied their fate to Gujarat's. If Diu joined Cairo in resisting Portuguese control, the Red Sea route might yet survive the new cannon-wielding fleets.",
+            "hi": "कालीकट के दूतों ने अपनी तक़दीर गुजरात से जोड़ दी। अगर दीव, काहिरा के साथ मिलकर पुर्तगाली क़ब्ज़े का मुक़ाबला करता, तो लाल सागर का रास्ता शायद नई तोप वाली बेड़ों के बीच भी बच जाता।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p14_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Calicut's",
+                "t": 150.0,
+                "d": 480.0
+              },
+              {
+                "w": "envoys",
+                "t": 630.0,
+                "d": 520.0
+              },
+              {
+                "w": "tied",
+                "t": 1150.0,
+                "d": 240.0
+              },
+              {
+                "w": "their",
+                "t": 1390.0,
+                "d": 200.0
+              },
+              {
+                "w": "fate",
+                "t": 1590.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 1910.0,
+                "d": 160.0
+              },
+              {
+                "w": "Gujarat's",
+                "t": 2070.0,
+                "d": 680.0
+              },
+              {
+                "w": "If",
+                "t": 3110.0,
+                "d": 239.0
+              },
+              {
+                "w": "Diu",
+                "t": 3349.0,
+                "d": 321.0
+              },
+              {
+                "w": "joined",
+                "t": 3670.0,
+                "d": 360.0
+              },
+              {
+                "w": "Cairo",
+                "t": 4030.0,
+                "d": 440.0
+              },
+              {
+                "w": "in",
+                "t": 4470.0,
+                "d": 120.0
+              },
+              {
+                "w": "resisting",
+                "t": 4590.0,
+                "d": 520.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 5110.0,
+                "d": 520.0
+              },
+              {
+                "w": "control",
+                "t": 5630.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 6390.0,
+                "d": 200.0
+              },
+              {
+                "w": "Red",
+                "t": 6590.0,
+                "d": 200.0
+              },
+              {
+                "w": "Sea",
+                "t": 6790.0,
+                "d": 200.0
+              },
+              {
+                "w": "route",
+                "t": 6990.0,
+                "d": 360.0
+              },
+              {
+                "w": "might",
+                "t": 7510.0,
+                "d": 360.0
+              },
+              {
+                "w": "yet",
+                "t": 7870.0,
+                "d": 199.0
+              },
+              {
+                "w": "survive",
+                "t": 8069.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 8469.0,
+                "d": 160.0
+              },
+              {
+                "w": "new",
+                "t": 8629.0,
+                "d": 321.0
+              },
+              {
+                "w": "cannon-wielding",
+                "t": 8950.0,
+                "d": 640.0
+              },
+              {
+                "w": "fleets",
+                "t": 9590.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/calicut_calls_cairo/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/calicut_calls_cairo/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Among Diu's counting-houses, he forges a war of ledgers, hulls, and faith against Lisbon's steel.",
+            "hi": "दiu की गिनती-कोठियों के बीच, वो खातों, जहाज़ों और ईमान से लिस्बन की लोहे की ताकत को ललकारता है।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/action/action_auto2_en.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Among",
+                "t": 110.0,
+                "d": 360.0
+              },
+              {
+                "w": "Diu's",
+                "t": 470.0,
+                "d": 440.0
+              },
+              {
+                "w": "counting-houses",
+                "t": 910.0,
+                "d": 960.0
+              },
+              {
+                "w": "he",
+                "t": 2270.0,
+                "d": 320.0
+              },
+              {
+                "w": "forges",
+                "t": 2590.0,
+                "d": 399.0
+              },
+              {
+                "w": "a",
+                "t": 2989.0,
+                "d": 121.0
+              },
+              {
+                "w": "war",
+                "t": 3110.0,
+                "d": 279.0
+              },
+              {
+                "w": "of",
+                "t": 3389.0,
+                "d": 161.0
+              },
+              {
+                "w": "ledgers",
+                "t": 3550.0,
+                "d": 720.0
+              },
+              {
+                "w": "hulls",
+                "t": 4350.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 5190.0,
+                "d": 360.0
+              },
+              {
+                "w": "faith",
+                "t": 5550.0,
+                "d": 320.0
+              },
+              {
+                "w": "against",
+                "t": 5870.0,
+                "d": 400.0
+              },
+              {
+                "w": "Lisbon's",
+                "t": 6270.0,
+                "d": 480.0
+              },
+              {
+                "w": "steel",
+                "t": 6750.0,
+                "d": 520.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/calicut_calls_cairo/img/p15.png",
+      "shot": "montage-like wide shot blending Mamluk, Gujarati and Calicut ships together",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The coalition took shape: Mamluk warships, Gujarati resources, Calicut's local knowledge. Together they tested Portuguese power off Chaul in fifteen oh eight and tasted success.",
+            "hi": "गठजोड़ आकार लेने लगा: ममलूक जंगी जहाज़, गुजराती संसाधन, कालीकट की स्थानीय समझ। मिलकर उन्होंने १५०८ में चौल के पास पुर्तगाली ताक़त को परखा—और जीत का स्वाद चखा।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p15_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "coalition",
+                "t": 287.0,
+                "d": 510.0
+              },
+              {
+                "w": "took",
+                "t": 797.0,
+                "d": 170.0
+              },
+              {
+                "w": "shape",
+                "t": 968.0,
+                "d": 808.0
+              },
+              {
+                "w": "Mamluk",
+                "t": 1946.0,
+                "d": 468.0
+              },
+              {
+                "w": "warships",
+                "t": 2414.0,
+                "d": 936.0
+              },
+              {
+                "w": "Gujarati",
+                "t": 3478.0,
+                "d": 637.0
+              },
+              {
+                "w": "resources",
+                "t": 4115.0,
+                "d": 937.0
+              },
+              {
+                "w": "Calicut's",
+                "t": 5265.0,
+                "d": 638.0
+              },
+              {
+                "w": "local",
+                "t": 5904.0,
+                "d": 382.0
+              },
+              {
+                "w": "knowledge",
+                "t": 6287.0,
+                "d": 851.0
+              },
+              {
+                "w": "Together",
+                "t": 7563.0,
+                "d": 468.0
+              },
+              {
+                "w": "they",
+                "t": 8031.0,
+                "d": 170.0
+              },
+              {
+                "w": "tested",
+                "t": 8202.0,
+                "d": 467.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 8669.0,
+                "d": 554.0
+              },
+              {
+                "w": "power",
+                "t": 9223.0,
+                "d": 297.0
+              },
+              {
+                "w": "off",
+                "t": 9521.0,
+                "d": 211.0
+              },
+              {
+                "w": "Chaul",
+                "t": 9732.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 10158.0,
+                "d": 170.0
+              },
+              {
+                "w": "fifteen",
+                "t": 10328.0,
+                "d": 468.0
+              },
+              {
+                "w": "oh",
+                "t": 10796.0,
+                "d": 255.0
+              },
+              {
+                "w": "eight",
+                "t": 11052.0,
+                "d": 384.0
+              },
+              {
+                "w": "and",
+                "t": 11478.0,
+                "d": 255.0
+              },
+              {
+                "w": "tasted",
+                "t": 11734.0,
+                "d": 425.0
+              },
+              {
+                "w": "success",
+                "t": 12159.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/calicut_calls_cairo/split_auto/s0.png",
+          "slogan": {
+            "en": "Spice will break their empire",
+            "hi": "मसाला उनकी साम्राज्य तोड़ेगा"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/calicut_calls_cairo/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/calicut_calls_cairo/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As allied masts crowd the horizon, his resolve hardens into a silent storm against Portuguese dominion.",
+            "hi": "जब दोस्ती बेड़े से क्षितिज भर जाता है, उसका इरादा चुप तूफ़ान बनकर पुर्तगाली राज पर टूट पड़ने को तैयार है।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/split/split_auto_en.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 72.0,
+                "d": 250.0
+              },
+              {
+                "w": "allied",
+                "t": 322.0,
+                "d": 333.0
+              },
+              {
+                "w": "masts",
+                "t": 656.0,
+                "d": 541.0
+              },
+              {
+                "w": "crowd",
+                "t": 1197.0,
+                "d": 291.0
+              },
+              {
+                "w": "the",
+                "t": 1489.0,
+                "d": 125.0
+              },
+              {
+                "w": "horizon",
+                "t": 1614.0,
+                "d": 625.0
+              },
+              {
+                "w": "his",
+                "t": 2656.0,
+                "d": 248.0
+              },
+              {
+                "w": "resolve",
+                "t": 2905.0,
+                "d": 417.0
+              },
+              {
+                "w": "hardens",
+                "t": 3322.0,
+                "d": 500.0
+              },
+              {
+                "w": "into",
+                "t": 3822.0,
+                "d": 248.0
+              },
+              {
+                "w": "a",
+                "t": 4071.0,
+                "d": 83.0
+              },
+              {
+                "w": "silent",
+                "t": 4155.0,
+                "d": 459.0
+              },
+              {
+                "w": "storm",
+                "t": 4614.0,
+                "d": 458.0
+              },
+              {
+                "w": "against",
+                "t": 5072.0,
+                "d": 375.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 5447.0,
+                "d": 583.0
+              },
+              {
+                "w": "dominion",
+                "t": 6031.0,
+                "d": 708.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/calicut_calls_cairo/img/p16.png",
+      "shot": "somber medium shot of the envoy reading news aboard ship",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "But in fifteen oh nine, off Diu, the coalition's broader project faltered. Portuguese artillery triumphed in blue water; Calicut's role there was marginal, its hopes tied to others' fleets.",
+            "hi": "पर १५०९ में, दीव के सामने, इस बड़े प्रोजेक्ट की कमान ढीली पड़ गई। खुले नीले पानी में पुर्तगाली तोपें हावी रहीं; वहाँ कालीकट की भूमिका छोटी थी, उसकी उम्मीदें औरों के बेड़ों पर टिकी थीं।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p16_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "But",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "in",
+                "t": 310.0,
+                "d": 137.0
+              },
+              {
+                "w": "fifteen",
+                "t": 448.0,
+                "d": 505.0
+              },
+              {
+                "w": "oh",
+                "t": 954.0,
+                "d": 137.0
+              },
+              {
+                "w": "nine",
+                "t": 1091.0,
+                "d": 597.0
+              },
+              {
+                "w": "off",
+                "t": 1873.0,
+                "d": 458.0
+              },
+              {
+                "w": "Diu",
+                "t": 2332.0,
+                "d": 828.0
+              },
+              {
+                "w": "the",
+                "t": 3205.0,
+                "d": 229.0
+              },
+              {
+                "w": "coalition's",
+                "t": 3435.0,
+                "d": 598.0
+              },
+              {
+                "w": "broader",
+                "t": 4034.0,
+                "d": 412.0
+              },
+              {
+                "w": "project",
+                "t": 4447.0,
+                "d": 460.0
+              },
+              {
+                "w": "faltered",
+                "t": 4908.0,
+                "d": 1103.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 6425.0,
+                "d": 689.0
+              },
+              {
+                "w": "artillery",
+                "t": 7114.0,
+                "d": 643.0
+              },
+              {
+                "w": "triumphed",
+                "t": 7758.0,
+                "d": 505.0
+              },
+              {
+                "w": "in",
+                "t": 8264.0,
+                "d": 183.0
+              },
+              {
+                "w": "blue",
+                "t": 8448.0,
+                "d": 229.0
+              },
+              {
+                "w": "water",
+                "t": 8678.0,
+                "d": 780.0
+              },
+              {
+                "w": "Calicut's",
+                "t": 9550.0,
+                "d": 736.0
+              },
+              {
+                "w": "role",
+                "t": 10287.0,
+                "d": 228.0
+              },
+              {
+                "w": "there",
+                "t": 10516.0,
+                "d": 231.0
+              },
+              {
+                "w": "was",
+                "t": 10747.0,
+                "d": 228.0
+              },
+              {
+                "w": "marginal",
+                "t": 10975.0,
+                "d": 965.0
+              },
+              {
+                "w": "its",
+                "t": 12125.0,
+                "d": 368.0
+              },
+              {
+                "w": "hopes",
+                "t": 12494.0,
+                "d": 367.0
+              },
+              {
+                "w": "tied",
+                "t": 12862.0,
+                "d": 275.0
+              },
+              {
+                "w": "to",
+                "t": 13137.0,
+                "d": 91.0
+              },
+              {
+                "w": "others'",
+                "t": 13229.0,
+                "d": 505.0
+              },
+              {
+                "w": "fleets",
+                "t": 13735.0,
+                "d": 780.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/calicut_calls_cairo/img/p17.png",
+      "shot": "wide shot of Calicut coast with small armed craft hugging the shore",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "After Diu, Portuguese dominance on the high seas hardened. Calicut turned toward coastal resistance, later embodied by the Kunjali Marakkars, and flexible use of creeks and inshore waters.",
+            "hi": "दीव के बाद समंदरों पर पुर्तगाली दबदबा जम गया। कालीकट ने तट से लड़ने की राह पकड़ी—जो बाद में कुंजाली मरक्कर के रूप में दिखी—और खाड़ियों व उथले पानी का चालाक इस्तेमाल शुरू किया।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p17_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "After",
+                "t": 117.0,
+                "d": 382.0
+              },
+              {
+                "w": "Diu",
+                "t": 500.0,
+                "d": 808.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 1393.0,
+                "d": 595.0
+              },
+              {
+                "w": "dominance",
+                "t": 1989.0,
+                "d": 552.0
+              },
+              {
+                "w": "on",
+                "t": 2541.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 2755.0,
+                "d": 127.0
+              },
+              {
+                "w": "high",
+                "t": 2882.0,
+                "d": 254.0
+              },
+              {
+                "w": "seas",
+                "t": 3137.0,
+                "d": 341.0
+              },
+              {
+                "w": "hardened",
+                "t": 3478.0,
+                "d": 764.0
+              },
+              {
+                "w": "Calicut",
+                "t": 4797.0,
+                "d": 468.0
+              },
+              {
+                "w": "turned",
+                "t": 5265.0,
+                "d": 340.0
+              },
+              {
+                "w": "toward",
+                "t": 5606.0,
+                "d": 510.0
+              },
+              {
+                "w": "coastal",
+                "t": 6117.0,
+                "d": 425.0
+              },
+              {
+                "w": "resistance",
+                "t": 6542.0,
+                "d": 808.0
+              },
+              {
+                "w": "later",
+                "t": 7648.0,
+                "d": 468.0
+              },
+              {
+                "w": "embodied",
+                "t": 8117.0,
+                "d": 594.0
+              },
+              {
+                "w": "by",
+                "t": 8711.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 8839.0,
+                "d": 213.0
+              },
+              {
+                "w": "Kunjali",
+                "t": 9053.0,
+                "d": 425.0
+              },
+              {
+                "w": "Marakkars",
+                "t": 9478.0,
+                "d": 850.0
+              },
+              {
+                "w": "and",
+                "t": 10414.0,
+                "d": 296.0
+              },
+              {
+                "w": "flexible",
+                "t": 10711.0,
+                "d": 595.0
+              },
+              {
+                "w": "use",
+                "t": 11307.0,
+                "d": 256.0
+              },
+              {
+                "w": "of",
+                "t": 11563.0,
+                "d": 170.0
+              },
+              {
+                "w": "creeks",
+                "t": 11734.0,
+                "d": 637.0
+              },
+              {
+                "w": "and",
+                "t": 12414.0,
+                "d": 297.0
+              },
+              {
+                "w": "inshore",
+                "t": 12712.0,
+                "d": 510.0
+              },
+              {
+                "w": "waters",
+                "t": 13223.0,
+                "d": 764.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/calicut_calls_cairo/img/p18.png",
+      "shot": "introspective close-up of the envoy standing on the beach at twilight",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Calicut's envoys did not stop the Portuguese Cape route, but they showed that fear alone cannot forge lasting coalitions; shared tactics and control of the sea decide whose world trade will serve.",
+            "hi": "कालीकट के दूत पुर्तगाली केप रास्ता रोक नहीं सके, पर उन्होंने दिखा दिया कि सिर्फ़ डर से टिकाऊ गठबंधन नहीं बनते; साझा रणक़ायदे और समंदर पर पकड़ ही तय करते हैं कि दुनिया का व्यापार किसकी सेवा करेगा।"
+          },
+          "audio": {
+            "en": "assets/calicut_calls_cairo/audio/en/p18_0.mp3",
+            "hi": "assets/calicut_calls_cairo/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Calicut's",
+                "t": 126.0,
+                "d": 689.0
+              },
+              {
+                "w": "envoys",
+                "t": 816.0,
+                "d": 505.0
+              },
+              {
+                "w": "did",
+                "t": 1321.0,
+                "d": 275.0
+              },
+              {
+                "w": "not",
+                "t": 1597.0,
+                "d": 275.0
+              },
+              {
+                "w": "stop",
+                "t": 1873.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 2149.0,
+                "d": 137.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 2287.0,
+                "d": 643.0
+              },
+              {
+                "w": "Cape",
+                "t": 2931.0,
+                "d": 320.0
+              },
+              {
+                "w": "route",
+                "t": 3251.0,
+                "d": 643.0
+              },
+              {
+                "w": "but",
+                "t": 3987.0,
+                "d": 277.0
+              },
+              {
+                "w": "they",
+                "t": 4264.0,
+                "d": 182.0
+              },
+              {
+                "w": "showed",
+                "t": 4447.0,
+                "d": 414.0
+              },
+              {
+                "w": "that",
+                "t": 4862.0,
+                "d": 229.0
+              },
+              {
+                "w": "fear",
+                "t": 5091.0,
+                "d": 413.0
+              },
+              {
+                "w": "alone",
+                "t": 5505.0,
+                "d": 505.0
+              },
+              {
+                "w": "cannot",
+                "t": 6011.0,
+                "d": 505.0
+              },
+              {
+                "w": "forge",
+                "t": 6517.0,
+                "d": 413.0
+              },
+              {
+                "w": "lasting",
+                "t": 6931.0,
+                "d": 505.0
+              },
+              {
+                "w": "coalitions",
+                "t": 7436.0,
+                "d": 1011.0
+              },
+              {
+                "w": "shared",
+                "t": 8678.0,
+                "d": 459.0
+              },
+              {
+                "w": "tactics",
+                "t": 9137.0,
+                "d": 872.0
+              },
+              {
+                "w": "and",
+                "t": 10010.0,
+                "d": 322.0
+              },
+              {
+                "w": "control",
+                "t": 10333.0,
+                "d": 505.0
+              },
+              {
+                "w": "of",
+                "t": 10839.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 10931.0,
+                "d": 136.0
+              },
+              {
+                "w": "sea",
+                "t": 11067.0,
+                "d": 277.0
+              },
+              {
+                "w": "decide",
+                "t": 11344.0,
+                "d": 780.0
+              },
+              {
+                "w": "whose",
+                "t": 12172.0,
+                "d": 413.0
+              },
+              {
+                "w": "world",
+                "t": 12586.0,
+                "d": 367.0
+              },
+              {
+                "w": "trade",
+                "t": 12954.0,
+                "d": 597.0
+              },
+              {
+                "w": "will",
+                "t": 13597.0,
+                "d": 274.0
+              },
+              {
+                "w": "serve",
+                "t": 13872.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Zamorin’s Merchant Envoy of Calicut",
+    "epithets": [
+      "Pepper Port Envoys of Calicut",
+      "Merchants of the Zamorin",
+      "Diplomats of the Arabian Sea",
+      "Traders Against the Cross"
+    ],
+    "legend": "Merchant tongues tried to stop cannon mouths from ruling the seas."
+  }
+}
