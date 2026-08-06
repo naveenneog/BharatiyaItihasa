@@ -572,6 +572,31 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🛞 The Eastern Ganga Dynasty and the Sun Temple  *(c. 1077–1450 — Kalinga–Odisha's imperial age & Konark)*  — **✅ CHAPTER COMPLETE (13/13, de-duplicated)**
+
+**I. Dawn of the Gajapati**
+1. **Chodaganga, Lord of Three Kalingas** ✅ — Anantavarman Chodaganga Deva welds Kalinga, Utkala and Koshala into one Eastern Ganga empire (c. 1077–1150). *(imperial consolidation)*
+2. **The King Who Became Jagannath's Servant** ✅ — Anangabhima III makes Jagannath sovereign and himself the deity's *rauta*, reordering land, ritual and legitimacy. *(constitutional / devotional innovation)*
+
+**II. The First Gajapati**
+3. **Langula the First Gajapati** ✅ — Narasimhadeva I projects power through Raibania Fort, Simhachalam and Konark; the Ekavali court-poem flagged as flattery. *(dynasty / historiography)*
+4. **Chandrika Devi Builds the Blue God's House** ✅ — a widowed Ganga princess raises the Ananta Vasudeva (Vishnu) temple in Shaiva Bhubaneswar; a rare attested female patron. *(women's agency / social history)*
+
+**III. Sword and Elephant**
+5. **The Mahanadi Shield Against Bengal** ✅ — Anangabhima III + general Vishnu hold the delta against the Bengal Sultanate; the 1193 destruction stated, the tribute claim countered with epigraphy. *(defence / source-criticism)*
+6. **The Gajapati Marches to Lakhnauti** ✅ — Narasimhadeva I's 1242–46 Bengal campaign against Tughril Tughan Khan, weighing Minhaj's panic against Odishan praise. *(campaign / two-source method)*
+7. **The Tughlaq Toll at Jajnagar** ✅ — Firuz Shah Tughlaq's 1350s invasions of Bhanu Deva III's Odisha; temple looting, captives and forced tribute stated plainly from the Futuhat + Afif. *(unwhitewashed conquest)*
+
+**IV. Stone Star and Song**
+8. **The Sun Chariot Rises from Stone** ✅ — Konark's engineering: khondalite, ashlar precision and the ~70 m deul tuned to Surya's path. *(architecture / engineering)*
+9. **The Wheels That Tell the Hour** ✅ — Konark's 24 chariot wheels read as sundials and a calendrical program (Debala Mitra, S. B. Rao, Kim Plofker), hedged as "not mechanical clocks." *(scientific heritage)*
+10. **The Night Song of Jagannath** ✅ — the Gita Govinda as mandated Badasinghara night-seva, embodied through Mahari dance and Khandua woven-verse cloth (Frederique Marglin). *(performance / textile / social history)*
+
+**V. The Sacred Machine**
+11. **Jagannath's Land and the Sacred Port** ✅ — the temple economy: land grants, the Mahaprasad kitchen, Chilika/Palur ports and pilgrim markets. *(economic history)*
+12. **The Panji and the Decimal Coin** ✅ — the Anka regnal-calendar, administrative hierarchy, and decimal positional notation on Eastern Ganga fanams. *(administration / mathematics)*
+13. **Sarala Das Gives Odia an Epic Voice** ✅ — the Adikabi's vernacular Odia Mahabharata, lifting the epic into the people's tongue as the Ganga line gives way to the Suryavamsha. *(vernacular literature)*
+
 ## ☀️ The Karkota Empire of Kashmir  *(c. 625–855 — Kashmir's first imperial age)*  — **✅ CHAPTER COMPLETE (13/13, de-duplicated)**
 
 Kashmir's imperial dynasty — Lalitaditya Muktapida at its centre — told as dynasty, diplomacy, architecture, economy, learning and HISTORIOGRAPHY, the legend of the mountain kingdom weighed strictly against Kalhana, coins, Tang records and ruins.
