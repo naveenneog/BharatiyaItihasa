@@ -572,6 +572,24 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 📜 The Pala and Sena Dynasties of Bengal  *(c. 750–1206 — Buddhist Palas and the Hindu Senas)*  — **✅ CHAPTER COMPLETE (13/13, de-duplicated)**
+
+Four centuries of early-medieval Bengal, carried by manuscripts, monasteries, cowries and poetry more than by battles — dynasty, rebellion, economy, learning and art, told source-critically (the court poems read against the record, the caste and "election" myths corrected). De-duplicated against the Battles chapter (Bakhtiyar) and the Eastern Ganga chapter (Jayadeva).
+
+1. **The Fish-Law Election** ✅ — Gopala I chosen out of *matsya-nyaya* (~750); the "election" corrected from democratic myth to a compact of samantas.
+2. **Dharmapala at Kanauj** ✅ — the tripartite struggle from the Pala side, weighed against the Rashtrakuta counter-claim. *(historiography)*
+3. **Devapala and the King from the Sea** ✅ — the Sailendra king Balaputradeva endows Nalanda by copper-plate across the Bay. *(trans-oceanic scholarship)*
+4. **Mahipala Restores Gauda** ✅ — the Pala revival, weighed against Rajendra Chola's Ganga-march boast.
+5. **Vijayasena and the Deopara Stone** ✅ — the Sena rise, read through the Deopara prashasti's panegyric.
+6. **The Kaivarta Rebellion** ✅ — Divya's boatmen-rebels vs Ramapala, read *against* the Ramacharitam; the royal brutality named. *(social history)*
+7. **The Last Sena Kings of Vikrampura** ✅ — the Sena afterlife in east Bengal after Nabadwip (the Madanpara/Edilpur plates). *(reframed to differentiate from the Battles chapter's Bakhtiyar)*
+8. **Vikramashila's Six Gate Scholars** ✅ — Dharmapala's mahaviharas and Atisha's path to Tibet. *(learning institution)*
+9. **Cowries and Copper Plates** ✅ — the shell currency and land-grant administrative machinery. *(economic innovation)*
+10. **The Bronze That Crossed the Himalayas** ✅ — Pala lost-wax bronzes shaping Newar and Tibetan art. *(art / craft)*
+11. **Ballalasena's Two Books** ✅ — the Danasagara + Adbhutasagara, and the Kulinism question handled source-critically.
+12. **Jayadeva Sings Radha's Return** ✅ — the Gita Govinda and its cross-regional afterlife. *(literature)*
+13. **The Surviving Prajnaparamita** ✅ — the wisdom-manuscripts carried to Nepal and Tibet before the fires. *(knowledge survival)*
+
 ## 💥 Battles That Broke and Made Empires  *(c. 1204–1846 — thrones toppled and founded)*  — **✅ CHAPTER COMPLETE (13/13, de-duplicated + refilled)**
 
 Thirteen battles that made or unmade empires across India, from the Ghurid raid that ended Sena Bengal to the fall of the Sikh Empire — the long arc into the colonial conquest, told source-critically with the standard held hardest on the winners. De-duplicated against the other battle chapters (Porus/Somnath/Hammira removed) and refilled with three fresh unique battles.
