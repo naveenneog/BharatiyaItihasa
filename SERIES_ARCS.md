@@ -572,6 +572,31 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🐟 The Pandya Kingdom of Madurai  *(c. 3rd c. BCE – 14th c. CE — the twin-fish dynasty of the deep Tamil south)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+**I. First Fish, Oldest King**
+1. **Pandya Before Memory Ends** ✅ — the dynasty's first attestations: Ashoka's edicts, the Mangulam Tamil-Brahmi caves, the Greek "Pandaia" legend flagged as myth. *(source-critical origins)*
+2. **Pearl Fish and Rome at Korkai** ✅ — the Korkai pearl-fishery and Indo-Roman trade (the *Periplus*, Alagankulam), told from the divers' side. *(economic / trade)*
+3. **Kannagi Judges Madurai** ✅ — the *Silappadikaram*'s courtroom tragedy, flagged as literature/moral imagination, not chronicled history. *(literature / justice)*
+
+**II. Three Crowns at War**
+4. **Nedunjeliyan at Talaiyalanganam** ✅ — the Sangam-age victory over the Chera–Chola confederacy; the Muvendar three-kings system. *(battle)*
+5. **Maduraikanci and the City Alive** ✅ — the longest Sangam poem makes the city its hero: occupational streets, sea trade, Hindu/Jain/Buddhist pluralism. *(social history)*
+
+**III. Dark Night, New Dawn**
+6. **Kadungon Breaks the Kalabhra Night** ✅ — the Pandya revival after the Kalabhra interregnum; refuses to demonise the maligned Kalabhras. *(revival / source-criticism)*
+7. **The Velvikudi Plate Remembers Land** ✅ — the *brahmadeya* land-grant dispute and its copper-plate epigraphy (~765–790 CE). *(economic / legal)*
+8. **Manikkavachakar Finds Sacred Words** ✅ — the Pandya minister who renounced office for Shiva-devotion (Tiruvachakam); the horse-buying miracle flagged as legend. *(Bhakti / source-criticism)*
+
+**IV. The Imperial Pandyas**
+9. **Jatavarman Sundara Rewrites the Map** ✅ — the Second Pandya Empire's zenith: broke Chola power, checked the Hoysalas, Lanka tribute; the *virabhisheka*. *(imperial conquest)*
+10. **Kulasekara and the Buddha Tooth** ✅ — the Pandya sack of Sri Lanka and the Tooth Relic (Marco Polo + *Culavamsa*), told with the victim's anguish. *(imperial / maritime)*
+11. **Fish Coins Cross the Sea** ✅ — the Pandya double-fish coinage as a maritime-trade archive (Krishnamurthy, Bopearachchi). *(numismatic / economic)*
+
+**V. Fire and Memory**
+12. **Malik Kafur in Madurai** ✅ — the 1311 raid and temple destruction stated from Amir Khusrau's own triumph, set beside the Tamil grief carved in stone. *(unwhitewashed atrocity)*
+13. **Meenakshi City Rises Again** ✅ — the Meenakshi temple as a palimpsest of Pandya cores and later Nayak rebuilding; a city that raises its heart in stone again. *(architecture / resilience)*
+
 ## 💎 The Bahmani and Deccan Sultanates  *(c. 1347–1656 — the Deccan's Islamic sultanates, Gulbarga to Golconda)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 **I. Rise and Sacred Foundations**
