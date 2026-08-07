@@ -572,6 +572,31 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 💎 The Bahmani and Deccan Sultanates  *(c. 1347–1656 — the Deccan's Islamic sultanates, Gulbarga to Golconda)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+**I. Rise and Sacred Foundations**
+1. **The Field Worker Crowned at Gulbarga** ✅ — Alauddin Bahman Shah's 1347 revolt founds the Deccan's first independent sultanate. *(founding)*
+2. **Bande Nawaz Builds a Deccan Hospice** ✅ — the Chishti saint Gesudaraz settles at Gulbarga; a Sufi hospice roots the faith in Deccan soil. *(faith / social)*
+
+**II. Court Heroes and Statecraft**
+3. **A Sultan of Many Tongues** ✅ — Firuz Shah Bahmani (1397–1422), the polyglot sultan at whose court Dakhni Urdu takes root. *(scholarly / linguistic)*
+4. **The Merchant Who Governed an Empire** ✅ — Mahmud Gawan's land-survey revenue reform and the Bidar madrasa — and his tragic 1481 execution on a forged letter. *(administration / scholarship + tragedy)*
+
+**III. Wars and Diplomacy**
+5. **The Sultanates Gather at Talikota** ✅ — 1565: the fractious Deccan sultanates form a coalition against Rama Raya's Vijayanagara, framed as power politics, NOT a war of faith. *(coalition diplomacy)*
+6. **Goa Slips Through Bijapur's Fingers** ✅ — 1510: Yusuf Adil Shah's counter-siege defeats the FIRST Portuguese occupation before Albuquerque's bloody recapture — both sides unwhitewashed. *(conquest)*
+7. **The Abyssinian Minister Who Would Not Yield** ✅ — Malik Ambar, sold as a slave, rises to lead Ahmadnagar's guerrilla resistance against the Mughals. *(resistance)*
+
+**IV. Craft, Water and Wealth** *(innovation)*
+8. **Black Metal and Silver Light at Bidar** ✅ — the Bidriware craft: zinc-copper alloy, silver inlay and the fort-soil oxidation secret (2006 GI tag). *(technical / craft)*
+9. **Water Through Rock at Bidar** ✅ — Ahmad Shah I's Naubad karez: qanat engineering through Deccan basalt, 21 shafts (Yazdani; UNESCO). *(engineering)*
+10. **The Diamonds the World Desired** ✅ — the Golconda diamond economy through Tavernier's eyes; Type IIa science and the unnamed labourers the records omit. *(economic)*
+
+**V. Cities, Books and Rasa**
+11. **Muhammad Quli Names a City** ✅ — the 1591 founding of Hyderabad and Charminar; the Bhagmati legend weighed against the Haydar/Ali etymology. *(urban planning / literature)*
+12. **The Nine Rasas of the Sultan** ✅ — Ibrahim Adil Shah II's *Kitab-i-Nauras*, invoking Saraswati, Ganapati and Sufi saints alike — the syncretic "Jagadguru Badshah". *(music / scholarly)*
+13. **The Dome That Whispers at Bijapur** ✅ — Muhammad Adil Shah's Gol Gumbaz: a 44m freestanding dome and its whispering gallery as acoustic science (Pushkar Sohoni). *(architecture / science)*
+
 ## 🌶️ The Zamorins and the Kunjali Marakkars  *(c. 1300–1600 — the Malabar pepper coast & naval resistance)*  — **✅ CHAPTER COMPLETE (13/13, de-duplicated)**
 
 **I. Pepper City Before the Cannon**
