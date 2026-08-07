@@ -5,6 +5,16 @@ problems. Newest first.
 
 ---
 
+## 2026-08-07 — 🌶️ The Zamorins and the Kunjali Marakkars COMPLETE (13/13) · 34 chapters · Calicut from a pepper city Marco Polo ignored to the execution of the last Marakkar admiral — the cosmopolitan port, the Portuguese shock, and the naval resistance · builds roll into The Bahmani and Deccan Sultanates
+
+- **The Zamorins and the Kunjali Marakkars is COMPLETE (13/13, QA-clean):** the Malabar pepper coast across three centuries — Calicut as a law-based cosmopolitan port, the violent Portuguese arrival, and the Kunjali Marakkars' naval resistance that ends in betrayal.
+- **The thirteen:** Nediyiruppu Lords Take Calicut · Ibn Battuta Enters the Pepper Harbor (1342) · Zheng He's Tablets Praise Calicut · The Open Port of Many Faiths · Pepper Brokers and the Shahbandar · Beypore Uru Builders Stitch the Sea · Tali Scholars and Malayalam Voices · Vasco da Gama Meets the Zamorin (1498) · Cabral's Factory and the Miri Fire · Calicut Calls Cairo · The Marakkars Raise a Naval Command · Chaliyam Falls to the Zamorin (1571) · Kunjali IV Surrenders at Kottakkal (1600).
+- **Truths stated, winners not spared — on ALL sides:** *Cabral's Factory and the Miri Fire* states da Gama's 1502 burning of the pilgrim ship Miri (200–400 killed returning from Mecca, "a public act of terror", per Correia) AND the Calicut mob's massacre of the Portuguese factory — neither whitewashed. *Kunjali IV* refuses a simple martyr/villain tale: the admiral "grew too strong for his king", the Zamorin joined his Portuguese enemy and broke the amnesty under pressure, and Kunjali was tried and executed at Goa (eyewitness Diogo do Couto) — framed as power politics, "loyalty, ambition and hard choices", NOT religion.
+- **Innovation across four dimensions:** the multi-faith merchant council + the Quilon copper-plate charters (social); the pepper entrepot, the Shahbandar office and monsoon credit (economic); the living Beypore *uru* coir-sewn shipbuilding craft (technical); and the Revathi Pattathanam Sanskrit assembly + Makhdoom's *Tuhfat al-Mujahidin* + Ezhuthachan's Malayalam (scholarly).
+- **De-dup + fixes:** #10 reframed to the Calicut→Cairo coalition diplomacy (distinct from the Medieval-Battles Diu); three dual-figure hero cards corrected (Tali → "Zainuddin Makhdoom II & Ezhuthachan"; #8 → "Vasco da Gama & the Zamorin"; #9 → "Cabral & Vasco da Gama") after each carried a second figure's epithets.
+
+---
+
 ## 2026-08-06 — 🛞 The Eastern Ganga Dynasty and the Sun Temple COMPLETE (13/13) · 33 chapters · Kalinga–Odisha from Chodaganga's three-Kalingas empire (c. 1077) to Sarala Das's Odia Mahabharata — Konark, Jagannath-sovereignty, an honest record of conquest, and four innovation stories · builds roll into The Zamorins and the Kunjali Marakkars
 
 - **The Eastern Ganga Dynasty and the Sun Temple is COMPLETE (13/13, QA-clean, de-duplicated):** eastern India's great Kalinga–Odisha imperial age — Konark's Sun Temple at its heart — told across dynasty, war, sacred architecture, temple economy, mathematics, performance and vernacular literature; the state that made Jagannath its sovereign and the king his deputy (*rauta*).

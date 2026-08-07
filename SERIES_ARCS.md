@@ -572,6 +572,31 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🌶️ The Zamorins and the Kunjali Marakkars  *(c. 1300–1600 — the Malabar pepper coast & naval resistance)*  — **✅ CHAPTER COMPLETE (13/13, de-duplicated)**
+
+**I. Pepper City Before the Cannon**
+1. **Nediyiruppu Lords Take Calicut** ✅ — the Nediyiruppu Swarupam rises to Zamorin; the Cheraman Perumal legend flagged as tradition, not proof. *(founding)*
+2. **Ibn Battuta Enters the Pepper Harbor** ✅ — the 1342 Moroccan qadi on Calicut's shipwreck-salvage law; a law-based port before the gun. *(travel account)*
+3. **Zheng He's Tablets Praise Calicut** ✅ — the Ming treasure fleet; the 1431 Changle stele lists Calicut, "not with fire, but with mention". *(diplomacy)*
+
+**II. The Merchant City**
+4. **The Open Port of Many Faiths** ✅ — the multi-faith merchant council; the Hindu Zamorin's symbiosis with Mappila, Jain and Syrian-Christian traders. *(social pluralism)*
+5. **Pepper Brokers and the Shahbandar** ✅ — the pepper entrepot, the harbourmaster's office and monsoon credit (Tome Pires). *(economic)*
+6. **Beypore Uru Builders Stitch the Sea** ✅ — the living coir-sewn *uru* shipbuilding craft, carried in minds not treatises (Logan; Himanshu Prabha Ray). *(technical / craft)*
+7. **Tali Scholars and Malayalam Voices** ✅ — the Revathi Pattathanam Sanskrit assembly, Makhdoom's *Tuhfat al-Mujahidin* and Ezhuthachan's Malayalam. *(scholarly / literary)*
+
+**III. The Portuguese Shock**
+8. **Vasco da Gama Meets the Zamorin** ✅ — 1498 first contact at Kappad; the cheap-gifts fiasco; "Christians and spices". *(first contact)*
+9. **Cabral's Factory and the Miri Fire** ✅ — the factory massacre AND da Gama's burning of the pilgrim ship Miri (Correia) — terror as trade strategy, unwhitewashed on both sides. *(atrocity)*
+10. **Calicut Calls Cairo** ✅ — the Zamorin's envoys appeal to Mamluk Cairo and Gujarat against the Portuguese *cartaz* (Logan). *(coalition diplomacy)*
+
+**IV. The Naval Wars**
+11. **The Marakkars Raise a Naval Command** ✅ — Kunjali Marakkar I founds the Zamorin's guerrilla navy: "rule by coast and current". *(naval resistance)*
+12. **Chaliyam Falls to the Zamorin** ✅ — 1571: the Zamorin + Kunjali III starve out the Portuguese fort — a rare Indian victory, not overclaimed. *(siege / victory)*
+
+**V. Broken Admirals and Living Memory**
+13. **Kunjali IV Surrenders at Kottakkal** ✅ — 1600: the admiral who outgrew his king, betrayed by a Zamorin–Portuguese pact and executed at Goa (Diogo do Couto) — power politics, not a simple betrayal. *(tragic fall)*
+
 ## 🛞 The Eastern Ganga Dynasty and the Sun Temple  *(c. 1077–1450 — Kalinga–Odisha's imperial age & Konark)*  — **✅ CHAPTER COMPLETE (13/13, de-duplicated)**
 
 **I. Dawn of the Gajapati**
