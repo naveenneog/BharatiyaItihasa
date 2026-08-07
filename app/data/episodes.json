@@ -1,5 +1,5 @@
 {
-  "built": 467,
+  "built": 468,
   "chapters": [
     {
       "chapter": "The Indus Valley Civilisation",
@@ -2884,7 +2884,7 @@
     {
       "chapter": "The Pandya Kingdom of Madurai",
       "blurb": "",
-      "built": 0,
+      "built": 1,
       "total": 13,
       "sort_year": 550,
       "range": "250 BCE – 1268 CE",
@@ -2898,18 +2898,24 @@
               "title": "Pandya Before Memory Ends",
               "era": "Early Historic, c. 258 BCE-2nd century BCE",
               "series": "Ancient & Medieval India",
-              "built": false,
+              "built": true,
               "flagship": false,
               "chapter": "The Pandya Kingdom of Madurai",
               "chapter_part": "I. First Fish, Oldest Kingdom",
               "chapter_order": 1,
               "year": -150,
               "year_label": "150 BCE",
-              "legend": "Ashoka's edicts and a small Mangulam cave inscription reveal the Pandyas as an independent southern power before their own long stories were written down.",
-              "epithets": [],
-              "scenes": 0,
-              "langs": [],
-              "thumb": ""
+              "legend": "Before poems and palaces, their name is carved in stone.",
+              "epithets": [
+                "Lords of Madurai",
+                "Pearl Kings of Korkai"
+              ],
+              "scenes": 25,
+              "langs": [
+                "en",
+                "hi"
+              ],
+              "thumb": "assets/pandya_before_memory_ends/intro/hero.png"
             },
             {
               "id": "pearl_fish_and_rome_at_korkai",
@@ -4238,6 +4244,288 @@
                 "hi"
               ],
               "thumb": "assets/mahaviracharya_counts_the_world/intro/hero.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Nalanda and the Great Monastic Universities",
+      "blurb": "",
+      "built": 0,
+      "total": 13,
+      "sort_year": 750,
+      "range": "399 CE – 1150 CE",
+      "parts": [
+        {
+          "part": "I. Finding Nalanda in the Evidence",
+          "episodes": [
+            {
+              "id": "faxian_passes_an_empty_nalanda",
+              "figure": "Faxian",
+              "title": "Faxian Passes an Empty Nalanda",
+              "era": "Before Nalanda's founding, c. 399-414 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "Nalanda and the Great Monastic Universities",
+              "chapter_part": "I. Finding Nalanda in the Evidence",
+              "chapter_order": 1,
+              "year": 399,
+              "year_label": "399 CE",
+              "legend": "A Chinese pilgrim walks through sacred Magadha and records no great university at Nalanda, leaving a silence that helps date the later wonder.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "the_seal_that_named_shakraditya",
+              "figure": "Nalanda seal makers and Kumaragupta I",
+              "title": "The Seal That Named Shakraditya",
+              "era": "Gupta founding phase, c. 415-550 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "Nalanda and the Great Monastic Universities",
+              "chapter_part": "I. Finding Nalanda in the Evidence",
+              "chapter_order": 2,
+              "year": 415,
+              "year_label": "415 CE",
+              "legend": "A clay seal, Gupta coins, and a pilgrim's memory point to Shakraditya, probably Kumaragupta I, as the royal patron behind Nalanda's first great monastery.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "harsha_feeds_a_hundred_villages",
+              "figure": "Harsha and the Nalanda stewards",
+              "title": "Harsha Feeds a Hundred Villages",
+              "era": "Harsha's patronage, c. 606-647 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "Nalanda and the Great Monastic Universities",
+              "chapter_part": "I. Finding Nalanda in the Evidence",
+              "chapter_order": 3,
+              "year": 606,
+              "year_label": "606 CE",
+              "legend": "Harsha's grants turn learning into an economy, as villages send rice, butter and milk to sustain monks who debate from dawn to dusk.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "II. Classrooms Across Asia",
+          "episodes": [
+            {
+              "id": "silabhadra_teaches_the_traveler",
+              "figure": "Silabhadra and Xuanzang",
+              "title": "Silabhadra Teaches the Traveler",
+              "era": "Xuanzang's Nalanda years, c. 637-643 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "Nalanda and the Great Monastic Universities",
+              "chapter_part": "II. Classrooms Across Asia",
+              "chapter_order": 4,
+              "year": 637,
+              "year_label": "637 CE",
+              "legend": "A monk from China finds the aged master Silabhadra at Nalanda and carries Yogachara learning home in hundreds of Sanskrit texts.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "yijing_hears_the_morning_bell",
+              "figure": "Yijing",
+              "title": "Yijing Hears the Morning Bell",
+              "era": "Yijing's stay, c. 673-683 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "Nalanda and the Great Monastic Universities",
+              "chapter_part": "II. Classrooms Across Asia",
+              "chapter_order": 5,
+              "year": 673,
+              "year_label": "673 CE",
+              "legend": "A bell rings, monks walk to the bathing pools, and Yijing records the rules that made Nalanda a disciplined residential city of learning.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "the_gate_of_questions",
+              "figure": "Nalanda gate scholars",
+              "title": "The Gate of Questions",
+              "era": "Nalanda's high scholastic culture, 7th-11th century CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "Nalanda and the Great Monastic Universities",
+              "chapter_part": "II. Classrooms Across Asia",
+              "chapter_order": 6,
+              "year": 1050,
+              "year_label": "1050 CE",
+              "legend": "At the gate, tradition says applicants faced scholars with questions sharp enough to decide who could enter the world's hardest classroom.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "III. Engines of Knowledge",
+          "episodes": [
+            {
+              "id": "dignaga_sets_the_rules_of_proof",
+              "figure": "Dignaga and Dharmakirti",
+              "title": "Dignaga Sets the Rules of Proof",
+              "era": "Buddhist logic and epistemology, c. 480-660 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "Nalanda and the Great Monastic Universities",
+              "chapter_part": "III. Engines of Knowledge",
+              "chapter_order": 7,
+              "year": 480,
+              "year_label": "480 CE",
+              "legend": "Dignaga and Dharmakirti turn argument into a science of perception and inference that will train monastic thinkers for centuries.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "shantideva_takes_the_lion_seat",
+              "figure": "Shantideva",
+              "title": "Shantideva Takes the Lion Seat",
+              "era": "Late 7th to early 8th century CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "Nalanda and the Great Monastic Universities",
+              "chapter_part": "III. Engines of Knowledge",
+              "chapter_order": 8,
+              "year": 750,
+              "year_label": "750 CE",
+              "legend": "Mocked as idle, Shantideva steps onto a lion seat and tradition says he recites a poem that still teaches courage and compassion.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "the_village_endowment_machine",
+              "figure": "Devapala and Balaputradeva",
+              "title": "The Village Endowment Machine",
+              "era": "Nalanda copper plate, c. 860 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "Nalanda and the Great Monastic Universities",
+              "chapter_part": "III. Engines of Knowledge",
+              "chapter_order": 9,
+              "year": 860,
+              "year_label": "860 CE",
+              "legend": "A king from Sumatra asks a Pala emperor for villages to fund a monastery at Nalanda, proving that learning ran on land, diplomacy and ocean routes.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "IV. The Great Mahavihara Network",
+          "episodes": [
+            {
+              "id": "somapura_draws_the_great_mandala",
+              "figure": "Dharmapala's architects at Somapura",
+              "title": "Somapura Draws the Great Mandala",
+              "era": "Pala architecture, c. 781-821 CE and after",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "Nalanda and the Great Monastic Universities",
+              "chapter_part": "IV. The Great Mahavihara Network",
+              "chapter_order": 10,
+              "year": 781,
+              "year_label": "781 CE",
+              "legend": "At Somapura, builders shape a vast brick monastery around a central shrine whose plan echoes across Buddhist Asia.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "the_cooled_library_of_vikramashila",
+              "figure": "Vikramashila builders and librarians",
+              "title": "The Cooled Library of Vikramashila",
+              "era": "Pala university engineering, c. 8th-12th century CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "Nalanda and the Great Monastic Universities",
+              "chapter_part": "IV. The Great Mahavihara Network",
+              "chapter_order": 11,
+              "year": 1150,
+              "year_label": "1150 CE",
+              "legend": "Beside a great monastery, excavators find a library building cooled by water channels, hinting at how fragile palm-leaf knowledge was protected.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            },
+            {
+              "id": "valabhi_trains_the_ministers",
+              "figure": "Gunamati and Sthiramati",
+              "title": "Valabhi Trains the Ministers",
+              "era": "Maitraka Valabhi, c. 6th-8th century CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "Nalanda and the Great Monastic Universities",
+              "chapter_part": "IV. The Great Mahavihara Network",
+              "chapter_order": 12,
+              "year": 750,
+              "year_label": "750 CE",
+              "legend": "On the western sea, Valabhi teaches monks, merchants and future ministers a practical curriculum of law, politics and administration.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
+            }
+          ]
+        },
+        {
+          "part": "V. Ashes, Memory and Revival",
+          "episodes": [
+            {
+              "id": "dharmasvamin_in_the_ashes",
+              "figure": "Dharmasvamin and Rahula Sribhadra",
+              "title": "Dharmasvamin in the Ashes",
+              "era": "Khalji raids and aftermath, c. 1193-1235 CE",
+              "series": "Ancient & Medieval India",
+              "built": false,
+              "flagship": false,
+              "chapter": "Nalanda and the Great Monastic Universities",
+              "chapter_part": "V. Ashes, Memory and Revival",
+              "chapter_order": 13,
+              "year": 1193,
+              "year_label": "1193 CE",
+              "legend": "A Tibetan pilgrim reaches a damaged Nalanda, finds an old teacher and a few students, and shows that the end was violent, real and more complex than legend.",
+              "epithets": [],
+              "scenes": 0,
+              "langs": [],
+              "thumb": ""
             }
           ]
         }
