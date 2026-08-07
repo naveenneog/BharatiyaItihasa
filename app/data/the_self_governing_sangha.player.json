@@ -1,0 +1,3307 @@
+{
+  "id": "the_self_governing_sangha",
+  "title": "The Self-Governing Sangha",
+  "title_i18n": {
+    "en": "The Self-Governing Sangha",
+    "hi": "स्वशासी संघ"
+  },
+  "figure": "Nalanda's monastic seal keepers",
+  "era": "Nalanda administration, c. 5th-12th century CE",
+  "moral": "Even great ideas need careful record keepers.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_self_governing_sangha/intro/hero.png",
+      "name": "Nalanda Seal Keeper",
+      "epithets": [
+        "Custodians of Nalanda",
+        "Keepers of the Sangha Seal",
+        "Monastic Recorders of Magadha",
+        "Guardians of the Mahavihara"
+      ],
+      "legend": "They pressed clay and rules into the lifeblood of Nalanda.",
+      "era": "Nalanda administration, c. 5th-12th century CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In a world of roaming monks and royal whims, their small clay seals decided what was true, what was owned, and whether Nalanda's learning would endure or vanish in doubt.",
+            "hi": "भिक्षुओं की दुनिया और राजाओं की सनक के बीच, उनकी छोटी मिट्टी की मुहरें ही तय करती थीं सच क्या है, किसका है, और नालंदा का ज्ञान टिकेगा या शक में मिट जाएगा।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/intro/hero_en.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 72.0,
+                "d": 208.0
+              },
+              {
+                "w": "a",
+                "t": 281.0,
+                "d": 83.0
+              },
+              {
+                "w": "world",
+                "t": 364.0,
+                "d": 375.0
+              },
+              {
+                "w": "of",
+                "t": 739.0,
+                "d": 166.0
+              },
+              {
+                "w": "roaming",
+                "t": 906.0,
+                "d": 458.0
+              },
+              {
+                "w": "monks",
+                "t": 1364.0,
+                "d": 416.0
+              },
+              {
+                "w": "and",
+                "t": 1781.0,
+                "d": 250.0
+              },
+              {
+                "w": "royal",
+                "t": 2031.0,
+                "d": 250.0
+              },
+              {
+                "w": "whims",
+                "t": 2281.0,
+                "d": 583.0
+              },
+              {
+                "w": "their",
+                "t": 3322.0,
+                "d": 248.0
+              },
+              {
+                "w": "small",
+                "t": 3571.0,
+                "d": 334.0
+              },
+              {
+                "w": "clay",
+                "t": 3906.0,
+                "d": 291.0
+              },
+              {
+                "w": "seals",
+                "t": 4197.0,
+                "d": 416.0
+              },
+              {
+                "w": "decided",
+                "t": 4614.0,
+                "d": 708.0
+              },
+              {
+                "w": "what",
+                "t": 5364.0,
+                "d": 291.0
+              },
+              {
+                "w": "was",
+                "t": 5656.0,
+                "d": 208.0
+              },
+              {
+                "w": "true",
+                "t": 5864.0,
+                "d": 541.0
+              },
+              {
+                "w": "what",
+                "t": 6489.0,
+                "d": 291.0
+              },
+              {
+                "w": "was",
+                "t": 6781.0,
+                "d": 208.0
+              },
+              {
+                "w": "owned",
+                "t": 6989.0,
+                "d": 500.0
+              },
+              {
+                "w": "and",
+                "t": 7822.0,
+                "d": 291.0
+              },
+              {
+                "w": "whether",
+                "t": 8114.0,
+                "d": 290.0
+              },
+              {
+                "w": "Nalanda's",
+                "t": 8405.0,
+                "d": 626.0
+              },
+              {
+                "w": "learning",
+                "t": 9031.0,
+                "d": 415.0
+              },
+              {
+                "w": "would",
+                "t": 9446.0,
+                "d": 209.0
+              },
+              {
+                "w": "endure",
+                "t": 9656.0,
+                "d": 500.0
+              },
+              {
+                "w": "or",
+                "t": 10156.0,
+                "d": 208.0
+              },
+              {
+                "w": "vanish",
+                "t": 10364.0,
+                "d": 500.0
+              },
+              {
+                "w": "in",
+                "t": 10864.0,
+                "d": 207.0
+              },
+              {
+                "w": "doubt",
+                "t": 11071.0,
+                "d": 541.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_self_governing_sangha/intro/map.png",
+      "x": 0.62,
+      "y": 0.58,
+      "label": "Nalanda Mahavihara, Magadha",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here in the plains of Magadha, a sea of monks relied on humble seals to hold a giant university together.",
+            "hi": "मगध के मैदानों में साधुओं का सागर, छोटे मुहरों पर टिकी थी विशाल विद्यापीठ की डोर।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/intro/map_en.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "in",
+                "t": 448.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 586.0,
+                "d": 183.0
+              },
+              {
+                "w": "plains",
+                "t": 770.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 1137.0,
+                "d": 275.0
+              },
+              {
+                "w": "Magadha",
+                "t": 1413.0,
+                "d": 551.0
+              },
+              {
+                "w": "a",
+                "t": 2563.0,
+                "d": 228.0
+              },
+              {
+                "w": "sea",
+                "t": 2791.0,
+                "d": 322.0
+              },
+              {
+                "w": "of",
+                "t": 3114.0,
+                "d": 228.0
+              },
+              {
+                "w": "monks",
+                "t": 3343.0,
+                "d": 414.0
+              },
+              {
+                "w": "relied",
+                "t": 3758.0,
+                "d": 505.0
+              },
+              {
+                "w": "on",
+                "t": 4264.0,
+                "d": 228.0
+              },
+              {
+                "w": "humble",
+                "t": 4493.0,
+                "d": 460.0
+              },
+              {
+                "w": "seals",
+                "t": 4954.0,
+                "d": 551.0
+              },
+              {
+                "w": "to",
+                "t": 5505.0,
+                "d": 137.0
+              },
+              {
+                "w": "hold",
+                "t": 5643.0,
+                "d": 367.0
+              },
+              {
+                "w": "a",
+                "t": 6011.0,
+                "d": 229.0
+              },
+              {
+                "w": "giant",
+                "t": 6241.0,
+                "d": 459.0
+              },
+              {
+                "w": "university",
+                "t": 6701.0,
+                "d": 643.0
+              },
+              {
+                "w": "together",
+                "t": 7344.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_self_governing_sangha/img/cover.png",
+      "shot": "dramatic low-angle close-up of a hand pressing a carved seal into soft clay with Nalanda’s red-brick monasteries looming in the hazy background",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "While Nalanda's halls rang with debate, silent clay seals guarded its memory and gave its sangha a single, enduring voice.",
+            "hi": "जब नालंदा के प्रांगण बहस से गूंजते थे, मौन मिट्टी की मुहरें उसकी स्मृति की रखवाली करतीं और संघ को एक अटूट स्वर देती थीं।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/cover_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "While",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "Nalanda's",
+                "t": 372.0,
+                "d": 553.0
+              },
+              {
+                "w": "halls",
+                "t": 925.0,
+                "d": 340.0
+              },
+              {
+                "w": "rang",
+                "t": 1265.0,
+                "d": 255.0
+              },
+              {
+                "w": "with",
+                "t": 1521.0,
+                "d": 170.0
+              },
+              {
+                "w": "debate",
+                "t": 1691.0,
+                "d": 595.0
+              },
+              {
+                "w": "silent",
+                "t": 2414.0,
+                "d": 552.0
+              },
+              {
+                "w": "clay",
+                "t": 2967.0,
+                "d": 212.0
+              },
+              {
+                "w": "seals",
+                "t": 3179.0,
+                "d": 425.0
+              },
+              {
+                "w": "guarded",
+                "t": 3605.0,
+                "d": 384.0
+              },
+              {
+                "w": "its",
+                "t": 3989.0,
+                "d": 169.0
+              },
+              {
+                "w": "memory",
+                "t": 4158.0,
+                "d": 639.0
+              },
+              {
+                "w": "and",
+                "t": 4797.0,
+                "d": 297.0
+              },
+              {
+                "w": "gave",
+                "t": 5095.0,
+                "d": 297.0
+              },
+              {
+                "w": "its",
+                "t": 5393.0,
+                "d": 127.0
+              },
+              {
+                "w": "sangha",
+                "t": 5521.0,
+                "d": 425.0
+              },
+              {
+                "w": "a",
+                "t": 5946.0,
+                "d": 212.0
+              },
+              {
+                "w": "single",
+                "t": 6159.0,
+                "d": 765.0
+              },
+              {
+                "w": "enduring",
+                "t": 7010.0,
+                "d": 680.0
+              },
+              {
+                "w": "voice",
+                "t": 7691.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_self_governing_sangha/img/p01.png",
+      "shot": "slow aerial sweep over the excavated ruins of Nalanda at sunrise",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Magadha's heartland, between the 5th and 12th centuries, Nalanda grew into a great monastery-university, a city of brick amid fields and villages.",
+            "hi": "मगध के हृदय में, पाँचवीं से बारहवीं सदी के बीच, नालंदा एक विशाल विहार–विश्वविद्यालय बना, खेतों और गाँवों के बीच ईंटों का नगर।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p01_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "Magadha's",
+                "t": 244.0,
+                "d": 680.0
+              },
+              {
+                "w": "heartland",
+                "t": 925.0,
+                "d": 553.0
+              },
+              {
+                "w": "between",
+                "t": 1478.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 1946.0,
+                "d": 127.0
+              },
+              {
+                "w": "5th",
+                "t": 2074.0,
+                "d": 381.0
+              },
+              {
+                "w": "and",
+                "t": 2456.0,
+                "d": 298.0
+              },
+              {
+                "w": "12th",
+                "t": 2755.0,
+                "d": 381.0
+              },
+              {
+                "w": "centuries",
+                "t": 3137.0,
+                "d": 852.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 4201.0,
+                "d": 596.0
+              },
+              {
+                "w": "grew",
+                "t": 4797.0,
+                "d": 340.0
+              },
+              {
+                "w": "into",
+                "t": 5138.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 5436.0,
+                "d": 127.0
+              },
+              {
+                "w": "great",
+                "t": 5563.0,
+                "d": 382.0
+              },
+              {
+                "w": "monastery-university",
+                "t": 5946.0,
+                "d": 1191.0
+              },
+              {
+                "w": "a",
+                "t": 7606.0,
+                "d": 212.0
+              },
+              {
+                "w": "city",
+                "t": 7819.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 8117.0,
+                "d": 212.0
+              },
+              {
+                "w": "brick",
+                "t": 8329.0,
+                "d": 638.0
+              },
+              {
+                "w": "amid",
+                "t": 9053.0,
+                "d": 297.0
+              },
+              {
+                "w": "fields",
+                "t": 9351.0,
+                "d": 467.0
+              },
+              {
+                "w": "and",
+                "t": 9818.0,
+                "d": 255.0
+              },
+              {
+                "w": "villages",
+                "t": 10073.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_self_governing_sangha/img/p02.png",
+      "shot": "medium shot at ground level inside a bustling Nalanda courtyard",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "We remember its debates, its teachers, the hum of recitation. Yet such a vast sangha could not live on ideas alone.",
+            "hi": "हमें उसकी बहसें याद हैं, उसके आचार्य, पाठ की गुनगुनाहट। पर इतना बड़ा संघ केवल विचारों पर नहीं चल सकता था।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p02_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 117.0,
+                "d": 212.0
+              },
+              {
+                "w": "remember",
+                "t": 329.0,
+                "d": 382.0
+              },
+              {
+                "w": "its",
+                "t": 712.0,
+                "d": 212.0
+              },
+              {
+                "w": "debates",
+                "t": 925.0,
+                "d": 765.0
+              },
+              {
+                "w": "its",
+                "t": 1819.0,
+                "d": 339.0
+              },
+              {
+                "w": "teachers",
+                "t": 2158.0,
+                "d": 851.0
+              },
+              {
+                "w": "the",
+                "t": 3265.0,
+                "d": 296.0
+              },
+              {
+                "w": "hum",
+                "t": 3562.0,
+                "d": 256.0
+              },
+              {
+                "w": "of",
+                "t": 3819.0,
+                "d": 127.0
+              },
+              {
+                "w": "recitation",
+                "t": 3946.0,
+                "d": 1446.0
+              },
+              {
+                "w": "Yet",
+                "t": 5521.0,
+                "d": 340.0
+              },
+              {
+                "w": "such",
+                "t": 5861.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 6159.0,
+                "d": 85.0
+              },
+              {
+                "w": "vast",
+                "t": 6244.0,
+                "d": 425.0
+              },
+              {
+                "w": "sangha",
+                "t": 6670.0,
+                "d": 765.0
+              },
+              {
+                "w": "could",
+                "t": 7521.0,
+                "d": 297.0
+              },
+              {
+                "w": "not",
+                "t": 7819.0,
+                "d": 170.0
+              },
+              {
+                "w": "live",
+                "t": 7989.0,
+                "d": 212.0
+              },
+              {
+                "w": "on",
+                "t": 8202.0,
+                "d": 127.0
+              },
+              {
+                "w": "ideas",
+                "t": 8329.0,
+                "d": 509.0
+              },
+              {
+                "w": "alone",
+                "t": 8839.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_self_governing_sangha/img/p03.png",
+      "shot": "intimate interior medium shot in a small records room",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Food had to arrive, gifts be recorded, disputes settled, promises remembered. Within the cloisters, quiet stewards and scribes carried this hidden work.",
+            "hi": "अन्न आना था, दान लिखे जाते थे, झगड़े सुलझते थे, वचन याद रखे जाते थे। भीतर की गलियों में, शांत प्रबंधक और लेखक यह गुप्त काम संभालते थे।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p03_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Food",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "had",
+                "t": 414.0,
+                "d": 212.0
+              },
+              {
+                "w": "to",
+                "t": 627.0,
+                "d": 127.0
+              },
+              {
+                "w": "arrive",
+                "t": 755.0,
+                "d": 765.0
+              },
+              {
+                "w": "gifts",
+                "t": 1563.0,
+                "d": 468.0
+              },
+              {
+                "w": "be",
+                "t": 2031.0,
+                "d": 170.0
+              },
+              {
+                "w": "recorded",
+                "t": 2202.0,
+                "d": 850.0
+              },
+              {
+                "w": "disputes",
+                "t": 3179.0,
+                "d": 596.0
+              },
+              {
+                "w": "settled",
+                "t": 3776.0,
+                "d": 851.0
+              },
+              {
+                "w": "promises",
+                "t": 4797.0,
+                "d": 595.0
+              },
+              {
+                "w": "remembered",
+                "t": 5393.0,
+                "d": 680.0
+              },
+              {
+                "w": "Within",
+                "t": 7010.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 7393.0,
+                "d": 127.0
+              },
+              {
+                "w": "cloisters",
+                "t": 7521.0,
+                "d": 936.0
+              },
+              {
+                "w": "quiet",
+                "t": 8541.0,
+                "d": 596.0
+              },
+              {
+                "w": "stewards",
+                "t": 9138.0,
+                "d": 509.0
+              },
+              {
+                "w": "and",
+                "t": 9647.0,
+                "d": 255.0
+              },
+              {
+                "w": "scribes",
+                "t": 9903.0,
+                "d": 554.0
+              },
+              {
+                "w": "carried",
+                "t": 10457.0,
+                "d": 424.0
+              },
+              {
+                "w": "this",
+                "t": 10881.0,
+                "d": 255.0
+              },
+              {
+                "w": "hidden",
+                "t": 11137.0,
+                "d": 298.0
+              },
+              {
+                "w": "work",
+                "t": 11436.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_self_governing_sangha/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_self_governing_sangha/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He steps from quiet chambers into Nalanda's vast bustle, bearing seals that bind distant donors to this learned world.",
+            "hi": "शांत कक्षों से निकलकर वो नालंदा की हलचल में कदम रखता है, मुहरें लिए जो दूर के दानियों को इस विद्या-लोक से जोड़ती हैं।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 80.0,
+                "d": 183.0
+              },
+              {
+                "w": "steps",
+                "t": 264.0,
+                "d": 505.0
+              },
+              {
+                "w": "from",
+                "t": 770.0,
+                "d": 229.0
+              },
+              {
+                "w": "quiet",
+                "t": 1000.0,
+                "d": 367.0
+              },
+              {
+                "w": "chambers",
+                "t": 1367.0,
+                "d": 643.0
+              },
+              {
+                "w": "into",
+                "t": 2011.0,
+                "d": 320.0
+              },
+              {
+                "w": "Nalanda's",
+                "t": 2332.0,
+                "d": 736.0
+              },
+              {
+                "w": "vast",
+                "t": 3068.0,
+                "d": 459.0
+              },
+              {
+                "w": "bustle",
+                "t": 3528.0,
+                "d": 643.0
+              },
+              {
+                "w": "bearing",
+                "t": 4632.0,
+                "d": 505.0
+              },
+              {
+                "w": "seals",
+                "t": 5137.0,
+                "d": 459.0
+              },
+              {
+                "w": "that",
+                "t": 5597.0,
+                "d": 275.0
+              },
+              {
+                "w": "bind",
+                "t": 5873.0,
+                "d": 367.0
+              },
+              {
+                "w": "distant",
+                "t": 6241.0,
+                "d": 505.0
+              },
+              {
+                "w": "donors",
+                "t": 6747.0,
+                "d": 827.0
+              },
+              {
+                "w": "to",
+                "t": 7712.0,
+                "d": 229.0
+              },
+              {
+                "w": "this",
+                "t": 7942.0,
+                "d": 321.0
+              },
+              {
+                "w": "learned",
+                "t": 8264.0,
+                "d": 367.0
+              },
+              {
+                "w": "world",
+                "t": 8632.0,
+                "d": 734.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_self_governing_sangha/img/p04.png",
+      "shot": "close-up on hands preparing a sealing",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Most of their palm-leaf records have vanished. But their clay sealings, hardened by accident or fire, remained buried in the earth.",
+            "hi": "उनकी अधिकांश ताड़पत्र पांडुलिपियाँ गायब हो गईं। पर संयोग या आग से पकी उनकी मिट्टी की मुहरें धरती में दबी रह गईं।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p04_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Most",
+                "t": 117.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 542.0,
+                "d": 127.0
+              },
+              {
+                "w": "their",
+                "t": 670.0,
+                "d": 255.0
+              },
+              {
+                "w": "palm-leaf",
+                "t": 925.0,
+                "d": 468.0
+              },
+              {
+                "w": "records",
+                "t": 1393.0,
+                "d": 468.0
+              },
+              {
+                "w": "have",
+                "t": 1861.0,
+                "d": 212.0
+              },
+              {
+                "w": "vanished",
+                "t": 2074.0,
+                "d": 977.0
+              },
+              {
+                "w": "But",
+                "t": 3393.0,
+                "d": 296.0
+              },
+              {
+                "w": "their",
+                "t": 3690.0,
+                "d": 256.0
+              },
+              {
+                "w": "clay",
+                "t": 3946.0,
+                "d": 254.0
+              },
+              {
+                "w": "sealings",
+                "t": 4201.0,
+                "d": 767.0
+              },
+              {
+                "w": "hardened",
+                "t": 5010.0,
+                "d": 553.0
+              },
+              {
+                "w": "by",
+                "t": 5563.0,
+                "d": 212.0
+              },
+              {
+                "w": "accident",
+                "t": 5776.0,
+                "d": 595.0
+              },
+              {
+                "w": "or",
+                "t": 6372.0,
+                "d": 170.0
+              },
+              {
+                "w": "fire",
+                "t": 6542.0,
+                "d": 765.0
+              },
+              {
+                "w": "remained",
+                "t": 7478.0,
+                "d": 765.0
+              },
+              {
+                "w": "buried",
+                "t": 8287.0,
+                "d": 595.0
+              },
+              {
+                "w": "in",
+                "t": 8882.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 9053.0,
+                "d": 126.0
+              },
+              {
+                "w": "earth",
+                "t": 9179.0,
+                "d": 511.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_self_governing_sangha/img/p05.png",
+      "shot": "tight close-up as the seal meets the clay",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On these small discs the sangha stamped its name, its claim, its consent: the 'arya-bhikshu-sangha of the great Nalanda monastery' made visible.",
+            "hi": "इन छोटे चक्रों पर संघ ने अपना नाम, अपना दावा, अपनी सहमति अंकित की: ‘महान नालंदा विहार का आर्य भिक्षु संघ’ सबकी आँखों के सामने।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p05_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 117.0,
+                "d": 255.0
+              },
+              {
+                "w": "these",
+                "t": 372.0,
+                "d": 212.0
+              },
+              {
+                "w": "small",
+                "t": 585.0,
+                "d": 340.0
+              },
+              {
+                "w": "discs",
+                "t": 925.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 1606.0,
+                "d": 170.0
+              },
+              {
+                "w": "sangha",
+                "t": 1776.0,
+                "d": 510.0
+              },
+              {
+                "w": "stamped",
+                "t": 2287.0,
+                "d": 553.0
+              },
+              {
+                "w": "its",
+                "t": 2840.0,
+                "d": 169.0
+              },
+              {
+                "w": "name",
+                "t": 3009.0,
+                "d": 767.0
+              },
+              {
+                "w": "its",
+                "t": 3776.0,
+                "d": 296.0
+              },
+              {
+                "w": "claim",
+                "t": 4073.0,
+                "d": 767.0
+              },
+              {
+                "w": "its",
+                "t": 5095.0,
+                "d": 297.0
+              },
+              {
+                "w": "consent",
+                "t": 5393.0,
+                "d": 851.0
+              },
+              {
+                "w": "the",
+                "t": 6797.0,
+                "d": 212.0
+              },
+              {
+                "w": "arya-bhikshu-sangha",
+                "t": 7010.0,
+                "d": 1319.0
+              },
+              {
+                "w": "of",
+                "t": 8541.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 8839.0,
+                "d": 128.0
+              },
+              {
+                "w": "great",
+                "t": 8968.0,
+                "d": 340.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 9308.0,
+                "d": 509.0
+              },
+              {
+                "w": "monastery",
+                "t": 9818.0,
+                "d": 809.0
+              },
+              {
+                "w": "made",
+                "t": 10627.0,
+                "d": 382.0
+              },
+              {
+                "w": "visible",
+                "t": 11010.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_self_governing_sangha/img/p06.png",
+      "shot": "archaeological time-split: layered cutaway from ancient room to modern excavation trench",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Centuries later, when the Archaeological Survey dug here, they found hundreds of such seals and sealings in the debris of fallen monasteries.",
+            "hi": "सदियों बाद, जब पुरातत्त्व विभाग ने यहाँ खुदाई की, तो गिरी हुई विहारों के मलबे में उन्हें सैकड़ों ऐसी मुहरें और शिलमोहरें मिलीं।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p06_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Centuries",
+                "t": 117.0,
+                "d": 680.0
+              },
+              {
+                "w": "later",
+                "t": 797.0,
+                "d": 680.0
+              },
+              {
+                "w": "when",
+                "t": 1521.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 1734.0,
+                "d": 212.0
+              },
+              {
+                "w": "Archaeological",
+                "t": 1946.0,
+                "d": 808.0
+              },
+              {
+                "w": "Survey",
+                "t": 2755.0,
+                "d": 468.0
+              },
+              {
+                "w": "dug",
+                "t": 3223.0,
+                "d": 212.0
+              },
+              {
+                "w": "here",
+                "t": 3436.0,
+                "d": 851.0
+              },
+              {
+                "w": "they",
+                "t": 4414.0,
+                "d": 212.0
+              },
+              {
+                "w": "found",
+                "t": 4627.0,
+                "d": 297.0
+              },
+              {
+                "w": "hundreds",
+                "t": 4925.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 5478.0,
+                "d": 85.0
+              },
+              {
+                "w": "such",
+                "t": 5563.0,
+                "d": 340.0
+              },
+              {
+                "w": "seals",
+                "t": 5904.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 6372.0,
+                "d": 170.0
+              },
+              {
+                "w": "sealings",
+                "t": 6542.0,
+                "d": 595.0
+              },
+              {
+                "w": "in",
+                "t": 7138.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 7308.0,
+                "d": 170.0
+              },
+              {
+                "w": "debris",
+                "t": 7478.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 7904.0,
+                "d": 170.0
+              },
+              {
+                "w": "fallen",
+                "t": 8074.0,
+                "d": 467.0
+              },
+              {
+                "w": "monasteries",
+                "t": 8541.0,
+                "d": 1022.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_self_governing_sangha/img/p07.png",
+      "shot": "macro shot of a terracotta seal on an archaeologist’s palm",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hiranand Sastri patiently read their worn letters, cataloguing formulae that named the Nalanda sangha as a corporate body with its own official mark.",
+            "hi": "हीरानंद शास्त्री ने धैर्य से घिसे अक्षर पढ़े, उन वाक्यों की सूची बनाई जो नालंदा संघ को अपने मुहर वाले संगठन के रूप में पहचानते थे।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p07_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hiranand",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "Sastri",
+                "t": 585.0,
+                "d": 468.0
+              },
+              {
+                "w": "patiently",
+                "t": 1053.0,
+                "d": 638.0
+              },
+              {
+                "w": "read",
+                "t": 1691.0,
+                "d": 297.0
+              },
+              {
+                "w": "their",
+                "t": 1989.0,
+                "d": 212.0
+              },
+              {
+                "w": "worn",
+                "t": 2202.0,
+                "d": 296.0
+              },
+              {
+                "w": "letters",
+                "t": 2498.0,
+                "d": 724.0
+              },
+              {
+                "w": "cataloguing",
+                "t": 3478.0,
+                "d": 637.0
+              },
+              {
+                "w": "formulae",
+                "t": 4115.0,
+                "d": 596.0
+              },
+              {
+                "w": "that",
+                "t": 4968.0,
+                "d": 297.0
+              },
+              {
+                "w": "named",
+                "t": 5265.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 5563.0,
+                "d": 170.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 5734.0,
+                "d": 468.0
+              },
+              {
+                "w": "sangha",
+                "t": 6202.0,
+                "d": 425.0
+              },
+              {
+                "w": "as",
+                "t": 6627.0,
+                "d": 595.0
+              },
+              {
+                "w": "a",
+                "t": 7223.0,
+                "d": 127.0
+              },
+              {
+                "w": "corporate",
+                "t": 7351.0,
+                "d": 468.0
+              },
+              {
+                "w": "body",
+                "t": 7819.0,
+                "d": 340.0
+              },
+              {
+                "w": "with",
+                "t": 8159.0,
+                "d": 212.0
+              },
+              {
+                "w": "its",
+                "t": 8372.0,
+                "d": 169.0
+              },
+              {
+                "w": "own",
+                "t": 8541.0,
+                "d": 297.0
+              },
+              {
+                "w": "official",
+                "t": 8839.0,
+                "d": 469.0
+              },
+              {
+                "w": "mark",
+                "t": 9308.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_self_governing_sangha/img/p08.png",
+      "shot": "medium shot of a sangha council in a hall",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "These seals did not belong to a king's chancery. They spoke for the community itself, used when the sangha acted together, accepted a gift, or answered a claim.",
+            "hi": "ये मुहरें किसी राजा के दरबार की नहीं थीं। ये सीधे समुदाय की आवाज थीं, जब संघ मिलकर काम करता, दान स्वीकारता या किसी दावे का उत्तर देता।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p08_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "These",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "seals",
+                "t": 457.0,
+                "d": 340.0
+              },
+              {
+                "w": "did",
+                "t": 797.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 968.0,
+                "d": 212.0
+              },
+              {
+                "w": "belong",
+                "t": 1180.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 1521.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 1648.0,
+                "d": 42.0
+              },
+              {
+                "w": "king's",
+                "t": 1691.0,
+                "d": 425.0
+              },
+              {
+                "w": "chancery",
+                "t": 2117.0,
+                "d": 1020.0
+              },
+              {
+                "w": "They",
+                "t": 3393.0,
+                "d": 211.0
+              },
+              {
+                "w": "spoke",
+                "t": 3605.0,
+                "d": 298.0
+              },
+              {
+                "w": "for",
+                "t": 3904.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 4030.0,
+                "d": 127.0
+              },
+              {
+                "w": "community",
+                "t": 4158.0,
+                "d": 554.0
+              },
+              {
+                "w": "itself",
+                "t": 4712.0,
+                "d": 808.0
+              },
+              {
+                "w": "used",
+                "t": 5606.0,
+                "d": 425.0
+              },
+              {
+                "w": "when",
+                "t": 6031.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 6202.0,
+                "d": 127.0
+              },
+              {
+                "w": "sangha",
+                "t": 6329.0,
+                "d": 425.0
+              },
+              {
+                "w": "acted",
+                "t": 6755.0,
+                "d": 382.0
+              },
+              {
+                "w": "together",
+                "t": 7138.0,
+                "d": 765.0
+              },
+              {
+                "w": "accepted",
+                "t": 7904.0,
+                "d": 637.0
+              },
+              {
+                "w": "a",
+                "t": 8541.0,
+                "d": 127.0
+              },
+              {
+                "w": "gift",
+                "t": 8669.0,
+                "d": 639.0
+              },
+              {
+                "w": "or",
+                "t": 9351.0,
+                "d": 340.0
+              },
+              {
+                "w": "answered",
+                "t": 9691.0,
+                "d": 467.0
+              },
+              {
+                "w": "a",
+                "t": 10158.0,
+                "d": 43.0
+              },
+              {
+                "w": "claim",
+                "t": 10202.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_self_governing_sangha/img/p09.png",
+      "shot": "medium close-up of a deliberating elder handing a document",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Let the sangha's seal show that we have agreed as one.",
+            "hi": "संघ की मुहर दिखाए कि हम सबने एक स्वर में सहमति दी है।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p09_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Let",
+                "t": 49.0,
+                "d": 269.6
+              },
+              {
+                "w": "the",
+                "t": 355.4,
+                "d": 147.0
+              },
+              {
+                "w": "sangha's",
+                "t": 502.5,
+                "d": 612.8
+              },
+              {
+                "w": "seal",
+                "t": 1152.0,
+                "d": 355.4
+              },
+              {
+                "w": "show",
+                "t": 1507.3,
+                "d": 330.9
+              },
+              {
+                "w": "that",
+                "t": 1838.2,
+                "d": 269.6
+              },
+              {
+                "w": "we",
+                "t": 2107.8,
+                "d": 208.3
+              },
+              {
+                "w": "have",
+                "t": 2316.2,
+                "d": 294.1
+              },
+              {
+                "w": "agreed",
+                "t": 2683.8,
+                "d": 453.4
+              },
+              {
+                "w": "as",
+                "t": 3210.8,
+                "d": 245.1
+              },
+              {
+                "w": "one",
+                "t": 3455.9,
+                "d": 306.4
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_self_governing_sangha/img/p10.png",
+      "shot": "medium shot in a storeroom with labeled baskets and jars",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Clay tags on baskets, jars, and documents marked what belonged to the monastery, which gifts went where, which obligations the sangha had accepted.",
+            "hi": "टोकरी, घड़ों और कागज़ों पर लगी मिट्टी की टैग बताती थीं क्या विहार का है, कौन सा दान कहाँ जाएगा, कौन सी जिम्मेदारी संघ ने स्वीकार की है।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p10_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Clay",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "tags",
+                "t": 372.0,
+                "d": 297.0
+              },
+              {
+                "w": "on",
+                "t": 670.0,
+                "d": 212.0
+              },
+              {
+                "w": "baskets",
+                "t": 882.0,
+                "d": 680.0
+              },
+              {
+                "w": "jars",
+                "t": 1606.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 2372.0,
+                "d": 254.0
+              },
+              {
+                "w": "documents",
+                "t": 2626.0,
+                "d": 596.0
+              },
+              {
+                "w": "marked",
+                "t": 3223.0,
+                "d": 339.0
+              },
+              {
+                "w": "what",
+                "t": 3562.0,
+                "d": 256.0
+              },
+              {
+                "w": "belonged",
+                "t": 3819.0,
+                "d": 381.0
+              },
+              {
+                "w": "to",
+                "t": 4201.0,
+                "d": 86.0
+              },
+              {
+                "w": "the",
+                "t": 4287.0,
+                "d": 127.0
+              },
+              {
+                "w": "monastery",
+                "t": 4414.0,
+                "d": 893.0
+              },
+              {
+                "w": "which",
+                "t": 5351.0,
+                "d": 297.0
+              },
+              {
+                "w": "gifts",
+                "t": 5648.0,
+                "d": 340.0
+              },
+              {
+                "w": "went",
+                "t": 5989.0,
+                "d": 468.0
+              },
+              {
+                "w": "where",
+                "t": 6627.0,
+                "d": 638.0
+              },
+              {
+                "w": "which",
+                "t": 7606.0,
+                "d": 382.0
+              },
+              {
+                "w": "obligations",
+                "t": 7989.0,
+                "d": 679.0
+              },
+              {
+                "w": "the",
+                "t": 8669.0,
+                "d": 170.0
+              },
+              {
+                "w": "sangha",
+                "t": 8839.0,
+                "d": 384.0
+              },
+              {
+                "w": "had",
+                "t": 9223.0,
+                "d": 170.0
+              },
+              {
+                "w": "accepted",
+                "t": 9393.0,
+                "d": 764.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_self_governing_sangha/img/p11.png",
+      "shot": "medium shot at a gatehouse with villagers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Villagers brought rice, oil, cloth. The sangha recorded these offerings, not with ink alone but with seals that authenticated the transaction.",
+            "hi": "गाँव वाले चावल, तेल, कपड़ा लाते थे। संघ इन भेंटों को दर्ज करता, सिर्फ स्याही से नहीं, मुहरों से जो लेन-देन को सच ठहराती थीं।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p11_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Villagers",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "brought",
+                "t": 712.0,
+                "d": 340.0
+              },
+              {
+                "w": "rice",
+                "t": 1053.0,
+                "d": 723.0
+              },
+              {
+                "w": "oil",
+                "t": 1861.0,
+                "d": 594.0
+              },
+              {
+                "w": "cloth",
+                "t": 2584.0,
+                "d": 425.0
+              },
+              {
+                "w": "The",
+                "t": 3009.0,
+                "d": 256.0
+              },
+              {
+                "w": "sangha",
+                "t": 3989.0,
+                "d": 510.0
+              },
+              {
+                "w": "recorded",
+                "t": 4500.0,
+                "d": 510.0
+              },
+              {
+                "w": "these",
+                "t": 5010.0,
+                "d": 212.0
+              },
+              {
+                "w": "offerings",
+                "t": 5223.0,
+                "d": 765.0
+              },
+              {
+                "w": "not",
+                "t": 6202.0,
+                "d": 340.0
+              },
+              {
+                "w": "with",
+                "t": 6542.0,
+                "d": 212.0
+              },
+              {
+                "w": "ink",
+                "t": 6797.0,
+                "d": 212.0
+              },
+              {
+                "w": "alone",
+                "t": 7010.0,
+                "d": 553.0
+              },
+              {
+                "w": "but",
+                "t": 7563.0,
+                "d": 255.0
+              },
+              {
+                "w": "with",
+                "t": 7819.0,
+                "d": 212.0
+              },
+              {
+                "w": "seals",
+                "t": 8031.0,
+                "d": 468.0
+              },
+              {
+                "w": "that",
+                "t": 8500.0,
+                "d": 211.0
+              },
+              {
+                "w": "authenticated",
+                "t": 8711.0,
+                "d": 852.0
+              },
+              {
+                "w": "the",
+                "t": 9563.0,
+                "d": 127.0
+              },
+              {
+                "w": "transaction",
+                "t": 9691.0,
+                "d": 893.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_self_governing_sangha/img/p12.png",
+      "shot": "over-the-shoulder shot of the seal keeper examining different seal faces",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Some seals repeated standard formulae. Others added personal names or images, hinting at different offices or donors, all tied back to the greater Nalanda monastery.",
+            "hi": "कुछ मुहरें एक तय वाक्य दोहराती थीं। कुछ में नाम या चित्र जुड़ते थे, अलग–अलग पदों या दाताओं का संकेत देते, फिर भी सब महान नालंदा विहार से जुड़े हुए।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p12_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Some",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "seals",
+                "t": 372.0,
+                "d": 340.0
+              },
+              {
+                "w": "repeated",
+                "t": 712.0,
+                "d": 595.0
+              },
+              {
+                "w": "standard",
+                "t": 1308.0,
+                "d": 468.0
+              },
+              {
+                "w": "formulae",
+                "t": 1776.0,
+                "d": 553.0
+              },
+              {
+                "w": "Others",
+                "t": 3052.0,
+                "d": 468.0
+              },
+              {
+                "w": "added",
+                "t": 3520.0,
+                "d": 426.0
+              },
+              {
+                "w": "personal",
+                "t": 3946.0,
+                "d": 425.0
+              },
+              {
+                "w": "names",
+                "t": 4372.0,
+                "d": 425.0
+              },
+              {
+                "w": "or",
+                "t": 4797.0,
+                "d": 170.0
+              },
+              {
+                "w": "images",
+                "t": 4968.0,
+                "d": 723.0
+              },
+              {
+                "w": "hinting",
+                "t": 5776.0,
+                "d": 468.0
+              },
+              {
+                "w": "at",
+                "t": 6244.0,
+                "d": 127.0
+              },
+              {
+                "w": "different",
+                "t": 6372.0,
+                "d": 382.0
+              },
+              {
+                "w": "offices",
+                "t": 6755.0,
+                "d": 553.0
+              },
+              {
+                "w": "or",
+                "t": 7308.0,
+                "d": 212.0
+              },
+              {
+                "w": "donors",
+                "t": 7521.0,
+                "d": 765.0
+              },
+              {
+                "w": "all",
+                "t": 8500.0,
+                "d": 339.0
+              },
+              {
+                "w": "tied",
+                "t": 8839.0,
+                "d": 298.0
+              },
+              {
+                "w": "back",
+                "t": 9138.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 9436.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 9521.0,
+                "d": 126.0
+              },
+              {
+                "w": "greater",
+                "t": 9647.0,
+                "d": 425.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 10073.0,
+                "d": 554.0
+              },
+              {
+                "w": "monastery",
+                "t": 10627.0,
+                "d": 764.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_self_governing_sangha/img/p13.png",
+      "shot": "medium shot of the seal keeper with an itinerant monk-messenger",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Some sealed bundles went outward, carried by monks toward patrons, other monasteries, and distant courts. The seal made the voice of Nalanda recognizable far beyond its walls.",
+            "hi": "कुछ मुहरबंद गठरियाँ बाहर जातीं, भिक्षुओं के साथ दानदाताओं, दूसरे विहारों और दूर दरबारों तक। मुहर ने नालंदा की आवाज़ दीवारों के पार भी पहचान योग्य बना दी।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p13_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Some",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "sealed",
+                "t": 372.0,
+                "d": 340.0
+              },
+              {
+                "w": "bundles",
+                "t": 712.0,
+                "d": 510.0
+              },
+              {
+                "w": "went",
+                "t": 1223.0,
+                "d": 297.0
+              },
+              {
+                "w": "outward",
+                "t": 1521.0,
+                "d": 765.0
+              },
+              {
+                "w": "carried",
+                "t": 2541.0,
+                "d": 425.0
+              },
+              {
+                "w": "by",
+                "t": 2967.0,
+                "d": 212.0
+              },
+              {
+                "w": "monks",
+                "t": 3179.0,
+                "d": 340.0
+              },
+              {
+                "w": "toward",
+                "t": 3520.0,
+                "d": 341.0
+              },
+              {
+                "w": "patrons",
+                "t": 3861.0,
+                "d": 893.0
+              },
+              {
+                "w": "other",
+                "t": 4840.0,
+                "d": 340.0
+              },
+              {
+                "w": "monasteries",
+                "t": 5180.0,
+                "d": 936.0
+              },
+              {
+                "w": "and",
+                "t": 6117.0,
+                "d": 255.0
+              },
+              {
+                "w": "distant",
+                "t": 6372.0,
+                "d": 382.0
+              },
+              {
+                "w": "courts",
+                "t": 6755.0,
+                "d": 723.0
+              },
+              {
+                "w": "The",
+                "t": 7989.0,
+                "d": 255.0
+              },
+              {
+                "w": "seal",
+                "t": 8244.0,
+                "d": 296.0
+              },
+              {
+                "w": "made",
+                "t": 8541.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 8754.0,
+                "d": 128.0
+              },
+              {
+                "w": "voice",
+                "t": 8882.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 9223.0,
+                "d": 170.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 9393.0,
+                "d": 468.0
+              },
+              {
+                "w": "recognizable",
+                "t": 9861.0,
+                "d": 1190.0
+              },
+              {
+                "w": "far",
+                "t": 11052.0,
+                "d": 469.0
+              },
+              {
+                "w": "beyond",
+                "t": 11521.0,
+                "d": 339.0
+              },
+              {
+                "w": "its",
+                "t": 11860.0,
+                "d": 170.0
+              },
+              {
+                "w": "walls",
+                "t": 12030.0,
+                "d": 511.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_self_governing_sangha/img/p14.png",
+      "shot": "subtle time transition shot: same room, later century, blackened and ruined",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Fire and ruin later swept the monasteries. Palm-leaves turned to ash, but clay, once baked by the same heat, survived as stubborn witnesses.",
+            "hi": "आग और विनाश ने बाद में विहारों को बहा दिया। ताड़पत्र राख हो गए, पर वही तपिश से पकी मिट्टी ज़िद्दी गवाह बनकर बची रही।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p14_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Fire",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 670.0,
+                "d": 255.0
+              },
+              {
+                "w": "ruin",
+                "t": 925.0,
+                "d": 255.0
+              },
+              {
+                "w": "later",
+                "t": 1180.0,
+                "d": 425.0
+              },
+              {
+                "w": "swept",
+                "t": 1606.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 1989.0,
+                "d": 127.0
+              },
+              {
+                "w": "monasteries",
+                "t": 2117.0,
+                "d": 935.0
+              },
+              {
+                "w": "Palm-leaves",
+                "t": 3647.0,
+                "d": 595.0
+              },
+              {
+                "w": "turned",
+                "t": 4243.0,
+                "d": 298.0
+              },
+              {
+                "w": "to",
+                "t": 4542.0,
+                "d": 212.0
+              },
+              {
+                "w": "ash",
+                "t": 4755.0,
+                "d": 765.0
+              },
+              {
+                "w": "but",
+                "t": 5521.0,
+                "d": 382.0
+              },
+              {
+                "w": "clay",
+                "t": 5904.0,
+                "d": 893.0
+              },
+              {
+                "w": "once",
+                "t": 6797.0,
+                "d": 425.0
+              },
+              {
+                "w": "baked",
+                "t": 7223.0,
+                "d": 425.0
+              },
+              {
+                "w": "by",
+                "t": 7648.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 7819.0,
+                "d": 127.0
+              },
+              {
+                "w": "same",
+                "t": 7946.0,
+                "d": 297.0
+              },
+              {
+                "w": "heat",
+                "t": 8244.0,
+                "d": 509.0
+              },
+              {
+                "w": "survived",
+                "t": 8882.0,
+                "d": 723.0
+              },
+              {
+                "w": "as",
+                "t": 9606.0,
+                "d": 211.0
+              },
+              {
+                "w": "stubborn",
+                "t": 9818.0,
+                "d": 510.0
+              },
+              {
+                "w": "witnesses",
+                "t": 10328.0,
+                "d": 852.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_self_governing_sangha/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_self_governing_sangha/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Amid ruin and embers, he refuses retreat, guarding the last seals as if guarding Nalanda's very breath.",
+            "hi": "खंडहरों की आग में भी वो पीछे नहीं हटता, नालंदा की आखिरी सांस की तरह मुहरें सँभालता है।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Amid",
+                "t": 110.0,
+                "d": 400.0
+              },
+              {
+                "w": "ruin",
+                "t": 510.0,
+                "d": 280.0
+              },
+              {
+                "w": "and",
+                "t": 790.0,
+                "d": 240.0
+              },
+              {
+                "w": "embers",
+                "t": 1030.0,
+                "d": 720.0
+              },
+              {
+                "w": "he",
+                "t": 1910.0,
+                "d": 160.0
+              },
+              {
+                "w": "refuses",
+                "t": 2070.0,
+                "d": 520.0
+              },
+              {
+                "w": "retreat",
+                "t": 2590.0,
+                "d": 719.0
+              },
+              {
+                "w": "guarding",
+                "t": 3590.0,
+                "d": 440.0
+              },
+              {
+                "w": "the",
+                "t": 4030.0,
+                "d": 160.0
+              },
+              {
+                "w": "last",
+                "t": 4190.0,
+                "d": 400.0
+              },
+              {
+                "w": "seals",
+                "t": 4590.0,
+                "d": 680.0
+              },
+              {
+                "w": "as",
+                "t": 5310.0,
+                "d": 280.0
+              },
+              {
+                "w": "if",
+                "t": 5590.0,
+                "d": 160.0
+              },
+              {
+                "w": "guarding",
+                "t": 5750.0,
+                "d": 400.0
+              },
+              {
+                "w": "Nalanda's",
+                "t": 6150.0,
+                "d": 560.0
+              },
+              {
+                "w": "very",
+                "t": 6710.0,
+                "d": 360.0
+              },
+              {
+                "w": "breath",
+                "t": 7070.0,
+                "d": 440.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_self_governing_sangha/img/p15.png",
+      "shot": "modern-day lab close-up of a scholar studying a seal under magnification",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From these fragments, scholars like Hartmut Scharfe and Frederick Asher traced how the Nalanda sangha governed itself as an enduring institution.",
+            "hi": "इन टुकड़ों से, हार्टमुट शार्फे और फ़्रेडरिक एशर जैसे विद्वानों ने देखा कि नालंदा संघ खुद को एक स्थायी संस्था की तरह कैसे चलाता था।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p15_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "these",
+                "t": 457.0,
+                "d": 340.0
+              },
+              {
+                "w": "fragments",
+                "t": 797.0,
+                "d": 893.0
+              },
+              {
+                "w": "scholars",
+                "t": 1861.0,
+                "d": 637.0
+              },
+              {
+                "w": "like",
+                "t": 2498.0,
+                "d": 213.0
+              },
+              {
+                "w": "Hartmut",
+                "t": 2712.0,
+                "d": 467.0
+              },
+              {
+                "w": "Scharfe",
+                "t": 3179.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 3776.0,
+                "d": 212.0
+              },
+              {
+                "w": "Frederick",
+                "t": 3989.0,
+                "d": 468.0
+              },
+              {
+                "w": "Asher",
+                "t": 4457.0,
+                "d": 638.0
+              },
+              {
+                "w": "traced",
+                "t": 5351.0,
+                "d": 425.0
+              },
+              {
+                "w": "how",
+                "t": 5776.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 6031.0,
+                "d": 127.0
+              },
+              {
+                "w": "Nalanda",
+                "t": 6159.0,
+                "d": 553.0
+              },
+              {
+                "w": "sangha",
+                "t": 6712.0,
+                "d": 638.0
+              },
+              {
+                "w": "governed",
+                "t": 7478.0,
+                "d": 510.0
+              },
+              {
+                "w": "itself",
+                "t": 8031.0,
+                "d": 807.0
+              },
+              {
+                "w": "as",
+                "t": 8839.0,
+                "d": 255.0
+              },
+              {
+                "w": "an",
+                "t": 9094.0,
+                "d": 128.0
+              },
+              {
+                "w": "enduring",
+                "t": 9223.0,
+                "d": 638.0
+              },
+              {
+                "w": "institution",
+                "t": 9861.0,
+                "d": 893.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_self_governing_sangha/img/p16.png",
+      "shot": "split-frame comparing seal impression and reconstructed inscription line",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The text is simple, but its meaning is deep: it shows a community that could act collectively, own property, and authenticate its decisions without a king's hand on every line.",
+            "hi": "शब्द सादे हैं, अर्थ गहरा है: यह उस समुदाय को दिखाता है जो मिलकर काम कर सकता था, संपत्ति रख सकता था, और हर फ़रमान पर राजा की मुहर बिना भी अपने फैसले साबित कर सकता था।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p16_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "text",
+                "t": 287.0,
+                "d": 340.0
+              },
+              {
+                "w": "is",
+                "t": 627.0,
+                "d": 85.0
+              },
+              {
+                "w": "simple",
+                "t": 712.0,
+                "d": 936.0
+              },
+              {
+                "w": "but",
+                "t": 1691.0,
+                "d": 212.0
+              },
+              {
+                "w": "its",
+                "t": 1904.0,
+                "d": 212.0
+              },
+              {
+                "w": "meaning",
+                "t": 2117.0,
+                "d": 381.0
+              },
+              {
+                "w": "is",
+                "t": 2498.0,
+                "d": 213.0
+              },
+              {
+                "w": "deep",
+                "t": 2712.0,
+                "d": 892.0
+              },
+              {
+                "w": "it",
+                "t": 3734.0,
+                "d": 255.0
+              },
+              {
+                "w": "shows",
+                "t": 3989.0,
+                "d": 254.0
+              },
+              {
+                "w": "a",
+                "t": 4243.0,
+                "d": 86.0
+              },
+              {
+                "w": "community",
+                "t": 4329.0,
+                "d": 638.0
+              },
+              {
+                "w": "that",
+                "t": 4968.0,
+                "d": 212.0
+              },
+              {
+                "w": "could",
+                "t": 5180.0,
+                "d": 212.0
+              },
+              {
+                "w": "act",
+                "t": 5393.0,
+                "d": 382.0
+              },
+              {
+                "w": "collectively",
+                "t": 5776.0,
+                "d": 1021.0
+              },
+              {
+                "w": "own",
+                "t": 6840.0,
+                "d": 340.0
+              },
+              {
+                "w": "property",
+                "t": 7180.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 8031.0,
+                "d": 382.0
+              },
+              {
+                "w": "authenticate",
+                "t": 8414.0,
+                "d": 723.0
+              },
+              {
+                "w": "its",
+                "t": 9138.0,
+                "d": 170.0
+              },
+              {
+                "w": "decisions",
+                "t": 9308.0,
+                "d": 850.0
+              },
+              {
+                "w": "without",
+                "t": 10202.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 10585.0,
+                "d": 85.0
+              },
+              {
+                "w": "king's",
+                "t": 10670.0,
+                "d": 340.0
+              },
+              {
+                "w": "hand",
+                "t": 11010.0,
+                "d": 296.0
+              },
+              {
+                "w": "on",
+                "t": 11307.0,
+                "d": 213.0
+              },
+              {
+                "w": "every",
+                "t": 11521.0,
+                "d": 339.0
+              },
+              {
+                "w": "line",
+                "t": 11860.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_self_governing_sangha/img/p17.png",
+      "shot": "soft close-up of the seal keeper’s thoughtful face, mid-action",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "Debate ends with the bell. This record will outlast us all.",
+            "hi": "बहस घंटी पर खत्म होगी। यह लेखा हम सब से ज़्यादा देर तक बोलेगा।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p17_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Debate",
+                "t": 49.0,
+                "d": 416.7
+              },
+              {
+                "w": "ends",
+                "t": 551.5,
+                "d": 330.9
+              },
+              {
+                "w": "with",
+                "t": 906.9,
+                "d": 245.1
+              },
+              {
+                "w": "the",
+                "t": 1152.0,
+                "d": 134.8
+              },
+              {
+                "w": "bell",
+                "t": 1286.8,
+                "d": 392.2
+              },
+              {
+                "w": "This",
+                "t": 2500.0,
+                "d": 257.3
+              },
+              {
+                "w": "record",
+                "t": 2757.3,
+                "d": 490.2
+              },
+              {
+                "w": "will",
+                "t": 3284.3,
+                "d": 245.1
+              },
+              {
+                "w": "outlast",
+                "t": 3529.4,
+                "d": 600.5
+              },
+              {
+                "w": "us",
+                "t": 4191.2,
+                "d": 196.1
+              },
+              {
+                "w": "all",
+                "t": 4460.8,
+                "d": 355.4
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_self_governing_sangha/split_auto/s0.png",
+          "slogan": {
+            "en": "Seals endure, wisdom cannot burn",
+            "hi": "मोहर बची, ज्ञान न जलेगा"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_self_governing_sangha/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_self_governing_sangha/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across centuries, his careful seals outlast fire and forgetting, carrying Nalanda's voice into scholars' hands.",
+            "hi": "सदियों बाद भी, उसकी मुहरें आग और भूल से बचकर नालंदा की आवाज़ विद्वानों तक पहुँचाती रहीं।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 156.0,
+                "d": 458.0
+              },
+              {
+                "w": "centuries",
+                "t": 614.0,
+                "d": 833.0
+              },
+              {
+                "w": "his",
+                "t": 1697.0,
+                "d": 250.0
+              },
+              {
+                "w": "careful",
+                "t": 1947.0,
+                "d": 375.0
+              },
+              {
+                "w": "seals",
+                "t": 2322.0,
+                "d": 375.0
+              },
+              {
+                "w": "outlast",
+                "t": 2697.0,
+                "d": 500.0
+              },
+              {
+                "w": "fire",
+                "t": 3197.0,
+                "d": 415.0
+              },
+              {
+                "w": "and",
+                "t": 3613.0,
+                "d": 209.0
+              },
+              {
+                "w": "forgetting",
+                "t": 3822.0,
+                "d": 1083.0
+              },
+              {
+                "w": "carrying",
+                "t": 4906.0,
+                "d": 333.0
+              },
+              {
+                "w": "Nalanda's",
+                "t": 5239.0,
+                "d": 583.0
+              },
+              {
+                "w": "voice",
+                "t": 5822.0,
+                "d": 375.0
+              },
+              {
+                "w": "into",
+                "t": 6197.0,
+                "d": 250.0
+              },
+              {
+                "w": "scholars'",
+                "t": 6447.0,
+                "d": 541.0
+              },
+              {
+                "w": "hands",
+                "t": 6989.0,
+                "d": 708.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/the_self_governing_sangha/img/p18.png",
+      "shot": "wide contemplative shot of Nalanda’s ruins dissolving into their ancient form",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Nalanda's silent seals remind us that great worlds of thought endure only when communities learn to speak together, to remember together, and to leave their mark with care.",
+            "hi": "नालंदा की मौन मुहरें याद दिलाती हैं कि विचारों की बड़ी दुनिया तभी टिकती है जब समुदाय साथ बोलना सीखें, साथ याद रखें, और अपना निशान संभालकर छोड़ें।"
+          },
+          "audio": {
+            "en": "assets/the_self_governing_sangha/audio/en/p18_0.mp3",
+            "hi": "assets/the_self_governing_sangha/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Nalanda's",
+                "t": 74.0,
+                "d": 680.0
+              },
+              {
+                "w": "silent",
+                "t": 755.0,
+                "d": 468.0
+              },
+              {
+                "w": "seals",
+                "t": 1223.0,
+                "d": 340.0
+              },
+              {
+                "w": "remind",
+                "t": 1563.0,
+                "d": 425.0
+              },
+              {
+                "w": "us",
+                "t": 1989.0,
+                "d": 212.0
+              },
+              {
+                "w": "that",
+                "t": 2202.0,
+                "d": 212.0
+              },
+              {
+                "w": "great",
+                "t": 2414.0,
+                "d": 340.0
+              },
+              {
+                "w": "worlds",
+                "t": 2755.0,
+                "d": 339.0
+              },
+              {
+                "w": "of",
+                "t": 3094.0,
+                "d": 128.0
+              },
+              {
+                "w": "thought",
+                "t": 3223.0,
+                "d": 381.0
+              },
+              {
+                "w": "endure",
+                "t": 3605.0,
+                "d": 595.0
+              },
+              {
+                "w": "only",
+                "t": 4243.0,
+                "d": 384.0
+              },
+              {
+                "w": "when",
+                "t": 4627.0,
+                "d": 212.0
+              },
+              {
+                "w": "communities",
+                "t": 4840.0,
+                "d": 680.0
+              },
+              {
+                "w": "learn",
+                "t": 5521.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 5819.0,
+                "d": 127.0
+              },
+              {
+                "w": "speak",
+                "t": 5946.0,
+                "d": 382.0
+              },
+              {
+                "w": "together",
+                "t": 6329.0,
+                "d": 638.0
+              },
+              {
+                "w": "to",
+                "t": 7265.0,
+                "d": 170.0
+              },
+              {
+                "w": "remember",
+                "t": 7436.0,
+                "d": 425.0
+              },
+              {
+                "w": "together",
+                "t": 7861.0,
+                "d": 764.0
+              },
+              {
+                "w": "and",
+                "t": 8669.0,
+                "d": 298.0
+              },
+              {
+                "w": "to",
+                "t": 8968.0,
+                "d": 126.0
+              },
+              {
+                "w": "leave",
+                "t": 9094.0,
+                "d": 256.0
+              },
+              {
+                "w": "their",
+                "t": 9351.0,
+                "d": 212.0
+              },
+              {
+                "w": "mark",
+                "t": 9563.0,
+                "d": 382.0
+              },
+              {
+                "w": "with",
+                "t": 9946.0,
+                "d": 211.0
+              },
+              {
+                "w": "care",
+                "t": 10158.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Nalanda Seal Keeper",
+    "epithets": [
+      "Custodians of Nalanda",
+      "Keepers of the Sangha Seal",
+      "Monastic Recorders of Magadha",
+      "Guardians of the Mahavihara"
+    ],
+    "legend": "They pressed clay and rules into the lifeblood of Nalanda."
+  }
+}
