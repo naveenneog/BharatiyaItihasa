@@ -35,7 +35,8 @@
   .cinfo{flex:1;min-width:0}
   .cname{font-size:25px;font-weight:800}
   .cblurb{font-size:13.5px;color:var(--dim);margin-top:3px;line-height:1.4}
-  .cprog{flex:none;text-align:right;min-width:130px}
+  .cprog{flex:none;text-align:right;min-width:150px}
+  .cprog .cera{display:block;font-size:11px;color:var(--dim);white-space:nowrap;margin-bottom:4px;letter-spacing:.3px}
   .cprog .n{font-size:12.5px;color:var(--gold);white-space:nowrap}
   .bar{margin-top:6px;height:6px;border-radius:6px;background:rgba(255,255,255,.08);overflow:hidden}
   .bar>i{display:block;height:100%;background:linear-gradient(90deg,#e07b2a,#f0c15a)}
@@ -147,7 +148,7 @@ fetch("data/episodes.json?v="+Date.now()).then(r=>r.json()).then(data=>{
           <div class="stories">${p.episodes.map(storyCard).join("")}</div></div>`).join("");
       sec.innerHTML=`<button class="chead"><span class="cbadge">📜</span>
         <span class="cinfo"><span class="cname">${esc(c.chapter)}</span><span class="cblurb">${esc(c.blurb)}</span></span>
-        <span class="cprog"><span class="n">${c.built} of ${c.total} stories</span><span class="bar"><i style="width:${pct}%"></i></span></span>
+        <span class="cprog">${c.range?`<span class="cera">${esc(c.range)}</span>`:""}<span class="n">${c.built} of ${c.total} stories</span><span class="bar"><i style="width:${pct}%"></i></span></span>
         <span class="chev">▸</span></button>
         <div class="cwrap"><div class="cbody"><div class="cinner">${parts}</div></div></div>`;
       sec.querySelector(".chead").addEventListener("click",()=>sec.classList.toggle("open"));

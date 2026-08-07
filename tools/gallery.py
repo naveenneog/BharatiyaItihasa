@@ -96,9 +96,24 @@ def build(approved=None, out=None):
               for pn in sorted(parts)]
         built_n = sum(1 for p in parts.values() for e in p if e["built"])
         total_n = sum(len(p) for p in parts.values())
+        # chronological placement: median year of the chapter's stories (robust to
+        # a single early/late outlier), with a human-readable era span for the header.
+        dated = sorted((e for p in parts.values() for e in p if e["year"] != 9999),
+                       key=lambda x: x["year"])
+        sort_year = dated[len(dated) // 2]["year"] if dated else 9999
+        rng = ""
+        if dated:
+            # Range for display: the true earliest story, but cap the upper end at the
+            # ~90th percentile so a lone modern "legacy/rediscovery" story doesn't
+            # stretch an ancient chapter's era to the present (e.g. Maurya -> 1837 CE).
+            lo_y = dated[0]["year"]
+            hi_y = dated[min(len(dated) - 1, round(0.9 * (len(dated) - 1)))]["year"]
+            lo, hi = year_label(lo_y), year_label(hi_y)
+            rng = lo if lo == hi else f"{lo} – {hi}"
         chapters.append({"chapter": cname, "blurb": CHAPTER_BLURB.get(cname, ""),
-                         "built": built_n, "total": total_n, "parts": pl})
-    chapters.sort(key=lambda c: -c["built"])
+                         "built": built_n, "total": total_n,
+                         "sort_year": sort_year, "range": rng, "parts": pl})
+    chapters.sort(key=lambda c: (c["sort_year"], c["chapter"]))
 
     # era timelines for built, non-chapter episodes
     by_period = {p["key"]: [] for p in PERIODS}
