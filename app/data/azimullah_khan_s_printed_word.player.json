@@ -1301,6 +1301,129 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/azimullah_khan_s_printed_word/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/azimullah_khan_s_printed_word/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At the empire's gateway, Azimullah vows to bend foreign power into proof of India's wounded dignity.",
+            "hi": "साम्राज्य के द्वार पर अज़ीमुल्लाह कसम खाता है, पराई ताकत को भारत की घायल इज़्ज़त का सबूत बना कर छोड़ेंगे।"
+          },
+          "audio": {
+            "en": "assets/azimullah_khan_s_printed_word/audio/action/action_auto_en.mp3",
+            "hi": "assets/azimullah_khan_s_printed_word/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "Bithur's",
+                "t": 448.0,
+                "d": 459.0
+              },
+              {
+                "w": "banks",
+                "t": 908.0,
+                "d": 459.0
+              },
+              {
+                "w": "to",
+                "t": 1367.0,
+                "d": 183.0
+              },
+              {
+                "w": "foreign",
+                "t": 1551.0,
+                "d": 459.0
+              },
+              {
+                "w": "seas",
+                "t": 2011.0,
+                "d": 688.0
+              },
+              {
+                "w": "Azimullah",
+                "t": 2931.0,
+                "d": 643.0
+              },
+              {
+                "w": "vows",
+                "t": 3574.0,
+                "d": 826.0
+              },
+              {
+                "w": "to",
+                "t": 4493.0,
+                "d": 185.0
+              },
+              {
+                "w": "measure",
+                "t": 4678.0,
+                "d": 413.0
+              },
+              {
+                "w": "Britain's",
+                "t": 5091.0,
+                "d": 505.0
+              },
+              {
+                "w": "power",
+                "t": 5597.0,
+                "d": 643.0
+              },
+              {
+                "w": "and",
+                "t": 6241.0,
+                "d": 275.0
+              },
+              {
+                "w": "its",
+                "t": 6517.0,
+                "d": 229.0
+              },
+              {
+                "w": "hidden",
+                "t": 6747.0,
+                "d": 321.0
+              },
+              {
+                "w": "fractures",
+                "t": 7068.0,
+                "d": 873.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p06",
       "art": "assets/azimullah_khan_s_printed_word/img/p06.png",
       "shot": "mid-shot street scene in London, foggy, with Azimullah amid top-hatted crowds",
@@ -2928,7 +3051,7 @@
     {
       "id": "action_auto2",
       "type": "action",
-      "mood": "battle",
+      "mood": "suspense",
       "bg": "assets/azimullah_khan_s_printed_word/action_auto2/bg.png",
       "chars": [
         {
@@ -2953,8 +3076,8 @@
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "As rebels and readers gather in the dark, Azimullah launches his words like sparks into the coming storm.",
-            "hi": "बगावती और श्रोता अंधेरे में जुटते हैं, अज़ीमुल्लाह अपने शब्दों को आने वाले तूफ़ान में चिंगारी बनाकर फेंकता है।"
+            "en": "With every sheet he spreads, Azimullah turns quiet words into sparks racing across the countryside.",
+            "hi": "हर हर् पर्चा फैलाते ही अज़ीमुल्लाह की खामोश बातें चिंगारियाँ बनकर देहात में दौड़ पड़ती हैं।"
           },
           "audio": {
             "en": "assets/azimullah_khan_s_printed_word/audio/action/action_auto2_en.mp3",
@@ -3216,8 +3339,8 @@
         {
           "img": "assets/azimullah_khan_s_printed_word/split_auto/s0.png",
           "slogan": {
-            "en": "Ink shall ignite the empire",
-            "hi": "स्याही से साम्राज्य जलेगा"
+            "en": "Ink shall ignite our freedom",
+            "hi": "स्याही हमारी आज़ादी जगा दे"
           },
           "pos": "center 30%"
         },
@@ -3235,8 +3358,8 @@
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "Across India and beyond, Azimullah's printed words knit scattered resentments into a shared revolt.",
-            "hi": "पूरे हिंदुस्तान में, अज़ीमुल्लाह की छपी बातें बिखरी नाराज़गी को एक बगावत बना रही थीं।"
+            "en": "Across India's night, Azimullah's rebel pages stitch scattered hearts into a single, rising resolve.",
+            "hi": "भारत की रात में, अज़ीमुल्लाह के बाग़ी पन्ने बिखरे दिलों को एक उठती जिद में टाँक रहे हैं।"
           },
           "audio": {
             "en": "assets/azimullah_khan_s_printed_word/audio/split/split_auto_en.mp3",
