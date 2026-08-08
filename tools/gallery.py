@@ -77,6 +77,28 @@ def item_for(ep, approved=None):
     return it
 
 
+def _committed_eids():
+    """Eids whose player.json is committed to git (tracked).
+
+    The published home page manifest is committed and pushed, so it must only
+    reference stories whose data (and, via the assets submodule, audio) are also
+    committed. Gating on git-tracked files prevents a mid-build story — whose
+    player.json the running builder has written to disk but not yet committed —
+    from leaking into the gallery as a broken, unplayable card. Returns None (=>
+    fall back to on-disk detection) if git is unavailable.
+    """
+    import subprocess
+    try:
+        out = subprocess.check_output(
+            ["git", "ls-files", "app/data/*.player.json"],
+            cwd=str(C.ROOT), text=True, stderr=subprocess.DEVNULL)
+    except Exception:
+        return None
+    eids = {os.path.basename(l)[:-len(".player.json")]
+            for l in out.splitlines() if l.strip().endswith(".player.json")}
+    return eids or None
+
+
 def build(approved=None, out=None):
     eps = [item_for(e, approved) for e in C.load_episodes()]
     seen, uniq = set(), []
@@ -139,4 +161,4 @@ def build(approved=None, out=None):
 
 
 if __name__ == "__main__":
-    build()
+    build(approved=_committed_eids())
