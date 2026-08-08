@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 📚 Nalanda and the Great Monastic Universities  *(c. 400–1235 CE — the Buddhist mahavihara network of the eastern plains)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+Not one campus but a SYSTEM of Buddhist higher learning — Nalanda, Somapura, Vikramashila and Valabhi — reconstructed from Chinese pilgrim-diaries, excavated seals and copper-plates rather than legend; read as institutions of logic, curriculum, administration and library-science, and its violent-yet-undated end told without myth or communal spin. De-duplicated against the Pala-Sena chapter (the #9 seals reframed off Devapala's copper-plate; Vikramashila's engineering-lens kept distinct from the Six Gate Scholars).
+
+**I. Finding Nalanda in the Evidence**
+1. **Faxian Passes an Empty Nalanda** ✅ — the pilgrim's SILENCE (c.400 CE) as method: dating the university to Kumaragupta I, not a timeless past. *(source-criticism opener)*
+2. **The Seal That Named Shakraditya** ✅ — founding the mahavihara on an excavated clay sealing, not tradition. *(archaeology)*
+3. **Harsha Feeds a Hundred Villages** ✅ — the endowment economy that fed thousands of monks; the emperor beside the Nalanda stewards. *(economic / social)*
+
+**II. Classrooms Across Asia**
+4. **Silabhadra Teaches the Traveler** ✅ — the aged abbot and Xuanzang; the bond that carried Yogacara to China. *(transmission)*
+5. **Yijing Hears the Morning Bell** ✅ — the monastic day, discipline and social order through Yijing's record. *(institutional life)*
+6. **The Gate of Questions** ✅ — the door-keeper scholars and the debate-gate as a source-critical admissions system. *(scholarly rigour)*
+
+**III. Engines of Knowledge**
+7. **Dignaga Sets the Rules of Proof** ✅ — Buddhist epistemology and logic: Dignaga & Dharmakirti's rules of inference. *(philosophy / logic innovation)*
+8. **Shantideva Takes the Lion Seat** ✅ — the Bodhicaryavatara's author; the lion-seat levitation flagged "legend, but the texts are real". *(literature / source-criticism)*
+9. **The Self-Governing Sangha** ✅ — Nalanda's monastic administration from its EXCAVATED seals; the arya-bhikshu-sangha as a self-governing corporate body. *(governance — reframed off the Pala copper-plate)*
+
+**IV. The Great Mahavihara Network**
+10. **Somapura Draws the Great Mandala** ✅ — Dharmapala's Paharpur; the brick mandala whose plan echoed to Burma, Java and Cambodia (UNESCO, K.N. Dikshit). *(architecture)*
+11. **The Cooled Library of Vikramashila** ✅ — passive water-cooling (brick ducts, reservoir) as manuscript-preservation building-science (B.P. Sinha/ASI, hedged as cautious inference). *(engineering)*
+12. **Valabhi Trains the Ministers** ✅ — the Maitraka Buddhist university's governance-and-economics curriculum (niti, varta, law) whose graduates became royal ministers (Xuanzang, Yijing, copper-plates). *(curriculum / administration)*
+
+**V. Ashes, Memory and Revival**
+13. **Dharmasvamin in the Ashes** ✅ — the Tibetan pilgrim's eyewitness (c.1234) + Minhaj-i-Siraj; the violence stated plainly, the "three-month inferno" myth corrected, the raids framed as politics not faith. *(un-whitewashed, un-mythologised end)*
+
 ## 🐟 The Pandya Kingdom of Madurai  *(c. 3rd c. BCE – 14th c. CE — the twin-fish dynasty of the deep Tamil south)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 **I. First Fish, Oldest King**
