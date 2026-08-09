@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🚩 The Revolt of 1857  *(Freedom Struggle — 1857–1859 — the Great Uprising as an all-sides mosaic)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The revolt told not as one hero but as a five-part MOSAIC of every side — mutinous sepoys, the Rohilla and Awadh rebel-states, British commanders and civilians, poets and peasants, and the historians who later fought over its very name — non-communally, from memoirs, trial records, telegraph files and modern scholarship. Its darkest atrocity (Kanpur) is told from BOTH sides with the disputes left OPEN; its finale is the historiography itself. *(Distinct from the older standalone 1857 hero-mosaic — Lakshmibai, Tatya Tope, Kunwar Singh, Zafar, Mangal Pandey — below.)*
+
+**I. The Fault Lines**
+1. **The Sepoy's Sacred Body** ✅ — the 85 Meerut troopers; the greased cartridge flagged UNPROVED, Hindu and Muslim grievance balanced (Wagner, Mukherjee). *(the spark, source-criticised)*
+2. **Azimullah Khan's Printed Word** ✅ — Nana Sahib's envoy and the press/propaganda of revolt. *(information / print)*
+
+**II. The Rebel States**
+3. **Bakht Khan Builds an Army Court** ✅ — the Bareilly commander's rebel military administration at Delhi. *(governance)*
+4. **Nana Sahib's Rebel Treasury** ✅ — the finance of rebellion at Kanpur/Bithur (kept clear of the Bibighar killings). *(economic)*
+5. **Khan Bahadur Khan's Bareilly State** ✅ — the Rohilkhand rebel government: courts, coin and land-revenue to the India-Office trial and the gallows. *(rebel statecraft)*
+
+**III. The Battles and Their Costs**
+6. **The Chapati and the Telegraph** ✅ — the chapati-runs and the electric telegraph as rival information networks; the Indian operators who warned Punjab (Forrest). *(information war)*
+7. **The Maulvi Wins at Chinhat** ✅ — Ahmadullah Shah's open-field victory over Henry Lawrence; the Powayan betrayal. *(battle)*
+8. **Bakht Khan's Last Argument at Delhi** ✅ — the fall of Delhi: Nicholson's death at the breach, Hodson's summary shooting of the princes, Dalrymple's sack. *(the recapture, both-sides)*
+9. **The Ghat and the Garden at Kanpur** ✅ — Satichaura, Bibighar and Neill's reprisals told soberly from BOTH sides; who-fired-first left open, Nana's order NOT asserted (Ward), "truth, not vengeance". *(the core directive at its hardest)*
+
+**IV. The Art of Knowing**
+10. **Ghalib Among the Ruins** ✅ — Ghalib's *Dastambu* vs his Urdu grief-letters; Zafar's Rangoon exile — the fall of Delhi in sentences, not stone. *(literary witness)*
+11. **The Awadh Land Settlement Undone** ✅ — the taluqdari revenue experiment that fed the revolt and its 1859 reversal (Mukherjee/Stokes/Metcalf); a coalition of the countryside. *(agrarian political economy)*
+
+**V. Reckoning and After**
+12. **How 1857 Was Remembered** ✅ — the SAME revolt through Kaye/Malleson (colonial "Mutiny"), Savarkar (1909 "First War of Independence"), S.N. Sen (balanced "great revolt") and Guha/Bhadra (subaltern) — "who is speaking, and what they chose not to see". *(historiography — the project's mission as a story)*
+13. **The Proclamation That Made a Raj** ✅ — Victoria's 1858 promises weighed against the reality (high posts closed for decades; amnesty with exceptions — Zafar, Hazrat Mahal). *(the Crown Raj born from revolt)*
+
 ## 📚 Nalanda and the Great Monastic Universities  *(c. 400–1235 CE — the Buddhist mahavihara network of the eastern plains)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 Not one campus but a SYSTEM of Buddhist higher learning — Nalanda, Somapura, Vikramashila and Valabhi — reconstructed from Chinese pilgrim-diaries, excavated seals and copper-plates rather than legend; read as institutions of logic, curriculum, administration and library-science, and its violent-yet-undated end told without myth or communal spin. De-duplicated against the Pala-Sena chapter (the #9 seals reframed off Devapala's copper-plate; Vikramashila's engineering-lens kept distinct from the Six Gate Scholars).
