@@ -5,7 +5,7 @@
   "title_i18n": {
     "en": "Gandhi's Indigo Truth"
   },
-  "subtitle": "How a quiet investigation turned indigo fear into a record the Raj could not ignore",
+  "subtitle": "How a village notebook shook an empire",
   "figure": "Mahatma Gandhi",
   "era": "Champaran Satyagraha, 1917",
   "region": "Champaran, Bihar",
@@ -34,65 +34,257 @@
   "pages": {
     "en": "comics/gandhi_s_indigo_truth/en.jpg"
   },
-  "cover": "assets/gandhi_s_indigo_truth/img/p02.png",
+  "cover": "assets/gandhi_s_indigo_truth/img/cover.png",
   "panels": [
     {
-      "id": "p02",
-      "shot": "medium close-up on Gandhi and Shukla at a railway platform, steam around them, Shukla gripping Gandhi’s arm as the train waits",
+      "id": "cover",
+      "shot": "sweeping low-angle wide of Gandhi standing amid indigo fields under a harsh sun",
       "sfx": [],
       "dialogue": [
         {
-          "speaker": "Raj Kumar Shukla",
-          "type": "speech",
-          "text": "Bapu, come see our fields. Indigo has chained us."
+          "speaker": "",
+          "type": "narration",
+          "text": "Champaran, 1917: a quiet lawyer with a notebook walked into the indigo fields—and forced the Raj to record its own injustice."
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "shot": "intimate mid-shot inside a Calcutta gathering, slightly low angle on Gandhi",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "Before Champaran, Gandhi was still a newcomer in Indian politics, better known for South Africa than for any village in Bihar."
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "shot": "tight close-up on Gandhi’s hands as a determined peasant grips them",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "There, a persistent indigo cultivator, Raj Kumar Shukla, seized his hand and refused to let go until he promised to see Champaran."
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "shot": "over-the-shoulder shot of Gandhi looking out from a train compartment",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "mahatma_gandhi",
+          "type": "thought",
+          "text": "I must see with my own eyes before I speak."
         }
       ]
     },
     {
       "id": "p04",
-      "shot": "bird’s-eye wide of Champaran countryside showing scattered villages, indigo patches, and a distant planter factory chimney",
+      "shot": "wide establishing shot of a Champaran village, slightly elevated",
       "sfx": [],
       "dialogue": [
         {
           "speaker": "",
           "type": "narration",
-          "text": "Champaran was not a battlefield, but a patchwork of estates where tenants, tied by tinkathia, had to grow indigo on fixed land even when the blue dye had lost its shine on world markets."
+          "text": "Champaran was not a battlefield, but a quiet countryside locked in a harsh contract called tinkathia—three kathas of every bigha forced under indigo."
         }
       ]
     },
     {
       "id": "p05",
-      "shot": "intimate interior shot inside a peasant hut, Gandhi seated on a low stool as a tenant couple speaks nervously",
+      "shot": "mid-shot inside a poor peasant hut, candlelit, Gandhi seated on the floor",
       "sfx": [],
       "dialogue": [
         {
           "speaker": "",
           "type": "narration",
-          "text": "He did not start with slogans. He started with listening, as tenants haltingly told him how planters forced indigo on their best land, fined them for refusing, and demanded illegal payments when synthetic dyes ruined the old profits."
+          "text": "Tenant after tenant spoke of leases they could not read, of forced indigo, of low returns and heavy illegal exactions when they tried to escape."
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "shot": "close-up on Gandhi’s notebook and face, lit by a small lamp",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "Gandhi did not call for revolt. He opened a notebook. He wrote names, rents, beatings, dates—turning whispered misery into a record."
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "shot": "formal mid-shot in a colonial office, slight low angle on a magistrate facing Gandhi",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "The district authorities ordered him to leave Champaran. Gandhi read the order, reflected, and quietly wrote his reply."
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "shot": "medium close-up of Gandhi standing outside the court, surrounded by peasants and lawyers",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "mahatma_gandhi",
+          "type": "speech",
+          "text": "I obey the law of conscience. I will not leave Champaran."
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "shot": "wide shot inside the courtroom packed with peasants, lawyers in front rows",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "The magistrate, faced with a nonviolent refusal and an unexpected crowd, postponed sentence. Gandhi’s quiet defiance forced the government to rethink its own order."
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "shot": "group mid-shot of Gandhi with Indian lawyers in a verandah meeting",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "He turned to the lawyers of Bihar, asking them not just to argue in court, but to live among the peasants and share the risk of disobeying."
         }
       ]
     },
     {
       "id": "p11",
-      "shot": "wide shot outside the courthouse as a crowd waits; an official emerges to announce postponement and no immediate sentencing",
+      "shot": "dynamic montage-like wide shot of multiple huts with Gandhi’s team taking statements",
       "sfx": [],
       "dialogue": [
         {
           "speaker": "",
           "type": "narration",
-          "text": "The case hung in the air. Officials hesitated to jail a man who broke the law so openly, yet so politely. They postponed sentence and quietly let him continue his work."
+          "text": "Over weeks, they gathered hundreds of statements. Each was a story of rent, coercion, beatings; together they became evidence no file could ignore."
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "shot": "interior shot of a planter’s bungalow verandah, planter and Gandhi seated opposite",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "He also met the planters, neither flattering nor provoking, asking them to explain tinkathia and their claims, and quietly comparing their words with the villagers’ accounts."
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "shot": "mid-shot of Gandhi writing a letter at a simple desk, lantern beside him",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "By now, the government knew he had not stirred a riot, but an inquiry. The Lieutenant-Governor’s council decided to appoint an official committee."
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "shot": "formal group wide shot of the Champaran Agrarian Enquiry Committee in session",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "In 1917, the Champaran Agrarian Enquiry Committee began its work. Gandhi, now inside the machinery of the Raj, laid out the peasants’ testimony as disciplined fact."
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "shot": "close-up of Gandhi speaking calmly in the committee, others listening",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "mahatma_gandhi",
+          "type": "speech",
+          "text": "We do not ask for favour. We ask that what is written be believed."
         }
       ]
     },
     {
       "id": "p16",
-      "shot": "wide shot of a government meeting room in Patna, with the Champaran enquiry committee seated at a long table, Gandhi among them",
+      "shot": "medium shot of a British official reading aloud from the committee report draft",
       "sfx": [],
       "dialogue": [
         {
           "speaker": "",
           "type": "narration",
-          "text": "Under rising pressure, the provincial government formed an enquiry committee. Gandhi accepted a seat, carrying into the room not anger, but stacks of detailed testimonies."
+          "text": "The official report acknowledged planter abuses and recommended partial refund of illegal exactions, and the gradual ending of the tinkathia system."
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "shot": "wide shot of a village gathering as a volunteer explains the settlement to peasants",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "This was no instant miracle. Planters resisted, and withdrawal from indigo took time. Yet for the first time, the system itself had been condemned by the state’s own pen."
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "shot": "intimate mid-shot of Gandhi starting a village school with children around",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "Even as reforms moved slowly, Gandhi stayed to start schools, clean villages and build habits of self-respect that would outlast any one settlement."
+        }
+      ]
+    },
+    {
+      "id": "p19",
+      "shot": "quiet close-up of Gandhi closing his notebook, soft light on his face",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "Champaran became Gandhi’s first great satyagraha in India—a struggle not of slogans but of patient documentation, disciplined refusal and negotiated reform."
+        }
+      ]
+    },
+    {
+      "id": "p20",
+      "shot": "epic high wide shot of the Champaran landscape with distant peasants at work",
+      "sfx": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "type": "narration",
+          "text": "In Champaran, truth did not shout; it was written, signed and read into the record—and in that quiet act, a village’s suffering began to bend an empire’s law."
         }
       ]
     }
