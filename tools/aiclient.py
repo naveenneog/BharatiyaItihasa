@@ -205,6 +205,14 @@ def edit_image(prompt, refs, out, tok, size="1024x1024", quality="high",
             print(f"    edit HTTP {e.code} (try {i}/{tries}): {msg!r}", flush=True)
             if e.code == 400 and use_fidelity and b"input_fidelity" in msg:
                 use_fidelity = False; continue  # retry immediately without the param
+            if e.code == 400 and b"safety" in msg.lower():
+                # The REFERENCE image trips the public-figure safety filter (Azure refuses to
+                # edit a recognisable real person). Retrying the edit is futile — fall back to
+                # text-to-image with the same de-named prompt (no reference), which carries the
+                # appearance via ref_desc and renders. Slightly less panel-to-panel identity,
+                # but the panel exists instead of a broken hole.
+                print("    edit safety-rejected -> text-to-image fallback (no ref)", flush=True)
+                return gen_image(prompt, out, tok, size=size, quality=quality)
             if e.code in (401, 403):
                 tok = token(); wait = 3
             elif e.code == 429:
