@@ -1,3522 +1,3522 @@
 {
-  "id": "the_forty_kilometre_wall_without_mortar",
-  "title": "The Forty Kilometre Wall Without Mortar",
-  "title_i18n": {
-    "en": "The Forty Kilometre Wall Without Mortar",
-    "hi": "बिना गारे की चालीस किलोमीटर दीवार"
-  },
-  "figure": "Rajgir's Cyclopean Wall Builders",
-  "era": "Pre-Mauryan fortification and city defense, c. 6th century BCE with later phases",
-  "moral": "A wall records both fear and organization.",
-  "langs": [
-    "en",
-    "hi"
-  ],
-  "panels": [
+ "id": "the_forty_kilometre_wall_without_mortar",
+ "title": "The Forty Kilometre Wall Without Mortar",
+ "title_i18n": {
+  "en": "The Forty Kilometre Wall Without Mortar",
+  "hi": "बिना गारे की चालीस किलोमीटर दीवार"
+ },
+ "figure": "Rajgir's Cyclopean Wall Builders",
+ "era": "Pre-Mauryan fortification and city defense, c. 6th century BCE with later phases",
+ "moral": "A wall records both fear and organization.",
+ "langs": [
+  "en",
+  "hi"
+ ],
+ "panels": [
+  {
+   "id": "intro_hero",
+   "type": "hero",
+   "mood": "triumph",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/intro/hero.png",
+   "name": "Builders of Rajgir's Cyclopean Wall",
+   "epithets": [
+    "Dry-stone masons of Rajagriha",
+    "Ringers of the Girivraja hills",
+    "Raisers of Magadha's stone shield",
+    "Nameless hands the labour remembers"
+   ],
+   "legend": "They held a kingdom with nothing but stone and will.",
+   "era": "Pre-Mauryan fortification and city defense, c. 6th century BCE with later phases",
+   "lines": [
     {
-      "id": "intro_hero",
-      "type": "hero",
-      "mood": "triumph",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/intro/hero.png",
-      "name": "Builders of Rajgir’s Cyclopean Wall",
-      "epithets": [
-        "Cyclopean Wall Builders of Rajgir",
-        "Masons of Ancient Rajagriha",
-        "Guardians of the Stone Ring",
-        "Keepers of Magadha’s First Fort"
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "They raised a forty‐kilometre wall of raw stone, no mortar, around a ring of hills. Who were these hidden hands that turned Rajgir into Magadha's stone shield, and what terror drove them?",
+      "hi": "उन्होंने चालीस किलोमीटर लंबी कच्ची पत्थर की दीवार खड़ी कर दी, बिना गारा, पहाड़ियों की अंगूठी के चारों ओर। ये गुमनाम हाथ कौन थे जिन्होंने राजगीर को मगध की पत्थर की ढाल बना दिया, और उन्हें ऐसा खौफ़ किसने दिया?"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/intro/hero_en.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/intro/hero_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "They",
+        "t": 156.0,
+        "d": 166.0
+       },
+       {
+        "w": "raised",
+        "t": 322.0,
+        "d": 375.0
+       },
+       {
+        "w": "a",
+        "t": 697.0,
+        "d": 125.0
+       },
+       {
+        "w": "forty‐kilometre",
+        "t": 822.0,
+        "d": 958.0
+       },
+       {
+        "w": "wall",
+        "t": 1781.0,
+        "d": 332.0
+       },
+       {
+        "w": "of",
+        "t": 2113.0,
+        "d": 251.0
+       },
+       {
+        "w": "raw",
+        "t": 2364.0,
+        "d": 165.0
+       },
+       {
+        "w": "stone",
+        "t": 2530.0,
+        "d": 375.0
+       },
+       {
+        "w": "no",
+        "t": 2905.0,
+        "d": 541.0
+       },
+       {
+        "w": "mortar",
+        "t": 3446.0,
+        "d": 666.0
+       },
+       {
+        "w": "around",
+        "t": 4322.0,
+        "d": 333.0
+       },
+       {
+        "w": "a",
+        "t": 4656.0,
+        "d": 41.0
+       },
+       {
+        "w": "ring",
+        "t": 4697.0,
+        "d": 291.0
+       },
+       {
+        "w": "of",
+        "t": 4989.0,
+        "d": 125.0
+       },
+       {
+        "w": "hills",
+        "t": 5114.0,
+        "d": 541.0
+       },
+       {
+        "w": "Who",
+        "t": 6656.0,
+        "d": 208.0
+       },
+       {
+        "w": "were",
+        "t": 6864.0,
+        "d": 166.0
+       },
+       {
+        "w": "these",
+        "t": 7031.0,
+        "d": 250.0
+       },
+       {
+        "w": "hidden",
+        "t": 7281.0,
+        "d": 333.0
+       },
+       {
+        "w": "hands",
+        "t": 7614.0,
+        "d": 666.0
+       },
+       {
+        "w": "that",
+        "t": 8363.0,
+        "d": 291.0
+       },
+       {
+        "w": "turned",
+        "t": 8655.0,
+        "d": 333.0
+       },
+       {
+        "w": "Rajgir",
+        "t": 8988.0,
+        "d": 541.0
+       },
+       {
+        "w": "into",
+        "t": 9530.0,
+        "d": 333.0
+       },
+       {
+        "w": "Magadha's",
+        "t": 9863.0,
+        "d": 459.0
+       },
+       {
+        "w": "stone",
+        "t": 10322.0,
+        "d": 332.0
+       },
+       {
+        "w": "shield",
+        "t": 10655.0,
+        "d": 626.0
+       },
+       {
+        "w": "and",
+        "t": 11613.0,
+        "d": 209.0
+       },
+       {
+        "w": "what",
+        "t": 11822.0,
+        "d": 290.0
+       },
+       {
+        "w": "terror",
+        "t": 12113.0,
+        "d": 458.0
+       },
+       {
+        "w": "drove",
+        "t": 12571.0,
+        "d": 292.0
+       },
+       {
+        "w": "them",
+        "t": 12864.0,
+        "d": 416.0
+       }
       ],
-      "legend": "They held a kingdom with nothing but stone and will.",
-      "era": "Pre-Mauryan fortification and city defense, c. 6th century BCE with later phases",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "They raised a forty‐kilometre wall of raw stone, no mortar, around a ring of hills. Who were these hidden hands that turned Rajgir into Magadha's stone shield, and what terror drove them?",
-            "hi": "उन्होंने चालीस किलोमीटर लंबी कच्ची पत्थर की दीवार खड़ी कर दी, बिना गारा, पहाड़ियों की अंगूठी के चारों ओर। ये गुमनाम हाथ कौन थे जिन्होंने राजगीर को मगध की पत्थर की ढाल बना दिया, और उन्हें ऐसा खौफ़ किसने दिया?"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/intro/hero_en.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/intro/hero_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "They",
-                "t": 156.0,
-                "d": 166.0
-              },
-              {
-                "w": "raised",
-                "t": 322.0,
-                "d": 375.0
-              },
-              {
-                "w": "a",
-                "t": 697.0,
-                "d": 125.0
-              },
-              {
-                "w": "forty‐kilometre",
-                "t": 822.0,
-                "d": 958.0
-              },
-              {
-                "w": "wall",
-                "t": 1781.0,
-                "d": 332.0
-              },
-              {
-                "w": "of",
-                "t": 2113.0,
-                "d": 251.0
-              },
-              {
-                "w": "raw",
-                "t": 2364.0,
-                "d": 165.0
-              },
-              {
-                "w": "stone",
-                "t": 2530.0,
-                "d": 375.0
-              },
-              {
-                "w": "no",
-                "t": 2905.0,
-                "d": 541.0
-              },
-              {
-                "w": "mortar",
-                "t": 3446.0,
-                "d": 666.0
-              },
-              {
-                "w": "around",
-                "t": 4322.0,
-                "d": 333.0
-              },
-              {
-                "w": "a",
-                "t": 4656.0,
-                "d": 41.0
-              },
-              {
-                "w": "ring",
-                "t": 4697.0,
-                "d": 291.0
-              },
-              {
-                "w": "of",
-                "t": 4989.0,
-                "d": 125.0
-              },
-              {
-                "w": "hills",
-                "t": 5114.0,
-                "d": 541.0
-              },
-              {
-                "w": "Who",
-                "t": 6656.0,
-                "d": 208.0
-              },
-              {
-                "w": "were",
-                "t": 6864.0,
-                "d": 166.0
-              },
-              {
-                "w": "these",
-                "t": 7031.0,
-                "d": 250.0
-              },
-              {
-                "w": "hidden",
-                "t": 7281.0,
-                "d": 333.0
-              },
-              {
-                "w": "hands",
-                "t": 7614.0,
-                "d": 666.0
-              },
-              {
-                "w": "that",
-                "t": 8363.0,
-                "d": 291.0
-              },
-              {
-                "w": "turned",
-                "t": 8655.0,
-                "d": 333.0
-              },
-              {
-                "w": "Rajgir",
-                "t": 8988.0,
-                "d": 541.0
-              },
-              {
-                "w": "into",
-                "t": 9530.0,
-                "d": 333.0
-              },
-              {
-                "w": "Magadha's",
-                "t": 9863.0,
-                "d": 459.0
-              },
-              {
-                "w": "stone",
-                "t": 10322.0,
-                "d": 332.0
-              },
-              {
-                "w": "shield",
-                "t": 10655.0,
-                "d": 626.0
-              },
-              {
-                "w": "and",
-                "t": 11613.0,
-                "d": 209.0
-              },
-              {
-                "w": "what",
-                "t": 11822.0,
-                "d": 290.0
-              },
-              {
-                "w": "terror",
-                "t": 12113.0,
-                "d": 458.0
-              },
-              {
-                "w": "drove",
-                "t": 12571.0,
-                "d": 292.0
-              },
-              {
-                "w": "them",
-                "t": 12864.0,
-                "d": 416.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "intro_map",
-      "type": "map",
-      "mood": "suspense",
-      "map": "assets/the_forty_kilometre_wall_without_mortar/intro/map.png",
-      "x": 0.72,
-      "y": 0.35,
-      "label": "Rajgir, Magadha heartland, Bihar",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "In this hot rocky basin of Rajgir's hills, early Magadhan rulers ringed their first capital with a harsh crown of stone.",
-            "hi": "राजगीर की इन तपती चट्टानी घाटियों में, मगध के शुरुआती शासकों ने अपनी पहली राजधानी पत्थरों की सख्त दीवारों से घेर दी।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/intro/map_en.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/intro/map_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "In",
-                "t": 80.0,
-                "d": 229.0
-              },
-              {
-                "w": "this",
-                "t": 310.0,
-                "d": 229.0
-              },
-              {
-                "w": "hot",
-                "t": 540.0,
-                "d": 413.0
-              },
-              {
-                "w": "rocky",
-                "t": 954.0,
-                "d": 413.0
-              },
-              {
-                "w": "basin",
-                "t": 1367.0,
-                "d": 413.0
-              },
-              {
-                "w": "of",
-                "t": 1781.0,
-                "d": 183.0
-              },
-              {
-                "w": "Rajgir's",
-                "t": 1965.0,
-                "d": 597.0
-              },
-              {
-                "w": "hills",
-                "t": 2563.0,
-                "d": 688.0
-              },
-              {
-                "w": "early",
-                "t": 3574.0,
-                "d": 459.0
-              },
-              {
-                "w": "Magadhan",
-                "t": 4034.0,
-                "d": 550.0
-              },
-              {
-                "w": "rulers",
-                "t": 4585.0,
-                "d": 552.0
-              },
-              {
-                "w": "ringed",
-                "t": 5137.0,
-                "d": 367.0
-              },
-              {
-                "w": "their",
-                "t": 5505.0,
-                "d": 229.0
-              },
-              {
-                "w": "first",
-                "t": 5735.0,
-                "d": 459.0
-              },
-              {
-                "w": "capital",
-                "t": 6195.0,
-                "d": 781.0
-              },
-              {
-                "w": "with",
-                "t": 7068.0,
-                "d": 321.0
-              },
-              {
-                "w": "a",
-                "t": 7390.0,
-                "d": 91.0
-              },
-              {
-                "w": "harsh",
-                "t": 7482.0,
-                "d": 505.0
-              },
-              {
-                "w": "crown",
-                "t": 7988.0,
-                "d": 321.0
-              },
-              {
-                "w": "of",
-                "t": 8310.0,
-                "d": 137.0
-              },
-              {
-                "w": "stone",
-                "t": 8448.0,
-                "d": 505.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "cover",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/cover.png",
-      "shot": "vast aerial wide over rugged ring of hills encircling a basin city",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "In the sixth century before the Mauryas, unknown hands ringed Rajagriha's hills with forty kilometres of dry stone wall,  a monument to fear, skill and a new age of cities.",
-            "hi": "मौर्य से भी पहले, छठी सदी में, अनजाने हाथों ने राजगृह की पहाड़ियों पर चालीस किलोमीटर सूखी पत्थर की दीवार खड़ी की — डर, कौशल और नए नगरों का स्मारक।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/cover_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/cover_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "In",
-                "t": 80.0,
-                "d": 183.0
-              },
-              {
-                "w": "the",
-                "t": 264.0,
-                "d": 183.0
-              },
-              {
-                "w": "sixth",
-                "t": 448.0,
-                "d": 459.0
-              },
-              {
-                "w": "century",
-                "t": 908.0,
-                "d": 551.0
-              },
-              {
-                "w": "before",
-                "t": 1459.0,
-                "d": 367.0
-              },
-              {
-                "w": "the",
-                "t": 1827.0,
-                "d": 137.0
-              },
-              {
-                "w": "Mauryas",
-                "t": 1965.0,
-                "d": 919.0
-              },
-              {
-                "w": "unknown",
-                "t": 3022.0,
-                "d": 505.0
-              },
-              {
-                "w": "hands",
-                "t": 3528.0,
-                "d": 366.0
-              },
-              {
-                "w": "ringed",
-                "t": 3895.0,
-                "d": 551.0
-              },
-              {
-                "w": "Rajagriha's",
-                "t": 4539.0,
-                "d": 874.0
-              },
-              {
-                "w": "hills",
-                "t": 5413.0,
-                "d": 689.0
-              },
-              {
-                "w": "with",
-                "t": 6241.0,
-                "d": 275.0
-              },
-              {
-                "w": "forty",
-                "t": 6517.0,
-                "d": 459.0
-              },
-              {
-                "w": "kilometres",
-                "t": 6977.0,
-                "d": 597.0
-              },
-              {
-                "w": "of",
-                "t": 7574.0,
-                "d": 137.0
-              },
-              {
-                "w": "dry",
-                "t": 7712.0,
-                "d": 275.0
-              },
-              {
-                "w": "stone",
-                "t": 7988.0,
-                "d": 321.0
-              },
-              {
-                "w": "wall",
-                "t": 8310.0,
-                "d": 597.0
-              },
-              {
-                "w": "a",
-                "t": 9183.0,
-                "d": 182.0
-              },
-              {
-                "w": "monument",
-                "t": 9366.0,
-                "d": 598.0
-              },
-              {
-                "w": "to",
-                "t": 9965.0,
-                "d": 137.0
-              },
-              {
-                "w": "fear",
-                "t": 10103.0,
-                "d": 688.0
-              },
-              {
-                "w": "skill",
-                "t": 10883.0,
-                "d": 828.0
-              },
-              {
-                "w": "and",
-                "t": 11804.0,
-                "d": 320.0
-              },
-              {
-                "w": "a",
-                "t": 12125.0,
-                "d": 47.0
-              },
-              {
-                "w": "new",
-                "t": 12172.0,
-                "d": 413.0
-              },
-              {
-                "w": "age",
-                "t": 12586.0,
-                "d": 320.0
-              },
-              {
-                "w": "of",
-                "t": 12906.0,
-                "d": 139.0
-              },
-              {
-                "w": "cities",
-                "t": 13045.0,
-                "d": 735.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p01",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p01.png",
-      "shot": "low sweeping wide through a rocky mountain pass at dawn",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "The texts call it Girivraja, the hill-enclosure. A basin caught in rocky arms, where early Magadha gathered people, power and fear into one guarded hollow.",
-            "hi": "ग्रंथ इसे गिरिव्रज कहते हैं, पर्वत–घेरा। पत्थरों की बाँहों में थामा कटोरा, जहाँ आरंभिक मगध ने लोग, शक्ति और डर एक ही सुरक्षित खोखले में समेट दिए।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p01_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p01_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "The",
-                "t": 126.0,
-                "d": 275.0
-              },
-              {
-                "w": "texts",
-                "t": 402.0,
-                "d": 551.0
-              },
-              {
-                "w": "call",
-                "t": 954.0,
-                "d": 275.0
-              },
-              {
-                "w": "it",
-                "t": 1229.0,
-                "d": 137.0
-              },
-              {
-                "w": "Girivraja",
-                "t": 1367.0,
-                "d": 1103.0
-              },
-              {
-                "w": "the",
-                "t": 2609.0,
-                "d": 275.0
-              },
-              {
-                "w": "hill-enclosure",
-                "t": 2885.0,
-                "d": 827.0
-              },
-              {
-                "w": "A",
-                "t": 3712.0,
-                "d": 459.0
-              },
-              {
-                "w": "basin",
-                "t": 4908.0,
-                "d": 551.0
-              },
-              {
-                "w": "caught",
-                "t": 5459.0,
-                "d": 321.0
-              },
-              {
-                "w": "in",
-                "t": 5781.0,
-                "d": 137.0
-              },
-              {
-                "w": "rocky",
-                "t": 5919.0,
-                "d": 413.0
-              },
-              {
-                "w": "arms",
-                "t": 6333.0,
-                "d": 781.0
-              },
-              {
-                "w": "where",
-                "t": 7298.0,
-                "d": 321.0
-              },
-              {
-                "w": "early",
-                "t": 7620.0,
-                "d": 413.0
-              },
-              {
-                "w": "Magadha",
-                "t": 8034.0,
-                "d": 459.0
-              },
-              {
-                "w": "gathered",
-                "t": 8494.0,
-                "d": 459.0
-              },
-              {
-                "w": "people",
-                "t": 8954.0,
-                "d": 964.0
-              },
-              {
-                "w": "power",
-                "t": 9965.0,
-                "d": 689.0
-              },
-              {
-                "w": "and",
-                "t": 10655.0,
-                "d": 320.0
-              },
-              {
-                "w": "fear",
-                "t": 10975.0,
-                "d": 414.0
-              },
-              {
-                "w": "into",
-                "t": 11390.0,
-                "d": 274.0
-              },
-              {
-                "w": "one",
-                "t": 11665.0,
-                "d": 414.0
-              },
-              {
-                "w": "guarded",
-                "t": 12080.0,
-                "d": 367.0
-              },
-              {
-                "w": "hollow",
-                "t": 12448.0,
-                "d": 505.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p02",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p02.png",
-      "shot": "medium wide on workers and overseers marking a route along a ridge",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "To guard a hollow city, the rulers of early Magadha turned to the heights. Not with brick and lime, but with raw hill-stone itself, they traced a long, unbroken line around their world.",
-            "hi": "खोखले शहर की रक्षा को आरंभिक मगध के शासक ऊँचाइयों पर चढ़े। ईंट–चूने से नहीं, कच्ची पहाड़ी चट्टान से ही अपने जगत के चारों ओर लंबी, बिना टूटन की रेखा खींच दी।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p02_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p02_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "To",
-                "t": 74.0,
-                "d": 212.0
-              },
-              {
-                "w": "guard",
-                "t": 287.0,
-                "d": 340.0
-              },
-              {
-                "w": "a",
-                "t": 627.0,
-                "d": 212.0
-              },
-              {
-                "w": "hollow",
-                "t": 840.0,
-                "d": 340.0
-              },
-              {
-                "w": "city",
-                "t": 1180.0,
-                "d": 851.0
-              },
-              {
-                "w": "the",
-                "t": 2202.0,
-                "d": 254.0
-              },
-              {
-                "w": "rulers",
-                "t": 2456.0,
-                "d": 510.0
-              },
-              {
-                "w": "of",
-                "t": 2967.0,
-                "d": 298.0
-              },
-              {
-                "w": "early",
-                "t": 3308.0,
-                "d": 381.0
-              },
-              {
-                "w": "Magadha",
-                "t": 3690.0,
-                "d": 468.0
-              },
-              {
-                "w": "turned",
-                "t": 4500.0,
-                "d": 382.0
-              },
-              {
-                "w": "to",
-                "t": 4882.0,
-                "d": 170.0
-              },
-              {
-                "w": "the",
-                "t": 5053.0,
-                "d": 127.0
-              },
-              {
-                "w": "heights",
-                "t": 5180.0,
-                "d": 936.0
-              },
-              {
-                "w": "Not",
-                "t": 6159.0,
-                "d": 382.0
-              },
-              {
-                "w": "with",
-                "t": 6542.0,
-                "d": 255.0
-              },
-              {
-                "w": "brick",
-                "t": 6797.0,
-                "d": 255.0
-              },
-              {
-                "w": "and",
-                "t": 7053.0,
-                "d": 127.0
-              },
-              {
-                "w": "lime",
-                "t": 7180.0,
-                "d": 808.0
-              },
-              {
-                "w": "but",
-                "t": 8031.0,
-                "d": 297.0
-              },
-              {
-                "w": "with",
-                "t": 8329.0,
-                "d": 211.0
-              },
-              {
-                "w": "raw",
-                "t": 8541.0,
-                "d": 256.0
-              },
-              {
-                "w": "hill-stone",
-                "t": 8797.0,
-                "d": 467.0
-              },
-              {
-                "w": "itself",
-                "t": 9264.0,
-                "d": 808.0
-              },
-              {
-                "w": "they",
-                "t": 10711.0,
-                "d": 255.0
-              },
-              {
-                "w": "traced",
-                "t": 10967.0,
-                "d": 469.0
-              },
-              {
-                "w": "a",
-                "t": 11436.0,
-                "d": 85.0
-              },
-              {
-                "w": "long",
-                "t": 11521.0,
-                "d": 764.0
-              },
-              {
-                "w": "unbroken",
-                "t": 12329.0,
-                "d": 679.0
-              },
-              {
-                "w": "line",
-                "t": 13009.0,
-                "d": 469.0
-              },
-              {
-                "w": "around",
-                "t": 13520.0,
-                "d": 382.0
-              },
-              {
-                "w": "their",
-                "t": 13903.0,
-                "d": 213.0
-              },
-              {
-                "w": "world",
-                "t": 14117.0,
-                "d": 595.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p03",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p03.png",
-      "shot": "close-up on hands testing two rough stones together",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Modern scholars call it a cyclopean wall. No mortar, no dressed faces. Only great undressed stones, leaned and locked so that weight and patience took the place of cement.",
-            "hi": "आधुनिक विद्वान इसे चक्रनेत्री दीवार कहते हैं। न गारा, न तराशी सतह। बस बड़े–बड़े अनगढ़ पत्थर, ऐसे टिकाए–फँसाए कि भार और धीरज ही गारे की जगह बन गए।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p03_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p03_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Modern",
-                "t": 74.0,
-                "d": 468.0
-              },
-              {
-                "w": "scholars",
-                "t": 542.0,
-                "d": 553.0
-              },
-              {
-                "w": "call",
-                "t": 1095.0,
-                "d": 297.0
-              },
-              {
-                "w": "it",
-                "t": 1393.0,
-                "d": 85.0
-              },
-              {
-                "w": "a",
-                "t": 1478.0,
-                "d": 85.0
-              },
-              {
-                "w": "cyclopean",
-                "t": 1563.0,
-                "d": 723.0
-              },
-              {
-                "w": "wall",
-                "t": 2287.0,
-                "d": 595.0
-              },
-              {
-                "w": "No",
-                "t": 3393.0,
-                "d": 340.0
-              },
-              {
-                "w": "mortar",
-                "t": 3734.0,
-                "d": 680.0
-              },
-              {
-                "w": "no",
-                "t": 4542.0,
-                "d": 382.0
-              },
-              {
-                "w": "dressed",
-                "t": 4925.0,
-                "d": 340.0
-              },
-              {
-                "w": "faces",
-                "t": 5265.0,
-                "d": 1191.0
-              },
-              {
-                "w": "Only",
-                "t": 6712.0,
-                "d": 553.0
-              },
-              {
-                "w": "great",
-                "t": 7265.0,
-                "d": 382.0
-              },
-              {
-                "w": "undressed",
-                "t": 7648.0,
-                "d": 638.0
-              },
-              {
-                "w": "stones",
-                "t": 8287.0,
-                "d": 892.0
-              },
-              {
-                "w": "leaned",
-                "t": 9478.0,
-                "d": 594.0
-              },
-              {
-                "w": "and",
-                "t": 10073.0,
-                "d": 298.0
-              },
-              {
-                "w": "locked",
-                "t": 10372.0,
-                "d": 638.0
-              },
-              {
-                "w": "so",
-                "t": 11222.0,
-                "d": 298.0
-              },
-              {
-                "w": "that",
-                "t": 11521.0,
-                "d": 254.0
-              },
-              {
-                "w": "weight",
-                "t": 11775.0,
-                "d": 384.0
-              },
-              {
-                "w": "and",
-                "t": 12159.0,
-                "d": 296.0
-              },
-              {
-                "w": "patience",
-                "t": 12456.0,
-                "d": 638.0
-              },
-              {
-                "w": "took",
-                "t": 13308.0,
-                "d": 255.0
-              },
-              {
-                "w": "the",
-                "t": 13563.0,
-                "d": 170.0
-              },
-              {
-                "w": "place",
-                "t": 13734.0,
-                "d": 254.0
-              },
-              {
-                "w": "of",
-                "t": 13988.0,
-                "d": 170.0
-              },
-              {
-                "w": "cement",
-                "t": 14158.0,
-                "d": 554.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p04",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p04.png",
-      "shot": "wide shot of quarrying on a hillside",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "The hills themselves became the quarry. Stone prised from ledges, rolled and slid along earthen ramps, turned from wild rock into measured defence across many seasons.",
-            "hi": "पहाड़ ही खदान बन गए। कगारों से पत्थर उखाड़े गए, मिट्टी की ढलानों पर लुढ़काए–घिसकाए गए, कई ऋतुओं में जंगली चट्टान से नाप–तौल कर बनाई रक्षा बना दी गई।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p04_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p04_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "The",
-                "t": 74.0,
-                "d": 212.0
-              },
-              {
-                "w": "hills",
-                "t": 287.0,
-                "d": 340.0
-              },
-              {
-                "w": "themselves",
-                "t": 627.0,
-                "d": 723.0
-              },
-              {
-                "w": "became",
-                "t": 1351.0,
-                "d": 382.0
-              },
-              {
-                "w": "the",
-                "t": 1734.0,
-                "d": 127.0
-              },
-              {
-                "w": "quarry",
-                "t": 1861.0,
-                "d": 851.0
-              },
-              {
-                "w": "Stone",
-                "t": 3223.0,
-                "d": 553.0
-              },
-              {
-                "w": "prised",
-                "t": 3776.0,
-                "d": 424.0
-              },
-              {
-                "w": "from",
-                "t": 4201.0,
-                "d": 213.0
-              },
-              {
-                "w": "ledges",
-                "t": 4414.0,
-                "d": 680.0
-              },
-              {
-                "w": "rolled",
-                "t": 5223.0,
-                "d": 808.0
-              },
-              {
-                "w": "and",
-                "t": 6031.0,
-                "d": 255.0
-              },
-              {
-                "w": "slid",
-                "t": 6287.0,
-                "d": 382.0
-              },
-              {
-                "w": "along",
-                "t": 6670.0,
-                "d": 425.0
-              },
-              {
-                "w": "earthen",
-                "t": 7138.0,
-                "d": 382.0
-              },
-              {
-                "w": "ramps",
-                "t": 7521.0,
-                "d": 723.0
-              },
-              {
-                "w": "turned",
-                "t": 8669.0,
-                "d": 425.0
-              },
-              {
-                "w": "from",
-                "t": 9094.0,
-                "d": 256.0
-              },
-              {
-                "w": "wild",
-                "t": 9351.0,
-                "d": 425.0
-              },
-              {
-                "w": "rock",
-                "t": 9776.0,
-                "d": 340.0
-              },
-              {
-                "w": "into",
-                "t": 10117.0,
-                "d": 297.0
-              },
-              {
-                "w": "measured",
-                "t": 10414.0,
-                "d": 467.0
-              },
-              {
-                "w": "defence",
-                "t": 10881.0,
-                "d": 510.0
-              },
-              {
-                "w": "across",
-                "t": 11392.0,
-                "d": 511.0
-              },
-              {
-                "w": "many",
-                "t": 11904.0,
-                "d": 381.0
-              },
-              {
-                "w": "seasons",
-                "t": 12286.0,
-                "d": 852.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "action_auto",
-      "type": "action",
-      "mood": "battle",
-      "bg": "assets/the_forty_kilometre_wall_without_mortar/action_auto/bg.png",
-      "chars": [
-        {
-          "img": "assets/the_forty_kilometre_wall_without_mortar/action_auto/char0.png",
-          "motion": {
-            "fromX": -40,
-            "toX": -10,
-            "fromScale": 0.82,
-            "toScale": 1.03,
-            "rot": -2,
-            "dur": 7200
-          }
-        }
-      ],
-      "motion": {
-        "bgZoom": 1.12,
-        "bgPan": -6,
-        "dur": 7200
-      },
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "On the ridge-crest, he commands the heaving crews, turning raw rock and sweat into a shield of stone around Rajgir.",
-            "hi": "पहाड़ी की चोटी पर वो गरजता है, मजदूरों का हुजूम पत्थर और पसीने से राजगीर के चारों तरफ पत्थर की ढाल गढ़ता है।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/action/action_auto_en.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/action/action_auto_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "On",
-                "t": 70.0,
-                "d": 240.0
-              },
-              {
-                "w": "the",
-                "t": 310.0,
-                "d": 120.0
-              },
-              {
-                "w": "ridge-crest",
-                "t": 430.0,
-                "d": 680.0
-              },
-              {
-                "w": "he",
-                "t": 1310.0,
-                "d": 280.0
-              },
-              {
-                "w": "commands",
-                "t": 1590.0,
-                "d": 400.0
-              },
-              {
-                "w": "the",
-                "t": 1990.0,
-                "d": 160.0
-              },
-              {
-                "w": "heaving",
-                "t": 2150.0,
-                "d": 360.0
-              },
-              {
-                "w": "crews",
-                "t": 2510.0,
-                "d": 600.0
-              },
-              {
-                "w": "turning",
-                "t": 3349.0,
-                "d": 401.0
-              },
-              {
-                "w": "raw",
-                "t": 3750.0,
-                "d": 239.0
-              },
-              {
-                "w": "rock",
-                "t": 3989.0,
-                "d": 481.0
-              },
-              {
-                "w": "and",
-                "t": 4470.0,
-                "d": 320.0
-              },
-              {
-                "w": "sweat",
-                "t": 4790.0,
-                "d": 360.0
-              },
-              {
-                "w": "into",
-                "t": 5150.0,
-                "d": 280.0
-              },
-              {
-                "w": "a",
-                "t": 5430.0,
-                "d": 80.0
-              },
-              {
-                "w": "shield",
-                "t": 5510.0,
-                "d": 360.0
-              },
-              {
-                "w": "of",
-                "t": 5870.0,
-                "d": 120.0
-              },
-              {
-                "w": "stone",
-                "t": 5990.0,
-                "d": 480.0
-              },
-              {
-                "w": "around",
-                "t": 6510.0,
-                "d": 360.0
-              },
-              {
-                "w": "Rajgir",
-                "t": 6870.0,
-                "d": 720.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p05",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p05.png",
-      "shot": "dynamic low-angle of men hauling a monolith with ropes",
-      "mood": "battle",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "There is no inscription naming a king. Only the labour remembers. In the second urbanisation, when mahajanapadas grew and war hardened, such walls were the new grammar of power.",
-            "hi": "किसी राजा का नाम खुदा नहीं। बस श्रम की याद बची है। द्वितीय नगरयुग में, जब महाजनपद बढ़े और युद्ध कठोर हुआ, ऐसी दीवारें शक्ति की नई भाषा बन गईं।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p05_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p05_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "There",
-                "t": 110.0,
-                "d": 240.0
-              },
-              {
-                "w": "is",
-                "t": 350.0,
-                "d": 120.0
-              },
-              {
-                "w": "no",
-                "t": 470.0,
-                "d": 200.0
-              },
-              {
-                "w": "inscription",
-                "t": 670.0,
-                "d": 600.0
-              },
-              {
-                "w": "naming",
-                "t": 1270.0,
-                "d": 400.0
-              },
-              {
-                "w": "a",
-                "t": 1670.0,
-                "d": 120.0
-              },
-              {
-                "w": "king",
-                "t": 1790.0,
-                "d": 760.0
-              },
-              {
-                "w": "Only",
-                "t": 2630.0,
-                "d": 440.0
-              },
-              {
-                "w": "the",
-                "t": 3070.0,
-                "d": 120.0
-              },
-              {
-                "w": "labour",
-                "t": 3190.0,
-                "d": 360.0
-              },
-              {
-                "w": "remembers",
-                "t": 3550.0,
-                "d": 1240.0
-              },
-              {
-                "w": "In",
-                "t": 4830.0,
-                "d": 200.0
-              },
-              {
-                "w": "the",
-                "t": 5030.0,
-                "d": 120.0
-              },
-              {
-                "w": "second",
-                "t": 5150.0,
-                "d": 320.0
-              },
-              {
-                "w": "urbanisation",
-                "t": 5470.0,
-                "d": 1240.0
-              },
-              {
-                "w": "when",
-                "t": 6710.0,
-                "d": 160.0
-              },
-              {
-                "w": "mahajanapadas",
-                "t": 6870.0,
-                "d": 800.0
-              },
-              {
-                "w": "grew",
-                "t": 7670.0,
-                "d": 359.0
-              },
-              {
-                "w": "and",
-                "t": 8029.0,
-                "d": 200.0
-              },
-              {
-                "w": "war",
-                "t": 8229.0,
-                "d": 320.0
-              },
-              {
-                "w": "hardened",
-                "t": 8549.0,
-                "d": 881.0
-              },
-              {
-                "w": "such",
-                "t": 9590.0,
-                "d": 400.0
-              },
-              {
-                "w": "walls",
-                "t": 9990.0,
-                "d": 520.0
-              },
-              {
-                "w": "were",
-                "t": 10510.0,
-                "d": 199.0
-              },
-              {
-                "w": "the",
-                "t": 10709.0,
-                "d": 121.0
-              },
-              {
-                "w": "new",
-                "t": 10830.0,
-                "d": 280.0
-              },
-              {
-                "w": "grammar",
-                "t": 11110.0,
-                "d": 359.0
-              },
-              {
-                "w": "of",
-                "t": 11469.0,
-                "d": 160.0
-              },
-              {
-                "w": "power",
-                "t": 11629.0,
-                "d": 361.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p06",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p06.png",
-      "shot": "high oblique shot along a completed segment of wall",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Stone by stone, the line grew. Some stretches thick, some thin, hugging the contours, adjusting to ravines and saddles, built not in one sweep but in phases over generations.",
-            "hi": "पत्थर–पत्थर जोड़कर रेखा बढ़ती गई। कहीं मोटी, कहीं पतली, धरती की मोड़–रेखाएँ पकड़ती, घाटियों–दर्रों के हिसाब से ढलती, एक ही झटके में नहीं, कई पीढ़ियों में चरण–चरण बनी।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p06_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p06_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Stone",
-                "t": 74.0,
-                "d": 553.0
-              },
-              {
-                "w": "by",
-                "t": 627.0,
-                "d": 212.0
-              },
-              {
-                "w": "stone",
-                "t": 840.0,
-                "d": 851.0
-              },
-              {
-                "w": "the",
-                "t": 1776.0,
-                "d": 255.0
-              },
-              {
-                "w": "line",
-                "t": 2031.0,
-                "d": 424.0
-              },
-              {
-                "w": "grew",
-                "t": 2456.0,
-                "d": 979.0
-              },
-              {
-                "w": "Some",
-                "t": 3946.0,
-                "d": 382.0
-              },
-              {
-                "w": "stretches",
-                "t": 4329.0,
-                "d": 510.0
-              },
-              {
-                "w": "thick",
-                "t": 4840.0,
-                "d": 340.0
-              },
-              {
-                "w": "some",
-                "t": 5180.0,
-                "d": 468.0
-              },
-              {
-                "w": "thin",
-                "t": 6202.0,
-                "d": 595.0
-              },
-              {
-                "w": "hugging",
-                "t": 6925.0,
-                "d": 468.0
-              },
-              {
-                "w": "the",
-                "t": 7393.0,
-                "d": 127.0
-              },
-              {
-                "w": "contours",
-                "t": 7521.0,
-                "d": 936.0
-              },
-              {
-                "w": "adjusting",
-                "t": 8669.0,
-                "d": 724.0
-              },
-              {
-                "w": "to",
-                "t": 9393.0,
-                "d": 127.0
-              },
-              {
-                "w": "ravines",
-                "t": 9521.0,
-                "d": 510.0
-              },
-              {
-                "w": "and",
-                "t": 10031.0,
-                "d": 126.0
-              },
-              {
-                "w": "saddles",
-                "t": 10158.0,
-                "d": 1063.0
-              },
-              {
-                "w": "built",
-                "t": 11307.0,
-                "d": 468.0
-              },
-              {
-                "w": "not",
-                "t": 11775.0,
-                "d": 298.0
-              },
-              {
-                "w": "in",
-                "t": 12074.0,
-                "d": 170.0
-              },
-              {
-                "w": "one",
-                "t": 12244.0,
-                "d": 382.0
-              },
-              {
-                "w": "sweep",
-                "t": 12627.0,
-                "d": 637.0
-              },
-              {
-                "w": "but",
-                "t": 13264.0,
-                "d": 341.0
-              },
-              {
-                "w": "in",
-                "t": 13606.0,
-                "d": 170.0
-              },
-              {
-                "w": "phases",
-                "t": 13776.0,
-                "d": 467.0
-              },
-              {
-                "w": "over",
-                "t": 14243.0,
-                "d": 255.0
-              },
-              {
-                "w": "generations",
-                "t": 14498.0,
-                "d": 1022.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p07",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p07.png",
-      "shot": "medium on builders examining a sherd of Northern Black Polished Ware",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Beneath some stretches, archaeologists later found Northern Black Polished Ware. Fine tableware of an early city elite, telling us the first major wall belonged to a pre-Mauryan Magadha.",
-            "hi": "कुछ हिस्सों के नीचे पुरातत्वविदों को बाद में उत्तरी काली पालिशदार मृद्भांड मिला। शुरुआती नगर अभिजातों का बढ़िया बर्तन, जो बताता है कि पहली बड़ी दीवार मौर्य–पूर्व मगध की थी।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p07_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p07_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Beneath",
-                "t": 74.0,
-                "d": 468.0
-              },
-              {
-                "w": "some",
-                "t": 542.0,
-                "d": 255.0
-              },
-              {
-                "w": "stretches",
-                "t": 797.0,
-                "d": 893.0
-              },
-              {
-                "w": "archaeologists",
-                "t": 1861.0,
-                "d": 1021.0
-              },
-              {
-                "w": "later",
-                "t": 2882.0,
-                "d": 340.0
-              },
-              {
-                "w": "found",
-                "t": 3223.0,
-                "d": 807.0
-              },
-              {
-                "w": "Northern",
-                "t": 4073.0,
-                "d": 639.0
-              },
-              {
-                "w": "Black",
-                "t": 4712.0,
-                "d": 425.0
-              },
-              {
-                "w": "Polished",
-                "t": 5138.0,
-                "d": 510.0
-              },
-              {
-                "w": "Ware",
-                "t": 5648.0,
-                "d": 638.0
-              },
-              {
-                "w": "Fine",
-                "t": 6585.0,
-                "d": 510.0
-              },
-              {
-                "w": "tableware",
-                "t": 7095.0,
-                "d": 638.0
-              },
-              {
-                "w": "of",
-                "t": 7734.0,
-                "d": 170.0
-              },
-              {
-                "w": "an",
-                "t": 7904.0,
-                "d": 170.0
-              },
-              {
-                "w": "early",
-                "t": 8074.0,
-                "d": 382.0
-              },
-              {
-                "w": "city",
-                "t": 8457.0,
-                "d": 510.0
-              },
-              {
-                "w": "elite",
-                "t": 9009.0,
-                "d": 341.0
-              },
-              {
-                "w": "telling",
-                "t": 9351.0,
-                "d": 977.0
-              },
-              {
-                "w": "us",
-                "t": 10328.0,
-                "d": 171.0
-              },
-              {
-                "w": "the",
-                "t": 10500.0,
-                "d": 170.0
-              },
-              {
-                "w": "first",
-                "t": 10670.0,
-                "d": 467.0
-              },
-              {
-                "w": "major",
-                "t": 11137.0,
-                "d": 384.0
-              },
-              {
-                "w": "wall",
-                "t": 11521.0,
-                "d": 339.0
-              },
-              {
-                "w": "belonged",
-                "t": 11860.0,
-                "d": 681.0
-              },
-              {
-                "w": "to",
-                "t": 12542.0,
-                "d": 170.0
-              },
-              {
-                "w": "a",
-                "t": 12712.0,
-                "d": 126.0
-              },
-              {
-                "w": "pre-Mauryan",
-                "t": 12839.0,
-                "d": 639.0
-              },
-              {
-                "w": "Magadha",
-                "t": 13478.0,
-                "d": 424.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p08",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p08.png",
-      "shot": "twilight wide of guarded gate cutting between two hills",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Buddhist texts remember Rajagriha as a guarded hill city. Gates in the passes, sentries on the ridges. To enter, one climbed and was watched. The enclosure itself was a weapon.",
-            "hi": "बौद्ध ग्रंथ राजगृह को संरक्षित पर्वत–नगर के रूप में याद रखते हैं। दर्रों पर फाटक, कगारों पर पहरा। भीतर आने को चढ़ना पड़ता, और नज़रें पीछा करतीं। खुद घेरा ही हथियार था।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p08_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p08_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Buddhist",
-                "t": 80.0,
-                "d": 643.0
-              },
-              {
-                "w": "texts",
-                "t": 724.0,
-                "d": 597.0
-              },
-              {
-                "w": "remember",
-                "t": 1321.0,
-                "d": 643.0
-              },
-              {
-                "w": "Rajagriha",
-                "t": 1965.0,
-                "d": 780.0
-              },
-              {
-                "w": "as",
-                "t": 2745.0,
-                "d": 322.0
-              },
-              {
-                "w": "a",
-                "t": 3068.0,
-                "d": 182.0
-              },
-              {
-                "w": "guarded",
-                "t": 3251.0,
-                "d": 506.0
-              },
-              {
-                "w": "hill",
-                "t": 3758.0,
-                "d": 228.0
-              },
-              {
-                "w": "city",
-                "t": 3987.0,
-                "d": 1196.0
-              },
-              {
-                "w": "Gates",
-                "t": 5367.0,
-                "d": 459.0
-              },
-              {
-                "w": "in",
-                "t": 5827.0,
-                "d": 91.0
-              },
-              {
-                "w": "the",
-                "t": 5919.0,
-                "d": 137.0
-              },
-              {
-                "w": "passes",
-                "t": 6057.0,
-                "d": 827.0
-              },
-              {
-                "w": "sentries",
-                "t": 6931.0,
-                "d": 597.0
-              },
-              {
-                "w": "on",
-                "t": 7528.0,
-                "d": 137.0
-              },
-              {
-                "w": "the",
-                "t": 7666.0,
-                "d": 137.0
-              },
-              {
-                "w": "ridges",
-                "t": 7804.0,
-                "d": 1379.0
-              },
-              {
-                "w": "To",
-                "t": 9183.0,
-                "d": 274.0
-              },
-              {
-                "w": "enter",
-                "t": 9458.0,
-                "d": 598.0
-              },
-              {
-                "w": "one",
-                "t": 10149.0,
-                "d": 413.0
-              },
-              {
-                "w": "climbed",
-                "t": 10563.0,
-                "d": 459.0
-              },
-              {
-                "w": "and",
-                "t": 11022.0,
-                "d": 183.0
-              },
-              {
-                "w": "was",
-                "t": 11206.0,
-                "d": 183.0
-              },
-              {
-                "w": "watched",
-                "t": 11390.0,
-                "d": 965.0
-              },
-              {
-                "w": "The",
-                "t": 12678.0,
-                "d": 228.0
-              },
-              {
-                "w": "enclosure",
-                "t": 12906.0,
-                "d": 782.0
-              },
-              {
-                "w": "itself",
-                "t": 13689.0,
-                "d": 826.0
-              },
-              {
-                "w": "was",
-                "t": 14563.0,
-                "d": 367.0
-              },
-              {
-                "w": "a",
-                "t": 14931.0,
-                "d": 90.0
-              },
-              {
-                "w": "weapon",
-                "t": 15021.0,
-                "d": 551.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p09",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p09.png",
-      "shot": "wide view of city inside basin with wall cresting above",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Inside, life thickened. Assemblies, markets, rituals. Outside, rival powers watched. The wall spoke for the city: this basin has a ruler, an army, a will to stand behind stone.",
-            "hi": "भीतर जीवन घना हुआ। सभाएँ, बाज़ार, अनुष्ठान। बाहर प्रतिद्वंदी शक्तियाँ ताकती रहीं। दीवार शहर की ओर से बोलती रही: इस कटोरे का शासक है, सेना है, और पत्थर के पीछे टिकने की इच्छा है।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p09_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p09_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Inside",
-                "t": 80.0,
-                "d": 1011.0
-              },
-              {
-                "w": "life",
-                "t": 1183.0,
-                "d": 505.0
-              },
-              {
-                "w": "thickened",
-                "t": 1689.0,
-                "d": 689.0
-              },
-              {
-                "w": "Assemblies",
-                "t": 3205.0,
-                "d": 966.0
-              },
-              {
-                "w": "markets",
-                "t": 4264.0,
-                "d": 919.0
-              },
-              {
-                "w": "rituals",
-                "t": 5229.0,
-                "d": 919.0
-              },
-              {
-                "w": "Outside",
-                "t": 6977.0,
-                "d": 919.0
-              },
-              {
-                "w": "rival",
-                "t": 7942.0,
-                "d": 551.0
-              },
-              {
-                "w": "powers",
-                "t": 8494.0,
-                "d": 413.0
-              },
-              {
-                "w": "watched",
-                "t": 8908.0,
-                "d": 781.0
-              },
-              {
-                "w": "The",
-                "t": 10287.0,
-                "d": 275.0
-              },
-              {
-                "w": "wall",
-                "t": 10563.0,
-                "d": 275.0
-              },
-              {
-                "w": "spoke",
-                "t": 10839.0,
-                "d": 413.0
-              },
-              {
-                "w": "for",
-                "t": 11252.0,
-                "d": 137.0
-              },
-              {
-                "w": "the",
-                "t": 11390.0,
-                "d": 137.0
-              },
-              {
-                "w": "city",
-                "t": 11528.0,
-                "d": 1333.0
-              },
-              {
-                "w": "this",
-                "t": 12906.0,
-                "d": 322.0
-              },
-              {
-                "w": "basin",
-                "t": 13229.0,
-                "d": 459.0
-              },
-              {
-                "w": "has",
-                "t": 13689.0,
-                "d": 182.0
-              },
-              {
-                "w": "a",
-                "t": 13872.0,
-                "d": 91.0
-              },
-              {
-                "w": "ruler",
-                "t": 13964.0,
-                "d": 506.0
-              },
-              {
-                "w": "an",
-                "t": 14885.0,
-                "d": 275.0
-              },
-              {
-                "w": "army",
-                "t": 15160.0,
-                "d": 965.0
-              },
-              {
-                "w": "a",
-                "t": 16263.0,
-                "d": 322.0
-              },
-              {
-                "w": "will",
-                "t": 16586.0,
-                "d": 275.0
-              },
-              {
-                "w": "to",
-                "t": 16862.0,
-                "d": 137.0
-              },
-              {
-                "w": "stand",
-                "t": 17000.0,
-                "d": 459.0
-              },
-              {
-                "w": "behind",
-                "t": 17459.0,
-                "d": 412.0
-              },
-              {
-                "w": "stone",
-                "t": 17872.0,
-                "d": 644.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p10",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p10.png",
-      "shot": "montage-like wide with ghosted silhouettes of rival states beyond hills",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "This was the age of mahajanapadas. Kashi and Kosala to the west, Vajji to the north, Anga to the east. In this jostling field, early Magadha armed its capital with stone.",
-            "hi": "यह महाजनपदों का युग था। पश्चिम में काशी और कोसल, उत्तर में वज्जि, पूरब में अंग। इस धक्कामुक्की के मैदान में आरंभिक मगध ने अपनी राजधानी को पत्थर से सुसज्जित किया।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p10_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p10_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "This",
-                "t": 74.0,
-                "d": 340.0
-              },
-              {
-                "w": "was",
-                "t": 414.0,
-                "d": 170.0
-              },
-              {
-                "w": "the",
-                "t": 585.0,
-                "d": 212.0
-              },
-              {
-                "w": "age",
-                "t": 797.0,
-                "d": 340.0
-              },
-              {
-                "w": "of",
-                "t": 1138.0,
-                "d": 255.0
-              },
-              {
-                "w": "mahajanapadas",
-                "t": 1393.0,
-                "d": 1658.0
-              },
-              {
-                "w": "Kashi",
-                "t": 3308.0,
-                "d": 339.0
-              },
-              {
-                "w": "and",
-                "t": 3647.0,
-                "d": 171.0
-              },
-              {
-                "w": "Kosala",
-                "t": 3819.0,
-                "d": 468.0
-              },
-              {
-                "w": "to",
-                "t": 4287.0,
-                "d": 127.0
-              },
-              {
-                "w": "the",
-                "t": 4414.0,
-                "d": 127.0
-              },
-              {
-                "w": "west",
-                "t": 4542.0,
-                "d": 765.0
-              },
-              {
-                "w": "Vajji",
-                "t": 5436.0,
-                "d": 510.0
-              },
-              {
-                "w": "to",
-                "t": 5946.0,
-                "d": 127.0
-              },
-              {
-                "w": "the",
-                "t": 6074.0,
-                "d": 127.0
-              },
-              {
-                "w": "north",
-                "t": 6202.0,
-                "d": 553.0
-              },
-              {
-                "w": "Anga",
-                "t": 7138.0,
-                "d": 382.0
-              },
-              {
-                "w": "to",
-                "t": 7521.0,
-                "d": 127.0
-              },
-              {
-                "w": "the",
-                "t": 7648.0,
-                "d": 170.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "action_auto2",
-      "type": "action",
-      "mood": "suspense",
-      "bg": "assets/the_forty_kilometre_wall_without_mortar/action_auto2/bg.png",
-      "chars": [
-        {
-          "img": "assets/the_forty_kilometre_wall_without_mortar/action_auto2/char0.png",
-          "motion": {
-            "fromX": 42,
-            "toX": 8,
-            "fromScale": 0.82,
-            "toScale": 1.03,
-            "rot": 2,
-            "dur": 7200
-          }
-        }
-      ],
-      "motion": {
-        "bgZoom": 1.12,
-        "bgPan": -6,
-        "dur": 7200
-      },
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Sensing rival kings' ambitions, he watches the frontier sky, ready to turn this rough wall into Rajgir's unbreachable edge.",
-            "hi": "दुश्मन राजाओं की野 चाह भांपकर, वह सरहद के आकाश पर नज़र गड़ाए, तैयार है इस कच्ची दीवार को राजगीर की अटूट ढाल बनाने को।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/action/action_auto2_en.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/action/action_auto2_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Sensing",
-                "t": 80.0,
-                "d": 689.0
-              },
-              {
-                "w": "rival",
-                "t": 770.0,
-                "d": 551.0
-              },
-              {
-                "w": "kings'",
-                "t": 1321.0,
-                "d": 367.0
-              },
-              {
-                "w": "ambitions",
-                "t": 1689.0,
-                "d": 1608.0
-              },
-              {
-                "w": "he",
-                "t": 3297.0,
-                "d": 322.0
-              },
-              {
-                "w": "watches",
-                "t": 3620.0,
-                "d": 459.0
-              },
-              {
-                "w": "the",
-                "t": 4080.0,
-                "d": 137.0
-              },
-              {
-                "w": "frontier",
-                "t": 4218.0,
-                "d": 459.0
-              },
-              {
-                "w": "sky",
-                "t": 4678.0,
-                "d": 827.0
-              },
-              {
-                "w": "ready",
-                "t": 5643.0,
-                "d": 413.0
-              },
-              {
-                "w": "to",
-                "t": 6057.0,
-                "d": 183.0
-              },
-              {
-                "w": "turn",
-                "t": 6241.0,
-                "d": 275.0
-              },
-              {
-                "w": "this",
-                "t": 6517.0,
-                "d": 275.0
-              },
-              {
-                "w": "rough",
-                "t": 6793.0,
-                "d": 275.0
-              },
-              {
-                "w": "wall",
-                "t": 7068.0,
-                "d": 597.0
-              },
-              {
-                "w": "into",
-                "t": 7712.0,
-                "d": 367.0
-              },
-              {
-                "w": "Rajgir's",
-                "t": 8080.0,
-                "d": 827.0
-              },
-              {
-                "w": "unbreachable",
-                "t": 8954.0,
-                "d": 872.0
-              },
-              {
-                "w": "edge",
-                "t": 9826.0,
-                "d": 689.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p11",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p11.png",
-      "shot": "medium on a Buddhist monk looking up at the wall from a path",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Later texts recall great conflicts with the Vajji confederacy and the guarding of approaches. The details blur, but always the image returns: a hill city, enclosed and wary.",
-            "hi": "बाद के ग्रंथ वज्जि संघ से बड़े संघर्षों और मार्ग–रक्षा को याद करते हैं। विवरण धुँधले हैं, पर छवि लौट आती है: पहाड़ी नगर, घिरा हुआ और सतर्क।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p11_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p11_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Later",
-                "t": 74.0,
-                "d": 595.0
-              },
-              {
-                "w": "texts",
-                "t": 755.0,
-                "d": 340.0
-              },
-              {
-                "w": "recall",
-                "t": 1095.0,
-                "d": 553.0
-              },
-              {
-                "w": "great",
-                "t": 1648.0,
-                "d": 255.0
-              },
-              {
-                "w": "conflicts",
-                "t": 1904.0,
-                "d": 552.0
-              },
-              {
-                "w": "with",
-                "t": 2456.0,
-                "d": 170.0
-              },
-              {
-                "w": "the",
-                "t": 2626.0,
-                "d": 128.0
-              },
-              {
-                "w": "Vajji",
-                "t": 2755.0,
-                "d": 424.0
-              },
-              {
-                "w": "confederacy",
-                "t": 3179.0,
-                "d": 1021.0
-              },
-              {
-                "w": "and",
-                "t": 4243.0,
-                "d": 256.0
-              },
-              {
-                "w": "the",
-                "t": 4500.0,
-                "d": 127.0
-              },
-              {
-                "w": "guarding",
-                "t": 4627.0,
-                "d": 382.0
-              },
-              {
-                "w": "of",
-                "t": 5010.0,
-                "d": 127.0
-              },
-              {
-                "w": "approaches",
-                "t": 5138.0,
-                "d": 1361.0
-              },
-              {
-                "w": "The",
-                "t": 6882.0,
-                "d": 255.0
-              },
-              {
-                "w": "details",
-                "t": 7138.0,
-                "d": 468.0
-              },
-              {
-                "w": "blur",
-                "t": 7606.0,
-                "d": 638.0
-              },
-              {
-                "w": "but",
-                "t": 8414.0,
-                "d": 296.0
-              },
-              {
-                "w": "always",
-                "t": 8711.0,
-                "d": 511.0
-              },
-              {
-                "w": "the",
-                "t": 9223.0,
-                "d": 212.0
-              },
-              {
-                "w": "image",
-                "t": 9436.0,
-                "d": 296.0
-              },
-              {
-                "w": "returns",
-                "t": 9732.0,
-                "d": 809.0
-              },
-              {
-                "w": "a",
-                "t": 10840.0,
-                "d": 126.0
-              },
-              {
-                "w": "hill",
-                "t": 10967.0,
-                "d": 298.0
-              },
-              {
-                "w": "city",
-                "t": 11265.0,
-                "d": 638.0
-              },
-              {
-                "w": "enclosed",
-                "t": 12074.0,
-                "d": 850.0
-              },
-              {
-                "w": "and",
-                "t": 12924.0,
-                "d": 255.0
-              },
-              {
-                "w": "wary",
-                "t": 13179.0,
-                "d": 469.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p12",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p12.png",
-      "shot": "medium close on an older builder resting against the wall",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "speech",
-          "role": "male",
-          "text": {
-            "en": "We build, and others will patch and raise again. The wall never ends.",
-            "hi": "हम बनाएँगे, और कोई आगे चलकर जोड़ेगा, ऊँचा करेगा। दीवार का काम कभी पूरा नहीं होता।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p12_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p12_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "We",
-                "t": 49.0,
-                "d": 159.3
-              },
-              {
-                "w": "build",
-                "t": 257.3,
-                "d": 392.2
-              },
-              {
-                "w": "and",
-                "t": 906.9,
-                "d": 232.8
-              },
-              {
-                "w": "others",
-                "t": 1188.7,
-                "d": 453.4
-              },
-              {
-                "w": "will",
-                "t": 1715.7,
-                "d": 269.6
-              },
-              {
-                "w": "patch",
-                "t": 1985.3,
-                "d": 453.4
-              },
-              {
-                "w": "and",
-                "t": 2536.8,
-                "d": 257.3
-              },
-              {
-                "w": "raise",
-                "t": 2794.1,
-                "d": 318.6
-              },
-              {
-                "w": "again",
-                "t": 3112.8,
-                "d": 416.7
-              },
-              {
-                "w": "The",
-                "t": 4362.8,
-                "d": 110.3
-              },
-              {
-                "w": "wall",
-                "t": 4473.0,
-                "d": 367.6
-              },
-              {
-                "w": "never",
-                "t": 4840.7,
-                "d": 392.2
-              },
-              {
-                "w": "ends",
-                "t": 5330.9,
-                "d": 355.4
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "split_auto",
-      "type": "split",
-      "mood": "battle",
-      "slices": [
-        {
-          "img": "assets/the_forty_kilometre_wall_without_mortar/split_auto/s0.png",
-          "slogan": {
-            "en": "Stone by stone, we stand",
-            "hi": "पत्थर पत्थर पर, हम खड़े"
-          },
-          "pos": "center 30%"
-        },
-        {
-          "img": "assets/the_forty_kilometre_wall_without_mortar/split_auto/s1.png",
-          "pos": "center 46%"
-        },
-        {
-          "img": "assets/the_forty_kilometre_wall_without_mortar/split_auto/s2.png",
-          "pos": "center 52%"
-        }
-      ],
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "As war drums echo in the valley, his resolve hardens, binding stone, sweat, and city into a single unbroken defense.",
-            "hi": "घाटी में रणढोल गूंजते हैं, उसका इरादा पत्थर, पसीना और शहर को एक अटूट ढाल बना देता है।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/split/split_auto_en.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/split/split_auto_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "As",
-                "t": 110.0,
-                "d": 280.0
-              },
-              {
-                "w": "war",
-                "t": 390.0,
-                "d": 240.0
-              },
-              {
-                "w": "drums",
-                "t": 630.0,
-                "d": 360.0
-              },
-              {
-                "w": "echo",
-                "t": 990.0,
-                "d": 280.0
-              },
-              {
-                "w": "in",
-                "t": 1270.0,
-                "d": 80.0
-              },
-              {
-                "w": "the",
-                "t": 1350.0,
-                "d": 120.0
-              },
-              {
-                "w": "valley",
-                "t": 1470.0,
-                "d": 720.0
-              },
-              {
-                "w": "his",
-                "t": 2230.0,
-                "d": 280.0
-              },
-              {
-                "w": "resolve",
-                "t": 2510.0,
-                "d": 399.0
-              },
-              {
-                "w": "hardens",
-                "t": 2909.0,
-                "d": 721.0
-              },
-              {
-                "w": "binding",
-                "t": 3670.0,
-                "d": 560.0
-              },
-              {
-                "w": "stone",
-                "t": 4230.0,
-                "d": 600.0
-              },
-              {
-                "w": "sweat",
-                "t": 4830.0,
-                "d": 840.0
-              },
-              {
-                "w": "and",
-                "t": 5750.0,
-                "d": 280.0
-              },
-              {
-                "w": "city",
-                "t": 6030.0,
-                "d": 680.0
-              },
-              {
-                "w": "into",
-                "t": 6750.0,
-                "d": 360.0
-              },
-              {
-                "w": "a",
-                "t": 7110.0,
-                "d": 40.0
-              },
-              {
-                "w": "single",
-                "t": 7150.0,
-                "d": 520.0
-              },
-              {
-                "w": "unbroken",
-                "t": 7670.0,
-                "d": 639.0
-              },
-              {
-                "w": "defense",
-                "t": 8309.0,
-                "d": 641.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p13",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p13.png",
-      "shot": "time-lapse style wide showing subtle changes in the wall over centuries",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "The record suggests later hands altered and repaired the barrier. Some courses coarser, some more regular. The wall, like the city, was not fixed but layered by time.",
-            "hi": "लेख बताता है कि बाद के हाथों ने इस घेरे को बदला–सँवारा। कहीं गच्चे मोटे, कहीं पंक्तियाँ करीने से। दीवार भी, शहर की तरह, स्थिर नहीं रही, समय की तहों से बनी।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p13_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p13_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "The",
-                "t": 74.0,
-                "d": 212.0
-              },
-              {
-                "w": "record",
-                "t": 287.0,
-                "d": 340.0
-              },
-              {
-                "w": "suggests",
-                "t": 627.0,
-                "d": 723.0
-              },
-              {
-                "w": "later",
-                "t": 1351.0,
-                "d": 510.0
-              },
-              {
-                "w": "hands",
-                "t": 1861.0,
-                "d": 382.0
-              },
-              {
-                "w": "altered",
-                "t": 2244.0,
-                "d": 722.0
-              },
-              {
-                "w": "and",
-                "t": 2967.0,
-                "d": 298.0
-              },
-              {
-                "w": "repaired",
-                "t": 3265.0,
-                "d": 424.0
-              },
-              {
-                "w": "the",
-                "t": 3690.0,
-                "d": 128.0
-              },
-              {
-                "w": "barrier",
-                "t": 3819.0,
-                "d": 468.0
-              },
-              {
-                "w": "Some",
-                "t": 4840.0,
-                "d": 425.0
-              },
-              {
-                "w": "courses",
-                "t": 5265.0,
-                "d": 510.0
-              },
-              {
-                "w": "coarser",
-                "t": 5776.0,
-                "d": 638.0
-              },
-              {
-                "w": "some",
-                "t": 6457.0,
-                "d": 382.0
-              },
-              {
-                "w": "more",
-                "t": 6840.0,
-                "d": 255.0
-              },
-              {
-                "w": "regular",
-                "t": 7095.0,
-                "d": 510.0
-              },
-              {
-                "w": "The",
-                "t": 8244.0,
-                "d": 212.0
-              },
-              {
-                "w": "wall",
-                "t": 8457.0,
-                "d": 340.0
-              },
-              {
-                "w": "like",
-                "t": 8797.0,
-                "d": 340.0
-              },
-              {
-                "w": "the",
-                "t": 9138.0,
-                "d": 126.0
-              },
-              {
-                "w": "city",
-                "t": 9264.0,
-                "d": 596.0
-              },
-              {
-                "w": "was",
-                "t": 9903.0,
-                "d": 298.0
-              },
-              {
-                "w": "not",
-                "t": 10202.0,
-                "d": 212.0
-              },
-              {
-                "w": "fixed",
-                "t": 10414.0,
-                "d": 510.0
-              },
-              {
-                "w": "but",
-                "t": 11010.0,
-                "d": 340.0
-              },
-              {
-                "w": "layered",
-                "t": 11351.0,
-                "d": 382.0
-              },
-              {
-                "w": "by",
-                "t": 11734.0,
-                "d": 211.0
-              },
-              {
-                "w": "time",
-                "t": 11945.0,
-                "d": 425.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p14",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p14.png",
-      "shot": "modern-era wide shot of the ruined wall snaking over green hills",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Today only fragments remain, listed and measured by surveys, their circuit traced roughly at forty kilometres. Parts have fallen, but the idea still arcs across the hills.",
-            "hi": "आज बस कुछ टुकड़े बचे हैं, सर्वेक्षणों में दर्ज–नापा हुआ, जिनकी परिक्रमा लगभग चालीस किलोमीटर आँकी गई। हिस्से ढह गए, पर विचार आज भी पहाड़ियों पर धनुष की तरह छाया है।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p14_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p14_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Today",
-                "t": 74.0,
-                "d": 425.0
-              },
-              {
-                "w": "only",
-                "t": 542.0,
-                "d": 382.0
-              },
-              {
-                "w": "fragments",
-                "t": 925.0,
-                "d": 595.0
-              },
-              {
-                "w": "remain",
-                "t": 1521.0,
-                "d": 637.0
-              },
-              {
-                "w": "listed",
-                "t": 2287.0,
-                "d": 679.0
-              },
-              {
-                "w": "and",
-                "t": 3009.0,
-                "d": 213.0
-              },
-              {
-                "w": "measured",
-                "t": 3223.0,
-                "d": 467.0
-              },
-              {
-                "w": "by",
-                "t": 3690.0,
-                "d": 171.0
-              },
-              {
-                "w": "surveys",
-                "t": 3861.0,
-                "d": 765.0
-              },
-              {
-                "w": "their",
-                "t": 5095.0,
-                "d": 297.0
-              },
-              {
-                "w": "circuit",
-                "t": 5393.0,
-                "d": 382.0
-              },
-              {
-                "w": "traced",
-                "t": 5776.0,
-                "d": 468.0
-              },
-              {
-                "w": "roughly",
-                "t": 6287.0,
-                "d": 468.0
-              },
-              {
-                "w": "at",
-                "t": 6755.0,
-                "d": 170.0
-              },
-              {
-                "w": "forty",
-                "t": 6925.0,
-                "d": 468.0
-              },
-              {
-                "w": "kilometres",
-                "t": 7393.0,
-                "d": 936.0
-              },
-              {
-                "w": "Parts",
-                "t": 9053.0,
-                "d": 340.0
-              },
-              {
-                "w": "have",
-                "t": 9393.0,
-                "d": 170.0
-              },
-              {
-                "w": "fallen",
-                "t": 9563.0,
-                "d": 509.0
-              },
-              {
-                "w": "but",
-                "t": 10542.0,
-                "d": 169.0
-              },
-              {
-                "w": "the",
-                "t": 10711.0,
-                "d": 170.0
-              },
-              {
-                "w": "idea",
-                "t": 10881.0,
-                "d": 340.0
-              },
-              {
-                "w": "still",
-                "t": 11222.0,
-                "d": 298.0
-              },
-              {
-                "w": "arcs",
-                "t": 11521.0,
-                "d": 297.0
-              },
-              {
-                "w": "across",
-                "t": 11819.0,
-                "d": 381.0
-              },
-              {
-                "w": "the",
-                "t": 12201.0,
-                "d": 128.0
-              },
-              {
-                "w": "hills",
-                "t": 12329.0,
-                "d": 509.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p15",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p15.png",
-      "shot": "close-up on interlocked stones, plants growing in crevices",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "There are no cement seams to study. Only the meeting of stone with stone, the craft of fitting irregular faces so that gravity, not mortar, keeps the past standing.",
-            "hi": "यहाँ गारे की जोड़–रेखाएँ पढ़ने को नहीं। बस पत्थर से पत्थर की भेंट है, टेढ़े–मेढ़े चेहरों को ऐसा जड़ने की कारीगरी कि गारा नहीं, गुरुत्वाकर्षण अतीत को खड़ा रखे।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p15_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p15_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "There",
-                "t": 74.0,
-                "d": 340.0
-              },
-              {
-                "w": "are",
-                "t": 414.0,
-                "d": 127.0
-              },
-              {
-                "w": "no",
-                "t": 542.0,
-                "d": 127.0
-              },
-              {
-                "w": "cement",
-                "t": 670.0,
-                "d": 340.0
-              },
-              {
-                "w": "seams",
-                "t": 1010.0,
-                "d": 340.0
-              },
-              {
-                "w": "to",
-                "t": 1351.0,
-                "d": 127.0
-              },
-              {
-                "w": "study",
-                "t": 1478.0,
-                "d": 765.0
-              },
-              {
-                "w": "Only",
-                "t": 2456.0,
-                "d": 384.0
-              },
-              {
-                "w": "the",
-                "t": 2840.0,
-                "d": 169.0
-              },
-              {
-                "w": "meeting",
-                "t": 3009.0,
-                "d": 341.0
-              },
-              {
-                "w": "of",
-                "t": 3351.0,
-                "d": 127.0
-              },
-              {
-                "w": "stone",
-                "t": 3478.0,
-                "d": 382.0
-              },
-              {
-                "w": "with",
-                "t": 3861.0,
-                "d": 169.0
-              },
-              {
-                "w": "stone",
-                "t": 4030.0,
-                "d": 639.0
-              },
-              {
-                "w": "the",
-                "t": 4797.0,
-                "d": 255.0
-              },
-              {
-                "w": "craft",
-                "t": 5053.0,
-                "d": 382.0
-              },
-              {
-                "w": "of",
-                "t": 5436.0,
-                "d": 85.0
-              },
-              {
-                "w": "fitting",
-                "t": 5521.0,
-                "d": 425.0
-              },
-              {
-                "w": "irregular",
-                "t": 5946.0,
-                "d": 595.0
-              },
-              {
-                "w": "faces",
-                "t": 6542.0,
-                "d": 765.0
-              },
-              {
-                "w": "so",
-                "t": 7521.0,
-                "d": 255.0
-              },
-              {
-                "w": "that",
-                "t": 7776.0,
-                "d": 170.0
-              },
-              {
-                "w": "gravity",
-                "t": 7946.0,
-                "d": 722.0
-              },
-              {
-                "w": "not",
-                "t": 8711.0,
-                "d": 382.0
-              },
-              {
-                "w": "mortar",
-                "t": 9094.0,
-                "d": 638.0
-              },
-              {
-                "w": "keeps",
-                "t": 9946.0,
-                "d": 381.0
-              },
-              {
-                "w": "the",
-                "t": 10328.0,
-                "d": 171.0
-              },
-              {
-                "w": "past",
-                "t": 10500.0,
-                "d": 296.0
-              },
-              {
-                "w": "standing",
-                "t": 10796.0,
-                "d": 639.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p16",
-      "art": "assets/the_forty_kilometre_wall_without_mortar/img/p16.png",
-      "shot": "wide contemplative shot of the wall and the valley at sunset",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "A wall records both fear and organisation. Around Rajagriha, this dry-stone ring marks a moment when a hill basin chose to become a capital, binding its fate to stone and to history.",
-            "hi": "दीवार डर और संगठन, दोनों लिखती है। राजगृह के चारों ओर यह सूखी पत्थर की अंगूठी वह क्षण दर्ज करती है जब एक पहाड़ी कटोरे ने राजधानी बनने का फैसला किया, और अपने भाग्य को पत्थर और इतिहास से बाँध लिया।"
-          },
-          "audio": {
-            "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p16_0.mp3",
-            "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p16_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "A",
-                "t": 80.0,
-                "d": 183.0
-              },
-              {
-                "w": "wall",
-                "t": 264.0,
-                "d": 321.0
-              },
-              {
-                "w": "records",
-                "t": 586.0,
-                "d": 597.0
-              },
-              {
-                "w": "both",
-                "t": 1183.0,
-                "d": 275.0
-              },
-              {
-                "w": "fear",
-                "t": 1459.0,
-                "d": 597.0
-              },
-              {
-                "w": "and",
-                "t": 2057.0,
-                "d": 274.0
-              },
-              {
-                "w": "organisation",
-                "t": 2332.0,
-                "d": 1748.0
-              },
-              {
-                "w": "Around",
-                "t": 4310.0,
-                "d": 459.0
-              },
-              {
-                "w": "Rajagriha",
-                "t": 4770.0,
-                "d": 873.0
-              },
-              {
-                "w": "this",
-                "t": 5919.0,
-                "d": 321.0
-              },
-              {
-                "w": "dry-stone",
-                "t": 6241.0,
-                "d": 597.0
-              },
-              {
-                "w": "ring",
-                "t": 6839.0,
-                "d": 229.0
-              },
-              {
-                "w": "marks",
-                "t": 7068.0,
-                "d": 367.0
-              },
-              {
-                "w": "a",
-                "t": 7436.0,
-                "d": 45.0
-              },
-              {
-                "w": "moment",
-                "t": 7482.0,
-                "d": 827.0
-              },
-              {
-                "w": "when",
-                "t": 8356.0,
-                "d": 229.0
-              },
-              {
-                "w": "a",
-                "t": 8586.0,
-                "d": 91.0
-              },
-              {
-                "w": "hill",
-                "t": 8678.0,
-                "d": 321.0
-              },
-              {
-                "w": "basin",
-                "t": 9000.0,
-                "d": 458.0
-              },
-              {
-                "w": "chose",
-                "t": 9458.0,
-                "d": 322.0
-              },
-              {
-                "w": "to",
-                "t": 9781.0,
-                "d": 136.0
-              },
-              {
-                "w": "become",
-                "t": 9918.0,
-                "d": 368.0
-              },
-              {
-                "w": "a",
-                "t": 10287.0,
-                "d": 45.0
-              },
-              {
-                "w": "capital",
-                "t": 10333.0,
-                "d": 1057.0
-              },
-              {
-                "w": "binding",
-                "t": 11390.0,
-                "d": 597.0
-              },
-              {
-                "w": "its",
-                "t": 11988.0,
-                "d": 228.0
-              },
-              {
-                "w": "fate",
-                "t": 12217.0,
-                "d": 414.0
-              },
-              {
-                "w": "to",
-                "t": 12678.0,
-                "d": 136.0
-              },
-              {
-                "w": "stone",
-                "t": 12814.0,
-                "d": 598.0
-              },
-              {
-                "w": "and",
-                "t": 13458.0,
-                "d": 231.0
-              },
-              {
-                "w": "to",
-                "t": 13689.0,
-                "d": 137.0
-              },
-              {
-                "w": "history",
-                "t": 13827.0,
-                "d": 688.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
+      "hi": []
+     }
     }
-  ],
-  "hero": {
-    "name": "Builders of Rajgir’s Cyclopean Wall",
-    "epithets": [
-      "Cyclopean Wall Builders of Rajgir",
-      "Masons of Ancient Rajagriha",
-      "Guardians of the Stone Ring",
-      "Keepers of Magadha’s First Fort"
-    ],
-    "legend": "They held a kingdom with nothing but stone and will."
+   ]
+  },
+  {
+   "id": "intro_map",
+   "type": "map",
+   "mood": "suspense",
+   "map": "assets/the_forty_kilometre_wall_without_mortar/intro/map.png",
+   "x": 0.72,
+   "y": 0.35,
+   "label": "Rajgir, Magadha heartland, Bihar",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "In this hot rocky basin of Rajgir's hills, early Magadhan rulers ringed their first capital with a harsh crown of stone.",
+      "hi": "राजगीर की इन तपती चट्टानी घाटियों में, मगध के शुरुआती शासकों ने अपनी पहली राजधानी पत्थरों की सख्त दीवारों से घेर दी।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/intro/map_en.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/intro/map_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "In",
+        "t": 80.0,
+        "d": 229.0
+       },
+       {
+        "w": "this",
+        "t": 310.0,
+        "d": 229.0
+       },
+       {
+        "w": "hot",
+        "t": 540.0,
+        "d": 413.0
+       },
+       {
+        "w": "rocky",
+        "t": 954.0,
+        "d": 413.0
+       },
+       {
+        "w": "basin",
+        "t": 1367.0,
+        "d": 413.0
+       },
+       {
+        "w": "of",
+        "t": 1781.0,
+        "d": 183.0
+       },
+       {
+        "w": "Rajgir's",
+        "t": 1965.0,
+        "d": 597.0
+       },
+       {
+        "w": "hills",
+        "t": 2563.0,
+        "d": 688.0
+       },
+       {
+        "w": "early",
+        "t": 3574.0,
+        "d": 459.0
+       },
+       {
+        "w": "Magadhan",
+        "t": 4034.0,
+        "d": 550.0
+       },
+       {
+        "w": "rulers",
+        "t": 4585.0,
+        "d": 552.0
+       },
+       {
+        "w": "ringed",
+        "t": 5137.0,
+        "d": 367.0
+       },
+       {
+        "w": "their",
+        "t": 5505.0,
+        "d": 229.0
+       },
+       {
+        "w": "first",
+        "t": 5735.0,
+        "d": 459.0
+       },
+       {
+        "w": "capital",
+        "t": 6195.0,
+        "d": 781.0
+       },
+       {
+        "w": "with",
+        "t": 7068.0,
+        "d": 321.0
+       },
+       {
+        "w": "a",
+        "t": 7390.0,
+        "d": 91.0
+       },
+       {
+        "w": "harsh",
+        "t": 7482.0,
+        "d": 505.0
+       },
+       {
+        "w": "crown",
+        "t": 7988.0,
+        "d": 321.0
+       },
+       {
+        "w": "of",
+        "t": 8310.0,
+        "d": 137.0
+       },
+       {
+        "w": "stone",
+        "t": 8448.0,
+        "d": 505.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "cover",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/cover.png",
+   "shot": "vast aerial wide over rugged ring of hills encircling a basin city",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "In the sixth century before the Mauryas, unknown hands ringed Rajagriha's hills with forty kilometres of dry stone wall,  a monument to fear, skill and a new age of cities.",
+      "hi": "मौर्य से भी पहले, छठी सदी में, अनजाने हाथों ने राजगृह की पहाड़ियों पर चालीस किलोमीटर सूखी पत्थर की दीवार खड़ी की — डर, कौशल और नए नगरों का स्मारक।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/cover_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/cover_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "In",
+        "t": 80.0,
+        "d": 183.0
+       },
+       {
+        "w": "the",
+        "t": 264.0,
+        "d": 183.0
+       },
+       {
+        "w": "sixth",
+        "t": 448.0,
+        "d": 459.0
+       },
+       {
+        "w": "century",
+        "t": 908.0,
+        "d": 551.0
+       },
+       {
+        "w": "before",
+        "t": 1459.0,
+        "d": 367.0
+       },
+       {
+        "w": "the",
+        "t": 1827.0,
+        "d": 137.0
+       },
+       {
+        "w": "Mauryas",
+        "t": 1965.0,
+        "d": 919.0
+       },
+       {
+        "w": "unknown",
+        "t": 3022.0,
+        "d": 505.0
+       },
+       {
+        "w": "hands",
+        "t": 3528.0,
+        "d": 366.0
+       },
+       {
+        "w": "ringed",
+        "t": 3895.0,
+        "d": 551.0
+       },
+       {
+        "w": "Rajagriha's",
+        "t": 4539.0,
+        "d": 874.0
+       },
+       {
+        "w": "hills",
+        "t": 5413.0,
+        "d": 689.0
+       },
+       {
+        "w": "with",
+        "t": 6241.0,
+        "d": 275.0
+       },
+       {
+        "w": "forty",
+        "t": 6517.0,
+        "d": 459.0
+       },
+       {
+        "w": "kilometres",
+        "t": 6977.0,
+        "d": 597.0
+       },
+       {
+        "w": "of",
+        "t": 7574.0,
+        "d": 137.0
+       },
+       {
+        "w": "dry",
+        "t": 7712.0,
+        "d": 275.0
+       },
+       {
+        "w": "stone",
+        "t": 7988.0,
+        "d": 321.0
+       },
+       {
+        "w": "wall",
+        "t": 8310.0,
+        "d": 597.0
+       },
+       {
+        "w": "a",
+        "t": 9183.0,
+        "d": 182.0
+       },
+       {
+        "w": "monument",
+        "t": 9366.0,
+        "d": 598.0
+       },
+       {
+        "w": "to",
+        "t": 9965.0,
+        "d": 137.0
+       },
+       {
+        "w": "fear",
+        "t": 10103.0,
+        "d": 688.0
+       },
+       {
+        "w": "skill",
+        "t": 10883.0,
+        "d": 828.0
+       },
+       {
+        "w": "and",
+        "t": 11804.0,
+        "d": 320.0
+       },
+       {
+        "w": "a",
+        "t": 12125.0,
+        "d": 47.0
+       },
+       {
+        "w": "new",
+        "t": 12172.0,
+        "d": 413.0
+       },
+       {
+        "w": "age",
+        "t": 12586.0,
+        "d": 320.0
+       },
+       {
+        "w": "of",
+        "t": 12906.0,
+        "d": 139.0
+       },
+       {
+        "w": "cities",
+        "t": 13045.0,
+        "d": 735.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p01",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p01.png",
+   "shot": "low sweeping wide through a rocky mountain pass at dawn",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "The texts call it Girivraja, the hill-enclosure. A basin caught in rocky arms, where early Magadha gathered people, power and fear into one guarded hollow.",
+      "hi": "ग्रंथ इसे गिरिव्रज कहते हैं, पर्वत–घेरा। पत्थरों की बाँहों में थामा कटोरा, जहाँ आरंभिक मगध ने लोग, शक्ति और डर एक ही सुरक्षित खोखले में समेट दिए।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p01_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p01_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "The",
+        "t": 126.0,
+        "d": 275.0
+       },
+       {
+        "w": "texts",
+        "t": 402.0,
+        "d": 551.0
+       },
+       {
+        "w": "call",
+        "t": 954.0,
+        "d": 275.0
+       },
+       {
+        "w": "it",
+        "t": 1229.0,
+        "d": 137.0
+       },
+       {
+        "w": "Girivraja",
+        "t": 1367.0,
+        "d": 1103.0
+       },
+       {
+        "w": "the",
+        "t": 2609.0,
+        "d": 275.0
+       },
+       {
+        "w": "hill-enclosure",
+        "t": 2885.0,
+        "d": 827.0
+       },
+       {
+        "w": "A",
+        "t": 3712.0,
+        "d": 459.0
+       },
+       {
+        "w": "basin",
+        "t": 4908.0,
+        "d": 551.0
+       },
+       {
+        "w": "caught",
+        "t": 5459.0,
+        "d": 321.0
+       },
+       {
+        "w": "in",
+        "t": 5781.0,
+        "d": 137.0
+       },
+       {
+        "w": "rocky",
+        "t": 5919.0,
+        "d": 413.0
+       },
+       {
+        "w": "arms",
+        "t": 6333.0,
+        "d": 781.0
+       },
+       {
+        "w": "where",
+        "t": 7298.0,
+        "d": 321.0
+       },
+       {
+        "w": "early",
+        "t": 7620.0,
+        "d": 413.0
+       },
+       {
+        "w": "Magadha",
+        "t": 8034.0,
+        "d": 459.0
+       },
+       {
+        "w": "gathered",
+        "t": 8494.0,
+        "d": 459.0
+       },
+       {
+        "w": "people",
+        "t": 8954.0,
+        "d": 964.0
+       },
+       {
+        "w": "power",
+        "t": 9965.0,
+        "d": 689.0
+       },
+       {
+        "w": "and",
+        "t": 10655.0,
+        "d": 320.0
+       },
+       {
+        "w": "fear",
+        "t": 10975.0,
+        "d": 414.0
+       },
+       {
+        "w": "into",
+        "t": 11390.0,
+        "d": 274.0
+       },
+       {
+        "w": "one",
+        "t": 11665.0,
+        "d": 414.0
+       },
+       {
+        "w": "guarded",
+        "t": 12080.0,
+        "d": 367.0
+       },
+       {
+        "w": "hollow",
+        "t": 12448.0,
+        "d": 505.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p02",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p02.png",
+   "shot": "medium wide on workers and overseers marking a route along a ridge",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "To guard a hollow city, the rulers of early Magadha turned to the heights. Not with brick and lime, but with raw hill-stone itself, they traced a long, unbroken line around their world.",
+      "hi": "खोखले शहर की रक्षा को आरंभिक मगध के शासक ऊँचाइयों पर चढ़े। ईंट–चूने से नहीं, कच्ची पहाड़ी चट्टान से ही अपने जगत के चारों ओर लंबी, बिना टूटन की रेखा खींच दी।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p02_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p02_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "To",
+        "t": 74.0,
+        "d": 212.0
+       },
+       {
+        "w": "guard",
+        "t": 287.0,
+        "d": 340.0
+       },
+       {
+        "w": "a",
+        "t": 627.0,
+        "d": 212.0
+       },
+       {
+        "w": "hollow",
+        "t": 840.0,
+        "d": 340.0
+       },
+       {
+        "w": "city",
+        "t": 1180.0,
+        "d": 851.0
+       },
+       {
+        "w": "the",
+        "t": 2202.0,
+        "d": 254.0
+       },
+       {
+        "w": "rulers",
+        "t": 2456.0,
+        "d": 510.0
+       },
+       {
+        "w": "of",
+        "t": 2967.0,
+        "d": 298.0
+       },
+       {
+        "w": "early",
+        "t": 3308.0,
+        "d": 381.0
+       },
+       {
+        "w": "Magadha",
+        "t": 3690.0,
+        "d": 468.0
+       },
+       {
+        "w": "turned",
+        "t": 4500.0,
+        "d": 382.0
+       },
+       {
+        "w": "to",
+        "t": 4882.0,
+        "d": 170.0
+       },
+       {
+        "w": "the",
+        "t": 5053.0,
+        "d": 127.0
+       },
+       {
+        "w": "heights",
+        "t": 5180.0,
+        "d": 936.0
+       },
+       {
+        "w": "Not",
+        "t": 6159.0,
+        "d": 382.0
+       },
+       {
+        "w": "with",
+        "t": 6542.0,
+        "d": 255.0
+       },
+       {
+        "w": "brick",
+        "t": 6797.0,
+        "d": 255.0
+       },
+       {
+        "w": "and",
+        "t": 7053.0,
+        "d": 127.0
+       },
+       {
+        "w": "lime",
+        "t": 7180.0,
+        "d": 808.0
+       },
+       {
+        "w": "but",
+        "t": 8031.0,
+        "d": 297.0
+       },
+       {
+        "w": "with",
+        "t": 8329.0,
+        "d": 211.0
+       },
+       {
+        "w": "raw",
+        "t": 8541.0,
+        "d": 256.0
+       },
+       {
+        "w": "hill-stone",
+        "t": 8797.0,
+        "d": 467.0
+       },
+       {
+        "w": "itself",
+        "t": 9264.0,
+        "d": 808.0
+       },
+       {
+        "w": "they",
+        "t": 10711.0,
+        "d": 255.0
+       },
+       {
+        "w": "traced",
+        "t": 10967.0,
+        "d": 469.0
+       },
+       {
+        "w": "a",
+        "t": 11436.0,
+        "d": 85.0
+       },
+       {
+        "w": "long",
+        "t": 11521.0,
+        "d": 764.0
+       },
+       {
+        "w": "unbroken",
+        "t": 12329.0,
+        "d": 679.0
+       },
+       {
+        "w": "line",
+        "t": 13009.0,
+        "d": 469.0
+       },
+       {
+        "w": "around",
+        "t": 13520.0,
+        "d": 382.0
+       },
+       {
+        "w": "their",
+        "t": 13903.0,
+        "d": 213.0
+       },
+       {
+        "w": "world",
+        "t": 14117.0,
+        "d": 595.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p03",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p03.png",
+   "shot": "close-up on hands testing two rough stones together",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Modern scholars call it a cyclopean wall. No mortar, no dressed faces. Only great undressed stones, leaned and locked so that weight and patience took the place of cement.",
+      "hi": "आधुनिक विद्वान इसे चक्रनेत्री दीवार कहते हैं। न गारा, न तराशी सतह। बस बड़े–बड़े अनगढ़ पत्थर, ऐसे टिकाए–फँसाए कि भार और धीरज ही गारे की जगह बन गए।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p03_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p03_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Modern",
+        "t": 74.0,
+        "d": 468.0
+       },
+       {
+        "w": "scholars",
+        "t": 542.0,
+        "d": 553.0
+       },
+       {
+        "w": "call",
+        "t": 1095.0,
+        "d": 297.0
+       },
+       {
+        "w": "it",
+        "t": 1393.0,
+        "d": 85.0
+       },
+       {
+        "w": "a",
+        "t": 1478.0,
+        "d": 85.0
+       },
+       {
+        "w": "cyclopean",
+        "t": 1563.0,
+        "d": 723.0
+       },
+       {
+        "w": "wall",
+        "t": 2287.0,
+        "d": 595.0
+       },
+       {
+        "w": "No",
+        "t": 3393.0,
+        "d": 340.0
+       },
+       {
+        "w": "mortar",
+        "t": 3734.0,
+        "d": 680.0
+       },
+       {
+        "w": "no",
+        "t": 4542.0,
+        "d": 382.0
+       },
+       {
+        "w": "dressed",
+        "t": 4925.0,
+        "d": 340.0
+       },
+       {
+        "w": "faces",
+        "t": 5265.0,
+        "d": 1191.0
+       },
+       {
+        "w": "Only",
+        "t": 6712.0,
+        "d": 553.0
+       },
+       {
+        "w": "great",
+        "t": 7265.0,
+        "d": 382.0
+       },
+       {
+        "w": "undressed",
+        "t": 7648.0,
+        "d": 638.0
+       },
+       {
+        "w": "stones",
+        "t": 8287.0,
+        "d": 892.0
+       },
+       {
+        "w": "leaned",
+        "t": 9478.0,
+        "d": 594.0
+       },
+       {
+        "w": "and",
+        "t": 10073.0,
+        "d": 298.0
+       },
+       {
+        "w": "locked",
+        "t": 10372.0,
+        "d": 638.0
+       },
+       {
+        "w": "so",
+        "t": 11222.0,
+        "d": 298.0
+       },
+       {
+        "w": "that",
+        "t": 11521.0,
+        "d": 254.0
+       },
+       {
+        "w": "weight",
+        "t": 11775.0,
+        "d": 384.0
+       },
+       {
+        "w": "and",
+        "t": 12159.0,
+        "d": 296.0
+       },
+       {
+        "w": "patience",
+        "t": 12456.0,
+        "d": 638.0
+       },
+       {
+        "w": "took",
+        "t": 13308.0,
+        "d": 255.0
+       },
+       {
+        "w": "the",
+        "t": 13563.0,
+        "d": 170.0
+       },
+       {
+        "w": "place",
+        "t": 13734.0,
+        "d": 254.0
+       },
+       {
+        "w": "of",
+        "t": 13988.0,
+        "d": 170.0
+       },
+       {
+        "w": "cement",
+        "t": 14158.0,
+        "d": 554.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p04",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p04.png",
+   "shot": "wide shot of quarrying on a hillside",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "The hills themselves became the quarry. Stone prised from ledges, rolled and slid along earthen ramps, turned from wild rock into measured defence across many seasons.",
+      "hi": "पहाड़ ही खदान बन गए। कगारों से पत्थर उखाड़े गए, मिट्टी की ढलानों पर लुढ़काए–घिसकाए गए, कई ऋतुओं में जंगली चट्टान से नाप–तौल कर बनाई रक्षा बना दी गई।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p04_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p04_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "The",
+        "t": 74.0,
+        "d": 212.0
+       },
+       {
+        "w": "hills",
+        "t": 287.0,
+        "d": 340.0
+       },
+       {
+        "w": "themselves",
+        "t": 627.0,
+        "d": 723.0
+       },
+       {
+        "w": "became",
+        "t": 1351.0,
+        "d": 382.0
+       },
+       {
+        "w": "the",
+        "t": 1734.0,
+        "d": 127.0
+       },
+       {
+        "w": "quarry",
+        "t": 1861.0,
+        "d": 851.0
+       },
+       {
+        "w": "Stone",
+        "t": 3223.0,
+        "d": 553.0
+       },
+       {
+        "w": "prised",
+        "t": 3776.0,
+        "d": 424.0
+       },
+       {
+        "w": "from",
+        "t": 4201.0,
+        "d": 213.0
+       },
+       {
+        "w": "ledges",
+        "t": 4414.0,
+        "d": 680.0
+       },
+       {
+        "w": "rolled",
+        "t": 5223.0,
+        "d": 808.0
+       },
+       {
+        "w": "and",
+        "t": 6031.0,
+        "d": 255.0
+       },
+       {
+        "w": "slid",
+        "t": 6287.0,
+        "d": 382.0
+       },
+       {
+        "w": "along",
+        "t": 6670.0,
+        "d": 425.0
+       },
+       {
+        "w": "earthen",
+        "t": 7138.0,
+        "d": 382.0
+       },
+       {
+        "w": "ramps",
+        "t": 7521.0,
+        "d": 723.0
+       },
+       {
+        "w": "turned",
+        "t": 8669.0,
+        "d": 425.0
+       },
+       {
+        "w": "from",
+        "t": 9094.0,
+        "d": 256.0
+       },
+       {
+        "w": "wild",
+        "t": 9351.0,
+        "d": 425.0
+       },
+       {
+        "w": "rock",
+        "t": 9776.0,
+        "d": 340.0
+       },
+       {
+        "w": "into",
+        "t": 10117.0,
+        "d": 297.0
+       },
+       {
+        "w": "measured",
+        "t": 10414.0,
+        "d": 467.0
+       },
+       {
+        "w": "defence",
+        "t": 10881.0,
+        "d": 510.0
+       },
+       {
+        "w": "across",
+        "t": 11392.0,
+        "d": 511.0
+       },
+       {
+        "w": "many",
+        "t": 11904.0,
+        "d": 381.0
+       },
+       {
+        "w": "seasons",
+        "t": 12286.0,
+        "d": 852.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "action_auto",
+   "type": "action",
+   "mood": "battle",
+   "bg": "assets/the_forty_kilometre_wall_without_mortar/action_auto/bg.png",
+   "chars": [
+    {
+     "img": "assets/the_forty_kilometre_wall_without_mortar/action_auto/char0.png",
+     "motion": {
+      "fromX": -40,
+      "toX": -10,
+      "fromScale": 0.82,
+      "toScale": 1.03,
+      "rot": -2,
+      "dur": 7200
+     }
+    }
+   ],
+   "motion": {
+    "bgZoom": 1.12,
+    "bgPan": -6,
+    "dur": 7200
+   },
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "On the ridge-crest, he commands the heaving crews, turning raw rock and sweat into a shield of stone around Rajgir.",
+      "hi": "पहाड़ी की चोटी पर वो गरजता है, मजदूरों का हुजूम पत्थर और पसीने से राजगीर के चारों तरफ पत्थर की ढाल गढ़ता है।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/action/action_auto_en.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/action/action_auto_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "On",
+        "t": 70.0,
+        "d": 240.0
+       },
+       {
+        "w": "the",
+        "t": 310.0,
+        "d": 120.0
+       },
+       {
+        "w": "ridge-crest",
+        "t": 430.0,
+        "d": 680.0
+       },
+       {
+        "w": "he",
+        "t": 1310.0,
+        "d": 280.0
+       },
+       {
+        "w": "commands",
+        "t": 1590.0,
+        "d": 400.0
+       },
+       {
+        "w": "the",
+        "t": 1990.0,
+        "d": 160.0
+       },
+       {
+        "w": "heaving",
+        "t": 2150.0,
+        "d": 360.0
+       },
+       {
+        "w": "crews",
+        "t": 2510.0,
+        "d": 600.0
+       },
+       {
+        "w": "turning",
+        "t": 3349.0,
+        "d": 401.0
+       },
+       {
+        "w": "raw",
+        "t": 3750.0,
+        "d": 239.0
+       },
+       {
+        "w": "rock",
+        "t": 3989.0,
+        "d": 481.0
+       },
+       {
+        "w": "and",
+        "t": 4470.0,
+        "d": 320.0
+       },
+       {
+        "w": "sweat",
+        "t": 4790.0,
+        "d": 360.0
+       },
+       {
+        "w": "into",
+        "t": 5150.0,
+        "d": 280.0
+       },
+       {
+        "w": "a",
+        "t": 5430.0,
+        "d": 80.0
+       },
+       {
+        "w": "shield",
+        "t": 5510.0,
+        "d": 360.0
+       },
+       {
+        "w": "of",
+        "t": 5870.0,
+        "d": 120.0
+       },
+       {
+        "w": "stone",
+        "t": 5990.0,
+        "d": 480.0
+       },
+       {
+        "w": "around",
+        "t": 6510.0,
+        "d": 360.0
+       },
+       {
+        "w": "Rajgir",
+        "t": 6870.0,
+        "d": 720.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p05",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p05.png",
+   "shot": "dynamic low-angle of men hauling a monolith with ropes",
+   "mood": "battle",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "There is no inscription naming a king. Only the labour remembers. In the second urbanisation, when mahajanapadas grew and war hardened, such walls were the new grammar of power.",
+      "hi": "किसी राजा का नाम खुदा नहीं। बस श्रम की याद बची है। द्वितीय नगरयुग में, जब महाजनपद बढ़े और युद्ध कठोर हुआ, ऐसी दीवारें शक्ति की नई भाषा बन गईं।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p05_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p05_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "There",
+        "t": 110.0,
+        "d": 240.0
+       },
+       {
+        "w": "is",
+        "t": 350.0,
+        "d": 120.0
+       },
+       {
+        "w": "no",
+        "t": 470.0,
+        "d": 200.0
+       },
+       {
+        "w": "inscription",
+        "t": 670.0,
+        "d": 600.0
+       },
+       {
+        "w": "naming",
+        "t": 1270.0,
+        "d": 400.0
+       },
+       {
+        "w": "a",
+        "t": 1670.0,
+        "d": 120.0
+       },
+       {
+        "w": "king",
+        "t": 1790.0,
+        "d": 760.0
+       },
+       {
+        "w": "Only",
+        "t": 2630.0,
+        "d": 440.0
+       },
+       {
+        "w": "the",
+        "t": 3070.0,
+        "d": 120.0
+       },
+       {
+        "w": "labour",
+        "t": 3190.0,
+        "d": 360.0
+       },
+       {
+        "w": "remembers",
+        "t": 3550.0,
+        "d": 1240.0
+       },
+       {
+        "w": "In",
+        "t": 4830.0,
+        "d": 200.0
+       },
+       {
+        "w": "the",
+        "t": 5030.0,
+        "d": 120.0
+       },
+       {
+        "w": "second",
+        "t": 5150.0,
+        "d": 320.0
+       },
+       {
+        "w": "urbanisation",
+        "t": 5470.0,
+        "d": 1240.0
+       },
+       {
+        "w": "when",
+        "t": 6710.0,
+        "d": 160.0
+       },
+       {
+        "w": "mahajanapadas",
+        "t": 6870.0,
+        "d": 800.0
+       },
+       {
+        "w": "grew",
+        "t": 7670.0,
+        "d": 359.0
+       },
+       {
+        "w": "and",
+        "t": 8029.0,
+        "d": 200.0
+       },
+       {
+        "w": "war",
+        "t": 8229.0,
+        "d": 320.0
+       },
+       {
+        "w": "hardened",
+        "t": 8549.0,
+        "d": 881.0
+       },
+       {
+        "w": "such",
+        "t": 9590.0,
+        "d": 400.0
+       },
+       {
+        "w": "walls",
+        "t": 9990.0,
+        "d": 520.0
+       },
+       {
+        "w": "were",
+        "t": 10510.0,
+        "d": 199.0
+       },
+       {
+        "w": "the",
+        "t": 10709.0,
+        "d": 121.0
+       },
+       {
+        "w": "new",
+        "t": 10830.0,
+        "d": 280.0
+       },
+       {
+        "w": "grammar",
+        "t": 11110.0,
+        "d": 359.0
+       },
+       {
+        "w": "of",
+        "t": 11469.0,
+        "d": 160.0
+       },
+       {
+        "w": "power",
+        "t": 11629.0,
+        "d": 361.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p06",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p06.png",
+   "shot": "high oblique shot along a completed segment of wall",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Stone by stone, the line grew. Some stretches thick, some thin, hugging the contours, adjusting to ravines and saddles, built not in one sweep but in phases over generations.",
+      "hi": "पत्थर–पत्थर जोड़कर रेखा बढ़ती गई। कहीं मोटी, कहीं पतली, धरती की मोड़–रेखाएँ पकड़ती, घाटियों–दर्रों के हिसाब से ढलती, एक ही झटके में नहीं, कई पीढ़ियों में चरण–चरण बनी।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p06_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p06_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Stone",
+        "t": 74.0,
+        "d": 553.0
+       },
+       {
+        "w": "by",
+        "t": 627.0,
+        "d": 212.0
+       },
+       {
+        "w": "stone",
+        "t": 840.0,
+        "d": 851.0
+       },
+       {
+        "w": "the",
+        "t": 1776.0,
+        "d": 255.0
+       },
+       {
+        "w": "line",
+        "t": 2031.0,
+        "d": 424.0
+       },
+       {
+        "w": "grew",
+        "t": 2456.0,
+        "d": 979.0
+       },
+       {
+        "w": "Some",
+        "t": 3946.0,
+        "d": 382.0
+       },
+       {
+        "w": "stretches",
+        "t": 4329.0,
+        "d": 510.0
+       },
+       {
+        "w": "thick",
+        "t": 4840.0,
+        "d": 340.0
+       },
+       {
+        "w": "some",
+        "t": 5180.0,
+        "d": 468.0
+       },
+       {
+        "w": "thin",
+        "t": 6202.0,
+        "d": 595.0
+       },
+       {
+        "w": "hugging",
+        "t": 6925.0,
+        "d": 468.0
+       },
+       {
+        "w": "the",
+        "t": 7393.0,
+        "d": 127.0
+       },
+       {
+        "w": "contours",
+        "t": 7521.0,
+        "d": 936.0
+       },
+       {
+        "w": "adjusting",
+        "t": 8669.0,
+        "d": 724.0
+       },
+       {
+        "w": "to",
+        "t": 9393.0,
+        "d": 127.0
+       },
+       {
+        "w": "ravines",
+        "t": 9521.0,
+        "d": 510.0
+       },
+       {
+        "w": "and",
+        "t": 10031.0,
+        "d": 126.0
+       },
+       {
+        "w": "saddles",
+        "t": 10158.0,
+        "d": 1063.0
+       },
+       {
+        "w": "built",
+        "t": 11307.0,
+        "d": 468.0
+       },
+       {
+        "w": "not",
+        "t": 11775.0,
+        "d": 298.0
+       },
+       {
+        "w": "in",
+        "t": 12074.0,
+        "d": 170.0
+       },
+       {
+        "w": "one",
+        "t": 12244.0,
+        "d": 382.0
+       },
+       {
+        "w": "sweep",
+        "t": 12627.0,
+        "d": 637.0
+       },
+       {
+        "w": "but",
+        "t": 13264.0,
+        "d": 341.0
+       },
+       {
+        "w": "in",
+        "t": 13606.0,
+        "d": 170.0
+       },
+       {
+        "w": "phases",
+        "t": 13776.0,
+        "d": 467.0
+       },
+       {
+        "w": "over",
+        "t": 14243.0,
+        "d": 255.0
+       },
+       {
+        "w": "generations",
+        "t": 14498.0,
+        "d": 1022.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p07",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p07.png",
+   "shot": "medium on builders examining a sherd of Northern Black Polished Ware",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Beneath some stretches, archaeologists later found Northern Black Polished Ware. Fine tableware of an early city elite, telling us the first major wall belonged to a pre-Mauryan Magadha.",
+      "hi": "कुछ हिस्सों के नीचे पुरातत्वविदों को बाद में उत्तरी काली पालिशदार मृद्भांड मिला। शुरुआती नगर अभिजातों का बढ़िया बर्तन, जो बताता है कि पहली बड़ी दीवार मौर्य–पूर्व मगध की थी।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p07_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p07_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Beneath",
+        "t": 74.0,
+        "d": 468.0
+       },
+       {
+        "w": "some",
+        "t": 542.0,
+        "d": 255.0
+       },
+       {
+        "w": "stretches",
+        "t": 797.0,
+        "d": 893.0
+       },
+       {
+        "w": "archaeologists",
+        "t": 1861.0,
+        "d": 1021.0
+       },
+       {
+        "w": "later",
+        "t": 2882.0,
+        "d": 340.0
+       },
+       {
+        "w": "found",
+        "t": 3223.0,
+        "d": 807.0
+       },
+       {
+        "w": "Northern",
+        "t": 4073.0,
+        "d": 639.0
+       },
+       {
+        "w": "Black",
+        "t": 4712.0,
+        "d": 425.0
+       },
+       {
+        "w": "Polished",
+        "t": 5138.0,
+        "d": 510.0
+       },
+       {
+        "w": "Ware",
+        "t": 5648.0,
+        "d": 638.0
+       },
+       {
+        "w": "Fine",
+        "t": 6585.0,
+        "d": 510.0
+       },
+       {
+        "w": "tableware",
+        "t": 7095.0,
+        "d": 638.0
+       },
+       {
+        "w": "of",
+        "t": 7734.0,
+        "d": 170.0
+       },
+       {
+        "w": "an",
+        "t": 7904.0,
+        "d": 170.0
+       },
+       {
+        "w": "early",
+        "t": 8074.0,
+        "d": 382.0
+       },
+       {
+        "w": "city",
+        "t": 8457.0,
+        "d": 510.0
+       },
+       {
+        "w": "elite",
+        "t": 9009.0,
+        "d": 341.0
+       },
+       {
+        "w": "telling",
+        "t": 9351.0,
+        "d": 977.0
+       },
+       {
+        "w": "us",
+        "t": 10328.0,
+        "d": 171.0
+       },
+       {
+        "w": "the",
+        "t": 10500.0,
+        "d": 170.0
+       },
+       {
+        "w": "first",
+        "t": 10670.0,
+        "d": 467.0
+       },
+       {
+        "w": "major",
+        "t": 11137.0,
+        "d": 384.0
+       },
+       {
+        "w": "wall",
+        "t": 11521.0,
+        "d": 339.0
+       },
+       {
+        "w": "belonged",
+        "t": 11860.0,
+        "d": 681.0
+       },
+       {
+        "w": "to",
+        "t": 12542.0,
+        "d": 170.0
+       },
+       {
+        "w": "a",
+        "t": 12712.0,
+        "d": 126.0
+       },
+       {
+        "w": "pre-Mauryan",
+        "t": 12839.0,
+        "d": 639.0
+       },
+       {
+        "w": "Magadha",
+        "t": 13478.0,
+        "d": 424.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p08",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p08.png",
+   "shot": "twilight wide of guarded gate cutting between two hills",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Buddhist texts remember Rajagriha as a guarded hill city. Gates in the passes, sentries on the ridges. To enter, one climbed and was watched. The enclosure itself was a weapon.",
+      "hi": "बौद्ध ग्रंथ राजगृह को संरक्षित पर्वत–नगर के रूप में याद रखते हैं। दर्रों पर फाटक, कगारों पर पहरा। भीतर आने को चढ़ना पड़ता, और नज़रें पीछा करतीं। खुद घेरा ही हथियार था।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p08_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p08_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Buddhist",
+        "t": 80.0,
+        "d": 643.0
+       },
+       {
+        "w": "texts",
+        "t": 724.0,
+        "d": 597.0
+       },
+       {
+        "w": "remember",
+        "t": 1321.0,
+        "d": 643.0
+       },
+       {
+        "w": "Rajagriha",
+        "t": 1965.0,
+        "d": 780.0
+       },
+       {
+        "w": "as",
+        "t": 2745.0,
+        "d": 322.0
+       },
+       {
+        "w": "a",
+        "t": 3068.0,
+        "d": 182.0
+       },
+       {
+        "w": "guarded",
+        "t": 3251.0,
+        "d": 506.0
+       },
+       {
+        "w": "hill",
+        "t": 3758.0,
+        "d": 228.0
+       },
+       {
+        "w": "city",
+        "t": 3987.0,
+        "d": 1196.0
+       },
+       {
+        "w": "Gates",
+        "t": 5367.0,
+        "d": 459.0
+       },
+       {
+        "w": "in",
+        "t": 5827.0,
+        "d": 91.0
+       },
+       {
+        "w": "the",
+        "t": 5919.0,
+        "d": 137.0
+       },
+       {
+        "w": "passes",
+        "t": 6057.0,
+        "d": 827.0
+       },
+       {
+        "w": "sentries",
+        "t": 6931.0,
+        "d": 597.0
+       },
+       {
+        "w": "on",
+        "t": 7528.0,
+        "d": 137.0
+       },
+       {
+        "w": "the",
+        "t": 7666.0,
+        "d": 137.0
+       },
+       {
+        "w": "ridges",
+        "t": 7804.0,
+        "d": 1379.0
+       },
+       {
+        "w": "To",
+        "t": 9183.0,
+        "d": 274.0
+       },
+       {
+        "w": "enter",
+        "t": 9458.0,
+        "d": 598.0
+       },
+       {
+        "w": "one",
+        "t": 10149.0,
+        "d": 413.0
+       },
+       {
+        "w": "climbed",
+        "t": 10563.0,
+        "d": 459.0
+       },
+       {
+        "w": "and",
+        "t": 11022.0,
+        "d": 183.0
+       },
+       {
+        "w": "was",
+        "t": 11206.0,
+        "d": 183.0
+       },
+       {
+        "w": "watched",
+        "t": 11390.0,
+        "d": 965.0
+       },
+       {
+        "w": "The",
+        "t": 12678.0,
+        "d": 228.0
+       },
+       {
+        "w": "enclosure",
+        "t": 12906.0,
+        "d": 782.0
+       },
+       {
+        "w": "itself",
+        "t": 13689.0,
+        "d": 826.0
+       },
+       {
+        "w": "was",
+        "t": 14563.0,
+        "d": 367.0
+       },
+       {
+        "w": "a",
+        "t": 14931.0,
+        "d": 90.0
+       },
+       {
+        "w": "weapon",
+        "t": 15021.0,
+        "d": 551.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p09",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p09.png",
+   "shot": "wide view of city inside basin with wall cresting above",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Inside, life thickened. Assemblies, markets, rituals. Outside, rival powers watched. The wall spoke for the city: this basin has a ruler, an army, a will to stand behind stone.",
+      "hi": "भीतर जीवन घना हुआ। सभाएँ, बाज़ार, अनुष्ठान। बाहर प्रतिद्वंदी शक्तियाँ ताकती रहीं। दीवार शहर की ओर से बोलती रही: इस कटोरे का शासक है, सेना है, और पत्थर के पीछे टिकने की इच्छा है।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p09_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p09_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Inside",
+        "t": 80.0,
+        "d": 1011.0
+       },
+       {
+        "w": "life",
+        "t": 1183.0,
+        "d": 505.0
+       },
+       {
+        "w": "thickened",
+        "t": 1689.0,
+        "d": 689.0
+       },
+       {
+        "w": "Assemblies",
+        "t": 3205.0,
+        "d": 966.0
+       },
+       {
+        "w": "markets",
+        "t": 4264.0,
+        "d": 919.0
+       },
+       {
+        "w": "rituals",
+        "t": 5229.0,
+        "d": 919.0
+       },
+       {
+        "w": "Outside",
+        "t": 6977.0,
+        "d": 919.0
+       },
+       {
+        "w": "rival",
+        "t": 7942.0,
+        "d": 551.0
+       },
+       {
+        "w": "powers",
+        "t": 8494.0,
+        "d": 413.0
+       },
+       {
+        "w": "watched",
+        "t": 8908.0,
+        "d": 781.0
+       },
+       {
+        "w": "The",
+        "t": 10287.0,
+        "d": 275.0
+       },
+       {
+        "w": "wall",
+        "t": 10563.0,
+        "d": 275.0
+       },
+       {
+        "w": "spoke",
+        "t": 10839.0,
+        "d": 413.0
+       },
+       {
+        "w": "for",
+        "t": 11252.0,
+        "d": 137.0
+       },
+       {
+        "w": "the",
+        "t": 11390.0,
+        "d": 137.0
+       },
+       {
+        "w": "city",
+        "t": 11528.0,
+        "d": 1333.0
+       },
+       {
+        "w": "this",
+        "t": 12906.0,
+        "d": 322.0
+       },
+       {
+        "w": "basin",
+        "t": 13229.0,
+        "d": 459.0
+       },
+       {
+        "w": "has",
+        "t": 13689.0,
+        "d": 182.0
+       },
+       {
+        "w": "a",
+        "t": 13872.0,
+        "d": 91.0
+       },
+       {
+        "w": "ruler",
+        "t": 13964.0,
+        "d": 506.0
+       },
+       {
+        "w": "an",
+        "t": 14885.0,
+        "d": 275.0
+       },
+       {
+        "w": "army",
+        "t": 15160.0,
+        "d": 965.0
+       },
+       {
+        "w": "a",
+        "t": 16263.0,
+        "d": 322.0
+       },
+       {
+        "w": "will",
+        "t": 16586.0,
+        "d": 275.0
+       },
+       {
+        "w": "to",
+        "t": 16862.0,
+        "d": 137.0
+       },
+       {
+        "w": "stand",
+        "t": 17000.0,
+        "d": 459.0
+       },
+       {
+        "w": "behind",
+        "t": 17459.0,
+        "d": 412.0
+       },
+       {
+        "w": "stone",
+        "t": 17872.0,
+        "d": 644.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p10.png",
+   "shot": "montage-like wide with ghosted silhouettes of rival states beyond hills",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "This was the age of mahajanapadas. Kashi and Kosala to the west, Vajji to the north, Anga to the east. In this jostling field, early Magadha armed its capital with stone.",
+      "hi": "यह महाजनपदों का युग था। पश्चिम में काशी और कोसल, उत्तर में वज्जि, पूरब में अंग। इस धक्कामुक्की के मैदान में आरंभिक मगध ने अपनी राजधानी को पत्थर से सुसज्जित किया।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p10_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p10_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "This",
+        "t": 74.0,
+        "d": 340.0
+       },
+       {
+        "w": "was",
+        "t": 414.0,
+        "d": 170.0
+       },
+       {
+        "w": "the",
+        "t": 585.0,
+        "d": 212.0
+       },
+       {
+        "w": "age",
+        "t": 797.0,
+        "d": 340.0
+       },
+       {
+        "w": "of",
+        "t": 1138.0,
+        "d": 255.0
+       },
+       {
+        "w": "mahajanapadas",
+        "t": 1393.0,
+        "d": 1658.0
+       },
+       {
+        "w": "Kashi",
+        "t": 3308.0,
+        "d": 339.0
+       },
+       {
+        "w": "and",
+        "t": 3647.0,
+        "d": 171.0
+       },
+       {
+        "w": "Kosala",
+        "t": 3819.0,
+        "d": 468.0
+       },
+       {
+        "w": "to",
+        "t": 4287.0,
+        "d": 127.0
+       },
+       {
+        "w": "the",
+        "t": 4414.0,
+        "d": 127.0
+       },
+       {
+        "w": "west",
+        "t": 4542.0,
+        "d": 765.0
+       },
+       {
+        "w": "Vajji",
+        "t": 5436.0,
+        "d": 510.0
+       },
+       {
+        "w": "to",
+        "t": 5946.0,
+        "d": 127.0
+       },
+       {
+        "w": "the",
+        "t": 6074.0,
+        "d": 127.0
+       },
+       {
+        "w": "north",
+        "t": 6202.0,
+        "d": 553.0
+       },
+       {
+        "w": "Anga",
+        "t": 7138.0,
+        "d": 382.0
+       },
+       {
+        "w": "to",
+        "t": 7521.0,
+        "d": 127.0
+       },
+       {
+        "w": "the",
+        "t": 7648.0,
+        "d": 170.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "action_auto2",
+   "type": "action",
+   "mood": "suspense",
+   "bg": "assets/the_forty_kilometre_wall_without_mortar/action_auto2/bg.png",
+   "chars": [
+    {
+     "img": "assets/the_forty_kilometre_wall_without_mortar/action_auto2/char0.png",
+     "motion": {
+      "fromX": 42,
+      "toX": 8,
+      "fromScale": 0.82,
+      "toScale": 1.03,
+      "rot": 2,
+      "dur": 7200
+     }
+    }
+   ],
+   "motion": {
+    "bgZoom": 1.12,
+    "bgPan": -6,
+    "dur": 7200
+   },
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Sensing rival kings' ambitions, he watches the frontier sky, ready to turn this rough wall into Rajgir's unbreachable edge.",
+      "hi": "दुश्मन राजाओं की野 चाह भांपकर, वह सरहद के आकाश पर नज़र गड़ाए, तैयार है इस कच्ची दीवार को राजगीर की अटूट ढाल बनाने को।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/action/action_auto2_en.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/action/action_auto2_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Sensing",
+        "t": 80.0,
+        "d": 689.0
+       },
+       {
+        "w": "rival",
+        "t": 770.0,
+        "d": 551.0
+       },
+       {
+        "w": "kings'",
+        "t": 1321.0,
+        "d": 367.0
+       },
+       {
+        "w": "ambitions",
+        "t": 1689.0,
+        "d": 1608.0
+       },
+       {
+        "w": "he",
+        "t": 3297.0,
+        "d": 322.0
+       },
+       {
+        "w": "watches",
+        "t": 3620.0,
+        "d": 459.0
+       },
+       {
+        "w": "the",
+        "t": 4080.0,
+        "d": 137.0
+       },
+       {
+        "w": "frontier",
+        "t": 4218.0,
+        "d": 459.0
+       },
+       {
+        "w": "sky",
+        "t": 4678.0,
+        "d": 827.0
+       },
+       {
+        "w": "ready",
+        "t": 5643.0,
+        "d": 413.0
+       },
+       {
+        "w": "to",
+        "t": 6057.0,
+        "d": 183.0
+       },
+       {
+        "w": "turn",
+        "t": 6241.0,
+        "d": 275.0
+       },
+       {
+        "w": "this",
+        "t": 6517.0,
+        "d": 275.0
+       },
+       {
+        "w": "rough",
+        "t": 6793.0,
+        "d": 275.0
+       },
+       {
+        "w": "wall",
+        "t": 7068.0,
+        "d": 597.0
+       },
+       {
+        "w": "into",
+        "t": 7712.0,
+        "d": 367.0
+       },
+       {
+        "w": "Rajgir's",
+        "t": 8080.0,
+        "d": 827.0
+       },
+       {
+        "w": "unbreachable",
+        "t": 8954.0,
+        "d": 872.0
+       },
+       {
+        "w": "edge",
+        "t": 9826.0,
+        "d": 689.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p11.png",
+   "shot": "medium on a Buddhist monk looking up at the wall from a path",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Later texts recall great conflicts with the Vajji confederacy and the guarding of approaches. The details blur, but always the image returns: a hill city, enclosed and wary.",
+      "hi": "बाद के ग्रंथ वज्जि संघ से बड़े संघर्षों और मार्ग–रक्षा को याद करते हैं। विवरण धुँधले हैं, पर छवि लौट आती है: पहाड़ी नगर, घिरा हुआ और सतर्क।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p11_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p11_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Later",
+        "t": 74.0,
+        "d": 595.0
+       },
+       {
+        "w": "texts",
+        "t": 755.0,
+        "d": 340.0
+       },
+       {
+        "w": "recall",
+        "t": 1095.0,
+        "d": 553.0
+       },
+       {
+        "w": "great",
+        "t": 1648.0,
+        "d": 255.0
+       },
+       {
+        "w": "conflicts",
+        "t": 1904.0,
+        "d": 552.0
+       },
+       {
+        "w": "with",
+        "t": 2456.0,
+        "d": 170.0
+       },
+       {
+        "w": "the",
+        "t": 2626.0,
+        "d": 128.0
+       },
+       {
+        "w": "Vajji",
+        "t": 2755.0,
+        "d": 424.0
+       },
+       {
+        "w": "confederacy",
+        "t": 3179.0,
+        "d": 1021.0
+       },
+       {
+        "w": "and",
+        "t": 4243.0,
+        "d": 256.0
+       },
+       {
+        "w": "the",
+        "t": 4500.0,
+        "d": 127.0
+       },
+       {
+        "w": "guarding",
+        "t": 4627.0,
+        "d": 382.0
+       },
+       {
+        "w": "of",
+        "t": 5010.0,
+        "d": 127.0
+       },
+       {
+        "w": "approaches",
+        "t": 5138.0,
+        "d": 1361.0
+       },
+       {
+        "w": "The",
+        "t": 6882.0,
+        "d": 255.0
+       },
+       {
+        "w": "details",
+        "t": 7138.0,
+        "d": 468.0
+       },
+       {
+        "w": "blur",
+        "t": 7606.0,
+        "d": 638.0
+       },
+       {
+        "w": "but",
+        "t": 8414.0,
+        "d": 296.0
+       },
+       {
+        "w": "always",
+        "t": 8711.0,
+        "d": 511.0
+       },
+       {
+        "w": "the",
+        "t": 9223.0,
+        "d": 212.0
+       },
+       {
+        "w": "image",
+        "t": 9436.0,
+        "d": 296.0
+       },
+       {
+        "w": "returns",
+        "t": 9732.0,
+        "d": 809.0
+       },
+       {
+        "w": "a",
+        "t": 10840.0,
+        "d": 126.0
+       },
+       {
+        "w": "hill",
+        "t": 10967.0,
+        "d": 298.0
+       },
+       {
+        "w": "city",
+        "t": 11265.0,
+        "d": 638.0
+       },
+       {
+        "w": "enclosed",
+        "t": 12074.0,
+        "d": 850.0
+       },
+       {
+        "w": "and",
+        "t": 12924.0,
+        "d": 255.0
+       },
+       {
+        "w": "wary",
+        "t": 13179.0,
+        "d": 469.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p12.png",
+   "shot": "medium close on an older builder resting against the wall",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "speech",
+     "role": "male",
+     "text": {
+      "en": "We build, and others will patch and raise again. The wall never ends.",
+      "hi": "हम बनाएँगे, और कोई आगे चलकर जोड़ेगा, ऊँचा करेगा। दीवार का काम कभी पूरा नहीं होता।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p12_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p12_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "We",
+        "t": 49.0,
+        "d": 159.3
+       },
+       {
+        "w": "build",
+        "t": 257.3,
+        "d": 392.2
+       },
+       {
+        "w": "and",
+        "t": 906.9,
+        "d": 232.8
+       },
+       {
+        "w": "others",
+        "t": 1188.7,
+        "d": 453.4
+       },
+       {
+        "w": "will",
+        "t": 1715.7,
+        "d": 269.6
+       },
+       {
+        "w": "patch",
+        "t": 1985.3,
+        "d": 453.4
+       },
+       {
+        "w": "and",
+        "t": 2536.8,
+        "d": 257.3
+       },
+       {
+        "w": "raise",
+        "t": 2794.1,
+        "d": 318.6
+       },
+       {
+        "w": "again",
+        "t": 3112.8,
+        "d": 416.7
+       },
+       {
+        "w": "The",
+        "t": 4362.8,
+        "d": 110.3
+       },
+       {
+        "w": "wall",
+        "t": 4473.0,
+        "d": 367.6
+       },
+       {
+        "w": "never",
+        "t": 4840.7,
+        "d": 392.2
+       },
+       {
+        "w": "ends",
+        "t": 5330.9,
+        "d": 355.4
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "split_auto",
+   "type": "split",
+   "mood": "battle",
+   "slices": [
+    {
+     "img": "assets/the_forty_kilometre_wall_without_mortar/split_auto/s0.png",
+     "slogan": {
+      "en": "Stone by stone, we stand",
+      "hi": "पत्थर पत्थर पर, हम खड़े"
+     },
+     "pos": "center 30%"
+    },
+    {
+     "img": "assets/the_forty_kilometre_wall_without_mortar/split_auto/s1.png",
+     "pos": "center 46%"
+    },
+    {
+     "img": "assets/the_forty_kilometre_wall_without_mortar/split_auto/s2.png",
+     "pos": "center 52%"
+    }
+   ],
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "As war drums echo in the valley, his resolve hardens, binding stone, sweat, and city into a single unbroken defense.",
+      "hi": "घाटी में रणढोल गूंजते हैं, उसका इरादा पत्थर, पसीना और शहर को एक अटूट ढाल बना देता है।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/split/split_auto_en.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/split/split_auto_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "As",
+        "t": 110.0,
+        "d": 280.0
+       },
+       {
+        "w": "war",
+        "t": 390.0,
+        "d": 240.0
+       },
+       {
+        "w": "drums",
+        "t": 630.0,
+        "d": 360.0
+       },
+       {
+        "w": "echo",
+        "t": 990.0,
+        "d": 280.0
+       },
+       {
+        "w": "in",
+        "t": 1270.0,
+        "d": 80.0
+       },
+       {
+        "w": "the",
+        "t": 1350.0,
+        "d": 120.0
+       },
+       {
+        "w": "valley",
+        "t": 1470.0,
+        "d": 720.0
+       },
+       {
+        "w": "his",
+        "t": 2230.0,
+        "d": 280.0
+       },
+       {
+        "w": "resolve",
+        "t": 2510.0,
+        "d": 399.0
+       },
+       {
+        "w": "hardens",
+        "t": 2909.0,
+        "d": 721.0
+       },
+       {
+        "w": "binding",
+        "t": 3670.0,
+        "d": 560.0
+       },
+       {
+        "w": "stone",
+        "t": 4230.0,
+        "d": 600.0
+       },
+       {
+        "w": "sweat",
+        "t": 4830.0,
+        "d": 840.0
+       },
+       {
+        "w": "and",
+        "t": 5750.0,
+        "d": 280.0
+       },
+       {
+        "w": "city",
+        "t": 6030.0,
+        "d": 680.0
+       },
+       {
+        "w": "into",
+        "t": 6750.0,
+        "d": 360.0
+       },
+       {
+        "w": "a",
+        "t": 7110.0,
+        "d": 40.0
+       },
+       {
+        "w": "single",
+        "t": 7150.0,
+        "d": 520.0
+       },
+       {
+        "w": "unbroken",
+        "t": 7670.0,
+        "d": 639.0
+       },
+       {
+        "w": "defense",
+        "t": 8309.0,
+        "d": 641.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p13.png",
+   "shot": "time-lapse style wide showing subtle changes in the wall over centuries",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "The record suggests later hands altered and repaired the barrier. Some courses coarser, some more regular. The wall, like the city, was not fixed but layered by time.",
+      "hi": "लेख बताता है कि बाद के हाथों ने इस घेरे को बदला–सँवारा। कहीं गच्चे मोटे, कहीं पंक्तियाँ करीने से। दीवार भी, शहर की तरह, स्थिर नहीं रही, समय की तहों से बनी।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p13_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p13_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "The",
+        "t": 74.0,
+        "d": 212.0
+       },
+       {
+        "w": "record",
+        "t": 287.0,
+        "d": 340.0
+       },
+       {
+        "w": "suggests",
+        "t": 627.0,
+        "d": 723.0
+       },
+       {
+        "w": "later",
+        "t": 1351.0,
+        "d": 510.0
+       },
+       {
+        "w": "hands",
+        "t": 1861.0,
+        "d": 382.0
+       },
+       {
+        "w": "altered",
+        "t": 2244.0,
+        "d": 722.0
+       },
+       {
+        "w": "and",
+        "t": 2967.0,
+        "d": 298.0
+       },
+       {
+        "w": "repaired",
+        "t": 3265.0,
+        "d": 424.0
+       },
+       {
+        "w": "the",
+        "t": 3690.0,
+        "d": 128.0
+       },
+       {
+        "w": "barrier",
+        "t": 3819.0,
+        "d": 468.0
+       },
+       {
+        "w": "Some",
+        "t": 4840.0,
+        "d": 425.0
+       },
+       {
+        "w": "courses",
+        "t": 5265.0,
+        "d": 510.0
+       },
+       {
+        "w": "coarser",
+        "t": 5776.0,
+        "d": 638.0
+       },
+       {
+        "w": "some",
+        "t": 6457.0,
+        "d": 382.0
+       },
+       {
+        "w": "more",
+        "t": 6840.0,
+        "d": 255.0
+       },
+       {
+        "w": "regular",
+        "t": 7095.0,
+        "d": 510.0
+       },
+       {
+        "w": "The",
+        "t": 8244.0,
+        "d": 212.0
+       },
+       {
+        "w": "wall",
+        "t": 8457.0,
+        "d": 340.0
+       },
+       {
+        "w": "like",
+        "t": 8797.0,
+        "d": 340.0
+       },
+       {
+        "w": "the",
+        "t": 9138.0,
+        "d": 126.0
+       },
+       {
+        "w": "city",
+        "t": 9264.0,
+        "d": 596.0
+       },
+       {
+        "w": "was",
+        "t": 9903.0,
+        "d": 298.0
+       },
+       {
+        "w": "not",
+        "t": 10202.0,
+        "d": 212.0
+       },
+       {
+        "w": "fixed",
+        "t": 10414.0,
+        "d": 510.0
+       },
+       {
+        "w": "but",
+        "t": 11010.0,
+        "d": 340.0
+       },
+       {
+        "w": "layered",
+        "t": 11351.0,
+        "d": 382.0
+       },
+       {
+        "w": "by",
+        "t": 11734.0,
+        "d": 211.0
+       },
+       {
+        "w": "time",
+        "t": 11945.0,
+        "d": 425.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p14.png",
+   "shot": "modern-era wide shot of the ruined wall snaking over green hills",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Today only fragments remain, listed and measured by surveys, their circuit traced roughly at forty kilometres. Parts have fallen, but the idea still arcs across the hills.",
+      "hi": "आज बस कुछ टुकड़े बचे हैं, सर्वेक्षणों में दर्ज–नापा हुआ, जिनकी परिक्रमा लगभग चालीस किलोमीटर आँकी गई। हिस्से ढह गए, पर विचार आज भी पहाड़ियों पर धनुष की तरह छाया है।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p14_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p14_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Today",
+        "t": 74.0,
+        "d": 425.0
+       },
+       {
+        "w": "only",
+        "t": 542.0,
+        "d": 382.0
+       },
+       {
+        "w": "fragments",
+        "t": 925.0,
+        "d": 595.0
+       },
+       {
+        "w": "remain",
+        "t": 1521.0,
+        "d": 637.0
+       },
+       {
+        "w": "listed",
+        "t": 2287.0,
+        "d": 679.0
+       },
+       {
+        "w": "and",
+        "t": 3009.0,
+        "d": 213.0
+       },
+       {
+        "w": "measured",
+        "t": 3223.0,
+        "d": 467.0
+       },
+       {
+        "w": "by",
+        "t": 3690.0,
+        "d": 171.0
+       },
+       {
+        "w": "surveys",
+        "t": 3861.0,
+        "d": 765.0
+       },
+       {
+        "w": "their",
+        "t": 5095.0,
+        "d": 297.0
+       },
+       {
+        "w": "circuit",
+        "t": 5393.0,
+        "d": 382.0
+       },
+       {
+        "w": "traced",
+        "t": 5776.0,
+        "d": 468.0
+       },
+       {
+        "w": "roughly",
+        "t": 6287.0,
+        "d": 468.0
+       },
+       {
+        "w": "at",
+        "t": 6755.0,
+        "d": 170.0
+       },
+       {
+        "w": "forty",
+        "t": 6925.0,
+        "d": 468.0
+       },
+       {
+        "w": "kilometres",
+        "t": 7393.0,
+        "d": 936.0
+       },
+       {
+        "w": "Parts",
+        "t": 9053.0,
+        "d": 340.0
+       },
+       {
+        "w": "have",
+        "t": 9393.0,
+        "d": 170.0
+       },
+       {
+        "w": "fallen",
+        "t": 9563.0,
+        "d": 509.0
+       },
+       {
+        "w": "but",
+        "t": 10542.0,
+        "d": 169.0
+       },
+       {
+        "w": "the",
+        "t": 10711.0,
+        "d": 170.0
+       },
+       {
+        "w": "idea",
+        "t": 10881.0,
+        "d": 340.0
+       },
+       {
+        "w": "still",
+        "t": 11222.0,
+        "d": 298.0
+       },
+       {
+        "w": "arcs",
+        "t": 11521.0,
+        "d": 297.0
+       },
+       {
+        "w": "across",
+        "t": 11819.0,
+        "d": 381.0
+       },
+       {
+        "w": "the",
+        "t": 12201.0,
+        "d": 128.0
+       },
+       {
+        "w": "hills",
+        "t": 12329.0,
+        "d": 509.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p15.png",
+   "shot": "close-up on interlocked stones, plants growing in crevices",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "There are no cement seams to study. Only the meeting of stone with stone, the craft of fitting irregular faces so that gravity, not mortar, keeps the past standing.",
+      "hi": "यहाँ गारे की जोड़–रेखाएँ पढ़ने को नहीं। बस पत्थर से पत्थर की भेंट है, टेढ़े–मेढ़े चेहरों को ऐसा जड़ने की कारीगरी कि गारा नहीं, गुरुत्वाकर्षण अतीत को खड़ा रखे।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p15_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p15_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "There",
+        "t": 74.0,
+        "d": 340.0
+       },
+       {
+        "w": "are",
+        "t": 414.0,
+        "d": 127.0
+       },
+       {
+        "w": "no",
+        "t": 542.0,
+        "d": 127.0
+       },
+       {
+        "w": "cement",
+        "t": 670.0,
+        "d": 340.0
+       },
+       {
+        "w": "seams",
+        "t": 1010.0,
+        "d": 340.0
+       },
+       {
+        "w": "to",
+        "t": 1351.0,
+        "d": 127.0
+       },
+       {
+        "w": "study",
+        "t": 1478.0,
+        "d": 765.0
+       },
+       {
+        "w": "Only",
+        "t": 2456.0,
+        "d": 384.0
+       },
+       {
+        "w": "the",
+        "t": 2840.0,
+        "d": 169.0
+       },
+       {
+        "w": "meeting",
+        "t": 3009.0,
+        "d": 341.0
+       },
+       {
+        "w": "of",
+        "t": 3351.0,
+        "d": 127.0
+       },
+       {
+        "w": "stone",
+        "t": 3478.0,
+        "d": 382.0
+       },
+       {
+        "w": "with",
+        "t": 3861.0,
+        "d": 169.0
+       },
+       {
+        "w": "stone",
+        "t": 4030.0,
+        "d": 639.0
+       },
+       {
+        "w": "the",
+        "t": 4797.0,
+        "d": 255.0
+       },
+       {
+        "w": "craft",
+        "t": 5053.0,
+        "d": 382.0
+       },
+       {
+        "w": "of",
+        "t": 5436.0,
+        "d": 85.0
+       },
+       {
+        "w": "fitting",
+        "t": 5521.0,
+        "d": 425.0
+       },
+       {
+        "w": "irregular",
+        "t": 5946.0,
+        "d": 595.0
+       },
+       {
+        "w": "faces",
+        "t": 6542.0,
+        "d": 765.0
+       },
+       {
+        "w": "so",
+        "t": 7521.0,
+        "d": 255.0
+       },
+       {
+        "w": "that",
+        "t": 7776.0,
+        "d": 170.0
+       },
+       {
+        "w": "gravity",
+        "t": 7946.0,
+        "d": 722.0
+       },
+       {
+        "w": "not",
+        "t": 8711.0,
+        "d": 382.0
+       },
+       {
+        "w": "mortar",
+        "t": 9094.0,
+        "d": 638.0
+       },
+       {
+        "w": "keeps",
+        "t": 9946.0,
+        "d": 381.0
+       },
+       {
+        "w": "the",
+        "t": 10328.0,
+        "d": 171.0
+       },
+       {
+        "w": "past",
+        "t": 10500.0,
+        "d": 296.0
+       },
+       {
+        "w": "standing",
+        "t": 10796.0,
+        "d": 639.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "art": "assets/the_forty_kilometre_wall_without_mortar/img/p16.png",
+   "shot": "wide contemplative shot of the wall and the valley at sunset",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "A wall records both fear and organisation. Around Rajagriha, this dry-stone ring marks a moment when a hill basin chose to become a capital, binding its fate to stone and to history.",
+      "hi": "दीवार डर और संगठन, दोनों लिखती है। राजगृह के चारों ओर यह सूखी पत्थर की अंगूठी वह क्षण दर्ज करती है जब एक पहाड़ी कटोरे ने राजधानी बनने का फैसला किया, और अपने भाग्य को पत्थर और इतिहास से बाँध लिया।"
+     },
+     "audio": {
+      "en": "assets/the_forty_kilometre_wall_without_mortar/audio/en/p16_0.mp3",
+      "hi": "assets/the_forty_kilometre_wall_without_mortar/audio/hi/p16_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "A",
+        "t": 80.0,
+        "d": 183.0
+       },
+       {
+        "w": "wall",
+        "t": 264.0,
+        "d": 321.0
+       },
+       {
+        "w": "records",
+        "t": 586.0,
+        "d": 597.0
+       },
+       {
+        "w": "both",
+        "t": 1183.0,
+        "d": 275.0
+       },
+       {
+        "w": "fear",
+        "t": 1459.0,
+        "d": 597.0
+       },
+       {
+        "w": "and",
+        "t": 2057.0,
+        "d": 274.0
+       },
+       {
+        "w": "organisation",
+        "t": 2332.0,
+        "d": 1748.0
+       },
+       {
+        "w": "Around",
+        "t": 4310.0,
+        "d": 459.0
+       },
+       {
+        "w": "Rajagriha",
+        "t": 4770.0,
+        "d": 873.0
+       },
+       {
+        "w": "this",
+        "t": 5919.0,
+        "d": 321.0
+       },
+       {
+        "w": "dry-stone",
+        "t": 6241.0,
+        "d": 597.0
+       },
+       {
+        "w": "ring",
+        "t": 6839.0,
+        "d": 229.0
+       },
+       {
+        "w": "marks",
+        "t": 7068.0,
+        "d": 367.0
+       },
+       {
+        "w": "a",
+        "t": 7436.0,
+        "d": 45.0
+       },
+       {
+        "w": "moment",
+        "t": 7482.0,
+        "d": 827.0
+       },
+       {
+        "w": "when",
+        "t": 8356.0,
+        "d": 229.0
+       },
+       {
+        "w": "a",
+        "t": 8586.0,
+        "d": 91.0
+       },
+       {
+        "w": "hill",
+        "t": 8678.0,
+        "d": 321.0
+       },
+       {
+        "w": "basin",
+        "t": 9000.0,
+        "d": 458.0
+       },
+       {
+        "w": "chose",
+        "t": 9458.0,
+        "d": 322.0
+       },
+       {
+        "w": "to",
+        "t": 9781.0,
+        "d": 136.0
+       },
+       {
+        "w": "become",
+        "t": 9918.0,
+        "d": 368.0
+       },
+       {
+        "w": "a",
+        "t": 10287.0,
+        "d": 45.0
+       },
+       {
+        "w": "capital",
+        "t": 10333.0,
+        "d": 1057.0
+       },
+       {
+        "w": "binding",
+        "t": 11390.0,
+        "d": 597.0
+       },
+       {
+        "w": "its",
+        "t": 11988.0,
+        "d": 228.0
+       },
+       {
+        "w": "fate",
+        "t": 12217.0,
+        "d": 414.0
+       },
+       {
+        "w": "to",
+        "t": 12678.0,
+        "d": 136.0
+       },
+       {
+        "w": "stone",
+        "t": 12814.0,
+        "d": 598.0
+       },
+       {
+        "w": "and",
+        "t": 13458.0,
+        "d": 231.0
+       },
+       {
+        "w": "to",
+        "t": 13689.0,
+        "d": 137.0
+       },
+       {
+        "w": "history",
+        "t": 13827.0,
+        "d": 688.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
   }
+ ],
+ "hero": {
+  "name": "Builders of Rajgir's Cyclopean Wall",
+  "epithets": [
+   "Dry-stone masons of Rajagriha",
+   "Ringers of the Girivraja hills",
+   "Raisers of Magadha's stone shield",
+   "Nameless hands the labour remembers"
+  ],
+  "legend": "They held a kingdom with nothing but stone and will."
+ }
 }
