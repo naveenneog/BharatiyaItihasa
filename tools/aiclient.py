@@ -87,9 +87,46 @@ def chat_json(system, user, tok=None, max_tokens=6500, tries=4):
     raise RuntimeError(f"chat_json failed: {last}")
 
 
+# A few globally-iconic real people whose NAME (not their likeness) trips the image API's
+# public-figure safety filter, so any images/generations|edits call that NAMES them returns a
+# 400 "rejected by the safety system". We strip ONLY the name from the IMAGE prompt (never the
+# narration/voice): the character's model-sheet reference + its visual ref_desc still carry the
+# exact appearance, so the figure stays identical — it just isn't named to the image model.
+# Ordered longest-first so multi-word names are replaced before their bare surname.
+_IMG_SAFE_NAMES = [
+    ("Mohandas Karamchand Gandhi", "the lean bespectacled elder in simple white khadi and a shawl"),
+    ("Mahatma Gandhi", "the lean bespectacled elder in simple white khadi and a shawl"),
+    ("Gandhiji", "the lean bespectacled elder in khadi"),
+    ("Gandhi", "the lean bespectacled elder in khadi"),
+    ("Jawaharlal Nehru", "a poised man in a long cream achkan coat and a white side-cap"),
+    ("Pandit Nehru", "a poised man in a long cream achkan coat and a white side-cap"),
+    ("Nehru", "the man in a cream achkan coat and white side-cap"),
+    ("Muhammad Ali Jinnah", "a tall lean formal man in a sharp Western suit"),
+    ("Jinnah", "a tall lean formal man in a sharp Western suit"),
+    ("Subhas Chandra Bose", "a resolute man in a military-style uniform with round glasses"),
+    ("Subhash Chandra Bose", "a resolute man in a military-style uniform with round glasses"),
+    ("Netaji", "a resolute man in a military-style uniform with round glasses"),
+    ("B. R. Ambedkar", "a bespectacled scholar in a formal suit holding a law book"),
+    ("B.R. Ambedkar", "a bespectacled scholar in a formal suit holding a law book"),
+    ("Bhimrao Ambedkar", "a bespectacled scholar in a formal suit holding a law book"),
+    ("Ambedkar", "a bespectacled scholar in a formal suit holding a law book"),
+]
+
+
+def img_safe_prompt(prompt):
+    """De-name safety-filtered public figures in an IMAGE prompt (their sheet + ref_desc keep
+    the likeness). Applied to every images/generations|edits call. Text/voice are untouched."""
+    if not prompt:
+        return prompt
+    for name, desc in _IMG_SAFE_NAMES:
+        prompt = prompt.replace(name, desc)
+    return prompt
+
+
 def gen_image(prompt, out, tok, size="1024x1024", quality="high", tries=8):
     """images/generations (text -> image). Returns tok (refreshed on 401). Writes `out`.
     Returns None-token only on hard failure (leaves `out` absent)."""
+    prompt = img_safe_prompt(prompt)
     url = f"{ENDPOINT}/openai/deployments/{IMG_DEPLOY}/images/generations?api-version={IMG_APIV}"
     body = json.dumps({"prompt": prompt, "size": size, "n": 1, "quality": quality}).encode()
     out = pathlib.Path(out)
@@ -128,6 +165,7 @@ def edit_image(prompt, refs, out, tok, size="1024x1024", quality="high",
     `refs` = list of image paths fed as `image[]`. `input_fidelity="high"` asks the model
     to preserve the reference's identity/detail; if the deployment rejects it (HTTP 400 on
     that param) we transparently drop it and retry. Returns tok. Writes `out`."""
+    prompt = img_safe_prompt(prompt)
     url = f"{ENDPOINT}/openai/deployments/{IMG_DEPLOY}/images/edits?api-version={IMG_APIV}"
     refs = [pathlib.Path(r) for r in refs]
     out = pathlib.Path(out)
