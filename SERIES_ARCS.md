@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## ⚖️ The Ancient Republics and the Mahajanapadas  *(Ancient — c. 6th–4th c. BCE — the gana-sangha clan-republics of the Buddha's age)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The gana-sangha age told with unusual source-criticism — the clan-republics reconstructed from Buddhist and Jain texts written by courts, monks and enemies, and from coins, pottery and ramparts in the earth. It refuses BOTH the colonial "ancient Indian democracy" myth AND its erasure: the assemblies were real but oligarchic Kshatriya councils — freedom that belonged to some more than to others. Innovation runs through every part — India's first coinage, the NBPW ceramic horizon, cyclopean engineering, relic-diplomacy — and it closes by interrogating its own sources.
+
+**I. The Free Clans and Their Assemblies**
+1. **The Seven Conditions Recited at Rajgir** ✅ — the Buddha's *aparihaniya-dhamma* for the Vajji; the republic's survival charter, read from the Mahaparinibbana Sutta. *(the assembly's rule)*
+2. **The Assembly Hall at Vaishali** ✅ — the Licchavi *Santhagara* and its collective decision-making. *(gana-sangha governance)*
+3. **Mahavira in the House of the Naya Chiefs** ✅ — the Jnatrika clan-oligarchy that raised Mahavira. *(clan society)*
+
+**II. Law, Water and Kinship**
+4. **The River the Two Republics Shared** ✅ — the Shakya–Koliya Rohini water dispute. *(shared resources; conflict)*
+5. **The Blacksmith's Offering at Pava** ✅ — Cunda the smith and the Malla republic; the Buddha's last meal, told without blame. *(craft; source-criticism)*
+
+**III. The Innovation Cluster — economy, engineering, ceramics**
+6. **Dona Divides the Relics** ✅ — relic-diplomacy averting the War of the Relics; the Digha Nikaya's eight claimants. *(diplomacy)*
+7. **The Silver Piece with Five Punches** ✅ — the punch-marked *karshapana*, India's first coined money, tested on touchstones. *(economic innovation)*
+8. **The Shining Black Bowl** ✅ — the Northern Black Polished Ware potters of the second urbanization. *(ceramic technology)*
+9. **The Forty-Kilometre Wall Without Mortar** ✅ — Rajgir's cyclopean dry-stone wall, with NBPW found beneath. *(engineering)*
+
+**IV. The Crossroads Cities**
+10. **Kausambi on the Yamuna Road** ✅ — Vatsa's capital read from soil against texts (G.R. Sharma's trenches; Ashoka's Schism Edict). *(urban archaeology)*
+11. **The Crossroads City of Avanti** ✅ — Pradyota's Ujjain where the Uttarapatha and Dakshinapatha met; the fish-marked coin. *(trade urbanism)*
+12. **Nine Layers Deep at Ahichhatra** ✅ — Panchala's capital and the lesson that "story is not stratigraphy" (Cunningham, Sinha, Luders, Quintanilla). *(archaeological method)*
+
+**V. The Sources Problem**
+13. **How the Monarchies Swallowed the Republics** ✅ — the historiography capstone: Rhys Davids's "republics" against Thapar and Bronkhorst's oligarchic Kshatriya assemblies; the Arthashastra's Book 11 on breaking a gana-sangha from within. *(historiography)*
+
 ## 🕊️ The Indian Freedom Struggle  *(Freedom Struggle — 18th c.–1947 — the long fight for independence)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 The fight for freedom as a five-part mosaic of METHODS and people — a warrior-queen, moderates and revolutionaries, Gandhians and constitutionalists, a secret radio and a massacre — non-communally and honestly, hard on heroes and perpetrators alike, dedup-cleaned so no figure repeats a built story. *(Distinct from the older standalone 1857/freedom-fighter mosaics below.)*
