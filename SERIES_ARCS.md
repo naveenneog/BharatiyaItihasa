@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🕊️ The Indian Freedom Struggle  *(Freedom Struggle — 18th c.–1947 — the long fight for independence)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The fight for freedom as a five-part mosaic of METHODS and people — a warrior-queen, moderates and revolutionaries, Gandhians and constitutionalists, a secret radio and a massacre — non-communally and honestly, hard on heroes and perpetrators alike, dedup-cleaned so no figure repeats a built story. *(Distinct from the older standalone 1857/freedom-fighter mosaics below.)*
+
+**I. Origins and First Fires**
+1. **The Queen Who Came Back** ✅ — Velu Nachiyar's 1770s–80s Sivaganga resistance; documented rule separated from the Kuyili legend. *(early resistance; source-criticism)*
+2. **The Ink That Shook an Empire** ✅ — Surendranath Banerjee, the press and the first Congress (1885). *(organised nationalism)*
+
+**II. Heroes and Methods**
+3. **The Deaf Must Hear** ✅ — Bhagat Singh's 1929 Assembly bomb, framed accurately (non-lethal, to court a platform); hunger strike; hanging. *(revolutionary method)*
+4. **Gandhi's Indigo Truth** ✅ — Champaran 1917 as patient documentation, not slogans. *(satyagraha)*
+5. **The Women of Dharasana** ✅ — Sarojini Naidu's 1930 Salt raid; Webb Miller → US Congress. *(non-violence + media)*
+
+**III. Confrontations with Power**
+6. **Amritsar 1919** ✅ — Jallianwala Bagh / Dyer told from all sides (the riots, his own testimony, the disputed toll, present-not-judge). *(colonial atrocity)*
+7. **Lakshmi Sahgal Trains the Rani Regiment** ✅ — the INA women's regiment, honestly non-mythologised. *(women in arms)*
+8. **Do or Die** ✅ — Usha Mehta's 87-day Congress Radio; Quit India's improvised self-rule. *(information warfare)*
+
+**IV. Craft, Institutions and Rule**
+9. **The Ghadar Press Crosses Oceans** ✅ — Kartar Singh Sarabha, hanged at 19 (1915); sources "written largely by enemies and informers". *(transnational print)*
+10. **Ambedkar at the Round Table** ✅ — the Gandhi–Ambedkar tension without taking sides; Poona Pact; Article 17. *(constitutional; caste)*
+11. **Dadabhai Naoroji Counts the Drain** ✅ — the Drain of Wealth theory; first Asian MP. *(economic nationalism)*
+
+**V. Legacy and Independence**
+12. **Pingali Venkayya Designs a Flag** ✅ — the tricolour's collective evolution (not a sole-designer myth). *(symbol-making)*
+13. **The Red Fort Trials** ✅ — Bhulabhai Desai and the INA trials + the RIN mutiny; honest about Congress's ambivalence (Gandhi & Patel opposed it). *(legal strategy; the empire's forces waver)*
+
 ## 🖋️ The Bengal Renaissance  *(Colonial Bengal — c. 1800–1930 — the awakening of press, reform, science and art)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 The 19th–early-20th-c Bengal awakening told with source-criticism and honesty about its LIMITS — caste, gender and communal edges — and deliberately widened past the Hindu-bhadralok mainstream to a Muslim feminist and a syncretic rebel poet. Innovation runs through every part: printing, medicine, industry, the novel, blank verse, painting, feminist science-fiction and reform law.
