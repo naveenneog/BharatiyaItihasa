@@ -1,0 +1,4067 @@
+{
+  "id": "dwarkanath_s_smokestacks_and_ships",
+  "title": "Dwarkanath's Smokestacks and Ships",
+  "title_i18n": {
+    "en": "Dwarkanath's Smokestacks and Ships",
+    "hi": "द्वारकानाथ की धुआँ उड़ाती फैक्ट्रियाँ और जहाज़"
+  },
+  "figure": "Dwarkanath Tagore",
+  "era": "Anglo-Indian enterprise, c. 1828-1846",
+  "moral": "Enterprise without conscience leaves a troubled inheritance.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/intro/hero.png",
+      "name": "Dwarkanath Tagore",
+      "epithets": [
+        "Prince Dwarkanath Tagore",
+        "Calcutta’s merchant prince",
+        "Pioneer of Indian industry",
+        "Partner of the British Raj"
+      ],
+      "legend": "He lit India’s smokestacks and fed an empire’s hunger for profit.",
+      "era": "Anglo-Indian enterprise, c. 1828-1846",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He built mines, banks and steamers that thrilled London and Calcutta, yet his fortune rose on tea, opium and debt. Can a man who powers a cruel empire still claim to free his own people?",
+            "hi": "उसने खदानें, बैंक और स्टीमर खड़े किए, लंदन से कलकत्ता तक हलचल मचा दी, पर उसका धन चाय, अफ़ीम और करज़े पर टिका था। जो आदमी ज़ालिम सल्तनत को ताकत देता है, क्या सच में अपने लोगों को आज़ाद कहला सकता है?"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/intro/hero_en.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 72.0,
+                "d": 208.0
+              },
+              {
+                "w": "built",
+                "t": 281.0,
+                "d": 250.0
+              },
+              {
+                "w": "mines",
+                "t": 531.0,
+                "d": 625.0
+              },
+              {
+                "w": "banks",
+                "t": 1281.0,
+                "d": 500.0
+              },
+              {
+                "w": "and",
+                "t": 1781.0,
+                "d": 208.0
+              },
+              {
+                "w": "steamers",
+                "t": 1989.0,
+                "d": 833.0
+              },
+              {
+                "w": "that",
+                "t": 3030.0,
+                "d": 292.0
+              },
+              {
+                "w": "thrilled",
+                "t": 3322.0,
+                "d": 875.0
+              },
+              {
+                "w": "London",
+                "t": 4197.0,
+                "d": 333.0
+              },
+              {
+                "w": "and",
+                "t": 4531.0,
+                "d": 416.0
+              },
+              {
+                "w": "Calcutta",
+                "t": 5656.0,
+                "d": 333.0
+              },
+              {
+                "w": "yet",
+                "t": 5989.0,
+                "d": 125.0
+              },
+              {
+                "w": "his",
+                "t": 6114.0,
+                "d": 125.0
+              },
+              {
+                "w": "fortune",
+                "t": 6239.0,
+                "d": 291.0
+              },
+              {
+                "w": "rose",
+                "t": 6531.0,
+                "d": 250.0
+              },
+              {
+                "w": "on",
+                "t": 6781.0,
+                "d": 166.0
+              },
+              {
+                "w": "tea",
+                "t": 6947.0,
+                "d": 458.0
+              },
+              {
+                "w": "opium",
+                "t": 7656.0,
+                "d": 625.0
+              },
+              {
+                "w": "and",
+                "t": 8281.0,
+                "d": 248.0
+              },
+              {
+                "w": "debt",
+                "t": 8530.0,
+                "d": 584.0
+              },
+              {
+                "w": "Can",
+                "t": 9906.0,
+                "d": 166.0
+              },
+              {
+                "w": "a",
+                "t": 10072.0,
+                "d": 83.0
+              },
+              {
+                "w": "man",
+                "t": 10197.0,
+                "d": 250.0
+              },
+              {
+                "w": "who",
+                "t": 10447.0,
+                "d": 207.0
+              },
+              {
+                "w": "powers",
+                "t": 10655.0,
+                "d": 333.0
+              },
+              {
+                "w": "a",
+                "t": 10988.0,
+                "d": 126.0
+              },
+              {
+                "w": "cruel",
+                "t": 11114.0,
+                "d": 333.0
+              },
+              {
+                "w": "empire",
+                "t": 11447.0,
+                "d": 541.0
+              },
+              {
+                "w": "still",
+                "t": 11989.0,
+                "d": 291.0
+              },
+              {
+                "w": "claim",
+                "t": 12322.0,
+                "d": 291.0
+              },
+              {
+                "w": "to",
+                "t": 12614.0,
+                "d": 83.0
+              },
+              {
+                "w": "free",
+                "t": 12697.0,
+                "d": 250.0
+              },
+              {
+                "w": "his",
+                "t": 12947.0,
+                "d": 166.0
+              },
+              {
+                "w": "own",
+                "t": 13114.0,
+                "d": 166.0
+              },
+              {
+                "w": "people",
+                "t": 13281.0,
+                "d": 582.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/dwarkanath_s_smokestacks_and_ships/intro/map.png",
+      "x": 0.74,
+      "y": 0.47,
+      "label": "Calcutta, Raniganj & Hooghly River",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the humid plains by the Hooghly, coal dust and river mist mix as smokestacks rise over old trading ghats and crowded streets.",
+            "hi": "हुगली के नम मैदानों में कोयले की धूल और नदी की धुंध घुलती है, पुराने घाटों के ऊपर धुएँ वाले चिमनी और भीड़ भरी गलियाँ उठती दिखती हैं।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/intro/map_en.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 264.0,
+                "d": 183.0
+              },
+              {
+                "w": "humid",
+                "t": 448.0,
+                "d": 367.0
+              },
+              {
+                "w": "plains",
+                "t": 816.0,
+                "d": 367.0
+              },
+              {
+                "w": "by",
+                "t": 1183.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 1321.0,
+                "d": 137.0
+              },
+              {
+                "w": "Hooghly",
+                "t": 1459.0,
+                "d": 919.0
+              },
+              {
+                "w": "coal",
+                "t": 2471.0,
+                "d": 413.0
+              },
+              {
+                "w": "dust",
+                "t": 2885.0,
+                "d": 412.0
+              },
+              {
+                "w": "and",
+                "t": 3297.0,
+                "d": 277.0
+              },
+              {
+                "w": "river",
+                "t": 3574.0,
+                "d": 551.0
+              },
+              {
+                "w": "mist",
+                "t": 4172.0,
+                "d": 366.0
+              },
+              {
+                "w": "mix",
+                "t": 4539.0,
+                "d": 368.0
+              },
+              {
+                "w": "as",
+                "t": 4908.0,
+                "d": 229.0
+              },
+              {
+                "w": "smokestacks",
+                "t": 5137.0,
+                "d": 735.0
+              },
+              {
+                "w": "rise",
+                "t": 5873.0,
+                "d": 413.0
+              },
+              {
+                "w": "over",
+                "t": 6287.0,
+                "d": 459.0
+              },
+              {
+                "w": "old",
+                "t": 6747.0,
+                "d": 321.0
+              },
+              {
+                "w": "trading",
+                "t": 7068.0,
+                "d": 459.0
+              },
+              {
+                "w": "ghats",
+                "t": 7528.0,
+                "d": 689.0
+              },
+              {
+                "w": "and",
+                "t": 8310.0,
+                "d": 275.0
+              },
+              {
+                "w": "crowded",
+                "t": 8586.0,
+                "d": 413.0
+              },
+              {
+                "w": "streets",
+                "t": 9000.0,
+                "d": 781.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/cover.png",
+      "shot": "dramatic low-angle wide of Dwarkanath before a smoking chimney and a river steamer",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the age of the Company, Dwarkanath Tagore rose on coal, steam, indigo and opium, praised as a partner in empire, remembered as a warning about colonial wealth.",
+            "hi": "कंपनी के ज़माने में द्वारकानाथ ठाकुर कोयला, भाप, नील और अफ़ीम पर चढ़े—साम्राज्य के साझेदार कहे गए, और औपनिवेशिक दौलत की चेतावनी बन कर याद हुए।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/cover_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 212.0
+              },
+              {
+                "w": "age",
+                "t": 500.0,
+                "d": 212.0
+              },
+              {
+                "w": "of",
+                "t": 712.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 797.0,
+                "d": 127.0
+              },
+              {
+                "w": "Company",
+                "t": 925.0,
+                "d": 723.0
+              },
+              {
+                "w": "Dwarkanath",
+                "t": 1691.0,
+                "d": 638.0
+              },
+              {
+                "w": "Tagore",
+                "t": 2329.0,
+                "d": 425.0
+              },
+              {
+                "w": "rose",
+                "t": 2755.0,
+                "d": 296.0
+              },
+              {
+                "w": "on",
+                "t": 3052.0,
+                "d": 298.0
+              },
+              {
+                "w": "coal",
+                "t": 3351.0,
+                "d": 425.0
+              },
+              {
+                "w": "steam",
+                "t": 3819.0,
+                "d": 723.0
+              },
+              {
+                "w": "indigo",
+                "t": 4585.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 5095.0,
+                "d": 212.0
+              },
+              {
+                "w": "opium",
+                "t": 5308.0,
+                "d": 851.0
+              },
+              {
+                "w": "praised",
+                "t": 6329.0,
+                "d": 468.0
+              },
+              {
+                "w": "as",
+                "t": 6797.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 6968.0,
+                "d": 127.0
+              },
+              {
+                "w": "partner",
+                "t": 7095.0,
+                "d": 468.0
+              },
+              {
+                "w": "in",
+                "t": 7563.0,
+                "d": 212.0
+              },
+              {
+                "w": "empire",
+                "t": 7776.0,
+                "d": 892.0
+              },
+              {
+                "w": "remembered",
+                "t": 8968.0,
+                "d": 553.0
+              },
+              {
+                "w": "as",
+                "t": 9521.0,
+                "d": 85.0
+              },
+              {
+                "w": "a",
+                "t": 9606.0,
+                "d": 85.0
+              },
+              {
+                "w": "warning",
+                "t": 9691.0,
+                "d": 467.0
+              },
+              {
+                "w": "about",
+                "t": 10158.0,
+                "d": 341.0
+              },
+              {
+                "w": "colonial",
+                "t": 10500.0,
+                "d": 510.0
+              },
+              {
+                "w": "wealth",
+                "t": 11010.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p01.png",
+      "shot": "slow push-in on Dwarkanath seated at a desk lit by an oil lamp",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Calcutta in the eighteen twenties was a city of palaces and godowns, of British merchants and Bengali zamindars learning new rules of profit. Dwarkanath Tagore studied those rules late into the night.",
+            "hi": "१८२० के दशक में कलकत्ता महलों और गोदामों का शहर था, जहां अंग्रेज़ व्यापारी और बंगाली ज़मींदार मुनाफ़े के नए नियम सीख रहे थे। द्वारकानाथ ठाकुर रात भर वही नियम पढ़ते रहते।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p01_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Calcutta",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "in",
+                "t": 670.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 797.0,
+                "d": 127.0
+              },
+              {
+                "w": "eighteen",
+                "t": 925.0,
+                "d": 425.0
+              },
+              {
+                "w": "twenties",
+                "t": 1351.0,
+                "d": 638.0
+              },
+              {
+                "w": "was",
+                "t": 1989.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 2202.0,
+                "d": 85.0
+              },
+              {
+                "w": "city",
+                "t": 2287.0,
+                "d": 339.0
+              },
+              {
+                "w": "of",
+                "t": 2626.0,
+                "d": 213.0
+              },
+              {
+                "w": "palaces",
+                "t": 2840.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 3436.0,
+                "d": 297.0
+              },
+              {
+                "w": "godowns",
+                "t": 3734.0,
+                "d": 808.0
+              },
+              {
+                "w": "of",
+                "t": 4755.0,
+                "d": 212.0
+              },
+              {
+                "w": "British",
+                "t": 4968.0,
+                "d": 382.0
+              },
+              {
+                "w": "merchants",
+                "t": 5351.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 6244.0,
+                "d": 382.0
+              },
+              {
+                "w": "Bengali",
+                "t": 6627.0,
+                "d": 510.0
+              },
+              {
+                "w": "zamindars",
+                "t": 7138.0,
+                "d": 893.0
+              },
+              {
+                "w": "learning",
+                "t": 8159.0,
+                "d": 509.0
+              },
+              {
+                "w": "new",
+                "t": 8669.0,
+                "d": 255.0
+              },
+              {
+                "w": "rules",
+                "t": 8924.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 9179.0,
+                "d": 213.0
+              },
+              {
+                "w": "profit",
+                "t": 9393.0,
+                "d": 679.0
+              },
+              {
+                "w": "Dwarkanath",
+                "t": 10925.0,
+                "d": 680.0
+              },
+              {
+                "w": "Tagore",
+                "t": 11606.0,
+                "d": 553.0
+              },
+              {
+                "w": "studied",
+                "t": 12201.0,
+                "d": 469.0
+              },
+              {
+                "w": "those",
+                "t": 12670.0,
+                "d": 297.0
+              },
+              {
+                "w": "rules",
+                "t": 12968.0,
+                "d": 425.0
+              },
+              {
+                "w": "late",
+                "t": 13393.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 13776.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 13988.0,
+                "d": 128.0
+              },
+              {
+                "w": "night",
+                "t": 14117.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p02.png",
+      "shot": "crowded mid-shot inside a European-style bank hall",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In eighteen twenty-eight, he entered the board of the Union Bank of Calcutta. An Indian director among Europeans, he stepped from landlord accounts into the risky world of colonial credit.",
+            "hi": "१८२८ में वह यूनियन बैंक ऑफ कलकत्ता के बोर्ड में पहुँचे। गोरे अफ़सरों के बीच एक हिंदुस्तानी निदेशक, जो ज़मींदारी खातों से निकलकर औपनिवेशिक क़र्ज़ की जोख़िम भरी दुनिया में कदम रख रहा था।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p02_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "eighteen",
+                "t": 287.0,
+                "d": 553.0
+              },
+              {
+                "w": "twenty-eight",
+                "t": 840.0,
+                "d": 510.0
+              },
+              {
+                "w": "he",
+                "t": 1393.0,
+                "d": 255.0
+              },
+              {
+                "w": "entered",
+                "t": 1648.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 2202.0,
+                "d": 127.0
+              },
+              {
+                "w": "board",
+                "t": 2329.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 2670.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 2840.0,
+                "d": 169.0
+              },
+              {
+                "w": "Union",
+                "t": 3009.0,
+                "d": 384.0
+              },
+              {
+                "w": "Bank",
+                "t": 3393.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 3734.0,
+                "d": 127.0
+              },
+              {
+                "w": "Calcutta",
+                "t": 3861.0,
+                "d": 680.0
+              },
+              {
+                "w": "An",
+                "t": 4968.0,
+                "d": 255.0
+              },
+              {
+                "w": "Indian",
+                "t": 5223.0,
+                "d": 425.0
+              },
+              {
+                "w": "director",
+                "t": 5648.0,
+                "d": 595.0
+              },
+              {
+                "w": "among",
+                "t": 6244.0,
+                "d": 382.0
+              },
+              {
+                "w": "Europeans",
+                "t": 6627.0,
+                "d": 851.0
+              },
+              {
+                "w": "he",
+                "t": 7819.0,
+                "d": 170.0
+              },
+              {
+                "w": "stepped",
+                "t": 7989.0,
+                "d": 340.0
+              },
+              {
+                "w": "from",
+                "t": 8329.0,
+                "d": 211.0
+              },
+              {
+                "w": "landlord",
+                "t": 8541.0,
+                "d": 468.0
+              },
+              {
+                "w": "accounts",
+                "t": 9009.0,
+                "d": 554.0
+              },
+              {
+                "w": "into",
+                "t": 9563.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 9861.0,
+                "d": 170.0
+              },
+              {
+                "w": "risky",
+                "t": 10031.0,
+                "d": 382.0
+              },
+              {
+                "w": "world",
+                "t": 10414.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 10840.0,
+                "d": 211.0
+              },
+              {
+                "w": "colonial",
+                "t": 11052.0,
+                "d": 554.0
+              },
+              {
+                "w": "credit",
+                "t": 11606.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p03.png",
+      "shot": "wide shot of Calcutta’s riverfront with warehouses",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Bengal Presidency's ledgers listed indigo, silk, salt, sugar, and opium bound for China. Dwarkanath saw that profit lay not in one trade, but in their connections.",
+            "hi": "बंगाल प्रेसीडेंसी की किताबों में नील, रेशम, नमक, शक्कर—और चीन जाने वाली अफ़ीम दर्ज थी। द्वारकानाथ ने समझ लिया कि असली मुनाफ़ा एक धंधे में नहीं, उनके जोड़ में छुपा है।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p03_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 287.0,
+                "d": 170.0
+              },
+              {
+                "w": "Bengal",
+                "t": 457.0,
+                "d": 468.0
+              },
+              {
+                "w": "Presidency's",
+                "t": 925.0,
+                "d": 765.0
+              },
+              {
+                "w": "ledgers",
+                "t": 1691.0,
+                "d": 510.0
+              },
+              {
+                "w": "listed",
+                "t": 2202.0,
+                "d": 510.0
+              },
+              {
+                "w": "indigo",
+                "t": 2712.0,
+                "d": 807.0
+              },
+              {
+                "w": "silk",
+                "t": 3562.0,
+                "d": 852.0
+              },
+              {
+                "w": "salt",
+                "t": 4414.0,
+                "d": 723.0
+              },
+              {
+                "w": "sugar",
+                "t": 5180.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 5946.0,
+                "d": 425.0
+              },
+              {
+                "w": "opium",
+                "t": 6414.0,
+                "d": 510.0
+              },
+              {
+                "w": "bound",
+                "t": 6925.0,
+                "d": 340.0
+              },
+              {
+                "w": "for",
+                "t": 7265.0,
+                "d": 170.0
+              },
+              {
+                "w": "China",
+                "t": 7436.0,
+                "d": 595.0
+              },
+              {
+                "w": "Dwarkanath",
+                "t": 8839.0,
+                "d": 767.0
+              },
+              {
+                "w": "saw",
+                "t": 9606.0,
+                "d": 255.0
+              },
+              {
+                "w": "that",
+                "t": 9861.0,
+                "d": 211.0
+              },
+              {
+                "w": "profit",
+                "t": 10073.0,
+                "d": 469.0
+              },
+              {
+                "w": "lay",
+                "t": 10542.0,
+                "d": 254.0
+              },
+              {
+                "w": "not",
+                "t": 10796.0,
+                "d": 298.0
+              },
+              {
+                "w": "in",
+                "t": 11095.0,
+                "d": 126.0
+              },
+              {
+                "w": "one",
+                "t": 11222.0,
+                "d": 341.0
+              },
+              {
+                "w": "trade",
+                "t": 11563.0,
+                "d": 510.0
+              },
+              {
+                "w": "but",
+                "t": 12159.0,
+                "d": 255.0
+              },
+              {
+                "w": "in",
+                "t": 12414.0,
+                "d": 170.0
+              },
+              {
+                "w": "their",
+                "t": 12585.0,
+                "d": 297.0
+              },
+              {
+                "w": "connections",
+                "t": 12882.0,
+                "d": 936.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/dwarkanath_s_smokestacks_and_ships/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/dwarkanath_s_smokestacks_and_ships/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He claims the river's currents as his highway, fusing Bengali ambition with British machinery and global trade routes.",
+            "hi": "वो नदी की धाराओं को अपनी सड़क बना रहा है, बंगाली जज़्बे को अंग्रेज़ी मशीनों और दुनिया की व्यापार राहों से जोड़ रहा है।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/action/action_auto_en.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "claims",
+                "t": 270.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 590.0,
+                "d": 160.0
+              },
+              {
+                "w": "river's",
+                "t": 750.0,
+                "d": 400.0
+              },
+              {
+                "w": "currents",
+                "t": 1150.0,
+                "d": 480.0
+              },
+              {
+                "w": "as",
+                "t": 1630.0,
+                "d": 200.0
+              },
+              {
+                "w": "his",
+                "t": 1830.0,
+                "d": 160.0
+              },
+              {
+                "w": "highway",
+                "t": 1990.0,
+                "d": 680.0
+              },
+              {
+                "w": "fusing",
+                "t": 2750.0,
+                "d": 480.0
+              },
+              {
+                "w": "Bengali",
+                "t": 3230.0,
+                "d": 440.0
+              },
+              {
+                "w": "ambition",
+                "t": 3670.0,
+                "d": 480.0
+              },
+              {
+                "w": "with",
+                "t": 4150.0,
+                "d": 200.0
+              },
+              {
+                "w": "British",
+                "t": 4350.0,
+                "d": 360.0
+              },
+              {
+                "w": "machinery",
+                "t": 4710.0,
+                "d": 760.0
+              },
+              {
+                "w": "and",
+                "t": 5470.0,
+                "d": 360.0
+              },
+              {
+                "w": "global",
+                "t": 5830.0,
+                "d": 440.0
+              },
+              {
+                "w": "trade",
+                "t": 6270.0,
+                "d": 320.0
+              },
+              {
+                "w": "routes",
+                "t": 6590.0,
+                "d": 520.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p04.png",
+      "shot": "tight mid-shot in a dim counting house",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Around eighteen thirty-four, he co-founded Carr, Tagore and Company. The firm would link banking, shipping, coal, indigo, tea, and the Company-regulated opium trade, into a single web of enterprise.",
+            "hi": "करीब १८३४ में उसने कैर, ठाकुर एंड कंपनी की नींव रखी। यह फर्म बैंकिंग, जहाज़रानी, कोयला, नील, चाय—और कंपनी की काबू में चलती अफ़ीम—सबको एक ही कारोबारी जाल में बाँधने वाली थी।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p04_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Around",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "eighteen",
+                "t": 414.0,
+                "d": 468.0
+              },
+              {
+                "w": "thirty-four",
+                "t": 882.0,
+                "d": 680.0
+              },
+              {
+                "w": "he",
+                "t": 1691.0,
+                "d": 212.0
+              },
+              {
+                "w": "co-founded",
+                "t": 1904.0,
+                "d": 552.0
+              },
+              {
+                "w": "Carr",
+                "t": 2456.0,
+                "d": 553.0
+              },
+              {
+                "w": "Tagore",
+                "t": 3052.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 3562.0,
+                "d": 213.0
+              },
+              {
+                "w": "Company",
+                "t": 3776.0,
+                "d": 893.0
+              },
+              {
+                "w": "The",
+                "t": 4925.0,
+                "d": 212.0
+              },
+              {
+                "w": "firm",
+                "t": 5138.0,
+                "d": 255.0
+              },
+              {
+                "w": "would",
+                "t": 5393.0,
+                "d": 212.0
+              },
+              {
+                "w": "link",
+                "t": 5606.0,
+                "d": 212.0
+              },
+              {
+                "w": "banking",
+                "t": 5819.0,
+                "d": 680.0
+              },
+              {
+                "w": "shipping",
+                "t": 6542.0,
+                "d": 936.0
+              },
+              {
+                "w": "coal",
+                "t": 7478.0,
+                "d": 510.0
+              },
+              {
+                "w": "indigo",
+                "t": 8031.0,
+                "d": 807.0
+              },
+              {
+                "w": "tea",
+                "t": 8882.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 9521.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 9776.0,
+                "d": 126.0
+              },
+              {
+                "w": "Company-regulated",
+                "t": 9903.0,
+                "d": 978.0
+              },
+              {
+                "w": "opium",
+                "t": 10881.0,
+                "d": 469.0
+              },
+              {
+                "w": "trade",
+                "t": 11351.0,
+                "d": 509.0
+              },
+              {
+                "w": "into",
+                "t": 11945.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 12286.0,
+                "d": 43.0
+              },
+              {
+                "w": "single",
+                "t": 12329.0,
+                "d": 468.0
+              },
+              {
+                "w": "web",
+                "t": 12797.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 13138.0,
+                "d": 170.0
+              },
+              {
+                "w": "enterprise",
+                "t": 13308.0,
+                "d": 764.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p05.png",
+      "shot": "epic wide of Raniganj coalfields",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He bought interests in the Raniganj coalfields. In the dust and heat, he saw fuel for steam engines, for mills and river tugs, and a chance to place Indian capital inside industrial change.",
+            "hi": "उसने रानीगंज कोयला क्षेत्रों में हिस्से खरीदे। धूल और लू में उसने भाप इंजनों, मिलों, नदी के टग-बोटों का ईंधन देखा—और औद्योगिक बदलाव के बीच हिंदुस्तानी पूँजी की जगह भी।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p05_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "bought",
+                "t": 287.0,
+                "d": 297.0
+              },
+              {
+                "w": "interests",
+                "t": 627.0,
+                "d": 638.0
+              },
+              {
+                "w": "in",
+                "t": 1265.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 1393.0,
+                "d": 170.0
+              },
+              {
+                "w": "Raniganj",
+                "t": 1563.0,
+                "d": 680.0
+              },
+              {
+                "w": "coalfields",
+                "t": 2244.0,
+                "d": 935.0
+              },
+              {
+                "w": "In",
+                "t": 3734.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 3989.0,
+                "d": 169.0
+              },
+              {
+                "w": "dust",
+                "t": 4158.0,
+                "d": 384.0
+              },
+              {
+                "w": "and",
+                "t": 4542.0,
+                "d": 255.0
+              },
+              {
+                "w": "heat",
+                "t": 4797.0,
+                "d": 510.0
+              },
+              {
+                "w": "he",
+                "t": 5436.0,
+                "d": 297.0
+              },
+              {
+                "w": "saw",
+                "t": 5734.0,
+                "d": 170.0
+              },
+              {
+                "w": "fuel",
+                "t": 5904.0,
+                "d": 425.0
+              },
+              {
+                "w": "for",
+                "t": 6329.0,
+                "d": 170.0
+              },
+              {
+                "w": "steam",
+                "t": 6500.0,
+                "d": 425.0
+              },
+              {
+                "w": "engines",
+                "t": 6925.0,
+                "d": 723.0
+              },
+              {
+                "w": "for",
+                "t": 7648.0,
+                "d": 340.0
+              },
+              {
+                "w": "mills",
+                "t": 7989.0,
+                "d": 297.0
+              },
+              {
+                "w": "and",
+                "t": 8287.0,
+                "d": 170.0
+              },
+              {
+                "w": "river",
+                "t": 8457.0,
+                "d": 254.0
+              },
+              {
+                "w": "tugs",
+                "t": 8711.0,
+                "d": 639.0
+              },
+              {
+                "w": "and",
+                "t": 9861.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 10031.0,
+                "d": 85.0
+              },
+              {
+                "w": "chance",
+                "t": 10117.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 10500.0,
+                "d": 127.0
+              },
+              {
+                "w": "place",
+                "t": 10627.0,
+                "d": 424.0
+              },
+              {
+                "w": "Indian",
+                "t": 11095.0,
+                "d": 425.0
+              },
+              {
+                "w": "capital",
+                "t": 11521.0,
+                "d": 553.0
+              },
+              {
+                "w": "inside",
+                "t": 12074.0,
+                "d": 595.0
+              },
+              {
+                "w": "industrial",
+                "t": 12670.0,
+                "d": 679.0
+              },
+              {
+                "w": "change",
+                "t": 13350.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p06.png",
+      "shot": "low-angle shot of a river steamer pulling a sailing ship",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "His Hooghly tug services used steam to pull heavy ships against the river's will. Coal from Raniganj fed these engines, tightening his grip on transport in the Presidency's main artery.",
+            "hi": "उसकी हुगली टग सेवाएँ भाप से भारी जहाज़ों को नदी की धार के ख़िलाफ़ खींचती थीं। रानीगंज का कोयला इन्हीं इंजनों में जलता था, और प्रेसीडेंसी की मुख्य नदी पर उसकी पकड़ कसता जाता था।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p06_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "His",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "Hooghly",
+                "t": 500.0,
+                "d": 510.0
+              },
+              {
+                "w": "tug",
+                "t": 1010.0,
+                "d": 212.0
+              },
+              {
+                "w": "services",
+                "t": 1223.0,
+                "d": 638.0
+              },
+              {
+                "w": "used",
+                "t": 1861.0,
+                "d": 340.0
+              },
+              {
+                "w": "steam",
+                "t": 2202.0,
+                "d": 381.0
+              },
+              {
+                "w": "to",
+                "t": 2584.0,
+                "d": 213.0
+              },
+              {
+                "w": "pull",
+                "t": 2797.0,
+                "d": 254.0
+              },
+              {
+                "w": "heavy",
+                "t": 3052.0,
+                "d": 298.0
+              },
+              {
+                "w": "ships",
+                "t": 3351.0,
+                "d": 296.0
+              },
+              {
+                "w": "against",
+                "t": 3647.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 4073.0,
+                "d": 127.0
+              },
+              {
+                "w": "river's",
+                "t": 4201.0,
+                "d": 341.0
+              },
+              {
+                "w": "will",
+                "t": 4542.0,
+                "d": 893.0
+              },
+              {
+                "w": "Coal",
+                "t": 5563.0,
+                "d": 340.0
+              },
+              {
+                "w": "from",
+                "t": 5904.0,
+                "d": 255.0
+              },
+              {
+                "w": "Raniganj",
+                "t": 6159.0,
+                "d": 510.0
+              },
+              {
+                "w": "fed",
+                "t": 6670.0,
+                "d": 340.0
+              },
+              {
+                "w": "these",
+                "t": 7010.0,
+                "d": 212.0
+              },
+              {
+                "w": "engines",
+                "t": 7223.0,
+                "d": 723.0
+              },
+              {
+                "w": "tightening",
+                "t": 8074.0,
+                "d": 509.0
+              },
+              {
+                "w": "his",
+                "t": 8584.0,
+                "d": 170.0
+              },
+              {
+                "w": "grip",
+                "t": 8754.0,
+                "d": 255.0
+              },
+              {
+                "w": "on",
+                "t": 9009.0,
+                "d": 128.0
+              },
+              {
+                "w": "transport",
+                "t": 9138.0,
+                "d": 594.0
+              },
+              {
+                "w": "in",
+                "t": 9732.0,
+                "d": 128.0
+              },
+              {
+                "w": "the",
+                "t": 9861.0,
+                "d": 126.0
+              },
+              {
+                "w": "Presidency's",
+                "t": 9988.0,
+                "d": 723.0
+              },
+              {
+                "w": "main",
+                "t": 10711.0,
+                "d": 340.0
+              },
+              {
+                "w": "artery",
+                "t": 11052.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p07.png",
+      "shot": "moody interior shot of an indigo factory yard",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Indigo, long extracted through harsh systems on Bengal estates, added colour to his balance sheets. He invested as a businessman, while the social cost lay largely off his ledgers.",
+            "hi": "नील, जो बरसों से बंगाल की ज़मींदारी में सख़्त तरीक़ों से उगाई जाती थी, उसकी खातों में गहरा नीला रंग भर रही थी। वह व्यापारी की तरह निवेश करता रहा, समाज की क़ीमत ज़्यादातर उसकी किताबों से बाहर ही रही।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p07_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Indigo",
+                "t": 70.0,
+                "d": 720.0
+              },
+              {
+                "w": "long",
+                "t": 870.0,
+                "d": 400.0
+              },
+              {
+                "w": "extracted",
+                "t": 1270.0,
+                "d": 600.0
+              },
+              {
+                "w": "through",
+                "t": 1870.0,
+                "d": 280.0
+              },
+              {
+                "w": "harsh",
+                "t": 2150.0,
+                "d": 279.0
+              },
+              {
+                "w": "systems",
+                "t": 2429.0,
+                "d": 440.0
+              },
+              {
+                "w": "on",
+                "t": 2869.0,
+                "d": 161.0
+              },
+              {
+                "w": "Bengal",
+                "t": 3030.0,
+                "d": 359.0
+              },
+              {
+                "w": "estates",
+                "t": 3389.0,
+                "d": 641.0
+              },
+              {
+                "w": "added",
+                "t": 4270.0,
+                "d": 440.0
+              },
+              {
+                "w": "colour",
+                "t": 4710.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 5030.0,
+                "d": 120.0
+              },
+              {
+                "w": "his",
+                "t": 5150.0,
+                "d": 160.0
+              },
+              {
+                "w": "balance",
+                "t": 5310.0,
+                "d": 360.0
+              },
+              {
+                "w": "sheets",
+                "t": 5670.0,
+                "d": 720.0
+              },
+              {
+                "w": "He",
+                "t": 6390.0,
+                "d": 280.0
+              },
+              {
+                "w": "invested",
+                "t": 6670.0,
+                "d": 480.0
+              },
+              {
+                "w": "as",
+                "t": 7150.0,
+                "d": 120.0
+              },
+              {
+                "w": "a",
+                "t": 7270.0,
+                "d": 80.0
+              },
+              {
+                "w": "businessman",
+                "t": 7350.0,
+                "d": 480.0
+              },
+              {
+                "w": "while",
+                "t": 7830.0,
+                "d": 199.0
+              },
+              {
+                "w": "the",
+                "t": 8029.0,
+                "d": 680.0
+              },
+              {
+                "w": "social",
+                "t": 8709.0,
+                "d": 481.0
+              },
+              {
+                "w": "cost",
+                "t": 9190.0,
+                "d": 320.0
+              },
+              {
+                "w": "lay",
+                "t": 9510.0,
+                "d": 160.0
+              },
+              {
+                "w": "largely",
+                "t": 9670.0,
+                "d": 520.0
+              },
+              {
+                "w": "off",
+                "t": 10190.0,
+                "d": 240.0
+              },
+              {
+                "w": "his",
+                "t": 10430.0,
+                "d": 160.0
+              },
+              {
+                "w": "ledgers",
+                "t": 10590.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p08.png",
+      "shot": "shadowed interior close-up on a chest of opium cakes",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Company records show his firm profited from the regulated opium trade to China. Opium traveled under official license; the fortunes it fed moved more discreetly through Calcutta's accounts.",
+            "hi": "कंपनी की दर्ज़ों से पता चलता है कि उसकी फर्म को चीन जाने वाली नियमन-शुदा अफ़ीम से मुनाफ़ा हुआ। अफ़ीम सरकारी इजाज़त पर चलती थी; उससे बनती दौलत कलकत्ता के खातों में कहीं ज़्यादा दबे पाँव घूमती थी।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p08_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Company",
+                "t": 80.0,
+                "d": 459.0
+              },
+              {
+                "w": "records",
+                "t": 540.0,
+                "d": 505.0
+              },
+              {
+                "w": "show",
+                "t": 1045.0,
+                "d": 229.0
+              },
+              {
+                "w": "his",
+                "t": 1275.0,
+                "d": 229.0
+              },
+              {
+                "w": "firm",
+                "t": 1505.0,
+                "d": 321.0
+              },
+              {
+                "w": "profited",
+                "t": 1827.0,
+                "d": 597.0
+              },
+              {
+                "w": "from",
+                "t": 2425.0,
+                "d": 228.0
+              },
+              {
+                "w": "the",
+                "t": 2654.0,
+                "d": 137.0
+              },
+              {
+                "w": "regulated",
+                "t": 2791.0,
+                "d": 736.0
+              },
+              {
+                "w": "opium",
+                "t": 3528.0,
+                "d": 551.0
+              },
+              {
+                "w": "trade",
+                "t": 4080.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 4401.0,
+                "d": 137.0
+              },
+              {
+                "w": "China",
+                "t": 4539.0,
+                "d": 828.0
+              },
+              {
+                "w": "Opium",
+                "t": 5873.0,
+                "d": 551.0
+              },
+              {
+                "w": "traveled",
+                "t": 6425.0,
+                "d": 505.0
+              },
+              {
+                "w": "under",
+                "t": 6977.0,
+                "d": 321.0
+              },
+              {
+                "w": "official",
+                "t": 7298.0,
+                "d": 505.0
+              },
+              {
+                "w": "license",
+                "t": 7804.0,
+                "d": 781.0
+              },
+              {
+                "w": "the",
+                "t": 8954.0,
+                "d": 229.0
+              },
+              {
+                "w": "fortunes",
+                "t": 9183.0,
+                "d": 689.0
+              },
+              {
+                "w": "it",
+                "t": 9873.0,
+                "d": 183.0
+              },
+              {
+                "w": "fed",
+                "t": 10057.0,
+                "d": 275.0
+              },
+              {
+                "w": "moved",
+                "t": 10333.0,
+                "d": 366.0
+              },
+              {
+                "w": "more",
+                "t": 10700.0,
+                "d": 322.0
+              },
+              {
+                "w": "discreetly",
+                "t": 11022.0,
+                "d": 689.0
+              },
+              {
+                "w": "through",
+                "t": 11712.0,
+                "d": 320.0
+              },
+              {
+                "w": "Calcutta's",
+                "t": 12033.0,
+                "d": 506.0
+              },
+              {
+                "w": "accounts",
+                "t": 12540.0,
+                "d": 734.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p09.png",
+      "shot": "wide jungle clearing with neat tea rows in Assam",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He turned to Assam tea, betting that the British thirst for this new Indian crop would grow. His capital entered plantations that remade forests into fields, and people into plantation labour.",
+            "hi": "वह असम की चाय की तरफ़ मुड़ा, मानकर कि अंग्रेज़ों की प्यास इस नए हिंदुस्तानी पौधे के लिए बढ़ती ही जाएगी। उसकी पूँजी उन बागानों में उतरी, जो जंगलों को खेतों में, और लोगों को बागान मज़दूरों में बदल रहे थे।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p09_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 127.0
+              },
+              {
+                "w": "turned",
+                "t": 202.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 585.0,
+                "d": 212.0
+              },
+              {
+                "w": "Assam",
+                "t": 797.0,
+                "d": 468.0
+              },
+              {
+                "w": "tea",
+                "t": 1265.0,
+                "d": 340.0
+              },
+              {
+                "w": "betting",
+                "t": 2031.0,
+                "d": 467.0
+              },
+              {
+                "w": "that",
+                "t": 2498.0,
+                "d": 171.0
+              },
+              {
+                "w": "the",
+                "t": 2670.0,
+                "d": 127.0
+              },
+              {
+                "w": "British",
+                "t": 2797.0,
+                "d": 425.0
+              },
+              {
+                "w": "thirst",
+                "t": 3223.0,
+                "d": 638.0
+              },
+              {
+                "w": "for",
+                "t": 3861.0,
+                "d": 211.0
+              },
+              {
+                "w": "this",
+                "t": 4073.0,
+                "d": 213.0
+              },
+              {
+                "w": "new",
+                "t": 4287.0,
+                "d": 297.0
+              },
+              {
+                "w": "Indian",
+                "t": 4585.0,
+                "d": 425.0
+              },
+              {
+                "w": "crop",
+                "t": 5010.0,
+                "d": 255.0
+              },
+              {
+                "w": "would",
+                "t": 5265.0,
+                "d": 255.0
+              },
+              {
+                "w": "grow",
+                "t": 5521.0,
+                "d": 468.0
+              },
+              {
+                "w": "His",
+                "t": 6372.0,
+                "d": 297.0
+              },
+              {
+                "w": "capital",
+                "t": 6670.0,
+                "d": 510.0
+              },
+              {
+                "w": "entered",
+                "t": 7180.0,
+                "d": 425.0
+              },
+              {
+                "w": "plantations",
+                "t": 7606.0,
+                "d": 723.0
+              },
+              {
+                "w": "that",
+                "t": 8329.0,
+                "d": 254.0
+              },
+              {
+                "w": "remade",
+                "t": 8584.0,
+                "d": 425.0
+              },
+              {
+                "w": "forests",
+                "t": 9009.0,
+                "d": 554.0
+              },
+              {
+                "w": "into",
+                "t": 9563.0,
+                "d": 254.0
+              },
+              {
+                "w": "fields",
+                "t": 9818.0,
+                "d": 809.0
+              },
+              {
+                "w": "and",
+                "t": 10840.0,
+                "d": 296.0
+              },
+              {
+                "w": "people",
+                "t": 11137.0,
+                "d": 426.0
+              },
+              {
+                "w": "into",
+                "t": 11563.0,
+                "d": 296.0
+              },
+              {
+                "w": "plantation",
+                "t": 11860.0,
+                "d": 595.0
+              },
+              {
+                "w": "labour",
+                "t": 12456.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p10.png",
+      "shot": "elevated interior wide of Calcutta Medical College hall",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "His wealth did not remain only in commerce. He funded reform causes and supported Calcutta Medical College, seeing Western education as a force that could reshape Bengali society.",
+            "hi": "उसकी दौलत सिर्फ़ व्यापार में नहीं अटकी रही। उसने सुधारी आंदोलनों को धन दिया और कलकत्ता मेडिकल कॉलेज को सहारा, पश्चिमी शिक्षा को ऐसी ताक़त मानते हुए जो बंगाली समाज को पलट सकती है।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p10_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "His",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "wealth",
+                "t": 372.0,
+                "d": 340.0
+              },
+              {
+                "w": "did",
+                "t": 712.0,
+                "d": 255.0
+              },
+              {
+                "w": "not",
+                "t": 968.0,
+                "d": 255.0
+              },
+              {
+                "w": "remain",
+                "t": 1223.0,
+                "d": 425.0
+              },
+              {
+                "w": "only",
+                "t": 1691.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 2117.0,
+                "d": 212.0
+              },
+              {
+                "w": "commerce",
+                "t": 2329.0,
+                "d": 595.0
+              },
+              {
+                "w": "He",
+                "t": 3605.0,
+                "d": 256.0
+              },
+              {
+                "w": "funded",
+                "t": 3861.0,
+                "d": 425.0
+              },
+              {
+                "w": "reform",
+                "t": 4287.0,
+                "d": 425.0
+              },
+              {
+                "w": "causes",
+                "t": 4712.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 5351.0,
+                "d": 212.0
+              },
+              {
+                "w": "supported",
+                "t": 5563.0,
+                "d": 553.0
+              },
+              {
+                "w": "Calcutta",
+                "t": 6117.0,
+                "d": 468.0
+              },
+              {
+                "w": "Medical",
+                "t": 6585.0,
+                "d": 425.0
+              },
+              {
+                "w": "College",
+                "t": 7010.0,
+                "d": 936.0
+              },
+              {
+                "w": "seeing",
+                "t": 8031.0,
+                "d": 425.0
+              },
+              {
+                "w": "Western",
+                "t": 8457.0,
+                "d": 425.0
+              },
+              {
+                "w": "education",
+                "t": 8882.0,
+                "d": 680.0
+              },
+              {
+                "w": "as",
+                "t": 9606.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 9776.0,
+                "d": 85.0
+              },
+              {
+                "w": "force",
+                "t": 9861.0,
+                "d": 467.0
+              },
+              {
+                "w": "that",
+                "t": 10328.0,
+                "d": 213.0
+              },
+              {
+                "w": "could",
+                "t": 10542.0,
+                "d": 212.0
+              },
+              {
+                "w": "reshape",
+                "t": 10755.0,
+                "d": 467.0
+              },
+              {
+                "w": "Bengali",
+                "t": 11222.0,
+                "d": 469.0
+              },
+              {
+                "w": "society",
+                "t": 11691.0,
+                "d": 764.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p11.png",
+      "shot": "quiet mid-shot in a reformist salon",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He moved in reform circles that would later be called the Bengal Renaissance. Commerce bought him influence; influence let him back campaigns for change, even as his income came from colonial circuits.",
+            "hi": "वह उन सुधार मंडलियों में घूमता था जिन्हें बाद में बंगाल रेनैसाँ कहा गया। व्यापार ने उसे रौब दिया; रौब ने उसे बदलाव की मुहिमों के साथ खड़े होने का दम दिया—भले उसकी आमदनी औपनिवेशिक धंधों से आती रही।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p11_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "moved",
+                "t": 244.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 585.0,
+                "d": 85.0
+              },
+              {
+                "w": "reform",
+                "t": 670.0,
+                "d": 468.0
+              },
+              {
+                "w": "circles",
+                "t": 1138.0,
+                "d": 553.0
+              },
+              {
+                "w": "that",
+                "t": 1691.0,
+                "d": 170.0
+              },
+              {
+                "w": "would",
+                "t": 1861.0,
+                "d": 212.0
+              },
+              {
+                "w": "later",
+                "t": 2074.0,
+                "d": 340.0
+              },
+              {
+                "w": "be",
+                "t": 2414.0,
+                "d": 169.0
+              },
+              {
+                "w": "called",
+                "t": 2584.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 3137.0,
+                "d": 256.0
+              },
+              {
+                "w": "Bengal",
+                "t": 3393.0,
+                "d": 425.0
+              },
+              {
+                "w": "Renaissance",
+                "t": 3819.0,
+                "d": 808.0
+              },
+              {
+                "w": "Commerce",
+                "t": 5223.0,
+                "d": 468.0
+              },
+              {
+                "w": "bought",
+                "t": 5691.0,
+                "d": 255.0
+              },
+              {
+                "w": "him",
+                "t": 5946.0,
+                "d": 170.0
+              },
+              {
+                "w": "influence",
+                "t": 6117.0,
+                "d": 808.0
+              },
+              {
+                "w": "influence",
+                "t": 7223.0,
+                "d": 638.0
+              },
+              {
+                "w": "let",
+                "t": 7861.0,
+                "d": 212.0
+              },
+              {
+                "w": "him",
+                "t": 8074.0,
+                "d": 212.0
+              },
+              {
+                "w": "back",
+                "t": 8287.0,
+                "d": 296.0
+              },
+              {
+                "w": "campaigns",
+                "t": 8584.0,
+                "d": 469.0
+              },
+              {
+                "w": "for",
+                "t": 9053.0,
+                "d": 170.0
+              },
+              {
+                "w": "change",
+                "t": 9223.0,
+                "d": 764.0
+              },
+              {
+                "w": "even",
+                "t": 10117.0,
+                "d": 340.0
+              },
+              {
+                "w": "as",
+                "t": 10457.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 10585.0,
+                "d": 211.0
+              },
+              {
+                "w": "income",
+                "t": 10796.0,
+                "d": 469.0
+              },
+              {
+                "w": "came",
+                "t": 11265.0,
+                "d": 255.0
+              },
+              {
+                "w": "from",
+                "t": 11521.0,
+                "d": 254.0
+              },
+              {
+                "w": "colonial",
+                "t": 11775.0,
+                "d": 510.0
+              },
+              {
+                "w": "circuits",
+                "t": 12286.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p12.png",
+      "shot": "dramatic wide shot of Calcutta with European and Indian quarters",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He was praised as a pioneering Indian entrepreneur within the British system, yet every rupee of profit was entangled in the structures of the Company's rule and global trade.",
+            "hi": "उसे अंग्रेज़ी ढांचे के भीतर अग्रणी हिंदुस्तानी उद्योगपति कहा गया, पर उसका हर रुपया कंपनी के राज और वैश्विक व्यापार की गांठों में उलझा हुआ था।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p12_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "was",
+                "t": 244.0,
+                "d": 255.0
+              },
+              {
+                "w": "praised",
+                "t": 500.0,
+                "d": 382.0
+              },
+              {
+                "w": "as",
+                "t": 882.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 1095.0,
+                "d": 170.0
+              },
+              {
+                "w": "pioneering",
+                "t": 1265.0,
+                "d": 680.0
+              },
+              {
+                "w": "Indian",
+                "t": 1946.0,
+                "d": 468.0
+              },
+              {
+                "w": "entrepreneur",
+                "t": 2414.0,
+                "d": 552.0
+              },
+              {
+                "w": "within",
+                "t": 2967.0,
+                "d": 723.0
+              },
+              {
+                "w": "the",
+                "t": 3690.0,
+                "d": 128.0
+              },
+              {
+                "w": "British",
+                "t": 3819.0,
+                "d": 381.0
+              },
+              {
+                "w": "system",
+                "t": 4201.0,
+                "d": 937.0
+              },
+              {
+                "w": "yet",
+                "t": 5223.0,
+                "d": 382.0
+              },
+              {
+                "w": "every",
+                "t": 5648.0,
+                "d": 382.0
+              },
+              {
+                "w": "rupee",
+                "t": 6031.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 6329.0,
+                "d": 212.0
+              },
+              {
+                "w": "profit",
+                "t": 6542.0,
+                "d": 595.0
+              },
+              {
+                "w": "was",
+                "t": 7180.0,
+                "d": 255.0
+              },
+              {
+                "w": "entangled",
+                "t": 7436.0,
+                "d": 723.0
+              },
+              {
+                "w": "in",
+                "t": 8159.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 8287.0,
+                "d": 127.0
+              },
+              {
+                "w": "structures",
+                "t": 8414.0,
+                "d": 509.0
+              },
+              {
+                "w": "of",
+                "t": 8924.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 9009.0,
+                "d": 128.0
+              },
+              {
+                "w": "Company's",
+                "t": 9138.0,
+                "d": 509.0
+              },
+              {
+                "w": "rule",
+                "t": 9647.0,
+                "d": 469.0
+              },
+              {
+                "w": "and",
+                "t": 10202.0,
+                "d": 425.0
+              },
+              {
+                "w": "global",
+                "t": 10627.0,
+                "d": 382.0
+              },
+              {
+                "w": "trade",
+                "t": 11010.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p13.png",
+      "shot": "somber mid-shot of Dwarkanath studying balance sheets",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By the eighteen forties, his network had grown vast, and complex. Coal, tea, indigo, shipping and opium profits depended on changing markets, British policies, and credit that could tighten or vanish.",
+            "hi": "१८४० के दशक तक उसका जाल बहुत बड़ा—और उलझा हुआ हो चुका था। कोयला, चाय, नील, जहाज़रानी और अफ़ीम के मुनाफ़े बदलते बाज़ारों, ब्रिटिश नीतियों और उस उधार पर टिके थे जो कभी कस सकता था, कभी गायब हो सकता था।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p13_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 110.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 120.0
+              },
+              {
+                "w": "eighteen",
+                "t": 430.0,
+                "d": 440.0
+              },
+              {
+                "w": "forties",
+                "t": 870.0,
+                "d": 720.0
+              },
+              {
+                "w": "his",
+                "t": 1630.0,
+                "d": 240.0
+              },
+              {
+                "w": "network",
+                "t": 1870.0,
+                "d": 439.0
+              },
+              {
+                "w": "had",
+                "t": 2309.0,
+                "d": 201.0
+              },
+              {
+                "w": "grown",
+                "t": 2510.0,
+                "d": 279.0
+              },
+              {
+                "w": "vast",
+                "t": 2789.0,
+                "d": 721.0
+              },
+              {
+                "w": "and",
+                "t": 3510.0,
+                "d": 279.0
+              },
+              {
+                "w": "complex",
+                "t": 3789.0,
+                "d": 881.0
+              },
+              {
+                "w": "Coal",
+                "t": 4990.0,
+                "d": 560.0
+              },
+              {
+                "w": "tea",
+                "t": 5750.0,
+                "d": 400.0
+              },
+              {
+                "w": "indigo",
+                "t": 6350.0,
+                "d": 800.0
+              },
+              {
+                "w": "shipping",
+                "t": 7230.0,
+                "d": 760.0
+              },
+              {
+                "w": "and",
+                "t": 8029.0,
+                "d": 280.0
+              },
+              {
+                "w": "opium",
+                "t": 8350.0,
+                "d": 440.0
+              },
+              {
+                "w": "profits",
+                "t": 8790.0,
+                "d": 480.0
+              },
+              {
+                "w": "depended",
+                "t": 9270.0,
+                "d": 480.0
+              },
+              {
+                "w": "on",
+                "t": 9750.0,
+                "d": 160.0
+              },
+              {
+                "w": "changing",
+                "t": 9910.0,
+                "d": 479.0
+              },
+              {
+                "w": "markets",
+                "t": 10389.0,
+                "d": 801.0
+              },
+              {
+                "w": "British",
+                "t": 11549.0,
+                "d": 441.0
+              },
+              {
+                "w": "policies",
+                "t": 11990.0,
+                "d": 760.0
+              },
+              {
+                "w": "and",
+                "t": 12830.0,
+                "d": 360.0
+              },
+              {
+                "w": "credit",
+                "t": 13190.0,
+                "d": 680.0
+              },
+              {
+                "w": "that",
+                "t": 13950.0,
+                "d": 240.0
+              },
+              {
+                "w": "could",
+                "t": 14190.0,
+                "d": 279.0
+              },
+              {
+                "w": "tighten",
+                "t": 14469.0,
+                "d": 680.0
+              },
+              {
+                "w": "or",
+                "t": 15190.0,
+                "d": 240.0
+              },
+              {
+                "w": "vanish",
+                "t": 15430.0,
+                "d": 720.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/dwarkanath_s_smokestacks_and_ships/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/dwarkanath_s_smokestacks_and_ships/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Surrounded by mounting figures, he refuses retreat, wagering reputation and fortune on an industrial future few can see.",
+            "hi": "चारों तरफ गिनती बढ़ती जाए, पर वो पीछे हटने से इनकार, इज़्ज़त और दौलत दांव पर, उस औद्योगिक भविष्य पर जिसे कोई नहीं देख पा रहा।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/action/action_auto2_en.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Surrounded",
+                "t": 80.0,
+                "d": 689.0
+              },
+              {
+                "w": "by",
+                "t": 770.0,
+                "d": 183.0
+              },
+              {
+                "w": "mounting",
+                "t": 954.0,
+                "d": 459.0
+              },
+              {
+                "w": "figures",
+                "t": 1413.0,
+                "d": 781.0
+              },
+              {
+                "w": "he",
+                "t": 2287.0,
+                "d": 321.0
+              },
+              {
+                "w": "refuses",
+                "t": 2609.0,
+                "d": 551.0
+              },
+              {
+                "w": "retreat",
+                "t": 3160.0,
+                "d": 780.0
+              },
+              {
+                "w": "wagering",
+                "t": 4539.0,
+                "d": 644.0
+              },
+              {
+                "w": "reputation",
+                "t": 5183.0,
+                "d": 1057.0
+              },
+              {
+                "w": "and",
+                "t": 6287.0,
+                "d": 321.0
+              },
+              {
+                "w": "fortune",
+                "t": 6609.0,
+                "d": 873.0
+              },
+              {
+                "w": "on",
+                "t": 7528.0,
+                "d": 321.0
+              },
+              {
+                "w": "an",
+                "t": 7850.0,
+                "d": 137.0
+              },
+              {
+                "w": "industrial",
+                "t": 7988.0,
+                "d": 689.0
+              },
+              {
+                "w": "future",
+                "t": 8678.0,
+                "d": 1240.0
+              },
+              {
+                "w": "few",
+                "t": 9918.0,
+                "d": 368.0
+              },
+              {
+                "w": "can",
+                "t": 10287.0,
+                "d": 183.0
+              },
+              {
+                "w": "see",
+                "t": 10471.0,
+                "d": 367.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p14.png",
+      "shot": "elegant interior shot of a London drawing room",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He traveled to Britain, moving through London's salons as an Indian capitalist versed in imperial commerce. The London Mail later remembered him as a notable figure in Anglo-Indian enterprise.",
+            "hi": "वह ब्रिटेन गया, लंदन के सैलूनों में एक हिंदुस्तानी पूँजीपति की तरह घूमता, जो साम्राज्य के व्यापार में माहिर था। लंदन मेल ने बाद में उसे एंग्लो–इंडियन व्यापार की बड़ी शख़्सियत के रूप में याद किया।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p14_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "traveled",
+                "t": 287.0,
+                "d": 425.0
+              },
+              {
+                "w": "to",
+                "t": 712.0,
+                "d": 127.0
+              },
+              {
+                "w": "Britain",
+                "t": 840.0,
+                "d": 638.0
+              },
+              {
+                "w": "moving",
+                "t": 1563.0,
+                "d": 510.0
+              },
+              {
+                "w": "through",
+                "t": 2074.0,
+                "d": 340.0
+              },
+              {
+                "w": "London's",
+                "t": 2414.0,
+                "d": 340.0
+              },
+              {
+                "w": "salons",
+                "t": 2755.0,
+                "d": 764.0
+              },
+              {
+                "w": "as",
+                "t": 3562.0,
+                "d": 341.0
+              },
+              {
+                "w": "an",
+                "t": 3904.0,
+                "d": 126.0
+              },
+              {
+                "w": "Indian",
+                "t": 4030.0,
+                "d": 469.0
+              },
+              {
+                "w": "capitalist",
+                "t": 4500.0,
+                "d": 808.0
+              },
+              {
+                "w": "versed",
+                "t": 5351.0,
+                "d": 553.0
+              },
+              {
+                "w": "in",
+                "t": 5904.0,
+                "d": 255.0
+              },
+              {
+                "w": "imperial",
+                "t": 6159.0,
+                "d": 595.0
+              },
+              {
+                "w": "commerce",
+                "t": 6755.0,
+                "d": 595.0
+              },
+              {
+                "w": "The",
+                "t": 8329.0,
+                "d": 254.0
+              },
+              {
+                "w": "London",
+                "t": 8584.0,
+                "d": 425.0
+              },
+              {
+                "w": "Mail",
+                "t": 9009.0,
+                "d": 298.0
+              },
+              {
+                "w": "later",
+                "t": 9308.0,
+                "d": 509.0
+              },
+              {
+                "w": "remembered",
+                "t": 9946.0,
+                "d": 680.0
+              },
+              {
+                "w": "him",
+                "t": 10627.0,
+                "d": 382.0
+              },
+              {
+                "w": "as",
+                "t": 11052.0,
+                "d": 298.0
+              },
+              {
+                "w": "a",
+                "t": 11351.0,
+                "d": 41.0
+              },
+              {
+                "w": "notable",
+                "t": 11392.0,
+                "d": 553.0
+              },
+              {
+                "w": "figure",
+                "t": 11945.0,
+                "d": 469.0
+              },
+              {
+                "w": "in",
+                "t": 12456.0,
+                "d": 213.0
+              },
+              {
+                "w": "Anglo-Indian",
+                "t": 12712.0,
+                "d": 680.0
+              },
+              {
+                "w": "enterprise",
+                "t": 13393.0,
+                "d": 978.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/dwarkanath_s_smokestacks_and_ships/split_auto/s0.png",
+          "slogan": {
+            "en": "Industry will bridge our worlds",
+            "hi": "उद्योग हमारी दुनियाओं को जोड़ेगा"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/dwarkanath_s_smokestacks_and_ships/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/dwarkanath_s_smokestacks_and_ships/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Between Calcutta and London, his ventures blaze briefly, carving paths that outlive both his body and his fragile balance sheets.",
+            "hi": "कलकत्ता से लंदन तक उसकी सौदेबाज़ियाँ धधकती हैं, देह और घाटे दोनों से ज़्यादा टिकने वाले रास्ते तराशती हुई।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/split/split_auto_en.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Between",
+                "t": 114.0,
+                "d": 416.0
+              },
+              {
+                "w": "Calcutta",
+                "t": 531.0,
+                "d": 458.0
+              },
+              {
+                "w": "and",
+                "t": 989.0,
+                "d": 375.0
+              },
+              {
+                "w": "London",
+                "t": 1364.0,
+                "d": 833.0
+              },
+              {
+                "w": "his",
+                "t": 2322.0,
+                "d": 291.0
+              },
+              {
+                "w": "ventures",
+                "t": 2614.0,
+                "d": 541.0
+              },
+              {
+                "w": "blaze",
+                "t": 3156.0,
+                "d": 415.0
+              },
+              {
+                "w": "briefly",
+                "t": 3571.0,
+                "d": 959.0
+              },
+              {
+                "w": "carving",
+                "t": 4739.0,
+                "d": 500.0
+              },
+              {
+                "w": "paths",
+                "t": 5239.0,
+                "d": 416.0
+              },
+              {
+                "w": "that",
+                "t": 5656.0,
+                "d": 291.0
+              },
+              {
+                "w": "outlive",
+                "t": 5947.0,
+                "d": 583.0
+              },
+              {
+                "w": "both",
+                "t": 6531.0,
+                "d": 291.0
+              },
+              {
+                "w": "his",
+                "t": 6822.0,
+                "d": 166.0
+              },
+              {
+                "w": "body",
+                "t": 6989.0,
+                "d": 708.0
+              },
+              {
+                "w": "and",
+                "t": 7697.0,
+                "d": 416.0
+              },
+              {
+                "w": "his",
+                "t": 8114.0,
+                "d": 166.0
+              },
+              {
+                "w": "fragile",
+                "t": 8281.0,
+                "d": 540.0
+              },
+              {
+                "w": "balance",
+                "t": 8821.0,
+                "d": 376.0
+              },
+              {
+                "w": "sheets",
+                "t": 9197.0,
+                "d": 625.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p15.png",
+      "shot": "intimate close-up of Dwarkanath reclining, looking unwell",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In August eighteen forty-six, far from Jorasanko, he died in London. His obituary in The London Mail marked the passing of a man whose life had tied Calcutta's fortunes to Britain's expanding power.",
+            "hi": "अगस्त १८४६ में, जोरा संको से बहुत दूर, उसकी मौत लंदन में हुई। लंदन मेल के शोक लेख ने उस आदमी के जाने को दर्ज किया, जिसकी ज़िंदगी ने कलकत्ता की किस्मत को बढ़ती ब्रिटिश ताक़त से बाँध दिया था।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p15_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "August",
+                "t": 329.0,
+                "d": 382.0
+              },
+              {
+                "w": "eighteen",
+                "t": 712.0,
+                "d": 425.0
+              },
+              {
+                "w": "forty-six",
+                "t": 1138.0,
+                "d": 723.0
+              },
+              {
+                "w": "far",
+                "t": 2372.0,
+                "d": 340.0
+              },
+              {
+                "w": "from",
+                "t": 2712.0,
+                "d": 254.0
+              },
+              {
+                "w": "Jorasanko",
+                "t": 2967.0,
+                "d": 1022.0
+              },
+              {
+                "w": "he",
+                "t": 4073.0,
+                "d": 213.0
+              },
+              {
+                "w": "died",
+                "t": 4287.0,
+                "d": 1021.0
+              },
+              {
+                "w": "in",
+                "t": 5351.0,
+                "d": 85.0
+              },
+              {
+                "w": "London",
+                "t": 5521.0,
+                "d": 255.0
+              },
+              {
+                "w": "His",
+                "t": 6117.0,
+                "d": 382.0
+              },
+              {
+                "w": "obituary",
+                "t": 6500.0,
+                "d": 638.0
+              },
+              {
+                "w": "in",
+                "t": 7138.0,
+                "d": 85.0
+              },
+              {
+                "w": "The",
+                "t": 7223.0,
+                "d": 170.0
+              },
+              {
+                "w": "London",
+                "t": 7393.0,
+                "d": 382.0
+              },
+              {
+                "w": "Mail",
+                "t": 7776.0,
+                "d": 595.0
+              },
+              {
+                "w": "marked",
+                "t": 8372.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 8797.0,
+                "d": 170.0
+              },
+              {
+                "w": "passing",
+                "t": 8968.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 9351.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 9521.0,
+                "d": 42.0
+              },
+              {
+                "w": "man",
+                "t": 9563.0,
+                "d": 638.0
+              },
+              {
+                "w": "whose",
+                "t": 10328.0,
+                "d": 298.0
+              },
+              {
+                "w": "life",
+                "t": 10627.0,
+                "d": 382.0
+              },
+              {
+                "w": "had",
+                "t": 11010.0,
+                "d": 170.0
+              },
+              {
+                "w": "tied",
+                "t": 11180.0,
+                "d": 382.0
+              },
+              {
+                "w": "Calcutta's",
+                "t": 11563.0,
+                "d": 595.0
+              },
+              {
+                "w": "fortunes",
+                "t": 12159.0,
+                "d": 850.0
+              },
+              {
+                "w": "to",
+                "t": 13053.0,
+                "d": 211.0
+              },
+              {
+                "w": "Britain's",
+                "t": 13264.0,
+                "d": 469.0
+              },
+              {
+                "w": "expanding",
+                "t": 13734.0,
+                "d": 764.0
+              },
+              {
+                "w": "power",
+                "t": 14498.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p16.png",
+      "shot": "somber wide shot of shuttered offices in Calcutta",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Soon after his death, his commercial empire faltered. Carr, Tagore and Company collapsed, and the fortune his sons might have inherited dissolved into debt and disputed assets.",
+            "hi": "उसकी मौत के कुछ ही समय बाद उसका कारोबारी साम्राज्य डगमगाने लगा। कैर, ठाकुर एंड कंपनी ढह गई, और जो दौलत उसके बेटों को मिल सकती थी वह क़र्ज़ और झगड़े वाले संपत्तियों में घुल गई।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p16_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Soon",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "after",
+                "t": 457.0,
+                "d": 297.0
+              },
+              {
+                "w": "his",
+                "t": 755.0,
+                "d": 212.0
+              },
+              {
+                "w": "death",
+                "t": 968.0,
+                "d": 510.0
+              },
+              {
+                "w": "his",
+                "t": 1563.0,
+                "d": 297.0
+              },
+              {
+                "w": "commercial",
+                "t": 1861.0,
+                "d": 553.0
+              },
+              {
+                "w": "empire",
+                "t": 2414.0,
+                "d": 510.0
+              },
+              {
+                "w": "faltered",
+                "t": 2925.0,
+                "d": 808.0
+              },
+              {
+                "w": "Carr",
+                "t": 3989.0,
+                "d": 595.0
+              },
+              {
+                "w": "Tagore",
+                "t": 4712.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 5223.0,
+                "d": 255.0
+              },
+              {
+                "w": "Company",
+                "t": 5478.0,
+                "d": 425.0
+              },
+              {
+                "w": "collapsed",
+                "t": 5904.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 6840.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 7138.0,
+                "d": 127.0
+              },
+              {
+                "w": "fortune",
+                "t": 7265.0,
+                "d": 425.0
+              },
+              {
+                "w": "his",
+                "t": 7691.0,
+                "d": 127.0
+              },
+              {
+                "w": "sons",
+                "t": 7819.0,
+                "d": 638.0
+              },
+              {
+                "w": "might",
+                "t": 8541.0,
+                "d": 341.0
+              },
+              {
+                "w": "have",
+                "t": 8882.0,
+                "d": 211.0
+              },
+              {
+                "w": "inherited",
+                "t": 9094.0,
+                "d": 596.0
+              },
+              {
+                "w": "dissolved",
+                "t": 9691.0,
+                "d": 637.0
+              },
+              {
+                "w": "into",
+                "t": 10328.0,
+                "d": 382.0
+              },
+              {
+                "w": "debt",
+                "t": 10711.0,
+                "d": 469.0
+              },
+              {
+                "w": "and",
+                "t": 11265.0,
+                "d": 255.0
+              },
+              {
+                "w": "disputed",
+                "t": 11521.0,
+                "d": 553.0
+              },
+              {
+                "w": "assets",
+                "t": 12074.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p17.png",
+      "shot": "reflective montage wide showing coalfields, river steamers and tea gardens fading",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Historians now place him as both a pioneering Indian investor in industry and transport, and a partner in the Company's exploitative circuits of land, labour and opium.",
+            "hi": "इतिहासकार आज उसे एक साथ उद्योग और यातायात में अग्रणी हिंदुस्तानी निवेशक, और कंपनी के ज़मीन, मज़दूर और अफ़ीम पर टिकी शोषक परिपथों के साथी के रूप में देखते हैं।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p17_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Historians",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "now",
+                "t": 840.0,
+                "d": 297.0
+              },
+              {
+                "w": "place",
+                "t": 1138.0,
+                "d": 297.0
+              },
+              {
+                "w": "him",
+                "t": 1436.0,
+                "d": 340.0
+              },
+              {
+                "w": "as",
+                "t": 1776.0,
+                "d": 255.0
+              },
+              {
+                "w": "both",
+                "t": 2031.0,
+                "d": 424.0
+              },
+              {
+                "w": "a",
+                "t": 2498.0,
+                "d": 213.0
+              },
+              {
+                "w": "pioneering",
+                "t": 2712.0,
+                "d": 723.0
+              },
+              {
+                "w": "Indian",
+                "t": 3436.0,
+                "d": 382.0
+              },
+              {
+                "w": "investor",
+                "t": 3819.0,
+                "d": 723.0
+              },
+              {
+                "w": "in",
+                "t": 4542.0,
+                "d": 170.0
+              },
+              {
+                "w": "industry",
+                "t": 4712.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 5436.0,
+                "d": 297.0
+              },
+              {
+                "w": "transport",
+                "t": 5734.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 6287.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 6670.0,
+                "d": 382.0
+              },
+              {
+                "w": "partner",
+                "t": 7053.0,
+                "d": 553.0
+              },
+              {
+                "w": "in",
+                "t": 7606.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 7691.0,
+                "d": 127.0
+              },
+              {
+                "w": "Company's",
+                "t": 7819.0,
+                "d": 595.0
+              },
+              {
+                "w": "exploitative",
+                "t": 8414.0,
+                "d": 850.0
+              },
+              {
+                "w": "circuits",
+                "t": 9264.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 9861.0,
+                "d": 255.0
+              },
+              {
+                "w": "land",
+                "t": 10117.0,
+                "d": 594.0
+              },
+              {
+                "w": "labour",
+                "t": 10755.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 11478.0,
+                "d": 296.0
+              },
+              {
+                "w": "opium",
+                "t": 11819.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/dwarkanath_s_smokestacks_and_ships/img/p18.png",
+      "shot": "quiet close-up of Dwarkanath’s portrait in a dim Jorasanko room",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Dwarkanath Tagore's smokestacks and ships remind us that enterprise can open doors and fund learning, yet when built within unjust systems, it leaves behind a restless, troubled inheritance.",
+            "hi": "द्वारकानाथ ठाकुर की धुआँ उड़ाती फैक्ट्रियाँ और जहाज़ याद दिलाते हैं कि कारोबार दरवाज़े खोल सकता है और सीखने को धन दे सकता है, पर अगर वह नाइंसाफ़ी के ढांचे में बना हो तो पीछे बेचैन, उलझी हुई विरासत छोड़ जाता है।"
+          },
+          "audio": {
+            "en": "assets/dwarkanath_s_smokestacks_and_ships/audio/en/p18_0.mp3",
+            "hi": "assets/dwarkanath_s_smokestacks_and_ships/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Dwarkanath",
+                "t": 126.0,
+                "d": 873.0
+              },
+              {
+                "w": "Tagore's",
+                "t": 1000.0,
+                "d": 505.0
+              },
+              {
+                "w": "smokestacks",
+                "t": 1505.0,
+                "d": 643.0
+              },
+              {
+                "w": "and",
+                "t": 2149.0,
+                "d": 137.0
+              },
+              {
+                "w": "ships",
+                "t": 2287.0,
+                "d": 412.0
+              },
+              {
+                "w": "remind",
+                "t": 2700.0,
+                "d": 460.0
+              },
+              {
+                "w": "us",
+                "t": 3160.0,
+                "d": 228.0
+              },
+              {
+                "w": "that",
+                "t": 3389.0,
+                "d": 231.0
+              },
+              {
+                "w": "enterprise",
+                "t": 3666.0,
+                "d": 643.0
+              },
+              {
+                "w": "can",
+                "t": 4310.0,
+                "d": 228.0
+              },
+              {
+                "w": "open",
+                "t": 4585.0,
+                "d": 460.0
+              },
+              {
+                "w": "doors",
+                "t": 5045.0,
+                "d": 367.0
+              },
+              {
+                "w": "and",
+                "t": 5413.0,
+                "d": 275.0
+              },
+              {
+                "w": "fund",
+                "t": 5689.0,
+                "d": 321.0
+              },
+              {
+                "w": "learning",
+                "t": 6011.0,
+                "d": 965.0
+              },
+              {
+                "w": "yet",
+                "t": 7114.0,
+                "d": 459.0
+              },
+              {
+                "w": "when",
+                "t": 7620.0,
+                "d": 229.0
+              },
+              {
+                "w": "built",
+                "t": 7850.0,
+                "d": 367.0
+              },
+              {
+                "w": "within",
+                "t": 8218.0,
+                "d": 413.0
+              },
+              {
+                "w": "unjust",
+                "t": 8632.0,
+                "d": 642.0
+              },
+              {
+                "w": "systems",
+                "t": 9274.0,
+                "d": 828.0
+              },
+              {
+                "w": "it",
+                "t": 10195.0,
+                "d": 367.0
+              },
+              {
+                "w": "leaves",
+                "t": 10563.0,
+                "d": 320.0
+              },
+              {
+                "w": "behind",
+                "t": 10883.0,
+                "d": 460.0
+              },
+              {
+                "w": "a",
+                "t": 11344.0,
+                "d": 137.0
+              },
+              {
+                "w": "restless",
+                "t": 11482.0,
+                "d": 919.0
+              },
+              {
+                "w": "troubled",
+                "t": 12494.0,
+                "d": 459.0
+              },
+              {
+                "w": "inheritance",
+                "t": 12954.0,
+                "d": 1102.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Dwarkanath Tagore",
+    "epithets": [
+      "Prince Dwarkanath Tagore",
+      "Calcutta’s merchant prince",
+      "Pioneer of Indian industry",
+      "Partner of the British Raj"
+    ],
+    "legend": "He lit India’s smokestacks and fed an empire’s hunger for profit."
+  }
+}
