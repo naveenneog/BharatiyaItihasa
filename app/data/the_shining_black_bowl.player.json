@@ -1,3517 +1,3517 @@
 {
-  "id": "the_shining_black_bowl",
-  "title": "The Shining Black Bowl",
-  "title_i18n": {
-    "en": "The Shining Black Bowl",
-    "hi": "दमकता काला कटोरा"
-  },
-  "figure": "Northern Black Polished Ware Artisans",
-  "era": "Second urbanization craft culture, c. 700-200 BCE, peak c. 500-300 BCE",
-  "moral": "Sometimes a civilization's change survives as a surface sheen.",
-  "langs": [
-    "en",
-    "hi"
-  ],
-  "panels": [
+ "id": "the_shining_black_bowl",
+ "title": "The Shining Black Bowl",
+ "title_i18n": {
+  "en": "The Shining Black Bowl",
+  "hi": "दमकता काला कटोरा"
+ },
+ "figure": "Northern Black Polished Ware Artisans",
+ "era": "Second urbanization craft culture, c. 700-200 BCE, peak c. 500-300 BCE",
+ "moral": "Sometimes a civilization's change survives as a surface sheen.",
+ "langs": [
+  "en",
+  "hi"
+ ],
+ "panels": [
+  {
+   "id": "intro_hero",
+   "type": "hero",
+   "mood": "triumph",
+   "art": "assets/the_shining_black_bowl/intro/hero.png",
+   "name": "The Black-Polished-Ware Potters",
+   "epithets": [
+    "Makers of the mirror-dark bowls",
+    "Kiln-masters of the second urbanization",
+    "Artisans of the mahajanapada cities",
+    "A shining signature of the age"
+   ],
+   "legend": "They turned village clay into the shining mark of new cities.",
+   "era": "Second urbanization craft culture, c. 700-200 BCE, peak c. 500-300 BCE",
+   "lines": [
     {
-      "id": "intro_hero",
-      "type": "hero",
-      "mood": "triumph",
-      "art": "assets/the_shining_black_bowl/intro/hero.png",
-      "name": "Northern Black Polished Ware Potter",
-      "epithets": [
-        "Makers of Northern Black Polished Ware",
-        "Masters of mirror-dark pottery",
-        "Kiln-smiths of the mahajanapadas",
-        "City-age clay artisans"
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "In quiet kiln yards, unknown hands fire simple clay into mirror-dark bowls that only elites can touch, if one cracks, does the city's new glory crack with it?",
+      "hi": "शांत भट्ठीघरों में, गुमनाम हाथ साधी मिट्टी से काली दर्पण कटोरियाँ गढ़ते हैं, जिन्हें छूने की इजाज़त सिर्फ़ रईसों को है, पर अगर एक भी दरक गई… क्या शहर की नई शान भी दरक जाएगी?"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/intro/hero_en.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/intro/hero_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "In",
+        "t": 72.0,
+        "d": 250.0
+       },
+       {
+        "w": "quiet",
+        "t": 322.0,
+        "d": 291.0
+       },
+       {
+        "w": "kiln",
+        "t": 614.0,
+        "d": 250.0
+       },
+       {
+        "w": "yards",
+        "t": 864.0,
+        "d": 625.0
+       },
+       {
+        "w": "unknown",
+        "t": 1656.0,
+        "d": 375.0
+       },
+       {
+        "w": "hands",
+        "t": 2031.0,
+        "d": 291.0
+       },
+       {
+        "w": "fire",
+        "t": 2322.0,
+        "d": 375.0
+       },
+       {
+        "w": "simple",
+        "t": 2697.0,
+        "d": 458.0
+       },
+       {
+        "w": "clay",
+        "t": 3156.0,
+        "d": 290.0
+       },
+       {
+        "w": "into",
+        "t": 3446.0,
+        "d": 251.0
+       },
+       {
+        "w": "mirror-dark",
+        "t": 3697.0,
+        "d": 500.0
+       },
+       {
+        "w": "bowls",
+        "t": 4197.0,
+        "d": 583.0
+       },
+       {
+        "w": "that",
+        "t": 4781.0,
+        "d": 291.0
+       },
+       {
+        "w": "only",
+        "t": 5072.0,
+        "d": 375.0
+       },
+       {
+        "w": "elites",
+        "t": 5447.0,
+        "d": 375.0
+       },
+       {
+        "w": "can",
+        "t": 5822.0,
+        "d": 208.0
+       },
+       {
+        "w": "touch",
+        "t": 6031.0,
+        "d": 958.0
+       },
+       {
+        "w": "if",
+        "t": 6989.0,
+        "d": 208.0
+       },
+       {
+        "w": "one",
+        "t": 7197.0,
+        "d": 291.0
+       },
+       {
+        "w": "cracks",
+        "t": 7489.0,
+        "d": 625.0
+       },
+       {
+        "w": "does",
+        "t": 8405.0,
+        "d": 250.0
+       },
+       {
+        "w": "the",
+        "t": 8655.0,
+        "d": 166.0
+       },
+       {
+        "w": "city's",
+        "t": 8821.0,
+        "d": 376.0
+       },
+       {
+        "w": "new",
+        "t": 9197.0,
+        "d": 248.0
+       },
+       {
+        "w": "glory",
+        "t": 9446.0,
+        "d": 333.0
+       },
+       {
+        "w": "crack",
+        "t": 9780.0,
+        "d": 292.0
+       },
+       {
+        "w": "with",
+        "t": 10072.0,
+        "d": 208.0
+       },
+       {
+        "w": "it",
+        "t": 10281.0,
+        "d": 333.0
+       }
       ],
-      "legend": "They turned village clay into the shining mark of new cities.",
-      "era": "Second urbanization craft culture, c. 700-200 BCE, peak c. 500-300 BCE",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "In quiet kiln yards, unknown hands fire simple clay into mirror-dark bowls that only elites can touch, if one cracks, does the city's new glory crack with it?",
-            "hi": "शांत भट्ठीघरों में, गुमनाम हाथ साधी मिट्टी से काली दर्पण कटोरियाँ गढ़ते हैं, जिन्हें छूने की इजाज़त सिर्फ़ रईसों को है, पर अगर एक भी दरक गई… क्या शहर की नई शान भी दरक जाएगी?"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/intro/hero_en.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/intro/hero_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "In",
-                "t": 72.0,
-                "d": 250.0
-              },
-              {
-                "w": "quiet",
-                "t": 322.0,
-                "d": 291.0
-              },
-              {
-                "w": "kiln",
-                "t": 614.0,
-                "d": 250.0
-              },
-              {
-                "w": "yards",
-                "t": 864.0,
-                "d": 625.0
-              },
-              {
-                "w": "unknown",
-                "t": 1656.0,
-                "d": 375.0
-              },
-              {
-                "w": "hands",
-                "t": 2031.0,
-                "d": 291.0
-              },
-              {
-                "w": "fire",
-                "t": 2322.0,
-                "d": 375.0
-              },
-              {
-                "w": "simple",
-                "t": 2697.0,
-                "d": 458.0
-              },
-              {
-                "w": "clay",
-                "t": 3156.0,
-                "d": 290.0
-              },
-              {
-                "w": "into",
-                "t": 3446.0,
-                "d": 251.0
-              },
-              {
-                "w": "mirror-dark",
-                "t": 3697.0,
-                "d": 500.0
-              },
-              {
-                "w": "bowls",
-                "t": 4197.0,
-                "d": 583.0
-              },
-              {
-                "w": "that",
-                "t": 4781.0,
-                "d": 291.0
-              },
-              {
-                "w": "only",
-                "t": 5072.0,
-                "d": 375.0
-              },
-              {
-                "w": "elites",
-                "t": 5447.0,
-                "d": 375.0
-              },
-              {
-                "w": "can",
-                "t": 5822.0,
-                "d": 208.0
-              },
-              {
-                "w": "touch",
-                "t": 6031.0,
-                "d": 958.0
-              },
-              {
-                "w": "if",
-                "t": 6989.0,
-                "d": 208.0
-              },
-              {
-                "w": "one",
-                "t": 7197.0,
-                "d": 291.0
-              },
-              {
-                "w": "cracks",
-                "t": 7489.0,
-                "d": 625.0
-              },
-              {
-                "w": "does",
-                "t": 8405.0,
-                "d": 250.0
-              },
-              {
-                "w": "the",
-                "t": 8655.0,
-                "d": 166.0
-              },
-              {
-                "w": "city's",
-                "t": 8821.0,
-                "d": 376.0
-              },
-              {
-                "w": "new",
-                "t": 9197.0,
-                "d": 248.0
-              },
-              {
-                "w": "glory",
-                "t": 9446.0,
-                "d": 333.0
-              },
-              {
-                "w": "crack",
-                "t": 9780.0,
-                "d": 292.0
-              },
-              {
-                "w": "with",
-                "t": 10072.0,
-                "d": 208.0
-              },
-              {
-                "w": "it",
-                "t": 10281.0,
-                "d": 333.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "intro_map",
-      "type": "map",
-      "mood": "suspense",
-      "map": "assets/the_shining_black_bowl/intro/map.png",
-      "x": 0.55,
-      "y": 0.32,
-      "label": "Gangetic Plain & Malwa, north India",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Here the new towns rise by slow rivers, as black shining bowls pass from smoky kilns into the hands of kings and traders.",
-            "hi": "यहाँ धीमी नदियों के पास नए कस्बे उठते हैं, जब काले चमकते कटोरे धुएँदार भट्टियों से निकलकर राजाओं और सौदागरों के हाथों में जाते हैं।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/intro/map_en.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/intro/map_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Here",
-                "t": 80.0,
-                "d": 413.0
-              },
-              {
-                "w": "the",
-                "t": 494.0,
-                "d": 137.0
-              },
-              {
-                "w": "new",
-                "t": 632.0,
-                "d": 321.0
-              },
-              {
-                "w": "towns",
-                "t": 954.0,
-                "d": 505.0
-              },
-              {
-                "w": "rise",
-                "t": 1459.0,
-                "d": 643.0
-              },
-              {
-                "w": "by",
-                "t": 2241.0,
-                "d": 275.0
-              },
-              {
-                "w": "slow",
-                "t": 2517.0,
-                "d": 367.0
-              },
-              {
-                "w": "rivers",
-                "t": 2885.0,
-                "d": 781.0
-              },
-              {
-                "w": "as",
-                "t": 3941.0,
-                "d": 368.0
-              },
-              {
-                "w": "black",
-                "t": 4310.0,
-                "d": 459.0
-              },
-              {
-                "w": "shining",
-                "t": 4770.0,
-                "d": 551.0
-              },
-              {
-                "w": "bowls",
-                "t": 5321.0,
-                "d": 551.0
-              },
-              {
-                "w": "pass",
-                "t": 5873.0,
-                "d": 367.0
-              },
-              {
-                "w": "from",
-                "t": 6241.0,
-                "d": 229.0
-              },
-              {
-                "w": "smoky",
-                "t": 6471.0,
-                "d": 735.0
-              },
-              {
-                "w": "kilns",
-                "t": 7206.0,
-                "d": 505.0
-              },
-              {
-                "w": "into",
-                "t": 7804.0,
-                "d": 367.0
-              },
-              {
-                "w": "the",
-                "t": 8172.0,
-                "d": 183.0
-              },
-              {
-                "w": "hands",
-                "t": 8356.0,
-                "d": 413.0
-              },
-              {
-                "w": "of",
-                "t": 8770.0,
-                "d": 229.0
-              },
-              {
-                "w": "kings",
-                "t": 9000.0,
-                "d": 458.0
-              },
-              {
-                "w": "and",
-                "t": 9458.0,
-                "d": 275.0
-              },
-              {
-                "w": "traders",
-                "t": 9734.0,
-                "d": 965.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "cover",
-      "art": "assets/the_shining_black_bowl/img/cover.png",
-      "shot": "dramatic low-angle close-up of a potter’s hands lifting a gleaming black bowl from a kiln mouth glowing in the night",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "In the age when old cities lay silent, a new India returned in a shining black bowl.",
-            "hi": "जब पुराने शहर खामोश थे, एक नया भारत चमकते काले कटोरे में लौटा।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/cover_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/cover_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "In",
-                "t": 117.0,
-                "d": 212.0
-              },
-              {
-                "w": "the",
-                "t": 329.0,
-                "d": 212.0
-              },
-              {
-                "w": "age",
-                "t": 542.0,
-                "d": 382.0
-              },
-              {
-                "w": "when",
-                "t": 925.0,
-                "d": 297.0
-              },
-              {
-                "w": "old",
-                "t": 1223.0,
-                "d": 340.0
-              },
-              {
-                "w": "cities",
-                "t": 1563.0,
-                "d": 425.0
-              },
-              {
-                "w": "lay",
-                "t": 1989.0,
-                "d": 169.0
-              },
-              {
-                "w": "silent",
-                "t": 2158.0,
-                "d": 767.0
-              },
-              {
-                "w": "a",
-                "t": 3393.0,
-                "d": 126.0
-              },
-              {
-                "w": "new",
-                "t": 3520.0,
-                "d": 298.0
-              },
-              {
-                "w": "India",
-                "t": 3819.0,
-                "d": 424.0
-              },
-              {
-                "w": "returned",
-                "t": 4243.0,
-                "d": 511.0
-              },
-              {
-                "w": "in",
-                "t": 4755.0,
-                "d": 127.0
-              },
-              {
-                "w": "a",
-                "t": 4882.0,
-                "d": 85.0
-              },
-              {
-                "w": "shining",
-                "t": 4968.0,
-                "d": 553.0
-              },
-              {
-                "w": "black",
-                "t": 5521.0,
-                "d": 297.0
-              },
-              {
-                "w": "bowl",
-                "t": 5819.0,
-                "d": 510.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p01",
-      "art": "assets/the_shining_black_bowl/img/p01.png",
-      "shot": "wide aerial of the Gangetic plain at dawn",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Long after the bricks of Harappa cooled, the Ganga plains woke slowly, fields, hamlets, and memory where great cities had once stood.",
-            "hi": "हरप्पा की ईंटें ठंडी होने के बहुत बाद, गंगा के मैदानी धीरे जगे—खेत, बस्तियाँ, यादें, जहाँ कभी नगर धड़के थे।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p01_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p01_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Long",
-                "t": 74.0,
-                "d": 425.0
-              },
-              {
-                "w": "after",
-                "t": 500.0,
-                "d": 297.0
-              },
-              {
-                "w": "the",
-                "t": 797.0,
-                "d": 127.0
-              },
-              {
-                "w": "bricks",
-                "t": 925.0,
-                "d": 297.0
-              },
-              {
-                "w": "of",
-                "t": 1223.0,
-                "d": 170.0
-              },
-              {
-                "w": "Harappa",
-                "t": 1393.0,
-                "d": 425.0
-              },
-              {
-                "w": "cooled",
-                "t": 1819.0,
-                "d": 936.0
-              },
-              {
-                "w": "the",
-                "t": 2840.0,
-                "d": 211.0
-              },
-              {
-                "w": "Ganga",
-                "t": 3052.0,
-                "d": 426.0
-              },
-              {
-                "w": "plains",
-                "t": 3478.0,
-                "d": 382.0
-              },
-              {
-                "w": "woke",
-                "t": 3861.0,
-                "d": 425.0
-              },
-              {
-                "w": "slowly",
-                "t": 4287.0,
-                "d": 851.0
-              },
-              {
-                "w": "fields",
-                "t": 5265.0,
-                "d": 808.0
-              },
-              {
-                "w": "hamlets",
-                "t": 6244.0,
-                "d": 893.0
-              },
-              {
-                "w": "and",
-                "t": 7351.0,
-                "d": 255.0
-              },
-              {
-                "w": "memory",
-                "t": 7606.0,
-                "d": 893.0
-              },
-              {
-                "w": "where",
-                "t": 8541.0,
-                "d": 297.0
-              },
-              {
-                "w": "great",
-                "t": 8839.0,
-                "d": 340.0
-              },
-              {
-                "w": "cities",
-                "t": 9179.0,
-                "d": 384.0
-              },
-              {
-                "w": "had",
-                "t": 9563.0,
-                "d": 212.0
-              },
-              {
-                "w": "once",
-                "t": 9776.0,
-                "d": 340.0
-              },
-              {
-                "w": "stood",
-                "t": 10117.0,
-                "d": 553.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p02",
-      "art": "assets/the_shining_black_bowl/img/p02.png",
-      "shot": "wide establishing shot of an early mahajanapada town under construction",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Then, between about seven hundred and three hundred BCE, towns rose again, Vaishali, Rajgir, Kausambi, Ujjain, each a knot of mud-brick, timber, trade, and ambition.",
-            "hi": "फिर लगभग 700 से 300 ईसा पूर्व के बीच, वैशलि, राजगिर, कौशाम्बी, उज्जैन जैसे नगर फिर उठे—कच्ची-ईंट, लकड़ी, व्यापार और हौसले की गाँठें।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p02_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p02_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Then",
-                "t": 74.0,
-                "d": 595.0
-              },
-              {
-                "w": "between",
-                "t": 797.0,
-                "d": 382.0
-              },
-              {
-                "w": "about",
-                "t": 1180.0,
-                "d": 297.0
-              },
-              {
-                "w": "seven",
-                "t": 1478.0,
-                "d": 340.0
-              },
-              {
-                "w": "hundred",
-                "t": 1819.0,
-                "d": 978.0
-              },
-              {
-                "w": "and",
-                "t": 3179.0,
-                "d": 298.0
-              },
-              {
-                "w": "three",
-                "t": 4073.0,
-                "d": 639.0
-              },
-              {
-                "w": "hundred",
-                "t": 4712.0,
-                "d": 468.0
-              },
-              {
-                "w": "BCE",
-                "t": 5563.0,
-                "d": 680.0
-              },
-              {
-                "w": "towns",
-                "t": 6500.0,
-                "d": 340.0
-              },
-              {
-                "w": "rose",
-                "t": 6882.0,
-                "d": 425.0
-              },
-              {
-                "w": "again",
-                "t": 7308.0,
-                "d": 212.0
-              },
-              {
-                "w": "Vaishali",
-                "t": 7521.0,
-                "d": 425.0
-              },
-              {
-                "w": "Rajgir",
-                "t": 7946.0,
-                "d": 255.0
-              },
-              {
-                "w": "Kausambi",
-                "t": 8202.0,
-                "d": 339.0
-              },
-              {
-                "w": "Ujjain",
-                "t": 8541.0,
-                "d": 979.0
-              },
-              {
-                "w": "each",
-                "t": 9861.0,
-                "d": 425.0
-              },
-              {
-                "w": "a",
-                "t": 10287.0,
-                "d": 85.0
-              },
-              {
-                "w": "knot",
-                "t": 10372.0,
-                "d": 339.0
-              },
-              {
-                "w": "of",
-                "t": 10711.0,
-                "d": 170.0
-              },
-              {
-                "w": "mud-brick",
-                "t": 10881.0,
-                "d": 639.0
-              },
-              {
-                "w": "timber",
-                "t": 11945.0,
-                "d": 809.0
-              },
-              {
-                "w": "trade",
-                "t": 12797.0,
-                "d": 595.0
-              },
-              {
-                "w": "and",
-                "t": 13435.0,
-                "d": 213.0
-              },
-              {
-                "w": "ambition",
-                "t": 13648.0,
-                "d": 723.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p03",
-      "art": "assets/the_shining_black_bowl/img/p03.png",
-      "shot": "medium interior shot of a crowded artisans’ quarter",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "In these mahajanapada towns, work split into many hands, iron-smelters, weavers, carters, and among them, potters whose wares would mark the very age.",
-            "hi": "इन महाजनपद नगरों में काम कई हाथों में बँटा—लोहार, बुनकर, गाड़ीवान, और उनमें कुम्हार, जिनके घड़े पूरे युग की पहचान बने।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p03_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p03_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "In",
-                "t": 74.0,
-                "d": 170.0
-              },
-              {
-                "w": "these",
-                "t": 244.0,
-                "d": 297.0
-              },
-              {
-                "w": "mahajanapada",
-                "t": 542.0,
-                "d": 765.0
-              },
-              {
-                "w": "towns",
-                "t": 1308.0,
-                "d": 638.0
-              },
-              {
-                "w": "work",
-                "t": 2202.0,
-                "d": 381.0
-              },
-              {
-                "w": "split",
-                "t": 2584.0,
-                "d": 341.0
-              },
-              {
-                "w": "into",
-                "t": 2925.0,
-                "d": 254.0
-              },
-              {
-                "w": "many",
-                "t": 3179.0,
-                "d": 340.0
-              },
-              {
-                "w": "hands",
-                "t": 3520.0,
-                "d": 680.0
-              },
-              {
-                "w": "iron-smelters",
-                "t": 4457.0,
-                "d": 1063.0
-              },
-              {
-                "w": "weavers",
-                "t": 5776.0,
-                "d": 936.0
-              },
-              {
-                "w": "carters",
-                "t": 6797.0,
-                "d": 893.0
-              },
-              {
-                "w": "and",
-                "t": 7819.0,
-                "d": 382.0
-              },
-              {
-                "w": "among",
-                "t": 8202.0,
-                "d": 381.0
-              },
-              {
-                "w": "them",
-                "t": 8584.0,
-                "d": 680.0
-              },
-              {
-                "w": "potters",
-                "t": 9436.0,
-                "d": 467.0
-              },
-              {
-                "w": "whose",
-                "t": 9903.0,
-                "d": 298.0
-              },
-              {
-                "w": "wares",
-                "t": 10202.0,
-                "d": 340.0
-              },
-              {
-                "w": "would",
-                "t": 10542.0,
-                "d": 254.0
-              },
-              {
-                "w": "mark",
-                "t": 10796.0,
-                "d": 298.0
-              },
-              {
-                "w": "the",
-                "t": 11095.0,
-                "d": 211.0
-              },
-              {
-                "w": "very",
-                "t": 11307.0,
-                "d": 426.0
-              },
-              {
-                "w": "age",
-                "t": 11734.0,
-                "d": 637.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "action_auto",
-      "type": "action",
-      "mood": "suspense",
-      "bg": "assets/the_shining_black_bowl/action_auto/bg.png",
-      "chars": [
-        {
-          "img": "assets/the_shining_black_bowl/action_auto/char0.png",
-          "motion": {
-            "fromX": -40,
-            "toX": -10,
-            "fromScale": 0.82,
-            "toScale": 1.03,
-            "rot": -2,
-            "dur": 7200
-          }
-        }
-      ],
-      "motion": {
-        "bgZoom": 1.12,
-        "bgPan": -6,
-        "dur": 7200
-      },
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "He measures risk in clouds and clay, guarding fragile bowls as storms threaten the newborn city's fragile walls.",
-            "hi": "वो बादलों‑मिट्टी में खतरा तौलता है, तूफ़ान के बीच नाज़ुक कटोरों और नवजन्मी नगरी की दीवारों की रखवाली करता है।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/action/action_auto_en.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/action/action_auto_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "He",
-                "t": 80.0,
-                "d": 275.0
-              },
-              {
-                "w": "measures",
-                "t": 356.0,
-                "d": 459.0
-              },
-              {
-                "w": "risk",
-                "t": 816.0,
-                "d": 413.0
-              },
-              {
-                "w": "in",
-                "t": 1229.0,
-                "d": 137.0
-              },
-              {
-                "w": "clouds",
-                "t": 1367.0,
-                "d": 459.0
-              },
-              {
-                "w": "and",
-                "t": 1827.0,
-                "d": 183.0
-              },
-              {
-                "w": "clay",
-                "t": 2011.0,
-                "d": 642.0
-              },
-              {
-                "w": "guarding",
-                "t": 2791.0,
-                "d": 551.0
-              },
-              {
-                "w": "fragile",
-                "t": 3343.0,
-                "d": 505.0
-              },
-              {
-                "w": "bowls",
-                "t": 3849.0,
-                "d": 597.0
-              },
-              {
-                "w": "as",
-                "t": 4493.0,
-                "d": 322.0
-              },
-              {
-                "w": "storms",
-                "t": 4816.0,
-                "d": 597.0
-              },
-              {
-                "w": "threaten",
-                "t": 5413.0,
-                "d": 413.0
-              },
-              {
-                "w": "the",
-                "t": 5827.0,
-                "d": 137.0
-              },
-              {
-                "w": "newborn",
-                "t": 5965.0,
-                "d": 551.0
-              },
-              {
-                "w": "city's",
-                "t": 6517.0,
-                "d": 735.0
-              },
-              {
-                "w": "fragile",
-                "t": 7298.0,
-                "d": 689.0
-              },
-              {
-                "w": "walls",
-                "t": 7988.0,
-                "d": 643.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p04",
-      "art": "assets/the_shining_black_bowl/img/p04.png",
-      "shot": "tight overhead shot of hands working clay on a wheel",
-      "mood": "battle",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "He chooses clay more carefully than his fathers, washes and refines it, thins the walls, and balances each curve like a blade.",
-            "hi": "वह मिट्टी पिता से ज्यादा नाप-तौलकर चुनता है, धो-पोंछकर सानता है, घड़ा पतला करता है, हर घुमाव तलवार जैसा संतुलित रखता है।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p04_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p04_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "He",
-                "t": 70.0,
-                "d": 240.0
-              },
-              {
-                "w": "chooses",
-                "t": 310.0,
-                "d": 440.0
-              },
-              {
-                "w": "clay",
-                "t": 750.0,
-                "d": 240.0
-              },
-              {
-                "w": "more",
-                "t": 990.0,
-                "d": 280.0
-              },
-              {
-                "w": "carefully",
-                "t": 1270.0,
-                "d": 440.0
-              },
-              {
-                "w": "than",
-                "t": 1710.0,
-                "d": 160.0
-              },
-              {
-                "w": "his",
-                "t": 1870.0,
-                "d": 159.0
-              },
-              {
-                "w": "fathers",
-                "t": 2029.0,
-                "d": 800.0
-              },
-              {
-                "w": "washes",
-                "t": 2909.0,
-                "d": 601.0
-              },
-              {
-                "w": "and",
-                "t": 3510.0,
-                "d": 160.0
-              },
-              {
-                "w": "refines",
-                "t": 3670.0,
-                "d": 480.0
-              },
-              {
-                "w": "it",
-                "t": 4150.0,
-                "d": 440.0
-              },
-              {
-                "w": "thins",
-                "t": 4830.0,
-                "d": 320.0
-              },
-              {
-                "w": "the",
-                "t": 5150.0,
-                "d": 120.0
-              },
-              {
-                "w": "walls",
-                "t": 5270.0,
-                "d": 600.0
-              },
-              {
-                "w": "and",
-                "t": 6070.0,
-                "d": 360.0
-              },
-              {
-                "w": "balances",
-                "t": 6430.0,
-                "d": 600.0
-              },
-              {
-                "w": "each",
-                "t": 7030.0,
-                "d": 440.0
-              },
-              {
-                "w": "curve",
-                "t": 7470.0,
-                "d": 280.0
-              },
-              {
-                "w": "like",
-                "t": 7750.0,
-                "d": 240.0
-              },
-              {
-                "w": "a",
-                "t": 7990.0,
-                "d": 39.0
-              },
-              {
-                "w": "blade",
-                "t": 8029.0,
-                "d": 481.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p05",
-      "art": "assets/the_shining_black_bowl/img/p05.png",
-      "shot": "medium shot of a specialized kiln structure in a yard outside the town",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Around some towns, kilns grow larger and more planned, two chambers, controlled draught, hotter fires, signs of a craft now serving distant markets and demanding patrons.",
-            "hi": "कई नगरों के बाहर भट्टियाँ बड़ी और सधी बनती हैं—दो कोठे, नियंत्रित हवा, तेज़ आग—हुनर अब दूर बाज़ारों और खरे सरदारों की सेवा में।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p05_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p05_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Around",
-                "t": 74.0,
-                "d": 382.0
-              },
-              {
-                "w": "some",
-                "t": 457.0,
-                "d": 297.0
-              },
-              {
-                "w": "towns",
-                "t": 755.0,
-                "d": 765.0
-              },
-              {
-                "w": "kilns",
-                "t": 1734.0,
-                "d": 340.0
-              },
-              {
-                "w": "grow",
-                "t": 2074.0,
-                "d": 212.0
-              },
-              {
-                "w": "larger",
-                "t": 2287.0,
-                "d": 679.0
-              },
-              {
-                "w": "and",
-                "t": 3052.0,
-                "d": 256.0
-              },
-              {
-                "w": "more",
-                "t": 3308.0,
-                "d": 254.0
-              },
-              {
-                "w": "planned",
-                "t": 3562.0,
-                "d": 680.0
-              },
-              {
-                "w": "two",
-                "t": 4457.0,
-                "d": 212.0
-              },
-              {
-                "w": "chambers",
-                "t": 4670.0,
-                "d": 765.0
-              },
-              {
-                "w": "controlled",
-                "t": 5521.0,
-                "d": 553.0
-              },
-              {
-                "w": "draught",
-                "t": 6074.0,
-                "d": 595.0
-              },
-              {
-                "w": "hotter",
-                "t": 6882.0,
-                "d": 340.0
-              },
-              {
-                "w": "fires",
-                "t": 7223.0,
-                "d": 765.0
-              },
-              {
-                "w": "signs",
-                "t": 8372.0,
-                "d": 510.0
-              },
-              {
-                "w": "of",
-                "t": 8882.0,
-                "d": 126.0
-              },
-              {
-                "w": "a",
-                "t": 9009.0,
-                "d": 85.0
-              },
-              {
-                "w": "craft",
-                "t": 9094.0,
-                "d": 384.0
-              },
-              {
-                "w": "now",
-                "t": 9478.0,
-                "d": 254.0
-              },
-              {
-                "w": "serving",
-                "t": 9732.0,
-                "d": 425.0
-              },
-              {
-                "w": "distant",
-                "t": 10158.0,
-                "d": 384.0
-              },
-              {
-                "w": "markets",
-                "t": 10542.0,
-                "d": 638.0
-              },
-              {
-                "w": "and",
-                "t": 11222.0,
-                "d": 170.0
-              },
-              {
-                "w": "demanding",
-                "t": 11392.0,
-                "d": 553.0
-              },
-              {
-                "w": "patrons",
-                "t": 11945.0,
-                "d": 809.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p06",
-      "art": "assets/the_shining_black_bowl/img/p06.png",
-      "shot": "close-up on the potter’s intense face lit by kiln fire",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "No text tells his name, and his exact secret is lost; we only know he drove his kiln hotter, steadier, to a finish no common village pot could match.",
-            "hi": "उसका नाम किसी ग्रंथ में नहीं, राज़ भी खो गया; बस इतना पता है उसने भट्टी और गरम, और सम रखी, जितना कोई देहाती घड़ा पहुँच ही न सके।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p06_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p06_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "No",
-                "t": 80.0,
-                "d": 367.0
-              },
-              {
-                "w": "text",
-                "t": 448.0,
-                "d": 413.0
-              },
-              {
-                "w": "tells",
-                "t": 862.0,
-                "d": 229.0
-              },
-              {
-                "w": "his",
-                "t": 1091.0,
-                "d": 183.0
-              },
-              {
-                "w": "name",
-                "t": 1275.0,
-                "d": 689.0
-              },
-              {
-                "w": "and",
-                "t": 1965.0,
-                "d": 275.0
-              },
-              {
-                "w": "his",
-                "t": 2241.0,
-                "d": 137.0
-              },
-              {
-                "w": "exact",
-                "t": 2379.0,
-                "d": 505.0
-              },
-              {
-                "w": "secret",
-                "t": 2885.0,
-                "d": 550.0
-              },
-              {
-                "w": "is",
-                "t": 3482.0,
-                "d": 183.0
-              },
-              {
-                "w": "lost",
-                "t": 3666.0,
-                "d": 688.0
-              },
-              {
-                "w": "we",
-                "t": 4816.0,
-                "d": 367.0
-              },
-              {
-                "w": "only",
-                "t": 5183.0,
-                "d": 367.0
-              },
-              {
-                "w": "know",
-                "t": 5551.0,
-                "d": 183.0
-              },
-              {
-                "w": "he",
-                "t": 5735.0,
-                "d": 137.0
-              },
-              {
-                "w": "drove",
-                "t": 5873.0,
-                "d": 367.0
-              },
-              {
-                "w": "his",
-                "t": 6241.0,
-                "d": 137.0
-              },
-              {
-                "w": "kiln",
-                "t": 6379.0,
-                "d": 229.0
-              },
-              {
-                "w": "hotter",
-                "t": 6609.0,
-                "d": 597.0
-              },
-              {
-                "w": "steadier",
-                "t": 7390.0,
-                "d": 919.0
-              },
-              {
-                "w": "to",
-                "t": 8448.0,
-                "d": 229.0
-              },
-              {
-                "w": "a",
-                "t": 8678.0,
-                "d": 45.0
-              },
-              {
-                "w": "finish",
-                "t": 8724.0,
-                "d": 459.0
-              },
-              {
-                "w": "no",
-                "t": 9183.0,
-                "d": 321.0
-              },
-              {
-                "w": "common",
-                "t": 9505.0,
-                "d": 412.0
-              },
-              {
-                "w": "village",
-                "t": 9918.0,
-                "d": 368.0
-              },
-              {
-                "w": "pot",
-                "t": 10287.0,
-                "d": 367.0
-              },
-              {
-                "w": "could",
-                "t": 10655.0,
-                "d": 228.0
-              },
-              {
-                "w": "match",
-                "t": 10883.0,
-                "d": 598.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p07",
-      "art": "assets/the_shining_black_bowl/img/p07.png",
-      "shot": "dramatic close-up of the first gleaming bowl being revealed",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Out of that heat came thin bowls and dishes, fired hard, their skin dark and shining, catching light like still water in a stone basin.",
-            "hi": "उस आग से कटोरे और थालियाँ निकलीं—पतली, कड़ी जली हुई, ऊपर काला, चकमक जैसे पत्थर के कुंड में ठहरा पानी।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p07_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p07_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Out",
-                "t": 117.0,
-                "d": 297.0
-              },
-              {
-                "w": "of",
-                "t": 414.0,
-                "d": 127.0
-              },
-              {
-                "w": "that",
-                "t": 542.0,
-                "d": 212.0
-              },
-              {
-                "w": "heat",
-                "t": 755.0,
-                "d": 553.0
-              },
-              {
-                "w": "came",
-                "t": 1351.0,
-                "d": 340.0
-              },
-              {
-                "w": "thin",
-                "t": 1691.0,
-                "d": 297.0
-              },
-              {
-                "w": "bowls",
-                "t": 1989.0,
-                "d": 382.0
-              },
-              {
-                "w": "and",
-                "t": 2372.0,
-                "d": 169.0
-              },
-              {
-                "w": "dishes",
-                "t": 2541.0,
-                "d": 852.0
-              },
-              {
-                "w": "fired",
-                "t": 3647.0,
-                "d": 553.0
-              },
-              {
-                "w": "hard",
-                "t": 4201.0,
-                "d": 894.0
-              },
-              {
-                "w": "their",
-                "t": 5138.0,
-                "d": 340.0
-              },
-              {
-                "w": "skin",
-                "t": 5478.0,
-                "d": 382.0
-              },
-              {
-                "w": "dark",
-                "t": 5861.0,
-                "d": 340.0
-              },
-              {
-                "w": "and",
-                "t": 6202.0,
-                "d": 170.0
-              },
-              {
-                "w": "shining",
-                "t": 6372.0,
-                "d": 1234.0
-              },
-              {
-                "w": "catching",
-                "t": 7606.0,
-                "d": 425.0
-              },
-              {
-                "w": "light",
-                "t": 8031.0,
-                "d": 297.0
-              },
-              {
-                "w": "like",
-                "t": 8329.0,
-                "d": 254.0
-              },
-              {
-                "w": "still",
-                "t": 8584.0,
-                "d": 298.0
-              },
-              {
-                "w": "water",
-                "t": 8882.0,
-                "d": 553.0
-              },
-              {
-                "w": "in",
-                "t": 9478.0,
-                "d": 127.0
-              },
-              {
-                "w": "a",
-                "t": 9606.0,
-                "d": 85.0
-              },
-              {
-                "w": "stone",
-                "t": 9691.0,
-                "d": 381.0
-              },
-              {
-                "w": "basin",
-                "t": 10073.0,
-                "d": 681.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p08",
-      "art": "assets/the_shining_black_bowl/img/p08.png",
-      "shot": "medium shot of the potter presenting bowls to a finely dressed merchant",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "speech",
-          "role": "male",
-          "text": {
-            "en": "See, sir, this one keeps its shine even in the dim.",
-            "hi": "देखिए साहब—धुँधलके में भी इस पर चमक बनी रहती है।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p08_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p08_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "See",
-                "t": 49.0,
-                "d": 330.9
-              },
-              {
-                "w": "sir",
-                "t": 600.5,
-                "d": 404.4
-              },
-              {
-                "w": "this",
-                "t": 1299.0,
-                "d": 257.3
-              },
-              {
-                "w": "one",
-                "t": 1556.4,
-                "d": 269.6
-              },
-              {
-                "w": "keeps",
-                "t": 1862.8,
-                "d": 367.7
-              },
-              {
-                "w": "its",
-                "t": 2303.9,
-                "d": 245.1
-              },
-              {
-                "w": "shine",
-                "t": 2598.0,
-                "d": 416.7
-              },
-              {
-                "w": "even",
-                "t": 3100.5,
-                "d": 343.1
-              },
-              {
-                "w": "in",
-                "t": 3517.2,
-                "d": 110.3
-              },
-              {
-                "w": "the",
-                "t": 3639.7,
-                "d": 122.5
-              },
-              {
-                "w": "dim",
-                "t": 3762.2,
-                "d": 379.9
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p09",
-      "art": "assets/the_shining_black_bowl/img/p09.png",
-      "shot": "wide shot inside an elite household or assembly hall",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Soon such bowls gleamed on elite floors, from clan assemblies in Vaishali to rich homes in Kausambi, tableware that spoke of rank, reach, and new tastes.",
-            "hi": "जल्दी ही ऐसे कटोरे ऊँचे घरों में दमकने लगे—वैशलि की सभा से कौशाम्बी के अमीर आँगन तक—बर्तन जो रुतबा, फैलाव और नए ज़ायके बता दें।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p09_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p09_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Soon",
-                "t": 74.0,
-                "d": 382.0
-              },
-              {
-                "w": "such",
-                "t": 457.0,
-                "d": 297.0
-              },
-              {
-                "w": "bowls",
-                "t": 755.0,
-                "d": 510.0
-              },
-              {
-                "w": "gleamed",
-                "t": 1265.0,
-                "d": 468.0
-              },
-              {
-                "w": "on",
-                "t": 1734.0,
-                "d": 297.0
-              },
-              {
-                "w": "elite",
-                "t": 2031.0,
-                "d": 424.0
-              },
-              {
-                "w": "floors",
-                "t": 2456.0,
-                "d": 553.0
-              },
-              {
-                "w": "from",
-                "t": 3436.0,
-                "d": 340.0
-              },
-              {
-                "w": "clan",
-                "t": 3776.0,
-                "d": 254.0
-              },
-              {
-                "w": "assemblies",
-                "t": 4030.0,
-                "d": 511.0
-              },
-              {
-                "w": "in",
-                "t": 4542.0,
-                "d": 127.0
-              },
-              {
-                "w": "Vaishali",
-                "t": 4670.0,
-                "d": 680.0
-              },
-              {
-                "w": "to",
-                "t": 5478.0,
-                "d": 212.0
-              },
-              {
-                "w": "rich",
-                "t": 5691.0,
-                "d": 255.0
-              },
-              {
-                "w": "homes",
-                "t": 5946.0,
-                "d": 382.0
-              },
-              {
-                "w": "in",
-                "t": 6329.0,
-                "d": 212.0
-              },
-              {
-                "w": "Kausambi",
-                "t": 6542.0,
-                "d": 680.0
-              },
-              {
-                "w": "tableware",
-                "t": 7861.0,
-                "d": 553.0
-              },
-              {
-                "w": "that",
-                "t": 8414.0,
-                "d": 211.0
-              },
-              {
-                "w": "spoke",
-                "t": 8626.0,
-                "d": 341.0
-              },
-              {
-                "w": "of",
-                "t": 8968.0,
-                "d": 170.0
-              },
-              {
-                "w": "rank",
-                "t": 9138.0,
-                "d": 594.0
-              },
-              {
-                "w": "reach",
-                "t": 9776.0,
-                "d": 765.0
-              },
-              {
-                "w": "and",
-                "t": 10585.0,
-                "d": 340.0
-              },
-              {
-                "w": "new",
-                "t": 10925.0,
-                "d": 296.0
-              },
-              {
-                "w": "tastes",
-                "t": 11222.0,
-                "d": 723.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p10",
-      "art": "assets/the_shining_black_bowl/img/p10.png",
-      "shot": "map-like wide shot blending multiple sites with a trade route overlay",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Archaeologists later find this ware at Rajgir, Vaishali, Kausambi, Ujjain, Ahichhatra, Hastinapur, Mathura, its spread tracing trade lines, not a single king's command.",
-            "hi": "पुरातत्वविद बाद में यही बर्तन राजगिर, वैशलि, कौशाम्बी, उज्जैन, अहीच्छत्र, हस्तिनापुर, मथुरा में पाते हैं—इनका फैलाव व्यापार की रेखा, न कि किसी एक राजा का हुक्म।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p10_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p10_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Archaeologists",
-                "t": 159.0,
-                "d": 893.0
-              },
-              {
-                "w": "later",
-                "t": 1053.0,
-                "d": 340.0
-              },
-              {
-                "w": "find",
-                "t": 1393.0,
-                "d": 340.0
-              },
-              {
-                "w": "this",
-                "t": 1734.0,
-                "d": 255.0
-              },
-              {
-                "w": "ware",
-                "t": 1989.0,
-                "d": 255.0
-              },
-              {
-                "w": "at",
-                "t": 2244.0,
-                "d": 296.0
-              },
-              {
-                "w": "Rajgir",
-                "t": 2584.0,
-                "d": 767.0
-              },
-              {
-                "w": "Vaishali",
-                "t": 3520.0,
-                "d": 638.0
-              },
-              {
-                "w": "Kausambi",
-                "t": 4414.0,
-                "d": 638.0
-              },
-              {
-                "w": "Ujjain",
-                "t": 5351.0,
-                "d": 680.0
-              },
-              {
-                "w": "Ahichhatra",
-                "t": 6457.0,
-                "d": 893.0
-              },
-              {
-                "w": "Hastinapur",
-                "t": 7648.0,
-                "d": 851.0
-              },
-              {
-                "w": "Mathura",
-                "t": 8924.0,
-                "d": 554.0
-              },
-              {
-                "w": "its",
-                "t": 10031.0,
-                "d": 211.0
-              },
-              {
-                "w": "spread",
-                "t": 10243.0,
-                "d": 384.0
-              },
-              {
-                "w": "tracing",
-                "t": 10627.0,
-                "d": 553.0
-              },
-              {
-                "w": "trade",
-                "t": 11180.0,
-                "d": 255.0
-              },
-              {
-                "w": "lines",
-                "t": 11436.0,
-                "d": 638.0
-              },
-              {
-                "w": "not",
-                "t": 12286.0,
-                "d": 298.0
-              },
-              {
-                "w": "a",
-                "t": 12585.0,
-                "d": 42.0
-              },
-              {
-                "w": "single",
-                "t": 12627.0,
-                "d": 510.0
-              },
-              {
-                "w": "king's",
-                "t": 13138.0,
-                "d": 296.0
-              },
-              {
-                "w": "command",
-                "t": 13435.0,
-                "d": 638.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p11",
-      "art": "assets/the_shining_black_bowl/img/p11.png",
-      "shot": "medium shot of a village scene using simpler pottery",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Yet beyond the city walls, most hands still ate from rougher clay. The shining bowls were few, their owners fewer, markers of status in a layered society.",
-            "hi": "पर नगर की दीवारों से बाहर, ज़्यादातर हाथ अब भी खुरदुरी मिट्टी से खाते थे। काले चमकते कटोरे कम, उनके मालिक और भी कम—परतदार समाज में रुतबे की नज़र आती निशानी।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p11_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p11_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Yet",
-                "t": 74.0,
-                "d": 340.0
-              },
-              {
-                "w": "beyond",
-                "t": 414.0,
-                "d": 382.0
-              },
-              {
-                "w": "the",
-                "t": 797.0,
-                "d": 127.0
-              },
-              {
-                "w": "city",
-                "t": 925.0,
-                "d": 297.0
-              },
-              {
-                "w": "walls",
-                "t": 1223.0,
-                "d": 765.0
-              },
-              {
-                "w": "most",
-                "t": 2117.0,
-                "d": 424.0
-              },
-              {
-                "w": "hands",
-                "t": 2541.0,
-                "d": 425.0
-              },
-              {
-                "w": "still",
-                "t": 3009.0,
-                "d": 384.0
-              },
-              {
-                "w": "ate",
-                "t": 3393.0,
-                "d": 296.0
-              },
-              {
-                "w": "from",
-                "t": 3690.0,
-                "d": 298.0
-              },
-              {
-                "w": "rougher",
-                "t": 3989.0,
-                "d": 340.0
-              },
-              {
-                "w": "clay",
-                "t": 4329.0,
-                "d": 723.0
-              },
-              {
-                "w": "The",
-                "t": 5776.0,
-                "d": 255.0
-              },
-              {
-                "w": "shining",
-                "t": 6031.0,
-                "d": 468.0
-              },
-              {
-                "w": "bowls",
-                "t": 6500.0,
-                "d": 297.0
-              },
-              {
-                "w": "were",
-                "t": 6797.0,
-                "d": 212.0
-              },
-              {
-                "w": "few",
-                "t": 7010.0,
-                "d": 723.0
-              },
-              {
-                "w": "their",
-                "t": 7861.0,
-                "d": 297.0
-              },
-              {
-                "w": "owners",
-                "t": 8159.0,
-                "d": 381.0
-              },
-              {
-                "w": "fewer",
-                "t": 8541.0,
-                "d": 767.0
-              },
-              {
-                "w": "markers",
-                "t": 9478.0,
-                "d": 553.0
-              },
-              {
-                "w": "of",
-                "t": 10031.0,
-                "d": 85.0
-              },
-              {
-                "w": "status",
-                "t": 10117.0,
-                "d": 594.0
-              },
-              {
-                "w": "in",
-                "t": 10711.0,
-                "d": 128.0
-              },
-              {
-                "w": "a",
-                "t": 10840.0,
-                "d": 126.0
-              },
-              {
-                "w": "layered",
-                "t": 10967.0,
-                "d": 340.0
-              },
-              {
-                "w": "society",
-                "t": 11307.0,
-                "d": 808.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p12",
-      "art": "assets/the_shining_black_bowl/img/p12.png",
-      "shot": "archaeological cross-section shot showing layers of a mound",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Centuries later, when B.B. Lal cuts into Hastinapur's mound, he finds those black sherds in a distinct layer, a material line between earlier villages and later towns.",
-            "hi": "सदियाँ बाद, जब बी.बी. लाल हस्तिनापुर की टीली काटते हैं, उन्हें एक खास तह में वही काले टुकड़े मिलते हैं—एक भौतिक रेखा, जो पुराने गाँवों और बाद के नगरों के बीच खिंचती है।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p12_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p12_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Centuries",
-                "t": 117.0,
-                "d": 595.0
-              },
-              {
-                "w": "later",
-                "t": 712.0,
-                "d": 638.0
-              },
-              {
-                "w": "when",
-                "t": 1393.0,
-                "d": 340.0
-              },
-              {
-                "w": "B.B.",
-                "t": 1734.0,
-                "d": 297.0
-              },
-              {
-                "w": "Lal",
-                "t": 2031.0,
-                "d": 297.0
-              },
-              {
-                "w": "cuts",
-                "t": 2329.0,
-                "d": 340.0
-              },
-              {
-                "w": "into",
-                "t": 2670.0,
-                "d": 212.0
-              },
-              {
-                "w": "Hastinapur's",
-                "t": 2882.0,
-                "d": 679.0
-              },
-              {
-                "w": "mound",
-                "t": 3562.0,
-                "d": 595.0
-              },
-              {
-                "w": "he",
-                "t": 4287.0,
-                "d": 297.0
-              },
-              {
-                "w": "finds",
-                "t": 4585.0,
-                "d": 382.0
-              },
-              {
-                "w": "those",
-                "t": 4968.0,
-                "d": 255.0
-              },
-              {
-                "w": "black",
-                "t": 5223.0,
-                "d": 382.0
-              },
-              {
-                "w": "sherds",
-                "t": 5606.0,
-                "d": 468.0
-              },
-              {
-                "w": "in",
-                "t": 6074.0,
-                "d": 127.0
-              },
-              {
-                "w": "a",
-                "t": 6202.0,
-                "d": 85.0
-              },
-              {
-                "w": "distinct",
-                "t": 6287.0,
-                "d": 510.0
-              },
-              {
-                "w": "layer",
-                "t": 6797.0,
-                "d": 638.0
-              },
-              {
-                "w": "a",
-                "t": 7776.0,
-                "d": 127.0
-              },
-              {
-                "w": "material",
-                "t": 7904.0,
-                "d": 510.0
-              },
-              {
-                "w": "line",
-                "t": 8414.0,
-                "d": 296.0
-              },
-              {
-                "w": "between",
-                "t": 8711.0,
-                "d": 382.0
-              },
-              {
-                "w": "earlier",
-                "t": 9094.0,
-                "d": 384.0
-              },
-              {
-                "w": "villages",
-                "t": 9478.0,
-                "d": 638.0
-              },
-              {
-                "w": "and",
-                "t": 10158.0,
-                "d": 213.0
-              },
-              {
-                "w": "later",
-                "t": 10372.0,
-                "d": 339.0
-              },
-              {
-                "w": "towns",
-                "t": 10711.0,
-                "d": 680.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p13",
-      "art": "assets/the_shining_black_bowl/img/p13.png",
-      "shot": "medium shot of a modern archaeologist in the trench holding a sherd",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "He calls it Northern Black Polished Ware, a modern name for an ancient craft, a way to see, in broken bowls, the timing of the second urbanization.",
-            "hi": "वह इसे नॉर्दर्न ब्लैक पॉलिश्ड वेयर नाम देते हैं—प्राचीन हुनर के लिए नया नाम, टूटी कटोरियों में दूसरी शहरी लहर का समय पढ़ने का तरीका।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p13_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p13_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "He",
-                "t": 74.0,
-                "d": 255.0
-              },
-              {
-                "w": "calls",
-                "t": 329.0,
-                "d": 297.0
-              },
-              {
-                "w": "it",
-                "t": 627.0,
-                "d": 170.0
-              },
-              {
-                "w": "Northern",
-                "t": 797.0,
-                "d": 468.0
-              },
-              {
-                "w": "Black",
-                "t": 1265.0,
-                "d": 425.0
-              },
-              {
-                "w": "Polished",
-                "t": 1691.0,
-                "d": 425.0
-              },
-              {
-                "w": "Ware",
-                "t": 2117.0,
-                "d": 765.0
-              },
-              {
-                "w": "a",
-                "t": 3052.0,
-                "d": 171.0
-              },
-              {
-                "w": "modern",
-                "t": 3223.0,
-                "d": 381.0
-              },
-              {
-                "w": "name",
-                "t": 3605.0,
-                "d": 341.0
-              },
-              {
-                "w": "for",
-                "t": 3946.0,
-                "d": 169.0
-              },
-              {
-                "w": "an",
-                "t": 4115.0,
-                "d": 171.0
-              },
-              {
-                "w": "ancient",
-                "t": 4287.0,
-                "d": 468.0
-              },
-              {
-                "w": "craft",
-                "t": 4755.0,
-                "d": 851.0
-              },
-              {
-                "w": "a",
-                "t": 5776.0,
-                "d": 170.0
-              },
-              {
-                "w": "way",
-                "t": 5946.0,
-                "d": 170.0
-              },
-              {
-                "w": "to",
-                "t": 6117.0,
-                "d": 127.0
-              },
-              {
-                "w": "see",
-                "t": 6244.0,
-                "d": 553.0
-              },
-              {
-                "w": "in",
-                "t": 6840.0,
-                "d": 255.0
-              },
-              {
-                "w": "broken",
-                "t": 7095.0,
-                "d": 382.0
-              },
-              {
-                "w": "bowls",
-                "t": 7478.0,
-                "d": 638.0
-              },
-              {
-                "w": "the",
-                "t": 8500.0,
-                "d": 211.0
-              },
-              {
-                "w": "timing",
-                "t": 8711.0,
-                "d": 468.0
-              },
-              {
-                "w": "of",
-                "t": 9179.0,
-                "d": 171.0
-              },
-              {
-                "w": "the",
-                "t": 9351.0,
-                "d": 127.0
-              },
-              {
-                "w": "second",
-                "t": 9478.0,
-                "d": 468.0
-              },
-              {
-                "w": "urbanization",
-                "t": 9988.0,
-                "d": 1022.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p14",
-      "art": "assets/the_shining_black_bowl/img/p14.png",
-      "shot": "split-panel style shot contrasting proto-NBPW and fully developed ware",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Some sites show earlier experiments, proto-lustrous vessels, less perfect. Step by step, the sheen deepens, the forms standardize, and a craft becomes a signature of its age.",
-            "hi": "कुछ जगह पहले की कोशिशें दिखती हैं—आधा-चमकीले, अधूरे घड़े। क़दम-दर-क़दम चमक गहराती है, आकार एक-से होते हैं, और एक हुनर अपने दौर की पहचान बन जाता है।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p14_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p14_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Some",
-                "t": 74.0,
-                "d": 340.0
-              },
-              {
-                "w": "sites",
-                "t": 414.0,
-                "d": 297.0
-              },
-              {
-                "w": "show",
-                "t": 712.0,
-                "d": 297.0
-              },
-              {
-                "w": "earlier",
-                "t": 1010.0,
-                "d": 340.0
-              },
-              {
-                "w": "experiments",
-                "t": 1351.0,
-                "d": 978.0
-              },
-              {
-                "w": "proto-lustrous",
-                "t": 2372.0,
-                "d": 851.0
-              },
-              {
-                "w": "vessels",
-                "t": 3223.0,
-                "d": 723.0
-              },
-              {
-                "w": "less",
-                "t": 4073.0,
-                "d": 341.0
-              },
-              {
-                "w": "perfect",
-                "t": 4414.0,
-                "d": 1021.0
-              },
-              {
-                "w": "Step",
-                "t": 5861.0,
-                "d": 340.0
-              },
-              {
-                "w": "by",
-                "t": 6202.0,
-                "d": 170.0
-              },
-              {
-                "w": "step",
-                "t": 6372.0,
-                "d": 553.0
-              },
-              {
-                "w": "the",
-                "t": 6925.0,
-                "d": 212.0
-              },
-              {
-                "w": "sheen",
-                "t": 7138.0,
-                "d": 340.0
-              },
-              {
-                "w": "deepens",
-                "t": 7478.0,
-                "d": 808.0
-              },
-              {
-                "w": "the",
-                "t": 8457.0,
-                "d": 211.0
-              },
-              {
-                "w": "forms",
-                "t": 8669.0,
-                "d": 384.0
-              },
-              {
-                "w": "standardize",
-                "t": 9053.0,
-                "d": 935.0
-              },
-              {
-                "w": "and",
-                "t": 10287.0,
-                "d": 297.0
-              },
-              {
-                "w": "a",
-                "t": 10585.0,
-                "d": 85.0
-              },
-              {
-                "w": "craft",
-                "t": 10670.0,
-                "d": 467.0
-              },
-              {
-                "w": "becomes",
-                "t": 11137.0,
-                "d": 384.0
-              },
-              {
-                "w": "a",
-                "t": 11521.0,
-                "d": 42.0
-              },
-              {
-                "w": "signature",
-                "t": 11563.0,
-                "d": 680.0
-              },
-              {
-                "w": "of",
-                "t": 12244.0,
-                "d": 211.0
-              },
-              {
-                "w": "its",
-                "t": 12456.0,
-                "d": 171.0
-              },
-              {
-                "w": "age",
-                "t": 12670.0,
-                "d": 553.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p15",
-      "art": "assets/the_shining_black_bowl/img/p15.png",
-      "shot": "wide shot of a bustling second-urbanization city street",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "By the peak of 500, three hundred BCE, these wares move with iron, textiles, and grain. They sit in markets where monks debate kings, and tax-collectors count measures and measures of trade.",
-            "hi": "500–300 ईसा पूर्व के चरम पर ये बर्तन, लोहे, कपड़े और अनाज के साथ चलते हैं। ऐसे बाज़ारों में टिकते हैं, जहाँ भिक्षु राजाओं से बहस करते हैं और गुमाश्ते गिन-गिनकर लगान की तोलें लिखते हैं।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p15_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p15_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "By",
-                "t": 159.0,
-                "d": 170.0
-              },
-              {
-                "w": "the",
-                "t": 329.0,
-                "d": 170.0
-              },
-              {
-                "w": "peak",
-                "t": 500.0,
-                "d": 255.0
-              },
-              {
-                "w": "of",
-                "t": 755.0,
-                "d": 127.0
-              },
-              {
-                "w": "500",
-                "t": 882.0,
-                "d": 936.0
-              },
-              {
-                "w": "three",
-                "t": 2031.0,
-                "d": 297.0
-              },
-              {
-                "w": "hundred",
-                "t": 2329.0,
-                "d": 340.0
-              },
-              {
-                "w": "BCE",
-                "t": 2670.0,
-                "d": 680.0
-              },
-              {
-                "w": "these",
-                "t": 4073.0,
-                "d": 469.0
-              },
-              {
-                "w": "wares",
-                "t": 4542.0,
-                "d": 297.0
-              },
-              {
-                "w": "move",
-                "t": 4840.0,
-                "d": 340.0
-              },
-              {
-                "w": "with",
-                "t": 5180.0,
-                "d": 255.0
-              },
-              {
-                "w": "iron",
-                "t": 5478.0,
-                "d": 638.0
-              },
-              {
-                "w": "textiles",
-                "t": 6244.0,
-                "d": 978.0
-              },
-              {
-                "w": "and",
-                "t": 7265.0,
-                "d": 297.0
-              },
-              {
-                "w": "grain",
-                "t": 7563.0,
-                "d": 510.0
-              },
-              {
-                "w": "They",
-                "t": 8711.0,
-                "d": 297.0
-              },
-              {
-                "w": "sit",
-                "t": 9009.0,
-                "d": 255.0
-              },
-              {
-                "w": "in",
-                "t": 9264.0,
-                "d": 128.0
-              },
-              {
-                "w": "markets",
-                "t": 9393.0,
-                "d": 553.0
-              },
-              {
-                "w": "where",
-                "t": 9946.0,
-                "d": 211.0
-              },
-              {
-                "w": "monks",
-                "t": 10158.0,
-                "d": 341.0
-              },
-              {
-                "w": "debate",
-                "t": 10500.0,
-                "d": 381.0
-              },
-              {
-                "w": "kings",
-                "t": 10881.0,
-                "d": 639.0
-              },
-              {
-                "w": "and",
-                "t": 11734.0,
-                "d": 296.0
-              },
-              {
-                "w": "tax-collectors",
-                "t": 12030.0,
-                "d": 767.0
-              },
-              {
-                "w": "count",
-                "t": 12797.0,
-                "d": 340.0
-              },
-              {
-                "w": "measures",
-                "t": 13138.0,
-                "d": 808.0
-              },
-              {
-                "w": "and",
-                "t": 13946.0,
-                "d": 255.0
-              },
-              {
-                "w": "measures",
-                "t": 14202.0,
-                "d": 425.0
-              },
-              {
-                "w": "of",
-                "t": 14627.0,
-                "d": 170.0
-              },
-              {
-                "w": "trade",
-                "t": 14797.0,
-                "d": 468.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "action_auto2",
-      "type": "action",
-      "mood": "triumph",
-      "bg": "assets/the_shining_black_bowl/action_auto2/bg.png",
-      "chars": [
-        {
-          "img": "assets/the_shining_black_bowl/action_auto2/char0.png",
-          "motion": {
-            "fromX": 42,
-            "toX": 8,
-            "fromScale": 0.82,
-            "toScale": 1.03,
-            "rot": 2,
-            "dur": 7200
-          }
-        }
-      ],
-      "motion": {
-        "bgZoom": 1.12,
-        "bgPan": -6,
-        "dur": 7200
-      },
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "His bowl becomes his banner, its dark shine declaring a craftsman's name louder than any crier in the crowded streets.",
-            "hi": "उसका कटोरा ही उसका झंडा बन जाता है, उसकी काली चमक भरी गलियों में मुनादी से भी ज़्यादा उसका नाम गूँजा देती है।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/action/action_auto2_en.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/action/action_auto2_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "His",
-                "t": 72.0,
-                "d": 291.0
-              },
-              {
-                "w": "bowl",
-                "t": 364.0,
-                "d": 291.0
-              },
-              {
-                "w": "becomes",
-                "t": 656.0,
-                "d": 500.0
-              },
-              {
-                "w": "his",
-                "t": 1156.0,
-                "d": 208.0
-              },
-              {
-                "w": "banner",
-                "t": 1364.0,
-                "d": 583.0
-              },
-              {
-                "w": "its",
-                "t": 2239.0,
-                "d": 290.0
-              },
-              {
-                "w": "dark",
-                "t": 2530.0,
-                "d": 292.0
-              },
-              {
-                "w": "shine",
-                "t": 2822.0,
-                "d": 416.0
-              },
-              {
-                "w": "declaring",
-                "t": 3239.0,
-                "d": 458.0
-              },
-              {
-                "w": "a",
-                "t": 3697.0,
-                "d": 83.0
-              },
-              {
-                "w": "craftsman's",
-                "t": 3781.0,
-                "d": 666.0
-              },
-              {
-                "w": "name",
-                "t": 4447.0,
-                "d": 250.0
-              },
-              {
-                "w": "louder",
-                "t": 4697.0,
-                "d": 625.0
-              },
-              {
-                "w": "than",
-                "t": 5406.0,
-                "d": 250.0
-              },
-              {
-                "w": "any",
-                "t": 5656.0,
-                "d": 333.0
-              },
-              {
-                "w": "crier",
-                "t": 5989.0,
-                "d": 416.0
-              },
-              {
-                "w": "in",
-                "t": 6406.0,
-                "d": 125.0
-              },
-              {
-                "w": "the",
-                "t": 6531.0,
-                "d": 125.0
-              },
-              {
-                "w": "crowded",
-                "t": 6656.0,
-                "d": 416.0
-              },
-              {
-                "w": "streets",
-                "t": 7072.0,
-                "d": 708.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p16",
-      "art": "assets/the_shining_black_bowl/img/p16.png",
-      "shot": "medium close-up of the aging potter watching a cartload of his bowls depart",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "thought",
-          "role": "male",
-          "text": {
-            "en": "My mark goes where my feet will never walk.",
-            "hi": "मेरी मुहर वहाँ जाएगी, जहाँ मेरे पाँव कभी नहीं पहुँचेंगे।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p16_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p16_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "My",
-                "t": 52.6,
-                "d": 210.5
-              },
-              {
-                "w": "mark",
-                "t": 263.2,
-                "d": 421.0
-              },
-              {
-                "w": "goes",
-                "t": 736.8,
-                "d": 434.2
-              },
-              {
-                "w": "where",
-                "t": 1171.0,
-                "d": 381.6
-              },
-              {
-                "w": "my",
-                "t": 1552.6,
-                "d": 276.3
-              },
-              {
-                "w": "feet",
-                "t": 1829.0,
-                "d": 394.8
-              },
-              {
-                "w": "will",
-                "t": 2276.3,
-                "d": 302.6
-              },
-              {
-                "w": "never",
-                "t": 2579.0,
-                "d": 368.4
-              },
-              {
-                "w": "walk",
-                "t": 2947.4,
-                "d": 421.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "split_auto",
-      "type": "split",
-      "mood": "battle",
-      "slices": [
-        {
-          "img": "assets/the_shining_black_bowl/split_auto/s0.png",
-          "slogan": {
-            "en": "Fire remembers every careful hand",
-            "hi": "आग हर सावधान हाथ याद रखती है"
-          },
-          "pos": "center 30%"
-        },
-        {
-          "img": "assets/the_shining_black_bowl/split_auto/s1.png",
-          "pos": "center 46%"
-        },
-        {
-          "img": "assets/the_shining_black_bowl/split_auto/s2.png",
-          "pos": "center 52%"
-        }
-      ],
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "From his hands, the city's glow spreads and fades, yet the burnish of his art refuses to dull with time.",
-            "hi": "उसके हाथों से शहर की चमक फैलती है, फीकी पड़ती है, पर उसकी कला की चमक कभी नहीं मुरझाती।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/split/split_auto_en.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/split/split_auto_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "From",
-                "t": 70.0,
-                "d": 280.0
-              },
-              {
-                "w": "his",
-                "t": 350.0,
-                "d": 120.0
-              },
-              {
-                "w": "hands",
-                "t": 470.0,
-                "d": 560.0
-              },
-              {
-                "w": "the",
-                "t": 1190.0,
-                "d": 200.0
-              },
-              {
-                "w": "city's",
-                "t": 1390.0,
-                "d": 440.0
-              },
-              {
-                "w": "glow",
-                "t": 1830.0,
-                "d": 280.0
-              },
-              {
-                "w": "spreads",
-                "t": 2110.0,
-                "d": 520.0
-              },
-              {
-                "w": "and",
-                "t": 2630.0,
-                "d": 159.0
-              },
-              {
-                "w": "fades",
-                "t": 2789.0,
-                "d": 721.0
-              },
-              {
-                "w": "yet",
-                "t": 3750.0,
-                "d": 280.0
-              },
-              {
-                "w": "the",
-                "t": 4030.0,
-                "d": 160.0
-              },
-              {
-                "w": "burnish",
-                "t": 4190.0,
-                "d": 440.0
-              },
-              {
-                "w": "of",
-                "t": 4630.0,
-                "d": 160.0
-              },
-              {
-                "w": "his",
-                "t": 4790.0,
-                "d": 160.0
-              },
-              {
-                "w": "art",
-                "t": 4990.0,
-                "d": 320.0
-              },
-              {
-                "w": "refuses",
-                "t": 5310.0,
-                "d": 560.0
-              },
-              {
-                "w": "to",
-                "t": 5870.0,
-                "d": 160.0
-              },
-              {
-                "w": "dull",
-                "t": 6030.0,
-                "d": 280.0
-              },
-              {
-                "w": "with",
-                "t": 6310.0,
-                "d": 200.0
-              },
-              {
-                "w": "time",
-                "t": 6510.0,
-                "d": 520.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p17",
-      "art": "assets/the_shining_black_bowl/img/p17.png",
-      "shot": "melancholic wide shot of a ruined ancient city being reclaimed by nature",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "The towns that cherished these bowls would rise, burn, erode, and vanish. Their councils, wars, and bargains turned to dust, but the sherds remained.",
-            "hi": "जिन नगरों ने इन कटोरों को सिर पर रखा, वे उठे, जले, घिसे और मिट गए। उनकी सभाएँ, युद्ध और सौदे धूल बने, पर ये टुकड़े रह गए।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p17_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p17_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "The",
-                "t": 74.0,
-                "d": 297.0
-              },
-              {
-                "w": "towns",
-                "t": 372.0,
-                "d": 382.0
-              },
-              {
-                "w": "that",
-                "t": 755.0,
-                "d": 255.0
-              },
-              {
-                "w": "cherished",
-                "t": 1010.0,
-                "d": 468.0
-              },
-              {
-                "w": "these",
-                "t": 1478.0,
-                "d": 297.0
-              },
-              {
-                "w": "bowls",
-                "t": 1776.0,
-                "d": 381.0
-              },
-              {
-                "w": "would",
-                "t": 2158.0,
-                "d": 256.0
-              },
-              {
-                "w": "rise",
-                "t": 2414.0,
-                "d": 552.0
-              },
-              {
-                "w": "burn",
-                "t": 3137.0,
-                "d": 553.0
-              },
-              {
-                "w": "erode",
-                "t": 3690.0,
-                "d": 639.0
-              },
-              {
-                "w": "and",
-                "t": 4329.0,
-                "d": 638.0
-              },
-              {
-                "w": "vanish",
-                "t": 4968.0,
-                "d": 1148.0
-              },
-              {
-                "w": "Their",
-                "t": 6329.0,
-                "d": 297.0
-              },
-              {
-                "w": "councils",
-                "t": 6627.0,
-                "d": 851.0
-              },
-              {
-                "w": "wars",
-                "t": 7563.0,
-                "d": 808.0
-              },
-              {
-                "w": "and",
-                "t": 8500.0,
-                "d": 339.0
-              },
-              {
-                "w": "bargains",
-                "t": 8839.0,
-                "d": 596.0
-              },
-              {
-                "w": "turned",
-                "t": 9436.0,
-                "d": 296.0
-              },
-              {
-                "w": "to",
-                "t": 9732.0,
-                "d": 170.0
-              },
-              {
-                "w": "dust",
-                "t": 9903.0,
-                "d": 724.0
-              },
-              {
-                "w": "but",
-                "t": 10967.0,
-                "d": 213.0
-              },
-              {
-                "w": "the",
-                "t": 11180.0,
-                "d": 126.0
-              },
-              {
-                "w": "sherds",
-                "t": 11307.0,
-                "d": 596.0
-              },
-              {
-                "w": "remained",
-                "t": 11904.0,
-                "d": 552.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p18",
-      "art": "assets/the_shining_black_bowl/img/p18.png",
-      "shot": "extreme close-up of a black, lustrous sherd held against the light by unseen hands",
-      "mood": "battle",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "In that thin, shining surface, we do not see a king or a battle, but a craftsman's gamble, a city's hunger for refinement, and the quiet sheen by which we still recognize their world.",
-            "hi": "उस पतली, चमकदार सतह में हमें कोई राजा या युद्ध नहीं, बल्कि कारीगर की बाज़ी, नगर की नफासत की भूख, और वही धीमी चमक दिखती है, जिससे हम आज भी उनकी दुनिया पहचानते हैं।"
-          },
-          "audio": {
-            "en": "assets/the_shining_black_bowl/audio/en/p18_0.mp3",
-            "hi": "assets/the_shining_black_bowl/audio/hi/p18_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "In",
-                "t": 70.0,
-                "d": 240.0
-              },
-              {
-                "w": "that",
-                "t": 310.0,
-                "d": 200.0
-              },
-              {
-                "w": "thin",
-                "t": 510.0,
-                "d": 560.0
-              },
-              {
-                "w": "shining",
-                "t": 1070.0,
-                "d": 600.0
-              },
-              {
-                "w": "surface",
-                "t": 1670.0,
-                "d": 880.0
-              },
-              {
-                "w": "we",
-                "t": 2550.0,
-                "d": 239.0
-              },
-              {
-                "w": "do",
-                "t": 2789.0,
-                "d": 120.0
-              },
-              {
-                "w": "not",
-                "t": 2909.0,
-                "d": 241.0
-              },
-              {
-                "w": "see",
-                "t": 3150.0,
-                "d": 159.0
-              },
-              {
-                "w": "a",
-                "t": 3309.0,
-                "d": 160.0
-              },
-              {
-                "w": "king",
-                "t": 3469.0,
-                "d": 281.0
-              },
-              {
-                "w": "or",
-                "t": 3750.0,
-                "d": 159.0
-              },
-              {
-                "w": "a",
-                "t": 3909.0,
-                "d": 80.0
-              },
-              {
-                "w": "battle",
-                "t": 3989.0,
-                "d": 601.0
-              },
-              {
-                "w": "but",
-                "t": 5110.0,
-                "d": 240.0
-              },
-              {
-                "w": "a",
-                "t": 5350.0,
-                "d": 80.0
-              },
-              {
-                "w": "craftsman's",
-                "t": 5430.0,
-                "d": 680.0
-              },
-              {
-                "w": "gamble",
-                "t": 6110.0,
-                "d": 760.0
-              },
-              {
-                "w": "a",
-                "t": 7110.0,
-                "d": 200.0
-              },
-              {
-                "w": "city's",
-                "t": 7310.0,
-                "d": 440.0
-              },
-              {
-                "w": "hunger",
-                "t": 7750.0,
-                "d": 319.0
-              },
-              {
-                "w": "for",
-                "t": 8069.0,
-                "d": 160.0
-              },
-              {
-                "w": "refinement",
-                "t": 8229.0,
-                "d": 1041.0
-              },
-              {
-                "w": "and",
-                "t": 9389.0,
-                "d": 281.0
-              },
-              {
-                "w": "the",
-                "t": 9670.0,
-                "d": 120.0
-              },
-              {
-                "w": "quiet",
-                "t": 9790.0,
-                "d": 359.0
-              },
-              {
-                "w": "sheen",
-                "t": 10149.0,
-                "d": 681.0
-              },
-              {
-                "w": "by",
-                "t": 10990.0,
-                "d": 319.0
-              },
-              {
-                "w": "which",
-                "t": 11309.0,
-                "d": 240.0
-              },
-              {
-                "w": "we",
-                "t": 11549.0,
-                "d": 121.0
-              },
-              {
-                "w": "still",
-                "t": 11670.0,
-                "d": 320.0
-              },
-              {
-                "w": "recognize",
-                "t": 11990.0,
-                "d": 600.0
-              },
-              {
-                "w": "their",
-                "t": 12590.0,
-                "d": 200.0
-              },
-              {
-                "w": "world",
-                "t": 12790.0,
-                "d": 519.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
+      "hi": []
+     }
     }
-  ],
-  "hero": {
-    "name": "Northern Black Polished Ware Potter",
-    "epithets": [
-      "Makers of Northern Black Polished Ware",
-      "Masters of mirror-dark pottery",
-      "Kiln-smiths of the mahajanapadas",
-      "City-age clay artisans"
-    ],
-    "legend": "They turned village clay into the shining mark of new cities."
+   ]
+  },
+  {
+   "id": "intro_map",
+   "type": "map",
+   "mood": "suspense",
+   "map": "assets/the_shining_black_bowl/intro/map.png",
+   "x": 0.55,
+   "y": 0.32,
+   "label": "Gangetic Plain & Malwa, north India",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Here the new towns rise by slow rivers, as black shining bowls pass from smoky kilns into the hands of kings and traders.",
+      "hi": "यहाँ धीमी नदियों के पास नए कस्बे उठते हैं, जब काले चमकते कटोरे धुएँदार भट्टियों से निकलकर राजाओं और सौदागरों के हाथों में जाते हैं।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/intro/map_en.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/intro/map_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Here",
+        "t": 80.0,
+        "d": 413.0
+       },
+       {
+        "w": "the",
+        "t": 494.0,
+        "d": 137.0
+       },
+       {
+        "w": "new",
+        "t": 632.0,
+        "d": 321.0
+       },
+       {
+        "w": "towns",
+        "t": 954.0,
+        "d": 505.0
+       },
+       {
+        "w": "rise",
+        "t": 1459.0,
+        "d": 643.0
+       },
+       {
+        "w": "by",
+        "t": 2241.0,
+        "d": 275.0
+       },
+       {
+        "w": "slow",
+        "t": 2517.0,
+        "d": 367.0
+       },
+       {
+        "w": "rivers",
+        "t": 2885.0,
+        "d": 781.0
+       },
+       {
+        "w": "as",
+        "t": 3941.0,
+        "d": 368.0
+       },
+       {
+        "w": "black",
+        "t": 4310.0,
+        "d": 459.0
+       },
+       {
+        "w": "shining",
+        "t": 4770.0,
+        "d": 551.0
+       },
+       {
+        "w": "bowls",
+        "t": 5321.0,
+        "d": 551.0
+       },
+       {
+        "w": "pass",
+        "t": 5873.0,
+        "d": 367.0
+       },
+       {
+        "w": "from",
+        "t": 6241.0,
+        "d": 229.0
+       },
+       {
+        "w": "smoky",
+        "t": 6471.0,
+        "d": 735.0
+       },
+       {
+        "w": "kilns",
+        "t": 7206.0,
+        "d": 505.0
+       },
+       {
+        "w": "into",
+        "t": 7804.0,
+        "d": 367.0
+       },
+       {
+        "w": "the",
+        "t": 8172.0,
+        "d": 183.0
+       },
+       {
+        "w": "hands",
+        "t": 8356.0,
+        "d": 413.0
+       },
+       {
+        "w": "of",
+        "t": 8770.0,
+        "d": 229.0
+       },
+       {
+        "w": "kings",
+        "t": 9000.0,
+        "d": 458.0
+       },
+       {
+        "w": "and",
+        "t": 9458.0,
+        "d": 275.0
+       },
+       {
+        "w": "traders",
+        "t": 9734.0,
+        "d": 965.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "cover",
+   "art": "assets/the_shining_black_bowl/img/cover.png",
+   "shot": "dramatic low-angle close-up of a potter’s hands lifting a gleaming black bowl from a kiln mouth glowing in the night",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "In the age when old cities lay silent, a new India returned in a shining black bowl.",
+      "hi": "जब पुराने शहर खामोश थे, एक नया भारत चमकते काले कटोरे में लौटा।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/cover_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/cover_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "In",
+        "t": 117.0,
+        "d": 212.0
+       },
+       {
+        "w": "the",
+        "t": 329.0,
+        "d": 212.0
+       },
+       {
+        "w": "age",
+        "t": 542.0,
+        "d": 382.0
+       },
+       {
+        "w": "when",
+        "t": 925.0,
+        "d": 297.0
+       },
+       {
+        "w": "old",
+        "t": 1223.0,
+        "d": 340.0
+       },
+       {
+        "w": "cities",
+        "t": 1563.0,
+        "d": 425.0
+       },
+       {
+        "w": "lay",
+        "t": 1989.0,
+        "d": 169.0
+       },
+       {
+        "w": "silent",
+        "t": 2158.0,
+        "d": 767.0
+       },
+       {
+        "w": "a",
+        "t": 3393.0,
+        "d": 126.0
+       },
+       {
+        "w": "new",
+        "t": 3520.0,
+        "d": 298.0
+       },
+       {
+        "w": "India",
+        "t": 3819.0,
+        "d": 424.0
+       },
+       {
+        "w": "returned",
+        "t": 4243.0,
+        "d": 511.0
+       },
+       {
+        "w": "in",
+        "t": 4755.0,
+        "d": 127.0
+       },
+       {
+        "w": "a",
+        "t": 4882.0,
+        "d": 85.0
+       },
+       {
+        "w": "shining",
+        "t": 4968.0,
+        "d": 553.0
+       },
+       {
+        "w": "black",
+        "t": 5521.0,
+        "d": 297.0
+       },
+       {
+        "w": "bowl",
+        "t": 5819.0,
+        "d": 510.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p01",
+   "art": "assets/the_shining_black_bowl/img/p01.png",
+   "shot": "wide aerial of the Gangetic plain at dawn",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Long after the bricks of Harappa cooled, the Ganga plains woke slowly, fields, hamlets, and memory where great cities had once stood.",
+      "hi": "हरप्पा की ईंटें ठंडी होने के बहुत बाद, गंगा के मैदानी धीरे जगे—खेत, बस्तियाँ, यादें, जहाँ कभी नगर धड़के थे।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p01_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p01_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Long",
+        "t": 74.0,
+        "d": 425.0
+       },
+       {
+        "w": "after",
+        "t": 500.0,
+        "d": 297.0
+       },
+       {
+        "w": "the",
+        "t": 797.0,
+        "d": 127.0
+       },
+       {
+        "w": "bricks",
+        "t": 925.0,
+        "d": 297.0
+       },
+       {
+        "w": "of",
+        "t": 1223.0,
+        "d": 170.0
+       },
+       {
+        "w": "Harappa",
+        "t": 1393.0,
+        "d": 425.0
+       },
+       {
+        "w": "cooled",
+        "t": 1819.0,
+        "d": 936.0
+       },
+       {
+        "w": "the",
+        "t": 2840.0,
+        "d": 211.0
+       },
+       {
+        "w": "Ganga",
+        "t": 3052.0,
+        "d": 426.0
+       },
+       {
+        "w": "plains",
+        "t": 3478.0,
+        "d": 382.0
+       },
+       {
+        "w": "woke",
+        "t": 3861.0,
+        "d": 425.0
+       },
+       {
+        "w": "slowly",
+        "t": 4287.0,
+        "d": 851.0
+       },
+       {
+        "w": "fields",
+        "t": 5265.0,
+        "d": 808.0
+       },
+       {
+        "w": "hamlets",
+        "t": 6244.0,
+        "d": 893.0
+       },
+       {
+        "w": "and",
+        "t": 7351.0,
+        "d": 255.0
+       },
+       {
+        "w": "memory",
+        "t": 7606.0,
+        "d": 893.0
+       },
+       {
+        "w": "where",
+        "t": 8541.0,
+        "d": 297.0
+       },
+       {
+        "w": "great",
+        "t": 8839.0,
+        "d": 340.0
+       },
+       {
+        "w": "cities",
+        "t": 9179.0,
+        "d": 384.0
+       },
+       {
+        "w": "had",
+        "t": 9563.0,
+        "d": 212.0
+       },
+       {
+        "w": "once",
+        "t": 9776.0,
+        "d": 340.0
+       },
+       {
+        "w": "stood",
+        "t": 10117.0,
+        "d": 553.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p02",
+   "art": "assets/the_shining_black_bowl/img/p02.png",
+   "shot": "wide establishing shot of an early mahajanapada town under construction",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Then, between about seven hundred and three hundred BCE, towns rose again, Vaishali, Rajgir, Kausambi, Ujjain, each a knot of mud-brick, timber, trade, and ambition.",
+      "hi": "फिर लगभग 700 से 300 ईसा पूर्व के बीच, वैशलि, राजगिर, कौशाम्बी, उज्जैन जैसे नगर फिर उठे—कच्ची-ईंट, लकड़ी, व्यापार और हौसले की गाँठें।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p02_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p02_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Then",
+        "t": 74.0,
+        "d": 595.0
+       },
+       {
+        "w": "between",
+        "t": 797.0,
+        "d": 382.0
+       },
+       {
+        "w": "about",
+        "t": 1180.0,
+        "d": 297.0
+       },
+       {
+        "w": "seven",
+        "t": 1478.0,
+        "d": 340.0
+       },
+       {
+        "w": "hundred",
+        "t": 1819.0,
+        "d": 978.0
+       },
+       {
+        "w": "and",
+        "t": 3179.0,
+        "d": 298.0
+       },
+       {
+        "w": "three",
+        "t": 4073.0,
+        "d": 639.0
+       },
+       {
+        "w": "hundred",
+        "t": 4712.0,
+        "d": 468.0
+       },
+       {
+        "w": "BCE",
+        "t": 5563.0,
+        "d": 680.0
+       },
+       {
+        "w": "towns",
+        "t": 6500.0,
+        "d": 340.0
+       },
+       {
+        "w": "rose",
+        "t": 6882.0,
+        "d": 425.0
+       },
+       {
+        "w": "again",
+        "t": 7308.0,
+        "d": 212.0
+       },
+       {
+        "w": "Vaishali",
+        "t": 7521.0,
+        "d": 425.0
+       },
+       {
+        "w": "Rajgir",
+        "t": 7946.0,
+        "d": 255.0
+       },
+       {
+        "w": "Kausambi",
+        "t": 8202.0,
+        "d": 339.0
+       },
+       {
+        "w": "Ujjain",
+        "t": 8541.0,
+        "d": 979.0
+       },
+       {
+        "w": "each",
+        "t": 9861.0,
+        "d": 425.0
+       },
+       {
+        "w": "a",
+        "t": 10287.0,
+        "d": 85.0
+       },
+       {
+        "w": "knot",
+        "t": 10372.0,
+        "d": 339.0
+       },
+       {
+        "w": "of",
+        "t": 10711.0,
+        "d": 170.0
+       },
+       {
+        "w": "mud-brick",
+        "t": 10881.0,
+        "d": 639.0
+       },
+       {
+        "w": "timber",
+        "t": 11945.0,
+        "d": 809.0
+       },
+       {
+        "w": "trade",
+        "t": 12797.0,
+        "d": 595.0
+       },
+       {
+        "w": "and",
+        "t": 13435.0,
+        "d": 213.0
+       },
+       {
+        "w": "ambition",
+        "t": 13648.0,
+        "d": 723.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p03",
+   "art": "assets/the_shining_black_bowl/img/p03.png",
+   "shot": "medium interior shot of a crowded artisans’ quarter",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "In these mahajanapada towns, work split into many hands, iron-smelters, weavers, carters, and among them, potters whose wares would mark the very age.",
+      "hi": "इन महाजनपद नगरों में काम कई हाथों में बँटा—लोहार, बुनकर, गाड़ीवान, और उनमें कुम्हार, जिनके घड़े पूरे युग की पहचान बने।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p03_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p03_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "In",
+        "t": 74.0,
+        "d": 170.0
+       },
+       {
+        "w": "these",
+        "t": 244.0,
+        "d": 297.0
+       },
+       {
+        "w": "mahajanapada",
+        "t": 542.0,
+        "d": 765.0
+       },
+       {
+        "w": "towns",
+        "t": 1308.0,
+        "d": 638.0
+       },
+       {
+        "w": "work",
+        "t": 2202.0,
+        "d": 381.0
+       },
+       {
+        "w": "split",
+        "t": 2584.0,
+        "d": 341.0
+       },
+       {
+        "w": "into",
+        "t": 2925.0,
+        "d": 254.0
+       },
+       {
+        "w": "many",
+        "t": 3179.0,
+        "d": 340.0
+       },
+       {
+        "w": "hands",
+        "t": 3520.0,
+        "d": 680.0
+       },
+       {
+        "w": "iron-smelters",
+        "t": 4457.0,
+        "d": 1063.0
+       },
+       {
+        "w": "weavers",
+        "t": 5776.0,
+        "d": 936.0
+       },
+       {
+        "w": "carters",
+        "t": 6797.0,
+        "d": 893.0
+       },
+       {
+        "w": "and",
+        "t": 7819.0,
+        "d": 382.0
+       },
+       {
+        "w": "among",
+        "t": 8202.0,
+        "d": 381.0
+       },
+       {
+        "w": "them",
+        "t": 8584.0,
+        "d": 680.0
+       },
+       {
+        "w": "potters",
+        "t": 9436.0,
+        "d": 467.0
+       },
+       {
+        "w": "whose",
+        "t": 9903.0,
+        "d": 298.0
+       },
+       {
+        "w": "wares",
+        "t": 10202.0,
+        "d": 340.0
+       },
+       {
+        "w": "would",
+        "t": 10542.0,
+        "d": 254.0
+       },
+       {
+        "w": "mark",
+        "t": 10796.0,
+        "d": 298.0
+       },
+       {
+        "w": "the",
+        "t": 11095.0,
+        "d": 211.0
+       },
+       {
+        "w": "very",
+        "t": 11307.0,
+        "d": 426.0
+       },
+       {
+        "w": "age",
+        "t": 11734.0,
+        "d": 637.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "action_auto",
+   "type": "action",
+   "mood": "suspense",
+   "bg": "assets/the_shining_black_bowl/action_auto/bg.png",
+   "chars": [
+    {
+     "img": "assets/the_shining_black_bowl/action_auto/char0.png",
+     "motion": {
+      "fromX": -40,
+      "toX": -10,
+      "fromScale": 0.82,
+      "toScale": 1.03,
+      "rot": -2,
+      "dur": 7200
+     }
+    }
+   ],
+   "motion": {
+    "bgZoom": 1.12,
+    "bgPan": -6,
+    "dur": 7200
+   },
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "He measures risk in clouds and clay, guarding fragile bowls as storms threaten the newborn city's fragile walls.",
+      "hi": "वो बादलों‑मिट्टी में खतरा तौलता है, तूफ़ान के बीच नाज़ुक कटोरों और नवजन्मी नगरी की दीवारों की रखवाली करता है।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/action/action_auto_en.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/action/action_auto_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "He",
+        "t": 80.0,
+        "d": 275.0
+       },
+       {
+        "w": "measures",
+        "t": 356.0,
+        "d": 459.0
+       },
+       {
+        "w": "risk",
+        "t": 816.0,
+        "d": 413.0
+       },
+       {
+        "w": "in",
+        "t": 1229.0,
+        "d": 137.0
+       },
+       {
+        "w": "clouds",
+        "t": 1367.0,
+        "d": 459.0
+       },
+       {
+        "w": "and",
+        "t": 1827.0,
+        "d": 183.0
+       },
+       {
+        "w": "clay",
+        "t": 2011.0,
+        "d": 642.0
+       },
+       {
+        "w": "guarding",
+        "t": 2791.0,
+        "d": 551.0
+       },
+       {
+        "w": "fragile",
+        "t": 3343.0,
+        "d": 505.0
+       },
+       {
+        "w": "bowls",
+        "t": 3849.0,
+        "d": 597.0
+       },
+       {
+        "w": "as",
+        "t": 4493.0,
+        "d": 322.0
+       },
+       {
+        "w": "storms",
+        "t": 4816.0,
+        "d": 597.0
+       },
+       {
+        "w": "threaten",
+        "t": 5413.0,
+        "d": 413.0
+       },
+       {
+        "w": "the",
+        "t": 5827.0,
+        "d": 137.0
+       },
+       {
+        "w": "newborn",
+        "t": 5965.0,
+        "d": 551.0
+       },
+       {
+        "w": "city's",
+        "t": 6517.0,
+        "d": 735.0
+       },
+       {
+        "w": "fragile",
+        "t": 7298.0,
+        "d": 689.0
+       },
+       {
+        "w": "walls",
+        "t": 7988.0,
+        "d": 643.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p04",
+   "art": "assets/the_shining_black_bowl/img/p04.png",
+   "shot": "tight overhead shot of hands working clay on a wheel",
+   "mood": "battle",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "He chooses clay more carefully than his fathers, washes and refines it, thins the walls, and balances each curve like a blade.",
+      "hi": "वह मिट्टी पिता से ज्यादा नाप-तौलकर चुनता है, धो-पोंछकर सानता है, घड़ा पतला करता है, हर घुमाव तलवार जैसा संतुलित रखता है।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p04_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p04_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "He",
+        "t": 70.0,
+        "d": 240.0
+       },
+       {
+        "w": "chooses",
+        "t": 310.0,
+        "d": 440.0
+       },
+       {
+        "w": "clay",
+        "t": 750.0,
+        "d": 240.0
+       },
+       {
+        "w": "more",
+        "t": 990.0,
+        "d": 280.0
+       },
+       {
+        "w": "carefully",
+        "t": 1270.0,
+        "d": 440.0
+       },
+       {
+        "w": "than",
+        "t": 1710.0,
+        "d": 160.0
+       },
+       {
+        "w": "his",
+        "t": 1870.0,
+        "d": 159.0
+       },
+       {
+        "w": "fathers",
+        "t": 2029.0,
+        "d": 800.0
+       },
+       {
+        "w": "washes",
+        "t": 2909.0,
+        "d": 601.0
+       },
+       {
+        "w": "and",
+        "t": 3510.0,
+        "d": 160.0
+       },
+       {
+        "w": "refines",
+        "t": 3670.0,
+        "d": 480.0
+       },
+       {
+        "w": "it",
+        "t": 4150.0,
+        "d": 440.0
+       },
+       {
+        "w": "thins",
+        "t": 4830.0,
+        "d": 320.0
+       },
+       {
+        "w": "the",
+        "t": 5150.0,
+        "d": 120.0
+       },
+       {
+        "w": "walls",
+        "t": 5270.0,
+        "d": 600.0
+       },
+       {
+        "w": "and",
+        "t": 6070.0,
+        "d": 360.0
+       },
+       {
+        "w": "balances",
+        "t": 6430.0,
+        "d": 600.0
+       },
+       {
+        "w": "each",
+        "t": 7030.0,
+        "d": 440.0
+       },
+       {
+        "w": "curve",
+        "t": 7470.0,
+        "d": 280.0
+       },
+       {
+        "w": "like",
+        "t": 7750.0,
+        "d": 240.0
+       },
+       {
+        "w": "a",
+        "t": 7990.0,
+        "d": 39.0
+       },
+       {
+        "w": "blade",
+        "t": 8029.0,
+        "d": 481.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p05",
+   "art": "assets/the_shining_black_bowl/img/p05.png",
+   "shot": "medium shot of a specialized kiln structure in a yard outside the town",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Around some towns, kilns grow larger and more planned, two chambers, controlled draught, hotter fires, signs of a craft now serving distant markets and demanding patrons.",
+      "hi": "कई नगरों के बाहर भट्टियाँ बड़ी और सधी बनती हैं—दो कोठे, नियंत्रित हवा, तेज़ आग—हुनर अब दूर बाज़ारों और खरे सरदारों की सेवा में।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p05_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p05_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Around",
+        "t": 74.0,
+        "d": 382.0
+       },
+       {
+        "w": "some",
+        "t": 457.0,
+        "d": 297.0
+       },
+       {
+        "w": "towns",
+        "t": 755.0,
+        "d": 765.0
+       },
+       {
+        "w": "kilns",
+        "t": 1734.0,
+        "d": 340.0
+       },
+       {
+        "w": "grow",
+        "t": 2074.0,
+        "d": 212.0
+       },
+       {
+        "w": "larger",
+        "t": 2287.0,
+        "d": 679.0
+       },
+       {
+        "w": "and",
+        "t": 3052.0,
+        "d": 256.0
+       },
+       {
+        "w": "more",
+        "t": 3308.0,
+        "d": 254.0
+       },
+       {
+        "w": "planned",
+        "t": 3562.0,
+        "d": 680.0
+       },
+       {
+        "w": "two",
+        "t": 4457.0,
+        "d": 212.0
+       },
+       {
+        "w": "chambers",
+        "t": 4670.0,
+        "d": 765.0
+       },
+       {
+        "w": "controlled",
+        "t": 5521.0,
+        "d": 553.0
+       },
+       {
+        "w": "draught",
+        "t": 6074.0,
+        "d": 595.0
+       },
+       {
+        "w": "hotter",
+        "t": 6882.0,
+        "d": 340.0
+       },
+       {
+        "w": "fires",
+        "t": 7223.0,
+        "d": 765.0
+       },
+       {
+        "w": "signs",
+        "t": 8372.0,
+        "d": 510.0
+       },
+       {
+        "w": "of",
+        "t": 8882.0,
+        "d": 126.0
+       },
+       {
+        "w": "a",
+        "t": 9009.0,
+        "d": 85.0
+       },
+       {
+        "w": "craft",
+        "t": 9094.0,
+        "d": 384.0
+       },
+       {
+        "w": "now",
+        "t": 9478.0,
+        "d": 254.0
+       },
+       {
+        "w": "serving",
+        "t": 9732.0,
+        "d": 425.0
+       },
+       {
+        "w": "distant",
+        "t": 10158.0,
+        "d": 384.0
+       },
+       {
+        "w": "markets",
+        "t": 10542.0,
+        "d": 638.0
+       },
+       {
+        "w": "and",
+        "t": 11222.0,
+        "d": 170.0
+       },
+       {
+        "w": "demanding",
+        "t": 11392.0,
+        "d": 553.0
+       },
+       {
+        "w": "patrons",
+        "t": 11945.0,
+        "d": 809.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p06",
+   "art": "assets/the_shining_black_bowl/img/p06.png",
+   "shot": "close-up on the potter’s intense face lit by kiln fire",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "No text tells his name, and his exact secret is lost; we only know he drove his kiln hotter, steadier, to a finish no common village pot could match.",
+      "hi": "उसका नाम किसी ग्रंथ में नहीं, राज़ भी खो गया; बस इतना पता है उसने भट्टी और गरम, और सम रखी, जितना कोई देहाती घड़ा पहुँच ही न सके।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p06_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p06_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "No",
+        "t": 80.0,
+        "d": 367.0
+       },
+       {
+        "w": "text",
+        "t": 448.0,
+        "d": 413.0
+       },
+       {
+        "w": "tells",
+        "t": 862.0,
+        "d": 229.0
+       },
+       {
+        "w": "his",
+        "t": 1091.0,
+        "d": 183.0
+       },
+       {
+        "w": "name",
+        "t": 1275.0,
+        "d": 689.0
+       },
+       {
+        "w": "and",
+        "t": 1965.0,
+        "d": 275.0
+       },
+       {
+        "w": "his",
+        "t": 2241.0,
+        "d": 137.0
+       },
+       {
+        "w": "exact",
+        "t": 2379.0,
+        "d": 505.0
+       },
+       {
+        "w": "secret",
+        "t": 2885.0,
+        "d": 550.0
+       },
+       {
+        "w": "is",
+        "t": 3482.0,
+        "d": 183.0
+       },
+       {
+        "w": "lost",
+        "t": 3666.0,
+        "d": 688.0
+       },
+       {
+        "w": "we",
+        "t": 4816.0,
+        "d": 367.0
+       },
+       {
+        "w": "only",
+        "t": 5183.0,
+        "d": 367.0
+       },
+       {
+        "w": "know",
+        "t": 5551.0,
+        "d": 183.0
+       },
+       {
+        "w": "he",
+        "t": 5735.0,
+        "d": 137.0
+       },
+       {
+        "w": "drove",
+        "t": 5873.0,
+        "d": 367.0
+       },
+       {
+        "w": "his",
+        "t": 6241.0,
+        "d": 137.0
+       },
+       {
+        "w": "kiln",
+        "t": 6379.0,
+        "d": 229.0
+       },
+       {
+        "w": "hotter",
+        "t": 6609.0,
+        "d": 597.0
+       },
+       {
+        "w": "steadier",
+        "t": 7390.0,
+        "d": 919.0
+       },
+       {
+        "w": "to",
+        "t": 8448.0,
+        "d": 229.0
+       },
+       {
+        "w": "a",
+        "t": 8678.0,
+        "d": 45.0
+       },
+       {
+        "w": "finish",
+        "t": 8724.0,
+        "d": 459.0
+       },
+       {
+        "w": "no",
+        "t": 9183.0,
+        "d": 321.0
+       },
+       {
+        "w": "common",
+        "t": 9505.0,
+        "d": 412.0
+       },
+       {
+        "w": "village",
+        "t": 9918.0,
+        "d": 368.0
+       },
+       {
+        "w": "pot",
+        "t": 10287.0,
+        "d": 367.0
+       },
+       {
+        "w": "could",
+        "t": 10655.0,
+        "d": 228.0
+       },
+       {
+        "w": "match",
+        "t": 10883.0,
+        "d": 598.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p07",
+   "art": "assets/the_shining_black_bowl/img/p07.png",
+   "shot": "dramatic close-up of the first gleaming bowl being revealed",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Out of that heat came thin bowls and dishes, fired hard, their skin dark and shining, catching light like still water in a stone basin.",
+      "hi": "उस आग से कटोरे और थालियाँ निकलीं—पतली, कड़ी जली हुई, ऊपर काला, चकमक जैसे पत्थर के कुंड में ठहरा पानी।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p07_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p07_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Out",
+        "t": 117.0,
+        "d": 297.0
+       },
+       {
+        "w": "of",
+        "t": 414.0,
+        "d": 127.0
+       },
+       {
+        "w": "that",
+        "t": 542.0,
+        "d": 212.0
+       },
+       {
+        "w": "heat",
+        "t": 755.0,
+        "d": 553.0
+       },
+       {
+        "w": "came",
+        "t": 1351.0,
+        "d": 340.0
+       },
+       {
+        "w": "thin",
+        "t": 1691.0,
+        "d": 297.0
+       },
+       {
+        "w": "bowls",
+        "t": 1989.0,
+        "d": 382.0
+       },
+       {
+        "w": "and",
+        "t": 2372.0,
+        "d": 169.0
+       },
+       {
+        "w": "dishes",
+        "t": 2541.0,
+        "d": 852.0
+       },
+       {
+        "w": "fired",
+        "t": 3647.0,
+        "d": 553.0
+       },
+       {
+        "w": "hard",
+        "t": 4201.0,
+        "d": 894.0
+       },
+       {
+        "w": "their",
+        "t": 5138.0,
+        "d": 340.0
+       },
+       {
+        "w": "skin",
+        "t": 5478.0,
+        "d": 382.0
+       },
+       {
+        "w": "dark",
+        "t": 5861.0,
+        "d": 340.0
+       },
+       {
+        "w": "and",
+        "t": 6202.0,
+        "d": 170.0
+       },
+       {
+        "w": "shining",
+        "t": 6372.0,
+        "d": 1234.0
+       },
+       {
+        "w": "catching",
+        "t": 7606.0,
+        "d": 425.0
+       },
+       {
+        "w": "light",
+        "t": 8031.0,
+        "d": 297.0
+       },
+       {
+        "w": "like",
+        "t": 8329.0,
+        "d": 254.0
+       },
+       {
+        "w": "still",
+        "t": 8584.0,
+        "d": 298.0
+       },
+       {
+        "w": "water",
+        "t": 8882.0,
+        "d": 553.0
+       },
+       {
+        "w": "in",
+        "t": 9478.0,
+        "d": 127.0
+       },
+       {
+        "w": "a",
+        "t": 9606.0,
+        "d": 85.0
+       },
+       {
+        "w": "stone",
+        "t": 9691.0,
+        "d": 381.0
+       },
+       {
+        "w": "basin",
+        "t": 10073.0,
+        "d": 681.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p08",
+   "art": "assets/the_shining_black_bowl/img/p08.png",
+   "shot": "medium shot of the potter presenting bowls to a finely dressed merchant",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "speech",
+     "role": "male",
+     "text": {
+      "en": "See, sir, this one keeps its shine even in the dim.",
+      "hi": "देखिए साहब—धुँधलके में भी इस पर चमक बनी रहती है।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p08_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p08_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "See",
+        "t": 49.0,
+        "d": 330.9
+       },
+       {
+        "w": "sir",
+        "t": 600.5,
+        "d": 404.4
+       },
+       {
+        "w": "this",
+        "t": 1299.0,
+        "d": 257.3
+       },
+       {
+        "w": "one",
+        "t": 1556.4,
+        "d": 269.6
+       },
+       {
+        "w": "keeps",
+        "t": 1862.8,
+        "d": 367.7
+       },
+       {
+        "w": "its",
+        "t": 2303.9,
+        "d": 245.1
+       },
+       {
+        "w": "shine",
+        "t": 2598.0,
+        "d": 416.7
+       },
+       {
+        "w": "even",
+        "t": 3100.5,
+        "d": 343.1
+       },
+       {
+        "w": "in",
+        "t": 3517.2,
+        "d": 110.3
+       },
+       {
+        "w": "the",
+        "t": 3639.7,
+        "d": 122.5
+       },
+       {
+        "w": "dim",
+        "t": 3762.2,
+        "d": 379.9
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p09",
+   "art": "assets/the_shining_black_bowl/img/p09.png",
+   "shot": "wide shot inside an elite household or assembly hall",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Soon such bowls gleamed on elite floors, from clan assemblies in Vaishali to rich homes in Kausambi, tableware that spoke of rank, reach, and new tastes.",
+      "hi": "जल्दी ही ऐसे कटोरे ऊँचे घरों में दमकने लगे—वैशलि की सभा से कौशाम्बी के अमीर आँगन तक—बर्तन जो रुतबा, फैलाव और नए ज़ायके बता दें।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p09_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p09_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Soon",
+        "t": 74.0,
+        "d": 382.0
+       },
+       {
+        "w": "such",
+        "t": 457.0,
+        "d": 297.0
+       },
+       {
+        "w": "bowls",
+        "t": 755.0,
+        "d": 510.0
+       },
+       {
+        "w": "gleamed",
+        "t": 1265.0,
+        "d": 468.0
+       },
+       {
+        "w": "on",
+        "t": 1734.0,
+        "d": 297.0
+       },
+       {
+        "w": "elite",
+        "t": 2031.0,
+        "d": 424.0
+       },
+       {
+        "w": "floors",
+        "t": 2456.0,
+        "d": 553.0
+       },
+       {
+        "w": "from",
+        "t": 3436.0,
+        "d": 340.0
+       },
+       {
+        "w": "clan",
+        "t": 3776.0,
+        "d": 254.0
+       },
+       {
+        "w": "assemblies",
+        "t": 4030.0,
+        "d": 511.0
+       },
+       {
+        "w": "in",
+        "t": 4542.0,
+        "d": 127.0
+       },
+       {
+        "w": "Vaishali",
+        "t": 4670.0,
+        "d": 680.0
+       },
+       {
+        "w": "to",
+        "t": 5478.0,
+        "d": 212.0
+       },
+       {
+        "w": "rich",
+        "t": 5691.0,
+        "d": 255.0
+       },
+       {
+        "w": "homes",
+        "t": 5946.0,
+        "d": 382.0
+       },
+       {
+        "w": "in",
+        "t": 6329.0,
+        "d": 212.0
+       },
+       {
+        "w": "Kausambi",
+        "t": 6542.0,
+        "d": 680.0
+       },
+       {
+        "w": "tableware",
+        "t": 7861.0,
+        "d": 553.0
+       },
+       {
+        "w": "that",
+        "t": 8414.0,
+        "d": 211.0
+       },
+       {
+        "w": "spoke",
+        "t": 8626.0,
+        "d": 341.0
+       },
+       {
+        "w": "of",
+        "t": 8968.0,
+        "d": 170.0
+       },
+       {
+        "w": "rank",
+        "t": 9138.0,
+        "d": 594.0
+       },
+       {
+        "w": "reach",
+        "t": 9776.0,
+        "d": 765.0
+       },
+       {
+        "w": "and",
+        "t": 10585.0,
+        "d": 340.0
+       },
+       {
+        "w": "new",
+        "t": 10925.0,
+        "d": 296.0
+       },
+       {
+        "w": "tastes",
+        "t": 11222.0,
+        "d": 723.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "art": "assets/the_shining_black_bowl/img/p10.png",
+   "shot": "map-like wide shot blending multiple sites with a trade route overlay",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Archaeologists later find this ware at Rajgir, Vaishali, Kausambi, Ujjain, Ahichhatra, Hastinapur, Mathura, its spread tracing trade lines, not a single king's command.",
+      "hi": "पुरातत्वविद बाद में यही बर्तन राजगिर, वैशलि, कौशाम्बी, उज्जैन, अहीच्छत्र, हस्तिनापुर, मथुरा में पाते हैं—इनका फैलाव व्यापार की रेखा, न कि किसी एक राजा का हुक्म।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p10_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p10_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Archaeologists",
+        "t": 159.0,
+        "d": 893.0
+       },
+       {
+        "w": "later",
+        "t": 1053.0,
+        "d": 340.0
+       },
+       {
+        "w": "find",
+        "t": 1393.0,
+        "d": 340.0
+       },
+       {
+        "w": "this",
+        "t": 1734.0,
+        "d": 255.0
+       },
+       {
+        "w": "ware",
+        "t": 1989.0,
+        "d": 255.0
+       },
+       {
+        "w": "at",
+        "t": 2244.0,
+        "d": 296.0
+       },
+       {
+        "w": "Rajgir",
+        "t": 2584.0,
+        "d": 767.0
+       },
+       {
+        "w": "Vaishali",
+        "t": 3520.0,
+        "d": 638.0
+       },
+       {
+        "w": "Kausambi",
+        "t": 4414.0,
+        "d": 638.0
+       },
+       {
+        "w": "Ujjain",
+        "t": 5351.0,
+        "d": 680.0
+       },
+       {
+        "w": "Ahichhatra",
+        "t": 6457.0,
+        "d": 893.0
+       },
+       {
+        "w": "Hastinapur",
+        "t": 7648.0,
+        "d": 851.0
+       },
+       {
+        "w": "Mathura",
+        "t": 8924.0,
+        "d": 554.0
+       },
+       {
+        "w": "its",
+        "t": 10031.0,
+        "d": 211.0
+       },
+       {
+        "w": "spread",
+        "t": 10243.0,
+        "d": 384.0
+       },
+       {
+        "w": "tracing",
+        "t": 10627.0,
+        "d": 553.0
+       },
+       {
+        "w": "trade",
+        "t": 11180.0,
+        "d": 255.0
+       },
+       {
+        "w": "lines",
+        "t": 11436.0,
+        "d": 638.0
+       },
+       {
+        "w": "not",
+        "t": 12286.0,
+        "d": 298.0
+       },
+       {
+        "w": "a",
+        "t": 12585.0,
+        "d": 42.0
+       },
+       {
+        "w": "single",
+        "t": 12627.0,
+        "d": 510.0
+       },
+       {
+        "w": "king's",
+        "t": 13138.0,
+        "d": 296.0
+       },
+       {
+        "w": "command",
+        "t": 13435.0,
+        "d": 638.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "art": "assets/the_shining_black_bowl/img/p11.png",
+   "shot": "medium shot of a village scene using simpler pottery",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Yet beyond the city walls, most hands still ate from rougher clay. The shining bowls were few, their owners fewer, markers of status in a layered society.",
+      "hi": "पर नगर की दीवारों से बाहर, ज़्यादातर हाथ अब भी खुरदुरी मिट्टी से खाते थे। काले चमकते कटोरे कम, उनके मालिक और भी कम—परतदार समाज में रुतबे की नज़र आती निशानी।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p11_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p11_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Yet",
+        "t": 74.0,
+        "d": 340.0
+       },
+       {
+        "w": "beyond",
+        "t": 414.0,
+        "d": 382.0
+       },
+       {
+        "w": "the",
+        "t": 797.0,
+        "d": 127.0
+       },
+       {
+        "w": "city",
+        "t": 925.0,
+        "d": 297.0
+       },
+       {
+        "w": "walls",
+        "t": 1223.0,
+        "d": 765.0
+       },
+       {
+        "w": "most",
+        "t": 2117.0,
+        "d": 424.0
+       },
+       {
+        "w": "hands",
+        "t": 2541.0,
+        "d": 425.0
+       },
+       {
+        "w": "still",
+        "t": 3009.0,
+        "d": 384.0
+       },
+       {
+        "w": "ate",
+        "t": 3393.0,
+        "d": 296.0
+       },
+       {
+        "w": "from",
+        "t": 3690.0,
+        "d": 298.0
+       },
+       {
+        "w": "rougher",
+        "t": 3989.0,
+        "d": 340.0
+       },
+       {
+        "w": "clay",
+        "t": 4329.0,
+        "d": 723.0
+       },
+       {
+        "w": "The",
+        "t": 5776.0,
+        "d": 255.0
+       },
+       {
+        "w": "shining",
+        "t": 6031.0,
+        "d": 468.0
+       },
+       {
+        "w": "bowls",
+        "t": 6500.0,
+        "d": 297.0
+       },
+       {
+        "w": "were",
+        "t": 6797.0,
+        "d": 212.0
+       },
+       {
+        "w": "few",
+        "t": 7010.0,
+        "d": 723.0
+       },
+       {
+        "w": "their",
+        "t": 7861.0,
+        "d": 297.0
+       },
+       {
+        "w": "owners",
+        "t": 8159.0,
+        "d": 381.0
+       },
+       {
+        "w": "fewer",
+        "t": 8541.0,
+        "d": 767.0
+       },
+       {
+        "w": "markers",
+        "t": 9478.0,
+        "d": 553.0
+       },
+       {
+        "w": "of",
+        "t": 10031.0,
+        "d": 85.0
+       },
+       {
+        "w": "status",
+        "t": 10117.0,
+        "d": 594.0
+       },
+       {
+        "w": "in",
+        "t": 10711.0,
+        "d": 128.0
+       },
+       {
+        "w": "a",
+        "t": 10840.0,
+        "d": 126.0
+       },
+       {
+        "w": "layered",
+        "t": 10967.0,
+        "d": 340.0
+       },
+       {
+        "w": "society",
+        "t": 11307.0,
+        "d": 808.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "art": "assets/the_shining_black_bowl/img/p12.png",
+   "shot": "archaeological cross-section shot showing layers of a mound",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Centuries later, when B.B. Lal cuts into Hastinapur's mound, he finds those black sherds in a distinct layer, a material line between earlier villages and later towns.",
+      "hi": "सदियाँ बाद, जब बी.बी. लाल हस्तिनापुर की टीली काटते हैं, उन्हें एक खास तह में वही काले टुकड़े मिलते हैं—एक भौतिक रेखा, जो पुराने गाँवों और बाद के नगरों के बीच खिंचती है।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p12_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p12_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Centuries",
+        "t": 117.0,
+        "d": 595.0
+       },
+       {
+        "w": "later",
+        "t": 712.0,
+        "d": 638.0
+       },
+       {
+        "w": "when",
+        "t": 1393.0,
+        "d": 340.0
+       },
+       {
+        "w": "B.B.",
+        "t": 1734.0,
+        "d": 297.0
+       },
+       {
+        "w": "Lal",
+        "t": 2031.0,
+        "d": 297.0
+       },
+       {
+        "w": "cuts",
+        "t": 2329.0,
+        "d": 340.0
+       },
+       {
+        "w": "into",
+        "t": 2670.0,
+        "d": 212.0
+       },
+       {
+        "w": "Hastinapur's",
+        "t": 2882.0,
+        "d": 679.0
+       },
+       {
+        "w": "mound",
+        "t": 3562.0,
+        "d": 595.0
+       },
+       {
+        "w": "he",
+        "t": 4287.0,
+        "d": 297.0
+       },
+       {
+        "w": "finds",
+        "t": 4585.0,
+        "d": 382.0
+       },
+       {
+        "w": "those",
+        "t": 4968.0,
+        "d": 255.0
+       },
+       {
+        "w": "black",
+        "t": 5223.0,
+        "d": 382.0
+       },
+       {
+        "w": "sherds",
+        "t": 5606.0,
+        "d": 468.0
+       },
+       {
+        "w": "in",
+        "t": 6074.0,
+        "d": 127.0
+       },
+       {
+        "w": "a",
+        "t": 6202.0,
+        "d": 85.0
+       },
+       {
+        "w": "distinct",
+        "t": 6287.0,
+        "d": 510.0
+       },
+       {
+        "w": "layer",
+        "t": 6797.0,
+        "d": 638.0
+       },
+       {
+        "w": "a",
+        "t": 7776.0,
+        "d": 127.0
+       },
+       {
+        "w": "material",
+        "t": 7904.0,
+        "d": 510.0
+       },
+       {
+        "w": "line",
+        "t": 8414.0,
+        "d": 296.0
+       },
+       {
+        "w": "between",
+        "t": 8711.0,
+        "d": 382.0
+       },
+       {
+        "w": "earlier",
+        "t": 9094.0,
+        "d": 384.0
+       },
+       {
+        "w": "villages",
+        "t": 9478.0,
+        "d": 638.0
+       },
+       {
+        "w": "and",
+        "t": 10158.0,
+        "d": 213.0
+       },
+       {
+        "w": "later",
+        "t": 10372.0,
+        "d": 339.0
+       },
+       {
+        "w": "towns",
+        "t": 10711.0,
+        "d": 680.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "art": "assets/the_shining_black_bowl/img/p13.png",
+   "shot": "medium shot of a modern archaeologist in the trench holding a sherd",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "He calls it Northern Black Polished Ware, a modern name for an ancient craft, a way to see, in broken bowls, the timing of the second urbanization.",
+      "hi": "वह इसे नॉर्दर्न ब्लैक पॉलिश्ड वेयर नाम देते हैं—प्राचीन हुनर के लिए नया नाम, टूटी कटोरियों में दूसरी शहरी लहर का समय पढ़ने का तरीका।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p13_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p13_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "He",
+        "t": 74.0,
+        "d": 255.0
+       },
+       {
+        "w": "calls",
+        "t": 329.0,
+        "d": 297.0
+       },
+       {
+        "w": "it",
+        "t": 627.0,
+        "d": 170.0
+       },
+       {
+        "w": "Northern",
+        "t": 797.0,
+        "d": 468.0
+       },
+       {
+        "w": "Black",
+        "t": 1265.0,
+        "d": 425.0
+       },
+       {
+        "w": "Polished",
+        "t": 1691.0,
+        "d": 425.0
+       },
+       {
+        "w": "Ware",
+        "t": 2117.0,
+        "d": 765.0
+       },
+       {
+        "w": "a",
+        "t": 3052.0,
+        "d": 171.0
+       },
+       {
+        "w": "modern",
+        "t": 3223.0,
+        "d": 381.0
+       },
+       {
+        "w": "name",
+        "t": 3605.0,
+        "d": 341.0
+       },
+       {
+        "w": "for",
+        "t": 3946.0,
+        "d": 169.0
+       },
+       {
+        "w": "an",
+        "t": 4115.0,
+        "d": 171.0
+       },
+       {
+        "w": "ancient",
+        "t": 4287.0,
+        "d": 468.0
+       },
+       {
+        "w": "craft",
+        "t": 4755.0,
+        "d": 851.0
+       },
+       {
+        "w": "a",
+        "t": 5776.0,
+        "d": 170.0
+       },
+       {
+        "w": "way",
+        "t": 5946.0,
+        "d": 170.0
+       },
+       {
+        "w": "to",
+        "t": 6117.0,
+        "d": 127.0
+       },
+       {
+        "w": "see",
+        "t": 6244.0,
+        "d": 553.0
+       },
+       {
+        "w": "in",
+        "t": 6840.0,
+        "d": 255.0
+       },
+       {
+        "w": "broken",
+        "t": 7095.0,
+        "d": 382.0
+       },
+       {
+        "w": "bowls",
+        "t": 7478.0,
+        "d": 638.0
+       },
+       {
+        "w": "the",
+        "t": 8500.0,
+        "d": 211.0
+       },
+       {
+        "w": "timing",
+        "t": 8711.0,
+        "d": 468.0
+       },
+       {
+        "w": "of",
+        "t": 9179.0,
+        "d": 171.0
+       },
+       {
+        "w": "the",
+        "t": 9351.0,
+        "d": 127.0
+       },
+       {
+        "w": "second",
+        "t": 9478.0,
+        "d": 468.0
+       },
+       {
+        "w": "urbanization",
+        "t": 9988.0,
+        "d": 1022.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "art": "assets/the_shining_black_bowl/img/p14.png",
+   "shot": "split-panel style shot contrasting proto-NBPW and fully developed ware",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Some sites show earlier experiments, proto-lustrous vessels, less perfect. Step by step, the sheen deepens, the forms standardize, and a craft becomes a signature of its age.",
+      "hi": "कुछ जगह पहले की कोशिशें दिखती हैं—आधा-चमकीले, अधूरे घड़े। क़दम-दर-क़दम चमक गहराती है, आकार एक-से होते हैं, और एक हुनर अपने दौर की पहचान बन जाता है।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p14_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p14_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Some",
+        "t": 74.0,
+        "d": 340.0
+       },
+       {
+        "w": "sites",
+        "t": 414.0,
+        "d": 297.0
+       },
+       {
+        "w": "show",
+        "t": 712.0,
+        "d": 297.0
+       },
+       {
+        "w": "earlier",
+        "t": 1010.0,
+        "d": 340.0
+       },
+       {
+        "w": "experiments",
+        "t": 1351.0,
+        "d": 978.0
+       },
+       {
+        "w": "proto-lustrous",
+        "t": 2372.0,
+        "d": 851.0
+       },
+       {
+        "w": "vessels",
+        "t": 3223.0,
+        "d": 723.0
+       },
+       {
+        "w": "less",
+        "t": 4073.0,
+        "d": 341.0
+       },
+       {
+        "w": "perfect",
+        "t": 4414.0,
+        "d": 1021.0
+       },
+       {
+        "w": "Step",
+        "t": 5861.0,
+        "d": 340.0
+       },
+       {
+        "w": "by",
+        "t": 6202.0,
+        "d": 170.0
+       },
+       {
+        "w": "step",
+        "t": 6372.0,
+        "d": 553.0
+       },
+       {
+        "w": "the",
+        "t": 6925.0,
+        "d": 212.0
+       },
+       {
+        "w": "sheen",
+        "t": 7138.0,
+        "d": 340.0
+       },
+       {
+        "w": "deepens",
+        "t": 7478.0,
+        "d": 808.0
+       },
+       {
+        "w": "the",
+        "t": 8457.0,
+        "d": 211.0
+       },
+       {
+        "w": "forms",
+        "t": 8669.0,
+        "d": 384.0
+       },
+       {
+        "w": "standardize",
+        "t": 9053.0,
+        "d": 935.0
+       },
+       {
+        "w": "and",
+        "t": 10287.0,
+        "d": 297.0
+       },
+       {
+        "w": "a",
+        "t": 10585.0,
+        "d": 85.0
+       },
+       {
+        "w": "craft",
+        "t": 10670.0,
+        "d": 467.0
+       },
+       {
+        "w": "becomes",
+        "t": 11137.0,
+        "d": 384.0
+       },
+       {
+        "w": "a",
+        "t": 11521.0,
+        "d": 42.0
+       },
+       {
+        "w": "signature",
+        "t": 11563.0,
+        "d": 680.0
+       },
+       {
+        "w": "of",
+        "t": 12244.0,
+        "d": 211.0
+       },
+       {
+        "w": "its",
+        "t": 12456.0,
+        "d": 171.0
+       },
+       {
+        "w": "age",
+        "t": 12670.0,
+        "d": 553.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "art": "assets/the_shining_black_bowl/img/p15.png",
+   "shot": "wide shot of a bustling second-urbanization city street",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "By the peak of 500, three hundred BCE, these wares move with iron, textiles, and grain. They sit in markets where monks debate kings, and tax-collectors count measures and measures of trade.",
+      "hi": "500–300 ईसा पूर्व के चरम पर ये बर्तन, लोहे, कपड़े और अनाज के साथ चलते हैं। ऐसे बाज़ारों में टिकते हैं, जहाँ भिक्षु राजाओं से बहस करते हैं और गुमाश्ते गिन-गिनकर लगान की तोलें लिखते हैं।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p15_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p15_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "By",
+        "t": 159.0,
+        "d": 170.0
+       },
+       {
+        "w": "the",
+        "t": 329.0,
+        "d": 170.0
+       },
+       {
+        "w": "peak",
+        "t": 500.0,
+        "d": 255.0
+       },
+       {
+        "w": "of",
+        "t": 755.0,
+        "d": 127.0
+       },
+       {
+        "w": "500",
+        "t": 882.0,
+        "d": 936.0
+       },
+       {
+        "w": "three",
+        "t": 2031.0,
+        "d": 297.0
+       },
+       {
+        "w": "hundred",
+        "t": 2329.0,
+        "d": 340.0
+       },
+       {
+        "w": "BCE",
+        "t": 2670.0,
+        "d": 680.0
+       },
+       {
+        "w": "these",
+        "t": 4073.0,
+        "d": 469.0
+       },
+       {
+        "w": "wares",
+        "t": 4542.0,
+        "d": 297.0
+       },
+       {
+        "w": "move",
+        "t": 4840.0,
+        "d": 340.0
+       },
+       {
+        "w": "with",
+        "t": 5180.0,
+        "d": 255.0
+       },
+       {
+        "w": "iron",
+        "t": 5478.0,
+        "d": 638.0
+       },
+       {
+        "w": "textiles",
+        "t": 6244.0,
+        "d": 978.0
+       },
+       {
+        "w": "and",
+        "t": 7265.0,
+        "d": 297.0
+       },
+       {
+        "w": "grain",
+        "t": 7563.0,
+        "d": 510.0
+       },
+       {
+        "w": "They",
+        "t": 8711.0,
+        "d": 297.0
+       },
+       {
+        "w": "sit",
+        "t": 9009.0,
+        "d": 255.0
+       },
+       {
+        "w": "in",
+        "t": 9264.0,
+        "d": 128.0
+       },
+       {
+        "w": "markets",
+        "t": 9393.0,
+        "d": 553.0
+       },
+       {
+        "w": "where",
+        "t": 9946.0,
+        "d": 211.0
+       },
+       {
+        "w": "monks",
+        "t": 10158.0,
+        "d": 341.0
+       },
+       {
+        "w": "debate",
+        "t": 10500.0,
+        "d": 381.0
+       },
+       {
+        "w": "kings",
+        "t": 10881.0,
+        "d": 639.0
+       },
+       {
+        "w": "and",
+        "t": 11734.0,
+        "d": 296.0
+       },
+       {
+        "w": "tax-collectors",
+        "t": 12030.0,
+        "d": 767.0
+       },
+       {
+        "w": "count",
+        "t": 12797.0,
+        "d": 340.0
+       },
+       {
+        "w": "measures",
+        "t": 13138.0,
+        "d": 808.0
+       },
+       {
+        "w": "and",
+        "t": 13946.0,
+        "d": 255.0
+       },
+       {
+        "w": "measures",
+        "t": 14202.0,
+        "d": 425.0
+       },
+       {
+        "w": "of",
+        "t": 14627.0,
+        "d": 170.0
+       },
+       {
+        "w": "trade",
+        "t": 14797.0,
+        "d": 468.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "action_auto2",
+   "type": "action",
+   "mood": "triumph",
+   "bg": "assets/the_shining_black_bowl/action_auto2/bg.png",
+   "chars": [
+    {
+     "img": "assets/the_shining_black_bowl/action_auto2/char0.png",
+     "motion": {
+      "fromX": 42,
+      "toX": 8,
+      "fromScale": 0.82,
+      "toScale": 1.03,
+      "rot": 2,
+      "dur": 7200
+     }
+    }
+   ],
+   "motion": {
+    "bgZoom": 1.12,
+    "bgPan": -6,
+    "dur": 7200
+   },
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "His bowl becomes his banner, its dark shine declaring a craftsman's name louder than any crier in the crowded streets.",
+      "hi": "उसका कटोरा ही उसका झंडा बन जाता है, उसकी काली चमक भरी गलियों में मुनादी से भी ज़्यादा उसका नाम गूँजा देती है।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/action/action_auto2_en.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/action/action_auto2_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "His",
+        "t": 72.0,
+        "d": 291.0
+       },
+       {
+        "w": "bowl",
+        "t": 364.0,
+        "d": 291.0
+       },
+       {
+        "w": "becomes",
+        "t": 656.0,
+        "d": 500.0
+       },
+       {
+        "w": "his",
+        "t": 1156.0,
+        "d": 208.0
+       },
+       {
+        "w": "banner",
+        "t": 1364.0,
+        "d": 583.0
+       },
+       {
+        "w": "its",
+        "t": 2239.0,
+        "d": 290.0
+       },
+       {
+        "w": "dark",
+        "t": 2530.0,
+        "d": 292.0
+       },
+       {
+        "w": "shine",
+        "t": 2822.0,
+        "d": 416.0
+       },
+       {
+        "w": "declaring",
+        "t": 3239.0,
+        "d": 458.0
+       },
+       {
+        "w": "a",
+        "t": 3697.0,
+        "d": 83.0
+       },
+       {
+        "w": "craftsman's",
+        "t": 3781.0,
+        "d": 666.0
+       },
+       {
+        "w": "name",
+        "t": 4447.0,
+        "d": 250.0
+       },
+       {
+        "w": "louder",
+        "t": 4697.0,
+        "d": 625.0
+       },
+       {
+        "w": "than",
+        "t": 5406.0,
+        "d": 250.0
+       },
+       {
+        "w": "any",
+        "t": 5656.0,
+        "d": 333.0
+       },
+       {
+        "w": "crier",
+        "t": 5989.0,
+        "d": 416.0
+       },
+       {
+        "w": "in",
+        "t": 6406.0,
+        "d": 125.0
+       },
+       {
+        "w": "the",
+        "t": 6531.0,
+        "d": 125.0
+       },
+       {
+        "w": "crowded",
+        "t": 6656.0,
+        "d": 416.0
+       },
+       {
+        "w": "streets",
+        "t": 7072.0,
+        "d": 708.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "art": "assets/the_shining_black_bowl/img/p16.png",
+   "shot": "medium close-up of the aging potter watching a cartload of his bowls depart",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "thought",
+     "role": "male",
+     "text": {
+      "en": "My mark goes where my feet will never walk.",
+      "hi": "मेरी मुहर वहाँ जाएगी, जहाँ मेरे पाँव कभी नहीं पहुँचेंगे।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p16_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p16_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "My",
+        "t": 52.6,
+        "d": 210.5
+       },
+       {
+        "w": "mark",
+        "t": 263.2,
+        "d": 421.0
+       },
+       {
+        "w": "goes",
+        "t": 736.8,
+        "d": 434.2
+       },
+       {
+        "w": "where",
+        "t": 1171.0,
+        "d": 381.6
+       },
+       {
+        "w": "my",
+        "t": 1552.6,
+        "d": 276.3
+       },
+       {
+        "w": "feet",
+        "t": 1829.0,
+        "d": 394.8
+       },
+       {
+        "w": "will",
+        "t": 2276.3,
+        "d": 302.6
+       },
+       {
+        "w": "never",
+        "t": 2579.0,
+        "d": 368.4
+       },
+       {
+        "w": "walk",
+        "t": 2947.4,
+        "d": 421.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "split_auto",
+   "type": "split",
+   "mood": "battle",
+   "slices": [
+    {
+     "img": "assets/the_shining_black_bowl/split_auto/s0.png",
+     "slogan": {
+      "en": "Fire remembers every careful hand",
+      "hi": "आग हर सावधान हाथ याद रखती है"
+     },
+     "pos": "center 30%"
+    },
+    {
+     "img": "assets/the_shining_black_bowl/split_auto/s1.png",
+     "pos": "center 46%"
+    },
+    {
+     "img": "assets/the_shining_black_bowl/split_auto/s2.png",
+     "pos": "center 52%"
+    }
+   ],
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "From his hands, the city's glow spreads and fades, yet the burnish of his art refuses to dull with time.",
+      "hi": "उसके हाथों से शहर की चमक फैलती है, फीकी पड़ती है, पर उसकी कला की चमक कभी नहीं मुरझाती।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/split/split_auto_en.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/split/split_auto_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "From",
+        "t": 70.0,
+        "d": 280.0
+       },
+       {
+        "w": "his",
+        "t": 350.0,
+        "d": 120.0
+       },
+       {
+        "w": "hands",
+        "t": 470.0,
+        "d": 560.0
+       },
+       {
+        "w": "the",
+        "t": 1190.0,
+        "d": 200.0
+       },
+       {
+        "w": "city's",
+        "t": 1390.0,
+        "d": 440.0
+       },
+       {
+        "w": "glow",
+        "t": 1830.0,
+        "d": 280.0
+       },
+       {
+        "w": "spreads",
+        "t": 2110.0,
+        "d": 520.0
+       },
+       {
+        "w": "and",
+        "t": 2630.0,
+        "d": 159.0
+       },
+       {
+        "w": "fades",
+        "t": 2789.0,
+        "d": 721.0
+       },
+       {
+        "w": "yet",
+        "t": 3750.0,
+        "d": 280.0
+       },
+       {
+        "w": "the",
+        "t": 4030.0,
+        "d": 160.0
+       },
+       {
+        "w": "burnish",
+        "t": 4190.0,
+        "d": 440.0
+       },
+       {
+        "w": "of",
+        "t": 4630.0,
+        "d": 160.0
+       },
+       {
+        "w": "his",
+        "t": 4790.0,
+        "d": 160.0
+       },
+       {
+        "w": "art",
+        "t": 4990.0,
+        "d": 320.0
+       },
+       {
+        "w": "refuses",
+        "t": 5310.0,
+        "d": 560.0
+       },
+       {
+        "w": "to",
+        "t": 5870.0,
+        "d": 160.0
+       },
+       {
+        "w": "dull",
+        "t": 6030.0,
+        "d": 280.0
+       },
+       {
+        "w": "with",
+        "t": 6310.0,
+        "d": 200.0
+       },
+       {
+        "w": "time",
+        "t": 6510.0,
+        "d": 520.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "art": "assets/the_shining_black_bowl/img/p17.png",
+   "shot": "melancholic wide shot of a ruined ancient city being reclaimed by nature",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "The towns that cherished these bowls would rise, burn, erode, and vanish. Their councils, wars, and bargains turned to dust, but the sherds remained.",
+      "hi": "जिन नगरों ने इन कटोरों को सिर पर रखा, वे उठे, जले, घिसे और मिट गए। उनकी सभाएँ, युद्ध और सौदे धूल बने, पर ये टुकड़े रह गए।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p17_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p17_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "The",
+        "t": 74.0,
+        "d": 297.0
+       },
+       {
+        "w": "towns",
+        "t": 372.0,
+        "d": 382.0
+       },
+       {
+        "w": "that",
+        "t": 755.0,
+        "d": 255.0
+       },
+       {
+        "w": "cherished",
+        "t": 1010.0,
+        "d": 468.0
+       },
+       {
+        "w": "these",
+        "t": 1478.0,
+        "d": 297.0
+       },
+       {
+        "w": "bowls",
+        "t": 1776.0,
+        "d": 381.0
+       },
+       {
+        "w": "would",
+        "t": 2158.0,
+        "d": 256.0
+       },
+       {
+        "w": "rise",
+        "t": 2414.0,
+        "d": 552.0
+       },
+       {
+        "w": "burn",
+        "t": 3137.0,
+        "d": 553.0
+       },
+       {
+        "w": "erode",
+        "t": 3690.0,
+        "d": 639.0
+       },
+       {
+        "w": "and",
+        "t": 4329.0,
+        "d": 638.0
+       },
+       {
+        "w": "vanish",
+        "t": 4968.0,
+        "d": 1148.0
+       },
+       {
+        "w": "Their",
+        "t": 6329.0,
+        "d": 297.0
+       },
+       {
+        "w": "councils",
+        "t": 6627.0,
+        "d": 851.0
+       },
+       {
+        "w": "wars",
+        "t": 7563.0,
+        "d": 808.0
+       },
+       {
+        "w": "and",
+        "t": 8500.0,
+        "d": 339.0
+       },
+       {
+        "w": "bargains",
+        "t": 8839.0,
+        "d": 596.0
+       },
+       {
+        "w": "turned",
+        "t": 9436.0,
+        "d": 296.0
+       },
+       {
+        "w": "to",
+        "t": 9732.0,
+        "d": 170.0
+       },
+       {
+        "w": "dust",
+        "t": 9903.0,
+        "d": 724.0
+       },
+       {
+        "w": "but",
+        "t": 10967.0,
+        "d": 213.0
+       },
+       {
+        "w": "the",
+        "t": 11180.0,
+        "d": 126.0
+       },
+       {
+        "w": "sherds",
+        "t": 11307.0,
+        "d": 596.0
+       },
+       {
+        "w": "remained",
+        "t": 11904.0,
+        "d": 552.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "art": "assets/the_shining_black_bowl/img/p18.png",
+   "shot": "extreme close-up of a black, lustrous sherd held against the light by unseen hands",
+   "mood": "battle",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "In that thin, shining surface, we do not see a king or a battle, but a craftsman's gamble, a city's hunger for refinement, and the quiet sheen by which we still recognize their world.",
+      "hi": "उस पतली, चमकदार सतह में हमें कोई राजा या युद्ध नहीं, बल्कि कारीगर की बाज़ी, नगर की नफासत की भूख, और वही धीमी चमक दिखती है, जिससे हम आज भी उनकी दुनिया पहचानते हैं।"
+     },
+     "audio": {
+      "en": "assets/the_shining_black_bowl/audio/en/p18_0.mp3",
+      "hi": "assets/the_shining_black_bowl/audio/hi/p18_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "In",
+        "t": 70.0,
+        "d": 240.0
+       },
+       {
+        "w": "that",
+        "t": 310.0,
+        "d": 200.0
+       },
+       {
+        "w": "thin",
+        "t": 510.0,
+        "d": 560.0
+       },
+       {
+        "w": "shining",
+        "t": 1070.0,
+        "d": 600.0
+       },
+       {
+        "w": "surface",
+        "t": 1670.0,
+        "d": 880.0
+       },
+       {
+        "w": "we",
+        "t": 2550.0,
+        "d": 239.0
+       },
+       {
+        "w": "do",
+        "t": 2789.0,
+        "d": 120.0
+       },
+       {
+        "w": "not",
+        "t": 2909.0,
+        "d": 241.0
+       },
+       {
+        "w": "see",
+        "t": 3150.0,
+        "d": 159.0
+       },
+       {
+        "w": "a",
+        "t": 3309.0,
+        "d": 160.0
+       },
+       {
+        "w": "king",
+        "t": 3469.0,
+        "d": 281.0
+       },
+       {
+        "w": "or",
+        "t": 3750.0,
+        "d": 159.0
+       },
+       {
+        "w": "a",
+        "t": 3909.0,
+        "d": 80.0
+       },
+       {
+        "w": "battle",
+        "t": 3989.0,
+        "d": 601.0
+       },
+       {
+        "w": "but",
+        "t": 5110.0,
+        "d": 240.0
+       },
+       {
+        "w": "a",
+        "t": 5350.0,
+        "d": 80.0
+       },
+       {
+        "w": "craftsman's",
+        "t": 5430.0,
+        "d": 680.0
+       },
+       {
+        "w": "gamble",
+        "t": 6110.0,
+        "d": 760.0
+       },
+       {
+        "w": "a",
+        "t": 7110.0,
+        "d": 200.0
+       },
+       {
+        "w": "city's",
+        "t": 7310.0,
+        "d": 440.0
+       },
+       {
+        "w": "hunger",
+        "t": 7750.0,
+        "d": 319.0
+       },
+       {
+        "w": "for",
+        "t": 8069.0,
+        "d": 160.0
+       },
+       {
+        "w": "refinement",
+        "t": 8229.0,
+        "d": 1041.0
+       },
+       {
+        "w": "and",
+        "t": 9389.0,
+        "d": 281.0
+       },
+       {
+        "w": "the",
+        "t": 9670.0,
+        "d": 120.0
+       },
+       {
+        "w": "quiet",
+        "t": 9790.0,
+        "d": 359.0
+       },
+       {
+        "w": "sheen",
+        "t": 10149.0,
+        "d": 681.0
+       },
+       {
+        "w": "by",
+        "t": 10990.0,
+        "d": 319.0
+       },
+       {
+        "w": "which",
+        "t": 11309.0,
+        "d": 240.0
+       },
+       {
+        "w": "we",
+        "t": 11549.0,
+        "d": 121.0
+       },
+       {
+        "w": "still",
+        "t": 11670.0,
+        "d": 320.0
+       },
+       {
+        "w": "recognize",
+        "t": 11990.0,
+        "d": 600.0
+       },
+       {
+        "w": "their",
+        "t": 12590.0,
+        "d": 200.0
+       },
+       {
+        "w": "world",
+        "t": 12790.0,
+        "d": 519.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
   }
+ ],
+ "hero": {
+  "name": "The Black-Polished-Ware Potters",
+  "epithets": [
+   "Makers of the mirror-dark bowls",
+   "Kiln-masters of the second urbanization",
+   "Artisans of the mahajanapada cities",
+   "A shining signature of the age"
+  ],
+  "legend": "They turned village clay into the shining mark of new cities."
+ }
 }
