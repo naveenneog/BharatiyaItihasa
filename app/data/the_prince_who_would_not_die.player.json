@@ -1646,6 +1646,144 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_prince_who_would_not_die/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_prince_who_would_not_die/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Each secret drill under fading light steels the prince against blades he knows will one day seek his blood.",
+            "hi": "ढलती रोशनी में हर गुप्त अभ्यास, राजकुमार को उन तलवारों से जूझने को तैयार करता है जो एक दिन उसके खून की प्यासा होंगी।"
+          },
+          "audio": {
+            "en": "assets/the_prince_who_would_not_die/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_prince_who_would_not_die/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Each",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "secret",
+                "t": 402.0,
+                "d": 413.0
+              },
+              {
+                "w": "drill",
+                "t": 816.0,
+                "d": 413.0
+              },
+              {
+                "w": "hardens",
+                "t": 1229.0,
+                "d": 505.0
+              },
+              {
+                "w": "his",
+                "t": 1735.0,
+                "d": 229.0
+              },
+              {
+                "w": "resolve",
+                "t": 1965.0,
+                "d": 826.0
+              },
+              {
+                "w": "every",
+                "t": 3205.0,
+                "d": 506.0
+              },
+              {
+                "w": "swing",
+                "t": 3712.0,
+                "d": 321.0
+              },
+              {
+                "w": "rehearsing",
+                "t": 4034.0,
+                "d": 597.0
+              },
+              {
+                "w": "defiance",
+                "t": 4632.0,
+                "d": 597.0
+              },
+              {
+                "w": "against",
+                "t": 5229.0,
+                "d": 459.0
+              },
+              {
+                "w": "cousins",
+                "t": 5689.0,
+                "d": 781.0
+              },
+              {
+                "w": "who",
+                "t": 6563.0,
+                "d": 275.0
+              },
+              {
+                "w": "whisper",
+                "t": 6839.0,
+                "d": 459.0
+              },
+              {
+                "w": "of",
+                "t": 7298.0,
+                "d": 183.0
+              },
+              {
+                "w": "knives",
+                "t": 7482.0,
+                "d": 505.0
+              },
+              {
+                "w": "in",
+                "t": 7988.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 8172.0,
+                "d": 137.0
+              },
+              {
+                "w": "dark",
+                "t": 8310.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p07",
       "art": "assets/the_prince_who_would_not_die/img/p07.png",
       "shot": "nighttime overhead shot in a small room",
@@ -3358,8 +3496,8 @@
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "He walks the contested courtyard as if already king, daring every hidden rival to step from shadow into daylight.",
-            "hi": "वो विवादित आँगन में ऐसे टहल रहा है जैसे ताज उसी का हो, हर छिपे दुश्मन को अँधेरे से निकलकर रोशनी में आने की चुनौती दे रहा है।"
+            "en": "As factions harden into enemies, he steps from cautious heir to avenger, ready to carve order from looming chaos.",
+            "hi": "जब गुट दुश्मन बन जाते हैं, वह सतर्क वारिस से बदलकर बदला लेने वाला बन जाता है, जो उठते हंगामे में अपनी ताकत से व्यवस्था गढ़ने को तैयार है।"
           },
           "audio": {
             "en": "assets/the_prince_who_would_not_die/audio/action/action_auto2_en.mp3",
@@ -3881,8 +4019,8 @@
         {
           "img": "assets/the_prince_who_would_not_die/split_auto/s0.png",
           "slogan": {
-            "en": "By Dharma, Travancore shall stand",
-            "hi": "धर्म से त्रावणकोर अडिग रहेगा"
+            "en": "For dharma and Travancore",
+            "hi": "धर्म और त्रावणकोर के लिए"
           },
           "pos": "center 30%"
         },
@@ -3900,8 +4038,8 @@
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "Across backwater, hill and sea, his destiny threads through blood-oaths and gunpowder toward a throne ringed with spears.",
-            "hi": "नदियों, पहाड़ों, समंदर से गुज़रता, ख़ूनी क़समों और बारूद के बीच उसका रास्ता भालों से घिरे तख़्त तक जाता है।"
+            "en": "Storms gather over Travancore as prince and kingdom brace together, every oath and blade drawn toward a single fateful struggle.",
+            "hi": "तूफ़ान छा रहे हैं त्रावणकोर पर, राजकुमार और राज्य एक हो खड़े हैं, हर कसम और हर तलवार बस एक ही निर्णायक जंग की ओर उठी है।"
           },
           "audio": {
             "en": "assets/the_prince_who_would_not_die/audio/split/split_auto_en.mp3",
