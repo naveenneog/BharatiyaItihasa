@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🖋️ The Bengal Renaissance  *(Colonial Bengal — c. 1800–1930 — the awakening of press, reform, science and art)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The 19th–early-20th-c Bengal awakening told with source-criticism and honesty about its LIMITS — caste, gender and communal edges — and deliberately widened past the Hindu-bhadralok mainstream to a Muslim feminist and a syncretic rebel poet. Innovation runs through every part: printing, medicine, industry, the novel, blank verse, painting, feminist science-fiction and reform law.
+
+**I. The Press and the Question**
+1. **The Type That Spoke Bengali** ✅ — Panchanan Karmakar cuts the first workable Bengali movable type behind the missionaries' names; the Serampore press + Samachar Darpan (Danish jurisdiction dodges Company censorship). *(printing innovation; the unsung Indian craftsman)*
+2. **The Man Who Asked Why** ✅ — Rammohun Roy's multilingual rationalism (Tuhfat, Atmiya Sabha, the journals, Brahmo Sabha), honest about his caution on caste and women's property. *(rationalist reform)*
+
+**II. The Age of Reform**
+3. **Fire on the Pyre** ✅ — Roy & Bentinck and Regulation XVII (1829): sati stated from BOTH sides (vs Radhakanta Deb/Dharma Sabha), a feminist coda, honest limits. *(sensitive social reform)*
+4. **The Firebrands of Hindu College** ✅ — Derozio's Young Bengal, non-hagiographic (a tiny elite circle; a non-heroic cholera death). *(free thought)*
+5. **Dwarkanath's Smokestacks and Ships** ✅ — the merchant prince as industrial pioneer AND opium/indigo/plantation partner (Rabindranath's own grandfather, un-whitewashed). *(economic; hard truth on a hero)*
+
+**III. Bodies, Science and Law**
+6. **The Cadaver in the Lecture Hall** ✅ — Madhusudan Gupta's 1836 first human dissection as Ayurveda↔Western negotiation, critical of the colonial purpose, myth-corrected. *(medical science)*
+7. **Vidyasagar Opens the Widow's Door** ✅ — the 1856 Widow Remarriage Act, yet honest about his caste limits and the widows' silenced voices. *(reform law; hard truth on a hero)*
+
+**IV. The Word and the Image Made New**
+8. **Blank Verse and the Demon-Hero** ✅ — Michael Madhusudan Dutt forges Bengali blank verse and makes Ravana's son a tragic hero; de-romanticised (ambition and debt, not patriotic mission). *(literature)*
+9. **Vande Mataram's Troubled Birth** ✅ — Bankim's hymn and Anandamath told honestly: the anti-Muslim framing stated, the Muslim grievance heard, the 1937 compromise recorded, "who is in our 'we'?". *(the core directive on a communal symbol)*
+10. **Abanindranath Paints the Motherland** ✅ — the Bengal School + the 1905 Bharat Mata (a serene giver, not a sword-goddess); the "pure Indian art" myth debunked; a feminist critique of the goddess-nation. *(art)*
+11. **Song Offerings to the World** ✅ — Tagore's Gitanjali and 1913 Nobel beside his anti-nationalism and his renunciation of the knighthood after Jallianwala. *(literature; moral courage)*
+
+**V. Voices Outside the Circle**
+12. **Ladyland: Rokeya's Feminist Vision** ✅ — Begum Rokeya's Sultana's Dream (1905) and girls' schools; a Muslim woman reforming FROM WITHIN her faith, not the "Islam oppresses women" trope. *(feminist innovation)*
+13. **Bidrohi: The Rebel Poet** ✅ — Kazi Nazrul Islam, who "sang Allah and Kali together," married Hindu Pramila Devi and stood with the oppressed of every creed; an anti-communal capstone. *(syncretism; rebellion)*
+
 ## 🚩 The Revolt of 1857  *(Freedom Struggle — 1857–1859 — the Great Uprising as an all-sides mosaic)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 The revolt told not as one hero but as a five-part MOSAIC of every side — mutinous sepoys, the Rohilla and Awadh rebel-states, British commanders and civilians, poets and peasants, and the historians who later fought over its very name — non-communally, from memoirs, trial records, telegraph files and modern scholarship. Its darkest atrocity (Kanpur) is told from BOTH sides with the disputes left OPEN; its finale is the historiography itself. *(Distinct from the older standalone 1857 hero-mosaic — Lakshmibai, Tatya Tope, Kunwar Singh, Zafar, Mangal Pandey — below.)*
