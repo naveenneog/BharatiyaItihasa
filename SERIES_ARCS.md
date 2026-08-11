@@ -572,6 +572,31 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## ⚓ The Travancore Kingdom and Marthanda Varma  *(Early modern — c. 1700–1800, the Kerala pepper coast)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+How a fractured strip of pepper-and-paddy chiefdoms became a centralised "Model State" — told hard on its celebrated founder, naming the human cost the royal chronicles omit, and closing by refusing the tidy Model-State myth. Innovation runs through it: the first Asian defeat of a European naval force, a coercive pepper monopoly, an agrarian survey-state, a temple-state ideology, monsoon architecture, and vernacular people's theatre.
+
+**I. Origins and the Making of a King**
+1. **From Venad to a Kingdom Waiting to Be Built** ✅ — pre-Travancore Venad: matrilineal *marumakkathayam*, the Padmanabha temple's Ettara Yogam, pepper and the Dutch/English — royalist chroniclers set against modern historians. *(setting; source-criticism)*
+2. **The Prince Who Would Not Die** ✅ — the hunted young Marthanda Varma, matrilineal claim vs the Thampi cousins; escapes flagged as tradition. *(succession)*
+3. **Breaking the Eight Houses** ✅ — the founder crushes the Ettuveetil Pillamar, un-whitewashed: the atrocity royal praise omits (families sold to Mukkuvar fishers), held against Menon's "necessary". *(state-building; the core directive on a "winner")*
+
+**II. Wars, Pepper and Power**
+4. **Colachel, 1741 — India Defeats the VOC** ✅ — the first major Asian defeat of a European naval force; the captured De Lannoy becomes Valiya Kappittan; legend separated from the plainer record. *(naval history)*
+5. **The Treaty of Mavelikkara Ends Dutch Power** ✅ — 1753: "a European company that now comes as supplicant to an Indian king." *(diplomacy)*
+6. **The Pepper Monopoly Controls the Coast** ✅ — the 1743 *kuttakam* as a coercive revenue-state (death for evaders), not a free-market reform. *(economic innovation)*
+
+**III. The Machine of the State**
+7. **Ramayyan Dalawa Builds the King's Machine** ✅ — a low-born clerk builds the survey-and-office state; the Chandragupta–Chanakya legend deflated. *(administrative innovation)*
+8. **Sri Padmanabha Dasa and the Temple State** ✅ — the 1749–50 *Trippadidanam*, read as "both devotion and design". *(sacral legitimacy)*
+9. **Land, Water and the Kulikkanam System** ✅ — the 1739 agrarian survey, honest about pressing cultivators into cash and moneylenders. *(agrarian innovation)*
+10. **Fifty Thousand Soldiers and a Dutch General** ✅ — De Lannoy's drilled army and the Nedumkotta; refuses both the lone-European-genius and Great-Wall myths. *(military engineering)*
+
+**IV. Craft, Culture and Inheritance**
+11. **Padmanabhapuram: Wood, Murals and Monsoon Design** ✅ — the monsoon-tuned wooden palace and *panchavarnam* murals; inflated claims flagged. *(architecture)*
+12. **Kunchan Nambiar Invents People's Theatre** ✅ — Ottan Thullal drags temple art from Sanskrit into vernacular Malayalam satire of caste and official greed. *(cultural/social innovation)*
+13. **Dharma Raja and the Model State Inheritance** ✅ — the successor holds the Nedumkotta against Tipu (1789) and builds the "Model State" — while the chapter refuses the myth: caste and untouchability endured, to Sree Narayana Guru and the 1936 Temple Entry Proclamation. *(legacy; the core directive)*
+
 ## ⚖️ The Ancient Republics and the Mahajanapadas  *(Ancient — c. 6th–4th c. BCE — the gana-sangha clan-republics of the Buddha's age)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 The gana-sangha age told with unusual source-criticism — the clan-republics reconstructed from Buddhist and Jain texts written by courts, monks and enemies, and from coins, pottery and ramparts in the earth. It refuses BOTH the colonial "ancient Indian democracy" myth AND its erasure: the assemblies were real but oligarchic Kshatriya councils — freedom that belonged to some more than to others. Innovation runs through every part — India's first coinage, the NBPW ceramic horizon, cyclopean engineering, relic-diplomacy — and it closes by interrogating its own sources.
