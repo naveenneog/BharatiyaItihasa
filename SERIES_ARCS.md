@@ -572,6 +572,31 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🌄 The Rajputs of Mewar  *(Medieval → early modern — c. 728–1660, the Sisodia hill-kingdom of the Aravallis)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+Mewar's long story of loss and return — told with rare source-criticism for a dynasty this wrapped in legend, separating the bardic songs (Tod, the Kumbhalgarh prashasti, the Hammir Mahakavya) from the epigraphic ledger at every turn, and framing its wars with the Sultanates and Mughals as politics, not creed. Innovation runs beside the battles: named craftsmen in stone, a king's music treatise, cross-faith temple patronage, merchant war-finance, and a painting school that outlasted the sword.
+
+**I. Founders in Stone and Song**
+1. **Bappa Rawal and the Founder Nobody Can Name** ✅ — the 977 Atpur inscription omits the very founder Mewar sings of; the honour-name "floats above at least one real king" (Somani, Cynthia Talbot). *(source-criticism)*
+2. **Hammir Singh Wins Back Chittor** ✅ — the Sisodia restoration after 1303; the Tughlaq-capture legend weighed against silent Persian chronicles. *(restoration)*
+
+**II. Craft and Mind under Rana Kumbha**
+3. **Kumbhalgarh and the Mountain Wall** ✅ — the refuge-fort's 36-km wall, "no single architect's name in the record." *(fortification)*
+4. **Vijay Stambha Names the Sculptors** ✅ — the Tower of Victory that *names* Jaita and his sons — while stating its own anti-*Mleccha* / cow-protection polemic plainly. *(sculpture; the core directive)*
+5. **Kumbha Sets the Notes in Sangitaraja** ✅ — the scholar-king's music treatise; sole-authorship deflated ("a king's name headed the page, but many minds shaped the lines"). *(musicology)*
+6. **Ranakpur's Thousand Pillars** ✅ — a Rajput king's 1436 copper-plate grant enables a Jain temple; the 1,444 pillars flagged as "observation, not numerology." *(cross-faith craft)*
+
+**III. Sieges, Sacrifice and the Long Mughal War**
+7. **The Second Saka and Rani Karnavati's Chittor** ✅ — the 1535 siege (Bahadur Shah, Rumi Khan's guns); the rakhi-to-Humayun legend flagged as legend. *(siege; women's history)*
+8. **Panna Dai's Impossible Choice** ✅ — the beloved cradle-swap legend honoured as tradition, separated from the verifiable (Banvir fell; nobles rallied to Udai Singh). *(legend vs record)*
+9. **Rana Punja and the Bhil Archers** ✅ — the Bhil–Mewar alliance told as a political partnership, "not picturesque folklore." *(social history)*
+10. **Dewair and the Reconquest of the Hills** ✅ — Pratap's under-told 1582 recovery; the honest limit ("Chittor… remained beyond his grasp"). *(reconquest)*
+11. **Amar Singh I Makes Peace with Jahangir** ✅ — the 1615 treaty (no marriage-alliance; Chittor unrefortified), judged "a scar" or "a shield." *(the hard peace)*
+
+**IV. Wealth and Colour**
+12. **Bhama Shah Opens the Treasury** ✅ — the Oswal-Jain banker who funded Pratap's revival; inflated bardic sums flagged. *(war-finance)*
+13. **Sahibdin Paints the Colours of Mewar** ✅ — the Mewar painting school (Chawand Ragamala 1605); the collaborative atelier over the lone genius; a civilisation "proven by what it keeps creating when survival itself is in doubt." *(art history)*
+
 ## ⚓ The Travancore Kingdom and Marthanda Varma  *(Early modern — c. 1700–1800, the Kerala pepper coast)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 How a fractured strip of pepper-and-paddy chiefdoms became a centralised "Model State" — told hard on its celebrated founder, naming the human cost the royal chronicles omit, and closing by refusing the tidy Model-State myth. Innovation runs through it: the first Asian defeat of a European naval force, a coercive pepper monopoly, an agrarian survey-state, a temple-state ideology, monsoon architecture, and vernacular people's theatre.
