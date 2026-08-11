@@ -1,0 +1,4157 @@
+{
+  "id": "panna_dai_s_impossible_choice",
+  "title": "Panna Dai's Impossible Choice",
+  "title_i18n": {
+    "en": "Panna Dai's Impossible Choice",
+    "hi": "पन्ना दाई की असंभव पसंद"
+  },
+  "figure": "Panna Dai",
+  "era": "After the second sack of Chittor, c. 1535-1536 CE",
+  "moral": "Some courage leaves no throne for itself.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/panna_dai_s_impossible_choice/intro/hero.png",
+      "name": "Panna Dai",
+      "epithets": [
+        "Nurse of Mewar",
+        "Foster mother of Udai Singh",
+        "Saviour of Mewar",
+        "Selfless guardian of Chittor"
+      ],
+      "legend": "She gave her own child so a kingdom could live.",
+      "era": "After the second sack of Chittor, c. 1535-1536 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In a silent stone corridor of Chittor, one mother is said to swap cradles: her own baby to the killer's sword, the heir of Mewar to the dark hills of Kumbhalgarh.",
+            "hi": "चित्तौड़ के सुनसान पत्थर वाले गलियारे में, कहते हैं एक मां ने पालने बदल दिए — अपना बच्चा तलवार के हवाले, मेवाड़ के वारिस को कुंभलगढ़ की अंधेरी पहाड़ियों में छुपा दिया।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/intro/hero_en.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 72.0,
+                "d": 208.0
+              },
+              {
+                "w": "a",
+                "t": 281.0,
+                "d": 41.0
+              },
+              {
+                "w": "silent",
+                "t": 322.0,
+                "d": 500.0
+              },
+              {
+                "w": "stone",
+                "t": 822.0,
+                "d": 416.0
+              },
+              {
+                "w": "corridor",
+                "t": 1239.0,
+                "d": 458.0
+              },
+              {
+                "w": "of",
+                "t": 1697.0,
+                "d": 208.0
+              },
+              {
+                "w": "Chittor",
+                "t": 1906.0,
+                "d": 833.0
+              },
+              {
+                "w": "one",
+                "t": 2988.0,
+                "d": 376.0
+              },
+              {
+                "w": "mother",
+                "t": 3364.0,
+                "d": 333.0
+              },
+              {
+                "w": "is",
+                "t": 3697.0,
+                "d": 83.0
+              },
+              {
+                "w": "said",
+                "t": 3781.0,
+                "d": 290.0
+              },
+              {
+                "w": "to",
+                "t": 4071.0,
+                "d": 209.0
+              },
+              {
+                "w": "swap",
+                "t": 4281.0,
+                "d": 416.0
+              },
+              {
+                "w": "cradles",
+                "t": 4697.0,
+                "d": 791.0
+              },
+              {
+                "w": "her",
+                "t": 5989.0,
+                "d": 166.0
+              },
+              {
+                "w": "own",
+                "t": 6156.0,
+                "d": 333.0
+              },
+              {
+                "w": "baby",
+                "t": 6489.0,
+                "d": 333.0
+              },
+              {
+                "w": "to",
+                "t": 6822.0,
+                "d": 83.0
+              },
+              {
+                "w": "the",
+                "t": 6906.0,
+                "d": 166.0
+              },
+              {
+                "w": "killer's",
+                "t": 7072.0,
+                "d": 375.0
+              },
+              {
+                "w": "sword",
+                "t": 7447.0,
+                "d": 791.0
+              },
+              {
+                "w": "the",
+                "t": 8446.0,
+                "d": 375.0
+              },
+              {
+                "w": "heir",
+                "t": 8821.0,
+                "d": 166.0
+              },
+              {
+                "w": "of",
+                "t": 8988.0,
+                "d": 209.0
+              },
+              {
+                "w": "Mewar",
+                "t": 9197.0,
+                "d": 458.0
+              },
+              {
+                "w": "to",
+                "t": 9656.0,
+                "d": 123.0
+              },
+              {
+                "w": "the",
+                "t": 9780.0,
+                "d": 166.0
+              },
+              {
+                "w": "dark",
+                "t": 9946.0,
+                "d": 334.0
+              },
+              {
+                "w": "hills",
+                "t": 10281.0,
+                "d": 250.0
+              },
+              {
+                "w": "of",
+                "t": 10531.0,
+                "d": 250.0
+              },
+              {
+                "w": "Kumbhalgarh",
+                "t": 10781.0,
+                "d": 625.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/panna_dai_s_impossible_choice/intro/map.png",
+      "x": 0.34,
+      "y": 0.39,
+      "label": "Chittor & Kumbhalgarh, Mewar",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, in Mewar's hard hills and burning forts, a nurse's choice turns a child into a king and a kingdom into a debt forever unpaid.",
+            "hi": "यहीं, मेवाड़ की कठोर पहाड़ियों और धधकते किलों में, एक दाई का फैसला एक बच्चे को राजा बना देता है, और एक राज्य को सदा का ऋणी।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/intro/map_en.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 597.0
+              },
+              {
+                "w": "in",
+                "t": 1091.0,
+                "d": 229.0
+              },
+              {
+                "w": "Mewar's",
+                "t": 1321.0,
+                "d": 551.0
+              },
+              {
+                "w": "hard",
+                "t": 1873.0,
+                "d": 321.0
+              },
+              {
+                "w": "hills",
+                "t": 2195.0,
+                "d": 367.0
+              },
+              {
+                "w": "and",
+                "t": 2563.0,
+                "d": 182.0
+              },
+              {
+                "w": "burning",
+                "t": 2745.0,
+                "d": 414.0
+              },
+              {
+                "w": "forts",
+                "t": 3160.0,
+                "d": 780.0
+              },
+              {
+                "w": "a",
+                "t": 4401.0,
+                "d": 231.0
+              },
+              {
+                "w": "nurse's",
+                "t": 4632.0,
+                "d": 551.0
+              },
+              {
+                "w": "choice",
+                "t": 5183.0,
+                "d": 459.0
+              },
+              {
+                "w": "turns",
+                "t": 5643.0,
+                "d": 275.0
+              },
+              {
+                "w": "a",
+                "t": 5919.0,
+                "d": 91.0
+              },
+              {
+                "w": "child",
+                "t": 6011.0,
+                "d": 505.0
+              },
+              {
+                "w": "into",
+                "t": 6517.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 6839.0,
+                "d": 137.0
+              },
+              {
+                "w": "king",
+                "t": 6977.0,
+                "d": 781.0
+              },
+              {
+                "w": "and",
+                "t": 7758.0,
+                "d": 367.0
+              },
+              {
+                "w": "a",
+                "t": 8126.0,
+                "d": 91.0
+              },
+              {
+                "w": "kingdom",
+                "t": 8218.0,
+                "d": 551.0
+              },
+              {
+                "w": "into",
+                "t": 8770.0,
+                "d": 367.0
+              },
+              {
+                "w": "a",
+                "t": 9137.0,
+                "d": 136.0
+              },
+              {
+                "w": "debt",
+                "t": 9274.0,
+                "d": 367.0
+              },
+              {
+                "w": "forever",
+                "t": 9642.0,
+                "d": 736.0
+              },
+              {
+                "w": "unpaid",
+                "t": 10379.0,
+                "d": 873.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/panna_dai_s_impossible_choice/img/cover.png",
+      "shot": "dramatic low-angle interior wide of a dim Rajput palace chamber at night",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the night after Chittor's fall, tradition remembers Panna Dai facing an unthinkable choice: her son, or the bloodline of Mewar.",
+            "hi": "चित्तौड़ की गिरावट की रात, परंपरा पन्ना दाई को उस घड़ी पर याद करती है: अपना बेटा, या मेवाड़ की नस्ल।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/cover_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "night",
+                "t": 414.0,
+                "d": 297.0
+              },
+              {
+                "w": "after",
+                "t": 712.0,
+                "d": 340.0
+              },
+              {
+                "w": "Chittor's",
+                "t": 1053.0,
+                "d": 553.0
+              },
+              {
+                "w": "fall",
+                "t": 1606.0,
+                "d": 552.0
+              },
+              {
+                "w": "tradition",
+                "t": 2840.0,
+                "d": 595.0
+              },
+              {
+                "w": "remembers",
+                "t": 3436.0,
+                "d": 594.0
+              },
+              {
+                "w": "Panna",
+                "t": 4030.0,
+                "d": 341.0
+              },
+              {
+                "w": "Dai",
+                "t": 4372.0,
+                "d": 382.0
+              },
+              {
+                "w": "facing",
+                "t": 5095.0,
+                "d": 510.0
+              },
+              {
+                "w": "an",
+                "t": 5606.0,
+                "d": 212.0
+              },
+              {
+                "w": "unthinkable",
+                "t": 5861.0,
+                "d": 723.0
+              },
+              {
+                "w": "choice",
+                "t": 6585.0,
+                "d": 893.0
+              },
+              {
+                "w": "her",
+                "t": 7776.0,
+                "d": 212.0
+              },
+              {
+                "w": "son",
+                "t": 7989.0,
+                "d": 594.0
+              },
+              {
+                "w": "or",
+                "t": 8882.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 9094.0,
+                "d": 170.0
+              },
+              {
+                "w": "bloodline",
+                "t": 9264.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 9818.0,
+                "d": 170.0
+              },
+              {
+                "w": "Mewar",
+                "t": 9988.0,
+                "d": 511.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/panna_dai_s_impossible_choice/img/p01.png",
+      "shot": "high, mournful aerial wide over the ruined fort of Chittor",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In fifteen thirty-five, Bahadur Shah of Gujarat stormed Chittor. The old capital of Mewar stood blackened, its defenders dead, its women gone to jauhar, its future uncertain.",
+            "hi": "१५३५ में, गुजरात के बहादुर शाह ने चित्तौड़ लूट लिया। मेवाड़ की पुरानी राजधानी जली‑काली, रक्षक मरे, औरतें जौहर कर चुकीं, आगे क्या होगा कोई नहीं जानता था।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p01_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "fifteen",
+                "t": 270.0,
+                "d": 400.0
+              },
+              {
+                "w": "thirty-five",
+                "t": 670.0,
+                "d": 760.0
+              },
+              {
+                "w": "Bahadur",
+                "t": 1870.0,
+                "d": 479.0
+              },
+              {
+                "w": "Shah",
+                "t": 2349.0,
+                "d": 281.0
+              },
+              {
+                "w": "of",
+                "t": 2630.0,
+                "d": 199.0
+              },
+              {
+                "w": "Gujarat",
+                "t": 2829.0,
+                "d": 520.0
+              },
+              {
+                "w": "stormed",
+                "t": 3349.0,
+                "d": 520.0
+              },
+              {
+                "w": "Chittor",
+                "t": 3869.0,
+                "d": 721.0
+              },
+              {
+                "w": "The",
+                "t": 5150.0,
+                "d": 280.0
+              },
+              {
+                "w": "old",
+                "t": 5430.0,
+                "d": 280.0
+              },
+              {
+                "w": "capital",
+                "t": 5710.0,
+                "d": 440.0
+              },
+              {
+                "w": "of",
+                "t": 6150.0,
+                "d": 160.0
+              },
+              {
+                "w": "Mewar",
+                "t": 6310.0,
+                "d": 400.0
+              },
+              {
+                "w": "stood",
+                "t": 6710.0,
+                "d": 320.0
+              },
+              {
+                "w": "blackened",
+                "t": 7030.0,
+                "d": 880.0
+              },
+              {
+                "w": "its",
+                "t": 7990.0,
+                "d": 239.0
+              },
+              {
+                "w": "defenders",
+                "t": 8229.0,
+                "d": 561.0
+              },
+              {
+                "w": "dead",
+                "t": 8790.0,
+                "d": 679.0
+              },
+              {
+                "w": "its",
+                "t": 9549.0,
+                "d": 281.0
+              },
+              {
+                "w": "women",
+                "t": 9830.0,
+                "d": 360.0
+              },
+              {
+                "w": "gone",
+                "t": 10190.0,
+                "d": 199.0
+              },
+              {
+                "w": "to",
+                "t": 10389.0,
+                "d": 121.0
+              },
+              {
+                "w": "jauhar",
+                "t": 10510.0,
+                "d": 840.0
+              },
+              {
+                "w": "its",
+                "t": 11389.0,
+                "d": 320.0
+              },
+              {
+                "w": "future",
+                "t": 11709.0,
+                "d": 440.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/panna_dai_s_impossible_choice/img/p02.png",
+      "shot": "medium interior wide of a royal hall, emptied and echoing",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Rana Vikramaditya, brother of the slain Rana Ratan Singh the Second, held a shaken court. The Gujarati threat had passed, but inside Mewar, pride, insult and resentment were gathering.",
+            "hi": "मरे हुए राणा रतनसिंह द्वितीय के भाई, राणा विक्रमादित्य, डगमगाती दरबार संभाले बैठे थे। गुजराती खतरा हट चुका था, पर मेवाड़ के भीतर घमंड, अपमान और रंजिशें उबल रही थीं।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p02_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Rana",
+                "t": 74.0,
+                "d": 425.0
+              },
+              {
+                "w": "Vikramaditya",
+                "t": 500.0,
+                "d": 808.0
+              },
+              {
+                "w": "brother",
+                "t": 1734.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 2117.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 2202.0,
+                "d": 127.0
+              },
+              {
+                "w": "slain",
+                "t": 2329.0,
+                "d": 425.0
+              },
+              {
+                "w": "Rana",
+                "t": 2755.0,
+                "d": 339.0
+              },
+              {
+                "w": "Ratan",
+                "t": 3094.0,
+                "d": 341.0
+              },
+              {
+                "w": "Singh",
+                "t": 3436.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 3776.0,
+                "d": 127.0
+              },
+              {
+                "w": "Second",
+                "t": 3904.0,
+                "d": 680.0
+              },
+              {
+                "w": "held",
+                "t": 4627.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 4968.0,
+                "d": 42.0
+              },
+              {
+                "w": "shaken",
+                "t": 5010.0,
+                "d": 425.0
+              },
+              {
+                "w": "court",
+                "t": 5436.0,
+                "d": 510.0
+              },
+              {
+                "w": "The",
+                "t": 6712.0,
+                "d": 212.0
+              },
+              {
+                "w": "Gujarati",
+                "t": 6925.0,
+                "d": 553.0
+              },
+              {
+                "w": "threat",
+                "t": 7478.0,
+                "d": 297.0
+              },
+              {
+                "w": "had",
+                "t": 7776.0,
+                "d": 255.0
+              },
+              {
+                "w": "passed",
+                "t": 8031.0,
+                "d": 552.0
+              },
+              {
+                "w": "but",
+                "t": 8882.0,
+                "d": 296.0
+              },
+              {
+                "w": "inside",
+                "t": 9179.0,
+                "d": 511.0
+              },
+              {
+                "w": "Mewar",
+                "t": 9691.0,
+                "d": 510.0
+              },
+              {
+                "w": "pride",
+                "t": 10542.0,
+                "d": 638.0
+              },
+              {
+                "w": "insult",
+                "t": 11265.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 12201.0,
+                "d": 298.0
+              },
+              {
+                "w": "resentment",
+                "t": 12500.0,
+                "d": 764.0
+              },
+              {
+                "w": "were",
+                "t": 13308.0,
+                "d": 255.0
+              },
+              {
+                "w": "gathering",
+                "t": 13563.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/panna_dai_s_impossible_choice/img/p03.png",
+      "shot": "tight three-quarter view on a young prince with attendants, in a small palace courtyard",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Among the survivors was a child, Udai Singh, son of the late Rana Sanga. If he lived, the old Sisodia line would live through him. If he did not, others could claim the throne.",
+            "hi": "बचे लोगों में एक बच्चा था – उदयसिंह, दिवंगत राणा सांगा का बेटा। वह जीता तो पुरानी सिसोदिया रगें उसी से चलतीं, वह मरता तो और दावेदार उग आते।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p03_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Among",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 457.0,
+                "d": 127.0
+              },
+              {
+                "w": "survivors",
+                "t": 585.0,
+                "d": 723.0
+              },
+              {
+                "w": "was",
+                "t": 1308.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 1563.0,
+                "d": 85.0
+              },
+              {
+                "w": "child",
+                "t": 1648.0,
+                "d": 765.0
+              },
+              {
+                "w": "Udai",
+                "t": 2584.0,
+                "d": 341.0
+              },
+              {
+                "w": "Singh",
+                "t": 2925.0,
+                "d": 382.0
+              },
+              {
+                "w": "son",
+                "t": 3562.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 3861.0,
+                "d": 169.0
+              },
+              {
+                "w": "the",
+                "t": 4030.0,
+                "d": 127.0
+              },
+              {
+                "w": "late",
+                "t": 4158.0,
+                "d": 298.0
+              },
+              {
+                "w": "Rana",
+                "t": 4457.0,
+                "d": 340.0
+              },
+              {
+                "w": "Sanga",
+                "t": 4797.0,
+                "d": 553.0
+              },
+              {
+                "w": "If",
+                "t": 5776.0,
+                "d": 255.0
+              },
+              {
+                "w": "he",
+                "t": 6031.0,
+                "d": 170.0
+              },
+              {
+                "w": "lived",
+                "t": 6202.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 6840.0,
+                "d": 297.0
+              },
+              {
+                "w": "old",
+                "t": 7138.0,
+                "d": 297.0
+              },
+              {
+                "w": "Sisodia",
+                "t": 7436.0,
+                "d": 595.0
+              },
+              {
+                "w": "line",
+                "t": 8031.0,
+                "d": 297.0
+              },
+              {
+                "w": "would",
+                "t": 8329.0,
+                "d": 211.0
+              },
+              {
+                "w": "live",
+                "t": 8541.0,
+                "d": 212.0
+              },
+              {
+                "w": "through",
+                "t": 8754.0,
+                "d": 298.0
+              },
+              {
+                "w": "him",
+                "t": 9053.0,
+                "d": 679.0
+              },
+              {
+                "w": "If",
+                "t": 9861.0,
+                "d": 211.0
+              },
+              {
+                "w": "he",
+                "t": 10073.0,
+                "d": 128.0
+              },
+              {
+                "w": "did",
+                "t": 10202.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 10414.0,
+                "d": 722.0
+              },
+              {
+                "w": "others",
+                "t": 11265.0,
+                "d": 509.0
+              },
+              {
+                "w": "could",
+                "t": 11775.0,
+                "d": 213.0
+              },
+              {
+                "w": "claim",
+                "t": 11989.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 12244.0,
+                "d": 126.0
+              },
+              {
+                "w": "throne",
+                "t": 12371.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/panna_dai_s_impossible_choice/img/p04.png",
+      "shot": "medium close-up of Panna Dai in a palace nursery",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the women's quarters, one figure moved quietly at the centre of his world: Panna, called Panna Dai, the nursemaid. She fed him, taught him, watched the shadows lengthen on the walls.",
+            "hi": "जनानखाने में उसके छोटे से जहांन के बीचोंबीच एक ही परछाईं थी – पन्ना, पन्ना दाई, उसकी धाय। वही खिलाती, वही सिखाती, वही दीवारों पर सरकती छायाएं देखती।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p04_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 137.0
+              },
+              {
+                "w": "women's",
+                "t": 448.0,
+                "d": 505.0
+              },
+              {
+                "w": "quarters",
+                "t": 954.0,
+                "d": 1011.0
+              },
+              {
+                "w": "one",
+                "t": 2471.0,
+                "d": 366.0
+              },
+              {
+                "w": "figure",
+                "t": 2837.0,
+                "d": 367.0
+              },
+              {
+                "w": "moved",
+                "t": 3205.0,
+                "d": 460.0
+              },
+              {
+                "w": "quietly",
+                "t": 3666.0,
+                "d": 965.0
+              },
+              {
+                "w": "at",
+                "t": 4678.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 4908.0,
+                "d": 183.0
+              },
+              {
+                "w": "centre",
+                "t": 5091.0,
+                "d": 459.0
+              },
+              {
+                "w": "of",
+                "t": 5551.0,
+                "d": 137.0
+              },
+              {
+                "w": "his",
+                "t": 5689.0,
+                "d": 183.0
+              },
+              {
+                "w": "world",
+                "t": 5873.0,
+                "d": 1471.0
+              },
+              {
+                "w": "Panna",
+                "t": 7804.0,
+                "d": 643.0
+              },
+              {
+                "w": "called",
+                "t": 9091.0,
+                "d": 458.0
+              },
+              {
+                "w": "Panna",
+                "t": 9550.0,
+                "d": 506.0
+              },
+              {
+                "w": "Dai",
+                "t": 10057.0,
+                "d": 366.0
+              },
+              {
+                "w": "the",
+                "t": 10883.0,
+                "d": 275.0
+              },
+              {
+                "w": "nursemaid",
+                "t": 11159.0,
+                "d": 781.0
+              },
+              {
+                "w": "She",
+                "t": 12998.0,
+                "d": 322.0
+              },
+              {
+                "w": "fed",
+                "t": 13321.0,
+                "d": 275.0
+              },
+              {
+                "w": "him",
+                "t": 13597.0,
+                "d": 781.0
+              },
+              {
+                "w": "taught",
+                "t": 14471.0,
+                "d": 367.0
+              },
+              {
+                "w": "him",
+                "t": 14839.0,
+                "d": 826.0
+              },
+              {
+                "w": "watched",
+                "t": 15712.0,
+                "d": 597.0
+              },
+              {
+                "w": "the",
+                "t": 16310.0,
+                "d": 228.0
+              },
+              {
+                "w": "shadows",
+                "t": 16539.0,
+                "d": 552.0
+              },
+              {
+                "w": "lengthen",
+                "t": 17091.0,
+                "d": 551.0
+              },
+              {
+                "w": "on",
+                "t": 17643.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 17827.0,
+                "d": 136.0
+              },
+              {
+                "w": "walls",
+                "t": 17964.0,
+                "d": 782.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/panna_dai_s_impossible_choice/img/p05.png",
+      "shot": "dramatic half-lit medium of Banvir conferring with armed followers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Sources speak of Banvir, a relative raised in Mewar's service, who felt wronged by his standing and by Vikramaditya's temper. From such hurts, plots and new hopes for the gaddi were born.",
+            "hi": "कहानियां बाणवीर का जिक्र करती हैं – एक रिश्तेदार, जो मेवाड़ की सेवा में पलकर भी अपने दर्जे और विक्रमादित्य के गुस्से से कुढ़ा रहता था। ऐसे जख्मों से ही षड्यंत्र और गद्दी के नए सपने जन्मे।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p05_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Sources",
+                "t": 74.0,
+                "d": 553.0
+              },
+              {
+                "w": "speak",
+                "t": 627.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 1010.0,
+                "d": 127.0
+              },
+              {
+                "w": "Banvir",
+                "t": 1138.0,
+                "d": 680.0
+              },
+              {
+                "w": "a",
+                "t": 1989.0,
+                "d": 127.0
+              },
+              {
+                "w": "relative",
+                "t": 2117.0,
+                "d": 553.0
+              },
+              {
+                "w": "raised",
+                "t": 2670.0,
+                "d": 381.0
+              },
+              {
+                "w": "in",
+                "t": 3052.0,
+                "d": 127.0
+              },
+              {
+                "w": "Mewar's",
+                "t": 3179.0,
+                "d": 425.0
+              },
+              {
+                "w": "service",
+                "t": 3605.0,
+                "d": 595.0
+              },
+              {
+                "w": "who",
+                "t": 4372.0,
+                "d": 212.0
+              },
+              {
+                "w": "felt",
+                "t": 4585.0,
+                "d": 255.0
+              },
+              {
+                "w": "wronged",
+                "t": 4840.0,
+                "d": 468.0
+              },
+              {
+                "w": "by",
+                "t": 5308.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 5436.0,
+                "d": 170.0
+              },
+              {
+                "w": "standing",
+                "t": 5606.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 6329.0,
+                "d": 297.0
+              },
+              {
+                "w": "by",
+                "t": 6627.0,
+                "d": 170.0
+              },
+              {
+                "w": "Vikramaditya's",
+                "t": 6797.0,
+                "d": 936.0
+              },
+              {
+                "w": "temper",
+                "t": 7734.0,
+                "d": 595.0
+              },
+              {
+                "w": "From",
+                "t": 8839.0,
+                "d": 298.0
+              },
+              {
+                "w": "such",
+                "t": 9138.0,
+                "d": 297.0
+              },
+              {
+                "w": "hurts",
+                "t": 9436.0,
+                "d": 595.0
+              },
+              {
+                "w": "plots",
+                "t": 10073.0,
+                "d": 554.0
+              },
+              {
+                "w": "and",
+                "t": 10627.0,
+                "d": 254.0
+              },
+              {
+                "w": "new",
+                "t": 10881.0,
+                "d": 213.0
+              },
+              {
+                "w": "hopes",
+                "t": 11095.0,
+                "d": 468.0
+              },
+              {
+                "w": "for",
+                "t": 11606.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 11819.0,
+                "d": 126.0
+              },
+              {
+                "w": "gaddi",
+                "t": 11945.0,
+                "d": 384.0
+              },
+              {
+                "w": "were",
+                "t": 12329.0,
+                "d": 212.0
+              },
+              {
+                "w": "born",
+                "t": 12542.0,
+                "d": 381.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/panna_dai_s_impossible_choice/img/p06.png",
+      "shot": "dynamic interior wide of a sudden night attack inside the palace",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "One night, the quiet finally cracked. Banvir's men moved through the palace with drawn steel. In the darkness, Vikramaditya's brief, troubled rule ended, and the path to the child prince lay open.",
+            "hi": "एक रात, सन्नाटा आखिर टूट गया। बाणवीर के लोग नंगी तलवारें लिए महल में फैल गए। अंधेरे में विक्रमादित्य का छोटा, अशांत राज खत्म हुआ, और बाल‑राजकुमार तक का रास्ता खुल गया।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p06_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "One",
+                "t": 70.0,
+                "d": 320.0
+              },
+              {
+                "w": "night",
+                "t": 390.0,
+                "d": 440.0
+              },
+              {
+                "w": "the",
+                "t": 910.0,
+                "d": 240.0
+              },
+              {
+                "w": "quiet",
+                "t": 1150.0,
+                "d": 360.0
+              },
+              {
+                "w": "finally",
+                "t": 1510.0,
+                "d": 480.0
+              },
+              {
+                "w": "cracked",
+                "t": 1990.0,
+                "d": 479.0
+              },
+              {
+                "w": "Banvir's",
+                "t": 3150.0,
+                "d": 560.0
+              },
+              {
+                "w": "men",
+                "t": 3710.0,
+                "d": 440.0
+              },
+              {
+                "w": "moved",
+                "t": 4230.0,
+                "d": 400.0
+              },
+              {
+                "w": "through",
+                "t": 4630.0,
+                "d": 760.0
+              },
+              {
+                "w": "the",
+                "t": 5390.0,
+                "d": 240.0
+              },
+              {
+                "w": "palace",
+                "t": 5630.0,
+                "d": 320.0
+              },
+              {
+                "w": "with",
+                "t": 5950.0,
+                "d": 320.0
+              },
+              {
+                "w": "drawn",
+                "t": 6310.0,
+                "d": 200.0
+              },
+              {
+                "w": "steel",
+                "t": 6830.0,
+                "d": 200.0
+              },
+              {
+                "w": "In",
+                "t": 7070.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 7310.0,
+                "d": 120.0
+              },
+              {
+                "w": "darkness",
+                "t": 7430.0,
+                "d": 719.0
+              },
+              {
+                "w": "Vikramaditya's",
+                "t": 8350.0,
+                "d": 959.0
+              },
+              {
+                "w": "brief",
+                "t": 9309.0,
+                "d": 601.0
+              },
+              {
+                "w": "troubled",
+                "t": 10069.0,
+                "d": 441.0
+              },
+              {
+                "w": "rule",
+                "t": 10510.0,
+                "d": 199.0
+              },
+              {
+                "w": "ended",
+                "t": 10709.0,
+                "d": 760.0
+              },
+              {
+                "w": "and",
+                "t": 11549.0,
+                "d": 281.0
+              },
+              {
+                "w": "the",
+                "t": 11830.0,
+                "d": 160.0
+              },
+              {
+                "w": "path",
+                "t": 11990.0,
+                "d": 319.0
+              },
+              {
+                "w": "to",
+                "t": 12309.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 12469.0,
+                "d": 121.0
+              },
+              {
+                "w": "child",
+                "t": 12590.0,
+                "d": 400.0
+              },
+              {
+                "w": "prince",
+                "t": 12990.0,
+                "d": 360.0
+              },
+              {
+                "w": "lay",
+                "t": 13350.0,
+                "d": 199.0
+              },
+              {
+                "w": "open",
+                "t": 13549.0,
+                "d": 641.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/panna_dai_s_impossible_choice/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/panna_dai_s_impossible_choice/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As steel screams within the palace, Panna Dai races through shadowed courtyards, every heartbeat measuring the distance between life and death.",
+            "hi": "महल में इस्पात चीख रहा है, पन्ना दाई सायों भरे आँगनों से दौड़ती है, हर धड़कन ज़िंदगी‑मौत का फ़ासला नापती है।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/action/action_auto_en.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 80.0,
+                "d": 183.0
+              },
+              {
+                "w": "steel",
+                "t": 264.0,
+                "d": 367.0
+              },
+              {
+                "w": "screams",
+                "t": 632.0,
+                "d": 505.0
+              },
+              {
+                "w": "within",
+                "t": 1137.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 1459.0,
+                "d": 137.0
+              },
+              {
+                "w": "palace",
+                "t": 1597.0,
+                "d": 781.0
+              },
+              {
+                "w": "Panna",
+                "t": 2700.0,
+                "d": 505.0
+              },
+              {
+                "w": "Dai",
+                "t": 3205.0,
+                "d": 322.0
+              },
+              {
+                "w": "races",
+                "t": 3528.0,
+                "d": 551.0
+              },
+              {
+                "w": "through",
+                "t": 4080.0,
+                "d": 320.0
+              },
+              {
+                "w": "shadowed",
+                "t": 4401.0,
+                "d": 506.0
+              },
+              {
+                "w": "courtyards",
+                "t": 4908.0,
+                "d": 965.0
+              },
+              {
+                "w": "every",
+                "t": 6287.0,
+                "d": 597.0
+              },
+              {
+                "w": "heartbeat",
+                "t": 6885.0,
+                "d": 827.0
+              },
+              {
+                "w": "measuring",
+                "t": 7804.0,
+                "d": 643.0
+              },
+              {
+                "w": "the",
+                "t": 8448.0,
+                "d": 183.0
+              },
+              {
+                "w": "distance",
+                "t": 8632.0,
+                "d": 505.0
+              },
+              {
+                "w": "between",
+                "t": 9137.0,
+                "d": 459.0
+              },
+              {
+                "w": "life",
+                "t": 9597.0,
+                "d": 505.0
+              },
+              {
+                "w": "and",
+                "t": 10103.0,
+                "d": 229.0
+              },
+              {
+                "w": "death",
+                "t": 10333.0,
+                "d": 505.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/panna_dai_s_impossible_choice/img/p07.png",
+      "shot": "close-up on Panna Dai’s face in lamplight",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "What followed in Panna's chamber is told not by inscriptions, but by later bards like Muhnot Nainsi. Tradition says she heard the whispers, saw the fear in the servants' eyes, and understood.",
+            "hi": "पन्ना के कमरे में क्या हुआ, ये शिलालेख नहीं, बल्कि बाद के चारण, जैसे मुहणोत नैणसी, सुनाते हैं। परंपरा कहती है, उसने फुसफुसाहटें सुनीं, नौकरों की आंखों में डर देखा, और सब समझ गई।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p07_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "What",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "followed",
+                "t": 402.0,
+                "d": 459.0
+              },
+              {
+                "w": "in",
+                "t": 862.0,
+                "d": 137.0
+              },
+              {
+                "w": "Panna's",
+                "t": 1000.0,
+                "d": 551.0
+              },
+              {
+                "w": "chamber",
+                "t": 1551.0,
+                "d": 780.0
+              },
+              {
+                "w": "is",
+                "t": 2332.0,
+                "d": 321.0
+              },
+              {
+                "w": "told",
+                "t": 2654.0,
+                "d": 322.0
+              },
+              {
+                "w": "not",
+                "t": 2977.0,
+                "d": 366.0
+              },
+              {
+                "w": "by",
+                "t": 3343.0,
+                "d": 91.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 3435.0,
+                "d": 1149.0
+              },
+              {
+                "w": "but",
+                "t": 4632.0,
+                "d": 321.0
+              },
+              {
+                "w": "by",
+                "t": 4954.0,
+                "d": 275.0
+              },
+              {
+                "w": "later",
+                "t": 5229.0,
+                "d": 827.0
+              },
+              {
+                "w": "bards",
+                "t": 6057.0,
+                "d": 643.0
+              },
+              {
+                "w": "like",
+                "t": 6701.0,
+                "d": 275.0
+              },
+              {
+                "w": "Muhnot",
+                "t": 6977.0,
+                "d": 459.0
+              },
+              {
+                "w": "Nainsi",
+                "t": 7436.0,
+                "d": 643.0
+              },
+              {
+                "w": "Tradition",
+                "t": 8862.0,
+                "d": 643.0
+              },
+              {
+                "w": "says",
+                "t": 9505.0,
+                "d": 412.0
+              },
+              {
+                "w": "she",
+                "t": 9918.0,
+                "d": 597.0
+              },
+              {
+                "w": "heard",
+                "t": 10516.0,
+                "d": 231.0
+              },
+              {
+                "w": "the",
+                "t": 10747.0,
+                "d": 183.0
+              },
+              {
+                "w": "whispers",
+                "t": 10931.0,
+                "d": 826.0
+              },
+              {
+                "w": "saw",
+                "t": 11804.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 12172.0,
+                "d": 183.0
+              },
+              {
+                "w": "fear",
+                "t": 12356.0,
+                "d": 321.0
+              },
+              {
+                "w": "in",
+                "t": 12678.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 12770.0,
+                "d": 136.0
+              },
+              {
+                "w": "servants'",
+                "t": 12906.0,
+                "d": 551.0
+              },
+              {
+                "w": "eyes",
+                "t": 13458.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 14148.0,
+                "d": 275.0
+              },
+              {
+                "w": "understood",
+                "t": 14424.0,
+                "d": 781.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/panna_dai_s_impossible_choice/img/p08.png",
+      "shot": "medium interior of Panna between two sleeping children",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The khyat says she looked at the two sleeping boys: the Rana's son, and her own Chandan. Banvir, it is said, meant to kill the child who could rival his claim.",
+            "hi": "ख्यात कहती है, उसने दो सोते बच्चों को देखा – राणा का बेटा और अपना चंदन। कहा जाता है, बाणवीर उस बालक को मारना चाहता था जो उसके दावे को चुनौती दे सके।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p08_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "khyat",
+                "t": 287.0,
+                "d": 255.0
+              },
+              {
+                "w": "says",
+                "t": 542.0,
+                "d": 340.0
+              },
+              {
+                "w": "she",
+                "t": 882.0,
+                "d": 468.0
+              },
+              {
+                "w": "looked",
+                "t": 1351.0,
+                "d": 255.0
+              },
+              {
+                "w": "at",
+                "t": 1606.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 1691.0,
+                "d": 127.0
+              },
+              {
+                "w": "two",
+                "t": 1819.0,
+                "d": 255.0
+              },
+              {
+                "w": "sleeping",
+                "t": 2074.0,
+                "d": 381.0
+              },
+              {
+                "w": "boys",
+                "t": 2456.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 3223.0,
+                "d": 255.0
+              },
+              {
+                "w": "Rana's",
+                "t": 3478.0,
+                "d": 340.0
+              },
+              {
+                "w": "son",
+                "t": 3819.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 4542.0,
+                "d": 255.0
+              },
+              {
+                "w": "her",
+                "t": 4797.0,
+                "d": 212.0
+              },
+              {
+                "w": "own",
+                "t": 5010.0,
+                "d": 297.0
+              },
+              {
+                "w": "Chandan",
+                "t": 5308.0,
+                "d": 638.0
+              },
+              {
+                "w": "Banvir",
+                "t": 6797.0,
+                "d": 723.0
+              },
+              {
+                "w": "it",
+                "t": 7819.0,
+                "d": 212.0
+              },
+              {
+                "w": "is",
+                "t": 8031.0,
+                "d": 85.0
+              },
+              {
+                "w": "said",
+                "t": 8117.0,
+                "d": 594.0
+              },
+              {
+                "w": "meant",
+                "t": 8797.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 9138.0,
+                "d": 126.0
+              },
+              {
+                "w": "kill",
+                "t": 9264.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 9478.0,
+                "d": 127.0
+              },
+              {
+                "w": "child",
+                "t": 9606.0,
+                "d": 340.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/panna_dai_s_impossible_choice/img/p09.png",
+      "shot": "low-angle tight shot on Panna lifting Udai into a basket",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the tale, she makes her choice in a heartbeat. Udai into the grain basket, a cloth over him, a hurried prayer. The cradle that held her own child is left in its place.",
+            "hi": "कहानी में वह धड़कन भर में फैसला कर लेती है। उदय को धान की टोकरी में, ऊपर कपड़ा, होठों पर दबी प्रार्थना। झूला, जिसमें उसका अपना बच्चा सोया था, वहीं छोड़ दिया जाता है।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p09_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 170.0
+              },
+              {
+                "w": "tale",
+                "t": 457.0,
+                "d": 553.0
+              },
+              {
+                "w": "she",
+                "t": 1010.0,
+                "d": 297.0
+              },
+              {
+                "w": "makes",
+                "t": 1308.0,
+                "d": 297.0
+              },
+              {
+                "w": "her",
+                "t": 1606.0,
+                "d": 127.0
+              },
+              {
+                "w": "choice",
+                "t": 1734.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 2287.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 2414.0,
+                "d": 84.0
+              },
+              {
+                "w": "heartbeat",
+                "t": 2498.0,
+                "d": 894.0
+              },
+              {
+                "w": "Udai",
+                "t": 4243.0,
+                "d": 469.0
+              },
+              {
+                "w": "into",
+                "t": 4712.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 4968.0,
+                "d": 127.0
+              },
+              {
+                "w": "grain",
+                "t": 5095.0,
+                "d": 340.0
+              },
+              {
+                "w": "basket",
+                "t": 5436.0,
+                "d": 893.0
+              },
+              {
+                "w": "a",
+                "t": 6414.0,
+                "d": 212.0
+              },
+              {
+                "w": "cloth",
+                "t": 6627.0,
+                "d": 340.0
+              },
+              {
+                "w": "over",
+                "t": 6968.0,
+                "d": 255.0
+              },
+              {
+                "w": "him",
+                "t": 7223.0,
+                "d": 595.0
+              },
+              {
+                "w": "a",
+                "t": 7861.0,
+                "d": 127.0
+              },
+              {
+                "w": "hurried",
+                "t": 7989.0,
+                "d": 425.0
+              },
+              {
+                "w": "prayer",
+                "t": 8414.0,
+                "d": 638.0
+              },
+              {
+                "w": "The",
+                "t": 10202.0,
+                "d": 170.0
+              },
+              {
+                "w": "cradle",
+                "t": 10372.0,
+                "d": 553.0
+              },
+              {
+                "w": "that",
+                "t": 10925.0,
+                "d": 211.0
+              },
+              {
+                "w": "held",
+                "t": 11137.0,
+                "d": 298.0
+              },
+              {
+                "w": "her",
+                "t": 11436.0,
+                "d": 170.0
+              },
+              {
+                "w": "own",
+                "t": 11606.0,
+                "d": 254.0
+              },
+              {
+                "w": "child",
+                "t": 11860.0,
+                "d": 639.0
+              },
+              {
+                "w": "is",
+                "t": 12585.0,
+                "d": 212.0
+              },
+              {
+                "w": "left",
+                "t": 12797.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 13138.0,
+                "d": 85.0
+              },
+              {
+                "w": "its",
+                "t": 13223.0,
+                "d": 211.0
+              },
+              {
+                "w": "place",
+                "t": 13435.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/panna_dai_s_impossible_choice/img/p10.png",
+      "shot": "over-the-shoulder view of Banvir’s men entering as Panna kneels by a cot",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Nainsi tradition says Banvir's men burst into the nursery. They saw a child in royal cloth on the bed, and a silent nurse beside him. The steel that sought the prince never checked its aim.",
+            "hi": "नैणसी की परंपरा कहती है, बाणवीर के लोग हड़कते हुए शिशुकक्ष में घुसे। बिस्तर पर शाही वस्त्रों में बच्चा दिखा, और पास एक चुप धाय। जो इस्पात राजकुमार को खोज रहा था, उसने अपनी वार नहीं रोकी।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p10_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Nainsi",
+                "t": 287.0,
+                "d": 382.0
+              },
+              {
+                "w": "tradition",
+                "t": 670.0,
+                "d": 510.0
+              },
+              {
+                "w": "says",
+                "t": 1180.0,
+                "d": 468.0
+              },
+              {
+                "w": "Banvir's",
+                "t": 1648.0,
+                "d": 509.0
+              },
+              {
+                "w": "men",
+                "t": 2158.0,
+                "d": 297.0
+              },
+              {
+                "w": "burst",
+                "t": 2456.0,
+                "d": 384.0
+              },
+              {
+                "w": "into",
+                "t": 2840.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 3052.0,
+                "d": 127.0
+              },
+              {
+                "w": "nursery",
+                "t": 3179.0,
+                "d": 1235.0
+              },
+              {
+                "w": "They",
+                "t": 4457.0,
+                "d": 297.0
+              },
+              {
+                "w": "saw",
+                "t": 4755.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 4968.0,
+                "d": 85.0
+              },
+              {
+                "w": "child",
+                "t": 5053.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 5563.0,
+                "d": 212.0
+              },
+              {
+                "w": "royal",
+                "t": 5776.0,
+                "d": 340.0
+              },
+              {
+                "w": "cloth",
+                "t": 6117.0,
+                "d": 382.0
+              },
+              {
+                "w": "on",
+                "t": 6500.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 6585.0,
+                "d": 127.0
+              },
+              {
+                "w": "bed",
+                "t": 6712.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 7393.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 7648.0,
+                "d": 42.0
+              },
+              {
+                "w": "silent",
+                "t": 7691.0,
+                "d": 510.0
+              },
+              {
+                "w": "nurse",
+                "t": 8202.0,
+                "d": 381.0
+              },
+              {
+                "w": "beside",
+                "t": 8584.0,
+                "d": 425.0
+              },
+              {
+                "w": "him",
+                "t": 9009.0,
+                "d": 937.0
+              },
+              {
+                "w": "The",
+                "t": 10073.0,
+                "d": 213.0
+              },
+              {
+                "w": "steel",
+                "t": 10287.0,
+                "d": 340.0
+              },
+              {
+                "w": "that",
+                "t": 10627.0,
+                "d": 169.0
+              },
+              {
+                "w": "sought",
+                "t": 10796.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 11137.0,
+                "d": 128.0
+              },
+              {
+                "w": "prince",
+                "t": 11265.0,
+                "d": 425.0
+              },
+              {
+                "w": "never",
+                "t": 11691.0,
+                "d": 382.0
+              },
+              {
+                "w": "checked",
+                "t": 12074.0,
+                "d": 340.0
+              },
+              {
+                "w": "its",
+                "t": 12414.0,
+                "d": 170.0
+              },
+              {
+                "w": "aim",
+                "t": 12585.0,
+                "d": 424.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/panna_dai_s_impossible_choice/img/p11.png",
+      "shot": "tight profile of Panna, eyes closed, turned away from the cot",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "female",
+          "text": {
+            "en": "Forgive me, my child.",
+            "hi": "मुझे क्षमा करना, मेरे लाल।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p11_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Forgive",
+                "t": 50.0,
+                "d": 562.5
+              },
+              {
+                "w": "me",
+                "t": 625.0,
+                "d": 287.5
+              },
+              {
+                "w": "my",
+                "t": 1037.5,
+                "d": 275.0
+              },
+              {
+                "w": "child",
+                "t": 1325.0,
+                "d": 550.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/panna_dai_s_impossible_choice/img/p12.png",
+      "shot": "medium shot of Panna lifting the heavy basket, a dark corridor beyond",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "So the story goes: when the men left, the nurse lifted the basket that held Udai Singh and walked into the darkness. Behind her, the cost of that walk lay on a simple cot.",
+            "hi": "कहानी आगे कहती है – जब वे चले गए, धाय ने उदयसिंह वाला टोकरा उठाया और अंधेरे में चल पड़ी। उसके पीछे, उस एक कदम की कीमत एक साधारण खाट पर छूट गई।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p12_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "So",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 127.0
+              },
+              {
+                "w": "story",
+                "t": 457.0,
+                "d": 468.0
+              },
+              {
+                "w": "goes",
+                "t": 925.0,
+                "d": 595.0
+              },
+              {
+                "w": "when",
+                "t": 1904.0,
+                "d": 254.0
+              },
+              {
+                "w": "the",
+                "t": 2158.0,
+                "d": 171.0
+              },
+              {
+                "w": "men",
+                "t": 2329.0,
+                "d": 211.0
+              },
+              {
+                "w": "left",
+                "t": 2541.0,
+                "d": 384.0
+              },
+              {
+                "w": "the",
+                "t": 2925.0,
+                "d": 679.0
+              },
+              {
+                "w": "nurse",
+                "t": 3605.0,
+                "d": 341.0
+              },
+              {
+                "w": "lifted",
+                "t": 3946.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 4372.0,
+                "d": 170.0
+              },
+              {
+                "w": "basket",
+                "t": 4542.0,
+                "d": 468.0
+              },
+              {
+                "w": "that",
+                "t": 5010.0,
+                "d": 255.0
+              },
+              {
+                "w": "held",
+                "t": 5265.0,
+                "d": 340.0
+              },
+              {
+                "w": "Udai",
+                "t": 5648.0,
+                "d": 297.0
+              },
+              {
+                "w": "Singh",
+                "t": 5946.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 6500.0,
+                "d": 297.0
+              },
+              {
+                "w": "walked",
+                "t": 6797.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 7180.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 7393.0,
+                "d": 170.0
+              },
+              {
+                "w": "darkness",
+                "t": 7563.0,
+                "d": 1404.0
+              },
+              {
+                "w": "Behind",
+                "t": 9179.0,
+                "d": 468.0
+              },
+              {
+                "w": "her",
+                "t": 9647.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 10243.0,
+                "d": 298.0
+              },
+              {
+                "w": "cost",
+                "t": 10542.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 10925.0,
+                "d": 126.0
+              },
+              {
+                "w": "that",
+                "t": 11052.0,
+                "d": 298.0
+              },
+              {
+                "w": "walk",
+                "t": 11351.0,
+                "d": 382.0
+              },
+              {
+                "w": "lay",
+                "t": 11734.0,
+                "d": 510.0
+              },
+              {
+                "w": "on",
+                "t": 12244.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 12414.0,
+                "d": 85.0
+              },
+              {
+                "w": "simple",
+                "t": 12500.0,
+                "d": 468.0
+              },
+              {
+                "w": "cot",
+                "t": 12968.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/panna_dai_s_impossible_choice/img/p13.png",
+      "shot": "wide shot of Panna slipping through a postern gate into the night",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Later accounts picture her leaving Chittor by a quieter gate, hugging the fort's shadows, cradling the basket that now held Mewar's last direct heir. Banvir, they say, believed the child was dead.",
+            "hi": "बाद की कहानियां उसे चित्तौड़ से एक सुनसान फाटक से निकलते, किले की दीवारों से सटकर चलते दिखाती हैं, टोकरी में अब मेवाड़ का आखिरी सीधा वारिस। कहते हैं, बाणवीर को यकीन था बच्चा मर चुका है।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p13_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Later",
+                "t": 80.0,
+                "d": 459.0
+              },
+              {
+                "w": "accounts",
+                "t": 540.0,
+                "d": 551.0
+              },
+              {
+                "w": "picture",
+                "t": 1091.0,
+                "d": 413.0
+              },
+              {
+                "w": "her",
+                "t": 1505.0,
+                "d": 183.0
+              },
+              {
+                "w": "leaving",
+                "t": 1689.0,
+                "d": 459.0
+              },
+              {
+                "w": "Chittor",
+                "t": 2149.0,
+                "d": 550.0
+              },
+              {
+                "w": "by",
+                "t": 2700.0,
+                "d": 231.0
+              },
+              {
+                "w": "a",
+                "t": 2931.0,
+                "d": 91.0
+              },
+              {
+                "w": "quieter",
+                "t": 3022.0,
+                "d": 505.0
+              },
+              {
+                "w": "gate",
+                "t": 3528.0,
+                "d": 689.0
+              },
+              {
+                "w": "hugging",
+                "t": 4447.0,
+                "d": 506.0
+              },
+              {
+                "w": "the",
+                "t": 4954.0,
+                "d": 183.0
+              },
+              {
+                "w": "fort's",
+                "t": 5137.0,
+                "d": 413.0
+              },
+              {
+                "w": "shadows",
+                "t": 5551.0,
+                "d": 919.0
+              },
+              {
+                "w": "cradling",
+                "t": 6609.0,
+                "d": 597.0
+              },
+              {
+                "w": "the",
+                "t": 7206.0,
+                "d": 137.0
+              },
+              {
+                "w": "basket",
+                "t": 7344.0,
+                "d": 551.0
+              },
+              {
+                "w": "that",
+                "t": 7896.0,
+                "d": 229.0
+              },
+              {
+                "w": "now",
+                "t": 8126.0,
+                "d": 275.0
+              },
+              {
+                "w": "held",
+                "t": 8402.0,
+                "d": 275.0
+              },
+              {
+                "w": "Mewar's",
+                "t": 8678.0,
+                "d": 642.0
+              },
+              {
+                "w": "last",
+                "t": 9320.0,
+                "d": 505.0
+              },
+              {
+                "w": "direct",
+                "t": 9873.0,
+                "d": 505.0
+              },
+              {
+                "w": "heir",
+                "t": 10424.0,
+                "d": 598.0
+              },
+              {
+                "w": "Banvir",
+                "t": 11712.0,
+                "d": 781.0
+              },
+              {
+                "w": "they",
+                "t": 12540.0,
+                "d": 321.0
+              },
+              {
+                "w": "say",
+                "t": 12862.0,
+                "d": 596.0
+              },
+              {
+                "w": "believed",
+                "t": 13643.0,
+                "d": 504.0
+              },
+              {
+                "w": "the",
+                "t": 14148.0,
+                "d": 139.0
+              },
+              {
+                "w": "child",
+                "t": 14287.0,
+                "d": 413.0
+              },
+              {
+                "w": "was",
+                "t": 14701.0,
+                "d": 275.0
+              },
+              {
+                "w": "dead",
+                "t": 14977.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/panna_dai_s_impossible_choice/img/p14.png",
+      "shot": "wide landscape shot of rugged hills as Panna travels with the basket",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The tradition follows her over stony hills and ravines, through village tracks and forest paths, until she reaches Kumbhalgarh, the hill fort where Udai Singh can be hidden and raised quietly.",
+            "hi": "परंपरा उसके साथ कंकरीले पहाड़, गहरी खाइयां, गांवों के पगडंडी और जंगल की राहें पार करती है, जब तक वह कुम्भलगढ़ नहीं पहुंचती – वह पहाड़ी किला जहां उदयसिंह को छिपाकर पाला जा सके।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p14_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "tradition",
+                "t": 244.0,
+                "d": 553.0
+              },
+              {
+                "w": "follows",
+                "t": 797.0,
+                "d": 425.0
+              },
+              {
+                "w": "her",
+                "t": 1223.0,
+                "d": 255.0
+              },
+              {
+                "w": "over",
+                "t": 1478.0,
+                "d": 297.0
+              },
+              {
+                "w": "stony",
+                "t": 1776.0,
+                "d": 510.0
+              },
+              {
+                "w": "hills",
+                "t": 2287.0,
+                "d": 339.0
+              },
+              {
+                "w": "and",
+                "t": 2626.0,
+                "d": 213.0
+              },
+              {
+                "w": "ravines",
+                "t": 2840.0,
+                "d": 893.0
+              },
+              {
+                "w": "through",
+                "t": 3904.0,
+                "d": 339.0
+              },
+              {
+                "w": "village",
+                "t": 4243.0,
+                "d": 384.0
+              },
+              {
+                "w": "tracks",
+                "t": 4627.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 5095.0,
+                "d": 255.0
+              },
+              {
+                "w": "forest",
+                "t": 5351.0,
+                "d": 468.0
+              },
+              {
+                "w": "paths",
+                "t": 5819.0,
+                "d": 595.0
+              },
+              {
+                "w": "until",
+                "t": 6712.0,
+                "d": 340.0
+              },
+              {
+                "w": "she",
+                "t": 7053.0,
+                "d": 170.0
+              },
+              {
+                "w": "reaches",
+                "t": 7223.0,
+                "d": 468.0
+              },
+              {
+                "w": "Kumbhalgarh",
+                "t": 7691.0,
+                "d": 723.0
+              },
+              {
+                "w": "the",
+                "t": 8839.0,
+                "d": 255.0
+              },
+              {
+                "w": "hill",
+                "t": 9094.0,
+                "d": 256.0
+              },
+              {
+                "w": "fort",
+                "t": 9351.0,
+                "d": 637.0
+              },
+              {
+                "w": "where",
+                "t": 10073.0,
+                "d": 255.0
+              },
+              {
+                "w": "Udai",
+                "t": 10328.0,
+                "d": 298.0
+              },
+              {
+                "w": "Singh",
+                "t": 10627.0,
+                "d": 339.0
+              },
+              {
+                "w": "can",
+                "t": 10967.0,
+                "d": 213.0
+              },
+              {
+                "w": "be",
+                "t": 11180.0,
+                "d": 126.0
+              },
+              {
+                "w": "hidden",
+                "t": 11307.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 11819.0,
+                "d": 255.0
+              },
+              {
+                "w": "raised",
+                "t": 12074.0,
+                "d": 425.0
+              },
+              {
+                "w": "quietly",
+                "t": 12500.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/panna_dai_s_impossible_choice/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/panna_dai_s_impossible_choice/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Bandit whispers rustle from the rocks, but Panna Dai lifts her blade, ready to carve a path for the child-king of Mewar.",
+            "hi": "चट्टानों से डाकुओं की फुसफुसाहट उठती है, पर पन्ना दाई तलवार उठा खड़ी है, मेवाड़ के बाल-राजा के लिए राह चीरने को तैयार।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/action/action_auto2_en.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Bandit",
+                "t": 110.0,
+                "d": 560.0
+              },
+              {
+                "w": "whispers",
+                "t": 670.0,
+                "d": 880.0
+              },
+              {
+                "w": "rustle",
+                "t": 1830.0,
+                "d": 559.0
+              },
+              {
+                "w": "from",
+                "t": 2389.0,
+                "d": 241.0
+              },
+              {
+                "w": "the",
+                "t": 2630.0,
+                "d": 120.0
+              },
+              {
+                "w": "rocks",
+                "t": 2750.0,
+                "d": 599.0
+              },
+              {
+                "w": "but",
+                "t": 4230.0,
+                "d": 320.0
+              },
+              {
+                "w": "Panna",
+                "t": 4550.0,
+                "d": 240.0
+              },
+              {
+                "w": "Dai",
+                "t": 4790.0,
+                "d": 120.0
+              },
+              {
+                "w": "lifts",
+                "t": 4910.0,
+                "d": 520.0
+              },
+              {
+                "w": "her",
+                "t": 5430.0,
+                "d": 120.0
+              },
+              {
+                "w": "blade",
+                "t": 5550.0,
+                "d": 680.0
+              },
+              {
+                "w": "ready",
+                "t": 6710.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 7030.0,
+                "d": 200.0
+              },
+              {
+                "w": "carve",
+                "t": 7230.0,
+                "d": 320.0
+              },
+              {
+                "w": "a",
+                "t": 7550.0,
+                "d": 120.0
+              },
+              {
+                "w": "path",
+                "t": 7670.0,
+                "d": 320.0
+              },
+              {
+                "w": "for",
+                "t": 7990.0,
+                "d": 159.0
+              },
+              {
+                "w": "the",
+                "t": 8149.0,
+                "d": 121.0
+              },
+              {
+                "w": "child-king",
+                "t": 8270.0,
+                "d": 600.0
+              },
+              {
+                "w": "of",
+                "t": 8870.0,
+                "d": 160.0
+              },
+              {
+                "w": "Mewar",
+                "t": 9030.0,
+                "d": 519.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/panna_dai_s_impossible_choice/img/p15.png",
+      "shot": "impressive wide shot of Kumbhalgarh fort on a ridge",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kumbhalgarh, Rana Kumbha's hill fort, became in these stories a cradle. While Banvir ruled at Chittor, a child was said to be growing in the hills, watched by his nurse and a few loyal men.",
+            "hi": "कुम्भलगढ़, राणा कुम्भा का पहाड़ी दुर्ग, इन कथाओं में झूला बन जाता है। जब तक बाणवीर चित्तौड़ पर राज करता है, कहा जाता है पहाड़ियों में एक बालक बढ़ रहा था – अपनी धाय और कुछ वफादारों की नजर में।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p15_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kumbhalgarh",
+                "t": 126.0,
+                "d": 735.0
+              },
+              {
+                "w": "Rana",
+                "t": 862.0,
+                "d": 183.0
+              },
+              {
+                "w": "Kumbha's",
+                "t": 1321.0,
+                "d": 735.0
+              },
+              {
+                "w": "hill",
+                "t": 2057.0,
+                "d": 229.0
+              },
+              {
+                "w": "fort",
+                "t": 2287.0,
+                "d": 504.0
+              },
+              {
+                "w": "became",
+                "t": 3068.0,
+                "d": 459.0
+              },
+              {
+                "w": "in",
+                "t": 3528.0,
+                "d": 91.0
+              },
+              {
+                "w": "these",
+                "t": 3620.0,
+                "d": 274.0
+              },
+              {
+                "w": "stories",
+                "t": 3895.0,
+                "d": 414.0
+              },
+              {
+                "w": "a",
+                "t": 4310.0,
+                "d": 90.0
+              },
+              {
+                "w": "cradle",
+                "t": 4401.0,
+                "d": 1012.0
+              },
+              {
+                "w": "While",
+                "t": 5873.0,
+                "d": 367.0
+              },
+              {
+                "w": "Banvir",
+                "t": 6241.0,
+                "d": 459.0
+              },
+              {
+                "w": "ruled",
+                "t": 6701.0,
+                "d": 367.0
+              },
+              {
+                "w": "at",
+                "t": 7068.0,
+                "d": 91.0
+              },
+              {
+                "w": "Chittor",
+                "t": 7160.0,
+                "d": 873.0
+              },
+              {
+                "w": "a",
+                "t": 8080.0,
+                "d": 275.0
+              },
+              {
+                "w": "child",
+                "t": 8356.0,
+                "d": 367.0
+              },
+              {
+                "w": "was",
+                "t": 8724.0,
+                "d": 183.0
+              },
+              {
+                "w": "said",
+                "t": 8908.0,
+                "d": 275.0
+              },
+              {
+                "w": "to",
+                "t": 9183.0,
+                "d": 136.0
+              },
+              {
+                "w": "be",
+                "t": 9320.0,
+                "d": 185.0
+              },
+              {
+                "w": "growing",
+                "t": 9505.0,
+                "d": 367.0
+              },
+              {
+                "w": "in",
+                "t": 9873.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 9965.0,
+                "d": 137.0
+              },
+              {
+                "w": "hills",
+                "t": 10103.0,
+                "d": 688.0
+              },
+              {
+                "w": "watched",
+                "t": 11022.0,
+                "d": 459.0
+              },
+              {
+                "w": "by",
+                "t": 11482.0,
+                "d": 182.0
+              },
+              {
+                "w": "his",
+                "t": 11665.0,
+                "d": 643.0
+              },
+              {
+                "w": "nurse",
+                "t": 12309.0,
+                "d": 231.0
+              },
+              {
+                "w": "and",
+                "t": 12540.0,
+                "d": 182.0
+              },
+              {
+                "w": "a",
+                "t": 12722.0,
+                "d": 91.0
+              },
+              {
+                "w": "few",
+                "t": 12814.0,
+                "d": 231.0
+              },
+              {
+                "w": "loyal",
+                "t": 13045.0,
+                "d": 412.0
+              },
+              {
+                "w": "men",
+                "t": 13458.0,
+                "d": 368.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/panna_dai_s_impossible_choice/split_auto/s0.png",
+          "slogan": {
+            "en": "The child lives, Mewar stands",
+            "hi": "बालक जीवित, मेवाड़ अडिग"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/panna_dai_s_impossible_choice/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/panna_dai_s_impossible_choice/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Chittor's ashes to Kumbhalgarh's walls, Panna Dai's sacrifice forges a living shield around the last flame of Mewar.",
+            "hi": "चित्तौड़ की राख से लेकर कुंभलगढ़ की दीवारों तक, पन्ना दाई की कुर्बानी मेवाड़ की अंतिम लौ के चारों तरफ ज़िंदा ढाल बन जाती है।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/split/split_auto_en.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 333.0
+              },
+              {
+                "w": "Chittor's",
+                "t": 406.0,
+                "d": 583.0
+              },
+              {
+                "w": "ashes",
+                "t": 989.0,
+                "d": 1000.0
+              },
+              {
+                "w": "to",
+                "t": 2072.0,
+                "d": 250.0
+              },
+              {
+                "w": "Kumbhalgarh's",
+                "t": 2322.0,
+                "d": 623.0
+              },
+              {
+                "w": "walls",
+                "t": 2946.0,
+                "d": 792.0
+              },
+              {
+                "w": "Panna",
+                "t": 4239.0,
+                "d": 333.0
+              },
+              {
+                "w": "Dai's",
+                "t": 4572.0,
+                "d": 333.0
+              },
+              {
+                "w": "sacrifice",
+                "t": 4906.0,
+                "d": 1250.0
+              },
+              {
+                "w": "forges",
+                "t": 6239.0,
+                "d": 541.0
+              },
+              {
+                "w": "a",
+                "t": 6781.0,
+                "d": 83.0
+              },
+              {
+                "w": "living",
+                "t": 6864.0,
+                "d": 375.0
+              },
+              {
+                "w": "shield",
+                "t": 7239.0,
+                "d": 333.0
+              },
+              {
+                "w": "around",
+                "t": 7572.0,
+                "d": 291.0
+              },
+              {
+                "w": "the",
+                "t": 7864.0,
+                "d": 125.0
+              },
+              {
+                "w": "last",
+                "t": 7989.0,
+                "d": 415.0
+              },
+              {
+                "w": "flame",
+                "t": 8405.0,
+                "d": 376.0
+              },
+              {
+                "w": "of",
+                "t": 8781.0,
+                "d": 250.0
+              },
+              {
+                "w": "Mewar",
+                "t": 9031.0,
+                "d": 625.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/panna_dai_s_impossible_choice/img/p16.png",
+      "shot": "interior wide of a later court in Udaipur, men in council",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Historically, we know this much for certain: Banvir's rule did not last. The nobles of Mewar rallied around Udai Singh, removed the usurper, and in time the boy founded a new capital at Udaipur.",
+            "hi": "इतिहास इतना तो साफ कहता है – बाणवीर का राज टिका नहीं। मेवाड़ के सरदार उदयसिंह के पीछे खड़े हुए, हड़पने वाले को हटा दिया, और आगे चलकर यही लड़का उदयपुर नाम की नई राजधानी बसाता है।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p16_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Historically",
+                "t": 74.0,
+                "d": 893.0
+              },
+              {
+                "w": "we",
+                "t": 1010.0,
+                "d": 212.0
+              },
+              {
+                "w": "know",
+                "t": 1223.0,
+                "d": 212.0
+              },
+              {
+                "w": "this",
+                "t": 1436.0,
+                "d": 255.0
+              },
+              {
+                "w": "much",
+                "t": 1691.0,
+                "d": 212.0
+              },
+              {
+                "w": "for",
+                "t": 1904.0,
+                "d": 170.0
+              },
+              {
+                "w": "certain",
+                "t": 2074.0,
+                "d": 638.0
+              },
+              {
+                "w": "Banvir's",
+                "t": 3137.0,
+                "d": 639.0
+              },
+              {
+                "w": "rule",
+                "t": 3776.0,
+                "d": 254.0
+              },
+              {
+                "w": "did",
+                "t": 4030.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 4201.0,
+                "d": 298.0
+              },
+              {
+                "w": "last",
+                "t": 4500.0,
+                "d": 1191.0
+              },
+              {
+                "w": "The",
+                "t": 5819.0,
+                "d": 212.0
+              },
+              {
+                "w": "nobles",
+                "t": 6031.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 6414.0,
+                "d": 170.0
+              },
+              {
+                "w": "Mewar",
+                "t": 6585.0,
+                "d": 382.0
+              },
+              {
+                "w": "rallied",
+                "t": 6968.0,
+                "d": 425.0
+              },
+              {
+                "w": "around",
+                "t": 7393.0,
+                "d": 382.0
+              },
+              {
+                "w": "Udai",
+                "t": 7776.0,
+                "d": 297.0
+              },
+              {
+                "w": "Singh",
+                "t": 8074.0,
+                "d": 382.0
+              },
+              {
+                "w": "removed",
+                "t": 8754.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 9179.0,
+                "d": 128.0
+              },
+              {
+                "w": "usurper",
+                "t": 9308.0,
+                "d": 679.0
+              },
+              {
+                "w": "and",
+                "t": 10372.0,
+                "d": 297.0
+              },
+              {
+                "w": "in",
+                "t": 10670.0,
+                "d": 126.0
+              },
+              {
+                "w": "time",
+                "t": 10796.0,
+                "d": 298.0
+              },
+              {
+                "w": "the",
+                "t": 11095.0,
+                "d": 126.0
+              },
+              {
+                "w": "boy",
+                "t": 11222.0,
+                "d": 298.0
+              },
+              {
+                "w": "founded",
+                "t": 11521.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 11904.0,
+                "d": 41.0
+              },
+              {
+                "w": "new",
+                "t": 11945.0,
+                "d": 255.0
+              },
+              {
+                "w": "capital",
+                "t": 12201.0,
+                "d": 554.0
+              },
+              {
+                "w": "at",
+                "t": 12755.0,
+                "d": 339.0
+              },
+              {
+                "w": "Udaipur",
+                "t": 13094.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/panna_dai_s_impossible_choice/img/p17.png",
+      "shot": "medium shot of later bards reciting in a courtyard",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By then, Panna's name had entered song. Muhnot Nainsi and other chroniclers of Rajasthan wove her into Mewar's memory, shaping a nursemaid into a symbol of duty carried beyond the measure of family.",
+            "hi": "तब तक पन्ना का नाम गीतों में बस चुका था। मुहणोत नैणसी और राजस्थान के दूसरे इतिहासकारों ने उसे मेवाड़ की याद में पिरोया, एक धाय को परिवार से भी आगे जाती हुई फर्ज की प्रतीक बना दिया।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p17_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "then",
+                "t": 457.0,
+                "d": 468.0
+              },
+              {
+                "w": "Panna's",
+                "t": 1265.0,
+                "d": 510.0
+              },
+              {
+                "w": "name",
+                "t": 1776.0,
+                "d": 340.0
+              },
+              {
+                "w": "had",
+                "t": 2117.0,
+                "d": 212.0
+              },
+              {
+                "w": "entered",
+                "t": 2329.0,
+                "d": 510.0
+              },
+              {
+                "w": "song",
+                "t": 2840.0,
+                "d": 679.0
+              },
+              {
+                "w": "Muhnot",
+                "t": 4073.0,
+                "d": 554.0
+              },
+              {
+                "w": "Nainsi",
+                "t": 4627.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 5265.0,
+                "d": 255.0
+              },
+              {
+                "w": "other",
+                "t": 5521.0,
+                "d": 297.0
+              },
+              {
+                "w": "chroniclers",
+                "t": 5819.0,
+                "d": 595.0
+              },
+              {
+                "w": "of",
+                "t": 6414.0,
+                "d": 170.0
+              },
+              {
+                "w": "Rajasthan",
+                "t": 6585.0,
+                "d": 851.0
+              },
+              {
+                "w": "wove",
+                "t": 7563.0,
+                "d": 468.0
+              },
+              {
+                "w": "her",
+                "t": 8031.0,
+                "d": 255.0
+              },
+              {
+                "w": "into",
+                "t": 8287.0,
+                "d": 296.0
+              },
+              {
+                "w": "Mewar's",
+                "t": 8584.0,
+                "d": 510.0
+              },
+              {
+                "w": "memory",
+                "t": 9094.0,
+                "d": 808.0
+              },
+              {
+                "w": "shaping",
+                "t": 9988.0,
+                "d": 554.0
+              },
+              {
+                "w": "a",
+                "t": 10542.0,
+                "d": 85.0
+              },
+              {
+                "w": "nursemaid",
+                "t": 10627.0,
+                "d": 594.0
+              },
+              {
+                "w": "into",
+                "t": 11222.0,
+                "d": 341.0
+              },
+              {
+                "w": "a",
+                "t": 11563.0,
+                "d": 42.0
+              },
+              {
+                "w": "symbol",
+                "t": 11606.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 12074.0,
+                "d": 170.0
+              },
+              {
+                "w": "duty",
+                "t": 12244.0,
+                "d": 510.0
+              },
+              {
+                "w": "carried",
+                "t": 12755.0,
+                "d": 424.0
+              },
+              {
+                "w": "beyond",
+                "t": 13179.0,
+                "d": 384.0
+              },
+              {
+                "w": "the",
+                "t": 13563.0,
+                "d": 170.0
+              },
+              {
+                "w": "measure",
+                "t": 13734.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 14117.0,
+                "d": 85.0
+              },
+              {
+                "w": "family",
+                "t": 14202.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/panna_dai_s_impossible_choice/img/p18.png",
+      "shot": "serene medium close-up of Panna Dai looking out over a valley from a rampart",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The records cannot prove every detail of her night, yet Mewar keeps her story. Between a throne and a cradle, Panna Dai shows how some choices leave no reward for the chooser, only a lineage that walks on.",
+            "hi": "दस्तावेज उसकी उस रात के हर मोड़ को साबित नहीं कर पाते, पर मेवाड़ उसकी गाथा संभाले है। गद्दी और झूले के बीच, पन्ना दाई दिखाती है कि कुछ फैसलों में चुनने वाले के लिए कोई इनाम नहीं, बस एक नस्ल रहती है जो आगे चलती है।"
+          },
+          "audio": {
+            "en": "assets/panna_dai_s_impossible_choice/audio/en/p18_0.mp3",
+            "hi": "assets/panna_dai_s_impossible_choice/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "records",
+                "t": 287.0,
+                "d": 468.0
+              },
+              {
+                "w": "cannot",
+                "t": 755.0,
+                "d": 340.0
+              },
+              {
+                "w": "prove",
+                "t": 1095.0,
+                "d": 340.0
+              },
+              {
+                "w": "every",
+                "t": 1478.0,
+                "d": 425.0
+              },
+              {
+                "w": "detail",
+                "t": 1904.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 2287.0,
+                "d": 127.0
+              },
+              {
+                "w": "her",
+                "t": 2414.0,
+                "d": 126.0
+              },
+              {
+                "w": "night",
+                "t": 2541.0,
+                "d": 681.0
+              },
+              {
+                "w": "yet",
+                "t": 3223.0,
+                "d": 381.0
+              },
+              {
+                "w": "Mewar",
+                "t": 3605.0,
+                "d": 468.0
+              },
+              {
+                "w": "keeps",
+                "t": 4073.0,
+                "d": 341.0
+              },
+              {
+                "w": "her",
+                "t": 4414.0,
+                "d": 127.0
+              },
+              {
+                "w": "story",
+                "t": 4542.0,
+                "d": 851.0
+              },
+              {
+                "w": "Between",
+                "t": 5989.0,
+                "d": 425.0
+              },
+              {
+                "w": "a",
+                "t": 6414.0,
+                "d": 85.0
+              },
+              {
+                "w": "throne",
+                "t": 6500.0,
+                "d": 297.0
+              },
+              {
+                "w": "and",
+                "t": 6797.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 6925.0,
+                "d": 85.0
+              },
+              {
+                "w": "cradle",
+                "t": 7010.0,
+                "d": 553.0
+              },
+              {
+                "w": "Panna",
+                "t": 8074.0,
+                "d": 382.0
+              },
+              {
+                "w": "Dai",
+                "t": 8500.0,
+                "d": 169.0
+              },
+              {
+                "w": "shows",
+                "t": 8669.0,
+                "d": 384.0
+              },
+              {
+                "w": "how",
+                "t": 9053.0,
+                "d": 255.0
+              },
+              {
+                "w": "some",
+                "t": 9308.0,
+                "d": 255.0
+              },
+              {
+                "w": "choices",
+                "t": 9563.0,
+                "d": 553.0
+              },
+              {
+                "w": "leave",
+                "t": 10117.0,
+                "d": 297.0
+              },
+              {
+                "w": "no",
+                "t": 10414.0,
+                "d": 170.0
+              },
+              {
+                "w": "reward",
+                "t": 10585.0,
+                "d": 425.0
+              },
+              {
+                "w": "for",
+                "t": 11010.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 11137.0,
+                "d": 128.0
+              },
+              {
+                "w": "chooser",
+                "t": 11265.0,
+                "d": 723.0
+              },
+              {
+                "w": "only",
+                "t": 12201.0,
+                "d": 384.0
+              },
+              {
+                "w": "a",
+                "t": 12585.0,
+                "d": 85.0
+              },
+              {
+                "w": "lineage",
+                "t": 12670.0,
+                "d": 594.0
+              },
+              {
+                "w": "that",
+                "t": 13264.0,
+                "d": 213.0
+              },
+              {
+                "w": "walks",
+                "t": 13478.0,
+                "d": 340.0
+              },
+              {
+                "w": "on",
+                "t": 13819.0,
+                "d": 424.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Panna Dai",
+    "epithets": [
+      "Nurse of Mewar",
+      "Foster mother of Udai Singh",
+      "Saviour of Mewar",
+      "Selfless guardian of Chittor"
+    ],
+    "legend": "She gave her own child so a kingdom could live."
+  }
+}
