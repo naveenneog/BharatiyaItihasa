@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🌙 The Chandelas and Khajuraho  *(Early medieval → medieval — c. 830–1315, the Chandravanshi kings of Bundelkhand)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The "children of the Moon" of Jejakabhukti, told with rare source-criticism for a dynasty this legend-wrapped — separating the moon-birth myths and bardic ballads from the epigraphic and archaeological record at every turn, framing the Ghaznavid and Ghurid encounters as politics and plunder rather than creed, and giving the innovation half of the story its full weight: the engineering, hydraulics, administration, art and scholarship behind the temples of Khajuraho.
+
+**I. Founders from Feudatory to King**
+1. **Nannuka Plants the Moon Standard** ✅ — the founder refused his own moon-birth legend ("the Khajuraho stones are silent on these tales… remembering only a human founder"; Xuanzang's Jijhoti). *(state-forming; source-criticism)*
+2. **Yashovarman Seizes the Rock of Kalinjar** ✅ — the fort that made a dynasty; inscriptional hyperbole ("a poet's garland of foes") weighed against the one attested feat. *(the strategic stronghold)*
+3. **Dhanga Breaks the Chain** ✅ — sovereignty read from what the records *stop* saying (the overlord's name falls silent); the craftsman Chhichha named; a chosen *jala-samadhi* at Prayaga. *(independence)*
+
+**II. The Frontier and the Ballad**
+4. **Vidyadhara Faces Mahmud at Kalinjar** ✅ — the anti-Ghaznavid resistance that refuses *both* the victory-myth and the cowardice-myth ("submission, or the price of time? the sources do not agree"). *(invasion; the core directive)*
+5. **Alha and Udal Between Ballad and Stone** ✅ — the *Alha-Khand* epic set against the Madanpur inscription (Paramardi *lived* past the sack the ballads say killed him). *(historiography)*
+
+**III. The Temple-Mountains**
+6. **Lakshmana Temple Raises the Mountain** ✅ — Yashovarman's Vaikuntha Vishnu temple; the 64-pada mandala, sandhara passage, mortise-and-tenon joinery and Panna sandstone that fixed the Chandela form. *(architecture)*
+7. **Kandariya Mahadeva and the 84 Spires** ✅ — the 31-metre shikhara and its interlocking spires as a feat of load-path engineering; the inscription silent on the legends. *(structural engineering)*
+8. **The Stone Speaks at Khajuraho** ✅ — Devangana Desai corrects the erotica misreading (the *maithuna* panels are "less than a tenth") with a *purushartha* program and honest interpretive humility. *(art history)*
+
+**IV. What Held the Kingdom Up**
+9. **The Tanks That Kept Mahoba Alive** ✅ — Madanavarman's Madan/Kirat/Kalyan Sagar reservoirs; hydraulic engineering in a riverless land ("a full tank can outlast a king"). *(hydraulics)*
+10. **Copper Plates Feed the Chandela Realm** ✅ — Satyabhama's grants and the samanta economy, reconstructed "from scattered plates, stones and coins, not from a neat archive." *(administration; economy)*
+11. **Hindu and Jain Builders Share Khajuraho** ✅ — Jain merchants and Shaiva kings raising rival spires; a *non-idealised* coexistence "neither pure harmony nor constant strife, but negotiated spaces." *(interfaith patronage)*
+
+**V. The Named Hand and the Afterlife**
+12. **Chhichha Names the Master Builder** ✅ — the one named *sthapati* among a thousand unnamed hands; "every great monument is a pact between remembered rulers and forgotten hands." *(the makers)*
+13. **Khajuraho From Forest to World Heritage** ✅ — Ibn Battuta's *Rihla* notice → Burt's 1838 report → Cunningham → UNESCO; honest on the iconoclasm ("idols mutilated… noses struck away") yet refusing the colonial "lost city" myth ("Khajuraho was never wholly forgotten"). *(memory; rediscovery)*
+
 ## 🌄 The Rajputs of Mewar  *(Medieval → early modern — c. 728–1660, the Sisodia hill-kingdom of the Aravallis)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 Mewar's long story of loss and return — told with rare source-criticism for a dynasty this wrapped in legend, separating the bardic songs (Tod, the Kumbhalgarh prashasti, the Hammir Mahakavya) from the epigraphic ledger at every turn, and framing its wars with the Sultanates and Mughals as politics, not creed. Innovation runs beside the battles: named craftsmen in stone, a king's music treatise, cross-faith temple patronage, merchant war-finance, and a painting school that outlasted the sword.
