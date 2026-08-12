@@ -1,0 +1,3557 @@
+{
+  "id": "kiyamba_starts_the_chronicle",
+  "title": "Kiyamba Starts the Chronicle",
+  "title_i18n": {
+    "en": "Kiyamba Starts the Chronicle",
+    "hi": "कियाम्बा ने इतिहास की शुरुआत की"
+  },
+  "figure": "Meidingu Senbi Kiyamba",
+  "era": "Kiyamba's reign, 1467-1508 CE",
+  "moral": "A people become harder to erase when they keep records.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/kiyamba_starts_the_chronicle/intro/hero.png",
+      "name": "Meidingu Senbi Kiyamba",
+      "epithets": [
+        "Meidingu Kiyamba",
+        "King of Manipur",
+        "Builder of Bishnupur",
+        "Keeper of the Cheitharol"
+      ],
+      "legend": "The king who turned Manipur’s memory into a living record.",
+      "era": "Kiyamba's reign, 1467-1508 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He rides home from Kabaw with a strange sacred stone, and a fierce need to trap time itself. If he fails, his people's story may vanish forever.",
+            "hi": "वो काबाव से घर लौट रहा है, हाथ में रहस्यमंद पवित्र पत्थर… और समय को कैद कर देने की जिद के साथ। अगर वो चूक गया, तो उसकी कौम की कहानी हमेशा के लिए मिट जाएगी।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/intro/hero_en.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 72.0,
+                "d": 250.0
+              },
+              {
+                "w": "rides",
+                "t": 322.0,
+                "d": 291.0
+              },
+              {
+                "w": "home",
+                "t": 614.0,
+                "d": 208.0
+              },
+              {
+                "w": "from",
+                "t": 822.0,
+                "d": 250.0
+              },
+              {
+                "w": "Kabaw",
+                "t": 1072.0,
+                "d": 375.0
+              },
+              {
+                "w": "with",
+                "t": 1656.0,
+                "d": 166.0
+              },
+              {
+                "w": "a",
+                "t": 1822.0,
+                "d": 41.0
+              },
+              {
+                "w": "strange",
+                "t": 1864.0,
+                "d": 500.0
+              },
+              {
+                "w": "sacred",
+                "t": 2364.0,
+                "d": 458.0
+              },
+              {
+                "w": "stone",
+                "t": 2822.0,
+                "d": 583.0
+              },
+              {
+                "w": "and",
+                "t": 3406.0,
+                "d": 333.0
+              },
+              {
+                "w": "a",
+                "t": 3739.0,
+                "d": 41.0
+              },
+              {
+                "w": "fierce",
+                "t": 3781.0,
+                "d": 416.0
+              },
+              {
+                "w": "need",
+                "t": 4197.0,
+                "d": 250.0
+              },
+              {
+                "w": "to",
+                "t": 4447.0,
+                "d": 125.0
+              },
+              {
+                "w": "trap",
+                "t": 4572.0,
+                "d": 333.0
+              },
+              {
+                "w": "time",
+                "t": 4906.0,
+                "d": 291.0
+              },
+              {
+                "w": "itself",
+                "t": 5197.0,
+                "d": 833.0
+              },
+              {
+                "w": "If",
+                "t": 6322.0,
+                "d": 208.0
+              },
+              {
+                "w": "he",
+                "t": 6531.0,
+                "d": 125.0
+              },
+              {
+                "w": "fails",
+                "t": 6656.0,
+                "d": 625.0
+              },
+              {
+                "w": "his",
+                "t": 7364.0,
+                "d": 333.0
+              },
+              {
+                "w": "people's",
+                "t": 7697.0,
+                "d": 416.0
+              },
+              {
+                "w": "story",
+                "t": 8114.0,
+                "d": 373.0
+              },
+              {
+                "w": "may",
+                "t": 8488.0,
+                "d": 166.0
+              },
+              {
+                "w": "vanish",
+                "t": 8655.0,
+                "d": 416.0
+              },
+              {
+                "w": "forever",
+                "t": 9071.0,
+                "d": 667.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/kiyamba_starts_the_chronicle/intro/map.png",
+      "x": 0.83,
+      "y": 0.34,
+      "label": "Kangla & Bishnupur, Manipur",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In this lush valley between Burma's hills and India's plains, Manipur learns to speak in dates and stone.",
+            "hi": "बर्मा के पहाड़ और भारत के मैदानों के बीच, इसी हरी घाटी में मणिपुर तारीख़ों और पत्थरों में बोलना सीखता है।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/intro/map_en.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "this",
+                "t": 356.0,
+                "d": 229.0
+              },
+              {
+                "w": "lush",
+                "t": 586.0,
+                "d": 367.0
+              },
+              {
+                "w": "valley",
+                "t": 954.0,
+                "d": 367.0
+              },
+              {
+                "w": "between",
+                "t": 1321.0,
+                "d": 367.0
+              },
+              {
+                "w": "Burma's",
+                "t": 1689.0,
+                "d": 551.0
+              },
+              {
+                "w": "hills",
+                "t": 2241.0,
+                "d": 458.0
+              },
+              {
+                "w": "and",
+                "t": 2700.0,
+                "d": 277.0
+              },
+              {
+                "w": "India's",
+                "t": 2977.0,
+                "d": 505.0
+              },
+              {
+                "w": "plains",
+                "t": 3482.0,
+                "d": 781.0
+              },
+              {
+                "w": "Manipur",
+                "t": 4585.0,
+                "d": 552.0
+              },
+              {
+                "w": "learns",
+                "t": 5137.0,
+                "d": 413.0
+              },
+              {
+                "w": "to",
+                "t": 5551.0,
+                "d": 137.0
+              },
+              {
+                "w": "speak",
+                "t": 5689.0,
+                "d": 459.0
+              },
+              {
+                "w": "in",
+                "t": 6149.0,
+                "d": 183.0
+              },
+              {
+                "w": "dates",
+                "t": 6333.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 6793.0,
+                "d": 275.0
+              },
+              {
+                "w": "stone",
+                "t": 7068.0,
+                "d": 505.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/kiyamba_starts_the_chronicle/img/cover.png",
+      "shot": "epic low-angle wide of palace terrace overlooking misty valley and river",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Kiyamba's time, Manipur did something few kingdoms dared: it chained its kings to dates, and began a chronicle that would remember when empires forgot.",
+            "hi": "कियाम्बा के दौर में मणिपुर ने हिम्मत की – राजाओं को तारीखों से जकड़ दिया, ऐसा इतिवृत्त लिखा जो साम्राज्यों की भूली यादें भी सँभाले।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/cover_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Kiyamba's",
+                "t": 287.0,
+                "d": 510.0
+              },
+              {
+                "w": "time",
+                "t": 797.0,
+                "d": 765.0
+              },
+              {
+                "w": "Manipur",
+                "t": 1606.0,
+                "d": 595.0
+              },
+              {
+                "w": "did",
+                "t": 2202.0,
+                "d": 212.0
+              },
+              {
+                "w": "something",
+                "t": 2414.0,
+                "d": 468.0
+              },
+              {
+                "w": "few",
+                "t": 2882.0,
+                "d": 296.0
+              },
+              {
+                "w": "kingdoms",
+                "t": 3179.0,
+                "d": 554.0
+              },
+              {
+                "w": "dared",
+                "t": 3734.0,
+                "d": 765.0
+              },
+              {
+                "w": "it",
+                "t": 4670.0,
+                "d": 212.0
+              },
+              {
+                "w": "chained",
+                "t": 4882.0,
+                "d": 468.0
+              },
+              {
+                "w": "its",
+                "t": 5351.0,
+                "d": 127.0
+              },
+              {
+                "w": "kings",
+                "t": 5478.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 5776.0,
+                "d": 170.0
+              },
+              {
+                "w": "dates",
+                "t": 5946.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 6797.0,
+                "d": 297.0
+              },
+              {
+                "w": "began",
+                "t": 7095.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 7478.0,
+                "d": 127.0
+              },
+              {
+                "w": "chronicle",
+                "t": 7606.0,
+                "d": 723.0
+              },
+              {
+                "w": "that",
+                "t": 8584.0,
+                "d": 255.0
+              },
+              {
+                "w": "would",
+                "t": 8839.0,
+                "d": 213.0
+              },
+              {
+                "w": "remember",
+                "t": 9053.0,
+                "d": 764.0
+              },
+              {
+                "w": "when",
+                "t": 9861.0,
+                "d": 211.0
+              },
+              {
+                "w": "empires",
+                "t": 10073.0,
+                "d": 638.0
+              },
+              {
+                "w": "forgot",
+                "t": 10711.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p01.png",
+      "shot": "tight three-quarter view inside dim archive room, slow push-in",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "We remember Kiyamba for battles and temples, but his sharpest weapon was ink: under him, Manipur's royal story began to march year by year, instead of drifting in legend.",
+            "hi": "हम कियाम्बा को युद्धों और मंदिरों से याद करते हैं, पर उसकी सबसे तेज तलवार स्याही थी – उसके राज में मणिपुर की कहानी दंतकथा से निकलकर साल दर साल चलने लगी।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p01_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "remember",
+                "t": 230.0,
+                "d": 400.0
+              },
+              {
+                "w": "Kiyamba",
+                "t": 630.0,
+                "d": 480.0
+              },
+              {
+                "w": "for",
+                "t": 1110.0,
+                "d": 160.0
+              },
+              {
+                "w": "battles",
+                "t": 1270.0,
+                "d": 480.0
+              },
+              {
+                "w": "and",
+                "t": 1750.0,
+                "d": 160.0
+              },
+              {
+                "w": "temples",
+                "t": 1910.0,
+                "d": 959.0
+              },
+              {
+                "w": "but",
+                "t": 2949.0,
+                "d": 201.0
+              },
+              {
+                "w": "his",
+                "t": 3150.0,
+                "d": 120.0
+              },
+              {
+                "w": "sharpest",
+                "t": 3270.0,
+                "d": 519.0
+              },
+              {
+                "w": "weapon",
+                "t": 3789.0,
+                "d": 361.0
+              },
+              {
+                "w": "was",
+                "t": 4150.0,
+                "d": 280.0
+              },
+              {
+                "w": "ink",
+                "t": 4470.0,
+                "d": 680.0
+              },
+              {
+                "w": "under",
+                "t": 5510.0,
+                "d": 360.0
+              },
+              {
+                "w": "him",
+                "t": 5870.0,
+                "d": 200.0
+              },
+              {
+                "w": "Manipur's",
+                "t": 6070.0,
+                "d": 1160.0
+              },
+              {
+                "w": "royal",
+                "t": 7230.0,
+                "d": 280.0
+              },
+              {
+                "w": "story",
+                "t": 7510.0,
+                "d": 400.0
+              },
+              {
+                "w": "began",
+                "t": 7910.0,
+                "d": 279.0
+              },
+              {
+                "w": "to",
+                "t": 8189.0,
+                "d": 161.0
+              },
+              {
+                "w": "march",
+                "t": 8350.0,
+                "d": 440.0
+              },
+              {
+                "w": "year",
+                "t": 8790.0,
+                "d": 200.0
+              },
+              {
+                "w": "by",
+                "t": 8990.0,
+                "d": 159.0
+              },
+              {
+                "w": "year",
+                "t": 9149.0,
+                "d": 641.0
+              },
+              {
+                "w": "instead",
+                "t": 9950.0,
+                "d": 439.0
+              },
+              {
+                "w": "of",
+                "t": 10389.0,
+                "d": 160.0
+              },
+              {
+                "w": "drifting",
+                "t": 10549.0,
+                "d": 401.0
+              },
+              {
+                "w": "in",
+                "t": 10950.0,
+                "d": 80.0
+              },
+              {
+                "w": "legend",
+                "t": 11030.0,
+                "d": 640.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p02.png",
+      "shot": "wide aerial of valley plain with two camps facing each other",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Before the dates came the dust of war. In the fifteenth century, Kiyamba joined the Shan king of Pong, marched west into the Kabaw Valley, and broke the power of Kyang.",
+            "hi": "तारीखों से पहले सिर्फ युद्ध की धूल थी। पंद्रहवीं सदी में कियाम्बा शान राजा पोंग के साथ मिला, कबाव घाटी की ओर बढ़ा और क्यांग की ताकत तोड़ दी।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p02_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Before",
+                "t": 70.0,
+                "d": 360.0
+              },
+              {
+                "w": "the",
+                "t": 430.0,
+                "d": 160.0
+              },
+              {
+                "w": "dates",
+                "t": 590.0,
+                "d": 320.0
+              },
+              {
+                "w": "came",
+                "t": 910.0,
+                "d": 600.0
+              },
+              {
+                "w": "the",
+                "t": 1550.0,
+                "d": 240.0
+              },
+              {
+                "w": "dust",
+                "t": 1790.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 2110.0,
+                "d": 199.0
+              },
+              {
+                "w": "war",
+                "t": 2309.0,
+                "d": 441.0
+              },
+              {
+                "w": "In",
+                "t": 3230.0,
+                "d": 199.0
+              },
+              {
+                "w": "the",
+                "t": 3429.0,
+                "d": 121.0
+              },
+              {
+                "w": "fifteenth",
+                "t": 3550.0,
+                "d": 399.0
+              },
+              {
+                "w": "century",
+                "t": 3949.0,
+                "d": 681.0
+              },
+              {
+                "w": "Kiyamba",
+                "t": 4670.0,
+                "d": 480.0
+              },
+              {
+                "w": "joined",
+                "t": 5150.0,
+                "d": 360.0
+              },
+              {
+                "w": "the",
+                "t": 5510.0,
+                "d": 120.0
+              },
+              {
+                "w": "Shan",
+                "t": 5630.0,
+                "d": 360.0
+              },
+              {
+                "w": "king",
+                "t": 5990.0,
+                "d": 200.0
+              },
+              {
+                "w": "of",
+                "t": 6190.0,
+                "d": 200.0
+              },
+              {
+                "w": "Pong",
+                "t": 6390.0,
+                "d": 840.0
+              },
+              {
+                "w": "marched",
+                "t": 7270.0,
+                "d": 560.0
+              },
+              {
+                "w": "west",
+                "t": 7830.0,
+                "d": 399.0
+              },
+              {
+                "w": "into",
+                "t": 8229.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 8469.0,
+                "d": 201.0
+              },
+              {
+                "w": "Kabaw",
+                "t": 8670.0,
+                "d": 320.0
+              },
+              {
+                "w": "Valley",
+                "t": 8990.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 9709.0,
+                "d": 401.0
+              },
+              {
+                "w": "broke",
+                "t": 10110.0,
+                "d": 279.0
+              },
+              {
+                "w": "the",
+                "t": 10389.0,
+                "d": 160.0
+              },
+              {
+                "w": "power",
+                "t": 10549.0,
+                "d": 361.0
+              },
+              {
+                "w": "of",
+                "t": 10910.0,
+                "d": 200.0
+              },
+              {
+                "w": "Kyang",
+                "t": 11110.0,
+                "d": 519.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/kiyamba_starts_the_chronicle/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/kiyamba_starts_the_chronicle/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On Kabaw's misted fields, Kiyamba measures the valley with his gaze before committing his riders to the unknown frontier.",
+            "hi": "कबाव की धुंधली धरती पर, कियाम्बा नज़र से घाटी नापकर अपने सवारों को अनजानी सरहद पर भेजता है।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/action/action_auto_en.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "Kabaw's",
+                "t": 350.0,
+                "d": 440.0
+              },
+              {
+                "w": "misted",
+                "t": 790.0,
+                "d": 400.0
+              },
+              {
+                "w": "fields",
+                "t": 1190.0,
+                "d": 680.0
+              },
+              {
+                "w": "Kiyamba",
+                "t": 2029.0,
+                "d": 400.0
+              },
+              {
+                "w": "measures",
+                "t": 2429.0,
+                "d": 480.0
+              },
+              {
+                "w": "the",
+                "t": 2909.0,
+                "d": 121.0
+              },
+              {
+                "w": "valley",
+                "t": 3030.0,
+                "d": 680.0
+              },
+              {
+                "w": "with",
+                "t": 3789.0,
+                "d": 200.0
+              },
+              {
+                "w": "his",
+                "t": 3989.0,
+                "d": 161.0
+              },
+              {
+                "w": "gaze",
+                "t": 4150.0,
+                "d": 360.0
+              },
+              {
+                "w": "before",
+                "t": 4510.0,
+                "d": 320.0
+              },
+              {
+                "w": "committing",
+                "t": 4830.0,
+                "d": 400.0
+              },
+              {
+                "w": "his",
+                "t": 5230.0,
+                "d": 160.0
+              },
+              {
+                "w": "riders",
+                "t": 5390.0,
+                "d": 440.0
+              },
+              {
+                "w": "to",
+                "t": 5830.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 5950.0,
+                "d": 200.0
+              },
+              {
+                "w": "unknown",
+                "t": 6150.0,
+                "d": 400.0
+              },
+              {
+                "w": "frontier",
+                "t": 6550.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p03.png",
+      "shot": "medium shot at field encampment, evening light, contemplative",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Cheitharol Kumbaba, the court chronicle, later tells a solemn tale: the Shan ally gifted Kiyamba a sacred stone from the conquered land, a token that would change his kingdom's worship.",
+            "hi": "दरबारनामा ‘चैथारोल कुम्बाबा’ बाद में गंभीर कहानी सुनाता है – शान साथी ने जीती हुई धरती से एक पवित्र पत्थर कियाम्बा को भेंट किया, जो उसके राज्य की पूजा बदल देगा।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p03_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Cheitharol",
+                "t": 329.0,
+                "d": 468.0
+              },
+              {
+                "w": "Kumbaba",
+                "t": 797.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 1734.0,
+                "d": 212.0
+              },
+              {
+                "w": "court",
+                "t": 1946.0,
+                "d": 255.0
+              },
+              {
+                "w": "chronicle",
+                "t": 2202.0,
+                "d": 510.0
+              },
+              {
+                "w": "later",
+                "t": 2712.0,
+                "d": 1234.0
+              },
+              {
+                "w": "tells",
+                "t": 3946.0,
+                "d": 254.0
+              },
+              {
+                "w": "a",
+                "t": 4201.0,
+                "d": 86.0
+              },
+              {
+                "w": "solemn",
+                "t": 4287.0,
+                "d": 468.0
+              },
+              {
+                "w": "tale",
+                "t": 4755.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 6202.0,
+                "d": 255.0
+              },
+              {
+                "w": "Shan",
+                "t": 6457.0,
+                "d": 340.0
+              },
+              {
+                "w": "ally",
+                "t": 6797.0,
+                "d": 382.0
+              },
+              {
+                "w": "gifted",
+                "t": 7180.0,
+                "d": 468.0
+              },
+              {
+                "w": "Kiyamba",
+                "t": 7648.0,
+                "d": 808.0
+              },
+              {
+                "w": "a",
+                "t": 8500.0,
+                "d": 211.0
+              },
+              {
+                "w": "sacred",
+                "t": 8711.0,
+                "d": 511.0
+              },
+              {
+                "w": "stone",
+                "t": 9223.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 9606.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 9776.0,
+                "d": 170.0
+              },
+              {
+                "w": "conquered",
+                "t": 9946.0,
+                "d": 510.0
+              },
+              {
+                "w": "land",
+                "t": 10457.0,
+                "d": 764.0
+              },
+              {
+                "w": "a",
+                "t": 11351.0,
+                "d": 212.0
+              },
+              {
+                "w": "token",
+                "t": 11563.0,
+                "d": 680.0
+              },
+              {
+                "w": "that",
+                "t": 12414.0,
+                "d": 212.0
+              },
+              {
+                "w": "would",
+                "t": 12627.0,
+                "d": 211.0
+              },
+              {
+                "w": "change",
+                "t": 12839.0,
+                "d": 298.0
+              },
+              {
+                "w": "his",
+                "t": 13138.0,
+                "d": 211.0
+              },
+              {
+                "w": "kingdom's",
+                "t": 13350.0,
+                "d": 469.0
+              },
+              {
+                "w": "worship",
+                "t": 13819.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p04.png",
+      "shot": "close-up on Kiyamba’s hands unveiling object, low warm light",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The stone, called Pheiya in the tradition, stands between story and record. Later temples, idols and inscriptional habits grow around it, but no eyewitness account names it as such.",
+            "hi": "वह पत्थर, परंपरा में ‘फेइया’ कहलाया, कथा और दस्तावेज़ के बीच खड़ा है। बाद के मंदिर, मूर्तियाँ और शिलालेख उसके इर्द-गिर्द उगते हैं, पर किसी चश्मदीद ने उसे ऐसे नाम से नहीं पुकारा।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p04_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "stone",
+                "t": 287.0,
+                "d": 595.0
+              },
+              {
+                "w": "called",
+                "t": 1053.0,
+                "d": 425.0
+              },
+              {
+                "w": "Pheiya",
+                "t": 1478.0,
+                "d": 468.0
+              },
+              {
+                "w": "in",
+                "t": 1946.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 2074.0,
+                "d": 127.0
+              },
+              {
+                "w": "tradition",
+                "t": 2202.0,
+                "d": 764.0
+              },
+              {
+                "w": "stands",
+                "t": 3052.0,
+                "d": 468.0
+              },
+              {
+                "w": "between",
+                "t": 3520.0,
+                "d": 341.0
+              },
+              {
+                "w": "story",
+                "t": 3861.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 4414.0,
+                "d": 255.0
+              },
+              {
+                "w": "record",
+                "t": 4670.0,
+                "d": 638.0
+              },
+              {
+                "w": "Later",
+                "t": 5989.0,
+                "d": 468.0
+              },
+              {
+                "w": "temples",
+                "t": 6457.0,
+                "d": 851.0
+              },
+              {
+                "w": "idols",
+                "t": 7393.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 8031.0,
+                "d": 255.0
+              },
+              {
+                "w": "inscriptional",
+                "t": 8287.0,
+                "d": 637.0
+              },
+              {
+                "w": "habits",
+                "t": 8924.0,
+                "d": 469.0
+              },
+              {
+                "w": "grow",
+                "t": 9393.0,
+                "d": 254.0
+              },
+              {
+                "w": "around",
+                "t": 9647.0,
+                "d": 298.0
+              },
+              {
+                "w": "it",
+                "t": 9946.0,
+                "d": 595.0
+              },
+              {
+                "w": "but",
+                "t": 10627.0,
+                "d": 297.0
+              },
+              {
+                "w": "no",
+                "t": 10925.0,
+                "d": 381.0
+              },
+              {
+                "w": "eyewitness",
+                "t": 11307.0,
+                "d": 553.0
+              },
+              {
+                "w": "account",
+                "t": 11860.0,
+                "d": 384.0
+              },
+              {
+                "w": "names",
+                "t": 12244.0,
+                "d": 425.0
+              },
+              {
+                "w": "it",
+                "t": 12670.0,
+                "d": 169.0
+              },
+              {
+                "w": "as",
+                "t": 12839.0,
+                "d": 213.0
+              },
+              {
+                "w": "such",
+                "t": 13053.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p05.png",
+      "shot": "wide establishing shot of Bishnupur hill with temple rising",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Tradition links the Pheiya stone to a new shrine at Bishnupur. Around fourteen seventy-five, the court chronicle and later memory bind Kiyamba's name to a Vishnu temple on that hill.",
+            "hi": "परंपरा फेइया पत्थर को बिश्नुपुर के नए मंदिर से जोड़ती है। करीब १४७५ में दरबारनामा और बाद की स्मृति कियाम्बा को उस पहाड़ी के विष्णु मंदिर से बाँध देती है।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p05_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Tradition",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "links",
+                "t": 542.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 840.0,
+                "d": 212.0
+              },
+              {
+                "w": "Pheiya",
+                "t": 1053.0,
+                "d": 382.0
+              },
+              {
+                "w": "stone",
+                "t": 1436.0,
+                "d": 595.0
+              },
+              {
+                "w": "to",
+                "t": 2074.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 2287.0,
+                "d": 42.0
+              },
+              {
+                "w": "new",
+                "t": 2329.0,
+                "d": 254.0
+              },
+              {
+                "w": "shrine",
+                "t": 2584.0,
+                "d": 468.0
+              },
+              {
+                "w": "at",
+                "t": 3052.0,
+                "d": 213.0
+              },
+              {
+                "w": "Bishnupur",
+                "t": 3265.0,
+                "d": 892.0
+              },
+              {
+                "w": "Around",
+                "t": 4542.0,
+                "d": 340.0
+              },
+              {
+                "w": "fourteen",
+                "t": 4882.0,
+                "d": 382.0
+              },
+              {
+                "w": "seventy-five",
+                "t": 5265.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 5946.0,
+                "d": 553.0
+              },
+              {
+                "w": "court",
+                "t": 6500.0,
+                "d": 297.0
+              },
+              {
+                "w": "chronicle",
+                "t": 6797.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 7436.0,
+                "d": 170.0
+              },
+              {
+                "w": "later",
+                "t": 7606.0,
+                "d": 382.0
+              },
+              {
+                "w": "memory",
+                "t": 7989.0,
+                "d": 425.0
+              },
+              {
+                "w": "bind",
+                "t": 8414.0,
+                "d": 339.0
+              },
+              {
+                "w": "Kiyamba's",
+                "t": 8754.0,
+                "d": 554.0
+              },
+              {
+                "w": "name",
+                "t": 9308.0,
+                "d": 553.0
+              },
+              {
+                "w": "to",
+                "t": 9861.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 10117.0,
+                "d": 41.0
+              },
+              {
+                "w": "Vishnu",
+                "t": 10158.0,
+                "d": 341.0
+              },
+              {
+                "w": "temple",
+                "t": 10500.0,
+                "d": 467.0
+              },
+              {
+                "w": "on",
+                "t": 10967.0,
+                "d": 213.0
+              },
+              {
+                "w": "that",
+                "t": 11180.0,
+                "d": 211.0
+              },
+              {
+                "w": "hill",
+                "t": 11392.0,
+                "d": 426.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p06.png",
+      "shot": "intimate medium shot inside unfinished sanctum, soft side light",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, the older animist traditions of the valley met a new Vaishnavite presence. The chronicles do not show sudden conversion, but they do place Kiyamba near a growing cult of Vishnu.",
+            "hi": "यहीं घाटी की पुरानी प्राणवादी आस्थाएँ नए वैष्णव प्रभाव से टकराईं। इतिवृत्त अचानक धर्मपरिवर्तन नहीं दिखाते, पर कियाम्बा को उभरते विष्णु-भक्ति केंद्र के पास रखते हैं।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p06_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 882.0,
+                "d": 255.0
+              },
+              {
+                "w": "older",
+                "t": 1138.0,
+                "d": 425.0
+              },
+              {
+                "w": "animist",
+                "t": 1563.0,
+                "d": 510.0
+              },
+              {
+                "w": "traditions",
+                "t": 2074.0,
+                "d": 552.0
+              },
+              {
+                "w": "of",
+                "t": 2626.0,
+                "d": 128.0
+              },
+              {
+                "w": "the",
+                "t": 2755.0,
+                "d": 127.0
+              },
+              {
+                "w": "valley",
+                "t": 2882.0,
+                "d": 637.0
+              },
+              {
+                "w": "met",
+                "t": 3520.0,
+                "d": 298.0
+              },
+              {
+                "w": "a",
+                "t": 3819.0,
+                "d": 85.0
+              },
+              {
+                "w": "new",
+                "t": 3904.0,
+                "d": 425.0
+              },
+              {
+                "w": "Vaishnavite",
+                "t": 4329.0,
+                "d": 723.0
+              },
+              {
+                "w": "presence",
+                "t": 5053.0,
+                "d": 680.0
+              },
+              {
+                "w": "The",
+                "t": 6542.0,
+                "d": 170.0
+              },
+              {
+                "w": "chronicles",
+                "t": 6712.0,
+                "d": 595.0
+              },
+              {
+                "w": "do",
+                "t": 7308.0,
+                "d": 127.0
+              },
+              {
+                "w": "not",
+                "t": 7436.0,
+                "d": 212.0
+              },
+              {
+                "w": "show",
+                "t": 7648.0,
+                "d": 212.0
+              },
+              {
+                "w": "sudden",
+                "t": 7861.0,
+                "d": 382.0
+              },
+              {
+                "w": "conversion",
+                "t": 8244.0,
+                "d": 893.0
+              },
+              {
+                "w": "but",
+                "t": 9478.0,
+                "d": 212.0
+              },
+              {
+                "w": "they",
+                "t": 9691.0,
+                "d": 211.0
+              },
+              {
+                "w": "do",
+                "t": 9903.0,
+                "d": 213.0
+              },
+              {
+                "w": "place",
+                "t": 10117.0,
+                "d": 340.0
+              },
+              {
+                "w": "Kiyamba",
+                "t": 10457.0,
+                "d": 723.0
+              },
+              {
+                "w": "near",
+                "t": 11436.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 11734.0,
+                "d": 126.0
+              },
+              {
+                "w": "growing",
+                "t": 11860.0,
+                "d": 425.0
+              },
+              {
+                "w": "cult",
+                "t": 12286.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 12585.0,
+                "d": 170.0
+              },
+              {
+                "w": "Vishnu",
+                "t": 12755.0,
+                "d": 509.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p07.png",
+      "shot": "wide palace courtyard scene, bustling yet focused",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Around this time, as scholars like Thokchom Jayanti note, Brahmins arrived and settled. They brought liturgy, astrology and the habit of fixing rites to specific days and months.",
+            "hi": "इसी समय, जैसा विद्वान ठोकचोम जयंती बताते हैं, ब्राह्मण आए और बस गए। वे पूजा-विधि, ज्योतिष और रस्मों को खास दिन और महीनों से बाँधने की आदत लेकर आए।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p07_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Around",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "this",
+                "t": 457.0,
+                "d": 212.0
+              },
+              {
+                "w": "time",
+                "t": 670.0,
+                "d": 468.0
+              },
+              {
+                "w": "as",
+                "t": 1138.0,
+                "d": 170.0
+              },
+              {
+                "w": "scholars",
+                "t": 1308.0,
+                "d": 510.0
+              },
+              {
+                "w": "like",
+                "t": 1819.0,
+                "d": 212.0
+              },
+              {
+                "w": "Thokchom",
+                "t": 2031.0,
+                "d": 509.0
+              },
+              {
+                "w": "Jayanti",
+                "t": 2541.0,
+                "d": 553.0
+              },
+              {
+                "w": "note",
+                "t": 3094.0,
+                "d": 425.0
+              },
+              {
+                "w": "Brahmins",
+                "t": 3734.0,
+                "d": 595.0
+              },
+              {
+                "w": "arrived",
+                "t": 4329.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 4797.0,
+                "d": 255.0
+              },
+              {
+                "w": "settled",
+                "t": 5053.0,
+                "d": 638.0
+              },
+              {
+                "w": "They",
+                "t": 6202.0,
+                "d": 255.0
+              },
+              {
+                "w": "brought",
+                "t": 6457.0,
+                "d": 340.0
+              },
+              {
+                "w": "liturgy",
+                "t": 6797.0,
+                "d": 851.0
+              },
+              {
+                "w": "astrology",
+                "t": 7734.0,
+                "d": 1063.0
+              },
+              {
+                "w": "and",
+                "t": 8839.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 9053.0,
+                "d": 126.0
+              },
+              {
+                "w": "habit",
+                "t": 9179.0,
+                "d": 384.0
+              },
+              {
+                "w": "of",
+                "t": 9563.0,
+                "d": 84.0
+              },
+              {
+                "w": "fixing",
+                "t": 9647.0,
+                "d": 469.0
+              },
+              {
+                "w": "rites",
+                "t": 10117.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 10457.0,
+                "d": 127.0
+              },
+              {
+                "w": "specific",
+                "t": 10585.0,
+                "d": 595.0
+              },
+              {
+                "w": "days",
+                "t": 11180.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 11648.0,
+                "d": 381.0
+              },
+              {
+                "w": "months",
+                "t": 12030.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p08.png",
+      "shot": "medium shot over Kiyamba’s shoulder toward a court scribe",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "If the gods count our days, why should we not number our reign?",
+            "hi": "जब देवता हमारे दिन गिनते हैं, तो हम अपने राज क्यों न गिनें?"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p08_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "If",
+                "t": 49.0,
+                "d": 134.8
+              },
+              {
+                "w": "the",
+                "t": 183.8,
+                "d": 110.3
+              },
+              {
+                "w": "gods",
+                "t": 294.1,
+                "d": 416.7
+              },
+              {
+                "w": "count",
+                "t": 710.8,
+                "d": 318.6
+              },
+              {
+                "w": "our",
+                "t": 1078.4,
+                "d": 196.1
+              },
+              {
+                "w": "days",
+                "t": 1274.5,
+                "d": 404.4
+              },
+              {
+                "w": "why",
+                "t": 1997.5,
+                "d": 294.1
+              },
+              {
+                "w": "should",
+                "t": 2291.7,
+                "d": 245.1
+              },
+              {
+                "w": "we",
+                "t": 2536.8,
+                "d": 159.3
+              },
+              {
+                "w": "not",
+                "t": 2696.1,
+                "d": 294.1
+              },
+              {
+                "w": "number",
+                "t": 2990.2,
+                "d": 441.2
+              },
+              {
+                "w": "our",
+                "t": 3504.9,
+                "d": 208.3
+              },
+              {
+                "w": "reign",
+                "t": 3713.2,
+                "d": 416.7
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p09.png",
+      "shot": "close-up on palm leaf as stylus scratches, stylised macro view",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Cheitharol Kumbaba begins earlier, but its early stretch is a mist of names and episodes. Under Kiyamba, around fourteen eighty-five, something changes: entries start to lock themselves to a year count called Cheithaba.",
+            "hi": "‘चैथारोल कुम्बाबा’ पहले से शुरू होता है, पर शुरुआती हिस्सा नामों और किस्सों की धुंध है। कियाम्बा के नीचे, लगभग १४८५ में, कुछ बदलता है – प्रविष्टियाँ ‘चैथाबा’ नाम की साल-गिनती से चिपकने लगती हैं।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p09_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Cheitharol",
+                "t": 287.0,
+                "d": 425.0
+              },
+              {
+                "w": "Kumbaba",
+                "t": 712.0,
+                "d": 510.0
+              },
+              {
+                "w": "begins",
+                "t": 1223.0,
+                "d": 425.0
+              },
+              {
+                "w": "earlier",
+                "t": 1648.0,
+                "d": 595.0
+              },
+              {
+                "w": "but",
+                "t": 2712.0,
+                "d": 212.0
+              },
+              {
+                "w": "its",
+                "t": 2925.0,
+                "d": 169.0
+              },
+              {
+                "w": "early",
+                "t": 3094.0,
+                "d": 341.0
+              },
+              {
+                "w": "stretch",
+                "t": 3436.0,
+                "d": 510.0
+              },
+              {
+                "w": "is",
+                "t": 3989.0,
+                "d": 169.0
+              },
+              {
+                "w": "a",
+                "t": 4158.0,
+                "d": 85.0
+              },
+              {
+                "w": "mist",
+                "t": 4243.0,
+                "d": 256.0
+              },
+              {
+                "w": "of",
+                "t": 4500.0,
+                "d": 170.0
+              },
+              {
+                "w": "names",
+                "t": 4670.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 5095.0,
+                "d": 170.0
+              },
+              {
+                "w": "episodes",
+                "t": 5265.0,
+                "d": 851.0
+              },
+              {
+                "w": "Under",
+                "t": 6542.0,
+                "d": 297.0
+              },
+              {
+                "w": "Kiyamba",
+                "t": 6840.0,
+                "d": 425.0
+              },
+              {
+                "w": "around",
+                "t": 7265.0,
+                "d": 893.0
+              },
+              {
+                "w": "fourteen",
+                "t": 8159.0,
+                "d": 381.0
+              },
+              {
+                "w": "eighty-five",
+                "t": 8541.0,
+                "d": 809.0
+              },
+              {
+                "w": "something",
+                "t": 9521.0,
+                "d": 552.0
+              },
+              {
+                "w": "changes",
+                "t": 10073.0,
+                "d": 937.0
+              },
+              {
+                "w": "entries",
+                "t": 11265.0,
+                "d": 468.0
+              },
+              {
+                "w": "start",
+                "t": 11734.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 12074.0,
+                "d": 170.0
+              },
+              {
+                "w": "lock",
+                "t": 12244.0,
+                "d": 255.0
+              },
+              {
+                "w": "themselves",
+                "t": 12500.0,
+                "d": 679.0
+              },
+              {
+                "w": "to",
+                "t": 13179.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 13350.0,
+                "d": 43.0
+              },
+              {
+                "w": "year",
+                "t": 13393.0,
+                "d": 340.0
+              },
+              {
+                "w": "count",
+                "t": 13734.0,
+                "d": 382.0
+              },
+              {
+                "w": "called",
+                "t": 14117.0,
+                "d": 553.0
+              },
+              {
+                "w": "Cheithaba",
+                "t": 14712.0,
+                "d": 764.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p10.png",
+      "shot": "medium shot inside court hall with large board or chart on floor",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Cheithaba meant more than a date. It was a system for reckoning each year of a reign, a spine along which the chronicle could hang births, deaths, wars, plagues and festivals.",
+            "hi": "चैथाबा सिर्फ तारीख नहीं था; राज के हर साल की गिनती का ढाँचा था, वही रीढ़ जिस पर जन्म, मृत्यु, युद्ध, बीमारी और त्योहार लटकाए जा सके।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p10_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Cheithaba",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "meant",
+                "t": 670.0,
+                "d": 340.0
+              },
+              {
+                "w": "more",
+                "t": 1010.0,
+                "d": 255.0
+              },
+              {
+                "w": "than",
+                "t": 1265.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 1436.0,
+                "d": 127.0
+              },
+              {
+                "w": "date",
+                "t": 1563.0,
+                "d": 594.0
+              },
+              {
+                "w": "It",
+                "t": 2498.0,
+                "d": 213.0
+              },
+              {
+                "w": "was",
+                "t": 2712.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 2882.0,
+                "d": 84.0
+              },
+              {
+                "w": "system",
+                "t": 2967.0,
+                "d": 426.0
+              },
+              {
+                "w": "for",
+                "t": 3393.0,
+                "d": 169.0
+              },
+              {
+                "w": "reckoning",
+                "t": 3562.0,
+                "d": 510.0
+              },
+              {
+                "w": "each",
+                "t": 4115.0,
+                "d": 341.0
+              },
+              {
+                "w": "year",
+                "t": 4457.0,
+                "d": 212.0
+              },
+              {
+                "w": "of",
+                "t": 4670.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 4797.0,
+                "d": 42.0
+              },
+              {
+                "w": "reign",
+                "t": 4840.0,
+                "d": 510.0
+              },
+              {
+                "w": "a",
+                "t": 5734.0,
+                "d": 170.0
+              },
+              {
+                "w": "spine",
+                "t": 5904.0,
+                "d": 468.0
+              },
+              {
+                "w": "along",
+                "t": 6372.0,
+                "d": 382.0
+              },
+              {
+                "w": "which",
+                "t": 6755.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 6968.0,
+                "d": 127.0
+              },
+              {
+                "w": "chronicle",
+                "t": 7095.0,
+                "d": 510.0
+              },
+              {
+                "w": "could",
+                "t": 7606.0,
+                "d": 212.0
+              },
+              {
+                "w": "hang",
+                "t": 7819.0,
+                "d": 255.0
+              },
+              {
+                "w": "births",
+                "t": 8074.0,
+                "d": 679.0
+              },
+              {
+                "w": "deaths",
+                "t": 8839.0,
+                "d": 596.0
+              },
+              {
+                "w": "wars",
+                "t": 9478.0,
+                "d": 764.0
+              },
+              {
+                "w": "plagues",
+                "t": 10328.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 10881.0,
+                "d": 213.0
+              },
+              {
+                "w": "festivals",
+                "t": 11095.0,
+                "d": 893.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/kiyamba_starts_the_chronicle/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/kiyamba_starts_the_chronicle/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As new laws bind his kingdom, Kiyamba walks Kangla's walls, testing each decree against the horizon of war and peace.",
+            "hi": "नए क़ानूनों की बेड़ियों में उसका राज बंधता जा रहा है, कियाम्बा कांगला की दीवारों पर टहलते हुए हर फ़रमान को जंग और अमन की सीमारेखा पर परखता है।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/action/action_auto2_en.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "new",
+                "t": 448.0,
+                "d": 229.0
+              },
+              {
+                "w": "laws",
+                "t": 678.0,
+                "d": 367.0
+              },
+              {
+                "w": "bind",
+                "t": 1045.0,
+                "d": 367.0
+              },
+              {
+                "w": "his",
+                "t": 1413.0,
+                "d": 183.0
+              },
+              {
+                "w": "kingdom",
+                "t": 1597.0,
+                "d": 965.0
+              },
+              {
+                "w": "Kiyamba",
+                "t": 2791.0,
+                "d": 551.0
+              },
+              {
+                "w": "walks",
+                "t": 3343.0,
+                "d": 459.0
+              },
+              {
+                "w": "Kangla's",
+                "t": 3803.0,
+                "d": 551.0
+              },
+              {
+                "w": "walls",
+                "t": 4355.0,
+                "d": 736.0
+              },
+              {
+                "w": "testing",
+                "t": 5597.0,
+                "d": 643.0
+              },
+              {
+                "w": "each",
+                "t": 6241.0,
+                "d": 459.0
+              },
+              {
+                "w": "decree",
+                "t": 6701.0,
+                "d": 643.0
+              },
+              {
+                "w": "against",
+                "t": 7390.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 7850.0,
+                "d": 137.0
+              },
+              {
+                "w": "horizon",
+                "t": 7988.0,
+                "d": 505.0
+              },
+              {
+                "w": "of",
+                "t": 8494.0,
+                "d": 229.0
+              },
+              {
+                "w": "war",
+                "t": 8724.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 9228.0,
+                "d": 368.0
+              },
+              {
+                "w": "peace",
+                "t": 9597.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p11.png",
+      "shot": "dynamic montage-like wide shot of scribes working in different seasons",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "After about fourteen eighty-five, the chronicle's heartbeat steadies. Entry follows entry, each tagged to a counted year, turning scattered memories into a continuous royal diary of Manipur.",
+            "hi": "करीब १४८५ के बाद इतिवृत्त की धड़कन सँभल जाती है। एक प्रविष्टि के बाद दूसरी, हर एक गिने हुए साल से जुड़ी, बिखरी यादों को मणिपुर की लगातार शाही डायरी में बदल देती है।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p11_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "After",
+                "t": 117.0,
+                "d": 382.0
+              },
+              {
+                "w": "about",
+                "t": 500.0,
+                "d": 297.0
+              },
+              {
+                "w": "fourteen",
+                "t": 797.0,
+                "d": 468.0
+              },
+              {
+                "w": "eighty-five",
+                "t": 1265.0,
+                "d": 723.0
+              },
+              {
+                "w": "the",
+                "t": 1989.0,
+                "d": 382.0
+              },
+              {
+                "w": "chronicle's",
+                "t": 2584.0,
+                "d": 639.0
+              },
+              {
+                "w": "heartbeat",
+                "t": 3223.0,
+                "d": 638.0
+              },
+              {
+                "w": "steadies",
+                "t": 3861.0,
+                "d": 893.0
+              },
+              {
+                "w": "Entry",
+                "t": 5265.0,
+                "d": 425.0
+              },
+              {
+                "w": "follows",
+                "t": 5691.0,
+                "d": 425.0
+              },
+              {
+                "w": "entry",
+                "t": 6117.0,
+                "d": 851.0
+              },
+              {
+                "w": "each",
+                "t": 7053.0,
+                "d": 510.0
+              },
+              {
+                "w": "tagged",
+                "t": 7563.0,
+                "d": 425.0
+              },
+              {
+                "w": "to",
+                "t": 7989.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 8159.0,
+                "d": 127.0
+              },
+              {
+                "w": "counted",
+                "t": 8287.0,
+                "d": 424.0
+              },
+              {
+                "w": "year",
+                "t": 8711.0,
+                "d": 468.0
+              },
+              {
+                "w": "turning",
+                "t": 9563.0,
+                "d": 382.0
+              },
+              {
+                "w": "scattered",
+                "t": 9946.0,
+                "d": 510.0
+              },
+              {
+                "w": "memories",
+                "t": 10457.0,
+                "d": 638.0
+              },
+              {
+                "w": "into",
+                "t": 11137.0,
+                "d": 341.0
+              },
+              {
+                "w": "a",
+                "t": 11478.0,
+                "d": 85.0
+              },
+              {
+                "w": "continuous",
+                "t": 11563.0,
+                "d": 765.0
+              },
+              {
+                "w": "royal",
+                "t": 12329.0,
+                "d": 382.0
+              },
+              {
+                "w": "diary",
+                "t": 12712.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 13223.0,
+                "d": 255.0
+              },
+              {
+                "w": "Manipur",
+                "t": 13478.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p12.png",
+      "shot": "wide shot in forested hill area near Khoibu, solemn and quiet",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The habit of fixing orders in stone spread beyond the palace. At Khoibu, a Meitei-script inscription, now in the Manipur State Museum, anchors Kiyamba's rule in rock as well as in palm leaves.",
+            "hi": "हुक्मों को पत्थर में दर्ज करने की आदत महल से बाहर फैल गई। खोइबू में मैती लिपि का एक शिलालेख, जो आज मणिपुर राज्य संग्रहालय में है, कियाम्बा के राज को सिर्फ ताड़पत्र नहीं, पत्थर में भी गाड़ देता है।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p12_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "habit",
+                "t": 287.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 585.0,
+                "d": 85.0
+              },
+              {
+                "w": "fixing",
+                "t": 670.0,
+                "d": 425.0
+              },
+              {
+                "w": "orders",
+                "t": 1095.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 1478.0,
+                "d": 127.0
+              },
+              {
+                "w": "stone",
+                "t": 1606.0,
+                "d": 425.0
+              },
+              {
+                "w": "spread",
+                "t": 2031.0,
+                "d": 424.0
+              },
+              {
+                "w": "beyond",
+                "t": 2456.0,
+                "d": 341.0
+              },
+              {
+                "w": "the",
+                "t": 2797.0,
+                "d": 127.0
+              },
+              {
+                "w": "palace",
+                "t": 2925.0,
+                "d": 808.0
+              },
+              {
+                "w": "At",
+                "t": 3989.0,
+                "d": 297.0
+              },
+              {
+                "w": "Khoibu",
+                "t": 4287.0,
+                "d": 680.0
+              },
+              {
+                "w": "a",
+                "t": 5138.0,
+                "d": 127.0
+              },
+              {
+                "w": "Meitei-script",
+                "t": 5265.0,
+                "d": 765.0
+              },
+              {
+                "w": "inscription",
+                "t": 6031.0,
+                "d": 680.0
+              },
+              {
+                "w": "now",
+                "t": 6712.0,
+                "d": 1063.0
+              },
+              {
+                "w": "in",
+                "t": 7776.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 7904.0,
+                "d": 127.0
+              },
+              {
+                "w": "Manipur",
+                "t": 8031.0,
+                "d": 425.0
+              },
+              {
+                "w": "State",
+                "t": 8457.0,
+                "d": 381.0
+              },
+              {
+                "w": "Museum",
+                "t": 8839.0,
+                "d": 554.0
+              },
+              {
+                "w": "anchors",
+                "t": 9436.0,
+                "d": 510.0
+              },
+              {
+                "w": "Kiyamba's",
+                "t": 9946.0,
+                "d": 595.0
+              },
+              {
+                "w": "rule",
+                "t": 10542.0,
+                "d": 254.0
+              },
+              {
+                "w": "in",
+                "t": 10796.0,
+                "d": 85.0
+              },
+              {
+                "w": "rock",
+                "t": 10881.0,
+                "d": 554.0
+              },
+              {
+                "w": "as",
+                "t": 11478.0,
+                "d": 255.0
+              },
+              {
+                "w": "well",
+                "t": 11734.0,
+                "d": 211.0
+              },
+              {
+                "w": "as",
+                "t": 11945.0,
+                "d": 213.0
+              },
+              {
+                "w": "in",
+                "t": 12159.0,
+                "d": 255.0
+              },
+              {
+                "w": "palm",
+                "t": 12414.0,
+                "d": 255.0
+              },
+              {
+                "w": "leaves",
+                "t": 12670.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p13.png",
+      "shot": "close-up on inscribed stone surface, raking light highlighting letters",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Epigraphers today read those letters and align them with the Cheithaba years. So legend, chronicle and stone begin to cross-check each other, tightening the frame around Kiyamba's life.",
+            "hi": "आज के शिलालेख-विशेषज्ञ उन अक्षरों को पढ़कर उन्हें चैथाबा के सालों से मिलाते हैं। इस तरह कथा, इतिवृत्त और पत्थर एक-दूसरे को परखने लगते हैं, कियाम्बा की ज़िंदगी की रूपरेखा कसकर बाँधते हैं।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p13_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Epigraphers",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "today",
+                "t": 840.0,
+                "d": 425.0
+              },
+              {
+                "w": "read",
+                "t": 1265.0,
+                "d": 255.0
+              },
+              {
+                "w": "those",
+                "t": 1521.0,
+                "d": 297.0
+              },
+              {
+                "w": "letters",
+                "t": 1819.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 2372.0,
+                "d": 254.0
+              },
+              {
+                "w": "align",
+                "t": 2626.0,
+                "d": 468.0
+              },
+              {
+                "w": "them",
+                "t": 3094.0,
+                "d": 213.0
+              },
+              {
+                "w": "with",
+                "t": 3308.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 3478.0,
+                "d": 169.0
+              },
+              {
+                "w": "Cheithaba",
+                "t": 3647.0,
+                "d": 468.0
+              },
+              {
+                "w": "years",
+                "t": 4115.0,
+                "d": 979.0
+              },
+              {
+                "w": "So",
+                "t": 5138.0,
+                "d": 340.0
+              },
+              {
+                "w": "legend",
+                "t": 5478.0,
+                "d": 638.0
+              },
+              {
+                "w": "chronicle",
+                "t": 6159.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 6840.0,
+                "d": 212.0
+              },
+              {
+                "w": "stone",
+                "t": 7053.0,
+                "d": 765.0
+              },
+              {
+                "w": "begin",
+                "t": 7861.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 8244.0,
+                "d": 127.0
+              },
+              {
+                "w": "cross-check",
+                "t": 8372.0,
+                "d": 595.0
+              },
+              {
+                "w": "each",
+                "t": 8968.0,
+                "d": 340.0
+              },
+              {
+                "w": "other",
+                "t": 9308.0,
+                "d": 594.0
+              },
+              {
+                "w": "tightening",
+                "t": 10117.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 10670.0,
+                "d": 126.0
+              },
+              {
+                "w": "frame",
+                "t": 10796.0,
+                "d": 384.0
+              },
+              {
+                "w": "around",
+                "t": 11180.0,
+                "d": 340.0
+              },
+              {
+                "w": "Kiyamba's",
+                "t": 11521.0,
+                "d": 679.0
+              },
+              {
+                "w": "life",
+                "t": 12201.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p14.png",
+      "shot": "introspective medium close-up of older Kiyamba at dusk",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "Wars fade. Stones crack. Will our sons still know which day this was?",
+            "hi": "युद्ध मिट जाते हैं। पत्थर चटकते हैं। क्या हमारे बेटे फिर भी जान पाएँगे, यह दिन कौन सा था?"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p14_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Wars",
+                "t": 52.6,
+                "d": 407.9
+              },
+              {
+                "w": "fade",
+                "t": 460.5,
+                "d": 434.2
+              },
+              {
+                "w": "Stones",
+                "t": 1855.2,
+                "d": 473.7
+              },
+              {
+                "w": "crack",
+                "t": 2329.0,
+                "d": 434.2
+              },
+              {
+                "w": "Will",
+                "t": 3723.7,
+                "d": 236.8
+              },
+              {
+                "w": "our",
+                "t": 4000.0,
+                "d": 210.5
+              },
+              {
+                "w": "sons",
+                "t": 4210.5,
+                "d": 447.4
+              },
+              {
+                "w": "still",
+                "t": 4723.7,
+                "d": 355.2
+              },
+              {
+                "w": "know",
+                "t": 5079.0,
+                "d": 223.7
+              },
+              {
+                "w": "which",
+                "t": 5315.8,
+                "d": 315.8
+              },
+              {
+                "w": "day",
+                "t": 5657.9,
+                "d": 197.4
+              },
+              {
+                "w": "this",
+                "t": 5855.2,
+                "d": 276.3
+              },
+              {
+                "w": "was",
+                "t": 6131.6,
+                "d": 434.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/kiyamba_starts_the_chronicle/split_auto/s0.png",
+          "slogan": {
+            "en": "Let our names live in stone",
+            "hi": "हमारे नाम पत्थर में जिएँ"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/kiyamba_starts_the_chronicle/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/kiyamba_starts_the_chronicle/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Memory and stone entwine as Kiyamba's legacy stretches from Bishnupur's plinths to distant futures that still read his name.",
+            "hi": "स्मृति और पत्थर में गुँथा कियाम्बा का नाम, बिष्णुपुर की चौखटों से दूर के कल तक जा पहुँचा है।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/split/split_auto_en.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Memory",
+                "t": 72.0,
+                "d": 500.0
+              },
+              {
+                "w": "and",
+                "t": 572.0,
+                "d": 166.0
+              },
+              {
+                "w": "stone",
+                "t": 739.0,
+                "d": 416.0
+              },
+              {
+                "w": "entwine",
+                "t": 1156.0,
+                "d": 541.0
+              },
+              {
+                "w": "as",
+                "t": 1697.0,
+                "d": 125.0
+              },
+              {
+                "w": "Kiyamba's",
+                "t": 1822.0,
+                "d": 541.0
+              },
+              {
+                "w": "legacy",
+                "t": 2364.0,
+                "d": 416.0
+              },
+              {
+                "w": "stretches",
+                "t": 2781.0,
+                "d": 500.0
+              },
+              {
+                "w": "from",
+                "t": 3281.0,
+                "d": 207.0
+              },
+              {
+                "w": "Bishnupur's",
+                "t": 3488.0,
+                "d": 541.0
+              },
+              {
+                "w": "plinths",
+                "t": 4030.0,
+                "d": 542.0
+              },
+              {
+                "w": "to",
+                "t": 4656.0,
+                "d": 125.0
+              },
+              {
+                "w": "distant",
+                "t": 4781.0,
+                "d": 500.0
+              },
+              {
+                "w": "futures",
+                "t": 5281.0,
+                "d": 500.0
+              },
+              {
+                "w": "that",
+                "t": 5781.0,
+                "d": 208.0
+              },
+              {
+                "w": "still",
+                "t": 5989.0,
+                "d": 375.0
+              },
+              {
+                "w": "read",
+                "t": 6364.0,
+                "d": 208.0
+              },
+              {
+                "w": "his",
+                "t": 6572.0,
+                "d": 166.0
+              },
+              {
+                "w": "name",
+                "t": 6739.0,
+                "d": 500.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p15.png",
+      "shot": "wide shot of later-era scholars in modern museum observing stone",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today, historians lean over the Cheitharol Kumbaba and the Khoibu stone, tracing dates and names that Kiyamba's scribes once cut into leaf and rock, and Manipur's early centuries come into focus.",
+            "hi": "आज इतिहासकार ‘चैथारोल कुम्बाबा’ और खोइबू शिला पर झुके, वे तारीखें और नाम बुनते हैं जो कभी कियाम्बा के लेखकों ने पत्तों और पत्थरों पर काटे थे, और मणिपुर के शुरुआती सदी साफ नज़र आने लगते हैं।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p15_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "historians",
+                "t": 797.0,
+                "d": 893.0
+              },
+              {
+                "w": "lean",
+                "t": 1691.0,
+                "d": 340.0
+              },
+              {
+                "w": "over",
+                "t": 2031.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 2287.0,
+                "d": 169.0
+              },
+              {
+                "w": "Cheitharol",
+                "t": 2456.0,
+                "d": 510.0
+              },
+              {
+                "w": "Kumbaba",
+                "t": 2967.0,
+                "d": 511.0
+              },
+              {
+                "w": "and",
+                "t": 3478.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 3946.0,
+                "d": 169.0
+              },
+              {
+                "w": "Khoibu",
+                "t": 4115.0,
+                "d": 469.0
+              },
+              {
+                "w": "stone",
+                "t": 4585.0,
+                "d": 510.0
+              },
+              {
+                "w": "tracing",
+                "t": 5478.0,
+                "d": 510.0
+              },
+              {
+                "w": "dates",
+                "t": 5989.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 6500.0,
+                "d": 212.0
+              },
+              {
+                "w": "names",
+                "t": 6712.0,
+                "d": 425.0
+              },
+              {
+                "w": "that",
+                "t": 7138.0,
+                "d": 255.0
+              },
+              {
+                "w": "Kiyamba's",
+                "t": 7393.0,
+                "d": 595.0
+              },
+              {
+                "w": "scribes",
+                "t": 7989.0,
+                "d": 764.0
+              },
+              {
+                "w": "once",
+                "t": 8839.0,
+                "d": 511.0
+              },
+              {
+                "w": "cut",
+                "t": 9351.0,
+                "d": 255.0
+              },
+              {
+                "w": "into",
+                "t": 9606.0,
+                "d": 255.0
+              },
+              {
+                "w": "leaf",
+                "t": 9861.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 10202.0,
+                "d": 212.0
+              },
+              {
+                "w": "rock",
+                "t": 10414.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 11095.0,
+                "d": 340.0
+              },
+              {
+                "w": "Manipur's",
+                "t": 11436.0,
+                "d": 679.0
+              },
+              {
+                "w": "early",
+                "t": 12201.0,
+                "d": 341.0
+              },
+              {
+                "w": "centuries",
+                "t": 12542.0,
+                "d": 637.0
+              },
+              {
+                "w": "come",
+                "t": 13179.0,
+                "d": 255.0
+              },
+              {
+                "w": "into",
+                "t": 13435.0,
+                "d": 213.0
+              },
+              {
+                "w": "focus",
+                "t": 13648.0,
+                "d": 764.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/kiyamba_starts_the_chronicle/img/p16.png",
+      "shot": "final contemplative wide shot from above Kangla at sunrise",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kiyamba's true monument is not only a stone or a shrine, but a decision: to let his kingdom be pinned to a calendar, so that when powers rise and fall, Manipur's voice still speaks in dates.",
+            "hi": "कियाम्बा की असली यादगार सिर्फ पत्थर या मंदिर नहीं, एक फ़ैसला है – अपने राज्य को कैलेंडर से बाँध देना, ताकि ताकतें उठें-गिरें, फिर भी मणिपुर की आवाज़ तारीखों में बोलती रहे।"
+          },
+          "audio": {
+            "en": "assets/kiyamba_starts_the_chronicle/audio/en/p16_0.mp3",
+            "hi": "assets/kiyamba_starts_the_chronicle/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kiyamba's",
+                "t": 117.0,
+                "d": 638.0
+              },
+              {
+                "w": "true",
+                "t": 755.0,
+                "d": 255.0
+              },
+              {
+                "w": "monument",
+                "t": 1010.0,
+                "d": 595.0
+              },
+              {
+                "w": "is",
+                "t": 1606.0,
+                "d": 127.0
+              },
+              {
+                "w": "not",
+                "t": 1734.0,
+                "d": 255.0
+              },
+              {
+                "w": "only",
+                "t": 1989.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 2244.0,
+                "d": 42.0
+              },
+              {
+                "w": "stone",
+                "t": 2287.0,
+                "d": 553.0
+              },
+              {
+                "w": "or",
+                "t": 2840.0,
+                "d": 169.0
+              },
+              {
+                "w": "a",
+                "t": 3009.0,
+                "d": 85.0
+              },
+              {
+                "w": "shrine",
+                "t": 3094.0,
+                "d": 724.0
+              },
+              {
+                "w": "but",
+                "t": 4073.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 4287.0,
+                "d": 85.0
+              },
+              {
+                "w": "decision",
+                "t": 4372.0,
+                "d": 1404.0
+              },
+              {
+                "w": "to",
+                "t": 5819.0,
+                "d": 170.0
+              },
+              {
+                "w": "let",
+                "t": 5989.0,
+                "d": 255.0
+              },
+              {
+                "w": "his",
+                "t": 6244.0,
+                "d": 212.0
+              },
+              {
+                "w": "kingdom",
+                "t": 6457.0,
+                "d": 425.0
+              },
+              {
+                "w": "be",
+                "t": 6882.0,
+                "d": 255.0
+              },
+              {
+                "w": "pinned",
+                "t": 7138.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 7478.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 7606.0,
+                "d": 127.0
+              },
+              {
+                "w": "calendar",
+                "t": 7734.0,
+                "d": 1105.0
+              },
+              {
+                "w": "so",
+                "t": 8839.0,
+                "d": 255.0
+              },
+              {
+                "w": "that",
+                "t": 9094.0,
+                "d": 213.0
+              },
+              {
+                "w": "when",
+                "t": 9308.0,
+                "d": 255.0
+              },
+              {
+                "w": "powers",
+                "t": 9563.0,
+                "d": 509.0
+              },
+              {
+                "w": "rise",
+                "t": 10073.0,
+                "d": 341.0
+              },
+              {
+                "w": "and",
+                "t": 10414.0,
+                "d": 170.0
+              },
+              {
+                "w": "fall",
+                "t": 10585.0,
+                "d": 765.0
+              },
+              {
+                "w": "Manipur's",
+                "t": 11648.0,
+                "d": 680.0
+              },
+              {
+                "w": "voice",
+                "t": 12329.0,
+                "d": 382.0
+              },
+              {
+                "w": "still",
+                "t": 12712.0,
+                "d": 340.0
+              },
+              {
+                "w": "speaks",
+                "t": 13053.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 13563.0,
+                "d": 255.0
+              },
+              {
+                "w": "dates",
+                "t": 13819.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Meidingu Senbi Kiyamba",
+    "epithets": [
+      "Meidingu Kiyamba",
+      "King of Manipur",
+      "Builder of Bishnupur",
+      "Keeper of the Cheitharol"
+    ],
+    "legend": "The king who turned Manipur’s memory into a living record."
+  }
+}
