@@ -572,6 +572,31 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🪷 The Solankis of Gujarat  *(Medieval — c. 940–1244, the Chaulukya kingdom of Patan)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The Chaulukya (Solanki) age of Gujarat, told with rare source-criticism and a refusal to let statecraft off the moral hook — hard on its own celebrated kings, honest about the invasions (from both the Persian chronicles and the Sanskrit inscriptions), and giving the merchants, monk-scholars, tank-diggers, astronomers and anonymous stone-cutters equal weight with the crown.
+
+**I. The Lion's Seat**
+1. **Mularaja Takes the Lion Seat of Patan** ✅ — the founder's seizure told without sanitising ("he took the city by force"; Hemachandra's twelve battles as "symbol, not record"). *(founding)*
+2. **Bhima I and the Fall of Bhoja's Malwa** ✅ — the opportunistic strike on the dying, admired scholar-king Bhoja, refusing glory ("Sarasvati herself wept… see power not only in what it wins, but in how it chooses to win"). *(the core directive on a "winner")*
+3. **Vimal Shah Carves a Marble Mountain** ✅ — the Jain minister's Dilwara Vimal Vasahi; inflated cost-legends flagged. *(Jain art)*
+
+**II. Siddharaja's Age**
+4. **Siddharaja Becomes Lord of Avanti** ✅ — Saurashtra and Malwa taken (*Avantinatha*); "empires are woven, not merely won," and the Chandela campaigns admitted as "rival boasts, not clear triumphs." *(conquest)*
+5. **Hemachandra's Grammar Rides an Elephant** ✅ — the Siddha-Hema grammar treating Apabhramsha (ancestor of Gujarati) as worthy of rule; the elephant-procession flagged as prabandha court-memory. *(linguistics)*
+6. **Jayasimha's Lake of a Thousand Lingas** ✅ — the Sahasralinga tank, centring the anonymous Od builders; the miracle-legend refused for engineered water ("Not miracle, master. Measure"). *(hydraulics)*
+
+**III. Kumarapala, Coin and Sun**
+7. **Kumarapala and the Question of Faith** ✅ — Shaiva by inscription, near-Jain by tradition; "no ahimsa edict is carved in stone… honest history holds many truths at once." *(religion; source-criticism)*
+8. **Cambay's Ships and the Merchant State** ✅ — the Khambhat Jain *shreshthins* and the carnelian-for-warhorses sea-trade ("coin and trust could bind a kingdom as tightly as any army"). *(maritime economy)*
+9. **Modhera Reads the Frozen Sunrise** ✅ — the Sun Temple's equinox-sunrise alignment, reconstructed from stone without over-claiming ("the record is silent, yet… their choices in stone"). *(archaeoastronomy)*
+
+**IV. The Formula and the Fall**
+10. **The Stone-Cutters' Solanki Formula** ✅ — the anonymous Maru-Gurjara *shilpins* and their shared proportional grammar across Modhera, Patan and Dilwara ("the same chisels served Shaiva, Vaishnava and Jain patrons"). *(architecture; labour)*
+11. **Naikidevi Stops the Ghurid Road** ✅ — the queen-regent's 1178 Kasahrada victory over Muhammad of Ghor, told from both the *Tabaqat-i-Nasiri* and the Sundha inscription; the child-in-lap image flagged as legend. *(a woman commander; invasion)*
+12. **Patan Falls and Rises Under Bhima II** ✅ — Aibak's 1197 sack and the slow Vaghela recovery; "a kingdom that survived half-broken, half-usurped, yet alive… not all resistance ends in clean victory." *(defeat and endurance)*
+13. **Vastupal and Tejpal Keep the Flame** ✅ — the Jain minister-brothers whose Luna Vasahi, wells and pilgrim roads outlasted the crown that employed them. *(patronage beyond the dynasty)*
+
 ## 🌙 The Chandelas and Khajuraho  *(Early medieval → medieval — c. 830–1315, the Chandravanshi kings of Bundelkhand)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 The "children of the Moon" of Jejakabhukti, told with rare source-criticism for a dynasty this legend-wrapped — separating the moon-birth myths and bardic ballads from the epigraphic and archaeological record at every turn, framing the Ghaznavid and Ghurid encounters as politics and plunder rather than creed, and giving the innovation half of the story its full weight: the engineering, hydraulics, administration, art and scholarship behind the temples of Khajuraho.
