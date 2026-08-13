@@ -1,0 +1,3802 @@
+{
+  "id": "pardhan_bards_keep_the_gond_memory",
+  "title": "Pardhan Bards Keep the Gond Memory",
+  "title_i18n": {
+    "en": "Pardhan Bards Keep the Gond Memory",
+    "hi": "पारधान गायक बचाते हैं गोंडों की याद"
+  },
+  "figure": "The Pardhan Bards",
+  "era": "Gond oral archive and bardic institutions, early modern roots to modern documentation",
+  "moral": "A people can keep history alive in performance.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/intro/hero.png",
+      "name": "Pardhan Bard of Gondwana",
+      "epithets": [
+        "Keepers of Gond Memory",
+        "Kingri Bards of Gondwana",
+        "Genealogy Singers of the Gonds",
+        "Guardians of Oral Courts"
+      ],
+      "legend": "When scrolls were silent, their kingri kept Gond history alive.",
+      "era": "Gond oral archive and bardic institutions, early modern roots to modern documentation",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In dark village courtyards and vanished royal halls, Pardhan bards sing kings, battles and gods from memory alone. If their voices fall silent, a whole Gond past disappears with them.",
+            "hi": "अँधेरे आँगनों से उजड़े महलों तक, परधान गायक याद से ही राजे, जंगें और देवताओं को गाते हैं। उनकी आवाज़ थमी तो पूरा गोंड अतीत साथ ही खो जाएगा।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/intro/hero_en.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "dark",
+                "t": 364.0,
+                "d": 333.0
+              },
+              {
+                "w": "village",
+                "t": 697.0,
+                "d": 375.0
+              },
+              {
+                "w": "courtyards",
+                "t": 1072.0,
+                "d": 791.0
+              },
+              {
+                "w": "and",
+                "t": 1864.0,
+                "d": 333.0
+              },
+              {
+                "w": "vanished",
+                "t": 2197.0,
+                "d": 541.0
+              },
+              {
+                "w": "royal",
+                "t": 2739.0,
+                "d": 290.0
+              },
+              {
+                "w": "halls",
+                "t": 3030.0,
+                "d": 583.0
+              },
+              {
+                "w": "Pardhan",
+                "t": 4155.0,
+                "d": 501.0
+              },
+              {
+                "w": "bards",
+                "t": 4656.0,
+                "d": 375.0
+              },
+              {
+                "w": "sing",
+                "t": 5031.0,
+                "d": 500.0
+              },
+              {
+                "w": "kings",
+                "t": 5531.0,
+                "d": 666.0
+              },
+              {
+                "w": "battles",
+                "t": 6364.0,
+                "d": 750.0
+              },
+              {
+                "w": "and",
+                "t": 7114.0,
+                "d": 333.0
+              },
+              {
+                "w": "gods",
+                "t": 7447.0,
+                "d": 416.0
+              },
+              {
+                "w": "from",
+                "t": 7864.0,
+                "d": 208.0
+              },
+              {
+                "w": "memory",
+                "t": 8072.0,
+                "d": 457.0
+              },
+              {
+                "w": "alone",
+                "t": 8530.0,
+                "d": 916.0
+              },
+              {
+                "w": "If",
+                "t": 9780.0,
+                "d": 250.0
+              },
+              {
+                "w": "their",
+                "t": 10030.0,
+                "d": 209.0
+              },
+              {
+                "w": "voices",
+                "t": 10239.0,
+                "d": 458.0
+              },
+              {
+                "w": "fall",
+                "t": 10697.0,
+                "d": 250.0
+              },
+              {
+                "w": "silent",
+                "t": 10947.0,
+                "d": 665.0
+              },
+              {
+                "w": "a",
+                "t": 11946.0,
+                "d": 209.0
+              },
+              {
+                "w": "whole",
+                "t": 12156.0,
+                "d": 375.0
+              },
+              {
+                "w": "Gond",
+                "t": 12531.0,
+                "d": 373.0
+              },
+              {
+                "w": "past",
+                "t": 12905.0,
+                "d": 333.0
+              },
+              {
+                "w": "disappears",
+                "t": 13238.0,
+                "d": 584.0
+              },
+              {
+                "w": "with",
+                "t": 13822.0,
+                "d": 207.0
+              },
+              {
+                "w": "them",
+                "t": 14030.0,
+                "d": 501.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/pardhan_bards_keep_the_gond_memory/intro/map.png",
+      "x": 0.58,
+      "y": 0.47,
+      "label": "Mandla & Patangarh, Gondwana heartland",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the forested hills of Mandla and Patangarh, Gond courts once listened as Pardhan bards sang every ancestor, every promise, into the night.",
+            "hi": "मandla और पाटनगढ़ की जंगल भरी पहाड़ियों में, कभी गोंड दरबारों में परधान गायक हर पुरख़ा, हर वादा रात में गाकर सुनाते थे।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/intro/map_en.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 264.0,
+                "d": 137.0
+              },
+              {
+                "w": "forested",
+                "t": 402.0,
+                "d": 551.0
+              },
+              {
+                "w": "hills",
+                "t": 954.0,
+                "d": 275.0
+              },
+              {
+                "w": "of",
+                "t": 1229.0,
+                "d": 183.0
+              },
+              {
+                "w": "Mandla",
+                "t": 1413.0,
+                "d": 367.0
+              },
+              {
+                "w": "and",
+                "t": 1781.0,
+                "d": 321.0
+              },
+              {
+                "w": "Patangarh",
+                "t": 2103.0,
+                "d": 550.0
+              },
+              {
+                "w": "Gond",
+                "t": 2654.0,
+                "d": 460.0
+              },
+              {
+                "w": "courts",
+                "t": 3482.0,
+                "d": 689.0
+              },
+              {
+                "w": "once",
+                "t": 4172.0,
+                "d": 366.0
+              },
+              {
+                "w": "listened",
+                "t": 4539.0,
+                "d": 506.0
+              },
+              {
+                "w": "as",
+                "t": 5045.0,
+                "d": 275.0
+              },
+              {
+                "w": "Pardhan",
+                "t": 5321.0,
+                "d": 505.0
+              },
+              {
+                "w": "bards",
+                "t": 5827.0,
+                "d": 413.0
+              },
+              {
+                "w": "sang",
+                "t": 6241.0,
+                "d": 827.0
+              },
+              {
+                "w": "every",
+                "t": 7068.0,
+                "d": 367.0
+              },
+              {
+                "w": "ancestor",
+                "t": 7436.0,
+                "d": 1011.0
+              },
+              {
+                "w": "every",
+                "t": 8494.0,
+                "d": 505.0
+              },
+              {
+                "w": "promise",
+                "t": 9000.0,
+                "d": 689.0
+              },
+              {
+                "w": "into",
+                "t": 9781.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 10149.0,
+                "d": 137.0
+              },
+              {
+                "w": "night",
+                "t": 10287.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/cover.png",
+      "shot": "low-angle, twilight wide of a lone bard on a Gond hilltop, kingri raised against a star-scattered sky",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Gondwana, where royal chronicles lie silent, the Pardhan bards sing,  can a people's history live only in the trembling string of a kingri?",
+            "hi": "गोंडवाना में जहाँ राज-दास्तानें खामोश हैं, पारधान गाते हैं — क्या किसी कौम की तारीख बस एक थरथराती किंगरी में बच सकती है?"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/cover_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Gondwana",
+                "t": 329.0,
+                "d": 765.0
+              },
+              {
+                "w": "where",
+                "t": 1351.0,
+                "d": 255.0
+              },
+              {
+                "w": "royal",
+                "t": 1606.0,
+                "d": 297.0
+              },
+              {
+                "w": "chronicles",
+                "t": 1904.0,
+                "d": 637.0
+              },
+              {
+                "w": "lie",
+                "t": 2541.0,
+                "d": 256.0
+              },
+              {
+                "w": "silent",
+                "t": 2797.0,
+                "d": 722.0
+              },
+              {
+                "w": "the",
+                "t": 3946.0,
+                "d": 211.0
+              },
+              {
+                "w": "Pardhan",
+                "t": 4158.0,
+                "d": 469.0
+              },
+              {
+                "w": "bards",
+                "t": 4627.0,
+                "d": 340.0
+              },
+              {
+                "w": "sing",
+                "t": 4968.0,
+                "d": 765.0
+              },
+              {
+                "w": "can",
+                "t": 5946.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 6159.0,
+                "d": 170.0
+              },
+              {
+                "w": "people's",
+                "t": 6329.0,
+                "d": 468.0
+              },
+              {
+                "w": "history",
+                "t": 6797.0,
+                "d": 425.0
+              },
+              {
+                "w": "live",
+                "t": 7223.0,
+                "d": 297.0
+              },
+              {
+                "w": "only",
+                "t": 7521.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 8031.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 8159.0,
+                "d": 170.0
+              },
+              {
+                "w": "trembling",
+                "t": 8329.0,
+                "d": 468.0
+              },
+              {
+                "w": "string",
+                "t": 8797.0,
+                "d": 296.0
+              },
+              {
+                "w": "of",
+                "t": 9094.0,
+                "d": 128.0
+              },
+              {
+                "w": "a",
+                "t": 9223.0,
+                "d": 85.0
+              },
+              {
+                "w": "kingri",
+                "t": 9308.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p01.png",
+      "shot": "slow push-in on a weathered hand tuning the kingri strings beside a mud house",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The written records of Garha-Katanga are few, scattered in Persian and foreign eyes, but in Mandla's villages the Pardhan's hand remembers what ink forgot.",
+            "hi": "गढ़ा-कटंगा के लिखित रिकॉर्ड कम हैं, फ़ारसी और परदेसियों में बिखरे, पर मांडला के गाँवों में पारधान का हाथ वही याद रखता है जो स्याही भूल गई।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p01_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "written",
+                "t": 287.0,
+                "d": 340.0
+              },
+              {
+                "w": "records",
+                "t": 627.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 1138.0,
+                "d": 170.0
+              },
+              {
+                "w": "Garha-Katanga",
+                "t": 1308.0,
+                "d": 680.0
+              },
+              {
+                "w": "are",
+                "t": 1989.0,
+                "d": 382.0
+              },
+              {
+                "w": "few",
+                "t": 2372.0,
+                "d": 510.0
+              },
+              {
+                "w": "scattered",
+                "t": 3094.0,
+                "d": 639.0
+              },
+              {
+                "w": "in",
+                "t": 3734.0,
+                "d": 170.0
+              },
+              {
+                "w": "Persian",
+                "t": 3904.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 4414.0,
+                "d": 255.0
+              },
+              {
+                "w": "foreign",
+                "t": 4670.0,
+                "d": 425.0
+              },
+              {
+                "w": "eyes",
+                "t": 5095.0,
+                "d": 510.0
+              },
+              {
+                "w": "but",
+                "t": 5904.0,
+                "d": 255.0
+              },
+              {
+                "w": "in",
+                "t": 6159.0,
+                "d": 170.0
+              },
+              {
+                "w": "Mandla's",
+                "t": 6329.0,
+                "d": 510.0
+              },
+              {
+                "w": "villages",
+                "t": 6840.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 7393.0,
+                "d": 170.0
+              },
+              {
+                "w": "Pardhan's",
+                "t": 7563.0,
+                "d": 851.0
+              },
+              {
+                "w": "hand",
+                "t": 8500.0,
+                "d": 424.0
+              },
+              {
+                "w": "remembers",
+                "t": 8924.0,
+                "d": 639.0
+              },
+              {
+                "w": "what",
+                "t": 9563.0,
+                "d": 382.0
+              },
+              {
+                "w": "ink",
+                "t": 9946.0,
+                "d": 340.0
+              },
+              {
+                "w": "forgot",
+                "t": 10287.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p02.png",
+      "shot": "wide village scene, Pardhan walking on a dusty path with kingri slung, children peeking from doorways",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Ethnographers like Verrier Elwin and Furer-Haimendorf found them not in palaces, but in dusty lanes,  hereditary bards moving from patron to patron with song as their archive.",
+            "hi": "वरीयर एल्विन और फ्यूरर‑हाइमेनडॉर्फ जैसे जाति-शोधक उन्हें महलों में नहीं, धूल भरी गलियों में मिले — पुश्तैनी गायक, एक सरदार से दूसरे तक, गीत को ही अपना ख़ज़ाना बना कर।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p02_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Ethnographers",
+                "t": 117.0,
+                "d": 765.0
+              },
+              {
+                "w": "like",
+                "t": 882.0,
+                "d": 297.0
+              },
+              {
+                "w": "Verrier",
+                "t": 1180.0,
+                "d": 425.0
+              },
+              {
+                "w": "Elwin",
+                "t": 1648.0,
+                "d": 297.0
+              },
+              {
+                "w": "and",
+                "t": 1946.0,
+                "d": 468.0
+              },
+              {
+                "w": "Furer-Haimendorf",
+                "t": 2414.0,
+                "d": 679.0
+              },
+              {
+                "w": "found",
+                "t": 3094.0,
+                "d": 852.0
+              },
+              {
+                "w": "them",
+                "t": 3946.0,
+                "d": 211.0
+              },
+              {
+                "w": "not",
+                "t": 4158.0,
+                "d": 298.0
+              },
+              {
+                "w": "in",
+                "t": 4457.0,
+                "d": 170.0
+              },
+              {
+                "w": "palaces",
+                "t": 4627.0,
+                "d": 893.0
+              },
+              {
+                "w": "but",
+                "t": 5648.0,
+                "d": 255.0
+              },
+              {
+                "w": "in",
+                "t": 5904.0,
+                "d": 170.0
+              },
+              {
+                "w": "dusty",
+                "t": 6074.0,
+                "d": 382.0
+              },
+              {
+                "w": "lanes",
+                "t": 6457.0,
+                "d": 638.0
+              },
+              {
+                "w": "hereditary",
+                "t": 7351.0,
+                "d": 723.0
+              },
+              {
+                "w": "bards",
+                "t": 8074.0,
+                "d": 382.0
+              },
+              {
+                "w": "moving",
+                "t": 8457.0,
+                "d": 340.0
+              },
+              {
+                "w": "from",
+                "t": 8797.0,
+                "d": 255.0
+              },
+              {
+                "w": "patron",
+                "t": 9053.0,
+                "d": 468.0
+              },
+              {
+                "w": "to",
+                "t": 9521.0,
+                "d": 170.0
+              },
+              {
+                "w": "patron",
+                "t": 9691.0,
+                "d": 680.0
+              },
+              {
+                "w": "with",
+                "t": 10457.0,
+                "d": 297.0
+              },
+              {
+                "w": "song",
+                "t": 10755.0,
+                "d": 467.0
+              },
+              {
+                "w": "as",
+                "t": 11222.0,
+                "d": 213.0
+              },
+              {
+                "w": "their",
+                "t": 11436.0,
+                "d": 212.0
+              },
+              {
+                "w": "archive",
+                "t": 11648.0,
+                "d": 851.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p03.png",
+      "shot": "intimate interior mid-shot, Pardhan seated opposite a Gond patron family in a dim hut",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He is Pardhan,  the appointed one,  tied by obligation to his Gond patron, bound to receive grain and gifts, and in return to guard the line of names reaching back to kings and ancestors.",
+            "hi": "वह पारधान है — नियुक्त, बँधा अपने गोंड माईक से — बदले में अनाज और भेंट, और उसके बदले राजा और पुरखों की लंबी नस्ल याद रखने की जिम्मेदारी।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p03_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "is",
+                "t": 244.0,
+                "d": 170.0
+              },
+              {
+                "w": "Pardhan",
+                "t": 414.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 1351.0,
+                "d": 170.0
+              },
+              {
+                "w": "appointed",
+                "t": 1521.0,
+                "d": 510.0
+              },
+              {
+                "w": "one",
+                "t": 2031.0,
+                "d": 638.0
+              },
+              {
+                "w": "tied",
+                "t": 2712.0,
+                "d": 339.0
+              },
+              {
+                "w": "by",
+                "t": 3052.0,
+                "d": 213.0
+              },
+              {
+                "w": "obligation",
+                "t": 3265.0,
+                "d": 723.0
+              },
+              {
+                "w": "to",
+                "t": 3989.0,
+                "d": 126.0
+              },
+              {
+                "w": "his",
+                "t": 4115.0,
+                "d": 298.0
+              },
+              {
+                "w": "Gond",
+                "t": 4414.0,
+                "d": 382.0
+              },
+              {
+                "w": "patron",
+                "t": 4797.0,
+                "d": 723.0
+              },
+              {
+                "w": "bound",
+                "t": 5734.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 6117.0,
+                "d": 85.0
+              },
+              {
+                "w": "receive",
+                "t": 6202.0,
+                "d": 425.0
+              },
+              {
+                "w": "grain",
+                "t": 6627.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 7053.0,
+                "d": 297.0
+              },
+              {
+                "w": "gifts",
+                "t": 7351.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 8329.0,
+                "d": 254.0
+              },
+              {
+                "w": "in",
+                "t": 8584.0,
+                "d": 85.0
+              },
+              {
+                "w": "return",
+                "t": 8669.0,
+                "d": 425.0
+              },
+              {
+                "w": "to",
+                "t": 9094.0,
+                "d": 128.0
+              },
+              {
+                "w": "guard",
+                "t": 9223.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 9521.0,
+                "d": 126.0
+              },
+              {
+                "w": "line",
+                "t": 9647.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 9903.0,
+                "d": 170.0
+              },
+              {
+                "w": "names",
+                "t": 10073.0,
+                "d": 341.0
+              },
+              {
+                "w": "reaching",
+                "t": 10414.0,
+                "d": 425.0
+              },
+              {
+                "w": "back",
+                "t": 10840.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 11095.0,
+                "d": 170.0
+              },
+              {
+                "w": "kings",
+                "t": 11265.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 11734.0,
+                "d": 255.0
+              },
+              {
+                "w": "ancestors",
+                "t": 11989.0,
+                "d": 1020.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/pardhan_bards_keep_the_gond_memory/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/pardhan_bards_keep_the_gond_memory/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Carrying lineages like weapons, he walks between forest and field, stitching scattered lives into a single remembered story.",
+            "hi": "वंशों को हथियार सा थामे वो जंगल‑खेत के बीच चलता है, बिखरी ज़िंदगियों को जोड़कर एक याद बनाता है।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/action/action_auto_en.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Carrying",
+                "t": 126.0,
+                "d": 459.0
+              },
+              {
+                "w": "lineages",
+                "t": 586.0,
+                "d": 689.0
+              },
+              {
+                "w": "like",
+                "t": 1275.0,
+                "d": 275.0
+              },
+              {
+                "w": "weapons",
+                "t": 1551.0,
+                "d": 780.0
+              },
+              {
+                "w": "he",
+                "t": 2332.0,
+                "d": 367.0
+              },
+              {
+                "w": "walks",
+                "t": 2700.0,
+                "d": 368.0
+              },
+              {
+                "w": "between",
+                "t": 3068.0,
+                "d": 459.0
+              },
+              {
+                "w": "forest",
+                "t": 3528.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 4080.0,
+                "d": 183.0
+              },
+              {
+                "w": "field",
+                "t": 4264.0,
+                "d": 873.0
+              },
+              {
+                "w": "stitching",
+                "t": 5183.0,
+                "d": 597.0
+              },
+              {
+                "w": "scattered",
+                "t": 5781.0,
+                "d": 597.0
+              },
+              {
+                "w": "lives",
+                "t": 6379.0,
+                "d": 459.0
+              },
+              {
+                "w": "into",
+                "t": 6839.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 7160.0,
+                "d": 45.0
+              },
+              {
+                "w": "single",
+                "t": 7206.0,
+                "d": 551.0
+              },
+              {
+                "w": "remembered",
+                "t": 7758.0,
+                "d": 551.0
+              },
+              {
+                "w": "story",
+                "t": 8310.0,
+                "d": 643.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p04.png",
+      "shot": "close-up on the kingri’s bow drawing across the strings, sparks of a hearth behind",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "No palm-leaf chronicles, no court scribes, yet his kingri carries creation cycles, clan origins, and the rise and fall of Gond rulers in patterns of rhythm and tune.",
+            "hi": "न ताड़पत्र, न दरबारी लिपिकार, फिर भी उसकी किंगरी में सृष्टि-कथाएँ, कुल की जड़ें और गोंड राजाओं का उत्थान-पतन लय और धुन में दर्ज है।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p04_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "No",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "palm-leaf",
+                "t": 457.0,
+                "d": 425.0
+              },
+              {
+                "w": "chronicles",
+                "t": 882.0,
+                "d": 893.0
+              },
+              {
+                "w": "no",
+                "t": 1904.0,
+                "d": 382.0
+              },
+              {
+                "w": "court",
+                "t": 2287.0,
+                "d": 254.0
+              },
+              {
+                "w": "scribes",
+                "t": 2541.0,
+                "d": 809.0
+              },
+              {
+                "w": "yet",
+                "t": 3734.0,
+                "d": 255.0
+              },
+              {
+                "w": "his",
+                "t": 3989.0,
+                "d": 254.0
+              },
+              {
+                "w": "kingri",
+                "t": 4243.0,
+                "d": 469.0
+              },
+              {
+                "w": "carries",
+                "t": 4712.0,
+                "d": 553.0
+              },
+              {
+                "w": "creation",
+                "t": 5265.0,
+                "d": 510.0
+              },
+              {
+                "w": "cycles",
+                "t": 5776.0,
+                "d": 808.0
+              },
+              {
+                "w": "clan",
+                "t": 6712.0,
+                "d": 340.0
+              },
+              {
+                "w": "origins",
+                "t": 7053.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 8117.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 8414.0,
+                "d": 126.0
+              },
+              {
+                "w": "rise",
+                "t": 8541.0,
+                "d": 341.0
+              },
+              {
+                "w": "and",
+                "t": 8882.0,
+                "d": 126.0
+              },
+              {
+                "w": "fall",
+                "t": 9009.0,
+                "d": 384.0
+              },
+              {
+                "w": "of",
+                "t": 9393.0,
+                "d": 170.0
+              },
+              {
+                "w": "Gond",
+                "t": 9563.0,
+                "d": 339.0
+              },
+              {
+                "w": "rulers",
+                "t": 9903.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 10328.0,
+                "d": 171.0
+              },
+              {
+                "w": "patterns",
+                "t": 10500.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 11010.0,
+                "d": 211.0
+              },
+              {
+                "w": "rhythm",
+                "t": 11222.0,
+                "d": 511.0
+              },
+              {
+                "w": "and",
+                "t": 11734.0,
+                "d": 340.0
+              },
+              {
+                "w": "tune",
+                "t": 12074.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p05.png",
+      "shot": "evocative montage wide, Pardhan singing before a group, faint overlay of imagined royal processions in the forest haze",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "His songs speak of a world we know from scattered documents,  Garha-Katanga, Mandla, royal courts and campaigns,  but the exact verses of Sangram Shah's day have vanished into time's haze.",
+            "hi": "उसके गीत उस दुनिया की बात करते हैं जिसे हम बिखरे काग़ज़ों से जानते हैं — गढ़ा‑कटंगा, मांडला, दरबार और जंग — पर संग्राम शाह के ज़माने के सटीक बोल अब धुँधले वक़्त में खो गए।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p05_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "His",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "songs",
+                "t": 287.0,
+                "d": 382.0
+              },
+              {
+                "w": "speak",
+                "t": 670.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 1053.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 1180.0,
+                "d": 85.0
+              },
+              {
+                "w": "world",
+                "t": 1265.0,
+                "d": 340.0
+              },
+              {
+                "w": "we",
+                "t": 1606.0,
+                "d": 170.0
+              },
+              {
+                "w": "know",
+                "t": 1776.0,
+                "d": 255.0
+              },
+              {
+                "w": "from",
+                "t": 2031.0,
+                "d": 255.0
+              },
+              {
+                "w": "scattered",
+                "t": 2287.0,
+                "d": 510.0
+              },
+              {
+                "w": "documents",
+                "t": 2797.0,
+                "d": 936.0
+              },
+              {
+                "w": "Garha-Katanga",
+                "t": 3819.0,
+                "d": 893.0
+              },
+              {
+                "w": "Mandla",
+                "t": 5095.0,
+                "d": 765.0
+              },
+              {
+                "w": "royal",
+                "t": 6031.0,
+                "d": 382.0
+              },
+              {
+                "w": "courts",
+                "t": 6414.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 6755.0,
+                "d": 127.0
+              },
+              {
+                "w": "campaigns",
+                "t": 6882.0,
+                "d": 808.0
+              },
+              {
+                "w": "but",
+                "t": 8287.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 8457.0,
+                "d": 126.0
+              },
+              {
+                "w": "exact",
+                "t": 8584.0,
+                "d": 595.0
+              },
+              {
+                "w": "verses",
+                "t": 9179.0,
+                "d": 384.0
+              },
+              {
+                "w": "of",
+                "t": 9563.0,
+                "d": 127.0
+              },
+              {
+                "w": "Sangram",
+                "t": 9691.0,
+                "d": 467.0
+              },
+              {
+                "w": "Shah's",
+                "t": 10158.0,
+                "d": 426.0
+              },
+              {
+                "w": "day",
+                "t": 10585.0,
+                "d": 552.0
+              },
+              {
+                "w": "have",
+                "t": 11222.0,
+                "d": 298.0
+              },
+              {
+                "w": "vanished",
+                "t": 11521.0,
+                "d": 509.0
+              },
+              {
+                "w": "into",
+                "t": 12030.0,
+                "d": 298.0
+              },
+              {
+                "w": "time's",
+                "t": 12329.0,
+                "d": 382.0
+              },
+              {
+                "w": "haze",
+                "t": 12712.0,
+                "d": 637.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p06.png",
+      "shot": "scholarly split-scene: Pardhan performing on one side, a distant ghosted image of a Persian scribe on the other",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "While Persian chroniclers listed battles and alliances, Pardhan bards threaded those same rulers into myths of origin and duty, preserving not minutes of court, but memory as the people felt it.",
+            "hi": "जब फ़ारसी इतिहासकार बस जंग और संधियाँ गिनते रहे, पारधान गायकों ने उन्हीं राजाओं को जन्म-कथा और फ़र्ज़ की कहानियों में पिरोया, दरबार की कारवाई नहीं, लोगों की याद बचाई।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p06_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "While",
+                "t": 70.0,
+                "d": 360.0
+              },
+              {
+                "w": "Persian",
+                "t": 430.0,
+                "d": 400.0
+              },
+              {
+                "w": "chroniclers",
+                "t": 830.0,
+                "d": 680.0
+              },
+              {
+                "w": "listed",
+                "t": 1510.0,
+                "d": 400.0
+              },
+              {
+                "w": "battles",
+                "t": 1910.0,
+                "d": 479.0
+              },
+              {
+                "w": "and",
+                "t": 2389.0,
+                "d": 161.0
+              },
+              {
+                "w": "alliances",
+                "t": 2550.0,
+                "d": 1279.0
+              },
+              {
+                "w": "Pardhan",
+                "t": 3829.0,
+                "d": 481.0
+              },
+              {
+                "w": "bards",
+                "t": 4310.0,
+                "d": 400.0
+              },
+              {
+                "w": "threaded",
+                "t": 4710.0,
+                "d": 400.0
+              },
+              {
+                "w": "those",
+                "t": 5110.0,
+                "d": 200.0
+              },
+              {
+                "w": "same",
+                "t": 5310.0,
+                "d": 360.0
+              },
+              {
+                "w": "rulers",
+                "t": 5670.0,
+                "d": 520.0
+              },
+              {
+                "w": "into",
+                "t": 6190.0,
+                "d": 320.0
+              },
+              {
+                "w": "myths",
+                "t": 6510.0,
+                "d": 360.0
+              },
+              {
+                "w": "of",
+                "t": 6870.0,
+                "d": 200.0
+              },
+              {
+                "w": "origin",
+                "t": 7070.0,
+                "d": 480.0
+              },
+              {
+                "w": "and",
+                "t": 7550.0,
+                "d": 240.0
+              },
+              {
+                "w": "duty",
+                "t": 7790.0,
+                "d": 839.0
+              },
+              {
+                "w": "preserving",
+                "t": 8629.0,
+                "d": 680.0
+              },
+              {
+                "w": "not",
+                "t": 9309.0,
+                "d": 281.0
+              },
+              {
+                "w": "minutes",
+                "t": 9590.0,
+                "d": 360.0
+              },
+              {
+                "w": "of",
+                "t": 9950.0,
+                "d": 160.0
+              },
+              {
+                "w": "court",
+                "t": 10110.0,
+                "d": 400.0
+              },
+              {
+                "w": "but",
+                "t": 10870.0,
+                "d": 279.0
+              },
+              {
+                "w": "memory",
+                "t": 11149.0,
+                "d": 521.0
+              },
+              {
+                "w": "as",
+                "t": 11670.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 11830.0,
+                "d": 160.0
+              },
+              {
+                "w": "people",
+                "t": 11990.0,
+                "d": 399.0
+              },
+              {
+                "w": "felt",
+                "t": 12389.0,
+                "d": 361.0
+              },
+              {
+                "w": "it",
+                "t": 12750.0,
+                "d": 319.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p07.png",
+      "shot": "low, reverent wide inside a simple Gond shrine, Pardhan singing before clan deities",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Furer-Haimendorf noted how Pardhans narrated the birth of the earth, the journey of gods, the founding of lineages,  their performance was worship, genealogy and political memory woven together.",
+            "hi": "फ्यूरर‑हाइमेनडॉर्फ ने लिखा कैसे पारधान धरती की पैदाइश, देवताओं की यात्राएँ, कुलों की नींव सुनाते हैं — उनका गान पूजा, वंशावली और सियासी याद सबको एक साथ बुनता है।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p07_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Furer-Haimendorf",
+                "t": 74.0,
+                "d": 936.0
+              },
+              {
+                "w": "noted",
+                "t": 1010.0,
+                "d": 765.0
+              },
+              {
+                "w": "how",
+                "t": 1819.0,
+                "d": 382.0
+              },
+              {
+                "w": "Pardhans",
+                "t": 2202.0,
+                "d": 553.0
+              },
+              {
+                "w": "narrated",
+                "t": 2755.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 3308.0,
+                "d": 170.0
+              },
+              {
+                "w": "birth",
+                "t": 3478.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 3819.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 3946.0,
+                "d": 126.0
+              },
+              {
+                "w": "earth",
+                "t": 4073.0,
+                "d": 469.0
+              },
+              {
+                "w": "the",
+                "t": 4925.0,
+                "d": 212.0
+              },
+              {
+                "w": "journey",
+                "t": 5138.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 5563.0,
+                "d": 170.0
+              },
+              {
+                "w": "gods",
+                "t": 5734.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 7010.0,
+                "d": 212.0
+              },
+              {
+                "w": "founding",
+                "t": 7223.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 7734.0,
+                "d": 170.0
+              },
+              {
+                "w": "lineages",
+                "t": 7904.0,
+                "d": 1020.0
+              },
+              {
+                "w": "their",
+                "t": 9521.0,
+                "d": 255.0
+              },
+              {
+                "w": "performance",
+                "t": 9776.0,
+                "d": 765.0
+              },
+              {
+                "w": "was",
+                "t": 10542.0,
+                "d": 297.0
+              },
+              {
+                "w": "worship",
+                "t": 10840.0,
+                "d": 935.0
+              },
+              {
+                "w": "genealogy",
+                "t": 11819.0,
+                "d": 1234.0
+              },
+              {
+                "w": "and",
+                "t": 13179.0,
+                "d": 298.0
+              },
+              {
+                "w": "political",
+                "t": 13478.0,
+                "d": 509.0
+              },
+              {
+                "w": "memory",
+                "t": 13988.0,
+                "d": 681.0
+              },
+              {
+                "w": "woven",
+                "t": 14882.0,
+                "d": 509.0
+              },
+              {
+                "w": "together",
+                "t": 15392.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p08.png",
+      "shot": "medium shot of Pardhan reciting names, villagers counting on fingers, serious faces",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In those lists of names lay rights to land, status and ritual. A misremembered ancestor could mean a lost field, a forgotten share,  the stakes of memory were as real as tax and grain.",
+            "hi": "उन नामों की सूचियों में ज़मीन, इज़्ज़त और रस्मों के हक़ छुपे थे। एक गलती से बोले पुरखा का मतलब हो सकता था एक खेत कम, एक हिस्सा गायब — याद का दाँव भी टैक्स और अनाज जितना सख़्त था।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p08_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "those",
+                "t": 287.0,
+                "d": 297.0
+              },
+              {
+                "w": "lists",
+                "t": 585.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 1010.0,
+                "d": 170.0
+              },
+              {
+                "w": "names",
+                "t": 1180.0,
+                "d": 340.0
+              },
+              {
+                "w": "lay",
+                "t": 1521.0,
+                "d": 255.0
+              },
+              {
+                "w": "rights",
+                "t": 1776.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 2117.0,
+                "d": 127.0
+              },
+              {
+                "w": "land",
+                "t": 2244.0,
+                "d": 595.0
+              },
+              {
+                "w": "status",
+                "t": 2925.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 3734.0,
+                "d": 212.0
+              },
+              {
+                "w": "ritual",
+                "t": 3946.0,
+                "d": 1106.0
+              },
+              {
+                "w": "A",
+                "t": 5095.0,
+                "d": 127.0
+              },
+              {
+                "w": "misremembered",
+                "t": 5223.0,
+                "d": 723.0
+              },
+              {
+                "w": "ancestor",
+                "t": 5946.0,
+                "d": 638.0
+              },
+              {
+                "w": "could",
+                "t": 6585.0,
+                "d": 212.0
+              },
+              {
+                "w": "mean",
+                "t": 6797.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 7095.0,
+                "d": 85.0
+              },
+              {
+                "w": "lost",
+                "t": 7180.0,
+                "d": 425.0
+              },
+              {
+                "w": "field",
+                "t": 7606.0,
+                "d": 765.0
+              },
+              {
+                "w": "a",
+                "t": 8457.0,
+                "d": 126.0
+              },
+              {
+                "w": "forgotten",
+                "t": 8584.0,
+                "d": 554.0
+              },
+              {
+                "w": "share",
+                "t": 9138.0,
+                "d": 723.0
+              },
+              {
+                "w": "the",
+                "t": 10031.0,
+                "d": 211.0
+              },
+              {
+                "w": "stakes",
+                "t": 10243.0,
+                "d": 384.0
+              },
+              {
+                "w": "of",
+                "t": 10627.0,
+                "d": 169.0
+              },
+              {
+                "w": "memory",
+                "t": 10796.0,
+                "d": 425.0
+              },
+              {
+                "w": "were",
+                "t": 11222.0,
+                "d": 298.0
+              },
+              {
+                "w": "as",
+                "t": 11521.0,
+                "d": 297.0
+              },
+              {
+                "w": "real",
+                "t": 11819.0,
+                "d": 425.0
+              },
+              {
+                "w": "as",
+                "t": 12286.0,
+                "d": 298.0
+              },
+              {
+                "w": "tax",
+                "t": 12585.0,
+                "d": 424.0
+              },
+              {
+                "w": "and",
+                "t": 13009.0,
+                "d": 213.0
+              },
+              {
+                "w": "grain",
+                "t": 13223.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p09.png",
+      "shot": "transition wide shot through time: forest night with Pardhan singing, dissolving into a 20th-century researcher sketching notes",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By the early twentieth century, men like Elwin sat at the edge of these gatherings, taking down fragments, translating, interpreting,  saving some verses even as others slipped away unrecorded.",
+            "hi": "बीसवीं सदी की शुरुआत तक, एल्विन जैसे लोग इन जमघटों के किनारे बैठ कर टुकड़े लिखते, अनुवाद, तर्जुमा करते रहे — कुछ पंक्तियाँ बचीं, कई बिना लिखे फिसल गईं।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p09_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "early",
+                "t": 414.0,
+                "d": 297.0
+              },
+              {
+                "w": "twentieth",
+                "t": 712.0,
+                "d": 510.0
+              },
+              {
+                "w": "century",
+                "t": 1223.0,
+                "d": 808.0
+              },
+              {
+                "w": "men",
+                "t": 2074.0,
+                "d": 424.0
+              },
+              {
+                "w": "like",
+                "t": 2498.0,
+                "d": 256.0
+              },
+              {
+                "w": "Elwin",
+                "t": 2755.0,
+                "d": 468.0
+              },
+              {
+                "w": "sat",
+                "t": 3223.0,
+                "d": 467.0
+              },
+              {
+                "w": "at",
+                "t": 3690.0,
+                "d": 171.0
+              },
+              {
+                "w": "the",
+                "t": 3861.0,
+                "d": 127.0
+              },
+              {
+                "w": "edge",
+                "t": 3989.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 4457.0,
+                "d": 212.0
+              },
+              {
+                "w": "these",
+                "t": 4670.0,
+                "d": 255.0
+              },
+              {
+                "w": "gatherings",
+                "t": 4925.0,
+                "d": 851.0
+              },
+              {
+                "w": "taking",
+                "t": 5989.0,
+                "d": 425.0
+              },
+              {
+                "w": "down",
+                "t": 6414.0,
+                "d": 255.0
+              },
+              {
+                "w": "fragments",
+                "t": 6670.0,
+                "d": 851.0
+              },
+              {
+                "w": "translating",
+                "t": 7606.0,
+                "d": 1147.0
+              },
+              {
+                "w": "interpreting",
+                "t": 8839.0,
+                "d": 1107.0
+              },
+              {
+                "w": "saving",
+                "t": 9988.0,
+                "d": 469.0
+              },
+              {
+                "w": "some",
+                "t": 10457.0,
+                "d": 254.0
+              },
+              {
+                "w": "verses",
+                "t": 10711.0,
+                "d": 767.0
+              },
+              {
+                "w": "even",
+                "t": 11648.0,
+                "d": 340.0
+              },
+              {
+                "w": "as",
+                "t": 11989.0,
+                "d": 211.0
+              },
+              {
+                "w": "others",
+                "t": 12201.0,
+                "d": 426.0
+              },
+              {
+                "w": "slipped",
+                "t": 12627.0,
+                "d": 595.0
+              },
+              {
+                "w": "away",
+                "t": 13223.0,
+                "d": 340.0
+              },
+              {
+                "w": "unrecorded",
+                "t": 13606.0,
+                "d": 977.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p10.png",
+      "shot": "closer on researcher and Pardhan conversing, kingri between them on the ground",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "You write my song; but will you also carry my hunger?",
+            "hi": "तुम मेरा गीत लिखोगे; मेरी भूख भी उठाओगे?"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p10_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "You",
+                "t": 49.0,
+                "d": 122.5
+              },
+              {
+                "w": "write",
+                "t": 171.6,
+                "d": 306.4
+              },
+              {
+                "w": "my",
+                "t": 478.0,
+                "d": 208.3
+              },
+              {
+                "w": "song",
+                "t": 686.3,
+                "d": 428.9
+              },
+              {
+                "w": "but",
+                "t": 1225.5,
+                "d": 232.8
+              },
+              {
+                "w": "will",
+                "t": 1458.3,
+                "d": 208.3
+              },
+              {
+                "w": "you",
+                "t": 1678.9,
+                "d": 147.0
+              },
+              {
+                "w": "also",
+                "t": 1911.8,
+                "d": 367.7
+              },
+              {
+                "w": "carry",
+                "t": 2279.4,
+                "d": 343.1
+              },
+              {
+                "w": "my",
+                "t": 2622.5,
+                "d": 208.3
+              },
+              {
+                "w": "hunger",
+                "t": 2830.9,
+                "d": 416.7
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p11.png",
+      "shot": "mid-shot of Pardhan returning from a town, modern road in background, plastic bag in hand",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As roads cut through the old forests and wage labour pulled Gond patrons away, the steady patronage of Pardhans thinned; some laid the kingri aside, others reshaped their art to survive.",
+            "hi": "जब सड़कें जंगल चीरने लगीं और मज़दूरी ने गोंड सरदारों को बाहर खींच लिया, पारधानों की स्थिर सरपरस्ती घटी; कुछ ने किंगरी छोड़ दी, कुछ ने कला को बदल कर जीना सीखा।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p11_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "roads",
+                "t": 372.0,
+                "d": 340.0
+              },
+              {
+                "w": "cut",
+                "t": 712.0,
+                "d": 212.0
+              },
+              {
+                "w": "through",
+                "t": 925.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 1223.0,
+                "d": 170.0
+              },
+              {
+                "w": "old",
+                "t": 1393.0,
+                "d": 255.0
+              },
+              {
+                "w": "forests",
+                "t": 1648.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 2372.0,
+                "d": 254.0
+              },
+              {
+                "w": "wage",
+                "t": 2626.0,
+                "d": 340.0
+              },
+              {
+                "w": "labour",
+                "t": 2967.0,
+                "d": 426.0
+              },
+              {
+                "w": "pulled",
+                "t": 3393.0,
+                "d": 340.0
+              },
+              {
+                "w": "Gond",
+                "t": 3734.0,
+                "d": 339.0
+              },
+              {
+                "w": "patrons",
+                "t": 4073.0,
+                "d": 469.0
+              },
+              {
+                "w": "away",
+                "t": 4542.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 5223.0,
+                "d": 255.0
+              },
+              {
+                "w": "steady",
+                "t": 5478.0,
+                "d": 425.0
+              },
+              {
+                "w": "patronage",
+                "t": 5904.0,
+                "d": 638.0
+              },
+              {
+                "w": "of",
+                "t": 6542.0,
+                "d": 255.0
+              },
+              {
+                "w": "Pardhans",
+                "t": 6797.0,
+                "d": 510.0
+              },
+              {
+                "w": "thinned",
+                "t": 7308.0,
+                "d": 765.0
+              },
+              {
+                "w": "some",
+                "t": 8584.0,
+                "d": 425.0
+              },
+              {
+                "w": "laid",
+                "t": 9009.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 9223.0,
+                "d": 212.0
+              },
+              {
+                "w": "kingri",
+                "t": 9436.0,
+                "d": 340.0
+              },
+              {
+                "w": "aside",
+                "t": 9776.0,
+                "d": 893.0
+              },
+              {
+                "w": "others",
+                "t": 10881.0,
+                "d": 469.0
+              },
+              {
+                "w": "reshaped",
+                "t": 11351.0,
+                "d": 594.0
+              },
+              {
+                "w": "their",
+                "t": 11945.0,
+                "d": 255.0
+              },
+              {
+                "w": "art",
+                "t": 12201.0,
+                "d": 298.0
+              },
+              {
+                "w": "to",
+                "t": 12500.0,
+                "d": 255.0
+              },
+              {
+                "w": "survive",
+                "t": 12755.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/pardhan_bards_keep_the_gond_memory/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/pardhan_bards_keep_the_gond_memory/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Engines roar past, but his song stands its ground, an older road that refuses to be pushed from the dust.",
+            "hi": "इंजन गरजते निकल जाते, पर उसका गीत जमे खड़ा है, पुरानी राह जो मिट्टी से हटने को तैयार नहीं।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/action/action_auto2_en.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Engines",
+                "t": 150.0,
+                "d": 480.0
+              },
+              {
+                "w": "roar",
+                "t": 630.0,
+                "d": 280.0
+              },
+              {
+                "w": "past",
+                "t": 910.0,
+                "d": 600.0
+              },
+              {
+                "w": "but",
+                "t": 2230.0,
+                "d": 239.0
+              },
+              {
+                "w": "his",
+                "t": 2469.0,
+                "d": 121.0
+              },
+              {
+                "w": "song",
+                "t": 2590.0,
+                "d": 399.0
+              },
+              {
+                "w": "stands",
+                "t": 2989.0,
+                "d": 480.0
+              },
+              {
+                "w": "its",
+                "t": 3469.0,
+                "d": 161.0
+              },
+              {
+                "w": "ground",
+                "t": 3630.0,
+                "d": 640.0
+              },
+              {
+                "w": "an",
+                "t": 4550.0,
+                "d": 280.0
+              },
+              {
+                "w": "older",
+                "t": 4830.0,
+                "d": 400.0
+              },
+              {
+                "w": "road",
+                "t": 5230.0,
+                "d": 640.0
+              },
+              {
+                "w": "that",
+                "t": 5950.0,
+                "d": 160.0
+              },
+              {
+                "w": "refuses",
+                "t": 6110.0,
+                "d": 560.0
+              },
+              {
+                "w": "to",
+                "t": 6670.0,
+                "d": 120.0
+              },
+              {
+                "w": "be",
+                "t": 6790.0,
+                "d": 240.0
+              },
+              {
+                "w": "pushed",
+                "t": 7030.0,
+                "d": 400.0
+              },
+              {
+                "w": "from",
+                "t": 7430.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 7670.0,
+                "d": 120.0
+              },
+              {
+                "w": "dust",
+                "t": 7790.0,
+                "d": 560.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p12.png",
+      "shot": "interior wide, Pardhan teaching a child the kingri inside a modest house with a radio",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Yet in many homes, elders still trained children in the old tunes, fitting them around school, factory shifts, and the crackling voices of distant cities on the radio.",
+            "hi": "फिर भी कई घरों में बूढ़े अब भी बच्चों को पुरानी धुनें सिखाते हैं, स्कूल, कारखाने की ड्यूटी और रेडियो पर दूर शहरों की चटखती आवाज़ों के बीच उन्हें फिट करते हुए।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p12_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Yet",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 414.0,
+                "d": 127.0
+              },
+              {
+                "w": "many",
+                "t": 542.0,
+                "d": 340.0
+              },
+              {
+                "w": "homes",
+                "t": 882.0,
+                "d": 680.0
+              },
+              {
+                "w": "elders",
+                "t": 1691.0,
+                "d": 595.0
+              },
+              {
+                "w": "still",
+                "t": 2287.0,
+                "d": 339.0
+              },
+              {
+                "w": "trained",
+                "t": 2626.0,
+                "d": 340.0
+              },
+              {
+                "w": "children",
+                "t": 2967.0,
+                "d": 469.0
+              },
+              {
+                "w": "in",
+                "t": 3436.0,
+                "d": 169.0
+              },
+              {
+                "w": "the",
+                "t": 3605.0,
+                "d": 171.0
+              },
+              {
+                "w": "old",
+                "t": 3776.0,
+                "d": 296.0
+              },
+              {
+                "w": "tunes",
+                "t": 4073.0,
+                "d": 767.0
+              },
+              {
+                "w": "fitting",
+                "t": 5095.0,
+                "d": 510.0
+              },
+              {
+                "w": "them",
+                "t": 5606.0,
+                "d": 170.0
+              },
+              {
+                "w": "around",
+                "t": 5776.0,
+                "d": 297.0
+              },
+              {
+                "w": "school",
+                "t": 6074.0,
+                "d": 808.0
+              },
+              {
+                "w": "factory",
+                "t": 6925.0,
+                "d": 595.0
+              },
+              {
+                "w": "shifts",
+                "t": 7521.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 8372.0,
+                "d": 296.0
+              },
+              {
+                "w": "the",
+                "t": 8669.0,
+                "d": 128.0
+              },
+              {
+                "w": "crackling",
+                "t": 8797.0,
+                "d": 467.0
+              },
+              {
+                "w": "voices",
+                "t": 9264.0,
+                "d": 426.0
+              },
+              {
+                "w": "of",
+                "t": 9691.0,
+                "d": 211.0
+              },
+              {
+                "w": "distant",
+                "t": 9903.0,
+                "d": 425.0
+              },
+              {
+                "w": "cities",
+                "t": 10328.0,
+                "d": 468.0
+              },
+              {
+                "w": "on",
+                "t": 10796.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 10881.0,
+                "d": 128.0
+              },
+              {
+                "w": "radio",
+                "t": 11010.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p13.png",
+      "shot": "evocative split-panel style: one half showing a Pardhan singing; the other, a hand painting dots and lines on paper",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From this same storytelling world, artists like Jangarh Singh Shyam emerged in the late twentieth century, shifting songs and myths onto paper and canvas in a new visual language.",
+            "hi": "इसी किस्सागो दुनिया से जंघर सिंह श्याम जैसे कलाकार उभरे, जिन्होंने देर बीसवीं सदी में गीतों और मिथकों को काग़ज़ और कैनवास पर नई चित्रभाषा में उतारा।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p13_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "this",
+                "t": 414.0,
+                "d": 170.0
+              },
+              {
+                "w": "same",
+                "t": 585.0,
+                "d": 340.0
+              },
+              {
+                "w": "storytelling",
+                "t": 925.0,
+                "d": 680.0
+              },
+              {
+                "w": "world",
+                "t": 1606.0,
+                "d": 638.0
+              },
+              {
+                "w": "artists",
+                "t": 2414.0,
+                "d": 722.0
+              },
+              {
+                "w": "like",
+                "t": 3137.0,
+                "d": 256.0
+              },
+              {
+                "w": "Jangarh",
+                "t": 3393.0,
+                "d": 425.0
+              },
+              {
+                "w": "Singh",
+                "t": 3819.0,
+                "d": 296.0
+              },
+              {
+                "w": "Shyam",
+                "t": 4115.0,
+                "d": 426.0
+              },
+              {
+                "w": "emerged",
+                "t": 4542.0,
+                "d": 553.0
+              },
+              {
+                "w": "in",
+                "t": 5095.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 5223.0,
+                "d": 127.0
+              },
+              {
+                "w": "late",
+                "t": 5351.0,
+                "d": 340.0
+              },
+              {
+                "w": "twentieth",
+                "t": 5691.0,
+                "d": 510.0
+              },
+              {
+                "w": "century",
+                "t": 6202.0,
+                "d": 808.0
+              },
+              {
+                "w": "shifting",
+                "t": 7053.0,
+                "d": 553.0
+              },
+              {
+                "w": "songs",
+                "t": 7606.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 8074.0,
+                "d": 297.0
+              },
+              {
+                "w": "myths",
+                "t": 8372.0,
+                "d": 467.0
+              },
+              {
+                "w": "onto",
+                "t": 8882.0,
+                "d": 425.0
+              },
+              {
+                "w": "paper",
+                "t": 9308.0,
+                "d": 594.0
+              },
+              {
+                "w": "and",
+                "t": 9903.0,
+                "d": 469.0
+              },
+              {
+                "w": "canvas",
+                "t": 10372.0,
+                "d": 594.0
+              },
+              {
+                "w": "in",
+                "t": 11010.0,
+                "d": 126.0
+              },
+              {
+                "w": "a",
+                "t": 11137.0,
+                "d": 85.0
+              },
+              {
+                "w": "new",
+                "t": 11222.0,
+                "d": 341.0
+              },
+              {
+                "w": "visual",
+                "t": 11563.0,
+                "d": 425.0
+              },
+              {
+                "w": "language",
+                "t": 11989.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p14.png",
+      "shot": "museum-like wide, modern gallery with Gond paintings, shadowy figure of Pardhan superimposed in reflection",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Scholars like Jyotindra Jain showed how such works were not relics of a frozen 'tribal' past, but living, changing expressions,  kin to the songs, yet not copies of a sixteenth-century court style.",
+            "hi": "ज्योतिन्द्र जैन जैसे विद्वानों ने दिखाया कि ये काम जमे हुए ‘आदिवासी’ अतीत की चीज़ नहीं, बल्कि बदलती ज़िंदा अभिव्यक्तियाँ हैं — गीतों के क़रीबी, पर किसी सोलहवीं सदी के दरबारी अंदाज़ की हूबहू नकल नहीं।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p14_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Scholars",
+                "t": 80.0,
+                "d": 551.0
+              },
+              {
+                "w": "like",
+                "t": 632.0,
+                "d": 183.0
+              },
+              {
+                "w": "Jyotindra",
+                "t": 816.0,
+                "d": 689.0
+              },
+              {
+                "w": "Jain",
+                "t": 1505.0,
+                "d": 459.0
+              },
+              {
+                "w": "showed",
+                "t": 2011.0,
+                "d": 413.0
+              },
+              {
+                "w": "how",
+                "t": 2425.0,
+                "d": 228.0
+              },
+              {
+                "w": "such",
+                "t": 2654.0,
+                "d": 414.0
+              },
+              {
+                "w": "works",
+                "t": 3068.0,
+                "d": 551.0
+              },
+              {
+                "w": "were",
+                "t": 3666.0,
+                "d": 228.0
+              },
+              {
+                "w": "not",
+                "t": 3895.0,
+                "d": 277.0
+              },
+              {
+                "w": "relics",
+                "t": 4172.0,
+                "d": 459.0
+              },
+              {
+                "w": "of",
+                "t": 4632.0,
+                "d": 183.0
+              },
+              {
+                "w": "a",
+                "t": 4816.0,
+                "d": 91.0
+              },
+              {
+                "w": "frozen",
+                "t": 4908.0,
+                "d": 551.0
+              },
+              {
+                "w": "tribal",
+                "t": 5459.0,
+                "d": 505.0
+              },
+              {
+                "w": "past",
+                "t": 5965.0,
+                "d": 1011.0
+              },
+              {
+                "w": "but",
+                "t": 6977.0,
+                "d": 229.0
+              },
+              {
+                "w": "living",
+                "t": 7206.0,
+                "d": 919.0
+              },
+              {
+                "w": "changing",
+                "t": 8126.0,
+                "d": 459.0
+              },
+              {
+                "w": "expressions",
+                "t": 8586.0,
+                "d": 1103.0
+              },
+              {
+                "w": "kin",
+                "t": 9781.0,
+                "d": 275.0
+              },
+              {
+                "w": "to",
+                "t": 10057.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 10195.0,
+                "d": 137.0
+              },
+              {
+                "w": "songs",
+                "t": 10333.0,
+                "d": 826.0
+              },
+              {
+                "w": "yet",
+                "t": 11206.0,
+                "d": 413.0
+              },
+              {
+                "w": "not",
+                "t": 11620.0,
+                "d": 320.0
+              },
+              {
+                "w": "copies",
+                "t": 11941.0,
+                "d": 460.0
+              },
+              {
+                "w": "of",
+                "t": 12402.0,
+                "d": 183.0
+              },
+              {
+                "w": "a",
+                "t": 12586.0,
+                "d": 45.0
+              },
+              {
+                "w": "sixteenth-century",
+                "t": 12632.0,
+                "d": 1011.0
+              },
+              {
+                "w": "court",
+                "t": 13643.0,
+                "d": 367.0
+              },
+              {
+                "w": "style",
+                "t": 14011.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p15.png",
+      "shot": "intimate close-up of Pardhan’s face lit by firelight, eyes reflecting both flames and a distant electric bulb",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The melodies he carries have shifted with time, verses dropped and added; historians cannot lift a perfect script of Sangram Shah's court from them, but they reveal what rule felt like from below.",
+            "hi": "उसकी धुनें वक़्त के साथ बदल गई हैं, बोल जुड़ते‑टूटते रहे; इतिहासकार इनसे संग्राम शाह के दरबार की कोई बिल्कुल सही स्क्रिप्ट नहीं निकाल सकते, पर इनके ज़रिए राज का नीचे से महसूस होना ज़रूर दिखता है।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p15_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "melodies",
+                "t": 329.0,
+                "d": 510.0
+              },
+              {
+                "w": "he",
+                "t": 840.0,
+                "d": 212.0
+              },
+              {
+                "w": "carries",
+                "t": 1053.0,
+                "d": 468.0
+              },
+              {
+                "w": "have",
+                "t": 1521.0,
+                "d": 212.0
+              },
+              {
+                "w": "shifted",
+                "t": 1734.0,
+                "d": 424.0
+              },
+              {
+                "w": "with",
+                "t": 2158.0,
+                "d": 256.0
+              },
+              {
+                "w": "time",
+                "t": 2414.0,
+                "d": 764.0
+              },
+              {
+                "w": "verses",
+                "t": 3308.0,
+                "d": 510.0
+              },
+              {
+                "w": "dropped",
+                "t": 3819.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 4457.0,
+                "d": 212.0
+              },
+              {
+                "w": "added",
+                "t": 4670.0,
+                "d": 1106.0
+              },
+              {
+                "w": "historians",
+                "t": 6117.0,
+                "d": 723.0
+              },
+              {
+                "w": "cannot",
+                "t": 6840.0,
+                "d": 340.0
+              },
+              {
+                "w": "lift",
+                "t": 7180.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 7436.0,
+                "d": 127.0
+              },
+              {
+                "w": "perfect",
+                "t": 7563.0,
+                "d": 510.0
+              },
+              {
+                "w": "script",
+                "t": 8074.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 8414.0,
+                "d": 126.0
+              },
+              {
+                "w": "Sangram",
+                "t": 8541.0,
+                "d": 426.0
+              },
+              {
+                "w": "Shah's",
+                "t": 8968.0,
+                "d": 425.0
+              },
+              {
+                "w": "court",
+                "t": 9393.0,
+                "d": 254.0
+              },
+              {
+                "w": "from",
+                "t": 9647.0,
+                "d": 255.0
+              },
+              {
+                "w": "them",
+                "t": 9903.0,
+                "d": 767.0
+              },
+              {
+                "w": "but",
+                "t": 10711.0,
+                "d": 213.0
+              },
+              {
+                "w": "they",
+                "t": 10925.0,
+                "d": 211.0
+              },
+              {
+                "w": "reveal",
+                "t": 11137.0,
+                "d": 384.0
+              },
+              {
+                "w": "what",
+                "t": 11521.0,
+                "d": 339.0
+              },
+              {
+                "w": "rule",
+                "t": 11860.0,
+                "d": 255.0
+              },
+              {
+                "w": "felt",
+                "t": 12115.0,
+                "d": 384.0
+              },
+              {
+                "w": "like",
+                "t": 12500.0,
+                "d": 339.0
+              },
+              {
+                "w": "from",
+                "t": 12839.0,
+                "d": 255.0
+              },
+              {
+                "w": "below",
+                "t": 13094.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p16.png",
+      "shot": "wide night shot, Pardhan performing at a village gathering under electric bulbs and stars",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Tonight, as he plays, those listening hear not only gods and kings, but echoes of their own fathers' labours, mothers' stories, and the long arc of Gond history folded into song.",
+            "hi": "आज रात, जब वह बजाता है, सुनने वाले सिर्फ देवता और राजा नहीं सुनते, बल्कि अपने बापों की मेहनत, माओं की बातें और गोंड तारीख़ की लंबी धार को भी गीत में घुला हुआ पाते हैं।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p16_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Tonight",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "as",
+                "t": 1053.0,
+                "d": 255.0
+              },
+              {
+                "w": "he",
+                "t": 1308.0,
+                "d": 212.0
+              },
+              {
+                "w": "plays",
+                "t": 1521.0,
+                "d": 340.0
+              },
+              {
+                "w": "those",
+                "t": 1861.0,
+                "d": 296.0
+              },
+              {
+                "w": "listening",
+                "t": 2626.0,
+                "d": 639.0
+              },
+              {
+                "w": "hear",
+                "t": 3265.0,
+                "d": 296.0
+              },
+              {
+                "w": "not",
+                "t": 3562.0,
+                "d": 256.0
+              },
+              {
+                "w": "only",
+                "t": 3819.0,
+                "d": 296.0
+              },
+              {
+                "w": "gods",
+                "t": 4115.0,
+                "d": 341.0
+              },
+              {
+                "w": "and",
+                "t": 4457.0,
+                "d": 170.0
+              },
+              {
+                "w": "kings",
+                "t": 4627.0,
+                "d": 638.0
+              },
+              {
+                "w": "but",
+                "t": 5436.0,
+                "d": 340.0
+              },
+              {
+                "w": "echoes",
+                "t": 5776.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 6287.0,
+                "d": 170.0
+              },
+              {
+                "w": "their",
+                "t": 6457.0,
+                "d": 212.0
+              },
+              {
+                "w": "own",
+                "t": 6670.0,
+                "d": 297.0
+              },
+              {
+                "w": "fathers'",
+                "t": 6968.0,
+                "d": 425.0
+              },
+              {
+                "w": "labours",
+                "t": 7393.0,
+                "d": 765.0
+              },
+              {
+                "w": "mothers'",
+                "t": 8202.0,
+                "d": 552.0
+              },
+              {
+                "w": "stories",
+                "t": 8754.0,
+                "d": 724.0
+              },
+              {
+                "w": "and",
+                "t": 9606.0,
+                "d": 296.0
+              },
+              {
+                "w": "the",
+                "t": 9903.0,
+                "d": 128.0
+              },
+              {
+                "w": "long",
+                "t": 10031.0,
+                "d": 468.0
+              },
+              {
+                "w": "arc",
+                "t": 10500.0,
+                "d": 296.0
+              },
+              {
+                "w": "of",
+                "t": 10796.0,
+                "d": 128.0
+              },
+              {
+                "w": "Gond",
+                "t": 10925.0,
+                "d": 296.0
+              },
+              {
+                "w": "history",
+                "t": 11222.0,
+                "d": 767.0
+              },
+              {
+                "w": "folded",
+                "t": 12030.0,
+                "d": 596.0
+              },
+              {
+                "w": "into",
+                "t": 12627.0,
+                "d": 255.0
+              },
+              {
+                "w": "song",
+                "t": 12882.0,
+                "d": 637.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/pardhan_bards_keep_the_gond_memory/split_auto/s0.png",
+          "slogan": {
+            "en": "We are stories, never erased",
+            "hi": "हम कथाएँ हैं, मिटते नहीं"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/pardhan_bards_keep_the_gond_memory/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/pardhan_bards_keep_the_gond_memory/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across courts, forests, and cities, his voice threads centuries, binding Gond memory to a living, defiant present.",
+            "hi": "दरबारों, जंगलों और शहरों में उसकी आवाज़ सदियों को पिरोकर गोंड यादों को आज की जिंदा, बाग़ी धड़कन से बाँध देती है।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/split/split_auto_en.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 72.0,
+                "d": 541.0
+              },
+              {
+                "w": "courts",
+                "t": 614.0,
+                "d": 625.0
+              },
+              {
+                "w": "forests",
+                "t": 1239.0,
+                "d": 750.0
+              },
+              {
+                "w": "and",
+                "t": 1989.0,
+                "d": 291.0
+              },
+              {
+                "w": "cities",
+                "t": 2281.0,
+                "d": 707.0
+              },
+              {
+                "w": "his",
+                "t": 3156.0,
+                "d": 332.0
+              },
+              {
+                "w": "voice",
+                "t": 3488.0,
+                "d": 334.0
+              },
+              {
+                "w": "threads",
+                "t": 3822.0,
+                "d": 500.0
+              },
+              {
+                "w": "centuries",
+                "t": 4364.0,
+                "d": 708.0
+              },
+              {
+                "w": "binding",
+                "t": 5364.0,
+                "d": 541.0
+              },
+              {
+                "w": "Gond",
+                "t": 5906.0,
+                "d": 333.0
+              },
+              {
+                "w": "memory",
+                "t": 6239.0,
+                "d": 416.0
+              },
+              {
+                "w": "to",
+                "t": 6656.0,
+                "d": 166.0
+              },
+              {
+                "w": "a",
+                "t": 6822.0,
+                "d": 41.0
+              },
+              {
+                "w": "living",
+                "t": 6864.0,
+                "d": 666.0
+              },
+              {
+                "w": "defiant",
+                "t": 7572.0,
+                "d": 625.0
+              },
+              {
+                "w": "present",
+                "t": 8197.0,
+                "d": 666.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/pardhan_bards_keep_the_gond_memory/img/p17.png",
+      "shot": "closing wide, dawn over Mandla river, Pardhan silhouette crossing a shallow ford with kingri",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As archives and screens multiply, the Pardhan's kingri reminds us that a people's past can also live in a voice, a journey, and a promise passed from ear to ear without a single written word.",
+            "hi": "जब दस्तावेज़ और स्क्रीनें बढ़ती जा रही हैं, पारधान की किंगरी याद दिलाती है कि किसी कौम का अतीत एक आवाज़, एक सफ़र और कान से कान तक चली एक कसम में भी ज़िंदा रह सकता है, बिना एक भी लिखित शब्द के।"
+          },
+          "audio": {
+            "en": "assets/pardhan_bards_keep_the_gond_memory/audio/en/p17_0.mp3",
+            "hi": "assets/pardhan_bards_keep_the_gond_memory/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "archives",
+                "t": 402.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 954.0,
+                "d": 137.0
+              },
+              {
+                "w": "screens",
+                "t": 1091.0,
+                "d": 459.0
+              },
+              {
+                "w": "multiply",
+                "t": 1551.0,
+                "d": 1102.0
+              },
+              {
+                "w": "the",
+                "t": 2931.0,
+                "d": 229.0
+              },
+              {
+                "w": "Pardhan's",
+                "t": 3160.0,
+                "d": 551.0
+              },
+              {
+                "w": "kingri",
+                "t": 3712.0,
+                "d": 459.0
+              },
+              {
+                "w": "reminds",
+                "t": 4172.0,
+                "d": 505.0
+              },
+              {
+                "w": "us",
+                "t": 4678.0,
+                "d": 459.0
+              },
+              {
+                "w": "that",
+                "t": 5275.0,
+                "d": 229.0
+              },
+              {
+                "w": "a",
+                "t": 5505.0,
+                "d": 183.0
+              },
+              {
+                "w": "people's",
+                "t": 5689.0,
+                "d": 505.0
+              },
+              {
+                "w": "past",
+                "t": 6195.0,
+                "d": 643.0
+              },
+              {
+                "w": "can",
+                "t": 6885.0,
+                "d": 229.0
+              },
+              {
+                "w": "also",
+                "t": 7114.0,
+                "d": 413.0
+              },
+              {
+                "w": "live",
+                "t": 7528.0,
+                "d": 321.0
+              },
+              {
+                "w": "in",
+                "t": 7850.0,
+                "d": 137.0
+              },
+              {
+                "w": "a",
+                "t": 7988.0,
+                "d": 91.0
+              },
+              {
+                "w": "voice",
+                "t": 8080.0,
+                "d": 735.0
+              },
+              {
+                "w": "a",
+                "t": 8862.0,
+                "d": 229.0
+              },
+              {
+                "w": "journey",
+                "t": 9091.0,
+                "d": 826.0
+              },
+              {
+                "w": "and",
+                "t": 10010.0,
+                "d": 368.0
+              },
+              {
+                "w": "a",
+                "t": 10379.0,
+                "d": 91.0
+              },
+              {
+                "w": "promise",
+                "t": 10471.0,
+                "d": 504.0
+              },
+              {
+                "w": "passed",
+                "t": 10975.0,
+                "d": 368.0
+              },
+              {
+                "w": "from",
+                "t": 11344.0,
+                "d": 228.0
+              },
+              {
+                "w": "ear",
+                "t": 11620.0,
+                "d": 275.0
+              },
+              {
+                "w": "to",
+                "t": 11896.0,
+                "d": 183.0
+              },
+              {
+                "w": "ear",
+                "t": 12080.0,
+                "d": 367.0
+              },
+              {
+                "w": "without",
+                "t": 12770.0,
+                "d": 459.0
+              },
+              {
+                "w": "a",
+                "t": 13229.0,
+                "d": 91.0
+              },
+              {
+                "w": "single",
+                "t": 13321.0,
+                "d": 459.0
+              },
+              {
+                "w": "written",
+                "t": 13781.0,
+                "d": 366.0
+              },
+              {
+                "w": "word",
+                "t": 14148.0,
+                "d": 506.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Pardhan Bard of Gondwana",
+    "epithets": [
+      "Keepers of Gond Memory",
+      "Kingri Bards of Gondwana",
+      "Genealogy Singers of the Gonds",
+      "Guardians of Oral Courts"
+    ],
+    "legend": "When scrolls were silent, their kingri kept Gond history alive."
+  }
+}
