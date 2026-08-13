@@ -572,6 +572,31 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🐉 The Manipur Kingdom and the Eastern Frontier  *(Ancient → colonial — c. 33 CE–1949, the Meitei valley of Kangla & the Indo-Burmese frontier)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The ~1,900-year story of the Meitei valley kingdom of Kangla — an under-told north-eastern civilisation with its own script, royal chronicle, written constitution and serpent-dragon cosmology — told from its own sources (the *Cheitharol Kumbaba* court chronicle, Meitei Mayek copper-plates) held against Burmese and British records, refusing both the founding-myths and the colonial "rebellion" frame, and giving its women, fisherfolk and scribes equal weight with its kings.
+
+**I. Founding & the Written Kingdom**
+1. **Pakhangba and the Dragon Court** ✅ — the serpent-dragon founder (trad. 33 CE) read as sacred charter rather than fact, separating the Sanamahi cosmology from the datable king-list. *(founding myth; source-criticism)*
+2. **Loiyumba Writes the Rules** ✅ — the *Loiyumba Shinyen* (c. 1110), among the world's early written constitutions, fixing clan duties and hereditary offices. *(constitutional / legal innovation)*
+3. **Kiyamba Starts the Chronicle** ✅ — the *Cheitharol Kumbaba* royal chronicle and the *Cheithaba* year-count, the Kabaw valley and the Moirang–Pong alliance. *(historiography / chronology)*
+
+**II. The Kings of Kangla**
+4. **Khagemba Coins and Brick Bridges** ✅ — the king who turned war-captives into citizens, founding the Meitei Pangal (Muslim) community, and brought coinage and brick bridges to the valley. *(economy; a minority origin told warmly)*
+5. **Sagol Kangjei: Polo from Kangla** ✅ — the Manipuri origin of modern polo, codified (not invented) at Kangla and later carried worldwide by the British. *(sport; cultural reclamation)*
+6. **Pamheiba Changes the Sacred Map** ✅ — the forced Vaishnav conversion stated factually (royal pressure, disturbed Sanamahi shrines, beef ban, Kangleipak→Manipur rename); the Puya-burning handled source-critically. *(religious change; the core directive on trauma)*
+7. **Bhagyachandra Dreams the Ras Lila** ✅ — the exile-king who returned with Ahom help and created the Manipuri Ras Lila, art as statecraft around the deity Govindaji. *(dance; devotion)*
+
+**III. Devastation and Return**
+8. **Chahi Taret: Seven Silent Years** ✅ — the *Chahi Taret Khuntakpa* (1819–26), the Burmese occupation and mass deportations to Ava, told with named sources (Parratt, Tarapot, Thant Myint-U) and the honest internal politics (Meitei princes who invited Ava's troops), non-communal. *(catastrophe; all-sides)*
+9. **Gambhir Singh Plants the Standard** ✅ — the Manipur Levy and the 1825 reconquest in the First Anglo-Burmese War, British records and Meitei memory weighed evenhandedly. *(reconquest)*
+
+**IV. The People, the Script, and the Last Stand**
+10. **Ima Keithel: The Mothers' Market** ✅ — the all-women market of Imphal, the *lallup* labour system that pulled men to war, women's *leikai* credit self-rule and the *Nupi Lan* women's uprisings. *(women's economy; social innovation)*
+11. **Meitei Mayek: Letters of the Body** ✅ — the body-named indigenous script, its displacement by Bengali under Pamheiba's Vaishnavism (court prestige, not attack) and its 2021 legal revival. *(script; scholarship)*
+12. **Tikendrajit and the Last Stand** ✅ — the 1891 Anglo-Manipur War, the killing/execution of five British officers and Tikendrajit's hanging told from both sides ("a rebel prince lawfully executed" vs "Bir Tikendrajit, a martyr"). *(resistance; the core directive on a "loser")*
+13. **Loktak: The Lake That Breathes** ✅ — the floating *phumdi* world of the Moirang fisherfolk, the Keibul Lamjao floating park and endangered Sangai deer, and the Ithai Barrage's ecological cost. *(ecology; environmental economics)*
+
 ## 🪷 The Solankis of Gujarat  *(Medieval — c. 940–1244, the Chaulukya kingdom of Patan)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 The Chaulukya (Solanki) age of Gujarat, told with rare source-criticism and a refusal to let statecraft off the moral hook — hard on its own celebrated kings, honest about the invasions (from both the Persian chronicles and the Sanskrit inscriptions), and giving the merchants, monk-scholars, tank-diggers, astronomers and anonymous stone-cutters equal weight with the crown.
