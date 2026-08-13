@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 💠 The Tripura Manikya Kingdom  *(Medieval → modern — c. 1400–1949, the Manikya hill-kingdom of the eastern frontier)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The five-century arc of the Manikya dynasty of Tripura — a hill kingdom on the Bengal–Arakan frontier with its own royal chronicle (the *Rajmala*), silver coinage and Kokborok-speaking Tipra roots — told from its own court chronicle held against Bengal, Mughal, Arakanese and even Chinese records, and, crucially, against its own coins; hard on its kings' contested conquests, honest about coercion and the 1949 merger, and giving artisans, scholars and tribal communities equal weight with the crown.
+
+**I. The Ruby Crown Rises**
+1. **Chhengthung Fa Takes the Manikya Name** ✅ — the founder who took the *Manikya* ("ruby") title c. 1400; a Rajmala-claimed Bengal clash flagged as uncorroborated, cross-lit by the Chinese *Ming Shilu*'s note of "Di-wu-la". *(founding; source-criticism)*
+2. **Dharma Manikya Writes the Rajmala** ✅ — the royal chronicle (Sukreswar and Vaneswar), honest that indigenous Kokborok/Koloma oral memory was recast into Sanskritic frames and Bengali metres. *(historiography)*
+3. **Ratna Manikya Mints the Ruby Coins** ✅ — Tripura's first silver coinage (c. 1464); unflinching — "the same Rajmala that praises him as builder names him usurper" (he seized the fort, exiled his father, jailed his brothers). *(economy; the core directive on a "winner")*
+
+**II. Sword Across Rivers**
+4. **Dhanya Manikya Rides Into the Delta** ✅ — the delta and Chittagong campaigns rebuilt "from a name on a coin, a verse in a chronicle," Rajmala claims weighed against Bengal's silences. *(military; source-criticism)*
+5. **Vijaya Manikya's River Armada** ✅ — the Tripura river-fleet, its army numbers flagged as "courtly numbers" and cross-checked against the *Ain-i-Akbari*. *(naval innovation)*
+6. **Amar Manikya Strikes at Sylhet** ✅ — the Sylhet raids and coin-propaganda, honest that "control was a matter of reach, not walls," modern numismatics weighed against the boast. *(frontier war; source-criticism)*
+
+**III. Stone, Water and Sacred Craft**
+7. **Matabari Temple on Tortoise Hill** ✅ — Dhanya Manikya's Tripura Sundari temple (a Shakti Peetha on the Kurma hill), separating vision-legend from the record of Shakta patronage and Bengali *do-chala* architecture. *(temple art)*
+8. **Pilak: Where Buddha Met Shiva** ✅ — the syncretic 8th–12th-century sandstone workshop of old Samatata (Avalokiteshvara, Chunda and Marichi beside Surya and Vishnu); "stone does not choose between Surya and Buddha." *(art; religious syncretism)*
+9. **Coins That Corrected the Chronicle** ✅ — 774 coins used to re-order the Rajmala's king-list ("Ratna did not stand at the beginning"), corroborated by D.C. Sircar's inscriptions. *(numismatics; scholarly innovation)*
+
+**IV. Ink, Exile and Light**
+10. **Govinda Manikya Returns from Arakan** ✅ — the king exiled by a Mughal-backed brother, his flight through the Chittagong Hill Tracts to Arakan and return, the poet-king "holding the kingdom on a page" (later Tagore's *Rajarshi*). *(exile; literature)*
+11. **Bir Chandra Opens the Photo Factory** ✅ — the pioneer photographer-king's palace *Fotoka Karkhana*, planned Agartala and the Umakanta Academy. *(photography; modernity)*
+12. **Radha Kishore Builds and Funds Science** ✅ — rebuilding Ujjayanta Palace after the 1897 earthquake while quietly funding Jagadish Chandra Bose's science and Rabindranath Tagore. *(science patronage)*
+
+**V. The Last Threshold**
+13. **Bir Bikram's Reserve and the Merger** ✅ — the last king's Neermahal, college and tribal land reserve, and the regent Kanchan Prava Devi signing the 1949 merger under Partition's demographic pressure — the refugees' loss and the tribes' land-fear both told. *(accession; a hard modern truth)*
+
 ## 🐉 The Manipur Kingdom and the Eastern Frontier  *(Ancient → colonial — c. 33 CE–1949, the Meitei valley of Kangla & the Indo-Burmese frontier)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 The ~1,900-year story of the Meitei valley kingdom of Kangla — an under-told north-eastern civilisation with its own script, royal chronicle, written constitution and serpent-dragon cosmology — told from its own sources (the *Cheitharol Kumbaba* court chronicle, Meitei Mayek copper-plates) held against Burmese and British records, refusing both the founding-myths and the colonial "rebellion" frame, and giving its women, fisherfolk and scribes equal weight with its kings.
