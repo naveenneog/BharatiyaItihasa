@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🎭 Harsha and the Age of Kannauj  *(Classical — c. 590–647 CE, the Pushyabhuti empire of the northern plains)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The last great classical north-Indian empire, reconstructed from four clashing witnesses — Banabhatta's *Harshacharita*, Xuanzang's eyewitness travelogue, Harsha's own copper plates, and the Chinese Tang annals — each read against the others; hard on the panegyric, honest that the plates show a Shaiva king where the legend remembers a Buddhist, and giving a queen, a poet, a pilgrim and a foreign envoy equal weight with the emperor.
+
+**I. A Kingdom From Kurukshetra**
+1. **Prabhakaravardhana and the Lion of Thanesar** ✅ — Harsha's father raising the Vardhana house from a frontier garrison to an imperial claimant, the Huna wars and the archaeology of Harsh ka Tila; source-critical about Bana's praise. *(founding)*
+2. **Rajyashri and the Fire She Refused** ✅ — Harsha's sister as her own agent: widowed queen of Kannauj, imprisoned, fled to the Vindhya forest; the near-sati told as Bana's courtly literary drama, not reportage, and her own choice of the Buddhist robe (per Xuanzang). *(a woman's story; source-criticism — a dedup swap for the built accession tale)*
+
+**II. The Architecture of Empire**
+3. **Hangsavega Brings the Eastern Alliance** ✅ — the Kamarupa king Bhaskaravarman's envoy sealing the anti-Gauda alliance, from the *Harshacharita* and the Nidhanpur plates. *(diplomacy)*
+4. **The White City on the Ganga** ✅ — Kannauj (Kanyakubja) as Harsha's inherited capital, Xuanzang's description, honest about the city's caste geography. *(capital; urban life)*
+
+**III. Craft of Rule**
+5. **The King Who Wrote His Copper Plate** ✅ — the Sonepat, Banskhera and Madhuban charters and the Banskhera autograph ("written by Harsha's own hand"); source-critical on the claim. *(administration; epigraphy)*
+6. **The Roadside House with Medicine and Rice** ✅ — Harsha's charitable rest-houses with free food and physicians (Xuanzang), in the older Ashokan idea of royal duty, served without caste. *(social welfare)*
+7. **The Five-Year Gift at Prayag** ✅ — the quinquennial Moksha Parishad where the emperor gave away his treasury to monks, Brahmins, Jains and the poor; redistribution as both piety and statecraft. *(charity; religious policy)*
+
+**IV. The Written World**
+8. **Bana Meets the King** ✅ — Banabhatta's own autobiography and cold first reception at court, and the *Harshacharita*, India's early court biography; the panegyric that "still troubles historians." *(literature; source-criticism)*
+9. **The Parrot's Endless Story** ✅ — the *Kadambari*, Bana's nested-narrative romance with its parrot narrator and reincarnation-linked lovers, left unfinished at his death and completed by his son Bhushanabhatta. *(literature)*
+10. **The Emperor Writes a Play** ✅ — the *Nagananda*, *Ratnavali* and *Priyadarsika*, with the authorship question kept open (Harsha or the court poet Dhavaka, per the *Kavyaprakasha*). *(drama; attribution)*
+
+**V. India Meets the World**
+11. **The Monk Who Linked Two Emperors** ✅ — Xuanzang's illegal 629 CE departure past the Tang travel ban, the Silk-Road journey and the *Da Tang Xiyu Ji* that bound Kannauj to Chang'an. *(pilgrimage; cross-cultural)*
+12. **Wang Xuance's Borrowed Army** ✅ — after Harsha's heirless death, the ambushed Tang envoy who raised a Tibetan-Nepalese army against the usurper Arunasva; Chinese record against Indian silence. *(aftermath; source-criticism)*
+13. **Four Windows on One King** ✅ — the historiography capstone: how the poet, the pilgrim, the copper plates and the foreign annals each give a different Harsha, and how a Shaiva-by-inscription, Buddhist-by-legend king is reassembled across thirteen centuries. *(historiography)*
+
 ## 🌲 The Gonds of Garha-Katanga  *(Medieval → colonial — c. 1400–1857, the Gond forest-kingdom of the Narmada–Satpura)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 The five-century arc of the Gond (Koitur) kingdom of Garha-Katanga / Garha-Mandla — a tribal forest-state usually reduced to a footnote — reconstructed from the Persian *Akbarnama*, Gond bardic memory, coins, inscriptions and colonial gazetteers held against one another; centring its adivasi statecraft, its warrior-queen and its poets, hard on Mughal and British conquest alike, and refusing to romanticise or erase.
