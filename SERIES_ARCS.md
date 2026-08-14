@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🌲 The Gonds of Garha-Katanga  *(Medieval → colonial — c. 1400–1857, the Gond forest-kingdom of the Narmada–Satpura)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The five-century arc of the Gond (Koitur) kingdom of Garha-Katanga / Garha-Mandla — a tribal forest-state usually reduced to a footnote — reconstructed from the Persian *Akbarnama*, Gond bardic memory, coins, inscriptions and colonial gazetteers held against one another; centring its adivasi statecraft, its warrior-queen and its poets, hard on Mughal and British conquest alike, and refusing to romanticise or erase.
+
+**I. The Forest Kingdom Rises**
+1. **Jadurai's Dawn in the Narmada Forests** ✅ — the founder the stones are silent about ("a story told backwards from a later court"), the Gond state grounded in the forest economy of iron, elephants and timber (Russell & Hira Lal, Sumit Guha). *(founding; source-criticism)*
+2. **Sangram Shah and the Fifty-Two Forts** ✅ — the consolidator of Garha-Katanga, its fort/village numbers flagged as "formulaic," a caravan-tax economy and Sanskrit patronage. *(state-building)*
+3. **Dalpat Shah's Chandela Alliance** ✅ — the Gond–Chandela marriage of Dalpat Shah and Durgavati, source-critical on his contested parentage (Gond tradition vs the *Akbarnama*) and ballad-romance vs attested fact. *(alliance)*
+
+**II. Queens, Battles and Hard Truths**
+4. **Rani Durgavati Builds the Hill Kingdom** ✅ — the warrior-queen as builder-regent (governance, the tanks) before the war. *(governance)*
+5. **Baz Bahadur Meets the Gond Defenses** ✅ — the c. 1556 repulse of the music-loving Malwa sultan (portrayed fairly), terrain-as-ally, "the records do not name a battlefield." *(defence)*
+6. **Chauragarh Falls and the Fire Behind the Gates** ✅ — after Narrai, Durgavati's son Vir Narayan holds the fort; the jauhar told with sober dual-source restraint, and Asaf Khan's greed stated plainly (only ~200 of ~1,000 elephants sent to Akbar). *(the core directive on the victor)*
+
+**III. Forts, Water and Work**
+7. **Chandra Shah Bargains After the Fall** ✅ — Mughal indirect rule restores a reduced Garha to Durgavati's brother-in-law, refusing "restoration as benevolence." *(subordination)*
+8. **The Garh-Chaurasi Code** ✅ — the Gond federal system (garh → chaurasi / eighty-four villages → barhot) of reciprocal obligation and forest-resource control (Sumit Guha). *(administrative innovation)*
+9. **Durgavati's Tanks and the Water Kingdom** ✅ — the queen and her diwan Adhar Kayastha build the Ranital and Adhartal tanks; honest about the anonymous hands that lifted the earth. *(hydraulic economy)*
+
+**IV. Songs, Books and Courtly Minds**
+10. **Pardhan Bards Keep the Gond Memory** ✅ — the Pardhan bardic archive (the *kingri* fiddle) that keeps genealogy where writing is silent, its land-rights stakes "as real as tax and grain" (Verrier Elwin, Fürer-Haimendorf). *(oral tradition)*
+11. **Sangram Shah's Sanskrit Court** ✅ — the forest king in the Sanskrit cosmopolis, appropriately hedging the debated link to the poet Bhanudatta Misra. *(scholarly patronage)*
+12. **Hridayshah, Musician of Mandla** ✅ — the reduced kingdom that chose palaces, pedigrees and song over war — Ramnagar's Moti Mahal and a Gond–Mughal path "between submission and survival." *(architecture; diplomacy)*
+
+**V. Tributaries, Empires and Afterlife**
+13. **Shankar Shah's Last Poem** ✅ — the pensioned Gond raja and his son blown from cannon at Jabalpur in 1857 for his verse; source-critical on the evidence and the revolt's wider roots (Bayly, Stokes), non-communal. *(1857; the core directive on a colonial execution)*
+
 ## 💠 The Tripura Manikya Kingdom  *(Medieval → modern — c. 1400–1949, the Manikya hill-kingdom of the eastern frontier)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 The five-century arc of the Manikya dynasty of Tripura — a hill kingdom on the Bengal–Arakan frontier with its own royal chronicle (the *Rajmala*), silver coinage and Kokborok-speaking Tipra roots — told from its own court chronicle held against Bengal, Mughal, Arakanese and even Chinese records, and, crucially, against its own coins; hard on its kings' contested conquests, honest about coercion and the 1949 merger, and giving artisans, scholars and tribal communities equal weight with the crown.
