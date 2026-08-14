@@ -1,0 +1,4122 @@
+{
+  "id": "what_the_metal_knows",
+  "title": "What the Metal Knows",
+  "title_i18n": {
+    "en": "What the Metal Knows",
+    "hi": "धातु का राज़"
+  },
+  "figure": "Bhoja of Dhara",
+  "era": "Scientific and technical texts attributed to Bhoja's court, c. 1010-1055 CE",
+  "moral": "Curiosity becomes service when it heals, measures, and guides.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/what_the_metal_knows/intro/hero.png",
+      "name": "Bhoja of Dhara",
+      "epithets": [
+        "Bhoja of Dhara",
+        "Raja Bhoja",
+        "Paramara King of Malwa",
+        "Patron of Learning"
+      ],
+      "legend": "The king who turned every science into a tool for life.",
+      "era": "Scientific and technical texts attributed to Bhoja's court, c. 1010-1055 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On Bhoja's anvil, metal, stars, breath, and horses all became lessons. Was he just a warrior king, or a maker of tools that could measure, heal, and guide a whole land?",
+            "hi": "भोज की निहाई पर लोहा, तारे, सांसें, घोड़े — सब सबक बन गए।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/intro/hero_en.mp3",
+            "hi": "assets/what_the_metal_knows/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 72.0,
+                "d": 250.0
+              },
+              {
+                "w": "Bhoja's",
+                "t": 322.0,
+                "d": 500.0
+              },
+              {
+                "w": "anvil",
+                "t": 822.0,
+                "d": 833.0
+              },
+              {
+                "w": "metal",
+                "t": 1656.0,
+                "d": 666.0
+              },
+              {
+                "w": "stars",
+                "t": 2364.0,
+                "d": 833.0
+              },
+              {
+                "w": "breath",
+                "t": 3322.0,
+                "d": 583.0
+              },
+              {
+                "w": "and",
+                "t": 4030.0,
+                "d": 334.0
+              },
+              {
+                "w": "horses",
+                "t": 4364.0,
+                "d": 750.0
+              },
+              {
+                "w": "all",
+                "t": 5281.0,
+                "d": 333.0
+              },
+              {
+                "w": "became",
+                "t": 5614.0,
+                "d": 375.0
+              },
+              {
+                "w": "lessons",
+                "t": 5989.0,
+                "d": 666.0
+              },
+              {
+                "w": "Was",
+                "t": 7656.0,
+                "d": 250.0
+              },
+              {
+                "w": "he",
+                "t": 7906.0,
+                "d": 125.0
+              },
+              {
+                "w": "just",
+                "t": 8031.0,
+                "d": 332.0
+              },
+              {
+                "w": "a",
+                "t": 8363.0,
+                "d": 41.0
+              },
+              {
+                "w": "warrior",
+                "t": 8405.0,
+                "d": 459.0
+              },
+              {
+                "w": "king",
+                "t": 8864.0,
+                "d": 665.0
+              },
+              {
+                "w": "or",
+                "t": 9613.0,
+                "d": 209.0
+              },
+              {
+                "w": "a",
+                "t": 9822.0,
+                "d": 83.0
+              },
+              {
+                "w": "maker",
+                "t": 9906.0,
+                "d": 333.0
+              },
+              {
+                "w": "of",
+                "t": 10239.0,
+                "d": 208.0
+              },
+              {
+                "w": "tools",
+                "t": 10447.0,
+                "d": 333.0
+              },
+              {
+                "w": "that",
+                "t": 10781.0,
+                "d": 207.0
+              },
+              {
+                "w": "could",
+                "t": 10988.0,
+                "d": 209.0
+              },
+              {
+                "w": "measure",
+                "t": 11197.0,
+                "d": 1583.0
+              },
+              {
+                "w": "heal",
+                "t": 12781.0,
+                "d": 166.0
+              },
+              {
+                "w": "and",
+                "t": 12947.0,
+                "d": 207.0
+              },
+              {
+                "w": "guide",
+                "t": 13155.0,
+                "d": 417.0
+              },
+              {
+                "w": "a",
+                "t": 13613.0,
+                "d": 126.0
+              },
+              {
+                "w": "whole",
+                "t": 13739.0,
+                "d": 333.0
+              },
+              {
+                "w": "land",
+                "t": 14072.0,
+                "d": 500.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/what_the_metal_knows/intro/map.png",
+      "x": 0.42,
+      "y": 0.38,
+      "label": "Dhara, Malwa",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here in the Malwa highlands, Bhoja's court forged books where metal, bodies, and stars were tested like steel.",
+            "hi": "मालवा की ऊंची धरती पर भोज की सभा ने ऐसी किताबें गढ़ीं, जहाँ धातु, देह और तारे भी इस्पात की तरह कसे जाते थे।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/intro/map_en.mp3",
+            "hi": "assets/what_the_metal_knows/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "in",
+                "t": 448.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 586.0,
+                "d": 137.0
+              },
+              {
+                "w": "Malwa",
+                "t": 724.0,
+                "d": 459.0
+              },
+              {
+                "w": "highlands",
+                "t": 1183.0,
+                "d": 735.0
+              },
+              {
+                "w": "Bhoja's",
+                "t": 2195.0,
+                "d": 735.0
+              },
+              {
+                "w": "court",
+                "t": 2931.0,
+                "d": 320.0
+              },
+              {
+                "w": "forged",
+                "t": 3251.0,
+                "d": 414.0
+              },
+              {
+                "w": "books",
+                "t": 3666.0,
+                "d": 367.0
+              },
+              {
+                "w": "where",
+                "t": 4034.0,
+                "d": 229.0
+              },
+              {
+                "w": "metal",
+                "t": 4264.0,
+                "d": 735.0
+              },
+              {
+                "w": "bodies",
+                "t": 5000.0,
+                "d": 873.0
+              },
+              {
+                "w": "and",
+                "t": 5873.0,
+                "d": 321.0
+              },
+              {
+                "w": "stars",
+                "t": 6195.0,
+                "d": 459.0
+              },
+              {
+                "w": "were",
+                "t": 6655.0,
+                "d": 183.0
+              },
+              {
+                "w": "tested",
+                "t": 6839.0,
+                "d": 505.0
+              },
+              {
+                "w": "like",
+                "t": 7344.0,
+                "d": 229.0
+              },
+              {
+                "w": "steel",
+                "t": 7574.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/what_the_metal_knows/img/cover.png",
+      "shot": "dramatic three-quarter view of Bhoja in his court observatory, stars overhead, shelves of manuscripts and metal vessels around him",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Bhoja's Malwa, metals, horses, breath, and stars were not tales but tools, and the king's name shone on science as brightly as on war.",
+            "hi": "भोज के मालवा में धातु, घोड़े, प्राण और तारे—किस्से नहीं, औज़ार थे। राजा का नाम युद्ध जितना ही विज्ञान पर भी चमकता था।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/cover_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "Bhoja's",
+                "t": 310.0,
+                "d": 480.0
+              },
+              {
+                "w": "Malwa",
+                "t": 790.0,
+                "d": 640.0
+              },
+              {
+                "w": "metals",
+                "t": 1510.0,
+                "d": 720.0
+              },
+              {
+                "w": "horses",
+                "t": 2309.0,
+                "d": 841.0
+              },
+              {
+                "w": "breath",
+                "t": 3230.0,
+                "d": 719.0
+              },
+              {
+                "w": "and",
+                "t": 3949.0,
+                "d": 321.0
+              },
+              {
+                "w": "stars",
+                "t": 4270.0,
+                "d": 400.0
+              },
+              {
+                "w": "were",
+                "t": 4670.0,
+                "d": 160.0
+              },
+              {
+                "w": "not",
+                "t": 4830.0,
+                "d": 200.0
+              },
+              {
+                "w": "tales",
+                "t": 5030.0,
+                "d": 360.0
+              },
+              {
+                "w": "but",
+                "t": 5390.0,
+                "d": 160.0
+              },
+              {
+                "w": "tools",
+                "t": 5550.0,
+                "d": 720.0
+              },
+              {
+                "w": "and",
+                "t": 6510.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 6790.0,
+                "d": 120.0
+              },
+              {
+                "w": "king's",
+                "t": 6910.0,
+                "d": 280.0
+              },
+              {
+                "w": "name",
+                "t": 7190.0,
+                "d": 280.0
+              },
+              {
+                "w": "shone",
+                "t": 7470.0,
+                "d": 400.0
+              },
+              {
+                "w": "on",
+                "t": 7870.0,
+                "d": 199.0
+              },
+              {
+                "w": "science",
+                "t": 8069.0,
+                "d": 640.0
+              },
+              {
+                "w": "as",
+                "t": 8790.0,
+                "d": 279.0
+              },
+              {
+                "w": "brightly",
+                "t": 9069.0,
+                "d": 721.0
+              },
+              {
+                "w": "as",
+                "t": 9790.0,
+                "d": 240.0
+              },
+              {
+                "w": "on",
+                "t": 10030.0,
+                "d": 119.0
+              },
+              {
+                "w": "war",
+                "t": 10149.0,
+                "d": 480.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/what_the_metal_knows/img/p01.png",
+      "shot": "slow push-in from palace skyline to inner library, dusk light slanting in",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Chronicles call Bhoja a conqueror, a temple-builder, a poet. But the shelves of Dhara whisper of another Bhoja, the patron whose court turned Sanskrit into instruments of craft, cure, and calculation.",
+            "hi": "इतिहास भोज को विजेता, मंदिर-निर्माता, कवि कहता है। पर धार की अलमारियाँ एक और भोज की फुसफुसाहट करती हैं—वो सरपरस्त, जिसने संस्कृत को कारीगरी, इलाज और गणना का औज़ार बनाया।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p01_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Chronicles",
+                "t": 80.0,
+                "d": 689.0
+              },
+              {
+                "w": "call",
+                "t": 770.0,
+                "d": 321.0
+              },
+              {
+                "w": "Bhoja",
+                "t": 1091.0,
+                "d": 413.0
+              },
+              {
+                "w": "a",
+                "t": 1505.0,
+                "d": 321.0
+              },
+              {
+                "w": "conqueror",
+                "t": 1827.0,
+                "d": 735.0
+              },
+              {
+                "w": "a",
+                "t": 2791.0,
+                "d": 185.0
+              },
+              {
+                "w": "temple-builder",
+                "t": 2977.0,
+                "d": 872.0
+              },
+              {
+                "w": "a",
+                "t": 4034.0,
+                "d": 275.0
+              },
+              {
+                "w": "poet",
+                "t": 4310.0,
+                "d": 689.0
+              },
+              {
+                "w": "But",
+                "t": 5689.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 5873.0,
+                "d": 137.0
+              },
+              {
+                "w": "shelves",
+                "t": 6011.0,
+                "d": 459.0
+              },
+              {
+                "w": "of",
+                "t": 6471.0,
+                "d": 183.0
+              },
+              {
+                "w": "Dhara",
+                "t": 6655.0,
+                "d": 459.0
+              },
+              {
+                "w": "whisper",
+                "t": 7114.0,
+                "d": 597.0
+              },
+              {
+                "w": "of",
+                "t": 7712.0,
+                "d": 183.0
+              },
+              {
+                "w": "another",
+                "t": 7896.0,
+                "d": 367.0
+              },
+              {
+                "w": "Bhoja",
+                "t": 8264.0,
+                "d": 873.0
+              },
+              {
+                "w": "the",
+                "t": 9320.0,
+                "d": 229.0
+              },
+              {
+                "w": "patron",
+                "t": 9550.0,
+                "d": 506.0
+              },
+              {
+                "w": "whose",
+                "t": 10057.0,
+                "d": 229.0
+              },
+              {
+                "w": "court",
+                "t": 10287.0,
+                "d": 367.0
+              },
+              {
+                "w": "turned",
+                "t": 10655.0,
+                "d": 367.0
+              },
+              {
+                "w": "Sanskrit",
+                "t": 11022.0,
+                "d": 734.0
+              },
+              {
+                "w": "into",
+                "t": 11804.0,
+                "d": 367.0
+              },
+              {
+                "w": "instruments",
+                "t": 12172.0,
+                "d": 734.0
+              },
+              {
+                "w": "of",
+                "t": 12906.0,
+                "d": 231.0
+              },
+              {
+                "w": "craft",
+                "t": 13137.0,
+                "d": 826.0
+              },
+              {
+                "w": "cure",
+                "t": 14011.0,
+                "d": 781.0
+              },
+              {
+                "w": "and",
+                "t": 14793.0,
+                "d": 367.0
+              },
+              {
+                "w": "calculation",
+                "t": 15160.0,
+                "d": 919.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/what_the_metal_knows/img/p02.png",
+      "shot": "medium shot over Bhoja’s shoulder to stacked palm-leaf bundles, titles faintly suggested by careful knots and seals",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Some works claim Bhoja's own pen. Others speak in the voice of his sabha, written under his eye or in his name. Historians trace the corpus with care, for courtly fame draws many texts to a king's shadow.",
+            "hi": "कुछ ग्रंथ खुद भोज की कलम मानते हैं, कुछ उनकी सभा की आवाज़ हैं, उनकी नज़र में या उनके नाम से लिखे। इतिहासकार इस भंडार को सधे क़दम से पढ़ते हैं—दरबारी शोहरत कई ग्रंथों को राजा की छाया खींच लाती है।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p02_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Some",
+                "t": 80.0,
+                "d": 413.0
+              },
+              {
+                "w": "works",
+                "t": 494.0,
+                "d": 413.0
+              },
+              {
+                "w": "claim",
+                "t": 908.0,
+                "d": 367.0
+              },
+              {
+                "w": "Bhoja's",
+                "t": 1275.0,
+                "d": 689.0
+              },
+              {
+                "w": "own",
+                "t": 1965.0,
+                "d": 413.0
+              },
+              {
+                "w": "pen",
+                "t": 2379.0,
+                "d": 597.0
+              },
+              {
+                "w": "Others",
+                "t": 3574.0,
+                "d": 412.0
+              },
+              {
+                "w": "speak",
+                "t": 3987.0,
+                "d": 413.0
+              },
+              {
+                "w": "in",
+                "t": 4401.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 4493.0,
+                "d": 139.0
+              },
+              {
+                "w": "voice",
+                "t": 4632.0,
+                "d": 321.0
+              },
+              {
+                "w": "of",
+                "t": 4954.0,
+                "d": 183.0
+              },
+              {
+                "w": "his",
+                "t": 5137.0,
+                "d": 137.0
+              },
+              {
+                "w": "sabha",
+                "t": 5275.0,
+                "d": 551.0
+              },
+              {
+                "w": "written",
+                "t": 6287.0,
+                "d": 505.0
+              },
+              {
+                "w": "under",
+                "t": 6839.0,
+                "d": 321.0
+              },
+              {
+                "w": "his",
+                "t": 7160.0,
+                "d": 229.0
+              },
+              {
+                "w": "eye",
+                "t": 7390.0,
+                "d": 137.0
+              },
+              {
+                "w": "or",
+                "t": 7528.0,
+                "d": 91.0
+              },
+              {
+                "w": "in",
+                "t": 7620.0,
+                "d": 413.0
+              },
+              {
+                "w": "his",
+                "t": 8080.0,
+                "d": 413.0
+              },
+              {
+                "w": "name",
+                "t": 8494.0,
+                "d": 551.0
+              },
+              {
+                "w": "Historians",
+                "t": 9826.0,
+                "d": 873.0
+              },
+              {
+                "w": "trace",
+                "t": 10700.0,
+                "d": 322.0
+              },
+              {
+                "w": "the",
+                "t": 11022.0,
+                "d": 136.0
+              },
+              {
+                "w": "corpus",
+                "t": 11159.0,
+                "d": 460.0
+              },
+              {
+                "w": "with",
+                "t": 11620.0,
+                "d": 228.0
+              },
+              {
+                "w": "care",
+                "t": 11849.0,
+                "d": 828.0
+              },
+              {
+                "w": "for",
+                "t": 12678.0,
+                "d": 320.0
+              },
+              {
+                "w": "courtly",
+                "t": 12998.0,
+                "d": 459.0
+              },
+              {
+                "w": "fame",
+                "t": 13458.0,
+                "d": 413.0
+              },
+              {
+                "w": "draws",
+                "t": 13872.0,
+                "d": 367.0
+              },
+              {
+                "w": "many",
+                "t": 14240.0,
+                "d": 414.0
+              },
+              {
+                "w": "texts",
+                "t": 14655.0,
+                "d": 413.0
+              },
+              {
+                "w": "to",
+                "t": 15068.0,
+                "d": 551.0
+              },
+              {
+                "w": "a",
+                "t": 15620.0,
+                "d": 91.0
+              },
+              {
+                "w": "king's",
+                "t": 15712.0,
+                "d": 367.0
+              },
+              {
+                "w": "shadow",
+                "t": 16080.0,
+                "d": 642.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/what_the_metal_knows/img/p03.png",
+      "shot": "low-angle shot of Bhoja addressing assembled scholars in a pillared hall",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Under Bhoja, Malwa's court invited many disciplines: yoga-commentators, horse-physicians, astronomers, and rasashastra chemists. Their texts linked royal power with practical knowledge.",
+            "hi": "भोज के तहत मालवा दरबार ने कई विधाओं को बुलाया—योग व्याख्याकार, अश्व-वैद्य, ज्योतिषी, रसशास्त्र रसायनज्ञ। उनके ग्रंथों ने राज-सत्ता को काम के ज्ञान से जोड़ा।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p03_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Under",
+                "t": 159.0,
+                "d": 340.0
+              },
+              {
+                "w": "Bhoja",
+                "t": 500.0,
+                "d": 851.0
+              },
+              {
+                "w": "Malwa's",
+                "t": 1393.0,
+                "d": 638.0
+              },
+              {
+                "w": "court",
+                "t": 2031.0,
+                "d": 297.0
+              },
+              {
+                "w": "invited",
+                "t": 2329.0,
+                "d": 595.0
+              },
+              {
+                "w": "many",
+                "t": 2925.0,
+                "d": 340.0
+              },
+              {
+                "w": "disciplines",
+                "t": 3265.0,
+                "d": 1148.0
+              },
+              {
+                "w": "yoga-commentators",
+                "t": 4542.0,
+                "d": 1319.0
+              },
+              {
+                "w": "horse-physicians",
+                "t": 6287.0,
+                "d": 1063.0
+              },
+              {
+                "w": "astronomers",
+                "t": 7648.0,
+                "d": 1105.0
+              },
+              {
+                "w": "and",
+                "t": 8754.0,
+                "d": 425.0
+              },
+              {
+                "w": "rasashastra",
+                "t": 9179.0,
+                "d": 553.0
+              },
+              {
+                "w": "chemists",
+                "t": 9732.0,
+                "d": 809.0
+              },
+              {
+                "w": "Their",
+                "t": 11010.0,
+                "d": 381.0
+              },
+              {
+                "w": "texts",
+                "t": 11392.0,
+                "d": 511.0
+              },
+              {
+                "w": "linked",
+                "t": 11904.0,
+                "d": 340.0
+              },
+              {
+                "w": "royal",
+                "t": 12244.0,
+                "d": 425.0
+              },
+              {
+                "w": "power",
+                "t": 12670.0,
+                "d": 468.0
+              },
+              {
+                "w": "with",
+                "t": 13179.0,
+                "d": 213.0
+              },
+              {
+                "w": "practical",
+                "t": 13393.0,
+                "d": 509.0
+              },
+              {
+                "w": "knowledge",
+                "t": 13903.0,
+                "d": 724.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/what_the_metal_knows/img/p04.png",
+      "shot": "intimate interior shot of a small yoga hall, oil lamps flickering, Bhoja seated with a teacher",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Raja-Martanda, a yoga commentary linked to Bhoja's circle, reads like royal instruction: yoga not as miracle, but as a disciplined science of mind, breath, and ethical restraint.",
+            "hi": "भोज-परिसर से जुड़ा योग-ग्रंथ ‘राजमार्तंड’ राज-उपदेश जैसा पढ़ता है—योग कोई चमत्कार नहीं, मन, प्राण और संयम की अनुशासित विज्ञान है।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p04_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Raja-Martanda",
+                "t": 329.0,
+                "d": 893.0
+              },
+              {
+                "w": "a",
+                "t": 1223.0,
+                "d": 255.0
+              },
+              {
+                "w": "yoga",
+                "t": 1734.0,
+                "d": 424.0
+              },
+              {
+                "w": "commentary",
+                "t": 2158.0,
+                "d": 554.0
+              },
+              {
+                "w": "linked",
+                "t": 2712.0,
+                "d": 381.0
+              },
+              {
+                "w": "to",
+                "t": 3094.0,
+                "d": 213.0
+              },
+              {
+                "w": "Bhoja's",
+                "t": 3308.0,
+                "d": 595.0
+              },
+              {
+                "w": "circle",
+                "t": 3904.0,
+                "d": 468.0
+              },
+              {
+                "w": "reads",
+                "t": 4797.0,
+                "d": 468.0
+              },
+              {
+                "w": "like",
+                "t": 5265.0,
+                "d": 212.0
+              },
+              {
+                "w": "royal",
+                "t": 5478.0,
+                "d": 297.0
+              },
+              {
+                "w": "instruction",
+                "t": 5776.0,
+                "d": 1361.0
+              },
+              {
+                "w": "yoga",
+                "t": 7138.0,
+                "d": 723.0
+              },
+              {
+                "w": "not",
+                "t": 7904.0,
+                "d": 340.0
+              },
+              {
+                "w": "as",
+                "t": 8244.0,
+                "d": 170.0
+              },
+              {
+                "w": "miracle",
+                "t": 8414.0,
+                "d": 638.0
+              },
+              {
+                "w": "but",
+                "t": 9264.0,
+                "d": 298.0
+              },
+              {
+                "w": "as",
+                "t": 9563.0,
+                "d": 169.0
+              },
+              {
+                "w": "a",
+                "t": 9732.0,
+                "d": 85.0
+              },
+              {
+                "w": "disciplined",
+                "t": 9818.0,
+                "d": 596.0
+              },
+              {
+                "w": "science",
+                "t": 10414.0,
+                "d": 381.0
+              },
+              {
+                "w": "of",
+                "t": 10796.0,
+                "d": 170.0
+              },
+              {
+                "w": "mind",
+                "t": 10967.0,
+                "d": 724.0
+              },
+              {
+                "w": "breath",
+                "t": 11691.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 12542.0,
+                "d": 296.0
+              },
+              {
+                "w": "ethical",
+                "t": 12839.0,
+                "d": 425.0
+              },
+              {
+                "w": "restraint",
+                "t": 13264.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/what_the_metal_knows/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/what_the_metal_knows/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "News of border unrest turns Bhoja from scholar to strategist, his gaze measuring the land as though it were another text to master.",
+            "hi": "सीमा पर तनाव की खबर सुनते ही भोज विद्वान से रणनीतिकार बन गया, नज़रें ज़मीन को ऐसे तौल रहीं मानो कोई और किताब हो जीतने की।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/action/action_auto_en.mp3",
+            "hi": "assets/what_the_metal_knows/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "News",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 448.0,
+                "d": 183.0
+              },
+              {
+                "w": "border",
+                "t": 632.0,
+                "d": 459.0
+              },
+              {
+                "w": "unrest",
+                "t": 1091.0,
+                "d": 781.0
+              },
+              {
+                "w": "turns",
+                "t": 1919.0,
+                "d": 412.0
+              },
+              {
+                "w": "Bhoja",
+                "t": 2332.0,
+                "d": 552.0
+              },
+              {
+                "w": "from",
+                "t": 2885.0,
+                "d": 275.0
+              },
+              {
+                "w": "scholar",
+                "t": 3160.0,
+                "d": 459.0
+              },
+              {
+                "w": "to",
+                "t": 3620.0,
+                "d": 137.0
+              },
+              {
+                "w": "strategist",
+                "t": 3758.0,
+                "d": 1103.0
+              },
+              {
+                "w": "his",
+                "t": 4908.0,
+                "d": 321.0
+              },
+              {
+                "w": "gaze",
+                "t": 5229.0,
+                "d": 413.0
+              },
+              {
+                "w": "measuring",
+                "t": 5643.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 6103.0,
+                "d": 137.0
+              },
+              {
+                "w": "land",
+                "t": 6241.0,
+                "d": 689.0
+              },
+              {
+                "w": "as",
+                "t": 6977.0,
+                "d": 275.0
+              },
+              {
+                "w": "though",
+                "t": 7252.0,
+                "d": 275.0
+              },
+              {
+                "w": "it",
+                "t": 7528.0,
+                "d": 91.0
+              },
+              {
+                "w": "were",
+                "t": 7620.0,
+                "d": 275.0
+              },
+              {
+                "w": "another",
+                "t": 7896.0,
+                "d": 413.0
+              },
+              {
+                "w": "text",
+                "t": 8310.0,
+                "d": 367.0
+              },
+              {
+                "w": "to",
+                "t": 8678.0,
+                "d": 183.0
+              },
+              {
+                "w": "master",
+                "t": 8862.0,
+                "d": 735.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/what_the_metal_knows/img/p05.png",
+      "shot": "close-up of Bhoja’s face in lamp light as he listens to the yogin",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, Bhoja's name stands beside Patanjali's. The commentary turns terse aphorisms into royal guidance, how to steady attention, how to measure breath, how to treat inner states with the same care as outer wounds.",
+            "hi": "यहाँ भोज का नाम पातंजलि के साथ खड़ा है। व्याख्या सूक्तियों को राज-मार्गदर्शन बनाती है—ध्यान कैसे टिके, श्वास कैसे नापें, भीतर की दशाओं का उपचार भी बाहर के घाव जैसी सावधानी से कैसे करें।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p05_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "Bhoja's",
+                "t": 968.0,
+                "d": 595.0
+              },
+              {
+                "w": "name",
+                "t": 1563.0,
+                "d": 255.0
+              },
+              {
+                "w": "stands",
+                "t": 1819.0,
+                "d": 510.0
+              },
+              {
+                "w": "beside",
+                "t": 2329.0,
+                "d": 425.0
+              },
+              {
+                "w": "Patanjali's",
+                "t": 2755.0,
+                "d": 935.0
+              },
+              {
+                "w": "The",
+                "t": 4414.0,
+                "d": 212.0
+              },
+              {
+                "w": "commentary",
+                "t": 4627.0,
+                "d": 553.0
+              },
+              {
+                "w": "turns",
+                "t": 5180.0,
+                "d": 1063.0
+              },
+              {
+                "w": "terse",
+                "t": 6542.0,
+                "d": 212.0
+              },
+              {
+                "w": "aphorisms",
+                "t": 6755.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 7138.0,
+                "d": 297.0
+              },
+              {
+                "w": "royal",
+                "t": 7436.0,
+                "d": 297.0
+              },
+              {
+                "w": "guidance",
+                "t": 7734.0,
+                "d": 765.0
+              },
+              {
+                "w": "how",
+                "t": 8839.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 9094.0,
+                "d": 128.0
+              },
+              {
+                "w": "steady",
+                "t": 9223.0,
+                "d": 382.0
+              },
+              {
+                "w": "attention",
+                "t": 9606.0,
+                "d": 936.0
+              },
+              {
+                "w": "how",
+                "t": 10627.0,
+                "d": 339.0
+              },
+              {
+                "w": "to",
+                "t": 10967.0,
+                "d": 128.0
+              },
+              {
+                "w": "measure",
+                "t": 11095.0,
+                "d": 340.0
+              },
+              {
+                "w": "breath",
+                "t": 11436.0,
+                "d": 723.0
+              },
+              {
+                "w": "how",
+                "t": 12244.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 12627.0,
+                "d": 127.0
+              },
+              {
+                "w": "treat",
+                "t": 12755.0,
+                "d": 339.0
+              },
+              {
+                "w": "inner",
+                "t": 13138.0,
+                "d": 296.0
+              },
+              {
+                "w": "states",
+                "t": 13435.0,
+                "d": 468.0
+              },
+              {
+                "w": "with",
+                "t": 13903.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 14073.0,
+                "d": 128.0
+              },
+              {
+                "w": "same",
+                "t": 14202.0,
+                "d": 340.0
+              },
+              {
+                "w": "care",
+                "t": 14542.0,
+                "d": 424.0
+              },
+              {
+                "w": "as",
+                "t": 15010.0,
+                "d": 255.0
+              },
+              {
+                "w": "outer",
+                "t": 15307.0,
+                "d": 384.0
+              },
+              {
+                "w": "wounds",
+                "t": 15691.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/what_the_metal_knows/img/p06.png",
+      "shot": "transition shot from inner yoga hall to bustling royal stables, wide and sunlit",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Yet the same court that measured breath also measured hoof and sinew. Shalihotra material tied to Bhoja's realm treated horses with a physician's precision, for cavalry was the spine of his army.",
+            "hi": "पर जिस दरबार ने प्राण नापे, वही खुर और पेशियाँ भी नापता था। भोज-सम्बद्ध शालिहोत्र ग्रंथ घोड़ों का इलाज वैद्य की बारीकी से करते हैं—क्योंकि घुड़सवार सेना ही उसकी फौज की रीढ़ थी।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p06_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Yet",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 120.0
+              },
+              {
+                "w": "same",
+                "t": 430.0,
+                "d": 320.0
+              },
+              {
+                "w": "court",
+                "t": 750.0,
+                "d": 280.0
+              },
+              {
+                "w": "that",
+                "t": 1030.0,
+                "d": 280.0
+              },
+              {
+                "w": "measured",
+                "t": 1310.0,
+                "d": 480.0
+              },
+              {
+                "w": "breath",
+                "t": 1790.0,
+                "d": 280.0
+              },
+              {
+                "w": "also",
+                "t": 2070.0,
+                "d": 440.0
+              },
+              {
+                "w": "measured",
+                "t": 2510.0,
+                "d": 479.0
+              },
+              {
+                "w": "hoof",
+                "t": 2989.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 3429.0,
+                "d": 241.0
+              },
+              {
+                "w": "sinew",
+                "t": 3670.0,
+                "d": 440.0
+              },
+              {
+                "w": "Shalihotra",
+                "t": 4910.0,
+                "d": 680.0
+              },
+              {
+                "w": "material",
+                "t": 5590.0,
+                "d": 440.0
+              },
+              {
+                "w": "tied",
+                "t": 6030.0,
+                "d": 280.0
+              },
+              {
+                "w": "to",
+                "t": 6310.0,
+                "d": 120.0
+              },
+              {
+                "w": "Bhoja's",
+                "t": 6430.0,
+                "d": 560.0
+              },
+              {
+                "w": "realm",
+                "t": 6990.0,
+                "d": 680.0
+              },
+              {
+                "w": "treated",
+                "t": 7710.0,
+                "d": 399.0
+              },
+              {
+                "w": "horses",
+                "t": 8109.0,
+                "d": 481.0
+              },
+              {
+                "w": "with",
+                "t": 8590.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 8750.0,
+                "d": 40.0
+              },
+              {
+                "w": "physician's",
+                "t": 8790.0,
+                "d": 560.0
+              },
+              {
+                "w": "precision",
+                "t": 9350.0,
+                "d": 879.0
+              },
+              {
+                "w": "for",
+                "t": 10270.0,
+                "d": 240.0
+              },
+              {
+                "w": "cavalry",
+                "t": 10510.0,
+                "d": 559.0
+              },
+              {
+                "w": "was",
+                "t": 11069.0,
+                "d": 201.0
+              },
+              {
+                "w": "the",
+                "t": 11270.0,
+                "d": 119.0
+              },
+              {
+                "w": "spine",
+                "t": 11389.0,
+                "d": 361.0
+              },
+              {
+                "w": "of",
+                "t": 11750.0,
+                "d": 160.0
+              },
+              {
+                "w": "his",
+                "t": 11910.0,
+                "d": 120.0
+              },
+              {
+                "w": "army",
+                "t": 12030.0,
+                "d": 480.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/what_the_metal_knows/img/p07.png",
+      "shot": "medium shot of Bhoja and a Shalihotra expert examining a horse’s leg",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Shalihotra tradition, older than Bhoja, found new life at Dhara. Texts on equine care listed signs, diets, and treatments, turning the king's stables into laboratories of applied veterinary science.",
+            "hi": "भोज से पहले की शालिहोत्र परंपरा को धार में नया दम मिला। अश्व-देखभाल के ग्रंथ लक्षण, आहार और उपचार गिनते हैं, राजा के अस्तबल को प्रायोगिक पशु-चिकित्सा की प्रयोगशाला बना देते हैं।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p07_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Shalihotra",
+                "t": 117.0,
+                "d": 808.0
+              },
+              {
+                "w": "tradition",
+                "t": 968.0,
+                "d": 893.0
+              },
+              {
+                "w": "older",
+                "t": 1904.0,
+                "d": 468.0
+              },
+              {
+                "w": "than",
+                "t": 2372.0,
+                "d": 211.0
+              },
+              {
+                "w": "Bhoja",
+                "t": 2584.0,
+                "d": 595.0
+              },
+              {
+                "w": "found",
+                "t": 3520.0,
+                "d": 553.0
+              },
+              {
+                "w": "new",
+                "t": 4073.0,
+                "d": 256.0
+              },
+              {
+                "w": "life",
+                "t": 4329.0,
+                "d": 425.0
+              },
+              {
+                "w": "at",
+                "t": 4755.0,
+                "d": 170.0
+              },
+              {
+                "w": "Dhara",
+                "t": 4925.0,
+                "d": 680.0
+              },
+              {
+                "w": "Texts",
+                "t": 6414.0,
+                "d": 468.0
+              },
+              {
+                "w": "on",
+                "t": 6882.0,
+                "d": 127.0
+              },
+              {
+                "w": "equine",
+                "t": 7010.0,
+                "d": 468.0
+              },
+              {
+                "w": "care",
+                "t": 7478.0,
+                "d": 297.0
+              },
+              {
+                "w": "listed",
+                "t": 7776.0,
+                "d": 468.0
+              },
+              {
+                "w": "signs",
+                "t": 8244.0,
+                "d": 764.0
+              },
+              {
+                "w": "diets",
+                "t": 9094.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 9732.0,
+                "d": 213.0
+              },
+              {
+                "w": "treatments",
+                "t": 9946.0,
+                "d": 850.0
+              },
+              {
+                "w": "turning",
+                "t": 11222.0,
+                "d": 384.0
+              },
+              {
+                "w": "the",
+                "t": 11606.0,
+                "d": 169.0
+              },
+              {
+                "w": "king's",
+                "t": 11775.0,
+                "d": 595.0
+              },
+              {
+                "w": "stables",
+                "t": 12414.0,
+                "d": 638.0
+              },
+              {
+                "w": "into",
+                "t": 13053.0,
+                "d": 255.0
+              },
+              {
+                "w": "laboratories",
+                "t": 13308.0,
+                "d": 808.0
+              },
+              {
+                "w": "of",
+                "t": 14117.0,
+                "d": 255.0
+              },
+              {
+                "w": "applied",
+                "t": 14372.0,
+                "d": 553.0
+              },
+              {
+                "w": "veterinary",
+                "t": 14925.0,
+                "d": 722.0
+              },
+              {
+                "w": "science",
+                "t": 15647.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/what_the_metal_knows/img/p08.png",
+      "shot": "darker, close interior of a rasashastra workshop, glinting metal vessels and furnaces",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Raja-Mriganka-Karana, a rasashastra text linked with his court, turns metal into medicine. It lists ores and alloys, furnaces and filters, describing how to purify, combine, and temper substances with almost ritual care.",
+            "hi": "‘राज-मृगांक-करण’, उसके दरबार से जुड़ा रसशास्त्रीय ग्रंथ, धातु को औषधि में बदल देता है। इसमें अयस्क, मिश्रधातुएँ, भट्ठियाँ और छननियाँ हैं—कैसे शुद्ध करें, मिलाएँ, तपाएँ—लगभग अनुष्ठान-सी सावधानी से।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p08_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Raja-Mriganka-Karana",
+                "t": 117.0,
+                "d": 1404.0
+              },
+              {
+                "w": "a",
+                "t": 1521.0,
+                "d": 170.0
+              },
+              {
+                "w": "rasashastra",
+                "t": 2244.0,
+                "d": 595.0
+              },
+              {
+                "w": "text",
+                "t": 2882.0,
+                "d": 425.0
+              },
+              {
+                "w": "linked",
+                "t": 3351.0,
+                "d": 382.0
+              },
+              {
+                "w": "with",
+                "t": 3734.0,
+                "d": 170.0
+              },
+              {
+                "w": "his",
+                "t": 3904.0,
+                "d": 169.0
+              },
+              {
+                "w": "court",
+                "t": 4073.0,
+                "d": 511.0
+              },
+              {
+                "w": "turns",
+                "t": 4882.0,
+                "d": 468.0
+              },
+              {
+                "w": "metal",
+                "t": 5351.0,
+                "d": 340.0
+              },
+              {
+                "w": "into",
+                "t": 5691.0,
+                "d": 255.0
+              },
+              {
+                "w": "medicine",
+                "t": 5946.0,
+                "d": 553.0
+              },
+              {
+                "w": "It",
+                "t": 6968.0,
+                "d": 212.0
+              },
+              {
+                "w": "lists",
+                "t": 7180.0,
+                "d": 468.0
+              },
+              {
+                "w": "ores",
+                "t": 7648.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 8074.0,
+                "d": 212.0
+              },
+              {
+                "w": "alloys",
+                "t": 8287.0,
+                "d": 765.0
+              },
+              {
+                "w": "furnaces",
+                "t": 9308.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 10117.0,
+                "d": 255.0
+              },
+              {
+                "w": "filters",
+                "t": 10372.0,
+                "d": 850.0
+              },
+              {
+                "w": "describing",
+                "t": 11521.0,
+                "d": 638.0
+              },
+              {
+                "w": "how",
+                "t": 12159.0,
+                "d": 170.0
+              },
+              {
+                "w": "to",
+                "t": 12329.0,
+                "d": 170.0
+              },
+              {
+                "w": "purify",
+                "t": 12500.0,
+                "d": 679.0
+              },
+              {
+                "w": "combine",
+                "t": 13393.0,
+                "d": 850.0
+              },
+              {
+                "w": "and",
+                "t": 14287.0,
+                "d": 340.0
+              },
+              {
+                "w": "temper",
+                "t": 14627.0,
+                "d": 339.0
+              },
+              {
+                "w": "substances",
+                "t": 14967.0,
+                "d": 937.0
+              },
+              {
+                "w": "with",
+                "t": 15904.0,
+                "d": 296.0
+              },
+              {
+                "w": "almost",
+                "t": 16201.0,
+                "d": 596.0
+              },
+              {
+                "w": "ritual",
+                "t": 16797.0,
+                "d": 382.0
+              },
+              {
+                "w": "care",
+                "t": 17180.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/what_the_metal_knows/img/p09.png",
+      "shot": "close-up of Bhoja watching mercury and metal being processed in a vessel",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The text names metals, describes their colors, weights, and reactions. It is no idle myth of flying machines; it is a handbook of pharmaceutical preparations, where metal knows how to heal, fortify, and, mishandled, harm.",
+            "hi": "ग्रंथ धातुओं के नाम गिनता है—उनके रंग, वज़न, क्रियाएँ बताता है। यह उड़न-रथ की कवि-कथा नहीं, दवाओं की किताब है—जहाँ धातु से रोग मिटते, बल बढ़ता, और ग़लत हाथों में विष भी बन सकता है।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p09_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "text",
+                "t": 310.0,
+                "d": 275.0
+              },
+              {
+                "w": "names",
+                "t": 586.0,
+                "d": 321.0
+              },
+              {
+                "w": "metals",
+                "t": 908.0,
+                "d": 873.0
+              },
+              {
+                "w": "describes",
+                "t": 2057.0,
+                "d": 642.0
+              },
+              {
+                "w": "their",
+                "t": 2700.0,
+                "d": 277.0
+              },
+              {
+                "w": "colors",
+                "t": 2977.0,
+                "d": 781.0
+              },
+              {
+                "w": "weights",
+                "t": 3849.0,
+                "d": 874.0
+              },
+              {
+                "w": "and",
+                "t": 4770.0,
+                "d": 275.0
+              },
+              {
+                "w": "reactions",
+                "t": 5045.0,
+                "d": 965.0
+              },
+              {
+                "w": "It",
+                "t": 6609.0,
+                "d": 275.0
+              },
+              {
+                "w": "is",
+                "t": 6885.0,
+                "d": 137.0
+              },
+              {
+                "w": "no",
+                "t": 7022.0,
+                "d": 275.0
+              },
+              {
+                "w": "idle",
+                "t": 7298.0,
+                "d": 367.0
+              },
+              {
+                "w": "myth",
+                "t": 7666.0,
+                "d": 321.0
+              },
+              {
+                "w": "of",
+                "t": 7988.0,
+                "d": 91.0
+              },
+              {
+                "w": "flying",
+                "t": 8080.0,
+                "d": 367.0
+              },
+              {
+                "w": "machines",
+                "t": 8448.0,
+                "d": 872.0
+              },
+              {
+                "w": "it",
+                "t": 9550.0,
+                "d": 322.0
+              },
+              {
+                "w": "is",
+                "t": 9873.0,
+                "d": 136.0
+              },
+              {
+                "w": "a",
+                "t": 10010.0,
+                "d": 93.0
+              },
+              {
+                "w": "handbook",
+                "t": 10103.0,
+                "d": 551.0
+              },
+              {
+                "w": "of",
+                "t": 10655.0,
+                "d": 228.0
+              },
+              {
+                "w": "pharmaceutical",
+                "t": 10883.0,
+                "d": 689.0
+              },
+              {
+                "w": "preparations",
+                "t": 11573.0,
+                "d": 1149.0
+              },
+              {
+                "w": "where",
+                "t": 12862.0,
+                "d": 320.0
+              },
+              {
+                "w": "metal",
+                "t": 13182.0,
+                "d": 275.0
+              },
+              {
+                "w": "knows",
+                "t": 13458.0,
+                "d": 277.0
+              },
+              {
+                "w": "how",
+                "t": 13735.0,
+                "d": 183.0
+              },
+              {
+                "w": "to",
+                "t": 13919.0,
+                "d": 136.0
+              },
+              {
+                "w": "heal",
+                "t": 14056.0,
+                "d": 551.0
+              },
+              {
+                "w": "fortify",
+                "t": 14793.0,
+                "d": 1149.0
+              },
+              {
+                "w": "and",
+                "t": 16080.0,
+                "d": 597.0
+              },
+              {
+                "w": "mishandled",
+                "t": 16722.0,
+                "d": 1012.0
+              },
+              {
+                "w": "harm",
+                "t": 17780.0,
+                "d": 782.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/what_the_metal_knows/img/p10.png",
+      "shot": "wide shot of a court physician consulting a rasashastra manuscript beside a patient, Bhoja watching from a respectful distance",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Physicians of the age drew on such rasashastra texts alongside older Ayurveda. Rudolf Hoernle, reading these traditions centuries later, saw how carefully they balanced promise and peril in metal-based remedies.",
+            "hi": "उस युग के वैद्य ऐसे रसशास्त्रीय ग्रंथों को पुराने आयुर्वेद के साथ पढ़ते थे। सदियों बाद रुडोल्फ हॉर्नले ने देखा—धातु-चिकित्सा में उन्होंने वादा और ख़तरे के बीच कैसा नाज़ुक संतुलन रखा।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p10_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Physicians",
+                "t": 110.0,
+                "d": 600.0
+              },
+              {
+                "w": "of",
+                "t": 710.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 830.0,
+                "d": 200.0
+              },
+              {
+                "w": "age",
+                "t": 1030.0,
+                "d": 360.0
+              },
+              {
+                "w": "drew",
+                "t": 1390.0,
+                "d": 240.0
+              },
+              {
+                "w": "on",
+                "t": 1630.0,
+                "d": 320.0
+              },
+              {
+                "w": "such",
+                "t": 1950.0,
+                "d": 399.0
+              },
+              {
+                "w": "rasashastra",
+                "t": 2349.0,
+                "d": 721.0
+              },
+              {
+                "w": "texts",
+                "t": 3070.0,
+                "d": 640.0
+              },
+              {
+                "w": "alongside",
+                "t": 3750.0,
+                "d": 680.0
+              },
+              {
+                "w": "older",
+                "t": 4430.0,
+                "d": 440.0
+              },
+              {
+                "w": "Ayurveda",
+                "t": 4910.0,
+                "d": 720.0
+              },
+              {
+                "w": "Rudolf",
+                "t": 6470.0,
+                "d": 480.0
+              },
+              {
+                "w": "Hoernle",
+                "t": 6950.0,
+                "d": 440.0
+              },
+              {
+                "w": "reading",
+                "t": 7830.0,
+                "d": 399.0
+              },
+              {
+                "w": "these",
+                "t": 8229.0,
+                "d": 240.0
+              },
+              {
+                "w": "traditions",
+                "t": 8469.0,
+                "d": 600.0
+              },
+              {
+                "w": "centuries",
+                "t": 9069.0,
+                "d": 521.0
+              },
+              {
+                "w": "later",
+                "t": 9590.0,
+                "d": 639.0
+              },
+              {
+                "w": "saw",
+                "t": 10350.0,
+                "d": 400.0
+              },
+              {
+                "w": "how",
+                "t": 10750.0,
+                "d": 360.0
+              },
+              {
+                "w": "carefully",
+                "t": 11110.0,
+                "d": 519.0
+              },
+              {
+                "w": "they",
+                "t": 11629.0,
+                "d": 161.0
+              },
+              {
+                "w": "balanced",
+                "t": 11790.0,
+                "d": 439.0
+              },
+              {
+                "w": "promise",
+                "t": 12229.0,
+                "d": 561.0
+              },
+              {
+                "w": "and",
+                "t": 12790.0,
+                "d": 320.0
+              },
+              {
+                "w": "peril",
+                "t": 13110.0,
+                "d": 560.0
+              },
+              {
+                "w": "in",
+                "t": 13709.0,
+                "d": 201.0
+              },
+              {
+                "w": "metal-based",
+                "t": 13910.0,
+                "d": 600.0
+              },
+              {
+                "w": "remedies",
+                "t": 14510.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/what_the_metal_knows/img/p11.png",
+      "shot": "night-time rooftop shot with Bhoja and an astronomer under a clear sky, instruments laid out",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Above all, the heavens drew Bhoja's gaze. The Vidvajjana-Vallabha, edited in our time by David Pingree, preserves an astronomical treatise bearing his name, written for 'those learned men whom the king delights to favor'.",
+            "hi": "सबसे ऊपर, आसमान ने भोज की नज़र बाँधी। ‘विद्वज्जन-वल्लभ’, जिसे आज डेविड पिंग्री ने संपादित किया, एक ज्योतिष-ग्रंथ संभालता है—भोज के नाम से, ‘उन विद्वानों के लिए जिन्हें राजा स्नेह से मान देता है’।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p11_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Above",
+                "t": 74.0,
+                "d": 425.0
+              },
+              {
+                "w": "all",
+                "t": 500.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 1010.0,
+                "d": 255.0
+              },
+              {
+                "w": "heavens",
+                "t": 1265.0,
+                "d": 425.0
+              },
+              {
+                "w": "drew",
+                "t": 1691.0,
+                "d": 212.0
+              },
+              {
+                "w": "Bhoja's",
+                "t": 1904.0,
+                "d": 637.0
+              },
+              {
+                "w": "gaze",
+                "t": 2541.0,
+                "d": 681.0
+              },
+              {
+                "w": "The",
+                "t": 3562.0,
+                "d": 213.0
+              },
+              {
+                "w": "Vidvajjana-Vallabha",
+                "t": 3776.0,
+                "d": 1106.0
+              },
+              {
+                "w": "edited",
+                "t": 5138.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 5648.0,
+                "d": 127.0
+              },
+              {
+                "w": "our",
+                "t": 5776.0,
+                "d": 127.0
+              },
+              {
+                "w": "time",
+                "t": 5904.0,
+                "d": 340.0
+              },
+              {
+                "w": "by",
+                "t": 6244.0,
+                "d": 212.0
+              },
+              {
+                "w": "David",
+                "t": 6457.0,
+                "d": 382.0
+              },
+              {
+                "w": "Pingree",
+                "t": 6840.0,
+                "d": 808.0
+              },
+              {
+                "w": "preserves",
+                "t": 7691.0,
+                "d": 595.0
+              },
+              {
+                "w": "an",
+                "t": 8287.0,
+                "d": 212.0
+              },
+              {
+                "w": "astronomical",
+                "t": 8541.0,
+                "d": 809.0
+              },
+              {
+                "w": "treatise",
+                "t": 9351.0,
+                "d": 467.0
+              },
+              {
+                "w": "bearing",
+                "t": 9818.0,
+                "d": 384.0
+              },
+              {
+                "w": "his",
+                "t": 10202.0,
+                "d": 170.0
+              },
+              {
+                "w": "name",
+                "t": 10372.0,
+                "d": 764.0
+              },
+              {
+                "w": "written",
+                "t": 11265.0,
+                "d": 425.0
+              },
+              {
+                "w": "for",
+                "t": 11691.0,
+                "d": 254.0
+              },
+              {
+                "w": "those",
+                "t": 11945.0,
+                "d": 384.0
+              },
+              {
+                "w": "learned",
+                "t": 12329.0,
+                "d": 297.0
+              },
+              {
+                "w": "men",
+                "t": 12627.0,
+                "d": 467.0
+              },
+              {
+                "w": "whom",
+                "t": 13179.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 13435.0,
+                "d": 171.0
+              },
+              {
+                "w": "king",
+                "t": 13606.0,
+                "d": 296.0
+              },
+              {
+                "w": "delights",
+                "t": 13903.0,
+                "d": 469.0
+              },
+              {
+                "w": "to",
+                "t": 14372.0,
+                "d": 126.0
+              },
+              {
+                "w": "favor",
+                "t": 14498.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/what_the_metal_knows/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/what_the_metal_knows/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Aligning battle lines like celestial arcs, Bhoja releases his signal arrow, translating stellar geometry into the language of war.",
+            "hi": "आकाशीय घेरों सी क़तारें, भोजा का संकेत तीर छूटा, तारों की ज्यामिति अब युद्ध की ज़बान बनी।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/action/action_auto2_en.mp3",
+            "hi": "assets/what_the_metal_knows/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Aligning",
+                "t": 70.0,
+                "d": 560.0
+              },
+              {
+                "w": "battle",
+                "t": 630.0,
+                "d": 320.0
+              },
+              {
+                "w": "lines",
+                "t": 950.0,
+                "d": 320.0
+              },
+              {
+                "w": "like",
+                "t": 1270.0,
+                "d": 240.0
+              },
+              {
+                "w": "celestial",
+                "t": 1510.0,
+                "d": 440.0
+              },
+              {
+                "w": "arcs",
+                "t": 1950.0,
+                "d": 600.0
+              },
+              {
+                "w": "Bhoja",
+                "t": 2789.0,
+                "d": 441.0
+              },
+              {
+                "w": "releases",
+                "t": 3230.0,
+                "d": 599.0
+              },
+              {
+                "w": "his",
+                "t": 3829.0,
+                "d": 160.0
+              },
+              {
+                "w": "signal",
+                "t": 3989.0,
+                "d": 481.0
+              },
+              {
+                "w": "arrow",
+                "t": 4470.0,
+                "d": 320.0
+              },
+              {
+                "w": "translating",
+                "t": 5470.0,
+                "d": 680.0
+              },
+              {
+                "w": "stellar",
+                "t": 6150.0,
+                "d": 440.0
+              },
+              {
+                "w": "geometry",
+                "t": 6590.0,
+                "d": 640.0
+              },
+              {
+                "w": "into",
+                "t": 7230.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 7510.0,
+                "d": 120.0
+              },
+              {
+                "w": "language",
+                "t": 7630.0,
+                "d": 559.0
+              },
+              {
+                "w": "of",
+                "t": 8189.0,
+                "d": 241.0
+              },
+              {
+                "w": "war",
+                "t": 8430.0,
+                "d": 320.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/what_the_metal_knows/img/p12.png",
+      "shot": "close-up of Bhoja’s hand on an astrolabe, engraved circles catching starlight",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The text sets out planets, lunar nodes, eclipses, and calendars in precise verse. It marries mathematical models to ritual timings, joining the needs of priests, farmers, and officials with the motions of the sky.",
+            "hi": "ग्रंथ ग्रह, राहु-केतु, ग्रहण और पंचांग को सटीक छंदों में रखता है। यह गणितीय मॉडल को अनुष्ठानिक समय से जोड़ता है—पुरोहित, किसान और अफ़सर—सबकी ज़रूरतें आकाश की चाल से बाँध देता है।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p12_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "text",
+                "t": 287.0,
+                "d": 212.0
+              },
+              {
+                "w": "sets",
+                "t": 500.0,
+                "d": 382.0
+              },
+              {
+                "w": "out",
+                "t": 882.0,
+                "d": 212.0
+              },
+              {
+                "w": "planets",
+                "t": 1095.0,
+                "d": 723.0
+              },
+              {
+                "w": "lunar",
+                "t": 1861.0,
+                "d": 594.0
+              },
+              {
+                "w": "nodes",
+                "t": 2456.0,
+                "d": 384.0
+              },
+              {
+                "w": "eclipses",
+                "t": 3094.0,
+                "d": 852.0
+              },
+              {
+                "w": "and",
+                "t": 4073.0,
+                "d": 256.0
+              },
+              {
+                "w": "calendars",
+                "t": 4329.0,
+                "d": 553.0
+              },
+              {
+                "w": "in",
+                "t": 4882.0,
+                "d": 127.0
+              },
+              {
+                "w": "precise",
+                "t": 5010.0,
+                "d": 510.0
+              },
+              {
+                "w": "verse",
+                "t": 5521.0,
+                "d": 382.0
+              },
+              {
+                "w": "It",
+                "t": 6542.0,
+                "d": 212.0
+              },
+              {
+                "w": "marries",
+                "t": 6755.0,
+                "d": 425.0
+              },
+              {
+                "w": "mathematical",
+                "t": 7180.0,
+                "d": 680.0
+              },
+              {
+                "w": "models",
+                "t": 7861.0,
+                "d": 468.0
+              },
+              {
+                "w": "to",
+                "t": 8329.0,
+                "d": 170.0
+              },
+              {
+                "w": "ritual",
+                "t": 8500.0,
+                "d": 382.0
+              },
+              {
+                "w": "timings",
+                "t": 8882.0,
+                "d": 808.0
+              },
+              {
+                "w": "joining",
+                "t": 9776.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 10287.0,
+                "d": 127.0
+              },
+              {
+                "w": "needs",
+                "t": 10414.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 10670.0,
+                "d": 211.0
+              },
+              {
+                "w": "priests",
+                "t": 10881.0,
+                "d": 639.0
+              },
+              {
+                "w": "farmers",
+                "t": 11606.0,
+                "d": 893.0
+              },
+              {
+                "w": "and",
+                "t": 12627.0,
+                "d": 296.0
+              },
+              {
+                "w": "officials",
+                "t": 12924.0,
+                "d": 554.0
+              },
+              {
+                "w": "with",
+                "t": 13478.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 13648.0,
+                "d": 127.0
+              },
+              {
+                "w": "motions",
+                "t": 13776.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 14202.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 14328.0,
+                "d": 128.0
+              },
+              {
+                "w": "sky",
+                "t": 14457.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/what_the_metal_knows/img/p13.png",
+      "shot": "medium shot of Bhoja listening as an astronomer traces a diagram on a board or ground",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "If the stars can be measured, so can our years, our taxes, our roads.",
+            "hi": "जब तारे नापे जा सकते हैं, तब हमारे साल, कर और सड़कें भी नापी जा सकती हैं।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p13_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "If",
+                "t": 49.0,
+                "d": 147.0
+              },
+              {
+                "w": "the",
+                "t": 196.1,
+                "d": 134.8
+              },
+              {
+                "w": "stars",
+                "t": 330.9,
+                "d": 441.2
+              },
+              {
+                "w": "can",
+                "t": 772.0,
+                "d": 232.8
+              },
+              {
+                "w": "be",
+                "t": 1004.9,
+                "d": 159.3
+              },
+              {
+                "w": "measured",
+                "t": 1176.5,
+                "d": 490.2
+              },
+              {
+                "w": "so",
+                "t": 1936.3,
+                "d": 220.6
+              },
+              {
+                "w": "can",
+                "t": 2181.4,
+                "d": 257.3
+              },
+              {
+                "w": "our",
+                "t": 2500.0,
+                "d": 208.3
+              },
+              {
+                "w": "years",
+                "t": 2708.3,
+                "d": 453.4
+              },
+              {
+                "w": "our",
+                "t": 3406.9,
+                "d": 220.6
+              },
+              {
+                "w": "taxes",
+                "t": 3627.5,
+                "d": 600.5
+              },
+              {
+                "w": "our",
+                "t": 4399.5,
+                "d": 196.1
+              },
+              {
+                "w": "roads",
+                "t": 4595.6,
+                "d": 502.5
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/what_the_metal_knows/img/p14.png",
+      "shot": "cutaway montage shot showing three vignettes: a ritual timed by star, a farmer sowing, a clerk updating a calendar",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Pingree's edition we see how such texts served many hands. Astronomical verse helped fix festivals, forecast seasons, and align civil reckoning, making the heavens part of statecraft.",
+            "hi": "पिंग्री की प्रति से दिखता है—ऐसे ग्रंथ कितने हाथों की सेवा करते थे। ज्योतिष-छंद त्योहार ठहराते, मौसम का अनुमान देते, और राज-गणना मिलाते—आसमान को भी राज्य-चाल का हिस्सा बना देते।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p14_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Pingree's",
+                "t": 329.0,
+                "d": 425.0
+              },
+              {
+                "w": "edition",
+                "t": 755.0,
+                "d": 510.0
+              },
+              {
+                "w": "we",
+                "t": 1265.0,
+                "d": 212.0
+              },
+              {
+                "w": "see",
+                "t": 1478.0,
+                "d": 170.0
+              },
+              {
+                "w": "how",
+                "t": 1648.0,
+                "d": 212.0
+              },
+              {
+                "w": "such",
+                "t": 1861.0,
+                "d": 340.0
+              },
+              {
+                "w": "texts",
+                "t": 2202.0,
+                "d": 424.0
+              },
+              {
+                "w": "served",
+                "t": 2626.0,
+                "d": 553.0
+              },
+              {
+                "w": "many",
+                "t": 3179.0,
+                "d": 340.0
+              },
+              {
+                "w": "hands",
+                "t": 3520.0,
+                "d": 553.0
+              },
+              {
+                "w": "Astronomical",
+                "t": 4457.0,
+                "d": 851.0
+              },
+              {
+                "w": "verse",
+                "t": 5308.0,
+                "d": 297.0
+              },
+              {
+                "w": "helped",
+                "t": 5606.0,
+                "d": 255.0
+              },
+              {
+                "w": "fix",
+                "t": 5861.0,
+                "d": 297.0
+              },
+              {
+                "w": "festivals",
+                "t": 6159.0,
+                "d": 851.0
+              },
+              {
+                "w": "forecast",
+                "t": 7053.0,
+                "d": 510.0
+              },
+              {
+                "w": "seasons",
+                "t": 7563.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 8329.0,
+                "d": 339.0
+              },
+              {
+                "w": "align",
+                "t": 8669.0,
+                "d": 384.0
+              },
+              {
+                "w": "civil",
+                "t": 9053.0,
+                "d": 255.0
+              },
+              {
+                "w": "reckoning",
+                "t": 9308.0,
+                "d": 893.0
+              },
+              {
+                "w": "making",
+                "t": 10202.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 10627.0,
+                "d": 169.0
+              },
+              {
+                "w": "heavens",
+                "t": 10796.0,
+                "d": 469.0
+              },
+              {
+                "w": "part",
+                "t": 11265.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 11563.0,
+                "d": 127.0
+              },
+              {
+                "w": "statecraft",
+                "t": 11691.0,
+                "d": 978.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/what_the_metal_knows/img/p15.png",
+      "shot": "shadowy interior shot of storytellers reciting Bhoja-prabandha tales in a later century, Bhoja as a painted figure behind them",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Centuries later, story-collections like the Bhoja-Prabandha embroidered his memory, telling of a king who opened skulls and revived the dead with moha-churna, legends that Hoernle and others mark as late, unproven wonders.",
+            "hi": "सदियों बाद ‘भोज-प्रबंध’ जैसे किस्सों ने उसकी स्मृति को सजाया—एक ऐसे राजा की, जो खोपड़ी खोलकर मृत को मोह-चूर्ण से जिलाता है—कहानियाँ जिन्हें हॉर्नले व अन्य देर की, अप्रमाणित चमत्कार मानते हैं।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p15_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Centuries",
+                "t": 126.0,
+                "d": 689.0
+              },
+              {
+                "w": "later",
+                "t": 816.0,
+                "d": 827.0
+              },
+              {
+                "w": "story-collections",
+                "t": 1689.0,
+                "d": 1102.0
+              },
+              {
+                "w": "like",
+                "t": 2791.0,
+                "d": 185.0
+              },
+              {
+                "w": "the",
+                "t": 2977.0,
+                "d": 137.0
+              },
+              {
+                "w": "Bhoja-Prabandha",
+                "t": 3114.0,
+                "d": 1011.0
+              },
+              {
+                "w": "embroidered",
+                "t": 4172.0,
+                "d": 689.0
+              },
+              {
+                "w": "his",
+                "t": 4862.0,
+                "d": 183.0
+              },
+              {
+                "w": "memory",
+                "t": 5045.0,
+                "d": 827.0
+              },
+              {
+                "w": "telling",
+                "t": 6011.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 6379.0,
+                "d": 137.0
+              },
+              {
+                "w": "a",
+                "t": 6517.0,
+                "d": 91.0
+              },
+              {
+                "w": "king",
+                "t": 6609.0,
+                "d": 367.0
+              },
+              {
+                "w": "who",
+                "t": 6977.0,
+                "d": 137.0
+              },
+              {
+                "w": "opened",
+                "t": 7114.0,
+                "d": 459.0
+              },
+              {
+                "w": "skulls",
+                "t": 7574.0,
+                "d": 505.0
+              },
+              {
+                "w": "and",
+                "t": 8080.0,
+                "d": 229.0
+              },
+              {
+                "w": "revived",
+                "t": 8310.0,
+                "d": 505.0
+              },
+              {
+                "w": "the",
+                "t": 8816.0,
+                "d": 137.0
+              },
+              {
+                "w": "dead",
+                "t": 8954.0,
+                "d": 320.0
+              },
+              {
+                "w": "with",
+                "t": 9274.0,
+                "d": 231.0
+              },
+              {
+                "w": "moha-churna",
+                "t": 9505.0,
+                "d": 781.0
+              },
+              {
+                "w": "legends",
+                "t": 11022.0,
+                "d": 550.0
+              },
+              {
+                "w": "that",
+                "t": 11573.0,
+                "d": 275.0
+              },
+              {
+                "w": "Hoernle",
+                "t": 11849.0,
+                "d": 598.0
+              },
+              {
+                "w": "and",
+                "t": 12494.0,
+                "d": 228.0
+              },
+              {
+                "w": "others",
+                "t": 12770.0,
+                "d": 504.0
+              },
+              {
+                "w": "mark",
+                "t": 13274.0,
+                "d": 460.0
+              },
+              {
+                "w": "as",
+                "t": 13735.0,
+                "d": 320.0
+              },
+              {
+                "w": "late",
+                "t": 14056.0,
+                "d": 551.0
+              },
+              {
+                "w": "unproven",
+                "t": 14839.0,
+                "d": 781.0
+              },
+              {
+                "w": "wonders",
+                "t": 15620.0,
+                "d": 918.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/what_the_metal_knows/img/p16.png",
+      "shot": "contrast shot back to Bhoja’s own time, practical workshop and observatory, no miracles in sight",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The record shows no flying machines, no sorcerer surgeries. It shows something quieter: a court where manuscripts on yoga, metals, horses, and stars were tools to be copied, tested, and brought into use.",
+            "hi": "असली रिकॉर्ड में न उड़न-रथ हैं, न जादुई ऑपरेशन। दिखता है कुछ और शांत—एक दरबार, जहाँ योग, धातु, घोड़े और तारों के पांडुलिपि-काग़ज़ नकल, जाँच और काम में लगाने के औज़ार थे।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p16_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "record",
+                "t": 244.0,
+                "d": 340.0
+              },
+              {
+                "w": "shows",
+                "t": 585.0,
+                "d": 340.0
+              },
+              {
+                "w": "no",
+                "t": 925.0,
+                "d": 212.0
+              },
+              {
+                "w": "flying",
+                "t": 1138.0,
+                "d": 297.0
+              },
+              {
+                "w": "machines",
+                "t": 1436.0,
+                "d": 722.0
+              },
+              {
+                "w": "no",
+                "t": 2158.0,
+                "d": 297.0
+              },
+              {
+                "w": "sorcerer",
+                "t": 2456.0,
+                "d": 469.0
+              },
+              {
+                "w": "surgeries",
+                "t": 2925.0,
+                "d": 808.0
+              },
+              {
+                "w": "It",
+                "t": 4073.0,
+                "d": 213.0
+              },
+              {
+                "w": "shows",
+                "t": 4287.0,
+                "d": 212.0
+              },
+              {
+                "w": "something",
+                "t": 4500.0,
+                "d": 425.0
+              },
+              {
+                "w": "quieter",
+                "t": 4925.0,
+                "d": 851.0
+              },
+              {
+                "w": "a",
+                "t": 5946.0,
+                "d": 212.0
+              },
+              {
+                "w": "court",
+                "t": 6159.0,
+                "d": 340.0
+              },
+              {
+                "w": "where",
+                "t": 6500.0,
+                "d": 468.0
+              },
+              {
+                "w": "manuscripts",
+                "t": 7010.0,
+                "d": 680.0
+              },
+              {
+                "w": "on",
+                "t": 7691.0,
+                "d": 127.0
+              },
+              {
+                "w": "yoga",
+                "t": 7819.0,
+                "d": 595.0
+              },
+              {
+                "w": "metals",
+                "t": 8541.0,
+                "d": 767.0
+              },
+              {
+                "w": "horses",
+                "t": 9308.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 10117.0,
+                "d": 425.0
+              },
+              {
+                "w": "stars",
+                "t": 10542.0,
+                "d": 468.0
+              },
+              {
+                "w": "were",
+                "t": 11010.0,
+                "d": 211.0
+              },
+              {
+                "w": "tools",
+                "t": 11222.0,
+                "d": 341.0
+              },
+              {
+                "w": "to",
+                "t": 11563.0,
+                "d": 127.0
+              },
+              {
+                "w": "be",
+                "t": 11691.0,
+                "d": 127.0
+              },
+              {
+                "w": "copied",
+                "t": 11819.0,
+                "d": 765.0
+              },
+              {
+                "w": "tested",
+                "t": 12670.0,
+                "d": 594.0
+              },
+              {
+                "w": "and",
+                "t": 13308.0,
+                "d": 297.0
+              },
+              {
+                "w": "brought",
+                "t": 13606.0,
+                "d": 296.0
+              },
+              {
+                "w": "into",
+                "t": 13903.0,
+                "d": 170.0
+              },
+              {
+                "w": "use",
+                "t": 14073.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/what_the_metal_knows/split_auto/s0.png",
+          "slogan": {
+            "en": "Knowledge is our strongest fort",
+            "hi": "ज्ञान हमारा सबसे मजबूत किला"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/what_the_metal_knows/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/what_the_metal_knows/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From forge to observatory, Bhoja's designs bind kingdom, cosmos, and craft into a single disciplined vision.",
+            "hi": "धौंकनी से वेधशाला तक, भोज की योजनाएँ राज्य, ब्रह्मांड और शिल्प को एक अनुशासित दृष्टि में बाँध देती हैं।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/split/split_auto_en.mp3",
+            "hi": "assets/what_the_metal_knows/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "forge",
+                "t": 364.0,
+                "d": 375.0
+              },
+              {
+                "w": "to",
+                "t": 739.0,
+                "d": 125.0
+              },
+              {
+                "w": "observatory",
+                "t": 864.0,
+                "d": 750.0
+              },
+              {
+                "w": "Bhoja's",
+                "t": 1614.0,
+                "d": 583.0
+              },
+              {
+                "w": "designs",
+                "t": 2197.0,
+                "d": 541.0
+              },
+              {
+                "w": "bind",
+                "t": 2739.0,
+                "d": 290.0
+              },
+              {
+                "w": "kingdom",
+                "t": 3030.0,
+                "d": 583.0
+              },
+              {
+                "w": "cosmos",
+                "t": 3656.0,
+                "d": 750.0
+              },
+              {
+                "w": "and",
+                "t": 4447.0,
+                "d": 416.0
+              },
+              {
+                "w": "craft",
+                "t": 4864.0,
+                "d": 375.0
+              },
+              {
+                "w": "into",
+                "t": 5239.0,
+                "d": 250.0
+              },
+              {
+                "w": "a",
+                "t": 5489.0,
+                "d": 41.0
+              },
+              {
+                "w": "single",
+                "t": 5531.0,
+                "d": 583.0
+              },
+              {
+                "w": "disciplined",
+                "t": 6114.0,
+                "d": 583.0
+              },
+              {
+                "w": "vision",
+                "t": 6697.0,
+                "d": 583.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/what_the_metal_knows/img/p17.png",
+      "shot": "low-angle shot of Bhoja in the library handing a manuscript to a younger scholar",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Pratipal Bhatia's catalogue of Bhoja's attributed works shows how wide that tool-kit ranged. Not every leaf may be his own words, yet his patronage tied his name to a whole world of applied learning.",
+            "hi": "प्रतिपाल भाटिया की सूची दिखाती है—भोज से जोड़े ग्रंथ कितनी दूर तक फैलते हैं। हर पत्ती पर उनका शब्द न हो, फिर भी उनकी सरपरस्ती ने उनके नाम को पूरे एक व्यावहारिक ज्ञान-जगत से बाँध दिया।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p17_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Pratipal",
+                "t": 74.0,
+                "d": 553.0
+              },
+              {
+                "w": "Bhatia's",
+                "t": 627.0,
+                "d": 510.0
+              },
+              {
+                "w": "catalogue",
+                "t": 1138.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 1691.0,
+                "d": 85.0
+              },
+              {
+                "w": "Bhoja's",
+                "t": 1776.0,
+                "d": 595.0
+              },
+              {
+                "w": "attributed",
+                "t": 2372.0,
+                "d": 637.0
+              },
+              {
+                "w": "works",
+                "t": 3009.0,
+                "d": 595.0
+              },
+              {
+                "w": "shows",
+                "t": 3690.0,
+                "d": 340.0
+              },
+              {
+                "w": "how",
+                "t": 4030.0,
+                "d": 170.0
+              },
+              {
+                "w": "wide",
+                "t": 4201.0,
+                "d": 426.0
+              },
+              {
+                "w": "that",
+                "t": 4627.0,
+                "d": 212.0
+              },
+              {
+                "w": "tool-kit",
+                "t": 4840.0,
+                "d": 510.0
+              },
+              {
+                "w": "ranged",
+                "t": 5351.0,
+                "d": 680.0
+              },
+              {
+                "w": "Not",
+                "t": 6457.0,
+                "d": 382.0
+              },
+              {
+                "w": "every",
+                "t": 6840.0,
+                "d": 382.0
+              },
+              {
+                "w": "leaf",
+                "t": 7223.0,
+                "d": 297.0
+              },
+              {
+                "w": "may",
+                "t": 7521.0,
+                "d": 170.0
+              },
+              {
+                "w": "be",
+                "t": 7691.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 7819.0,
+                "d": 170.0
+              },
+              {
+                "w": "own",
+                "t": 7989.0,
+                "d": 212.0
+              },
+              {
+                "w": "words",
+                "t": 8202.0,
+                "d": 722.0
+              },
+              {
+                "w": "yet",
+                "t": 9009.0,
+                "d": 298.0
+              },
+              {
+                "w": "his",
+                "t": 9308.0,
+                "d": 212.0
+              },
+              {
+                "w": "patronage",
+                "t": 9521.0,
+                "d": 595.0
+              },
+              {
+                "w": "tied",
+                "t": 10117.0,
+                "d": 297.0
+              },
+              {
+                "w": "his",
+                "t": 10414.0,
+                "d": 170.0
+              },
+              {
+                "w": "name",
+                "t": 10585.0,
+                "d": 595.0
+              },
+              {
+                "w": "to",
+                "t": 11222.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 11392.0,
+                "d": 86.0
+              },
+              {
+                "w": "whole",
+                "t": 11478.0,
+                "d": 296.0
+              },
+              {
+                "w": "world",
+                "t": 11775.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 12074.0,
+                "d": 170.0
+              },
+              {
+                "w": "applied",
+                "t": 12244.0,
+                "d": 425.0
+              },
+              {
+                "w": "learning",
+                "t": 12670.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/what_the_metal_knows/img/p18.png",
+      "shot": "final contemplative wide shot of Dhara at twilight, library windows glowing, stars emerging above",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Bhoja's Malwa, curiosity did not end in clever verse; it bent toward service, toward healing bodies, guiding horses, steadying minds, and timing the year, reminding us that knowledge, to endure, must become useful light.",
+            "hi": "भोज के मालवा में जिज्ञासा सिर्फ़ चतुर छंद पर नहीं रुकती—वह सेवा की ओर झुकती है—शरीर को चंगा करने, घोड़ों को साधने, मन को स्थिर करने, वर्ष को तौलने की ओर—याद दिलाती है कि ज्ञान टिकना हो, तो उपयोगी रोशनी बनना होगा।"
+          },
+          "audio": {
+            "en": "assets/what_the_metal_knows/audio/en/p18_0.mp3",
+            "hi": "assets/what_the_metal_knows/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Bhoja's",
+                "t": 329.0,
+                "d": 510.0
+              },
+              {
+                "w": "Malwa",
+                "t": 840.0,
+                "d": 595.0
+              },
+              {
+                "w": "curiosity",
+                "t": 1819.0,
+                "d": 722.0
+              },
+              {
+                "w": "did",
+                "t": 2541.0,
+                "d": 171.0
+              },
+              {
+                "w": "not",
+                "t": 2712.0,
+                "d": 254.0
+              },
+              {
+                "w": "end",
+                "t": 3009.0,
+                "d": 256.0
+              },
+              {
+                "w": "in",
+                "t": 3265.0,
+                "d": 127.0
+              },
+              {
+                "w": "clever",
+                "t": 3393.0,
+                "d": 595.0
+              },
+              {
+                "w": "verse",
+                "t": 3989.0,
+                "d": 254.0
+              },
+              {
+                "w": "it",
+                "t": 4670.0,
+                "d": 255.0
+              },
+              {
+                "w": "bent",
+                "t": 4925.0,
+                "d": 297.0
+              },
+              {
+                "w": "toward",
+                "t": 5223.0,
+                "d": 255.0
+              },
+              {
+                "w": "service",
+                "t": 5478.0,
+                "d": 723.0
+              },
+              {
+                "w": "toward",
+                "t": 6329.0,
+                "d": 382.0
+              },
+              {
+                "w": "healing",
+                "t": 6712.0,
+                "d": 382.0
+              },
+              {
+                "w": "bodies",
+                "t": 7095.0,
+                "d": 680.0
+              },
+              {
+                "w": "guiding",
+                "t": 7861.0,
+                "d": 553.0
+              },
+              {
+                "w": "horses",
+                "t": 8414.0,
+                "d": 723.0
+              },
+              {
+                "w": "steadying",
+                "t": 9223.0,
+                "d": 594.0
+              },
+              {
+                "w": "minds",
+                "t": 9818.0,
+                "d": 639.0
+              },
+              {
+                "w": "and",
+                "t": 10542.0,
+                "d": 339.0
+              },
+              {
+                "w": "timing",
+                "t": 10881.0,
+                "d": 384.0
+              },
+              {
+                "w": "the",
+                "t": 11265.0,
+                "d": 170.0
+              },
+              {
+                "w": "year",
+                "t": 11436.0,
+                "d": 594.0
+              },
+              {
+                "w": "reminding",
+                "t": 12244.0,
+                "d": 594.0
+              },
+              {
+                "w": "us",
+                "t": 12839.0,
+                "d": 170.0
+              },
+              {
+                "w": "that",
+                "t": 13009.0,
+                "d": 213.0
+              },
+              {
+                "w": "knowledge",
+                "t": 13223.0,
+                "d": 808.0
+              },
+              {
+                "w": "to",
+                "t": 14073.0,
+                "d": 213.0
+              },
+              {
+                "w": "endure",
+                "t": 14287.0,
+                "d": 638.0
+              },
+              {
+                "w": "must",
+                "t": 15265.0,
+                "d": 381.0
+              },
+              {
+                "w": "become",
+                "t": 15647.0,
+                "d": 382.0
+              },
+              {
+                "w": "useful",
+                "t": 16030.0,
+                "d": 384.0
+              },
+              {
+                "w": "light",
+                "t": 16414.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Bhoja of Dhara",
+    "epithets": [
+      "Bhoja of Dhara",
+      "Raja Bhoja",
+      "Paramara King of Malwa",
+      "Patron of Learning"
+    ],
+    "legend": "The king who turned every science into a tool for life."
+  }
+}
