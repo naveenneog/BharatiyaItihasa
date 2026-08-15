@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 📖 The Paramaras of Malwa and Raja Bhoja  *(Early medieval — c. 972–1305 CE, the Agnikula kingdom of Malwa & Dhara)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The "fire-born" (Agnikula) dynasty of Malwa and its polymath centrepiece, Raja Bhoja of Dhara (c. 1010–1055) — a king his own inscriptions remember as poet, engineer, aesthete and patron as much as warrior. The chapter weighs that inscriptional praise against what the stones and texts actually show: a Betwa reservoir and a treatise on machines set beside the tribute-verses, the "Param Dev" whom Mahmud of Ghazni supposedly avoided read as later memory rather than proven battle, and the dynasty's 1305 end at Mandu told from the conqueror's own court-poet — honest about the silence beneath the verses.
+
+**I. The Fire-Born Kingdom**
+1. **Siyaka at Manyakheta** ✅ — the Paramara founder Siyaka II's 972 CE sack of the Rashtrakuta capital Manyakheta, the blow that ended Rashtrakuta power and launched Malwa as an independent throne. *(founding)*
+2. **Munja the Warrior Poet of Avanti** ✅ — Vakpati Munja, the warrior-poet who widened Malwa and filled Dhara with court poets, and his fatal southern overreach against the Chalukya Tailapa II, who captured and executed him. *(expansion; a king's fall)*
+
+**II. The Sword of Malwa**
+3. **The Narmada Alliance** ✅ — Bhoja's wars and alliances pushing Malwa toward the Lata coast and the Konkan, the reach for the Arabian Sea read from inscriptions rather than taken at their boast. *(wars; expansion)*
+4. **Param Dev and the Ghaznavid Shadow** ✅ — the "Param Dev" of later Persian chronicles whom Mahmud is said to have avoided: Somnath 1025 stated plainly, the legend attributed to Ferishta and Yahya Sirhindi centuries on, "Turushka" framed as a political label, and no battle invented where the sources fall silent. *(frontier; source-criticism)*
+
+**III. The Maker of Cities**
+5. **Bhoja Sea at Bhojpur** ✅ — the vast Betwa reservoir ("Bhoj Sea") and the unfinished Bhojeshwar temple, hydraulic and stone engineering on an imperial scale. *(engineering)*
+6. **Seven Thousand Verses for a City** ✅ — the *Samarangana Sutradhara*, Bhoja's ~7,000-verse treatise on architecture, town-planning and machines (its much-debated proto-mechanical yantras). *(science; architecture)*
+7. **Copper Plates and the Roads of Malwa** ✅ — the Paramara administrative order reconstructed from copper-plate grants: land revenue, officers and the trade roads that held Malwa together. *(administration; economy)*
+
+**IV. The Court of a Thousand Texts**
+8. **The Hall Where Sarasvati Lived** ✅ — the Bhojshala, the Sarasvati-temple and Sanskrit school of Dhar, and the learning it housed. *(scholarship)*
+9. **The Mirror of Delight** ✅ — the *Sringara Prakasha*, Bhoja's enormous treatise mapping rasa and poetics, the aesthete-king trying to catalogue all beauty in words. *(aesthetics; literature)*
+10. **Dhanapala at a Shaivite Court** ✅ — the Jain poet Dhanapala and his *Tilakamanjari* honoured at a Shaiva king's court, a flagship of the age's religious pluralism. *(pluralism; literature)*
+11. **What the Metal Knows** ✅ — Bhoja's patronage of metallurgy and *rasashastra*, the court where alchemists turned metal into medicine. *(applied science)*
+
+**V. After the Scholar-King**
+12. **Udayaditya Builds for the Ages** ✅ — the revival of the dynasty after Bhoja's death and the partition of Malwa, and the Neelkantheshvara temple that outlasted the crisis. *(revival; craft)*
+13. **Mandu on 23 November 1305** ✅ — the fall of the last Paramaras, Mahalakadeva and Goga, to Alauddin Khalji's general Ain-ul-Mulk Multani, told from Amir Khusrau's *Khazain-ul-Futuh* read against the emptied courtyards; a conqueror's court-praise mapped onto a real campaign. *(fall; source-criticism)*
+
 ## 🎭 Harsha and the Age of Kannauj  *(Classical — c. 590–647 CE, the Pushyabhuti empire of the northern plains)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 The last great classical north-Indian empire, reconstructed from four clashing witnesses — Banabhatta's *Harshacharita*, Xuanzang's eyewitness travelogue, Harsha's own copper plates, and the Chinese Tang annals — each read against the others; hard on the panegyric, honest that the plates show a Shaiva king where the legend remembers a Buddhist, and giving a queen, a poet, a pilgrim and a foreign envoy equal weight with the emperor.
