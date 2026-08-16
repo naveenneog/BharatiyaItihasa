@@ -1,0 +1,3252 @@
+{
+  "id": "harapala_s_skin",
+  "title": "Harapala's Skin",
+  "title_i18n": {
+    "en": "Harapala's Skin",
+    "hi": "हरपाल की खाल"
+  },
+  "figure": "Harapala",
+  "era": "Final rebellion and annexation of Devagiri, c. 1313-1317 CE",
+  "moral": "Cruel punishment can end a kingdom but not erase its memory.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/harapala_s_skin/intro/hero.png",
+      "name": "Harapala of Devagiri",
+      "epithets": [
+        "Yadava claimant of Devagiri",
+        "Last rebel of Devagiri",
+        "Heir of Ramachandra",
+        "Prince against the Khaljis"
+      ],
+      "legend": "His flayed skin marked the end of a kingdom’s crown.",
+      "era": "Final rebellion and annexation of Devagiri, c. 1313-1317 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Harapala rises in the shadow of Ramachandra's death, daring Delhi's wrath to save Devagiri. As Khalji armies close in, his own skin becomes the price of a lost throne.",
+            "hi": "रामचंद्र की मौत की छाया में हरपाल उठता है, देवगिरी बचाने को दिल्ली के कहर को ललकारता है। खिलजी फौजें घिरती हैं, और गद्दी खोने की कीमत बन जाती है उसकी अपनी खाल।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/intro/hero_en.mp3",
+            "hi": "assets/harapala_s_skin/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Harapala",
+                "t": 72.0,
+                "d": 583.0
+              },
+              {
+                "w": "rises",
+                "t": 656.0,
+                "d": 500.0
+              },
+              {
+                "w": "in",
+                "t": 1156.0,
+                "d": 125.0
+              },
+              {
+                "w": "the",
+                "t": 1281.0,
+                "d": 125.0
+              },
+              {
+                "w": "shadow",
+                "t": 1406.0,
+                "d": 458.0
+              },
+              {
+                "w": "of",
+                "t": 1864.0,
+                "d": 166.0
+              },
+              {
+                "w": "Ramachandra's",
+                "t": 2031.0,
+                "d": 750.0
+              },
+              {
+                "w": "death",
+                "t": 2781.0,
+                "d": 332.0
+              },
+              {
+                "w": "daring",
+                "t": 3530.0,
+                "d": 541.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 4071.0,
+                "d": 417.0
+              },
+              {
+                "w": "wrath",
+                "t": 4489.0,
+                "d": 333.0
+              },
+              {
+                "w": "to",
+                "t": 4822.0,
+                "d": 166.0
+              },
+              {
+                "w": "save",
+                "t": 4989.0,
+                "d": 333.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 5322.0,
+                "d": 625.0
+              },
+              {
+                "w": "As",
+                "t": 6781.0,
+                "d": 375.0
+              },
+              {
+                "w": "Khalji",
+                "t": 7156.0,
+                "d": 375.0
+              },
+              {
+                "w": "armies",
+                "t": 7531.0,
+                "d": 375.0
+              },
+              {
+                "w": "close",
+                "t": 7906.0,
+                "d": 375.0
+              },
+              {
+                "w": "in",
+                "t": 8281.0,
+                "d": 373.0
+              },
+              {
+                "w": "his",
+                "t": 8781.0,
+                "d": 250.0
+              },
+              {
+                "w": "own",
+                "t": 9031.0,
+                "d": 208.0
+              },
+              {
+                "w": "skin",
+                "t": 9239.0,
+                "d": 373.0
+              },
+              {
+                "w": "becomes",
+                "t": 9613.0,
+                "d": 333.0
+              },
+              {
+                "w": "the",
+                "t": 9946.0,
+                "d": 166.0
+              },
+              {
+                "w": "price",
+                "t": 10113.0,
+                "d": 417.0
+              },
+              {
+                "w": "of",
+                "t": 10531.0,
+                "d": 207.0
+              },
+              {
+                "w": "a",
+                "t": 10738.0,
+                "d": 42.0
+              },
+              {
+                "w": "lost",
+                "t": 10781.0,
+                "d": 416.0
+              },
+              {
+                "w": "throne",
+                "t": 11197.0,
+                "d": 625.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/harapala_s_skin/intro/map.png",
+      "x": 0.45,
+      "y": 0.67,
+      "label": "Devagiri (Daulatabad), Deccan",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here on a harsh hill in the Deccan, Devagiri's last Yadava hope bleeds under Khalji rule.",
+            "hi": "दक्कन की कठोर पहाड़ी पर, देवगिरि की आखिरी यादव उम्मीद खिलजी राज में लहूलुहान है।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/intro/map_en.mp3",
+            "hi": "assets/harapala_s_skin/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 413.0
+              },
+              {
+                "w": "on",
+                "t": 494.0,
+                "d": 91.0
+              },
+              {
+                "w": "a",
+                "t": 586.0,
+                "d": 91.0
+              },
+              {
+                "w": "harsh",
+                "t": 678.0,
+                "d": 367.0
+              },
+              {
+                "w": "hill",
+                "t": 1045.0,
+                "d": 183.0
+              },
+              {
+                "w": "in",
+                "t": 1229.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 1321.0,
+                "d": 137.0
+              },
+              {
+                "w": "Deccan",
+                "t": 1459.0,
+                "d": 597.0
+              },
+              {
+                "w": "Devagiri's",
+                "t": 2425.0,
+                "d": 780.0
+              },
+              {
+                "w": "last",
+                "t": 3205.0,
+                "d": 368.0
+              },
+              {
+                "w": "Yadava",
+                "t": 3574.0,
+                "d": 551.0
+              },
+              {
+                "w": "hope",
+                "t": 4585.0,
+                "d": 414.0
+              },
+              {
+                "w": "bleeds",
+                "t": 5000.0,
+                "d": 413.0
+              },
+              {
+                "w": "under",
+                "t": 5413.0,
+                "d": 367.0
+              },
+              {
+                "w": "Khalji",
+                "t": 5781.0,
+                "d": 413.0
+              },
+              {
+                "w": "rule",
+                "t": 6195.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/harapala_s_skin/img/cover.png",
+      "shot": "dramatic low-angle wide of Devagiri fortress gate at dusk",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the dying years of the Khaljis, Harapala of Devagiri rose, rebelled, and met a punishment so brutal that his very skin became a warning at the gate.",
+            "hi": "खिलजी सल्तनत के ढलते दिनों में देवगिरी के हरपाल उठे, बाग़ी बने, और ऐसी सज़ा पायी कि उनकी खाल ही फाटक पर चेतावनी बन गई।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/cover_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 183.0
+              },
+              {
+                "w": "dying",
+                "t": 494.0,
+                "d": 413.0
+              },
+              {
+                "w": "years",
+                "t": 908.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 1275.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 1413.0,
+                "d": 137.0
+              },
+              {
+                "w": "Khaljis",
+                "t": 1551.0,
+                "d": 919.0
+              },
+              {
+                "w": "Harapala",
+                "t": 2745.0,
+                "d": 782.0
+              },
+              {
+                "w": "of",
+                "t": 3528.0,
+                "d": 274.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 3803.0,
+                "d": 597.0
+              },
+              {
+                "w": "rose",
+                "t": 4401.0,
+                "d": 690.0
+              },
+              {
+                "w": "rebelled",
+                "t": 5321.0,
+                "d": 919.0
+              },
+              {
+                "w": "and",
+                "t": 6241.0,
+                "d": 367.0
+              },
+              {
+                "w": "met",
+                "t": 6609.0,
+                "d": 229.0
+              },
+              {
+                "w": "a",
+                "t": 6839.0,
+                "d": 137.0
+              },
+              {
+                "w": "punishment",
+                "t": 6977.0,
+                "d": 597.0
+              },
+              {
+                "w": "so",
+                "t": 7574.0,
+                "d": 275.0
+              },
+              {
+                "w": "brutal",
+                "t": 7850.0,
+                "d": 873.0
+              },
+              {
+                "w": "that",
+                "t": 8816.0,
+                "d": 275.0
+              },
+              {
+                "w": "his",
+                "t": 9091.0,
+                "d": 182.0
+              },
+              {
+                "w": "very",
+                "t": 9274.0,
+                "d": 367.0
+              },
+              {
+                "w": "skin",
+                "t": 9642.0,
+                "d": 644.0
+              },
+              {
+                "w": "became",
+                "t": 10333.0,
+                "d": 458.0
+              },
+              {
+                "w": "a",
+                "t": 10791.0,
+                "d": 139.0
+              },
+              {
+                "w": "warning",
+                "t": 10931.0,
+                "d": 551.0
+              },
+              {
+                "w": "at",
+                "t": 11482.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 11620.0,
+                "d": 183.0
+              },
+              {
+                "w": "gate",
+                "t": 11804.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/harapala_s_skin/img/p01.png",
+      "shot": "high aerial wide over the plateau around Devagiri fort",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Devagiri, Yadava stronghold in the Deccan, had once defied Delhi. By thirteen eleven, its ruler Ramachandra bowed to Alauddin Khalji and lived as a vassal.",
+            "hi": "दक्कन का यादव गढ़ देवगिरी कभी दिल्ली को ललकारता था। १३११ तक उसका शासक रामचंद्र अलाउद्दीन खिलजी के आगे झुक चुका था और जागीरदार बन कर जी रहा था।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p01_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Devagiri",
+                "t": 117.0,
+                "d": 553.0
+              },
+              {
+                "w": "Yadava",
+                "t": 670.0,
+                "d": 893.0
+              },
+              {
+                "w": "stronghold",
+                "t": 1563.0,
+                "d": 808.0
+              },
+              {
+                "w": "in",
+                "t": 2372.0,
+                "d": 169.0
+              },
+              {
+                "w": "the",
+                "t": 2541.0,
+                "d": 171.0
+              },
+              {
+                "w": "Deccan",
+                "t": 2712.0,
+                "d": 595.0
+              },
+              {
+                "w": "had",
+                "t": 3393.0,
+                "d": 340.0
+              },
+              {
+                "w": "once",
+                "t": 3734.0,
+                "d": 381.0
+              },
+              {
+                "w": "defied",
+                "t": 4115.0,
+                "d": 426.0
+              },
+              {
+                "w": "Delhi",
+                "t": 4542.0,
+                "d": 297.0
+              },
+              {
+                "w": "By",
+                "t": 4840.0,
+                "d": 595.0
+              },
+              {
+                "w": "thirteen",
+                "t": 6372.0,
+                "d": 468.0
+              },
+              {
+                "w": "eleven",
+                "t": 6840.0,
+                "d": 638.0
+              },
+              {
+                "w": "its",
+                "t": 7563.0,
+                "d": 340.0
+              },
+              {
+                "w": "ruler",
+                "t": 7904.0,
+                "d": 340.0
+              },
+              {
+                "w": "Ramachandra",
+                "t": 8244.0,
+                "d": 723.0
+              },
+              {
+                "w": "bowed",
+                "t": 8968.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 9308.0,
+                "d": 212.0
+              },
+              {
+                "w": "Alauddin",
+                "t": 9521.0,
+                "d": 637.0
+              },
+              {
+                "w": "Khalji",
+                "t": 10158.0,
+                "d": 511.0
+              },
+              {
+                "w": "and",
+                "t": 10881.0,
+                "d": 384.0
+              },
+              {
+                "w": "lived",
+                "t": 11265.0,
+                "d": 553.0
+              },
+              {
+                "w": "as",
+                "t": 11860.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 12115.0,
+                "d": 128.0
+              },
+              {
+                "w": "vassal",
+                "t": 12244.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/harapala_s_skin/img/p02.png",
+      "shot": "slow push-in on Ramachandra’s empty throne in Devagiri audience hall",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When Ramachandra died around thirteen eleven, he left a kingdom bent under Delhi's tribute and a court where loyalty and resentment quietly wrestled for control.",
+            "hi": "१३११ के आसपास रामचंद्र मरा, पीछे छोड़ गया ख़िराज के बोझ तले झुका राज और दरबार, जहाँ वफ़ादारी और रोष चुपचाप कुश्ती लड़ रहे थे।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p02_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Ramachandra",
+                "t": 329.0,
+                "d": 638.0
+              },
+              {
+                "w": "died",
+                "t": 968.0,
+                "d": 340.0
+              },
+              {
+                "w": "around",
+                "t": 1308.0,
+                "d": 297.0
+              },
+              {
+                "w": "thirteen",
+                "t": 1606.0,
+                "d": 468.0
+              },
+              {
+                "w": "eleven",
+                "t": 2074.0,
+                "d": 765.0
+              },
+              {
+                "w": "he",
+                "t": 2967.0,
+                "d": 256.0
+              },
+              {
+                "w": "left",
+                "t": 3223.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 3478.0,
+                "d": 84.0
+              },
+              {
+                "w": "kingdom",
+                "t": 3562.0,
+                "d": 510.0
+              },
+              {
+                "w": "bent",
+                "t": 4073.0,
+                "d": 384.0
+              },
+              {
+                "w": "under",
+                "t": 4457.0,
+                "d": 340.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 4797.0,
+                "d": 382.0
+              },
+              {
+                "w": "tribute",
+                "t": 5180.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 6074.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 6287.0,
+                "d": 127.0
+              },
+              {
+                "w": "court",
+                "t": 6414.0,
+                "d": 340.0
+              },
+              {
+                "w": "where",
+                "t": 6755.0,
+                "d": 212.0
+              },
+              {
+                "w": "loyalty",
+                "t": 6968.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 7734.0,
+                "d": 297.0
+              },
+              {
+                "w": "resentment",
+                "t": 8031.0,
+                "d": 594.0
+              },
+              {
+                "w": "quietly",
+                "t": 8626.0,
+                "d": 511.0
+              },
+              {
+                "w": "wrestled",
+                "t": 9138.0,
+                "d": 468.0
+              },
+              {
+                "w": "for",
+                "t": 9606.0,
+                "d": 170.0
+              },
+              {
+                "w": "control",
+                "t": 9776.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/harapala_s_skin/img/p03.png",
+      "shot": "medium wide of Malik Kafur’s army approaching Devagiri",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Ramachandra's son Singhana the Third tried to break free. Malik Kafur answered rebellion with steel, killing Singhana in thirteen thirteen and tightening Delhi's hold.",
+            "hi": "रामचंद्र का बेटा सिंघना तृतीय आज़ाद होने को उठा। मालिक काफ़ूर ने बग़ावत का जवाब तलवार से दिया, १३१३ में सिंघना को मार डाला और दिल्ली की पकड़ कस दी।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p03_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Ramachandra's",
+                "t": 74.0,
+                "d": 1106.0
+              },
+              {
+                "w": "son",
+                "t": 1223.0,
+                "d": 127.0
+              },
+              {
+                "w": "Singhana",
+                "t": 1351.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 2074.0,
+                "d": 255.0
+              },
+              {
+                "w": "Third",
+                "t": 2329.0,
+                "d": 340.0
+              },
+              {
+                "w": "tried",
+                "t": 2670.0,
+                "d": 296.0
+              },
+              {
+                "w": "to",
+                "t": 2967.0,
+                "d": 170.0
+              },
+              {
+                "w": "break",
+                "t": 3137.0,
+                "d": 298.0
+              },
+              {
+                "w": "free",
+                "t": 3436.0,
+                "d": 468.0
+              },
+              {
+                "w": "Malik",
+                "t": 4414.0,
+                "d": 468.0
+              },
+              {
+                "w": "Kafur",
+                "t": 4882.0,
+                "d": 468.0
+              },
+              {
+                "w": "answered",
+                "t": 5351.0,
+                "d": 468.0
+              },
+              {
+                "w": "rebellion",
+                "t": 5819.0,
+                "d": 468.0
+              },
+              {
+                "w": "with",
+                "t": 6287.0,
+                "d": 212.0
+              },
+              {
+                "w": "steel",
+                "t": 6500.0,
+                "d": 680.0
+              },
+              {
+                "w": "killing",
+                "t": 7223.0,
+                "d": 340.0
+              },
+              {
+                "w": "Singhana",
+                "t": 7563.0,
+                "d": 553.0
+              },
+              {
+                "w": "in",
+                "t": 8117.0,
+                "d": 170.0
+              },
+              {
+                "w": "thirteen",
+                "t": 8287.0,
+                "d": 467.0
+              },
+              {
+                "w": "thirteen",
+                "t": 8754.0,
+                "d": 681.0
+              },
+              {
+                "w": "and",
+                "t": 9521.0,
+                "d": 381.0
+              },
+              {
+                "w": "tightening",
+                "t": 9903.0,
+                "d": 554.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 10457.0,
+                "d": 382.0
+              },
+              {
+                "w": "hold",
+                "t": 10840.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/harapala_s_skin/img/p04.png",
+      "shot": "three-quarter medium on Harapala in a dim chamber",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the turmoil, another figure stepped forward: Harapala, Ramachandra's son-in-law. The chronicles name him little, but place him at the heart of Devagiri's last revolt.",
+            "hi": "इस हलचल में एक और चेहरा आगे आया—हरपाल, रामचंद्र का दामाद। इतिहास कम बोलता है, मगर उसे देवगिरी की आखिरी बग़ावत के बीचोंबीच रखता है।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p04_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "turmoil",
+                "t": 414.0,
+                "d": 553.0
+              },
+              {
+                "w": "another",
+                "t": 1351.0,
+                "d": 425.0
+              },
+              {
+                "w": "figure",
+                "t": 1776.0,
+                "d": 340.0
+              },
+              {
+                "w": "stepped",
+                "t": 2117.0,
+                "d": 339.0
+              },
+              {
+                "w": "forward",
+                "t": 2456.0,
+                "d": 937.0
+              },
+              {
+                "w": "Harapala",
+                "t": 3734.0,
+                "d": 893.0
+              },
+              {
+                "w": "Ramachandra's",
+                "t": 4968.0,
+                "d": 851.0
+              },
+              {
+                "w": "son-in-law",
+                "t": 5819.0,
+                "d": 553.0
+              },
+              {
+                "w": "The",
+                "t": 7478.0,
+                "d": 170.0
+              },
+              {
+                "w": "chronicles",
+                "t": 7648.0,
+                "d": 553.0
+              },
+              {
+                "w": "name",
+                "t": 8202.0,
+                "d": 212.0
+              },
+              {
+                "w": "him",
+                "t": 8414.0,
+                "d": 211.0
+              },
+              {
+                "w": "little",
+                "t": 8626.0,
+                "d": 511.0
+              },
+              {
+                "w": "but",
+                "t": 9647.0,
+                "d": 425.0
+              },
+              {
+                "w": "place",
+                "t": 10073.0,
+                "d": 298.0
+              },
+              {
+                "w": "him",
+                "t": 10372.0,
+                "d": 170.0
+              },
+              {
+                "w": "at",
+                "t": 10542.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 10627.0,
+                "d": 127.0
+              },
+              {
+                "w": "heart",
+                "t": 10755.0,
+                "d": 296.0
+              },
+              {
+                "w": "of",
+                "t": 11052.0,
+                "d": 170.0
+              },
+              {
+                "w": "Devagiri's",
+                "t": 11222.0,
+                "d": 638.0
+              },
+              {
+                "w": "last",
+                "t": 11860.0,
+                "d": 298.0
+              },
+              {
+                "w": "revolt",
+                "t": 12159.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/harapala_s_skin/img/p05.png",
+      "shot": "low-angle medium of Harapala looking out from battlements",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The succession crisis in distant Delhi after Alauddin's death rippled outward. Harapala saw a narrow opening and tried to restore Yadava freedom.",
+            "hi": "अलाउद्दीन की मौत के बाद दूर दिल्ली की ताज़पोशी की जंग की लहरें बाहर तक फैल गईं। हरपाल ने छोटी सी दरार देखी और यादव आज़ादी लौटाने की ठानी।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p05_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "succession",
+                "t": 230.0,
+                "d": 560.0
+              },
+              {
+                "w": "crisis",
+                "t": 790.0,
+                "d": 440.0
+              },
+              {
+                "w": "in",
+                "t": 1230.0,
+                "d": 120.0
+              },
+              {
+                "w": "distant",
+                "t": 1350.0,
+                "d": 440.0
+              },
+              {
+                "w": "Delhi",
+                "t": 1790.0,
+                "d": 519.0
+              },
+              {
+                "w": "after",
+                "t": 2469.0,
+                "d": 400.0
+              },
+              {
+                "w": "Alauddin's",
+                "t": 2869.0,
+                "d": 681.0
+              },
+              {
+                "w": "death",
+                "t": 3550.0,
+                "d": 359.0
+              },
+              {
+                "w": "rippled",
+                "t": 3949.0,
+                "d": 561.0
+              },
+              {
+                "w": "outward",
+                "t": 4510.0,
+                "d": 1240.0
+              },
+              {
+                "w": "Harapala",
+                "t": 5750.0,
+                "d": 520.0
+              },
+              {
+                "w": "saw",
+                "t": 6270.0,
+                "d": 280.0
+              },
+              {
+                "w": "a",
+                "t": 6550.0,
+                "d": 80.0
+              },
+              {
+                "w": "narrow",
+                "t": 6630.0,
+                "d": 440.0
+              },
+              {
+                "w": "opening",
+                "t": 7070.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 7750.0,
+                "d": 240.0
+              },
+              {
+                "w": "tried",
+                "t": 7990.0,
+                "d": 239.0
+              },
+              {
+                "w": "to",
+                "t": 8229.0,
+                "d": 121.0
+              },
+              {
+                "w": "restore",
+                "t": 8350.0,
+                "d": 440.0
+              },
+              {
+                "w": "Yadava",
+                "t": 8790.0,
+                "d": 439.0
+              },
+              {
+                "w": "freedom",
+                "t": 9229.0,
+                "d": 561.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/harapala_s_skin/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/harapala_s_skin/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Harapala seizes the ramparts, forging scattered defenders into a single will against the advancing Delhi host.",
+            "hi": "हरपाल किले की दीवारें हथिया कर बिखरे रक्षकों को एक इरादे में ढाल देता है, चढ़ती दिल्ली सेना के खिलाफ।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/action/action_auto_en.mp3",
+            "hi": "assets/harapala_s_skin/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Harapala",
+                "t": 70.0,
+                "d": 520.0
+              },
+              {
+                "w": "seizes",
+                "t": 590.0,
+                "d": 480.0
+              },
+              {
+                "w": "the",
+                "t": 1070.0,
+                "d": 120.0
+              },
+              {
+                "w": "ramparts",
+                "t": 1190.0,
+                "d": 800.0
+              },
+              {
+                "w": "forging",
+                "t": 2190.0,
+                "d": 480.0
+              },
+              {
+                "w": "scattered",
+                "t": 2670.0,
+                "d": 480.0
+              },
+              {
+                "w": "defenders",
+                "t": 3150.0,
+                "d": 639.0
+              },
+              {
+                "w": "into",
+                "t": 3829.0,
+                "d": 281.0
+              },
+              {
+                "w": "a",
+                "t": 4110.0,
+                "d": 40.0
+              },
+              {
+                "w": "single",
+                "t": 4150.0,
+                "d": 640.0
+              },
+              {
+                "w": "will",
+                "t": 4830.0,
+                "d": 280.0
+              },
+              {
+                "w": "against",
+                "t": 5110.0,
+                "d": 360.0
+              },
+              {
+                "w": "the",
+                "t": 5470.0,
+                "d": 120.0
+              },
+              {
+                "w": "advancing",
+                "t": 5590.0,
+                "d": 640.0
+              },
+              {
+                "w": "Delhi",
+                "t": 6230.0,
+                "d": 280.0
+              },
+              {
+                "w": "host",
+                "t": 6510.0,
+                "d": 440.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/harapala_s_skin/img/p06.png",
+      "shot": "dynamic mid-wide of Harapala addressing a small group of retainers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Delhi quakes. If we stand now, Devagiri may yet breathe free.",
+            "hi": "दिल्ली डगमगा रही है। अगर अब खड़े हों, तो देवगिरी फिर सांस ले सकता है।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p06_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Delhi",
+                "t": 49.0,
+                "d": 269.6
+              },
+              {
+                "w": "quakes",
+                "t": 330.9,
+                "d": 514.7
+              },
+              {
+                "w": "If",
+                "t": 1715.7,
+                "d": 147.0
+              },
+              {
+                "w": "we",
+                "t": 1862.8,
+                "d": 232.8
+              },
+              {
+                "w": "stand",
+                "t": 2095.6,
+                "d": 416.7
+              },
+              {
+                "w": "now",
+                "t": 2524.5,
+                "d": 453.4
+              },
+              {
+                "w": "Devagiri",
+                "t": 3125.0,
+                "d": 539.2
+              },
+              {
+                "w": "may",
+                "t": 3664.2,
+                "d": 245.1
+              },
+              {
+                "w": "yet",
+                "t": 3909.3,
+                "d": 281.9
+              },
+              {
+                "w": "breathe",
+                "t": 4203.4,
+                "d": 367.7
+              },
+              {
+                "w": "free",
+                "t": 4583.3,
+                "d": 343.1
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/harapala_s_skin/img/p07.png",
+      "shot": "montage-style wide of skirmish outside Devagiri",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Isami and Barani do not linger on battles. They simply record that Harapala rose in rebellion, and Delhi moved again to break Devagiri's defiance.",
+            "hi": "इसीमी और बरानी लड़ाइयों पर नहीं ठहरते। बस लिखते हैं कि हरपाल बग़ावत पर उठा, और दिल्ली फिर चली देवगिरी की सख़्त मज़बूती तोड़ने।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p07_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Isami",
+                "t": 70.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 430.0,
+                "d": 120.0
+              },
+              {
+                "w": "Barani",
+                "t": 550.0,
+                "d": 360.0
+              },
+              {
+                "w": "do",
+                "t": 910.0,
+                "d": 200.0
+              },
+              {
+                "w": "not",
+                "t": 1110.0,
+                "d": 280.0
+              },
+              {
+                "w": "linger",
+                "t": 1390.0,
+                "d": 320.0
+              },
+              {
+                "w": "on",
+                "t": 1710.0,
+                "d": 160.0
+              },
+              {
+                "w": "battles",
+                "t": 1870.0,
+                "d": 999.0
+              },
+              {
+                "w": "They",
+                "t": 2949.0,
+                "d": 241.0
+              },
+              {
+                "w": "simply",
+                "t": 3190.0,
+                "d": 400.0
+              },
+              {
+                "w": "record",
+                "t": 3590.0,
+                "d": 440.0
+              },
+              {
+                "w": "that",
+                "t": 4030.0,
+                "d": 200.0
+              },
+              {
+                "w": "Harapala",
+                "t": 4230.0,
+                "d": 480.0
+              },
+              {
+                "w": "rose",
+                "t": 4710.0,
+                "d": 320.0
+              },
+              {
+                "w": "in",
+                "t": 5030.0,
+                "d": 120.0
+              },
+              {
+                "w": "rebellion",
+                "t": 5150.0,
+                "d": 920.0
+              },
+              {
+                "w": "and",
+                "t": 6110.0,
+                "d": 320.0
+              },
+              {
+                "w": "Delhi",
+                "t": 6430.0,
+                "d": 280.0
+              },
+              {
+                "w": "moved",
+                "t": 6710.0,
+                "d": 360.0
+              },
+              {
+                "w": "again",
+                "t": 7070.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 7390.0,
+                "d": 160.0
+              },
+              {
+                "w": "break",
+                "t": 7550.0,
+                "d": 280.0
+              },
+              {
+                "w": "Devagiri's",
+                "t": 7830.0,
+                "d": 520.0
+              },
+              {
+                "w": "defiance",
+                "t": 8350.0,
+                "d": 760.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/harapala_s_skin/img/p08.png",
+      "shot": "close-up on Harapala’s resolute face in the chaos",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "We do not know his words or his plans in detail. Only that he chose revolt, knowing what Malik Kafur had already done to Singhana the Third.",
+            "hi": "हम उसके अल्फ़ाज़ नहीं जानते, न सारी तैयारियाँ। बस इतना कि उसने विद्रोह चुना, जानते हुए कि मालिक काफ़ूर सिंघना तृतीय के साथ क्या कर चुका था।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p08_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "do",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "not",
+                "t": 414.0,
+                "d": 212.0
+              },
+              {
+                "w": "know",
+                "t": 627.0,
+                "d": 170.0
+              },
+              {
+                "w": "his",
+                "t": 797.0,
+                "d": 170.0
+              },
+              {
+                "w": "words",
+                "t": 968.0,
+                "d": 553.0
+              },
+              {
+                "w": "or",
+                "t": 1563.0,
+                "d": 170.0
+              },
+              {
+                "w": "his",
+                "t": 1734.0,
+                "d": 212.0
+              },
+              {
+                "w": "plans",
+                "t": 1946.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 2329.0,
+                "d": 85.0
+              },
+              {
+                "w": "detail",
+                "t": 2414.0,
+                "d": 1319.0
+              },
+              {
+                "w": "Only",
+                "t": 3861.0,
+                "d": 381.0
+              },
+              {
+                "w": "that",
+                "t": 4243.0,
+                "d": 256.0
+              },
+              {
+                "w": "he",
+                "t": 4500.0,
+                "d": 212.0
+              },
+              {
+                "w": "chose",
+                "t": 4712.0,
+                "d": 297.0
+              },
+              {
+                "w": "revolt",
+                "t": 5010.0,
+                "d": 638.0
+              },
+              {
+                "w": "knowing",
+                "t": 6074.0,
+                "d": 382.0
+              },
+              {
+                "w": "what",
+                "t": 6457.0,
+                "d": 255.0
+              },
+              {
+                "w": "Malik",
+                "t": 6712.0,
+                "d": 340.0
+              },
+              {
+                "w": "Kafur",
+                "t": 7053.0,
+                "d": 425.0
+              },
+              {
+                "w": "had",
+                "t": 7478.0,
+                "d": 255.0
+              },
+              {
+                "w": "already",
+                "t": 7734.0,
+                "d": 468.0
+              },
+              {
+                "w": "done",
+                "t": 8202.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 8457.0,
+                "d": 126.0
+              },
+              {
+                "w": "Singhana",
+                "t": 8584.0,
+                "d": 937.0
+              },
+              {
+                "w": "the",
+                "t": 9732.0,
+                "d": 213.0
+              },
+              {
+                "w": "Third",
+                "t": 9946.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/harapala_s_skin/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/harapala_s_skin/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As arrows darken the sky, Harapala leads a desperate sortie, trying to break the tightening noose around Devagiri.",
+            "hi": "तीरों से आसमान काला है, हरपाल देवगिरी की घेराबंदी तोड़ने को आखिरी धावा बोलता है।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/action/action_auto2_en.mp3",
+            "hi": "assets/harapala_s_skin/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 70.0,
+                "d": 320.0
+              },
+              {
+                "w": "arrows",
+                "t": 390.0,
+                "d": 480.0
+              },
+              {
+                "w": "darken",
+                "t": 870.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 1270.0,
+                "d": 120.0
+              },
+              {
+                "w": "sky",
+                "t": 1390.0,
+                "d": 639.0
+              },
+              {
+                "w": "Harapala",
+                "t": 2070.0,
+                "d": 600.0
+              },
+              {
+                "w": "leads",
+                "t": 2670.0,
+                "d": 319.0
+              },
+              {
+                "w": "a",
+                "t": 2989.0,
+                "d": 121.0
+              },
+              {
+                "w": "desperate",
+                "t": 3110.0,
+                "d": 480.0
+              },
+              {
+                "w": "sortie",
+                "t": 3590.0,
+                "d": 480.0
+              },
+              {
+                "w": "trying",
+                "t": 4470.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 4790.0,
+                "d": 160.0
+              },
+              {
+                "w": "break",
+                "t": 4950.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 5230.0,
+                "d": 200.0
+              },
+              {
+                "w": "tightening",
+                "t": 5430.0,
+                "d": 480.0
+              },
+              {
+                "w": "noose",
+                "t": 5910.0,
+                "d": 320.0
+              },
+              {
+                "w": "around",
+                "t": 6230.0,
+                "d": 360.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 6590.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/harapala_s_skin/img/p09.png",
+      "shot": "somber medium of Harapala bound and escorted by soldiers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Barani and Isami agree on the outcome. Harapala's revolt failed. He was captured, a rebel prince in chains, delivered to the victors' judgment.",
+            "hi": "बरानी और इसीमी नतीजे पर एकमत हैं। हरपाल की बग़ावत नाकाम रही। वह पकड़ा गया, ज़ंजीरों में जकड़ा बाग़ी राजकुमार, फ़तह वालों की अदालत में घसीटा गया।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p09_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Barani",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 542.0,
+                "d": 127.0
+              },
+              {
+                "w": "Isami",
+                "t": 670.0,
+                "d": 340.0
+              },
+              {
+                "w": "agree",
+                "t": 1010.0,
+                "d": 382.0
+              },
+              {
+                "w": "on",
+                "t": 1393.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 1521.0,
+                "d": 170.0
+              },
+              {
+                "w": "outcome",
+                "t": 1691.0,
+                "d": 553.0
+              },
+              {
+                "w": "Harapala's",
+                "t": 3052.0,
+                "d": 724.0
+              },
+              {
+                "w": "revolt",
+                "t": 3776.0,
+                "d": 424.0
+              },
+              {
+                "w": "failed",
+                "t": 4201.0,
+                "d": 937.0
+              },
+              {
+                "w": "He",
+                "t": 5265.0,
+                "d": 255.0
+              },
+              {
+                "w": "was",
+                "t": 5521.0,
+                "d": 212.0
+              },
+              {
+                "w": "captured",
+                "t": 5734.0,
+                "d": 936.0
+              },
+              {
+                "w": "a",
+                "t": 6755.0,
+                "d": 127.0
+              },
+              {
+                "w": "rebel",
+                "t": 6882.0,
+                "d": 382.0
+              },
+              {
+                "w": "prince",
+                "t": 7265.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 7606.0,
+                "d": 127.0
+              },
+              {
+                "w": "chains",
+                "t": 7734.0,
+                "d": 723.0
+              },
+              {
+                "w": "delivered",
+                "t": 8711.0,
+                "d": 553.0
+              },
+              {
+                "w": "to",
+                "t": 9264.0,
+                "d": 86.0
+              },
+              {
+                "w": "the",
+                "t": 9351.0,
+                "d": 127.0
+              },
+              {
+                "w": "victors'",
+                "t": 9478.0,
+                "d": 424.0
+              },
+              {
+                "w": "judgment",
+                "t": 9903.0,
+                "d": 767.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/harapala_s_skin/img/p10.png",
+      "shot": "austere wide of an inner courtyard prepared for punishment",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The chronicles do not soften what followed. As punishment for rebellion, Harapala was ordered to be flayed alive, and his skin treated not as a body, but as a warning.",
+            "hi": "इतिहास आगे की बातें नरम नहीं करता। बग़ावत की सज़ा में हुक्म हुआ—हरपाल की खाल ज़िंदा उतारी जाए, और उसके जिस्म की नहीं, उसकी खाल की नज़ीर बनाई जाए।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p10_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 117.0,
+                "d": 170.0
+              },
+              {
+                "w": "chronicles",
+                "t": 287.0,
+                "d": 638.0
+              },
+              {
+                "w": "do",
+                "t": 925.0,
+                "d": 127.0
+              },
+              {
+                "w": "not",
+                "t": 1053.0,
+                "d": 297.0
+              },
+              {
+                "w": "soften",
+                "t": 1351.0,
+                "d": 510.0
+              },
+              {
+                "w": "what",
+                "t": 1861.0,
+                "d": 340.0
+              },
+              {
+                "w": "followed",
+                "t": 2202.0,
+                "d": 1191.0
+              },
+              {
+                "w": "As",
+                "t": 3647.0,
+                "d": 341.0
+              },
+              {
+                "w": "punishment",
+                "t": 3989.0,
+                "d": 468.0
+              },
+              {
+                "w": "for",
+                "t": 4457.0,
+                "d": 170.0
+              },
+              {
+                "w": "rebellion",
+                "t": 4627.0,
+                "d": 808.0
+              },
+              {
+                "w": "Harapala",
+                "t": 5563.0,
+                "d": 638.0
+              },
+              {
+                "w": "was",
+                "t": 6202.0,
+                "d": 255.0
+              },
+              {
+                "w": "ordered",
+                "t": 6457.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 6840.0,
+                "d": 127.0
+              },
+              {
+                "w": "be",
+                "t": 6968.0,
+                "d": 170.0
+              },
+              {
+                "w": "flayed",
+                "t": 7138.0,
+                "d": 340.0
+              },
+              {
+                "w": "alive",
+                "t": 7478.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 8329.0,
+                "d": 211.0
+              },
+              {
+                "w": "his",
+                "t": 8541.0,
+                "d": 127.0
+              },
+              {
+                "w": "skin",
+                "t": 8669.0,
+                "d": 340.0
+              },
+              {
+                "w": "treated",
+                "t": 9009.0,
+                "d": 469.0
+              },
+              {
+                "w": "not",
+                "t": 9478.0,
+                "d": 297.0
+              },
+              {
+                "w": "as",
+                "t": 9776.0,
+                "d": 126.0
+              },
+              {
+                "w": "a",
+                "t": 9903.0,
+                "d": 85.0
+              },
+              {
+                "w": "body",
+                "t": 9988.0,
+                "d": 681.0
+              },
+              {
+                "w": "but",
+                "t": 10755.0,
+                "d": 296.0
+              },
+              {
+                "w": "as",
+                "t": 11052.0,
+                "d": 298.0
+              },
+              {
+                "w": "a",
+                "t": 11351.0,
+                "d": 85.0
+              },
+              {
+                "w": "warning",
+                "t": 11436.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/harapala_s_skin/split_auto/s0.png",
+          "slogan": {
+            "en": "Devagiri will never bow!",
+            "hi": "देवगिरि कभी न झुकेगा!"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/harapala_s_skin/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/harapala_s_skin/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Devagiri falls, yet Harapala's last defiance echoes through stone, sky, and the memory of a broken kingdom.",
+            "hi": "देवगिरी गिर गई, पर हरपाल का आखिरी विद्रोह पत्थरों, आसमान और टूटी रियासत की यादों में गूंजता रहा।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/split/split_auto_en.mp3",
+            "hi": "assets/harapala_s_skin/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Devagiri",
+                "t": 114.0,
+                "d": 458.0
+              },
+              {
+                "w": "falls",
+                "t": 572.0,
+                "d": 625.0
+              },
+              {
+                "w": "yet",
+                "t": 1572.0,
+                "d": 333.0
+              },
+              {
+                "w": "Harapala's",
+                "t": 1906.0,
+                "d": 665.0
+              },
+              {
+                "w": "last",
+                "t": 2571.0,
+                "d": 333.0
+              },
+              {
+                "w": "defiance",
+                "t": 2905.0,
+                "d": 541.0
+              },
+              {
+                "w": "echoes",
+                "t": 3446.0,
+                "d": 459.0
+              },
+              {
+                "w": "through",
+                "t": 3906.0,
+                "d": 291.0
+              },
+              {
+                "w": "stone",
+                "t": 4197.0,
+                "d": 625.0
+              },
+              {
+                "w": "sky",
+                "t": 4864.0,
+                "d": 791.0
+              },
+              {
+                "w": "and",
+                "t": 5656.0,
+                "d": 333.0
+              },
+              {
+                "w": "the",
+                "t": 5989.0,
+                "d": 125.0
+              },
+              {
+                "w": "memory",
+                "t": 6114.0,
+                "d": 500.0
+              },
+              {
+                "w": "of",
+                "t": 6614.0,
+                "d": 166.0
+              },
+              {
+                "w": "a",
+                "t": 6781.0,
+                "d": 83.0
+              },
+              {
+                "w": "broken",
+                "t": 6864.0,
+                "d": 458.0
+              },
+              {
+                "w": "kingdom",
+                "t": 7322.0,
+                "d": 625.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/harapala_s_skin/img/p11.png",
+      "shot": "tight, symbolic shot on an empty gate arch of Devagiri",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Barani's Tarikh-i-Firuz Shahi and Isami's Futuh-us-Salatin both state: Harapala's skin was stuffed and hung at Devagiri's gate, a brutal message to all who entered.",
+            "hi": "बरानी की ‘तारीख़-ए-फ़िरोज़ शाही’ और इसीमी की ‘फ़तूह-उस-सलातीन’ दोनों लिखते हैं: हरपाल की खाल भर कर देवगिरी के फाटक पर टाँग दी गई, आने वालों के लिए बेरहमी का पैग़ाम।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p11_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Barani's",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "Tarikh-i-Firuz",
+                "t": 712.0,
+                "d": 808.0
+              },
+              {
+                "w": "Shahi",
+                "t": 1521.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 2117.0,
+                "d": 212.0
+              },
+              {
+                "w": "Isami's",
+                "t": 2329.0,
+                "d": 382.0
+              },
+              {
+                "w": "Futuh-us-Salatin",
+                "t": 2712.0,
+                "d": 977.0
+              },
+              {
+                "w": "both",
+                "t": 3690.0,
+                "d": 340.0
+              },
+              {
+                "w": "state",
+                "t": 4030.0,
+                "d": 681.0
+              },
+              {
+                "w": "Harapala's",
+                "t": 5095.0,
+                "d": 680.0
+              },
+              {
+                "w": "skin",
+                "t": 5776.0,
+                "d": 255.0
+              },
+              {
+                "w": "was",
+                "t": 6031.0,
+                "d": 212.0
+              },
+              {
+                "w": "stuffed",
+                "t": 6244.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 6670.0,
+                "d": 212.0
+              },
+              {
+                "w": "hung",
+                "t": 6882.0,
+                "d": 212.0
+              },
+              {
+                "w": "at",
+                "t": 7095.0,
+                "d": 85.0
+              },
+              {
+                "w": "Devagiri's",
+                "t": 7180.0,
+                "d": 595.0
+              },
+              {
+                "w": "gate",
+                "t": 7776.0,
+                "d": 595.0
+              },
+              {
+                "w": "a",
+                "t": 8500.0,
+                "d": 169.0
+              },
+              {
+                "w": "brutal",
+                "t": 8669.0,
+                "d": 384.0
+              },
+              {
+                "w": "message",
+                "t": 9053.0,
+                "d": 425.0
+              },
+              {
+                "w": "to",
+                "t": 9478.0,
+                "d": 212.0
+              },
+              {
+                "w": "all",
+                "t": 9691.0,
+                "d": 296.0
+              },
+              {
+                "w": "who",
+                "t": 9988.0,
+                "d": 255.0
+              },
+              {
+                "w": "entered",
+                "t": 10243.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/harapala_s_skin/img/p12.png",
+      "shot": "wide shot of townsfolk passing under the gate, looking away",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "It was punitive statecraft, recorded without embellishment: a display meant to crush the thought of Yadava revolt, not a feud of faith, but a calculated terror of power.",
+            "hi": "यह सज़ा से ज़्यादा हुकूमत की चाल थी, बिना सजावट के दर्ज: एक नुमाइश, ताकि यादव बग़ावत का ख़याल ही टूट जाए—यह मज़हबी जंग नहीं, ताक़त के खौफ़ की सोची‑समझी राजनीति थी।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p12_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "It",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "was",
+                "t": 244.0,
+                "d": 340.0
+              },
+              {
+                "w": "punitive",
+                "t": 585.0,
+                "d": 510.0
+              },
+              {
+                "w": "statecraft",
+                "t": 1095.0,
+                "d": 1062.0
+              },
+              {
+                "w": "recorded",
+                "t": 2244.0,
+                "d": 680.0
+              },
+              {
+                "w": "without",
+                "t": 2925.0,
+                "d": 468.0
+              },
+              {
+                "w": "embellishment",
+                "t": 3393.0,
+                "d": 1361.0
+              },
+              {
+                "w": "a",
+                "t": 4882.0,
+                "d": 170.0
+              },
+              {
+                "w": "display",
+                "t": 5053.0,
+                "d": 468.0
+              },
+              {
+                "w": "meant",
+                "t": 5521.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 5819.0,
+                "d": 170.0
+              },
+              {
+                "w": "crush",
+                "t": 5989.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 6287.0,
+                "d": 127.0
+              },
+              {
+                "w": "thought",
+                "t": 6414.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 6755.0,
+                "d": 170.0
+              },
+              {
+                "w": "Yadava",
+                "t": 6925.0,
+                "d": 425.0
+              },
+              {
+                "w": "revolt",
+                "t": 7351.0,
+                "d": 638.0
+              },
+              {
+                "w": "not",
+                "t": 8287.0,
+                "d": 339.0
+              },
+              {
+                "w": "a",
+                "t": 8626.0,
+                "d": 42.0
+              },
+              {
+                "w": "feud",
+                "t": 8669.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 8968.0,
+                "d": 126.0
+              },
+              {
+                "w": "faith",
+                "t": 9094.0,
+                "d": 553.0
+              },
+              {
+                "w": "but",
+                "t": 9861.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 10117.0,
+                "d": 85.0
+              },
+              {
+                "w": "calculated",
+                "t": 10202.0,
+                "d": 808.0
+              },
+              {
+                "w": "terror",
+                "t": 11010.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 11351.0,
+                "d": 212.0
+              },
+              {
+                "w": "power",
+                "t": 11563.0,
+                "d": 467.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/harapala_s_skin/img/p13.png",
+      "shot": "broad aerial of Devagiri under new banners",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "After Harapala, the Yadava line effectively ends in the record. Devagiri passes fully into Sultanate control, a Deccan outpost of Delhi's expanding empire.",
+            "hi": "हरपाल के बाद दर्ज इतिहास में यादव वंश लगभग ख़त्म हो जाता है। देवगिरी पूरी तरह सल्तनत के हाथ आता है, दिल्ली की फैलती सल्तनत का दक्कनी चौकीघर बन कर।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p13_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "After",
+                "t": 117.0,
+                "d": 382.0
+              },
+              {
+                "w": "Harapala",
+                "t": 500.0,
+                "d": 765.0
+              },
+              {
+                "w": "the",
+                "t": 1393.0,
+                "d": 212.0
+              },
+              {
+                "w": "Yadava",
+                "t": 1606.0,
+                "d": 425.0
+              },
+              {
+                "w": "line",
+                "t": 2031.0,
+                "d": 297.0
+              },
+              {
+                "w": "effectively",
+                "t": 2329.0,
+                "d": 679.0
+              },
+              {
+                "w": "ends",
+                "t": 3009.0,
+                "d": 298.0
+              },
+              {
+                "w": "in",
+                "t": 3308.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 3393.0,
+                "d": 126.0
+              },
+              {
+                "w": "record",
+                "t": 3520.0,
+                "d": 510.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 4968.0,
+                "d": 553.0
+              },
+              {
+                "w": "passes",
+                "t": 5521.0,
+                "d": 510.0
+              },
+              {
+                "w": "fully",
+                "t": 6031.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 6414.0,
+                "d": 255.0
+              },
+              {
+                "w": "Sultanate",
+                "t": 6670.0,
+                "d": 595.0
+              },
+              {
+                "w": "control",
+                "t": 7265.0,
+                "d": 723.0
+              },
+              {
+                "w": "a",
+                "t": 8202.0,
+                "d": 297.0
+              },
+              {
+                "w": "Deccan",
+                "t": 8500.0,
+                "d": 382.0
+              },
+              {
+                "w": "outpost",
+                "t": 8882.0,
+                "d": 553.0
+              },
+              {
+                "w": "of",
+                "t": 9436.0,
+                "d": 170.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 9606.0,
+                "d": 425.0
+              },
+              {
+                "w": "expanding",
+                "t": 10031.0,
+                "d": 764.0
+              },
+              {
+                "w": "empire",
+                "t": 10796.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/harapala_s_skin/img/p14.png",
+      "shot": "time-lapse style wide of Devagiri across changing skies",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Soon, other rulers will rise here. Devagiri will be renamed Daulatabad, and in later centuries it will see new faiths, new dynasties, new forced marches.",
+            "hi": "जल्द ही यहाँ नए शासक उठेंगे। देवगिरी का नाम दौलताबाद होगा, और आने वाली सदियों में यह नई आस्थाएँ, नए वंश, नई जबरी यात्राएँ देखेगा।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p14_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Soon",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "other",
+                "t": 670.0,
+                "d": 297.0
+              },
+              {
+                "w": "rulers",
+                "t": 968.0,
+                "d": 382.0
+              },
+              {
+                "w": "will",
+                "t": 1351.0,
+                "d": 170.0
+              },
+              {
+                "w": "rise",
+                "t": 1521.0,
+                "d": 297.0
+              },
+              {
+                "w": "here",
+                "t": 1819.0,
+                "d": 595.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 2797.0,
+                "d": 595.0
+              },
+              {
+                "w": "will",
+                "t": 3393.0,
+                "d": 169.0
+              },
+              {
+                "w": "be",
+                "t": 3562.0,
+                "d": 127.0
+              },
+              {
+                "w": "renamed",
+                "t": 3690.0,
+                "d": 425.0
+              },
+              {
+                "w": "Daulatabad",
+                "t": 4115.0,
+                "d": 1064.0
+              },
+              {
+                "w": "and",
+                "t": 5223.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 5563.0,
+                "d": 127.0
+              },
+              {
+                "w": "later",
+                "t": 5691.0,
+                "d": 340.0
+              },
+              {
+                "w": "centuries",
+                "t": 6031.0,
+                "d": 680.0
+              },
+              {
+                "w": "it",
+                "t": 6712.0,
+                "d": 212.0
+              },
+              {
+                "w": "will",
+                "t": 6925.0,
+                "d": 170.0
+              },
+              {
+                "w": "see",
+                "t": 7095.0,
+                "d": 127.0
+              },
+              {
+                "w": "new",
+                "t": 7223.0,
+                "d": 255.0
+              },
+              {
+                "w": "faiths",
+                "t": 7478.0,
+                "d": 255.0
+              },
+              {
+                "w": "new",
+                "t": 7734.0,
+                "d": 127.0
+              },
+              {
+                "w": "dynasties",
+                "t": 7861.0,
+                "d": 553.0
+              },
+              {
+                "w": "new",
+                "t": 8541.0,
+                "d": 297.0
+              },
+              {
+                "w": "forced",
+                "t": 8839.0,
+                "d": 384.0
+              },
+              {
+                "w": "marches",
+                "t": 9223.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/harapala_s_skin/img/p15.png",
+      "shot": "gentle close-up of Harapala’s face in memory, fading into stone",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Of Harapala himself, we know little beyond the bare lines of revolt and punishment. The chronicles leave him as a name at the hinge where Yadava rule snaps.",
+            "hi": "हरपाल के बारे में हमें विद्रोह और सज़ा की सूखी पंक्तियों से ज़्यादा बहुत कम पता है। इतिहास उसे बस एक नाम छोड़ता है, उस जोड़ पर जहाँ यादव राज टूटता है।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p15_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Of",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Harapala",
+                "t": 287.0,
+                "d": 553.0
+              },
+              {
+                "w": "himself",
+                "t": 840.0,
+                "d": 595.0
+              },
+              {
+                "w": "we",
+                "t": 2031.0,
+                "d": 212.0
+              },
+              {
+                "w": "know",
+                "t": 2244.0,
+                "d": 211.0
+              },
+              {
+                "w": "little",
+                "t": 2456.0,
+                "d": 384.0
+              },
+              {
+                "w": "beyond",
+                "t": 2840.0,
+                "d": 339.0
+              },
+              {
+                "w": "the",
+                "t": 3179.0,
+                "d": 171.0
+              },
+              {
+                "w": "bare",
+                "t": 3351.0,
+                "d": 296.0
+              },
+              {
+                "w": "lines",
+                "t": 3647.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 3946.0,
+                "d": 169.0
+              },
+              {
+                "w": "revolt",
+                "t": 4115.0,
+                "d": 639.0
+              },
+              {
+                "w": "and",
+                "t": 4797.0,
+                "d": 255.0
+              },
+              {
+                "w": "punishment",
+                "t": 5053.0,
+                "d": 936.0
+              },
+              {
+                "w": "The",
+                "t": 6414.0,
+                "d": 212.0
+              },
+              {
+                "w": "chronicles",
+                "t": 6627.0,
+                "d": 638.0
+              },
+              {
+                "w": "leave",
+                "t": 7265.0,
+                "d": 297.0
+              },
+              {
+                "w": "him",
+                "t": 7563.0,
+                "d": 170.0
+              },
+              {
+                "w": "as",
+                "t": 7734.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 7904.0,
+                "d": 85.0
+              },
+              {
+                "w": "name",
+                "t": 7989.0,
+                "d": 425.0
+              },
+              {
+                "w": "at",
+                "t": 8414.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 8541.0,
+                "d": 170.0
+              },
+              {
+                "w": "hinge",
+                "t": 8711.0,
+                "d": 681.0
+              },
+              {
+                "w": "where",
+                "t": 9436.0,
+                "d": 255.0
+              },
+              {
+                "w": "Yadava",
+                "t": 9691.0,
+                "d": 467.0
+              },
+              {
+                "w": "rule",
+                "t": 10158.0,
+                "d": 426.0
+              },
+              {
+                "w": "snaps",
+                "t": 10585.0,
+                "d": 851.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/harapala_s_skin/img/p16.png",
+      "shot": "slow pull-back from Devagiri gate to the wider landscape",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Harapala's skin could be hung to end a kingdom, but not its memory. In that stark image at Devagiri's gate, we still glimpse how power chooses to rule, and how resistance pays its price.",
+            "hi": "हरपाल की खाल टाँग कर राज तो ख़त्म किया जा सकता था, याद नहीं। देवगिरी के फाटक की उस सख़्त तस्वीर में आज भी दिखता है कि हुकूमत कैसे राज करती है—और प्रतिरोध कैसे अपनी क़ीमत चुकाता है।"
+          },
+          "audio": {
+            "en": "assets/harapala_s_skin/audio/en/p16_0.mp3",
+            "hi": "assets/harapala_s_skin/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Harapala's",
+                "t": 74.0,
+                "d": 723.0
+              },
+              {
+                "w": "skin",
+                "t": 797.0,
+                "d": 297.0
+              },
+              {
+                "w": "could",
+                "t": 1095.0,
+                "d": 212.0
+              },
+              {
+                "w": "be",
+                "t": 1308.0,
+                "d": 127.0
+              },
+              {
+                "w": "hung",
+                "t": 1436.0,
+                "d": 212.0
+              },
+              {
+                "w": "to",
+                "t": 1648.0,
+                "d": 170.0
+              },
+              {
+                "w": "end",
+                "t": 1819.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 1989.0,
+                "d": 85.0
+              },
+              {
+                "w": "kingdom",
+                "t": 2074.0,
+                "d": 851.0
+              },
+              {
+                "w": "but",
+                "t": 2925.0,
+                "d": 297.0
+              },
+              {
+                "w": "not",
+                "t": 3223.0,
+                "d": 296.0
+              },
+              {
+                "w": "its",
+                "t": 3520.0,
+                "d": 213.0
+              },
+              {
+                "w": "memory",
+                "t": 3734.0,
+                "d": 638.0
+              },
+              {
+                "w": "In",
+                "t": 4882.0,
+                "d": 297.0
+              },
+              {
+                "w": "that",
+                "t": 5180.0,
+                "d": 170.0
+              },
+              {
+                "w": "stark",
+                "t": 5351.0,
+                "d": 425.0
+              },
+              {
+                "w": "image",
+                "t": 5776.0,
+                "d": 468.0
+              },
+              {
+                "w": "at",
+                "t": 6244.0,
+                "d": 170.0
+              },
+              {
+                "w": "Devagiri's",
+                "t": 6414.0,
+                "d": 638.0
+              },
+              {
+                "w": "gate",
+                "t": 7053.0,
+                "d": 680.0
+              },
+              {
+                "w": "we",
+                "t": 7861.0,
+                "d": 212.0
+              },
+              {
+                "w": "still",
+                "t": 8074.0,
+                "d": 382.0
+              },
+              {
+                "w": "glimpse",
+                "t": 8457.0,
+                "d": 381.0
+              },
+              {
+                "w": "how",
+                "t": 8839.0,
+                "d": 170.0
+              },
+              {
+                "w": "power",
+                "t": 9009.0,
+                "d": 384.0
+              },
+              {
+                "w": "chooses",
+                "t": 9393.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 9776.0,
+                "d": 170.0
+              },
+              {
+                "w": "rule",
+                "t": 9946.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 10585.0,
+                "d": 296.0
+              },
+              {
+                "w": "how",
+                "t": 10881.0,
+                "d": 128.0
+              },
+              {
+                "w": "resistance",
+                "t": 11010.0,
+                "d": 764.0
+              },
+              {
+                "w": "pays",
+                "t": 11775.0,
+                "d": 298.0
+              },
+              {
+                "w": "its",
+                "t": 12074.0,
+                "d": 211.0
+              },
+              {
+                "w": "price",
+                "t": 12286.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Harapala of Devagiri",
+    "epithets": [
+      "Yadava claimant of Devagiri",
+      "Last rebel of Devagiri",
+      "Heir of Ramachandra",
+      "Prince against the Khaljis"
+    ],
+    "legend": "His flayed skin marked the end of a kingdom’s crown."
+  }
+}
