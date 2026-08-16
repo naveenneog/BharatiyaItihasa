@@ -1,0 +1,3862 @@
+{
+  "id": "eastward_march",
+  "title": "Eastward March",
+  "title_i18n": {
+    "en": "Eastward March",
+    "hi": "पूरब की चढ़ाई"
+  },
+  "figure": "Jaitugi",
+  "era": "Yadava-Kakatiya frontier settlement, c. 1191-1198 CE",
+  "moral": "Sometimes rule is secured by releasing an enemy wisely.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/eastward_march/intro/hero.png",
+      "name": "Jaitugi Yadava",
+      "epithets": [
+        "Jaitugi Deva",
+        "Yadava Mahamandaleshvara",
+        "Lord of Devagiri",
+        "Conqueror of Kakatiya Country"
+      ],
+      "legend": "He beat an eastern prince, then freed him to guard his realm.",
+      "era": "Yadava-Kakatiya frontier settlement, c. 1191-1198 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Jaitugi rides east, crushes the Kakatiya power, and chains Ganapati. Now he must choose: rule a strange land by force, or trust a beaten foe to guard his frontier.",
+            "hi": "जैतुगी पूरब बढ़ता है, काकतीयों को कुचलकर गणपति को बेड़ियों में जकड़ देता है। अब उसे चुनना है: ताकत से अजनबी देश पर राज करे, या हारे दुश्मन पर भरोसा करके अपने सरहद की रखवाली।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/intro/hero_en.mp3",
+            "hi": "assets/eastward_march/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Jaitugi",
+                "t": 72.0,
+                "d": 708.0
+              },
+              {
+                "w": "rides",
+                "t": 781.0,
+                "d": 416.0
+              },
+              {
+                "w": "east",
+                "t": 1239.0,
+                "d": 625.0
+              },
+              {
+                "w": "crushes",
+                "t": 2072.0,
+                "d": 541.0
+              },
+              {
+                "w": "the",
+                "t": 2614.0,
+                "d": 166.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 2781.0,
+                "d": 541.0
+              },
+              {
+                "w": "power",
+                "t": 3322.0,
+                "d": 583.0
+              },
+              {
+                "w": "and",
+                "t": 3946.0,
+                "d": 208.0
+              },
+              {
+                "w": "chains",
+                "t": 4155.0,
+                "d": 376.0
+              },
+              {
+                "w": "Ganapati",
+                "t": 4531.0,
+                "d": 666.0
+              },
+              {
+                "w": "Now",
+                "t": 5989.0,
+                "d": 333.0
+              },
+              {
+                "w": "he",
+                "t": 6322.0,
+                "d": 125.0
+              },
+              {
+                "w": "must",
+                "t": 6447.0,
+                "d": 208.0
+              },
+              {
+                "w": "choose",
+                "t": 6656.0,
+                "d": 875.0
+              },
+              {
+                "w": "rule",
+                "t": 7781.0,
+                "d": 416.0
+              },
+              {
+                "w": "a",
+                "t": 8197.0,
+                "d": 41.0
+              },
+              {
+                "w": "strange",
+                "t": 8239.0,
+                "d": 458.0
+              },
+              {
+                "w": "land",
+                "t": 8697.0,
+                "d": 290.0
+              },
+              {
+                "w": "by",
+                "t": 8988.0,
+                "d": 167.0
+              },
+              {
+                "w": "force",
+                "t": 9156.0,
+                "d": 750.0
+              },
+              {
+                "w": "or",
+                "t": 9989.0,
+                "d": 208.0
+              },
+              {
+                "w": "trust",
+                "t": 10197.0,
+                "d": 416.0
+              },
+              {
+                "w": "a",
+                "t": 10614.0,
+                "d": 166.0
+              },
+              {
+                "w": "beaten",
+                "t": 10781.0,
+                "d": 373.0
+              },
+              {
+                "w": "foe",
+                "t": 11155.0,
+                "d": 458.0
+              },
+              {
+                "w": "to",
+                "t": 11780.0,
+                "d": 209.0
+              },
+              {
+                "w": "guard",
+                "t": 11989.0,
+                "d": 291.0
+              },
+              {
+                "w": "his",
+                "t": 12281.0,
+                "d": 166.0
+              },
+              {
+                "w": "frontier",
+                "t": 12447.0,
+                "d": 707.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/eastward_march/intro/map.png",
+      "x": 0.7,
+      "y": 0.55,
+      "label": "Devagiri & Warangal, Yadava–Kakatiya frontier",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On these hot stone plains, forts rise from dust where Yadava spears met Kakatiya steel.",
+            "hi": "इन तपते पत्थर मैदानों से किले उठे, जहाँ यादव भालों ने काकतीय लोहे से टक्कर ली।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/intro/map_en.mp3",
+            "hi": "assets/eastward_march/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 126.0,
+                "d": 183.0
+              },
+              {
+                "w": "these",
+                "t": 310.0,
+                "d": 321.0
+              },
+              {
+                "w": "hot",
+                "t": 632.0,
+                "d": 275.0
+              },
+              {
+                "w": "stone",
+                "t": 908.0,
+                "d": 413.0
+              },
+              {
+                "w": "plains",
+                "t": 1321.0,
+                "d": 735.0
+              },
+              {
+                "w": "forts",
+                "t": 2241.0,
+                "d": 550.0
+              },
+              {
+                "w": "rise",
+                "t": 2791.0,
+                "d": 368.0
+              },
+              {
+                "w": "from",
+                "t": 3160.0,
+                "d": 274.0
+              },
+              {
+                "w": "dust",
+                "t": 3435.0,
+                "d": 736.0
+              },
+              {
+                "w": "where",
+                "t": 4401.0,
+                "d": 231.0
+              },
+              {
+                "w": "Yadava",
+                "t": 4632.0,
+                "d": 505.0
+              },
+              {
+                "w": "spears",
+                "t": 5137.0,
+                "d": 643.0
+              },
+              {
+                "w": "met",
+                "t": 5781.0,
+                "d": 597.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 6425.0,
+                "d": 551.0
+              },
+              {
+                "w": "steel",
+                "t": 6977.0,
+                "d": 367.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/eastward_march/img/cover.png",
+      "shot": "epic low-angle wide of a frontier landscape, Devagiri plateau fading west, distant Telangana plains east, with Jaitugi central between them",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hemadri sings that Jaitugi crushed the Kakatiyas and chained Ganapati, yet he chose to free his captive and rule the eastern frontier through him. Why did a conqueror release his defeated enemy?",
+            "hi": "हेमाद्रि गाता है कि जैतुगि ने काकतीयों को कुचला, गणपति को बेड़ियों में जकड़ा—पर उसने कैदी को छोड़ दिया, और उसी के जरिये पूरबी सीमा पर राज किया। विजेता ने हारे दुश्मन को क्यों आज़ाद किया?"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/cover_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hemadri",
+                "t": 74.0,
+                "d": 553.0
+              },
+              {
+                "w": "sings",
+                "t": 627.0,
+                "d": 382.0
+              },
+              {
+                "w": "that",
+                "t": 1010.0,
+                "d": 212.0
+              },
+              {
+                "w": "Jaitugi",
+                "t": 1223.0,
+                "d": 723.0
+              },
+              {
+                "w": "crushed",
+                "t": 1946.0,
+                "d": 594.0
+              },
+              {
+                "w": "the",
+                "t": 2541.0,
+                "d": 128.0
+              },
+              {
+                "w": "Kakatiyas",
+                "t": 2670.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 3436.0,
+                "d": 254.0
+              },
+              {
+                "w": "chained",
+                "t": 3690.0,
+                "d": 382.0
+              },
+              {
+                "w": "Ganapati",
+                "t": 4073.0,
+                "d": 426.0
+              },
+              {
+                "w": "yet",
+                "t": 4500.0,
+                "d": 978.0
+              },
+              {
+                "w": "he",
+                "t": 5478.0,
+                "d": 127.0
+              },
+              {
+                "w": "chose",
+                "t": 5606.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 5946.0,
+                "d": 127.0
+              },
+              {
+                "w": "free",
+                "t": 6074.0,
+                "d": 297.0
+              },
+              {
+                "w": "his",
+                "t": 6372.0,
+                "d": 212.0
+              },
+              {
+                "w": "captive",
+                "t": 6585.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 7393.0,
+                "d": 340.0
+              },
+              {
+                "w": "rule",
+                "t": 7734.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 7989.0,
+                "d": 127.0
+              },
+              {
+                "w": "eastern",
+                "t": 8117.0,
+                "d": 552.0
+              },
+              {
+                "w": "frontier",
+                "t": 8669.0,
+                "d": 554.0
+              },
+              {
+                "w": "through",
+                "t": 9223.0,
+                "d": 297.0
+              },
+              {
+                "w": "him",
+                "t": 9521.0,
+                "d": 1360.0
+              },
+              {
+                "w": "Why",
+                "t": 10881.0,
+                "d": 340.0
+              },
+              {
+                "w": "did",
+                "t": 11222.0,
+                "d": 128.0
+              },
+              {
+                "w": "a",
+                "t": 11351.0,
+                "d": 127.0
+              },
+              {
+                "w": "conqueror",
+                "t": 11478.0,
+                "d": 510.0
+              },
+              {
+                "w": "release",
+                "t": 11989.0,
+                "d": 467.0
+              },
+              {
+                "w": "his",
+                "t": 12456.0,
+                "d": 213.0
+              },
+              {
+                "w": "defeated",
+                "t": 12670.0,
+                "d": 553.0
+              },
+              {
+                "w": "enemy",
+                "t": 13223.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/eastward_march/img/p01.png",
+      "shot": "slow push-in on Jaitugi in council chamber at Devagiri, map-strewn stone floor",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the late twelfth century, Devagiri's Yadavas faced a harsh truth: the west was restless, the south uncertain, and the east, toward the Kakatiya country, lay half-known, yet full of rival claims and shifting loyalties.",
+            "hi": "बारहवीं सदी के अंत में देवगिरी के यादवों पर कड़वी सच्चाई साफ थी: पश्चिम बेचैन, दक्षिण डावाँडोल, और पूरब—काकती देश की ओर—आधा जाना, पर दावों से भरा, निष्ठाएँ हर पल बदलतीं।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p01_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "late",
+                "t": 414.0,
+                "d": 297.0
+              },
+              {
+                "w": "twelfth",
+                "t": 712.0,
+                "d": 382.0
+              },
+              {
+                "w": "century",
+                "t": 1095.0,
+                "d": 851.0
+              },
+              {
+                "w": "Devagiri's",
+                "t": 2031.0,
+                "d": 723.0
+              },
+              {
+                "w": "Yadavas",
+                "t": 2755.0,
+                "d": 638.0
+              },
+              {
+                "w": "faced",
+                "t": 3393.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 3819.0,
+                "d": 170.0
+              },
+              {
+                "w": "harsh",
+                "t": 3989.0,
+                "d": 425.0
+              },
+              {
+                "w": "truth",
+                "t": 4414.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 4755.0,
+                "d": 297.0
+              },
+              {
+                "w": "west",
+                "t": 5946.0,
+                "d": 382.0
+              },
+              {
+                "w": "was",
+                "t": 6329.0,
+                "d": 212.0
+              },
+              {
+                "w": "restless",
+                "t": 6542.0,
+                "d": 851.0
+              },
+              {
+                "w": "the",
+                "t": 7606.0,
+                "d": 255.0
+              },
+              {
+                "w": "south",
+                "t": 7861.0,
+                "d": 340.0
+              },
+              {
+                "w": "uncertain",
+                "t": 8202.0,
+                "d": 977.0
+              },
+              {
+                "w": "and",
+                "t": 9223.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 9563.0,
+                "d": 127.0
+              },
+              {
+                "w": "east",
+                "t": 9691.0,
+                "d": 851.0
+              },
+              {
+                "w": "toward",
+                "t": 10796.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 11222.0,
+                "d": 213.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 11436.0,
+                "d": 509.0
+              },
+              {
+                "w": "country",
+                "t": 11945.0,
+                "d": 978.0
+              },
+              {
+                "w": "lay",
+                "t": 13053.0,
+                "d": 340.0
+              },
+              {
+                "w": "half-known",
+                "t": 13393.0,
+                "d": 594.0
+              },
+              {
+                "w": "yet",
+                "t": 14542.0,
+                "d": 297.0
+              },
+              {
+                "w": "full",
+                "t": 14840.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 15095.0,
+                "d": 170.0
+              },
+              {
+                "w": "rival",
+                "t": 15265.0,
+                "d": 425.0
+              },
+              {
+                "w": "claims",
+                "t": 15691.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 16286.0,
+                "d": 213.0
+              },
+              {
+                "w": "shifting",
+                "t": 16500.0,
+                "d": 468.0
+              },
+              {
+                "w": "loyalties",
+                "t": 16968.0,
+                "d": 851.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/eastward_march/img/p02.png",
+      "shot": "wide bird's-eye over Deccan plateau showing multiple power centers marked by forts",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Yadavas at Devagiri, Hoysalas near Dorasamudra, and the rising Kakatiyas around Warangal watched one another across rugged lands. No border was neat; frontier was a living, contested space.",
+            "hi": "देवगिरी के यादव, दोरसमुद्र के पास होयसाल, और वरंगल के उठते काकती एक-दूजे को ऊबड़ देस के पार ताकते रहे। कोई सीमा सीधी न थी; सरहद खुद चलती-लड़ती जगह थी।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p02_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Yadavas",
+                "t": 80.0,
+                "d": 689.0
+              },
+              {
+                "w": "at",
+                "t": 770.0,
+                "d": 229.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 1000.0,
+                "d": 735.0
+              },
+              {
+                "w": "Hoysalas",
+                "t": 2241.0,
+                "d": 827.0
+              },
+              {
+                "w": "near",
+                "t": 3068.0,
+                "d": 228.0
+              },
+              {
+                "w": "Dorasamudra",
+                "t": 3297.0,
+                "d": 1057.0
+              },
+              {
+                "w": "and",
+                "t": 4770.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 5000.0,
+                "d": 137.0
+              },
+              {
+                "w": "rising",
+                "t": 5137.0,
+                "d": 551.0
+              },
+              {
+                "w": "Kakatiyas",
+                "t": 5689.0,
+                "d": 597.0
+              },
+              {
+                "w": "around",
+                "t": 6287.0,
+                "d": 321.0
+              },
+              {
+                "w": "Warangal",
+                "t": 6609.0,
+                "d": 643.0
+              },
+              {
+                "w": "watched",
+                "t": 7252.0,
+                "d": 459.0
+              },
+              {
+                "w": "one",
+                "t": 7712.0,
+                "d": 275.0
+              },
+              {
+                "w": "another",
+                "t": 7988.0,
+                "d": 505.0
+              },
+              {
+                "w": "across",
+                "t": 8494.0,
+                "d": 459.0
+              },
+              {
+                "w": "rugged",
+                "t": 8954.0,
+                "d": 366.0
+              },
+              {
+                "w": "lands",
+                "t": 9320.0,
+                "d": 552.0
+              },
+              {
+                "w": "No",
+                "t": 10700.0,
+                "d": 367.0
+              },
+              {
+                "w": "border",
+                "t": 11067.0,
+                "d": 322.0
+              },
+              {
+                "w": "was",
+                "t": 11390.0,
+                "d": 229.0
+              },
+              {
+                "w": "neat",
+                "t": 11620.0,
+                "d": 643.0
+              },
+              {
+                "w": "frontier",
+                "t": 12632.0,
+                "d": 642.0
+              },
+              {
+                "w": "was",
+                "t": 13274.0,
+                "d": 183.0
+              },
+              {
+                "w": "a",
+                "t": 13458.0,
+                "d": 93.0
+              },
+              {
+                "w": "living",
+                "t": 13551.0,
+                "d": 827.0
+              },
+              {
+                "w": "contested",
+                "t": 14379.0,
+                "d": 642.0
+              },
+              {
+                "w": "space",
+                "t": 15021.0,
+                "d": 598.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/eastward_march/img/p03.png",
+      "shot": "medium shot, Jaitugi listening intently to a messenger from the south",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hemadri's praise hints that Jaitugi first faced trouble on his southern flank, with Hoysala pressure near his borders. When that crisis ebbed, his attention turned, deliberately, toward the east.",
+            "hi": "हेमाद्रि के गुणगान से झलकता है कि जैतुगि को पहले दक्षिणी तरफ होयसाल दबाव से झटके लगे। जब वो आँधी थमी, उसने सोच-समझकर रुख पूरब की ओर मोड़ा।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p03_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hemadri's",
+                "t": 74.0,
+                "d": 680.0
+              },
+              {
+                "w": "praise",
+                "t": 755.0,
+                "d": 297.0
+              },
+              {
+                "w": "hints",
+                "t": 1053.0,
+                "d": 340.0
+              },
+              {
+                "w": "that",
+                "t": 1393.0,
+                "d": 212.0
+              },
+              {
+                "w": "Jaitugi",
+                "t": 1606.0,
+                "d": 552.0
+              },
+              {
+                "w": "first",
+                "t": 2158.0,
+                "d": 511.0
+              },
+              {
+                "w": "faced",
+                "t": 2670.0,
+                "d": 339.0
+              },
+              {
+                "w": "trouble",
+                "t": 3009.0,
+                "d": 384.0
+              },
+              {
+                "w": "on",
+                "t": 3393.0,
+                "d": 126.0
+              },
+              {
+                "w": "his",
+                "t": 3520.0,
+                "d": 127.0
+              },
+              {
+                "w": "southern",
+                "t": 3647.0,
+                "d": 425.0
+              },
+              {
+                "w": "flank",
+                "t": 4073.0,
+                "d": 681.0
+              },
+              {
+                "w": "with",
+                "t": 4755.0,
+                "d": 255.0
+              },
+              {
+                "w": "Hoysala",
+                "t": 5010.0,
+                "d": 553.0
+              },
+              {
+                "w": "pressure",
+                "t": 5563.0,
+                "d": 382.0
+              },
+              {
+                "w": "near",
+                "t": 5946.0,
+                "d": 255.0
+              },
+              {
+                "w": "his",
+                "t": 6202.0,
+                "d": 170.0
+              },
+              {
+                "w": "borders",
+                "t": 6372.0,
+                "d": 1446.0
+              },
+              {
+                "w": "When",
+                "t": 7861.0,
+                "d": 255.0
+              },
+              {
+                "w": "that",
+                "t": 8117.0,
+                "d": 212.0
+              },
+              {
+                "w": "crisis",
+                "t": 8329.0,
+                "d": 509.0
+              },
+              {
+                "w": "ebbed",
+                "t": 8882.0,
+                "d": 638.0
+              },
+              {
+                "w": "his",
+                "t": 9606.0,
+                "d": 211.0
+              },
+              {
+                "w": "attention",
+                "t": 9818.0,
+                "d": 596.0
+              },
+              {
+                "w": "turned",
+                "t": 10414.0,
+                "d": 552.0
+              },
+              {
+                "w": "deliberately",
+                "t": 11095.0,
+                "d": 978.0
+              },
+              {
+                "w": "toward",
+                "t": 12115.0,
+                "d": 384.0
+              },
+              {
+                "w": "the",
+                "t": 12500.0,
+                "d": 127.0
+              },
+              {
+                "w": "east",
+                "t": 12627.0,
+                "d": 765.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/eastward_march/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/eastward_march/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Jaitugi leaves the council hall behind and walks toward the raw frontier, bearing Yadava resolve into the border dusk.",
+            "hi": "जैतुगी सभा छोड़कर सीमा की ओर बढ़ता है, यादव जिद लेकर शाम की सरहद में उतरता है।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/action/action_auto_en.mp3",
+            "hi": "assets/eastward_march/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Jaitugi",
+                "t": 80.0,
+                "d": 689.0
+              },
+              {
+                "w": "leaves",
+                "t": 770.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 1137.0,
+                "d": 137.0
+              },
+              {
+                "w": "council",
+                "t": 1275.0,
+                "d": 459.0
+              },
+              {
+                "w": "hall",
+                "t": 1735.0,
+                "d": 229.0
+              },
+              {
+                "w": "behind",
+                "t": 1965.0,
+                "d": 643.0
+              },
+              {
+                "w": "and",
+                "t": 2609.0,
+                "d": 321.0
+              },
+              {
+                "w": "walks",
+                "t": 2931.0,
+                "d": 366.0
+              },
+              {
+                "w": "toward",
+                "t": 3297.0,
+                "d": 368.0
+              },
+              {
+                "w": "the",
+                "t": 3666.0,
+                "d": 136.0
+              },
+              {
+                "w": "raw",
+                "t": 3803.0,
+                "d": 183.0
+              },
+              {
+                "w": "frontier",
+                "t": 3987.0,
+                "d": 690.0
+              },
+              {
+                "w": "bearing",
+                "t": 5183.0,
+                "d": 505.0
+              },
+              {
+                "w": "Yadava",
+                "t": 5689.0,
+                "d": 459.0
+              },
+              {
+                "w": "resolve",
+                "t": 6149.0,
+                "d": 643.0
+              },
+              {
+                "w": "into",
+                "t": 6793.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 6977.0,
+                "d": 183.0
+              },
+              {
+                "w": "border",
+                "t": 7160.0,
+                "d": 367.0
+              },
+              {
+                "w": "dusk",
+                "t": 7528.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/eastward_march/img/p04.png",
+      "shot": "close-up on Hemadri’s imagined hand writing with stylus on palm leaf beside an image of Jaitugi",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In his Chaturvarga Chintamani, Hemadri calls Jaitugi a lion who shattered the Kakatiya line, mentions a Raudra whose head was taken, and speaks of Ganapati seized like a captive elephant.",
+            "hi": "अपने ‘चतुर्वर्ग चिंतामणि’ में हेमाद्रि जैतुगि को सिंह कहता है, जिसने काकती वंश तोड़ दिया; एक ‘रौद्र’ का सिर लिया गया, और गणपति को बंधे हाथों वाले हाथी सा पकड़ा गया।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p04_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "his",
+                "t": 287.0,
+                "d": 255.0
+              },
+              {
+                "w": "Chaturvarga",
+                "t": 542.0,
+                "d": 765.0
+              },
+              {
+                "w": "Chintamani",
+                "t": 1308.0,
+                "d": 808.0
+              },
+              {
+                "w": "Hemadri",
+                "t": 2498.0,
+                "d": 553.0
+              },
+              {
+                "w": "calls",
+                "t": 3094.0,
+                "d": 341.0
+              },
+              {
+                "w": "Jaitugi",
+                "t": 3436.0,
+                "d": 722.0
+              },
+              {
+                "w": "a",
+                "t": 4158.0,
+                "d": 171.0
+              },
+              {
+                "w": "lion",
+                "t": 4329.0,
+                "d": 595.0
+              },
+              {
+                "w": "who",
+                "t": 5095.0,
+                "d": 170.0
+              },
+              {
+                "w": "shattered",
+                "t": 5265.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 5819.0,
+                "d": 170.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 5989.0,
+                "d": 468.0
+              },
+              {
+                "w": "line",
+                "t": 6457.0,
+                "d": 680.0
+              },
+              {
+                "w": "mentions",
+                "t": 7223.0,
+                "d": 595.0
+              },
+              {
+                "w": "a",
+                "t": 7819.0,
+                "d": 170.0
+              },
+              {
+                "w": "Raudra",
+                "t": 7989.0,
+                "d": 679.0
+              },
+              {
+                "w": "whose",
+                "t": 8754.0,
+                "d": 298.0
+              },
+              {
+                "w": "head",
+                "t": 9053.0,
+                "d": 170.0
+              },
+              {
+                "w": "was",
+                "t": 9223.0,
+                "d": 255.0
+              },
+              {
+                "w": "taken",
+                "t": 9478.0,
+                "d": 679.0
+              },
+              {
+                "w": "and",
+                "t": 10202.0,
+                "d": 340.0
+              },
+              {
+                "w": "speaks",
+                "t": 10542.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 10925.0,
+                "d": 170.0
+              },
+              {
+                "w": "Ganapati",
+                "t": 11095.0,
+                "d": 553.0
+              },
+              {
+                "w": "seized",
+                "t": 11648.0,
+                "d": 722.0
+              },
+              {
+                "w": "like",
+                "t": 12371.0,
+                "d": 341.0
+              },
+              {
+                "w": "a",
+                "t": 12712.0,
+                "d": 126.0
+              },
+              {
+                "w": "captive",
+                "t": 12839.0,
+                "d": 425.0
+              },
+              {
+                "w": "elephant",
+                "t": 13264.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/eastward_march/img/p05.png",
+      "shot": "thoughtful close-up on Jaitugi’s face lit by lamplight, eyes turned toward the east-facing doorway",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Around eleven ninety-one to eleven ninety-eight CE, he chose to march east. The campaign would test not only his force of arms, but the way Devagiri would hold its farthest lands.",
+            "hi": "लगभग 1191–1198 ई. में उसने पूरब को चढ़ाई चुनी। यह मुहिम सिर्फ उसकी तलवार नहीं, देवगिरी की दूर की ज़मीनें संभालने की ताकत भी आजमाती।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p05_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Around",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "eleven",
+                "t": 457.0,
+                "d": 382.0
+              },
+              {
+                "w": "ninety-one",
+                "t": 840.0,
+                "d": 510.0
+              },
+              {
+                "w": "to",
+                "t": 1351.0,
+                "d": 212.0
+              },
+              {
+                "w": "eleven",
+                "t": 1563.0,
+                "d": 340.0
+              },
+              {
+                "w": "ninety-eight",
+                "t": 1904.0,
+                "d": 765.0
+              },
+              {
+                "w": "CE",
+                "t": 2670.0,
+                "d": 467.0
+              },
+              {
+                "w": "he",
+                "t": 3520.0,
+                "d": 341.0
+              },
+              {
+                "w": "chose",
+                "t": 3861.0,
+                "d": 296.0
+              },
+              {
+                "w": "to",
+                "t": 4158.0,
+                "d": 128.0
+              },
+              {
+                "w": "march",
+                "t": 4287.0,
+                "d": 425.0
+              },
+              {
+                "w": "east",
+                "t": 4712.0,
+                "d": 595.0
+              },
+              {
+                "w": "The",
+                "t": 5819.0,
+                "d": 212.0
+              },
+              {
+                "w": "campaign",
+                "t": 6031.0,
+                "d": 468.0
+              },
+              {
+                "w": "would",
+                "t": 6500.0,
+                "d": 212.0
+              },
+              {
+                "w": "test",
+                "t": 6712.0,
+                "d": 340.0
+              },
+              {
+                "w": "not",
+                "t": 7053.0,
+                "d": 255.0
+              },
+              {
+                "w": "only",
+                "t": 7308.0,
+                "d": 212.0
+              },
+              {
+                "w": "his",
+                "t": 7521.0,
+                "d": 212.0
+              },
+              {
+                "w": "force",
+                "t": 7734.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 8031.0,
+                "d": 170.0
+              },
+              {
+                "w": "arms",
+                "t": 8202.0,
+                "d": 637.0
+              },
+              {
+                "w": "but",
+                "t": 9053.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 9264.0,
+                "d": 128.0
+              },
+              {
+                "w": "way",
+                "t": 9393.0,
+                "d": 212.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 9606.0,
+                "d": 510.0
+              },
+              {
+                "w": "would",
+                "t": 10117.0,
+                "d": 211.0
+              },
+              {
+                "w": "hold",
+                "t": 10328.0,
+                "d": 382.0
+              },
+              {
+                "w": "its",
+                "t": 10711.0,
+                "d": 213.0
+              },
+              {
+                "w": "farthest",
+                "t": 10925.0,
+                "d": 425.0
+              },
+              {
+                "w": "lands",
+                "t": 11351.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/eastward_march/img/p06.png",
+      "shot": "epic wide of Yadava host moving east across rocky plains",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Columns of Yadava cavalry and infantry moved out from Devagiri. Their path led through dry uplands and river valleys toward the Kakatiya country, where hill-forts guarded the way.",
+            "hi": "यादव घुड़सवार और पैदल टुकड़ियाँ देवगिरी से चलीं। रास्ता सूखे पठारों, नदी घाटियों से होकर काकती देश तक गया, जहाँ पहाड़ी किले राह रोकते थे।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p06_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Columns",
+                "t": 110.0,
+                "d": 440.0
+              },
+              {
+                "w": "of",
+                "t": 550.0,
+                "d": 120.0
+              },
+              {
+                "w": "Yadava",
+                "t": 670.0,
+                "d": 440.0
+              },
+              {
+                "w": "cavalry",
+                "t": 1110.0,
+                "d": 560.0
+              },
+              {
+                "w": "and",
+                "t": 1670.0,
+                "d": 240.0
+              },
+              {
+                "w": "infantry",
+                "t": 1910.0,
+                "d": 519.0
+              },
+              {
+                "w": "moved",
+                "t": 2429.0,
+                "d": 321.0
+              },
+              {
+                "w": "out",
+                "t": 2750.0,
+                "d": 199.0
+              },
+              {
+                "w": "from",
+                "t": 2949.0,
+                "d": 241.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 3190.0,
+                "d": 639.0
+              },
+              {
+                "w": "Their",
+                "t": 4390.0,
+                "d": 320.0
+              },
+              {
+                "w": "path",
+                "t": 4710.0,
+                "d": 360.0
+              },
+              {
+                "w": "led",
+                "t": 5070.0,
+                "d": 240.0
+              },
+              {
+                "w": "through",
+                "t": 5310.0,
+                "d": 320.0
+              },
+              {
+                "w": "dry",
+                "t": 5630.0,
+                "d": 280.0
+              },
+              {
+                "w": "uplands",
+                "t": 5910.0,
+                "d": 560.0
+              },
+              {
+                "w": "and",
+                "t": 6470.0,
+                "d": 280.0
+              },
+              {
+                "w": "river",
+                "t": 6750.0,
+                "d": 240.0
+              },
+              {
+                "w": "valleys",
+                "t": 6990.0,
+                "d": 600.0
+              },
+              {
+                "w": "toward",
+                "t": 7670.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 7990.0,
+                "d": 159.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 8149.0,
+                "d": 521.0
+              },
+              {
+                "w": "country",
+                "t": 8670.0,
+                "d": 760.0
+              },
+              {
+                "w": "where",
+                "t": 9469.0,
+                "d": 321.0
+              },
+              {
+                "w": "hill-forts",
+                "t": 9790.0,
+                "d": 480.0
+              },
+              {
+                "w": "guarded",
+                "t": 10270.0,
+                "d": 439.0
+              },
+              {
+                "w": "the",
+                "t": 10709.0,
+                "d": 121.0
+              },
+              {
+                "w": "way",
+                "t": 10830.0,
+                "d": 360.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/eastward_march/img/p07.png",
+      "shot": "tense wide of a Kakatiya hill-fort silhouette facing the approaching army",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hemadri speaks of fort after fort subdued, a frontier pushed back. He names a Raudra fallen in battle, but the record stays silent on whether this was Rudradeva or Mahadeva.",
+            "hi": "हेमाद्रि एक-एक किले के दबने, सीमा पीछे खिसकने की बात करता है। वह एक ‘रौद्र’ के रण में गिरने का नाम लेता है, पर शिला-लिखत चुप हैं कि वो रुद्रदेव था या महादेव।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p07_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hemadri",
+                "t": 70.0,
+                "d": 480.0
+              },
+              {
+                "w": "speaks",
+                "t": 550.0,
+                "d": 440.0
+              },
+              {
+                "w": "of",
+                "t": 990.0,
+                "d": 80.0
+              },
+              {
+                "w": "fort",
+                "t": 1070.0,
+                "d": 520.0
+              },
+              {
+                "w": "after",
+                "t": 1630.0,
+                "d": 320.0
+              },
+              {
+                "w": "fort",
+                "t": 1950.0,
+                "d": 280.0
+              },
+              {
+                "w": "subdued",
+                "t": 2230.0,
+                "d": 759.0
+              },
+              {
+                "w": "a",
+                "t": 3030.0,
+                "d": 160.0
+              },
+              {
+                "w": "frontier",
+                "t": 3190.0,
+                "d": 520.0
+              },
+              {
+                "w": "pushed",
+                "t": 3710.0,
+                "d": 320.0
+              },
+              {
+                "w": "back",
+                "t": 4030.0,
+                "d": 800.0
+              },
+              {
+                "w": "He",
+                "t": 4870.0,
+                "d": 320.0
+              },
+              {
+                "w": "names",
+                "t": 5190.0,
+                "d": 240.0
+              },
+              {
+                "w": "a",
+                "t": 5430.0,
+                "d": 80.0
+              },
+              {
+                "w": "Raudra",
+                "t": 5510.0,
+                "d": 440.0
+              },
+              {
+                "w": "fallen",
+                "t": 5950.0,
+                "d": 360.0
+              },
+              {
+                "w": "in",
+                "t": 6310.0,
+                "d": 120.0
+              },
+              {
+                "w": "battle",
+                "t": 6430.0,
+                "d": 440.0
+              },
+              {
+                "w": "but",
+                "t": 7350.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 7550.0,
+                "d": 120.0
+              },
+              {
+                "w": "record",
+                "t": 7670.0,
+                "d": 359.0
+              },
+              {
+                "w": "stays",
+                "t": 8029.0,
+                "d": 321.0
+              },
+              {
+                "w": "silent",
+                "t": 8350.0,
+                "d": 480.0
+              },
+              {
+                "w": "on",
+                "t": 8830.0,
+                "d": 160.0
+              },
+              {
+                "w": "whether",
+                "t": 8990.0,
+                "d": 319.0
+              },
+              {
+                "w": "this",
+                "t": 9309.0,
+                "d": 160.0
+              },
+              {
+                "w": "was",
+                "t": 9469.0,
+                "d": 201.0
+              },
+              {
+                "w": "Rudradeva",
+                "t": 9670.0,
+                "d": 799.0
+              },
+              {
+                "w": "or",
+                "t": 10469.0,
+                "d": 201.0
+              },
+              {
+                "w": "Mahadeva",
+                "t": 10670.0,
+                "d": 520.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/eastward_march/img/p08.png",
+      "shot": "dynamic mid-shot of Jaitugi in battle posture without showing gore",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The clash was fierce. Hemadri's panegyric makes it blazing and absolute; modern scholars read through the praise to see a hard-fought border war, not an annihilated kingdom.",
+            "hi": "टक्कर विकट थी। हेमाद्रि की स्तुति इसे धधकती, अंतिम बनाती है; आज के विद्वान उसके गीतों के पार देखते हैं—यह एक सख्त सरहदी जंग थी, मिटा दी गयी रियासत नहीं।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p08_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "clash",
+                "t": 270.0,
+                "d": 360.0
+              },
+              {
+                "w": "was",
+                "t": 630.0,
+                "d": 240.0
+              },
+              {
+                "w": "fierce",
+                "t": 870.0,
+                "d": 600.0
+              },
+              {
+                "w": "Hemadri's",
+                "t": 2230.0,
+                "d": 599.0
+              },
+              {
+                "w": "panegyric",
+                "t": 2829.0,
+                "d": 721.0
+              },
+              {
+                "w": "makes",
+                "t": 3590.0,
+                "d": 279.0
+              },
+              {
+                "w": "it",
+                "t": 3869.0,
+                "d": 120.0
+              },
+              {
+                "w": "blazing",
+                "t": 3989.0,
+                "d": 561.0
+              },
+              {
+                "w": "and",
+                "t": 4550.0,
+                "d": 240.0
+              },
+              {
+                "w": "absolute",
+                "t": 4790.0,
+                "d": 920.0
+              },
+              {
+                "w": "modern",
+                "t": 6070.0,
+                "d": 480.0
+              },
+              {
+                "w": "scholars",
+                "t": 6550.0,
+                "d": 520.0
+              },
+              {
+                "w": "read",
+                "t": 7070.0,
+                "d": 200.0
+              },
+              {
+                "w": "through",
+                "t": 7270.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 7550.0,
+                "d": 160.0
+              },
+              {
+                "w": "praise",
+                "t": 7710.0,
+                "d": 359.0
+              },
+              {
+                "w": "to",
+                "t": 8069.0,
+                "d": 160.0
+              },
+              {
+                "w": "see",
+                "t": 8229.0,
+                "d": 201.0
+              },
+              {
+                "w": "a",
+                "t": 8430.0,
+                "d": 80.0
+              },
+              {
+                "w": "hard-fought",
+                "t": 8510.0,
+                "d": 600.0
+              },
+              {
+                "w": "border",
+                "t": 9110.0,
+                "d": 320.0
+              },
+              {
+                "w": "war",
+                "t": 9430.0,
+                "d": 440.0
+              },
+              {
+                "w": "not",
+                "t": 10229.0,
+                "d": 320.0
+              },
+              {
+                "w": "an",
+                "t": 10549.0,
+                "d": 121.0
+              },
+              {
+                "w": "annihilated",
+                "t": 10670.0,
+                "d": 760.0
+              },
+              {
+                "w": "kingdom",
+                "t": 11430.0,
+                "d": 560.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/eastward_march/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/eastward_march/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As the war-smoke thins, Jaitugi lifts his blade to the fort, claiming hard-won ground and demanding new terms.",
+            "hi": "धुएं के छँटते ही, जैतूगी तलवार उठाकर किले की तरफ़ गरजता है—ज़मीन भी अपनी, शर्तें भी नई।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/action/action_auto2_en.mp3",
+            "hi": "assets/eastward_march/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 110.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 350.0,
+                "d": 120.0
+              },
+              {
+                "w": "war-smoke",
+                "t": 470.0,
+                "d": 520.0
+              },
+              {
+                "w": "thins",
+                "t": 990.0,
+                "d": 560.0
+              },
+              {
+                "w": "Jaitugi",
+                "t": 1910.0,
+                "d": 559.0
+              },
+              {
+                "w": "lifts",
+                "t": 2469.0,
+                "d": 360.0
+              },
+              {
+                "w": "his",
+                "t": 2829.0,
+                "d": 160.0
+              },
+              {
+                "w": "blade",
+                "t": 2989.0,
+                "d": 360.0
+              },
+              {
+                "w": "to",
+                "t": 3349.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 3429.0,
+                "d": 161.0
+              },
+              {
+                "w": "fort",
+                "t": 3590.0,
+                "d": 480.0
+              },
+              {
+                "w": "claiming",
+                "t": 4390.0,
+                "d": 480.0
+              },
+              {
+                "w": "hard-won",
+                "t": 4870.0,
+                "d": 440.0
+              },
+              {
+                "w": "ground",
+                "t": 5310.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 5830.0,
+                "d": 280.0
+              },
+              {
+                "w": "demanding",
+                "t": 6110.0,
+                "d": 560.0
+              },
+              {
+                "w": "new",
+                "t": 6670.0,
+                "d": 240.0
+              },
+              {
+                "w": "terms",
+                "t": 6910.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/eastward_march/img/p09.png",
+      "shot": "slow motion-like close-up of Ganapati being led bound but unharmed into Jaitugi’s presence",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From inscriptions and Hemadri's words comes a stark image: Ganapati Deva taken captive. For a moment, the eastern frontier lay in Jaitugi's hands, its chief prisoner before him.",
+            "hi": "शिला-लेखों और हेमाद्रि की बातों से एक कड़ा चित्र उभरता है: गणपति देव बंदी बना लिए गए। एक पल को पूरबी सरहद जैतुगि की मुट्ठी में थी, उसका सरदार कैदी सामने।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p09_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 402.0,
+                "d": 873.0
+              },
+              {
+                "w": "and",
+                "t": 1275.0,
+                "d": 183.0
+              },
+              {
+                "w": "Hemadri's",
+                "t": 1459.0,
+                "d": 643.0
+              },
+              {
+                "w": "words",
+                "t": 2103.0,
+                "d": 781.0
+              },
+              {
+                "w": "comes",
+                "t": 2977.0,
+                "d": 366.0
+              },
+              {
+                "w": "a",
+                "t": 3343.0,
+                "d": 91.0
+              },
+              {
+                "w": "stark",
+                "t": 3435.0,
+                "d": 551.0
+              },
+              {
+                "w": "image",
+                "t": 3987.0,
+                "d": 920.0
+              },
+              {
+                "w": "Ganapati",
+                "t": 5367.0,
+                "d": 643.0
+              },
+              {
+                "w": "Deva",
+                "t": 6011.0,
+                "d": 367.0
+              },
+              {
+                "w": "taken",
+                "t": 6379.0,
+                "d": 459.0
+              },
+              {
+                "w": "captive",
+                "t": 6839.0,
+                "d": 1241.0
+              },
+              {
+                "w": "For",
+                "t": 8264.0,
+                "d": 367.0
+              },
+              {
+                "w": "a",
+                "t": 8632.0,
+                "d": 45.0
+              },
+              {
+                "w": "moment",
+                "t": 8678.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 9137.0,
+                "d": 551.0
+              },
+              {
+                "w": "eastern",
+                "t": 9689.0,
+                "d": 551.0
+              },
+              {
+                "w": "frontier",
+                "t": 10241.0,
+                "d": 550.0
+              },
+              {
+                "w": "lay",
+                "t": 10791.0,
+                "d": 460.0
+              },
+              {
+                "w": "in",
+                "t": 11252.0,
+                "d": 229.0
+              },
+              {
+                "w": "Jaitugi's",
+                "t": 11482.0,
+                "d": 689.0
+              },
+              {
+                "w": "hands",
+                "t": 12172.0,
+                "d": 689.0
+              },
+              {
+                "w": "its",
+                "t": 13045.0,
+                "d": 367.0
+              },
+              {
+                "w": "chief",
+                "t": 13413.0,
+                "d": 367.0
+              },
+              {
+                "w": "prisoner",
+                "t": 13781.0,
+                "d": 458.0
+              },
+              {
+                "w": "before",
+                "t": 14240.0,
+                "d": 414.0
+              },
+              {
+                "w": "him",
+                "t": 14655.0,
+                "d": 413.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/eastward_march/img/p10.png",
+      "shot": "intimate medium shot of Jaitugi and Ganapati seated opposite each other in a tent, guards outside",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Rule your land, Ganapati, under Devagiri's shadow, not against it.",
+            "hi": "“अपना देस चला गणपति—देवगिरी की छाया में, उसके खिलाफ नहीं।”"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p10_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Rule",
+                "t": 52.6,
+                "d": 315.8
+              },
+              {
+                "w": "your",
+                "t": 368.4,
+                "d": 315.8
+              },
+              {
+                "w": "land",
+                "t": 684.2,
+                "d": 473.7
+              },
+              {
+                "w": "Ganapati",
+                "t": 1355.2,
+                "d": 657.9
+              },
+              {
+                "w": "under",
+                "t": 2289.5,
+                "d": 355.2
+              },
+              {
+                "w": "Devagiri's",
+                "t": 2644.8,
+                "d": 671.0
+              },
+              {
+                "w": "shadow",
+                "t": 3368.4,
+                "d": 565.8
+              },
+              {
+                "w": "not",
+                "t": 4184.2,
+                "d": 315.8
+              },
+              {
+                "w": "against",
+                "t": 4526.3,
+                "d": 421.0
+              },
+              {
+                "w": "it",
+                "t": 4947.4,
+                "d": 236.8
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/eastward_march/img/p11.png",
+      "shot": "wide shot of a palm-leaf treaty being placed between them, hands from both sides touching it",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The evidence is clear on the outcome: Ganapati ruled, but as a subordinate. Early Kakatiya inscriptions acknowledge Yadava overlordship, even as they continue to build local power.",
+            "hi": "नतीजा साफ दिखता है: गणपति ने राज किया, पर अधीन बनकर। शुरुआती काकती शिला-लेख यादव प्रभुत्व मानते हैं, साथ ही अपनी स्थानीय ताकत भी गढ़ते रहते हैं।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p11_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "evidence",
+                "t": 287.0,
+                "d": 638.0
+              },
+              {
+                "w": "is",
+                "t": 925.0,
+                "d": 212.0
+              },
+              {
+                "w": "clear",
+                "t": 1138.0,
+                "d": 340.0
+              },
+              {
+                "w": "on",
+                "t": 1478.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 1606.0,
+                "d": 127.0
+              },
+              {
+                "w": "outcome",
+                "t": 1734.0,
+                "d": 553.0
+              },
+              {
+                "w": "Ganapati",
+                "t": 2797.0,
+                "d": 638.0
+              },
+              {
+                "w": "ruled",
+                "t": 3436.0,
+                "d": 978.0
+              },
+              {
+                "w": "but",
+                "t": 4542.0,
+                "d": 212.0
+              },
+              {
+                "w": "as",
+                "t": 4755.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 4882.0,
+                "d": 85.0
+              },
+              {
+                "w": "subordinate",
+                "t": 4968.0,
+                "d": 765.0
+              },
+              {
+                "w": "Early",
+                "t": 6670.0,
+                "d": 425.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 7095.0,
+                "d": 425.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 7521.0,
+                "d": 638.0
+              },
+              {
+                "w": "acknowledge",
+                "t": 8159.0,
+                "d": 1020.0
+              },
+              {
+                "w": "Yadava",
+                "t": 9223.0,
+                "d": 594.0
+              },
+              {
+                "w": "overlordship",
+                "t": 9818.0,
+                "d": 1148.0
+              },
+              {
+                "w": "even",
+                "t": 11392.0,
+                "d": 256.0
+              },
+              {
+                "w": "as",
+                "t": 11648.0,
+                "d": 126.0
+              },
+              {
+                "w": "they",
+                "t": 11775.0,
+                "d": 170.0
+              },
+              {
+                "w": "continue",
+                "t": 11945.0,
+                "d": 510.0
+              },
+              {
+                "w": "to",
+                "t": 12456.0,
+                "d": 128.0
+              },
+              {
+                "w": "build",
+                "t": 12585.0,
+                "d": 424.0
+              },
+              {
+                "w": "local",
+                "t": 13053.0,
+                "d": 467.0
+              },
+              {
+                "w": "power",
+                "t": 13520.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/eastward_march/img/p12.png",
+      "shot": "high-angle shot of rugged Telangana countryside with scattered forts and villages",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Cynthia Talbot and P.V.P. Sastry read the frontier differently from Hemadri's poems: the land was diverse, distant, and resistant to direct rule from Devagiri's plateau.",
+            "hi": "सिंथिया टैलबॉट और पी.वी.पी. सास्त्री सीमा को हेमाद्रि की कविताओं से अलग पढ़ते हैं: ये देस रंग-बिरंगा, दूर, और देवगिरी के पठार से सीधी हुकूमत के खिलाफ था।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p12_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Cynthia",
+                "t": 117.0,
+                "d": 425.0
+              },
+              {
+                "w": "Talbot",
+                "t": 542.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 1053.0,
+                "d": 255.0
+              },
+              {
+                "w": "P.V.P.",
+                "t": 1308.0,
+                "d": 510.0
+              },
+              {
+                "w": "Sastry",
+                "t": 1819.0,
+                "d": 595.0
+              },
+              {
+                "w": "read",
+                "t": 2414.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 2670.0,
+                "d": 127.0
+              },
+              {
+                "w": "frontier",
+                "t": 2797.0,
+                "d": 510.0
+              },
+              {
+                "w": "differently",
+                "t": 3308.0,
+                "d": 892.0
+              },
+              {
+                "w": "from",
+                "t": 4287.0,
+                "d": 255.0
+              },
+              {
+                "w": "Hemadri's",
+                "t": 4542.0,
+                "d": 553.0
+              },
+              {
+                "w": "poems",
+                "t": 5095.0,
+                "d": 1361.0
+              },
+              {
+                "w": "the",
+                "t": 6457.0,
+                "d": 170.0
+              },
+              {
+                "w": "land",
+                "t": 6627.0,
+                "d": 255.0
+              },
+              {
+                "w": "was",
+                "t": 6882.0,
+                "d": 255.0
+              },
+              {
+                "w": "diverse",
+                "t": 7138.0,
+                "d": 595.0
+              },
+              {
+                "w": "distant",
+                "t": 8031.0,
+                "d": 936.0
+              },
+              {
+                "w": "and",
+                "t": 9053.0,
+                "d": 297.0
+              },
+              {
+                "w": "resistant",
+                "t": 9351.0,
+                "d": 595.0
+              },
+              {
+                "w": "to",
+                "t": 9946.0,
+                "d": 296.0
+              },
+              {
+                "w": "direct",
+                "t": 10243.0,
+                "d": 426.0
+              },
+              {
+                "w": "rule",
+                "t": 10670.0,
+                "d": 296.0
+              },
+              {
+                "w": "from",
+                "t": 10967.0,
+                "d": 298.0
+              },
+              {
+                "w": "Devagiri's",
+                "t": 11265.0,
+                "d": 594.0
+              },
+              {
+                "w": "plateau",
+                "t": 11860.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/eastward_march/img/p13.png",
+      "shot": "medium shot of Jaitugi in council, advisers gesturing toward east on a map",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Jaitugi's choice not to occupy Telangana directly was practical. Distance, terrain and limited manpower made vassalage, rather than full incorporation, the workable way to hold the frontier.",
+            "hi": "जैतुगि का तेलंगाना पर सीधे क़ब्ज़ा न करना समझौता नहीं, दूरदर्शी फैसला था। दूरी, धरती और कम जनशक्ति ने वफादार जागीरदारी को—पूरा विलय नहीं—सरहद संभालने का रास्ता बनाया।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p13_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Jaitugi's",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "choice",
+                "t": 840.0,
+                "d": 468.0
+              },
+              {
+                "w": "not",
+                "t": 1308.0,
+                "d": 212.0
+              },
+              {
+                "w": "to",
+                "t": 1521.0,
+                "d": 127.0
+              },
+              {
+                "w": "occupy",
+                "t": 1648.0,
+                "d": 553.0
+              },
+              {
+                "w": "Telangana",
+                "t": 2202.0,
+                "d": 553.0
+              },
+              {
+                "w": "directly",
+                "t": 2755.0,
+                "d": 468.0
+              },
+              {
+                "w": "was",
+                "t": 3223.0,
+                "d": 296.0
+              },
+              {
+                "w": "practical",
+                "t": 3520.0,
+                "d": 894.0
+              },
+              {
+                "w": "Distance",
+                "t": 4755.0,
+                "d": 765.0
+              },
+              {
+                "w": "terrain",
+                "t": 5606.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 6372.0,
+                "d": 340.0
+              },
+              {
+                "w": "limited",
+                "t": 6712.0,
+                "d": 382.0
+              },
+              {
+                "w": "manpower",
+                "t": 7095.0,
+                "d": 723.0
+              },
+              {
+                "w": "made",
+                "t": 7819.0,
+                "d": 255.0
+              },
+              {
+                "w": "vassalage",
+                "t": 8074.0,
+                "d": 1020.0
+              },
+              {
+                "w": "rather",
+                "t": 9179.0,
+                "d": 384.0
+              },
+              {
+                "w": "than",
+                "t": 9563.0,
+                "d": 212.0
+              },
+              {
+                "w": "full",
+                "t": 9776.0,
+                "d": 340.0
+              },
+              {
+                "w": "incorporation",
+                "t": 10117.0,
+                "d": 1105.0
+              },
+              {
+                "w": "the",
+                "t": 11351.0,
+                "d": 255.0
+              },
+              {
+                "w": "workable",
+                "t": 11606.0,
+                "d": 509.0
+              },
+              {
+                "w": "way",
+                "t": 12115.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 12371.0,
+                "d": 128.0
+              },
+              {
+                "w": "hold",
+                "t": 12500.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 12755.0,
+                "d": 127.0
+              },
+              {
+                "w": "frontier",
+                "t": 12882.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/eastward_march/img/p14.png",
+      "shot": "split-scene style: Devagiri court on one side, Ganapati’s court on the other, both functioning",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "For some years, overlord and vassal coexisted: Yadava suzerainty above, Kakatiya authority below. The frontier was held not by Yadava administrators, but by a local ruler bound by obligation.",
+            "hi": "कुछ बरसों तक मालिक और जागीरदार साथ रहे: ऊपर यादव प्रभुता, नीचे काकती हुकूमत। सरहद यादव अफसरों से नहीं, एक बंधे हुए स्थानीय शासक से थामी गई।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p14_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "For",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "some",
+                "t": 287.0,
+                "d": 297.0
+              },
+              {
+                "w": "years",
+                "t": 585.0,
+                "d": 553.0
+              },
+              {
+                "w": "overlord",
+                "t": 1351.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 2202.0,
+                "d": 254.0
+              },
+              {
+                "w": "vassal",
+                "t": 2456.0,
+                "d": 510.0
+              },
+              {
+                "w": "coexisted",
+                "t": 2967.0,
+                "d": 1106.0
+              },
+              {
+                "w": "Yadava",
+                "t": 4882.0,
+                "d": 510.0
+              },
+              {
+                "w": "suzerainty",
+                "t": 5393.0,
+                "d": 638.0
+              },
+              {
+                "w": "above",
+                "t": 6031.0,
+                "d": 723.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 6882.0,
+                "d": 553.0
+              },
+              {
+                "w": "authority",
+                "t": 7436.0,
+                "d": 595.0
+              },
+              {
+                "w": "below",
+                "t": 8031.0,
+                "d": 382.0
+              },
+              {
+                "w": "The",
+                "t": 9521.0,
+                "d": 211.0
+              },
+              {
+                "w": "frontier",
+                "t": 9732.0,
+                "d": 425.0
+              },
+              {
+                "w": "was",
+                "t": 10158.0,
+                "d": 213.0
+              },
+              {
+                "w": "held",
+                "t": 10372.0,
+                "d": 553.0
+              },
+              {
+                "w": "not",
+                "t": 10925.0,
+                "d": 425.0
+              },
+              {
+                "w": "by",
+                "t": 11351.0,
+                "d": 127.0
+              },
+              {
+                "w": "Yadava",
+                "t": 11478.0,
+                "d": 425.0
+              },
+              {
+                "w": "administrators",
+                "t": 11904.0,
+                "d": 1360.0
+              },
+              {
+                "w": "but",
+                "t": 13478.0,
+                "d": 255.0
+              },
+              {
+                "w": "by",
+                "t": 13734.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 13946.0,
+                "d": 41.0
+              },
+              {
+                "w": "local",
+                "t": 13988.0,
+                "d": 384.0
+              },
+              {
+                "w": "ruler",
+                "t": 14372.0,
+                "d": 340.0
+              },
+              {
+                "w": "bound",
+                "t": 14712.0,
+                "d": 468.0
+              },
+              {
+                "w": "by",
+                "t": 15180.0,
+                "d": 296.0
+              },
+              {
+                "w": "obligation",
+                "t": 15477.0,
+                "d": 893.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/eastward_march/split_auto/s0.png",
+          "slogan": {
+            "en": "Steel and oath shape frontiers",
+            "hi": "इस्पात और शपथ सीमा गढ़ते"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/eastward_march/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/eastward_march/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Between Devagiri and Kakatiya courts, Jaitugi's frontier pact hardens into shared power, binding stone forts and shifting loyalties.",
+            "hi": "देवगिरी और काकतीय दरबारों के बीच जैटुगी का सरहदी समझौता अब सख़्त सत्ता साझेदारी बन गया, किले भी बंध गए, वफ़ादारियाँ भी बदल गईं।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/split/split_auto_en.mp3",
+            "hi": "assets/eastward_march/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Between",
+                "t": 72.0,
+                "d": 458.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 531.0,
+                "d": 583.0
+              },
+              {
+                "w": "and",
+                "t": 1114.0,
+                "d": 291.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 1406.0,
+                "d": 583.0
+              },
+              {
+                "w": "courts",
+                "t": 1989.0,
+                "d": 582.0
+              },
+              {
+                "w": "Jaitugi's",
+                "t": 2988.0,
+                "d": 751.0
+              },
+              {
+                "w": "frontier",
+                "t": 3739.0,
+                "d": 541.0
+              },
+              {
+                "w": "pact",
+                "t": 4281.0,
+                "d": 333.0
+              },
+              {
+                "w": "hardens",
+                "t": 4614.0,
+                "d": 416.0
+              },
+              {
+                "w": "into",
+                "t": 5031.0,
+                "d": 291.0
+              },
+              {
+                "w": "shared",
+                "t": 5322.0,
+                "d": 416.0
+              },
+              {
+                "w": "power",
+                "t": 5739.0,
+                "d": 666.0
+              },
+              {
+                "w": "binding",
+                "t": 6489.0,
+                "d": 541.0
+              },
+              {
+                "w": "stone",
+                "t": 7031.0,
+                "d": 333.0
+              },
+              {
+                "w": "forts",
+                "t": 7364.0,
+                "d": 583.0
+              },
+              {
+                "w": "and",
+                "t": 7989.0,
+                "d": 208.0
+              },
+              {
+                "w": "shifting",
+                "t": 8197.0,
+                "d": 416.0
+              },
+              {
+                "w": "loyalties",
+                "t": 8614.0,
+                "d": 832.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/eastward_march/img/p15.png",
+      "shot": "close-up of a Kakatiya inscription being chiselled, with the faint mention of Yadava overlordship",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Garavapada and other early Ganapati inscriptions speak of grants and titles under overlords. Through these dry lines of stone, the political compromise becomes visible.",
+            "hi": "गरवापद और दूसरे शुरुआती गणपति शिला-लेख जागीरें और उपाधियाँ ऊपर के मालिकों के नाम से लिखते हैं। इन्हीं सूखे पत्थर की पंक्तियों से सियासी समझौता दिखने लगता है।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p15_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Garavapada",
+                "t": 74.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 755.0,
+                "d": 340.0
+              },
+              {
+                "w": "other",
+                "t": 1138.0,
+                "d": 340.0
+              },
+              {
+                "w": "early",
+                "t": 1563.0,
+                "d": 340.0
+              },
+              {
+                "w": "Ganapati",
+                "t": 1904.0,
+                "d": 468.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 2372.0,
+                "d": 851.0
+              },
+              {
+                "w": "speak",
+                "t": 3223.0,
+                "d": 467.0
+              },
+              {
+                "w": "of",
+                "t": 3690.0,
+                "d": 171.0
+              },
+              {
+                "w": "grants",
+                "t": 3861.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 4287.0,
+                "d": 170.0
+              },
+              {
+                "w": "titles",
+                "t": 4457.0,
+                "d": 638.0
+              },
+              {
+                "w": "under",
+                "t": 5095.0,
+                "d": 340.0
+              },
+              {
+                "w": "overlords",
+                "t": 5436.0,
+                "d": 978.0
+              },
+              {
+                "w": "Through",
+                "t": 7010.0,
+                "d": 340.0
+              },
+              {
+                "w": "these",
+                "t": 7351.0,
+                "d": 297.0
+              },
+              {
+                "w": "dry",
+                "t": 7648.0,
+                "d": 297.0
+              },
+              {
+                "w": "lines",
+                "t": 7946.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 8244.0,
+                "d": 127.0
+              },
+              {
+                "w": "stone",
+                "t": 8372.0,
+                "d": 722.0
+              },
+              {
+                "w": "the",
+                "t": 9264.0,
+                "d": 256.0
+              },
+              {
+                "w": "political",
+                "t": 9521.0,
+                "d": 510.0
+              },
+              {
+                "w": "compromise",
+                "t": 10031.0,
+                "d": 679.0
+              },
+              {
+                "w": "becomes",
+                "t": 10711.0,
+                "d": 425.0
+              },
+              {
+                "w": "visible",
+                "t": 11137.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/eastward_march/img/p16.png",
+      "shot": "wide shot over later Warangal fort, suggesting rising Kakatiya strength against distant Devagiri",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In time, Ganapati and his successors would grow stronger, challenging overlords old and new. Yet the memory of Yadava suzerainty marks an early phase of Kakatiya ascent.",
+            "hi": "आगे चलकर गणपति और उनके उत्तराधिकारी ताकतवर हुए, पुराने-नए मालिकों को चुनौती दी। पर यादव प्रभुता की याद काकती उभार के शुरुआती पड़ाव पर निशान छोड़ जाती है।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p16_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "time",
+                "t": 329.0,
+                "d": 595.0
+              },
+              {
+                "w": "Ganapati",
+                "t": 1010.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 1563.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 1691.0,
+                "d": 127.0
+              },
+              {
+                "w": "successors",
+                "t": 1819.0,
+                "d": 679.0
+              },
+              {
+                "w": "would",
+                "t": 2498.0,
+                "d": 213.0
+              },
+              {
+                "w": "grow",
+                "t": 2712.0,
+                "d": 254.0
+              },
+              {
+                "w": "stronger",
+                "t": 2967.0,
+                "d": 767.0
+              },
+              {
+                "w": "challenging",
+                "t": 3904.0,
+                "d": 680.0
+              },
+              {
+                "w": "overlords",
+                "t": 4585.0,
+                "d": 595.0
+              },
+              {
+                "w": "old",
+                "t": 5223.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 5606.0,
+                "d": 297.0
+              },
+              {
+                "w": "new",
+                "t": 5904.0,
+                "d": 723.0
+              },
+              {
+                "w": "Yet",
+                "t": 6968.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 7223.0,
+                "d": 127.0
+              },
+              {
+                "w": "memory",
+                "t": 7351.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 7734.0,
+                "d": 212.0
+              },
+              {
+                "w": "Yadava",
+                "t": 7946.0,
+                "d": 382.0
+              },
+              {
+                "w": "suzerainty",
+                "t": 8329.0,
+                "d": 638.0
+              },
+              {
+                "w": "marks",
+                "t": 8968.0,
+                "d": 510.0
+              },
+              {
+                "w": "an",
+                "t": 9521.0,
+                "d": 170.0
+              },
+              {
+                "w": "early",
+                "t": 9691.0,
+                "d": 425.0
+              },
+              {
+                "w": "phase",
+                "t": 10117.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 10500.0,
+                "d": 296.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 10796.0,
+                "d": 469.0
+              },
+              {
+                "w": "ascent",
+                "t": 11265.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/eastward_march/img/p17.png",
+      "shot": "reflective close-up on Jaitugi in older age, looking at both an unsheathed sword and a sealed document",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hemadri remembers Jaitugi for the blow against the Kakatiyas. The frontier remembers him for something quieter: the decision to hold power with a released enemy, not a distant, strained occupation.",
+            "hi": "हेमाद्रि जैतुगि को काकतीयों पर पड़े घात के लिए याद रखता है। सरहद उसे एक और बात से याद करती है: छूटे दुश्मन के सहारे ताकत पकड़ने का फैसला, दूर, थकी हुई फौजी हुकूमत नहीं।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p17_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hemadri",
+                "t": 70.0,
+                "d": 520.0
+              },
+              {
+                "w": "remembers",
+                "t": 590.0,
+                "d": 600.0
+              },
+              {
+                "w": "Jaitugi",
+                "t": 1190.0,
+                "d": 560.0
+              },
+              {
+                "w": "for",
+                "t": 1750.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 1910.0,
+                "d": 160.0
+              },
+              {
+                "w": "blow",
+                "t": 2070.0,
+                "d": 279.0
+              },
+              {
+                "w": "against",
+                "t": 2349.0,
+                "d": 401.0
+              },
+              {
+                "w": "the",
+                "t": 2750.0,
+                "d": 159.0
+              },
+              {
+                "w": "Kakatiyas",
+                "t": 2909.0,
+                "d": 1241.0
+              },
+              {
+                "w": "The",
+                "t": 4230.0,
+                "d": 200.0
+              },
+              {
+                "w": "frontier",
+                "t": 4430.0,
+                "d": 480.0
+              },
+              {
+                "w": "remembers",
+                "t": 4910.0,
+                "d": 480.0
+              },
+              {
+                "w": "him",
+                "t": 5390.0,
+                "d": 160.0
+              },
+              {
+                "w": "for",
+                "t": 5550.0,
+                "d": 120.0
+              },
+              {
+                "w": "something",
+                "t": 5670.0,
+                "d": 440.0
+              },
+              {
+                "w": "quieter",
+                "t": 6110.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 7270.0,
+                "d": 200.0
+              },
+              {
+                "w": "decision",
+                "t": 7470.0,
+                "d": 480.0
+              },
+              {
+                "w": "to",
+                "t": 7950.0,
+                "d": 159.0
+              },
+              {
+                "w": "hold",
+                "t": 8109.0,
+                "d": 241.0
+              },
+              {
+                "w": "power",
+                "t": 8350.0,
+                "d": 359.0
+              },
+              {
+                "w": "with",
+                "t": 8709.0,
+                "d": 201.0
+              },
+              {
+                "w": "a",
+                "t": 8910.0,
+                "d": 40.0
+              },
+              {
+                "w": "released",
+                "t": 8950.0,
+                "d": 480.0
+              },
+              {
+                "w": "enemy",
+                "t": 9469.0,
+                "d": 721.0
+              },
+              {
+                "w": "not",
+                "t": 10270.0,
+                "d": 320.0
+              },
+              {
+                "w": "a",
+                "t": 10590.0,
+                "d": 80.0
+              },
+              {
+                "w": "distant",
+                "t": 10670.0,
+                "d": 760.0
+              },
+              {
+                "w": "strained",
+                "t": 11549.0,
+                "d": 520.0
+              },
+              {
+                "w": "occupation",
+                "t": 12069.0,
+                "d": 841.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/eastward_march/img/p18.png",
+      "shot": "final wide shot of the Deccan from high above, borders invisible, routes and forts forming a web",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Jaitugi's eastward march shows a frontier not as a line on a map, but as a living choice: when to advance, when to let another rule, and how power can rest on restraint as much as on conquest.",
+            "hi": "जैतुगि की पूरबी चढ़ाई दिखाती है कि सरहद नक्शे की लकीर नहीं, जीती हुई चुन है—कब बढ़ना, कब किसी और को राज करने देना, और कैसे कभी ताकत रोके रखने से भी टिकती है, सिर्फ जीत से नहीं।"
+          },
+          "audio": {
+            "en": "assets/eastward_march/audio/en/p18_0.mp3",
+            "hi": "assets/eastward_march/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Jaitugi's",
+                "t": 117.0,
+                "d": 808.0
+              },
+              {
+                "w": "eastward",
+                "t": 925.0,
+                "d": 638.0
+              },
+              {
+                "w": "march",
+                "t": 1563.0,
+                "d": 553.0
+              },
+              {
+                "w": "shows",
+                "t": 2117.0,
+                "d": 381.0
+              },
+              {
+                "w": "a",
+                "t": 2498.0,
+                "d": 42.0
+              },
+              {
+                "w": "frontier",
+                "t": 2541.0,
+                "d": 937.0
+              },
+              {
+                "w": "not",
+                "t": 3478.0,
+                "d": 340.0
+              },
+              {
+                "w": "as",
+                "t": 3819.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 3946.0,
+                "d": 84.0
+              },
+              {
+                "w": "line",
+                "t": 4030.0,
+                "d": 298.0
+              },
+              {
+                "w": "on",
+                "t": 4329.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 4457.0,
+                "d": 85.0
+              },
+              {
+                "w": "map",
+                "t": 4542.0,
+                "d": 638.0
+              },
+              {
+                "w": "but",
+                "t": 5180.0,
+                "d": 255.0
+              },
+              {
+                "w": "as",
+                "t": 5436.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 5563.0,
+                "d": 85.0
+              },
+              {
+                "w": "living",
+                "t": 5648.0,
+                "d": 340.0
+              },
+              {
+                "w": "choice",
+                "t": 5989.0,
+                "d": 808.0
+              },
+              {
+                "w": "when",
+                "t": 7606.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 7904.0,
+                "d": 170.0
+              },
+              {
+                "w": "advance",
+                "t": 8074.0,
+                "d": 764.0
+              },
+              {
+                "w": "when",
+                "t": 9308.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 9606.0,
+                "d": 126.0
+              },
+              {
+                "w": "let",
+                "t": 9732.0,
+                "d": 213.0
+              },
+              {
+                "w": "another",
+                "t": 9946.0,
+                "d": 381.0
+              },
+              {
+                "w": "rule",
+                "t": 10328.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 11095.0,
+                "d": 296.0
+              },
+              {
+                "w": "how",
+                "t": 11392.0,
+                "d": 171.0
+              },
+              {
+                "w": "power",
+                "t": 11563.0,
+                "d": 425.0
+              },
+              {
+                "w": "can",
+                "t": 11989.0,
+                "d": 170.0
+              },
+              {
+                "w": "rest",
+                "t": 12159.0,
+                "d": 340.0
+              },
+              {
+                "w": "on",
+                "t": 12500.0,
+                "d": 127.0
+              },
+              {
+                "w": "restraint",
+                "t": 12627.0,
+                "d": 552.0
+              },
+              {
+                "w": "as",
+                "t": 13179.0,
+                "d": 255.0
+              },
+              {
+                "w": "much",
+                "t": 13435.0,
+                "d": 298.0
+              },
+              {
+                "w": "as",
+                "t": 13734.0,
+                "d": 127.0
+              },
+              {
+                "w": "on",
+                "t": 13861.0,
+                "d": 211.0
+              },
+              {
+                "w": "conquest",
+                "t": 14117.0,
+                "d": 935.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Jaitugi Yadava",
+    "epithets": [
+      "Jaitugi Deva",
+      "Yadava Mahamandaleshvara",
+      "Lord of Devagiri",
+      "Conqueror of Kakatiya Country"
+    ],
+    "legend": "He beat an eastern prince, then freed him to guard his realm."
+  }
+}
