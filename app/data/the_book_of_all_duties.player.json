@@ -1,0 +1,3962 @@
+{
+  "id": "the_book_of_all_duties",
+  "title": "The Book of All Duties",
+  "title_i18n": {
+    "en": "The Book of All Duties",
+    "hi": "सभी कर्तव्यों की किताब"
+  },
+  "figure": "Hemadri Pandit",
+  "era": "Yadava scholarship and administration, c. 1259-1274 CE",
+  "moral": "A state also survives in the manuals it leaves behind.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_book_of_all_duties/intro/hero.png",
+      "name": "Hemadri Pandit",
+      "epithets": [
+        "Hemadri Pandit",
+        "Dharmashastra scholar",
+        "Author of Chaturvarga Chintamani",
+        "Yadava royal minister"
+      ],
+      "legend": "He tried to write every duty before time erased it.",
+      "era": "Yadava scholarship and administration, c. 1259-1274 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In a court of war and drought, one quiet minister races ink against oblivion, binding vows, laws, and cures into a single book before his king and kingdom fade.",
+            "hi": "युद्ध और सूखे की सभा में, एक शांत मंत्री समय से जूझते हुए, अपने राजा और राज्य के मिटने से पहले सब वचन, कानून और इलाज एक ही किताब में बाँध रहा है।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/intro/hero_en.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 72.0,
+                "d": 166.0
+              },
+              {
+                "w": "a",
+                "t": 239.0,
+                "d": 83.0
+              },
+              {
+                "w": "court",
+                "t": 322.0,
+                "d": 250.0
+              },
+              {
+                "w": "of",
+                "t": 572.0,
+                "d": 208.0
+              },
+              {
+                "w": "war",
+                "t": 781.0,
+                "d": 333.0
+              },
+              {
+                "w": "and",
+                "t": 1114.0,
+                "d": 208.0
+              },
+              {
+                "w": "drought",
+                "t": 1322.0,
+                "d": 583.0
+              },
+              {
+                "w": "one",
+                "t": 2156.0,
+                "d": 373.0
+              },
+              {
+                "w": "quiet",
+                "t": 2530.0,
+                "d": 375.0
+              },
+              {
+                "w": "minister",
+                "t": 2905.0,
+                "d": 541.0
+              },
+              {
+                "w": "races",
+                "t": 3446.0,
+                "d": 541.0
+              },
+              {
+                "w": "ink",
+                "t": 3988.0,
+                "d": 542.0
+              },
+              {
+                "w": "against",
+                "t": 4656.0,
+                "d": 541.0
+              },
+              {
+                "w": "oblivion",
+                "t": 5197.0,
+                "d": 791.0
+              },
+              {
+                "w": "binding",
+                "t": 6072.0,
+                "d": 583.0
+              },
+              {
+                "w": "vows",
+                "t": 6656.0,
+                "d": 666.0
+              },
+              {
+                "w": "laws",
+                "t": 7447.0,
+                "d": 791.0
+              },
+              {
+                "w": "and",
+                "t": 8655.0,
+                "d": 416.0
+              },
+              {
+                "w": "cures",
+                "t": 9071.0,
+                "d": 584.0
+              },
+              {
+                "w": "into",
+                "t": 9656.0,
+                "d": 333.0
+              },
+              {
+                "w": "a",
+                "t": 9989.0,
+                "d": 40.0
+              },
+              {
+                "w": "single",
+                "t": 10030.0,
+                "d": 417.0
+              },
+              {
+                "w": "book",
+                "t": 10447.0,
+                "d": 540.0
+              },
+              {
+                "w": "before",
+                "t": 10988.0,
+                "d": 459.0
+              },
+              {
+                "w": "his",
+                "t": 11447.0,
+                "d": 208.0
+              },
+              {
+                "w": "king",
+                "t": 11656.0,
+                "d": 583.0
+              },
+              {
+                "w": "and",
+                "t": 12281.0,
+                "d": 290.0
+              },
+              {
+                "w": "kingdom",
+                "t": 12571.0,
+                "d": 709.0
+              },
+              {
+                "w": "fade",
+                "t": 13281.0,
+                "d": 498.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_book_of_all_duties/intro/map.png",
+      "x": 0.46,
+      "y": 0.54,
+      "label": "Paithan & Devagiri, Yadava Deccan",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here on the hot Deccan plateau, between old Paithan and proud Devagiri, a scribe-minister builds a kingdom of rules inside worn palm leaves.",
+            "hi": "गरम दक्कन की धरती पर, पुरानी पैठन और शानदार देवगिरि के बीच, एक लिपिक-मंत्री घिसी ताड़पत्रों में नियमों की अपनी दुनिया रच रहा है।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/intro/map_en.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "on",
+                "t": 448.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 586.0,
+                "d": 137.0
+              },
+              {
+                "w": "hot",
+                "t": 724.0,
+                "d": 183.0
+              },
+              {
+                "w": "Deccan",
+                "t": 908.0,
+                "d": 413.0
+              },
+              {
+                "w": "plateau",
+                "t": 1321.0,
+                "d": 505.0
+              },
+              {
+                "w": "between",
+                "t": 2057.0,
+                "d": 505.0
+              },
+              {
+                "w": "old",
+                "t": 2563.0,
+                "d": 321.0
+              },
+              {
+                "w": "Paithan",
+                "t": 2885.0,
+                "d": 504.0
+              },
+              {
+                "w": "and",
+                "t": 3389.0,
+                "d": 277.0
+              },
+              {
+                "w": "proud",
+                "t": 3666.0,
+                "d": 274.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 3941.0,
+                "d": 690.0
+              },
+              {
+                "w": "a",
+                "t": 4954.0,
+                "d": 183.0
+              },
+              {
+                "w": "scribe-minister",
+                "t": 5137.0,
+                "d": 873.0
+              },
+              {
+                "w": "builds",
+                "t": 6011.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 6333.0,
+                "d": 183.0
+              },
+              {
+                "w": "kingdom",
+                "t": 6517.0,
+                "d": 505.0
+              },
+              {
+                "w": "of",
+                "t": 7022.0,
+                "d": 229.0
+              },
+              {
+                "w": "rules",
+                "t": 7252.0,
+                "d": 459.0
+              },
+              {
+                "w": "inside",
+                "t": 7712.0,
+                "d": 505.0
+              },
+              {
+                "w": "worn",
+                "t": 8218.0,
+                "d": 459.0
+              },
+              {
+                "w": "palm",
+                "t": 8678.0,
+                "d": 459.0
+              },
+              {
+                "w": "leaves",
+                "t": 9137.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_book_of_all_duties/img/cover.png",
+      "shot": "low-angle three-quarter view, wide interior of a lamplit manuscript hall",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the Yadava age of Devagiri, Hemadri Pandit dared to gather vows, gifts, law, medicine and royal memory into one vast book of duty, and hoped a kingdom could live inside its leaves.",
+            "hi": "देवगिरी के यादव युग में हेमाद्रि पंडित ने हिम्मत की — व्रत, दान, कानून, चिकित्सा और राजस्मृति सबको एक विशाल धर्म‑पुस्तक में समेटने की, मानो पूरा राज्य उसी के पन्नों में बस सके।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/cover_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 202.0,
+                "d": 425.0
+              },
+              {
+                "w": "Yadava",
+                "t": 627.0,
+                "d": 425.0
+              },
+              {
+                "w": "age",
+                "t": 1095.0,
+                "d": 170.0
+              },
+              {
+                "w": "of",
+                "t": 1265.0,
+                "d": 85.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 1351.0,
+                "d": 340.0
+              },
+              {
+                "w": "Hemadri",
+                "t": 1734.0,
+                "d": 553.0
+              },
+              {
+                "w": "Pandit",
+                "t": 2287.0,
+                "d": 382.0
+              },
+              {
+                "w": "dared",
+                "t": 2670.0,
+                "d": 381.0
+              },
+              {
+                "w": "to",
+                "t": 3052.0,
+                "d": 171.0
+              },
+              {
+                "w": "gather",
+                "t": 3223.0,
+                "d": 381.0
+              },
+              {
+                "w": "vows",
+                "t": 3605.0,
+                "d": 595.0
+              },
+              {
+                "w": "gifts",
+                "t": 4243.0,
+                "d": 639.0
+              },
+              {
+                "w": "law",
+                "t": 4968.0,
+                "d": 638.0
+              },
+              {
+                "w": "medicine",
+                "t": 5606.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 6287.0,
+                "d": 255.0
+              },
+              {
+                "w": "royal",
+                "t": 6542.0,
+                "d": 297.0
+              },
+              {
+                "w": "memory",
+                "t": 6840.0,
+                "d": 425.0
+              },
+              {
+                "w": "into",
+                "t": 7265.0,
+                "d": 255.0
+              },
+              {
+                "w": "one",
+                "t": 7521.0,
+                "d": 382.0
+              },
+              {
+                "w": "vast",
+                "t": 7904.0,
+                "d": 382.0
+              },
+              {
+                "w": "book",
+                "t": 8287.0,
+                "d": 170.0
+              },
+              {
+                "w": "of",
+                "t": 8457.0,
+                "d": 126.0
+              },
+              {
+                "w": "duty",
+                "t": 8584.0,
+                "d": 639.0
+              },
+              {
+                "w": "and",
+                "t": 9308.0,
+                "d": 339.0
+              },
+              {
+                "w": "hoped",
+                "t": 9647.0,
+                "d": 384.0
+              },
+              {
+                "w": "a",
+                "t": 10031.0,
+                "d": 126.0
+              },
+              {
+                "w": "kingdom",
+                "t": 10158.0,
+                "d": 511.0
+              },
+              {
+                "w": "could",
+                "t": 10670.0,
+                "d": 211.0
+              },
+              {
+                "w": "live",
+                "t": 10881.0,
+                "d": 213.0
+              },
+              {
+                "w": "inside",
+                "t": 11095.0,
+                "d": 425.0
+              },
+              {
+                "w": "its",
+                "t": 11521.0,
+                "d": 212.0
+              },
+              {
+                "w": "leaves",
+                "t": 11734.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_book_of_all_duties/img/p01.png",
+      "shot": "epic bird’s-eye view over the plateau fortress and city below",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Mid-13th century Deccan. The Yadava kings rule from Devagiri, a hill of stone above a plain of trade. Here, a minister named Hemadri Pandit studies not only people, but the rules that claim to bind them.",
+            "hi": "तेरहवीं सदी का मध्य, दक्खन। यादव राजा पत्थर की पहाड़ी देवगिरी से राज करते हैं, नीचे फैला व्यापार‑मैदान। यहीं मंत्री हेमाद्रि पंडित सिर्फ लोगों को नहीं, उन्हें बाँधने वाले नियमों को भी पढ़ता है।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p01_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Mid-13th",
+                "t": 74.0,
+                "d": 1234.0
+              },
+              {
+                "w": "century",
+                "t": 1393.0,
+                "d": 638.0
+              },
+              {
+                "w": "Deccan",
+                "t": 2031.0,
+                "d": 552.0
+              },
+              {
+                "w": "The",
+                "t": 3393.0,
+                "d": 211.0
+              },
+              {
+                "w": "Yadava",
+                "t": 3605.0,
+                "d": 468.0
+              },
+              {
+                "w": "kings",
+                "t": 4073.0,
+                "d": 298.0
+              },
+              {
+                "w": "rule",
+                "t": 4372.0,
+                "d": 297.0
+              },
+              {
+                "w": "from",
+                "t": 4670.0,
+                "d": 212.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 4882.0,
+                "d": 680.0
+              },
+              {
+                "w": "a",
+                "t": 5946.0,
+                "d": 170.0
+              },
+              {
+                "w": "hill",
+                "t": 6117.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 6372.0,
+                "d": 85.0
+              },
+              {
+                "w": "stone",
+                "t": 6457.0,
+                "d": 468.0
+              },
+              {
+                "w": "above",
+                "t": 6925.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 7223.0,
+                "d": 127.0
+              },
+              {
+                "w": "plain",
+                "t": 7351.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 7606.0,
+                "d": 170.0
+              },
+              {
+                "w": "trade",
+                "t": 7776.0,
+                "d": 638.0
+              },
+              {
+                "w": "Here",
+                "t": 8882.0,
+                "d": 723.0
+              },
+              {
+                "w": "a",
+                "t": 9606.0,
+                "d": 170.0
+              },
+              {
+                "w": "minister",
+                "t": 9776.0,
+                "d": 510.0
+              },
+              {
+                "w": "named",
+                "t": 10287.0,
+                "d": 424.0
+              },
+              {
+                "w": "Hemadri",
+                "t": 10755.0,
+                "d": 510.0
+              },
+              {
+                "w": "Pandit",
+                "t": 11265.0,
+                "d": 382.0
+              },
+              {
+                "w": "studies",
+                "t": 11648.0,
+                "d": 722.0
+              },
+              {
+                "w": "not",
+                "t": 12371.0,
+                "d": 341.0
+              },
+              {
+                "w": "only",
+                "t": 12712.0,
+                "d": 211.0
+              },
+              {
+                "w": "people",
+                "t": 12924.0,
+                "d": 809.0
+              },
+              {
+                "w": "but",
+                "t": 13819.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 14031.0,
+                "d": 126.0
+              },
+              {
+                "w": "rules",
+                "t": 14158.0,
+                "d": 340.0
+              },
+              {
+                "w": "that",
+                "t": 14498.0,
+                "d": 256.0
+              },
+              {
+                "w": "claim",
+                "t": 14755.0,
+                "d": 296.0
+              },
+              {
+                "w": "to",
+                "t": 15052.0,
+                "d": 128.0
+              },
+              {
+                "w": "bind",
+                "t": 15180.0,
+                "d": 296.0
+              },
+              {
+                "w": "them",
+                "t": 15477.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_book_of_all_duties/img/p02.png",
+      "shot": "medium interior shot, candlelit study with scrolls and icons",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hemadri is a pandit and a minister. His world is filled with old dharmashastra texts, Manu, Yajnavalkya, countless commentaries, each prescribing duties, vows, gifts, penances. But they lie scattered, hard to wield in daily rule.",
+            "hi": "हेमाद्रि पंडित भी है, मंत्री भी। उसका संसार पुरानी धर्मशास्त्र पुस्तकों से भरा है — मनु, याज्ञवल्क्य, असंख्य टीकाएँ — जो व्रत, दान, प्रायश्चित्त, कर्तव्य सब बताते हैं। पर ये सब बिखरे पड़े हैं, रोज़मर्रा के राजकाज में पकड़ से बाहर।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p02_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hemadri",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "is",
+                "t": 712.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 925.0,
+                "d": 127.0
+              },
+              {
+                "w": "pandit",
+                "t": 1053.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 1606.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 1776.0,
+                "d": 42.0
+              },
+              {
+                "w": "minister",
+                "t": 1819.0,
+                "d": 764.0
+              },
+              {
+                "w": "His",
+                "t": 2840.0,
+                "d": 339.0
+              },
+              {
+                "w": "world",
+                "t": 3179.0,
+                "d": 382.0
+              },
+              {
+                "w": "is",
+                "t": 3562.0,
+                "d": 213.0
+              },
+              {
+                "w": "filled",
+                "t": 3776.0,
+                "d": 254.0
+              },
+              {
+                "w": "with",
+                "t": 4030.0,
+                "d": 256.0
+              },
+              {
+                "w": "old",
+                "t": 4329.0,
+                "d": 340.0
+              },
+              {
+                "w": "dharmashastra",
+                "t": 4670.0,
+                "d": 808.0
+              },
+              {
+                "w": "texts",
+                "t": 5478.0,
+                "d": 765.0
+              },
+              {
+                "w": "Manu",
+                "t": 6287.0,
+                "d": 510.0
+              },
+              {
+                "w": "Yajnavalkya",
+                "t": 6797.0,
+                "d": 978.0
+              },
+              {
+                "w": "countless",
+                "t": 8159.0,
+                "d": 509.0
+              },
+              {
+                "w": "commentaries",
+                "t": 8669.0,
+                "d": 937.0
+              },
+              {
+                "w": "each",
+                "t": 9861.0,
+                "d": 340.0
+              },
+              {
+                "w": "prescribing",
+                "t": 10202.0,
+                "d": 723.0
+              },
+              {
+                "w": "duties",
+                "t": 10925.0,
+                "d": 765.0
+              },
+              {
+                "w": "vows",
+                "t": 11819.0,
+                "d": 723.0
+              },
+              {
+                "w": "gifts",
+                "t": 12585.0,
+                "d": 764.0
+              },
+              {
+                "w": "penances",
+                "t": 13478.0,
+                "d": 808.0
+              },
+              {
+                "w": "But",
+                "t": 14712.0,
+                "d": 254.0
+              },
+              {
+                "w": "they",
+                "t": 14967.0,
+                "d": 170.0
+              },
+              {
+                "w": "lie",
+                "t": 15137.0,
+                "d": 298.0
+              },
+              {
+                "w": "scattered",
+                "t": 15436.0,
+                "d": 893.0
+              },
+              {
+                "w": "hard",
+                "t": 16329.0,
+                "d": 381.0
+              },
+              {
+                "w": "to",
+                "t": 16711.0,
+                "d": 213.0
+              },
+              {
+                "w": "wield",
+                "t": 16925.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 17265.0,
+                "d": 297.0
+              },
+              {
+                "w": "daily",
+                "t": 17563.0,
+                "d": 340.0
+              },
+              {
+                "w": "rule",
+                "t": 17904.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_book_of_all_duties/img/p03.png",
+      "shot": "close-up on Hemadri’s face lit by the lamp, eyes intent",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He sees the gap: kings, priests, donors, pilgrims all ask, what is the right act here and now? The answers are buried across ages. Hemadri decides to stitch them together, into one Chaturvarga Chintamani, a 'jewel of the four aims of life'.",
+            "hi": "उसे खाई दिखती है: राजा, पुरोहित, दाता, तीर्थयात्री सब पूछते हैं, अभी‑यहीं सही काम क्या है? जवाब युगों में बिखरे हैं। हेमाद्रि ठानता है उन्हें सिलने की — एक चतुर्वर्ग चिंतामणि में, ‘जीवन के चार पुरुषार्थों का रत्न’।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p03_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "sees",
+                "t": 372.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 627.0,
+                "d": 170.0
+              },
+              {
+                "w": "gap",
+                "t": 797.0,
+                "d": 851.0
+              },
+              {
+                "w": "kings",
+                "t": 1734.0,
+                "d": 807.0
+              },
+              {
+                "w": "priests",
+                "t": 2626.0,
+                "d": 809.0
+              },
+              {
+                "w": "donors",
+                "t": 3520.0,
+                "d": 852.0
+              },
+              {
+                "w": "pilgrims",
+                "t": 4500.0,
+                "d": 638.0
+              },
+              {
+                "w": "all",
+                "t": 5138.0,
+                "d": 382.0
+              },
+              {
+                "w": "ask",
+                "t": 5521.0,
+                "d": 936.0
+              },
+              {
+                "w": "what",
+                "t": 6585.0,
+                "d": 297.0
+              },
+              {
+                "w": "is",
+                "t": 6882.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 7010.0,
+                "d": 170.0
+              },
+              {
+                "w": "right",
+                "t": 7180.0,
+                "d": 297.0
+              },
+              {
+                "w": "act",
+                "t": 7478.0,
+                "d": 382.0
+              },
+              {
+                "w": "here",
+                "t": 7861.0,
+                "d": 255.0
+              },
+              {
+                "w": "and",
+                "t": 8117.0,
+                "d": 127.0
+              },
+              {
+                "w": "now",
+                "t": 8244.0,
+                "d": 1276.0
+              },
+              {
+                "w": "The",
+                "t": 9521.0,
+                "d": 296.0
+              },
+              {
+                "w": "answers",
+                "t": 9818.0,
+                "d": 510.0
+              },
+              {
+                "w": "are",
+                "t": 10328.0,
+                "d": 256.0
+              },
+              {
+                "w": "buried",
+                "t": 10585.0,
+                "d": 340.0
+              },
+              {
+                "w": "across",
+                "t": 10925.0,
+                "d": 425.0
+              },
+              {
+                "w": "ages",
+                "t": 11351.0,
+                "d": 1234.0
+              },
+              {
+                "w": "Hemadri",
+                "t": 12755.0,
+                "d": 553.0
+              },
+              {
+                "w": "decides",
+                "t": 13308.0,
+                "d": 510.0
+              },
+              {
+                "w": "to",
+                "t": 13819.0,
+                "d": 127.0
+              },
+              {
+                "w": "stitch",
+                "t": 13946.0,
+                "d": 381.0
+              },
+              {
+                "w": "them",
+                "t": 14328.0,
+                "d": 213.0
+              },
+              {
+                "w": "together",
+                "t": 14542.0,
+                "d": 764.0
+              },
+              {
+                "w": "into",
+                "t": 15392.0,
+                "d": 341.0
+              },
+              {
+                "w": "one",
+                "t": 15734.0,
+                "d": 425.0
+              },
+              {
+                "w": "Chaturvarga",
+                "t": 16159.0,
+                "d": 808.0
+              },
+              {
+                "w": "Chintamani",
+                "t": 16968.0,
+                "d": 808.0
+              },
+              {
+                "w": "a",
+                "t": 18244.0,
+                "d": 212.0
+              },
+              {
+                "w": "jewel",
+                "t": 18457.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 18797.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 18968.0,
+                "d": 170.0
+              },
+              {
+                "w": "four",
+                "t": 19138.0,
+                "d": 340.0
+              },
+              {
+                "w": "aims",
+                "t": 19521.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 19904.0,
+                "d": 212.0
+              },
+              {
+                "w": "life",
+                "t": 20117.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_book_of_all_duties/img/p04.png",
+      "shot": "wide interior shot of a court hall with scribes at work",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "We will gather vows, gifts and expiations, sire, so no man must grope in doubt.",
+            "hi": "हम सारे व्रत, दान और प्रायश्चित्त जुटाएँगे, महाराज — ताकि कोई अँधेरे में टटोलता न रहे।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p04_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 49.0,
+                "d": 171.6
+              },
+              {
+                "w": "will",
+                "t": 257.3,
+                "d": 245.1
+              },
+              {
+                "w": "gather",
+                "t": 502.5,
+                "d": 404.4
+              },
+              {
+                "w": "vows",
+                "t": 906.9,
+                "d": 428.9
+              },
+              {
+                "w": "gifts",
+                "t": 1568.6,
+                "d": 379.9
+              },
+              {
+                "w": "and",
+                "t": 2022.0,
+                "d": 220.6
+              },
+              {
+                "w": "expiations",
+                "t": 2242.7,
+                "d": 784.3
+              },
+              {
+                "w": "sire",
+                "t": 3284.3,
+                "d": 465.7
+              },
+              {
+                "w": "so",
+                "t": 4117.7,
+                "d": 208.3
+              },
+              {
+                "w": "no",
+                "t": 4338.2,
+                "d": 208.3
+              },
+              {
+                "w": "man",
+                "t": 4558.8,
+                "d": 269.6
+              },
+              {
+                "w": "must",
+                "t": 4828.4,
+                "d": 343.1
+              },
+              {
+                "w": "grope",
+                "t": 5232.8,
+                "d": 343.1
+              },
+              {
+                "w": "in",
+                "t": 5637.2,
+                "d": 183.8
+              },
+              {
+                "w": "doubt",
+                "t": 5833.3,
+                "d": 392.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_book_of_all_duties/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_book_of_all_duties/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From council hall to ramparts, Hemadri carries law itself, binding stone fort and village field under ordered grants.",
+            "hi": "सभा से किले की दीवारों तक, हेमाद्रि खुद कानून उठा चल रहा है, किले और गाँव की जमीनें फरमानों से बाँध रहा है।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 80.0,
+                "d": 413.0
+              },
+              {
+                "w": "council",
+                "t": 494.0,
+                "d": 505.0
+              },
+              {
+                "w": "hall",
+                "t": 1000.0,
+                "d": 275.0
+              },
+              {
+                "w": "to",
+                "t": 1275.0,
+                "d": 137.0
+              },
+              {
+                "w": "ramparts",
+                "t": 1413.0,
+                "d": 1011.0
+              },
+              {
+                "w": "Hemadri",
+                "t": 2563.0,
+                "d": 688.0
+              },
+              {
+                "w": "carries",
+                "t": 3251.0,
+                "d": 460.0
+              },
+              {
+                "w": "law",
+                "t": 3712.0,
+                "d": 274.0
+              },
+              {
+                "w": "itself",
+                "t": 3987.0,
+                "d": 920.0
+              },
+              {
+                "w": "binding",
+                "t": 4954.0,
+                "d": 597.0
+              },
+              {
+                "w": "stone",
+                "t": 5551.0,
+                "d": 367.0
+              },
+              {
+                "w": "fort",
+                "t": 5919.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 6333.0,
+                "d": 275.0
+              },
+              {
+                "w": "village",
+                "t": 6609.0,
+                "d": 367.0
+              },
+              {
+                "w": "field",
+                "t": 6977.0,
+                "d": 413.0
+              },
+              {
+                "w": "under",
+                "t": 7390.0,
+                "d": 459.0
+              },
+              {
+                "w": "ordered",
+                "t": 7850.0,
+                "d": 413.0
+              },
+              {
+                "w": "grants",
+                "t": 8264.0,
+                "d": 781.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_book_of_all_duties/img/p05.png",
+      "shot": "medium shot of Hemadri dictating, scribes in foreground",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hemadri arranges his Chaturvarga Chintamani into sections, on observances and vows, on gifts of land and wealth, on expiation, on liberation. He does not erase the older voices; he quotes them line by line, preserving their words.",
+            "hi": "हेमाद्रि अपना चतुर्वर्ग चिंतामणि खंडों में सजाता है — नियम‑अनुष्ठान और व्रत, भूमि और धनदान, प्रायश्चित्त, मोक्ष। वह पुरानी आवाज़ें नहीं मिटाता; उन्हें पंक्ति‑दर‑पंक्ति उद्धृत करता है, उनके शब्द बचाकर।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p05_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hemadri",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "arranges",
+                "t": 712.0,
+                "d": 638.0
+              },
+              {
+                "w": "his",
+                "t": 1351.0,
+                "d": 255.0
+              },
+              {
+                "w": "Chaturvarga",
+                "t": 1606.0,
+                "d": 850.0
+              },
+              {
+                "w": "Chintamani",
+                "t": 2498.0,
+                "d": 724.0
+              },
+              {
+                "w": "into",
+                "t": 3265.0,
+                "d": 212.0
+              },
+              {
+                "w": "sections",
+                "t": 3478.0,
+                "d": 851.0
+              },
+              {
+                "w": "on",
+                "t": 4585.0,
+                "d": 255.0
+              },
+              {
+                "w": "observances",
+                "t": 4840.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 5648.0,
+                "d": 255.0
+              },
+              {
+                "w": "vows",
+                "t": 5904.0,
+                "d": 638.0
+              },
+              {
+                "w": "on",
+                "t": 6797.0,
+                "d": 340.0
+              },
+              {
+                "w": "gifts",
+                "t": 7138.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 7436.0,
+                "d": 170.0
+              },
+              {
+                "w": "land",
+                "t": 7606.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 7989.0,
+                "d": 212.0
+              },
+              {
+                "w": "wealth",
+                "t": 8202.0,
+                "d": 467.0
+              },
+              {
+                "w": "on",
+                "t": 9094.0,
+                "d": 213.0
+              },
+              {
+                "w": "expiation",
+                "t": 9308.0,
+                "d": 978.0
+              },
+              {
+                "w": "on",
+                "t": 10287.0,
+                "d": 255.0
+              },
+              {
+                "w": "liberation",
+                "t": 10542.0,
+                "d": 1232.0
+              },
+              {
+                "w": "He",
+                "t": 11904.0,
+                "d": 211.0
+              },
+              {
+                "w": "does",
+                "t": 12115.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 12286.0,
+                "d": 298.0
+              },
+              {
+                "w": "erase",
+                "t": 12585.0,
+                "d": 339.0
+              },
+              {
+                "w": "the",
+                "t": 12924.0,
+                "d": 170.0
+              },
+              {
+                "w": "older",
+                "t": 13094.0,
+                "d": 340.0
+              },
+              {
+                "w": "voices",
+                "t": 13435.0,
+                "d": 808.0
+              },
+              {
+                "w": "he",
+                "t": 14498.0,
+                "d": 256.0
+              },
+              {
+                "w": "quotes",
+                "t": 14755.0,
+                "d": 340.0
+              },
+              {
+                "w": "them",
+                "t": 15095.0,
+                "d": 211.0
+              },
+              {
+                "w": "line",
+                "t": 15307.0,
+                "d": 298.0
+              },
+              {
+                "w": "by",
+                "t": 15606.0,
+                "d": 212.0
+              },
+              {
+                "w": "line",
+                "t": 15819.0,
+                "d": 851.0
+              },
+              {
+                "w": "preserving",
+                "t": 16711.0,
+                "d": 554.0
+              },
+              {
+                "w": "their",
+                "t": 17265.0,
+                "d": 212.0
+              },
+              {
+                "w": "words",
+                "t": 17478.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_book_of_all_duties/img/p06.png",
+      "shot": "over-the-shoulder shot of a manuscript leaf",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "P.V. Kane, centuries later, will trace countless lost works through these quotations. A Yadava minister, seeking order for his king, unwittingly becomes the archivist of India's older dharmashastra memory.",
+            "hi": "सदियों बाद पी.वी. काणे इन्हीं उद्धरणों से अनगिनत खोई रचनाएँ पहचानेंगे। अपने राजा के लिए व्यवस्था खोजता यादव मंत्री अनजाने में भारत के प्राचीन धर्मशास्त्र का अभिलेखपाल बन जाता है।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p06_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "P.V.",
+                "t": 117.0,
+                "d": 340.0
+              },
+              {
+                "w": "Kane",
+                "t": 457.0,
+                "d": 723.0
+              },
+              {
+                "w": "centuries",
+                "t": 1223.0,
+                "d": 723.0
+              },
+              {
+                "w": "later",
+                "t": 1946.0,
+                "d": 723.0
+              },
+              {
+                "w": "will",
+                "t": 2712.0,
+                "d": 296.0
+              },
+              {
+                "w": "trace",
+                "t": 3009.0,
+                "d": 384.0
+              },
+              {
+                "w": "countless",
+                "t": 3393.0,
+                "d": 595.0
+              },
+              {
+                "w": "lost",
+                "t": 3989.0,
+                "d": 382.0
+              },
+              {
+                "w": "works",
+                "t": 4372.0,
+                "d": 425.0
+              },
+              {
+                "w": "through",
+                "t": 4797.0,
+                "d": 680.0
+              },
+              {
+                "w": "these",
+                "t": 5478.0,
+                "d": 212.0
+              },
+              {
+                "w": "quotations",
+                "t": 5691.0,
+                "d": 1106.0
+              },
+              {
+                "w": "A",
+                "t": 6882.0,
+                "d": 212.0
+              },
+              {
+                "w": "Yadava",
+                "t": 7095.0,
+                "d": 382.0
+              },
+              {
+                "w": "minister",
+                "t": 7478.0,
+                "d": 893.0
+              },
+              {
+                "w": "seeking",
+                "t": 8372.0,
+                "d": 595.0
+              },
+              {
+                "w": "order",
+                "t": 8968.0,
+                "d": 296.0
+              },
+              {
+                "w": "for",
+                "t": 9264.0,
+                "d": 213.0
+              },
+              {
+                "w": "his",
+                "t": 9478.0,
+                "d": 169.0
+              },
+              {
+                "w": "king",
+                "t": 9647.0,
+                "d": 639.0
+              },
+              {
+                "w": "unwittingly",
+                "t": 10372.0,
+                "d": 808.0
+              },
+              {
+                "w": "becomes",
+                "t": 11180.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 11606.0,
+                "d": 212.0
+              },
+              {
+                "w": "archivist",
+                "t": 11819.0,
+                "d": 637.0
+              },
+              {
+                "w": "of",
+                "t": 12500.0,
+                "d": 255.0
+              },
+              {
+                "w": "India's",
+                "t": 12755.0,
+                "d": 509.0
+              },
+              {
+                "w": "older",
+                "t": 13264.0,
+                "d": 426.0
+              },
+              {
+                "w": "dharmashastra",
+                "t": 13691.0,
+                "d": 722.0
+              },
+              {
+                "w": "memory",
+                "t": 14413.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_book_of_all_duties/img/p07.png",
+      "shot": "medium shot in a temple courtyard, donors and priests present",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Gifts to temples, lands for brahmanas, vows taken by traders and widows, all pass through the language of dharma. Hemadri's manual offers forms, precedents, promises of merit. It is law, ritual and royal policy braided together.",
+            "hi": "मंदिरों को दान, ब्राह्मणों की भूमि, व्यापारियों और विधवाओं के व्रत — सब धर्म की भाषा से होकर गुजरते हैं। हेमाद्रि की पुस्तिका में रूप, मिसालें, पुण्य के वादे हैं। यह कानून, अनुष्ठान और राजनीति तीनों का गुंथा हुआ धागा है।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p07_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Gifts",
+                "t": 117.0,
+                "d": 638.0
+              },
+              {
+                "w": "to",
+                "t": 755.0,
+                "d": 85.0
+              },
+              {
+                "w": "temples",
+                "t": 840.0,
+                "d": 851.0
+              },
+              {
+                "w": "lands",
+                "t": 1734.0,
+                "d": 468.0
+              },
+              {
+                "w": "for",
+                "t": 2202.0,
+                "d": 170.0
+              },
+              {
+                "w": "brahmanas",
+                "t": 2372.0,
+                "d": 807.0
+              },
+              {
+                "w": "vows",
+                "t": 3308.0,
+                "d": 425.0
+              },
+              {
+                "w": "taken",
+                "t": 3734.0,
+                "d": 381.0
+              },
+              {
+                "w": "by",
+                "t": 4115.0,
+                "d": 171.0
+              },
+              {
+                "w": "traders",
+                "t": 4287.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 4755.0,
+                "d": 127.0
+              },
+              {
+                "w": "widows",
+                "t": 4882.0,
+                "d": 723.0
+              },
+              {
+                "w": "all",
+                "t": 5861.0,
+                "d": 468.0
+              },
+              {
+                "w": "pass",
+                "t": 6329.0,
+                "d": 340.0
+              },
+              {
+                "w": "through",
+                "t": 6670.0,
+                "d": 808.0
+              },
+              {
+                "w": "the",
+                "t": 7478.0,
+                "d": 297.0
+              },
+              {
+                "w": "language",
+                "t": 7776.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 8669.0,
+                "d": 85.0
+              },
+              {
+                "w": "dharma",
+                "t": 8754.0,
+                "d": 255.0
+              },
+              {
+                "w": "Hemadri's",
+                "t": 9009.0,
+                "d": 384.0
+              },
+              {
+                "w": "manual",
+                "t": 9393.0,
+                "d": 424.0
+              },
+              {
+                "w": "offers",
+                "t": 9818.0,
+                "d": 469.0
+              },
+              {
+                "w": "forms",
+                "t": 10287.0,
+                "d": 723.0
+              },
+              {
+                "w": "precedents",
+                "t": 11137.0,
+                "d": 937.0
+              },
+              {
+                "w": "promises",
+                "t": 12115.0,
+                "d": 596.0
+              },
+              {
+                "w": "of",
+                "t": 12712.0,
+                "d": 170.0
+              },
+              {
+                "w": "merit",
+                "t": 12882.0,
+                "d": 595.0
+              },
+              {
+                "w": "It",
+                "t": 13946.0,
+                "d": 211.0
+              },
+              {
+                "w": "is",
+                "t": 14158.0,
+                "d": 170.0
+              },
+              {
+                "w": "law",
+                "t": 14328.0,
+                "d": 723.0
+              },
+              {
+                "w": "ritual",
+                "t": 15095.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 15819.0,
+                "d": 211.0
+              },
+              {
+                "w": "royal",
+                "t": 16030.0,
+                "d": 340.0
+              },
+              {
+                "w": "policy",
+                "t": 16371.0,
+                "d": 469.0
+              },
+              {
+                "w": "braided",
+                "t": 16840.0,
+                "d": 382.0
+              },
+              {
+                "w": "together",
+                "t": 17223.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_book_of_all_duties/img/p08.png",
+      "shot": "dramatic low-angle shot in the court, Hemadri reciting genealogy",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Within his dharma-book, Hemadri praises his patrons. He recounts Yadava genealogy, their victories, their gifts as if cast in legend. These passages are panegyrics, not neutral chronicle, a minister's tribute woven into a manual of duty.",
+            "hi": "अपने धर्म‑ग्रंथ के भीतर हेमाद्रि अपने संरक्षकों की स्तुति करता है। वह यादव वंशावली, विजय और दान को मानो कथा‑काव्य की तरह सुनाता है। ये अंश प्रशस्ति हैं, सीधी इतिहास‑कथा नहीं — मंत्री की भक्ति, जो कर्तव्य‑ग्रंथ में बुनी गई है।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p08_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Within",
+                "t": 117.0,
+                "d": 340.0
+              },
+              {
+                "w": "his",
+                "t": 457.0,
+                "d": 170.0
+              },
+              {
+                "w": "dharma-book",
+                "t": 627.0,
+                "d": 808.0
+              },
+              {
+                "w": "Hemadri",
+                "t": 1606.0,
+                "d": 595.0
+              },
+              {
+                "w": "praises",
+                "t": 2202.0,
+                "d": 510.0
+              },
+              {
+                "w": "his",
+                "t": 2712.0,
+                "d": 170.0
+              },
+              {
+                "w": "patrons",
+                "t": 2882.0,
+                "d": 807.0
+              },
+              {
+                "w": "He",
+                "t": 3861.0,
+                "d": 254.0
+              },
+              {
+                "w": "recounts",
+                "t": 4115.0,
+                "d": 511.0
+              },
+              {
+                "w": "Yadava",
+                "t": 4627.0,
+                "d": 425.0
+              },
+              {
+                "w": "genealogy",
+                "t": 5053.0,
+                "d": 1063.0
+              },
+              {
+                "w": "their",
+                "t": 6117.0,
+                "d": 382.0
+              },
+              {
+                "w": "victories",
+                "t": 6500.0,
+                "d": 595.0
+              },
+              {
+                "w": "their",
+                "t": 7265.0,
+                "d": 297.0
+              },
+              {
+                "w": "gifts",
+                "t": 7563.0,
+                "d": 680.0
+              },
+              {
+                "w": "as",
+                "t": 8329.0,
+                "d": 381.0
+              },
+              {
+                "w": "if",
+                "t": 8711.0,
+                "d": 212.0
+              },
+              {
+                "w": "cast",
+                "t": 8924.0,
+                "d": 426.0
+              },
+              {
+                "w": "in",
+                "t": 9351.0,
+                "d": 85.0
+              },
+              {
+                "w": "legend",
+                "t": 9436.0,
+                "d": 680.0
+              },
+              {
+                "w": "These",
+                "t": 10796.0,
+                "d": 384.0
+              },
+              {
+                "w": "passages",
+                "t": 11180.0,
+                "d": 553.0
+              },
+              {
+                "w": "are",
+                "t": 11734.0,
+                "d": 340.0
+              },
+              {
+                "w": "panegyrics",
+                "t": 12074.0,
+                "d": 1063.0
+              },
+              {
+                "w": "not",
+                "t": 13308.0,
+                "d": 382.0
+              },
+              {
+                "w": "neutral",
+                "t": 13691.0,
+                "d": 425.0
+              },
+              {
+                "w": "chronicle",
+                "t": 14117.0,
+                "d": 850.0
+              },
+              {
+                "w": "a",
+                "t": 15222.0,
+                "d": 128.0
+              },
+              {
+                "w": "minister's",
+                "t": 15351.0,
+                "d": 638.0
+              },
+              {
+                "w": "tribute",
+                "t": 15989.0,
+                "d": 425.0
+              },
+              {
+                "w": "woven",
+                "t": 16414.0,
+                "d": 510.0
+              },
+              {
+                "w": "into",
+                "t": 16925.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 17265.0,
+                "d": 42.0
+              },
+              {
+                "w": "manual",
+                "t": 17308.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 17776.0,
+                "d": 127.0
+              },
+              {
+                "w": "duty",
+                "t": 17904.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_book_of_all_duties/img/p09.png",
+      "shot": "close-up of a courtier whispering to another, Hemadri in background",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Later readers will mine these laudatory lines for Yadava history, but the record is bent by praise. Hemadri's book shows not merely what happened, but how a court wished to remember itself.",
+            "hi": "आने वाले पाठक इन्हीं प्रशंसा‑पंक्तियों से यादव इतिहास खोदेंगे, पर यह दास्तान प्रशंसा से टेढ़ी है। हेमाद्रि की किताब सिर्फ ‘क्या हुआ’ नहीं दिखाती, यह भी दिखाती है कि दरबार खुद को कैसे याद रखना चाहता था।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p09_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Later",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "readers",
+                "t": 542.0,
+                "d": 468.0
+              },
+              {
+                "w": "will",
+                "t": 1010.0,
+                "d": 212.0
+              },
+              {
+                "w": "mine",
+                "t": 1223.0,
+                "d": 297.0
+              },
+              {
+                "w": "these",
+                "t": 1521.0,
+                "d": 297.0
+              },
+              {
+                "w": "laudatory",
+                "t": 1819.0,
+                "d": 553.0
+              },
+              {
+                "w": "lines",
+                "t": 2372.0,
+                "d": 340.0
+              },
+              {
+                "w": "for",
+                "t": 2712.0,
+                "d": 170.0
+              },
+              {
+                "w": "Yadava",
+                "t": 2882.0,
+                "d": 425.0
+              },
+              {
+                "w": "history",
+                "t": 3308.0,
+                "d": 850.0
+              },
+              {
+                "w": "but",
+                "t": 4243.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 4457.0,
+                "d": 127.0
+              },
+              {
+                "w": "record",
+                "t": 4585.0,
+                "d": 382.0
+              },
+              {
+                "w": "is",
+                "t": 4968.0,
+                "d": 170.0
+              },
+              {
+                "w": "bent",
+                "t": 5138.0,
+                "d": 340.0
+              },
+              {
+                "w": "by",
+                "t": 5478.0,
+                "d": 255.0
+              },
+              {
+                "w": "praise",
+                "t": 5734.0,
+                "d": 723.0
+              },
+              {
+                "w": "Hemadri's",
+                "t": 6670.0,
+                "d": 638.0
+              },
+              {
+                "w": "book",
+                "t": 7308.0,
+                "d": 170.0
+              },
+              {
+                "w": "shows",
+                "t": 7478.0,
+                "d": 340.0
+              },
+              {
+                "w": "not",
+                "t": 7819.0,
+                "d": 297.0
+              },
+              {
+                "w": "merely",
+                "t": 8117.0,
+                "d": 297.0
+              },
+              {
+                "w": "what",
+                "t": 8414.0,
+                "d": 211.0
+              },
+              {
+                "w": "happened",
+                "t": 8626.0,
+                "d": 553.0
+              },
+              {
+                "w": "but",
+                "t": 9393.0,
+                "d": 254.0
+              },
+              {
+                "w": "how",
+                "t": 9647.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 9861.0,
+                "d": 126.0
+              },
+              {
+                "w": "court",
+                "t": 9988.0,
+                "d": 298.0
+              },
+              {
+                "w": "wished",
+                "t": 10287.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 10627.0,
+                "d": 84.0
+              },
+              {
+                "w": "remember",
+                "t": 10711.0,
+                "d": 425.0
+              },
+              {
+                "w": "itself",
+                "t": 11137.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_book_of_all_duties/img/p10.png",
+      "shot": "medium shot inside a quieter inner room, Hemadri with a physician",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hemadri's hunger for system does not end with ritual. He turns to medicine, composing his Ayurveda Rasayan, a commentary on Vagbhata's Ashtangahridayam. Here too, he links older knowledge to his own day.",
+            "hi": "हेमाद्रि की व्यवस्था की भूख केवल अनुष्ठान तक नहीं रुकती। वह चिकित्सा की ओर मुड़ता है और आयुर्वेद रसायन रचता है — वाग्भट के अष्टाङ्गहृदय पर टीका। यहाँ भी वह पुराने ज्ञान को अपने समय से जोड़ता है।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p10_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hemadri's",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "hunger",
+                "t": 670.0,
+                "d": 297.0
+              },
+              {
+                "w": "for",
+                "t": 968.0,
+                "d": 170.0
+              },
+              {
+                "w": "system",
+                "t": 1138.0,
+                "d": 468.0
+              },
+              {
+                "w": "does",
+                "t": 1606.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 1776.0,
+                "d": 297.0
+              },
+              {
+                "w": "end",
+                "t": 2074.0,
+                "d": 212.0
+              },
+              {
+                "w": "with",
+                "t": 2287.0,
+                "d": 211.0
+              },
+              {
+                "w": "ritual",
+                "t": 2498.0,
+                "d": 894.0
+              },
+              {
+                "w": "He",
+                "t": 3436.0,
+                "d": 297.0
+              },
+              {
+                "w": "turns",
+                "t": 3734.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 3989.0,
+                "d": 126.0
+              },
+              {
+                "w": "medicine",
+                "t": 4115.0,
+                "d": 596.0
+              },
+              {
+                "w": "composing",
+                "t": 4882.0,
+                "d": 765.0
+              },
+              {
+                "w": "his",
+                "t": 5648.0,
+                "d": 212.0
+              },
+              {
+                "w": "Ayurveda",
+                "t": 5904.0,
+                "d": 680.0
+              },
+              {
+                "w": "Rasayan",
+                "t": 6585.0,
+                "d": 638.0
+              },
+              {
+                "w": "a",
+                "t": 7351.0,
+                "d": 212.0
+              },
+              {
+                "w": "commentary",
+                "t": 7563.0,
+                "d": 595.0
+              },
+              {
+                "w": "on",
+                "t": 8159.0,
+                "d": 212.0
+              },
+              {
+                "w": "Vagbhata's",
+                "t": 8372.0,
+                "d": 765.0
+              },
+              {
+                "w": "Ashtangahridayam",
+                "t": 9138.0,
+                "d": 1446.0
+              },
+              {
+                "w": "Here",
+                "t": 10711.0,
+                "d": 340.0
+              },
+              {
+                "w": "too",
+                "t": 11052.0,
+                "d": 469.0
+              },
+              {
+                "w": "he",
+                "t": 11606.0,
+                "d": 297.0
+              },
+              {
+                "w": "links",
+                "t": 11904.0,
+                "d": 296.0
+              },
+              {
+                "w": "older",
+                "t": 12201.0,
+                "d": 341.0
+              },
+              {
+                "w": "knowledge",
+                "t": 12542.0,
+                "d": 381.0
+              },
+              {
+                "w": "to",
+                "t": 12924.0,
+                "d": 128.0
+              },
+              {
+                "w": "his",
+                "t": 13053.0,
+                "d": 126.0
+              },
+              {
+                "w": "own",
+                "t": 13179.0,
+                "d": 213.0
+              },
+              {
+                "w": "day",
+                "t": 13393.0,
+                "d": 382.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_book_of_all_duties/img/p11.png",
+      "shot": "over-the-shoulder shot of a medical diagram or verse",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the Rasayan, Hemadri extends the classical medical tradition, glossing ailments, therapies, and the physician's conduct. Law, ritual and healing all pass under his pen, as if the same idea of order ran through body and kingdom.",
+            "hi": "रसायन में हेमाद्रि आयुर्वेद की परंपरा बढ़ाता है — रोग, उपचार और वैद्य के आचरण पर व्याख्या करता है। कानून, अनुष्ठान और चिकित्सा — सब उसकी कलम से गुजरते हैं, मानो वही एक व्यवस्था शरीर और राज्य दोनों में बह रही हो।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p11_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 170.0
+              },
+              {
+                "w": "Rasayan",
+                "t": 457.0,
+                "d": 510.0
+              },
+              {
+                "w": "Hemadri",
+                "t": 968.0,
+                "d": 468.0
+              },
+              {
+                "w": "extends",
+                "t": 1436.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 2074.0,
+                "d": 127.0
+              },
+              {
+                "w": "classical",
+                "t": 2202.0,
+                "d": 553.0
+              },
+              {
+                "w": "medical",
+                "t": 2755.0,
+                "d": 424.0
+              },
+              {
+                "w": "tradition",
+                "t": 3179.0,
+                "d": 893.0
+              },
+              {
+                "w": "glossing",
+                "t": 4115.0,
+                "d": 639.0
+              },
+              {
+                "w": "ailments",
+                "t": 4755.0,
+                "d": 808.0
+              },
+              {
+                "w": "therapies",
+                "t": 5606.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 6542.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 6882.0,
+                "d": 127.0
+              },
+              {
+                "w": "physician's",
+                "t": 7010.0,
+                "d": 595.0
+              },
+              {
+                "w": "conduct",
+                "t": 7606.0,
+                "d": 893.0
+              },
+              {
+                "w": "Law",
+                "t": 8754.0,
+                "d": 767.0
+              },
+              {
+                "w": "ritual",
+                "t": 9563.0,
+                "d": 594.0
+              },
+              {
+                "w": "and",
+                "t": 10158.0,
+                "d": 213.0
+              },
+              {
+                "w": "healing",
+                "t": 10372.0,
+                "d": 468.0
+              },
+              {
+                "w": "all",
+                "t": 10840.0,
+                "d": 296.0
+              },
+              {
+                "w": "pass",
+                "t": 11137.0,
+                "d": 341.0
+              },
+              {
+                "w": "under",
+                "t": 11478.0,
+                "d": 296.0
+              },
+              {
+                "w": "his",
+                "t": 11775.0,
+                "d": 170.0
+              },
+              {
+                "w": "pen",
+                "t": 11945.0,
+                "d": 510.0
+              },
+              {
+                "w": "as",
+                "t": 12627.0,
+                "d": 340.0
+              },
+              {
+                "w": "if",
+                "t": 12968.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 13094.0,
+                "d": 128.0
+              },
+              {
+                "w": "same",
+                "t": 13223.0,
+                "d": 382.0
+              },
+              {
+                "w": "idea",
+                "t": 13606.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 13861.0,
+                "d": 211.0
+              },
+              {
+                "w": "order",
+                "t": 14073.0,
+                "d": 340.0
+              },
+              {
+                "w": "ran",
+                "t": 14413.0,
+                "d": 341.0
+              },
+              {
+                "w": "through",
+                "t": 14755.0,
+                "d": 296.0
+              },
+              {
+                "w": "body",
+                "t": 15052.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 15477.0,
+                "d": 256.0
+              },
+              {
+                "w": "kingdom",
+                "t": 15734.0,
+                "d": 637.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_book_of_all_duties/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_book_of_all_duties/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He measures gifts not by favor, but by rule, stretching justice from temple tanks to farthest ploughed ridge.",
+            "hi": "वो दान नहीं, न्याय से तोलता है, मंदिर तालाब से आखिरी खेत की मेड़ तक इंसाफ खींच देता है।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "measures",
+                "t": 350.0,
+                "d": 520.0
+              },
+              {
+                "w": "gifts",
+                "t": 870.0,
+                "d": 360.0
+              },
+              {
+                "w": "not",
+                "t": 1230.0,
+                "d": 320.0
+              },
+              {
+                "w": "by",
+                "t": 1550.0,
+                "d": 240.0
+              },
+              {
+                "w": "favor",
+                "t": 1790.0,
+                "d": 599.0
+              },
+              {
+                "w": "but",
+                "t": 2670.0,
+                "d": 239.0
+              },
+              {
+                "w": "by",
+                "t": 2909.0,
+                "d": 241.0
+              },
+              {
+                "w": "rule",
+                "t": 3150.0,
+                "d": 639.0
+              },
+              {
+                "w": "stretching",
+                "t": 4070.0,
+                "d": 560.0
+              },
+              {
+                "w": "justice",
+                "t": 4630.0,
+                "d": 520.0
+              },
+              {
+                "w": "from",
+                "t": 5150.0,
+                "d": 280.0
+              },
+              {
+                "w": "temple",
+                "t": 5430.0,
+                "d": 360.0
+              },
+              {
+                "w": "tanks",
+                "t": 5790.0,
+                "d": 400.0
+              },
+              {
+                "w": "to",
+                "t": 6190.0,
+                "d": 120.0
+              },
+              {
+                "w": "farthest",
+                "t": 6310.0,
+                "d": 720.0
+              },
+              {
+                "w": "ploughed",
+                "t": 7110.0,
+                "d": 400.0
+              },
+              {
+                "w": "ridge",
+                "t": 7510.0,
+                "d": 599.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_book_of_all_duties/img/p12.png",
+      "shot": "medium interior shot, Hemadri with visiting scholars and students",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Do not trust memory alone. Place each vow, each gift, where it can be found.",
+            "hi": "केवल स्मृति पर मत टिको। हर व्रत, हर दान को ऐसी जगह लिखो जहाँ वह फिर मिल सके।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p12_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Do",
+                "t": 49.0,
+                "d": 134.8
+              },
+              {
+                "w": "not",
+                "t": 294.1,
+                "d": 257.3
+              },
+              {
+                "w": "trust",
+                "t": 625.0,
+                "d": 379.9
+              },
+              {
+                "w": "memory",
+                "t": 1029.4,
+                "d": 478.0
+              },
+              {
+                "w": "alone",
+                "t": 1568.6,
+                "d": 514.7
+              },
+              {
+                "w": "Place",
+                "t": 2928.9,
+                "d": 330.9
+              },
+              {
+                "w": "each",
+                "t": 3333.3,
+                "d": 269.6
+              },
+              {
+                "w": "vow",
+                "t": 3603.0,
+                "d": 392.2
+              },
+              {
+                "w": "each",
+                "t": 4228.0,
+                "d": 257.3
+              },
+              {
+                "w": "gift",
+                "t": 4497.5,
+                "d": 367.7
+              },
+              {
+                "w": "where",
+                "t": 5012.2,
+                "d": 330.9
+              },
+              {
+                "w": "it",
+                "t": 5355.4,
+                "d": 159.3
+              },
+              {
+                "w": "can",
+                "t": 5551.5,
+                "d": 208.3
+              },
+              {
+                "w": "be",
+                "t": 5759.8,
+                "d": 171.6
+              },
+              {
+                "w": "found",
+                "t": 5931.4,
+                "d": 465.7
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_book_of_all_duties/img/p13.png",
+      "shot": "wide night-time shot of Devagiri’s ramparts under stars",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He serves under Mahadeva and into the early reign of Ramachandra. Beyond the walls, rival powers move, the Kakatiyas, the Delhi sultans, but Hemadri's battles are with confusion, contradiction, forgotten precedent.",
+            "hi": "वह महादेव के अधीन और रामचंद्र के आरंभिक शासन तक सेवा करता है। दीवारों के बाहर प्रतिद्वंदी ताकतें उठती हैं — काकतीय, दिल्ली के सुलतान — पर हेमाद्रि की लड़ाइयाँ उलझन, विरोध, भूले‑बिसरे उदाहरणों से हैं।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p13_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "serves",
+                "t": 270.0,
+                "d": 360.0
+              },
+              {
+                "w": "under",
+                "t": 630.0,
+                "d": 280.0
+              },
+              {
+                "w": "Mahadeva",
+                "t": 910.0,
+                "d": 600.0
+              },
+              {
+                "w": "and",
+                "t": 1750.0,
+                "d": 200.0
+              },
+              {
+                "w": "into",
+                "t": 1950.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 2190.0,
+                "d": 119.0
+              },
+              {
+                "w": "early",
+                "t": 2309.0,
+                "d": 441.0
+              },
+              {
+                "w": "reign",
+                "t": 2750.0,
+                "d": 239.0
+              },
+              {
+                "w": "of",
+                "t": 2989.0,
+                "d": 161.0
+              },
+              {
+                "w": "Ramachandra",
+                "t": 3150.0,
+                "d": 839.0
+              },
+              {
+                "w": "Beyond",
+                "t": 4590.0,
+                "d": 480.0
+              },
+              {
+                "w": "the",
+                "t": 5070.0,
+                "d": 120.0
+              },
+              {
+                "w": "walls",
+                "t": 5190.0,
+                "d": 640.0
+              },
+              {
+                "w": "rival",
+                "t": 6150.0,
+                "d": 440.0
+              },
+              {
+                "w": "powers",
+                "t": 6590.0,
+                "d": 360.0
+              },
+              {
+                "w": "move",
+                "t": 6950.0,
+                "d": 760.0
+              },
+              {
+                "w": "the",
+                "t": 7790.0,
+                "d": 239.0
+              },
+              {
+                "w": "Kakatiyas",
+                "t": 8029.0,
+                "d": 1001.0
+              },
+              {
+                "w": "the",
+                "t": 9190.0,
+                "d": 240.0
+              },
+              {
+                "w": "Delhi",
+                "t": 9430.0,
+                "d": 279.0
+              },
+              {
+                "w": "sultans",
+                "t": 9709.0,
+                "d": 961.0
+              },
+              {
+                "w": "but",
+                "t": 10950.0,
+                "d": 279.0
+              },
+              {
+                "w": "Hemadri's",
+                "t": 11229.0,
+                "d": 521.0
+              },
+              {
+                "w": "battles",
+                "t": 11750.0,
+                "d": 520.0
+              },
+              {
+                "w": "are",
+                "t": 12270.0,
+                "d": 199.0
+              },
+              {
+                "w": "with",
+                "t": 12469.0,
+                "d": 240.0
+              },
+              {
+                "w": "confusion",
+                "t": 12709.0,
+                "d": 1041.0
+              },
+              {
+                "w": "contradiction",
+                "t": 13830.0,
+                "d": 1120.0
+              },
+              {
+                "w": "forgotten",
+                "t": 14990.0,
+                "d": 559.0
+              },
+              {
+                "w": "precedent",
+                "t": 15549.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_book_of_all_duties/split_auto/s0.png",
+          "slogan": {
+            "en": "Let duty outlive kings",
+            "hi": "धर्म राजाओं से दीर्घायु हो"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_book_of_all_duties/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_book_of_all_duties/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As night seals Devagiri's stones, Hemadri's words march beyond ramparts, guarding fields and shrines long after swords rust.",
+            "hi": "रात ढलते ही देवगिरि की चट्टानें सोती हैं, पर हेमाद्रि के शब्द क़िलों से निकल खेतों और मंदिरों की रखवाली करते रहते हैं, जब तलवारें जंग खा जाएँ।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 72.0,
+                "d": 250.0
+              },
+              {
+                "w": "night",
+                "t": 322.0,
+                "d": 333.0
+              },
+              {
+                "w": "seals",
+                "t": 656.0,
+                "d": 333.0
+              },
+              {
+                "w": "Devagiri's",
+                "t": 989.0,
+                "d": 583.0
+              },
+              {
+                "w": "stones",
+                "t": 1572.0,
+                "d": 832.0
+              },
+              {
+                "w": "Hemadri's",
+                "t": 2446.0,
+                "d": 666.0
+              },
+              {
+                "w": "words",
+                "t": 3113.0,
+                "d": 416.0
+              },
+              {
+                "w": "march",
+                "t": 3530.0,
+                "d": 458.0
+              },
+              {
+                "w": "beyond",
+                "t": 3988.0,
+                "d": 376.0
+              },
+              {
+                "w": "ramparts",
+                "t": 4364.0,
+                "d": 833.0
+              },
+              {
+                "w": "guarding",
+                "t": 5406.0,
+                "d": 500.0
+              },
+              {
+                "w": "fields",
+                "t": 5906.0,
+                "d": 458.0
+              },
+              {
+                "w": "and",
+                "t": 6364.0,
+                "d": 250.0
+              },
+              {
+                "w": "shrines",
+                "t": 6614.0,
+                "d": 458.0
+              },
+              {
+                "w": "long",
+                "t": 7072.0,
+                "d": 708.0
+              },
+              {
+                "w": "after",
+                "t": 7822.0,
+                "d": 375.0
+              },
+              {
+                "w": "swords",
+                "t": 8197.0,
+                "d": 457.0
+              },
+              {
+                "w": "rust",
+                "t": 8655.0,
+                "d": 542.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_book_of_all_duties/img/p14.png",
+      "shot": "medium shot of storytellers later, pointing to a script scroll",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Later tradition will credit Hemadri with creating or standardising the Modi script. It is a good story for a learned minister, but no firm 13th-century evidence supports it; the earliest dated Modi records belong to much later days.",
+            "hi": "बाद की परंपरा हेमाद्रि को मोडी लिपि का जनक या नियंत्रक बताएगी। विद्वान मंत्री के लिए यह अच्छी कहानी है, पर तेरहवीं सदी का ठोस सबूत नहीं; मोडी के सबसे पुराने दिनांकित अभिलेख बहुत बाद के हैं।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p14_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Later",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "tradition",
+                "t": 542.0,
+                "d": 553.0
+              },
+              {
+                "w": "will",
+                "t": 1095.0,
+                "d": 212.0
+              },
+              {
+                "w": "credit",
+                "t": 1308.0,
+                "d": 382.0
+              },
+              {
+                "w": "Hemadri",
+                "t": 1691.0,
+                "d": 595.0
+              },
+              {
+                "w": "with",
+                "t": 2287.0,
+                "d": 254.0
+              },
+              {
+                "w": "creating",
+                "t": 2541.0,
+                "d": 638.0
+              },
+              {
+                "w": "or",
+                "t": 3179.0,
+                "d": 171.0
+              },
+              {
+                "w": "standardising",
+                "t": 3351.0,
+                "d": 850.0
+              },
+              {
+                "w": "the",
+                "t": 4201.0,
+                "d": 128.0
+              },
+              {
+                "w": "Modi",
+                "t": 4329.0,
+                "d": 297.0
+              },
+              {
+                "w": "script",
+                "t": 4627.0,
+                "d": 808.0
+              },
+              {
+                "w": "It",
+                "t": 5776.0,
+                "d": 170.0
+              },
+              {
+                "w": "is",
+                "t": 5946.0,
+                "d": 85.0
+              },
+              {
+                "w": "a",
+                "t": 6031.0,
+                "d": 85.0
+              },
+              {
+                "w": "good",
+                "t": 6117.0,
+                "d": 170.0
+              },
+              {
+                "w": "story",
+                "t": 6287.0,
+                "d": 468.0
+              },
+              {
+                "w": "for",
+                "t": 6755.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 6925.0,
+                "d": 42.0
+              },
+              {
+                "w": "learned",
+                "t": 6968.0,
+                "d": 425.0
+              },
+              {
+                "w": "minister",
+                "t": 7393.0,
+                "d": 765.0
+              },
+              {
+                "w": "but",
+                "t": 8414.0,
+                "d": 254.0
+              },
+              {
+                "w": "no",
+                "t": 8669.0,
+                "d": 213.0
+              },
+              {
+                "w": "firm",
+                "t": 8882.0,
+                "d": 381.0
+              },
+              {
+                "w": "13th-century",
+                "t": 9264.0,
+                "d": 1023.0
+              },
+              {
+                "w": "evidence",
+                "t": 10287.0,
+                "d": 468.0
+              },
+              {
+                "w": "supports",
+                "t": 10755.0,
+                "d": 510.0
+              },
+              {
+                "w": "it",
+                "t": 11265.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 11989.0,
+                "d": 211.0
+              },
+              {
+                "w": "earliest",
+                "t": 12201.0,
+                "d": 681.0
+              },
+              {
+                "w": "dated",
+                "t": 12882.0,
+                "d": 381.0
+              },
+              {
+                "w": "Modi",
+                "t": 13264.0,
+                "d": 341.0
+              },
+              {
+                "w": "records",
+                "t": 13606.0,
+                "d": 680.0
+              },
+              {
+                "w": "belong",
+                "t": 14328.0,
+                "d": 511.0
+              },
+              {
+                "w": "to",
+                "t": 14840.0,
+                "d": 126.0
+              },
+              {
+                "w": "much",
+                "t": 14967.0,
+                "d": 425.0
+              },
+              {
+                "w": "later",
+                "t": 15392.0,
+                "d": 298.0
+              },
+              {
+                "w": "days",
+                "t": 15691.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_book_of_all_duties/img/p15.png",
+      "shot": "close-up of a cracked but legible Chaturvarga Chintamani leaf centuries later",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "What survives securely is his writing. P.V. Kane, in the twentieth century, will sit with such leaves, reconstructing dharmashastra history through Hemadri's quotations and arrangements, hearing across time the mind of a Yadava minister at work.",
+            "hi": "जो ठोस रूप से बचा है, वह उसकी लेखनी है। बीसवीं सदी में पी.वी. काणे इन्हीं पन्नों पर झुककर हेमाद्रि के उद्धरणों और संयोजन से धर्मशास्त्र‑इतिहास फिर गढ़ेंगे, समय के पार एक यादव मंत्री का मन काम करता सुनेंगे।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p15_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "What",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "survives",
+                "t": 372.0,
+                "d": 425.0
+              },
+              {
+                "w": "securely",
+                "t": 797.0,
+                "d": 638.0
+              },
+              {
+                "w": "is",
+                "t": 1436.0,
+                "d": 212.0
+              },
+              {
+                "w": "his",
+                "t": 1648.0,
+                "d": 170.0
+              },
+              {
+                "w": "writing",
+                "t": 1819.0,
+                "d": 936.0
+              },
+              {
+                "w": "P.V.",
+                "t": 2840.0,
+                "d": 382.0
+              },
+              {
+                "w": "Kane",
+                "t": 3223.0,
+                "d": 339.0
+              },
+              {
+                "w": "in",
+                "t": 3562.0,
+                "d": 171.0
+              },
+              {
+                "w": "the",
+                "t": 3734.0,
+                "d": 127.0
+              },
+              {
+                "w": "twentieth",
+                "t": 3861.0,
+                "d": 510.0
+              },
+              {
+                "w": "century",
+                "t": 4372.0,
+                "d": 723.0
+              },
+              {
+                "w": "will",
+                "t": 5095.0,
+                "d": 297.0
+              },
+              {
+                "w": "sit",
+                "t": 5393.0,
+                "d": 255.0
+              },
+              {
+                "w": "with",
+                "t": 5648.0,
+                "d": 170.0
+              },
+              {
+                "w": "such",
+                "t": 5819.0,
+                "d": 340.0
+              },
+              {
+                "w": "leaves",
+                "t": 6159.0,
+                "d": 723.0
+              },
+              {
+                "w": "reconstructing",
+                "t": 7180.0,
+                "d": 893.0
+              },
+              {
+                "w": "dharmashastra",
+                "t": 8074.0,
+                "d": 637.0
+              },
+              {
+                "w": "history",
+                "t": 8711.0,
+                "d": 767.0
+              },
+              {
+                "w": "through",
+                "t": 9521.0,
+                "d": 296.0
+              },
+              {
+                "w": "Hemadri's",
+                "t": 9818.0,
+                "d": 469.0
+              },
+              {
+                "w": "quotations",
+                "t": 10287.0,
+                "d": 679.0
+              },
+              {
+                "w": "and",
+                "t": 10967.0,
+                "d": 298.0
+              },
+              {
+                "w": "arrangements",
+                "t": 11265.0,
+                "d": 978.0
+              },
+              {
+                "w": "hearing",
+                "t": 12585.0,
+                "d": 509.0
+              },
+              {
+                "w": "across",
+                "t": 13094.0,
+                "d": 511.0
+              },
+              {
+                "w": "time",
+                "t": 13606.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 13861.0,
+                "d": 126.0
+              },
+              {
+                "w": "mind",
+                "t": 13988.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 14287.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 14457.0,
+                "d": 41.0
+              },
+              {
+                "w": "Yadava",
+                "t": 14498.0,
+                "d": 426.0
+              },
+              {
+                "w": "minister",
+                "t": 14925.0,
+                "d": 510.0
+              },
+              {
+                "w": "at",
+                "t": 15436.0,
+                "d": 211.0
+              },
+              {
+                "w": "work",
+                "t": 15647.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_book_of_all_duties/img/p16.png",
+      "shot": "final wide shot blending Hemadri at his desk with faint outlines of kings and commoners",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Yadava kingdom falls, its walls broken and palaces emptied. Yet Hemadri's Chaturvarga Chintamani and Ayurveda Rasayan endure, showing how one court imagined right action, reminding us that a state outlives itself in the manuals it leaves behind.",
+            "hi": "यादव राज्य गिरता है, दीवारें टूटती हैं, महल सूने हो जाते हैं। पर हेमाद्रि का चतुर्वर्ग चिंतामणि और आयुर्वेद रसायन बने रहते हैं, दिखाते हुए कि एक दरबार ने ‘सही कर्म’ कैसी कल्पना की — याद दिलाते हुए कि राज्य अपने पीछे छोड़ी पुस्तिकाओं में ही सबसे लंबे समय तक जीता रहता है।"
+          },
+          "audio": {
+            "en": "assets/the_book_of_all_duties/audio/en/p16_0.mp3",
+            "hi": "assets/the_book_of_all_duties/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Yadava",
+                "t": 329.0,
+                "d": 425.0
+              },
+              {
+                "w": "kingdom",
+                "t": 755.0,
+                "d": 425.0
+              },
+              {
+                "w": "falls",
+                "t": 1180.0,
+                "d": 680.0
+              },
+              {
+                "w": "its",
+                "t": 2158.0,
+                "d": 340.0
+              },
+              {
+                "w": "walls",
+                "t": 2498.0,
+                "d": 426.0
+              },
+              {
+                "w": "broken",
+                "t": 2925.0,
+                "d": 637.0
+              },
+              {
+                "w": "and",
+                "t": 3562.0,
+                "d": 298.0
+              },
+              {
+                "w": "palaces",
+                "t": 3861.0,
+                "d": 553.0
+              },
+              {
+                "w": "emptied",
+                "t": 4457.0,
+                "d": 808.0
+              },
+              {
+                "w": "Yet",
+                "t": 5606.0,
+                "d": 340.0
+              },
+              {
+                "w": "Hemadri's",
+                "t": 5946.0,
+                "d": 553.0
+              },
+              {
+                "w": "Chaturvarga",
+                "t": 6500.0,
+                "d": 723.0
+              },
+              {
+                "w": "Chintamani",
+                "t": 7223.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 7989.0,
+                "d": 212.0
+              },
+              {
+                "w": "Ayurveda",
+                "t": 8329.0,
+                "d": 468.0
+              },
+              {
+                "w": "Rasayan",
+                "t": 8839.0,
+                "d": 469.0
+              },
+              {
+                "w": "endure",
+                "t": 9308.0,
+                "d": 382.0
+              },
+              {
+                "w": "showing",
+                "t": 10287.0,
+                "d": 509.0
+              },
+              {
+                "w": "how",
+                "t": 10796.0,
+                "d": 255.0
+              },
+              {
+                "w": "one",
+                "t": 11052.0,
+                "d": 298.0
+              },
+              {
+                "w": "court",
+                "t": 11351.0,
+                "d": 340.0
+              },
+              {
+                "w": "imagined",
+                "t": 11691.0,
+                "d": 594.0
+              },
+              {
+                "w": "right",
+                "t": 12286.0,
+                "d": 298.0
+              },
+              {
+                "w": "action",
+                "t": 12585.0,
+                "d": 808.0
+              },
+              {
+                "w": "reminding",
+                "t": 13606.0,
+                "d": 595.0
+              },
+              {
+                "w": "us",
+                "t": 14202.0,
+                "d": 126.0
+              },
+              {
+                "w": "that",
+                "t": 14328.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 14542.0,
+                "d": 41.0
+              },
+              {
+                "w": "state",
+                "t": 14584.0,
+                "d": 468.0
+              },
+              {
+                "w": "outlives",
+                "t": 15052.0,
+                "d": 510.0
+              },
+              {
+                "w": "itself",
+                "t": 15562.0,
+                "d": 553.0
+              },
+              {
+                "w": "in",
+                "t": 16115.0,
+                "d": 128.0
+              },
+              {
+                "w": "the",
+                "t": 16244.0,
+                "d": 170.0
+              },
+              {
+                "w": "manuals",
+                "t": 16414.0,
+                "d": 553.0
+              },
+              {
+                "w": "it",
+                "t": 16968.0,
+                "d": 212.0
+              },
+              {
+                "w": "leaves",
+                "t": 17180.0,
+                "d": 297.0
+              },
+              {
+                "w": "behind",
+                "t": 17478.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Hemadri Pandit",
+    "epithets": [
+      "Hemadri Pandit",
+      "Dharmashastra scholar",
+      "Author of Chaturvarga Chintamani",
+      "Yadava royal minister"
+    ],
+    "legend": "He tried to write every duty before time erased it."
+  }
+}
