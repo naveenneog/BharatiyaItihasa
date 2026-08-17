@@ -1,0 +1,3577 @@
+{
+  "id": "the_school_of_numbers_at_the_edge_of_empire",
+  "title": "The School of Numbers at the Edge of Empire",
+  "title_i18n": {
+    "en": "The School of Numbers at the Edge of Empire",
+    "hi": "सीमा पर बसे अंकों का पाठशाला"
+  },
+  "figure": "Changadeva and Bhaskara II",
+  "era": "Transmission of Bhaskara II's mathematics in Yadava territory, c. 1185-1260 CE",
+  "moral": "Knowledge lasts when a society builds places to teach it.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/intro/hero.png",
+      "name": "Changadeva of Vijjalavida",
+      "epithets": [
+        "Bhāskarāchārya of Maharashtra",
+        "Author of Lilavati and Bijaganita",
+        "Court Astronomer of the Yadavas",
+        "Master of the Siddhānta Shiromani"
+      ],
+      "legend": "A family of number–masters fights time to keep knowledge alive.",
+      "era": "Transmission of Bhaskara II's mathematics in Yadava territory, c. 1185-1260 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On a dusty plateau near Devagiri, Bhaskara's own blood carves a school from stone so his numbers will not die, while kingdoms rise, burn, and vanish around him.",
+            "hi": "देवगिरि के पास धूल भरे पठार पर, भास्कर अपने लहू से पत्थर में गुरुकुल गढ़ता है, ताकि उसके अंक न मरें, जबकि चारों ओर राज उठते, जलते और मिट जाते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/intro/hero_en.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 114.0,
+                "d": 166.0
+              },
+              {
+                "w": "a",
+                "t": 281.0,
+                "d": 83.0
+              },
+              {
+                "w": "dusty",
+                "t": 364.0,
+                "d": 500.0
+              },
+              {
+                "w": "plateau",
+                "t": 864.0,
+                "d": 458.0
+              },
+              {
+                "w": "near",
+                "t": 1322.0,
+                "d": 166.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 1489.0,
+                "d": 623.0
+              },
+              {
+                "w": "Bhaskara's",
+                "t": 2530.0,
+                "d": 626.0
+              },
+              {
+                "w": "own",
+                "t": 3156.0,
+                "d": 332.0
+              },
+              {
+                "w": "blood",
+                "t": 3488.0,
+                "d": 292.0
+              },
+              {
+                "w": "carves",
+                "t": 3781.0,
+                "d": 666.0
+              },
+              {
+                "w": "a",
+                "t": 4531.0,
+                "d": 166.0
+              },
+              {
+                "w": "school",
+                "t": 4697.0,
+                "d": 375.0
+              },
+              {
+                "w": "from",
+                "t": 5072.0,
+                "d": 208.0
+              },
+              {
+                "w": "stone",
+                "t": 5281.0,
+                "d": 833.0
+              },
+              {
+                "w": "so",
+                "t": 6114.0,
+                "d": 291.0
+              },
+              {
+                "w": "his",
+                "t": 6406.0,
+                "d": 166.0
+              },
+              {
+                "w": "numbers",
+                "t": 6572.0,
+                "d": 458.0
+              },
+              {
+                "w": "will",
+                "t": 7031.0,
+                "d": 166.0
+              },
+              {
+                "w": "not",
+                "t": 7197.0,
+                "d": 250.0
+              },
+              {
+                "w": "die",
+                "t": 7447.0,
+                "d": 416.0
+              },
+              {
+                "w": "while",
+                "t": 8322.0,
+                "d": 332.0
+              },
+              {
+                "w": "kingdoms",
+                "t": 8655.0,
+                "d": 459.0
+              },
+              {
+                "w": "rise",
+                "t": 9114.0,
+                "d": 665.0
+              },
+              {
+                "w": "burn",
+                "t": 9863.0,
+                "d": 708.0
+              },
+              {
+                "w": "and",
+                "t": 10697.0,
+                "d": 373.0
+              },
+              {
+                "w": "vanish",
+                "t": 11071.0,
+                "d": 458.0
+              },
+              {
+                "w": "around",
+                "t": 11530.0,
+                "d": 376.0
+              },
+              {
+                "w": "him",
+                "t": 11906.0,
+                "d": 375.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_school_of_numbers_at_the_edge_of_empire/intro/map.png",
+      "x": 0.45,
+      "y": 0.47,
+      "label": "Patan in Khandesh, near Devagiri",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, on the dry edge of empire, a small school dares to guard Maharashtra's hard‐won numbers from war, forgetfulness, and time itself.",
+            "hi": "साम्राज्य की सूखी सरहद पर, एक छोटा स्कूल जंग, भुलक्कड़पन और वक्त से महाराष्ट्र की मुश्किल से जीती गिनतियाँ बचाए खड़ा है।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/intro/map_en.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 873.0
+              },
+              {
+                "w": "on",
+                "t": 1045.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 1229.0,
+                "d": 137.0
+              },
+              {
+                "w": "dry",
+                "t": 1367.0,
+                "d": 367.0
+              },
+              {
+                "w": "edge",
+                "t": 1735.0,
+                "d": 183.0
+              },
+              {
+                "w": "of",
+                "t": 1919.0,
+                "d": 183.0
+              },
+              {
+                "w": "empire",
+                "t": 2103.0,
+                "d": 827.0
+              },
+              {
+                "w": "a",
+                "t": 3068.0,
+                "d": 182.0
+              },
+              {
+                "w": "small",
+                "t": 3251.0,
+                "d": 414.0
+              },
+              {
+                "w": "school",
+                "t": 3666.0,
+                "d": 367.0
+              },
+              {
+                "w": "dares",
+                "t": 4034.0,
+                "d": 366.0
+              },
+              {
+                "w": "to",
+                "t": 4401.0,
+                "d": 183.0
+              },
+              {
+                "w": "guard",
+                "t": 4585.0,
+                "d": 460.0
+              },
+              {
+                "w": "Maharashtra's",
+                "t": 5045.0,
+                "d": 781.0
+              },
+              {
+                "w": "hard‐won",
+                "t": 5827.0,
+                "d": 505.0
+              },
+              {
+                "w": "numbers",
+                "t": 6333.0,
+                "d": 643.0
+              },
+              {
+                "w": "from",
+                "t": 7022.0,
+                "d": 367.0
+              },
+              {
+                "w": "war",
+                "t": 7390.0,
+                "d": 597.0
+              },
+              {
+                "w": "forgetfulness",
+                "t": 8126.0,
+                "d": 1240.0
+              },
+              {
+                "w": "and",
+                "t": 9412.0,
+                "d": 321.0
+              },
+              {
+                "w": "time",
+                "t": 9734.0,
+                "d": 322.0
+              },
+              {
+                "w": "itself",
+                "t": 10057.0,
+                "d": 734.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/cover.png",
+      "shot": "low-angle wide of an old stone slab half-buried in scrub, with faint Nagari letters, under a vast Deccan sky",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the shadow of Devagiri, Bhaskara the Second's grandson, Changadeva of Vijjalavida, carved a school of numbers into stone while empires shifted around him.",
+            "hi": "देवगिरि की छाया में, भास्कर द्वितीय का पोता, विज्जलाविदा का चंगदेव, बदलते साम्राज्यों के बीच पत्थर में अंकों की पाठशाला तराश रहा था।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/cover_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 137.0
+              },
+              {
+                "w": "shadow",
+                "t": 448.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 816.0,
+                "d": 275.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 1091.0,
+                "d": 689.0
+              },
+              {
+                "w": "Bhaskara",
+                "t": 2011.0,
+                "d": 642.0
+              },
+              {
+                "w": "the",
+                "t": 2654.0,
+                "d": 183.0
+              },
+              {
+                "w": "Second's",
+                "t": 2837.0,
+                "d": 505.0
+              },
+              {
+                "w": "grandson",
+                "t": 3343.0,
+                "d": 1057.0
+              },
+              {
+                "w": "Changadeva",
+                "t": 4493.0,
+                "d": 644.0
+              },
+              {
+                "w": "of",
+                "t": 5137.0,
+                "d": 275.0
+              },
+              {
+                "w": "Vijjalavida",
+                "t": 5413.0,
+                "d": 827.0
+              },
+              {
+                "w": "carved",
+                "t": 6701.0,
+                "d": 459.0
+              },
+              {
+                "w": "a",
+                "t": 7160.0,
+                "d": 45.0
+              },
+              {
+                "w": "school",
+                "t": 7206.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 7574.0,
+                "d": 183.0
+              },
+              {
+                "w": "numbers",
+                "t": 7758.0,
+                "d": 597.0
+              },
+              {
+                "w": "into",
+                "t": 8356.0,
+                "d": 367.0
+              },
+              {
+                "w": "stone",
+                "t": 8724.0,
+                "d": 781.0
+              },
+              {
+                "w": "while",
+                "t": 9597.0,
+                "d": 320.0
+              },
+              {
+                "w": "empires",
+                "t": 9918.0,
+                "d": 644.0
+              },
+              {
+                "w": "shifted",
+                "t": 10563.0,
+                "d": 504.0
+              },
+              {
+                "w": "around",
+                "t": 11067.0,
+                "d": 368.0
+              },
+              {
+                "w": "him",
+                "t": 11436.0,
+                "d": 459.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p01.png",
+      "shot": "epic bird’s-eye over the Deccan plateau, with Devagiri fort in mid-distance and a small riverside settlement in the foreground",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Around twelve oh seven, the Yadavas ruled from rising Devagiri, yet far from the court a quieter work unfolded in the scrublands of Khandesh, in a place scholars call Vijjalavida.",
+            "hi": "लगभग १२०७ में, यादव rising देवगिरि से राज करते थे, पर दरबार से दूर, खंडेश की झाड़ियाँ में विज्जलाविदा नाम की जगह पर चुपचाप एक काम चल रहा था।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p01_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Around",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "twelve",
+                "t": 457.0,
+                "d": 382.0
+              },
+              {
+                "w": "oh",
+                "t": 840.0,
+                "d": 85.0
+              },
+              {
+                "w": "seven",
+                "t": 925.0,
+                "d": 595.0
+              },
+              {
+                "w": "the",
+                "t": 1691.0,
+                "d": 170.0
+              },
+              {
+                "w": "Yadavas",
+                "t": 1861.0,
+                "d": 553.0
+              },
+              {
+                "w": "ruled",
+                "t": 2414.0,
+                "d": 340.0
+              },
+              {
+                "w": "from",
+                "t": 2755.0,
+                "d": 211.0
+              },
+              {
+                "w": "rising",
+                "t": 2967.0,
+                "d": 469.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 3436.0,
+                "d": 425.0
+              },
+              {
+                "w": "yet",
+                "t": 3861.0,
+                "d": 978.0
+              },
+              {
+                "w": "far",
+                "t": 4840.0,
+                "d": 340.0
+              },
+              {
+                "w": "from",
+                "t": 5180.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 5393.0,
+                "d": 127.0
+              },
+              {
+                "w": "court",
+                "t": 5521.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 5904.0,
+                "d": 212.0
+              },
+              {
+                "w": "quieter",
+                "t": 6117.0,
+                "d": 425.0
+              },
+              {
+                "w": "work",
+                "t": 6542.0,
+                "d": 382.0
+              },
+              {
+                "w": "unfolded",
+                "t": 6925.0,
+                "d": 680.0
+              },
+              {
+                "w": "in",
+                "t": 7606.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 7691.0,
+                "d": 127.0
+              },
+              {
+                "w": "scrublands",
+                "t": 7819.0,
+                "d": 595.0
+              },
+              {
+                "w": "of",
+                "t": 8414.0,
+                "d": 169.0
+              },
+              {
+                "w": "Khandesh",
+                "t": 8584.0,
+                "d": 1063.0
+              },
+              {
+                "w": "in",
+                "t": 9647.0,
+                "d": 85.0
+              },
+              {
+                "w": "a",
+                "t": 9732.0,
+                "d": 384.0
+              },
+              {
+                "w": "place",
+                "t": 10117.0,
+                "d": 297.0
+              },
+              {
+                "w": "scholars",
+                "t": 10414.0,
+                "d": 510.0
+              },
+              {
+                "w": "call",
+                "t": 10925.0,
+                "d": 638.0
+              },
+              {
+                "w": "Vijjalavida",
+                "t": 11606.0,
+                "d": 893.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p02.png",
+      "shot": "slow push-in on an elderly Bhaskara II teaching under a tree, with a boy Changadeva watching",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Bhaskara, born in Vijjalavida, had written the Siddhanta Shiromani and Karana-kutuhala, works of sky and number; his family absorbed this learning like breath.",
+            "hi": "विज्जलाविदा में जन्मे भास्कर ने ‘सिद्धांत शिरोमणि’ और ‘करण-कुतूहल’ लिखे—आकाश और अंकों के ग्रंथ; उनका घर इस ज्ञान को सांस की तरह पीता था।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p02_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Bhaskara",
+                "t": 80.0,
+                "d": 827.0
+              },
+              {
+                "w": "born",
+                "t": 1183.0,
+                "d": 505.0
+              },
+              {
+                "w": "in",
+                "t": 1689.0,
+                "d": 137.0
+              },
+              {
+                "w": "Vijjalavida",
+                "t": 1827.0,
+                "d": 872.0
+              },
+              {
+                "w": "had",
+                "t": 2977.0,
+                "d": 320.0
+              },
+              {
+                "w": "written",
+                "t": 3297.0,
+                "d": 322.0
+              },
+              {
+                "w": "the",
+                "t": 3620.0,
+                "d": 137.0
+              },
+              {
+                "w": "Siddhanta",
+                "t": 3758.0,
+                "d": 505.0
+              },
+              {
+                "w": "Shiromani",
+                "t": 4264.0,
+                "d": 735.0
+              },
+              {
+                "w": "and",
+                "t": 5183.0,
+                "d": 367.0
+              },
+              {
+                "w": "Karana-kutuhala",
+                "t": 5551.0,
+                "d": 919.0
+              },
+              {
+                "w": "works",
+                "t": 7160.0,
+                "d": 551.0
+              },
+              {
+                "w": "of",
+                "t": 7712.0,
+                "d": 91.0
+              },
+              {
+                "w": "sky",
+                "t": 7804.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 8264.0,
+                "d": 229.0
+              },
+              {
+                "w": "number",
+                "t": 8494.0,
+                "d": 597.0
+              },
+              {
+                "w": "his",
+                "t": 9550.0,
+                "d": 322.0
+              },
+              {
+                "w": "family",
+                "t": 9873.0,
+                "d": 550.0
+              },
+              {
+                "w": "absorbed",
+                "t": 10424.0,
+                "d": 598.0
+              },
+              {
+                "w": "this",
+                "t": 11022.0,
+                "d": 229.0
+              },
+              {
+                "w": "learning",
+                "t": 11252.0,
+                "d": 412.0
+              },
+              {
+                "w": "like",
+                "t": 11665.0,
+                "d": 231.0
+              },
+              {
+                "w": "breath",
+                "t": 11896.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p03.png",
+      "shot": "close-up on Bhaskara II’s hand writing on a palm leaf, faint stars sketched beside numbers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In these leaves he set rules for eclipses and planetary paths, methods for algebra and arithmetic, verses that married verse and calculation in one breath.",
+            "hi": "इन पन्नों में उसने ग्रहणों और ग्रह-पथों के नियम, बीजगणित और अंकगणित की विधियाँ, और ऐसे श्लोक रखे जो कविता और गणना को एक ही सांस में जोड़ देते थे।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p03_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "these",
+                "t": 329.0,
+                "d": 340.0
+              },
+              {
+                "w": "leaves",
+                "t": 670.0,
+                "d": 553.0
+              },
+              {
+                "w": "he",
+                "t": 1351.0,
+                "d": 297.0
+              },
+              {
+                "w": "set",
+                "t": 1648.0,
+                "d": 297.0
+              },
+              {
+                "w": "rules",
+                "t": 1946.0,
+                "d": 340.0
+              },
+              {
+                "w": "for",
+                "t": 2287.0,
+                "d": 211.0
+              },
+              {
+                "w": "eclipses",
+                "t": 2498.0,
+                "d": 767.0
+              },
+              {
+                "w": "and",
+                "t": 3265.0,
+                "d": 296.0
+              },
+              {
+                "w": "planetary",
+                "t": 3562.0,
+                "d": 595.0
+              },
+              {
+                "w": "paths",
+                "t": 4158.0,
+                "d": 681.0
+              },
+              {
+                "w": "methods",
+                "t": 5478.0,
+                "d": 595.0
+              },
+              {
+                "w": "for",
+                "t": 6074.0,
+                "d": 255.0
+              },
+              {
+                "w": "algebra",
+                "t": 6329.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 7138.0,
+                "d": 255.0
+              },
+              {
+                "w": "arithmetic",
+                "t": 7393.0,
+                "d": 1106.0
+              },
+              {
+                "w": "verses",
+                "t": 8839.0,
+                "d": 511.0
+              },
+              {
+                "w": "that",
+                "t": 9351.0,
+                "d": 212.0
+              },
+              {
+                "w": "married",
+                "t": 9563.0,
+                "d": 424.0
+              },
+              {
+                "w": "verse",
+                "t": 9988.0,
+                "d": 469.0
+              },
+              {
+                "w": "and",
+                "t": 10627.0,
+                "d": 339.0
+              },
+              {
+                "w": "calculation",
+                "t": 10967.0,
+                "d": 808.0
+              },
+              {
+                "w": "in",
+                "t": 11775.0,
+                "d": 170.0
+              },
+              {
+                "w": "one",
+                "t": 11945.0,
+                "d": 298.0
+              },
+              {
+                "w": "breath",
+                "t": 12244.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p04.png",
+      "shot": "medium shot of now-grown Changadeva in a modest house, holding an old manuscript with reverence",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By Changadeva's time, his grandfather was gone, but the manuscripts remained, fragile, hand-copied threads linking their house to centuries of Indian astronomy and mathematics.",
+            "hi": "चंगदेव के समय तक दादा चले गए थे, पर हस्तलिखित पांडुलिपियाँ बचीं—नाज़ुक धागे, जो उनके घर को भारतीय ज्योतिष और गणित की सदियों से जोड़ते थे।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p04_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "Changadeva's",
+                "t": 457.0,
+                "d": 638.0
+              },
+              {
+                "w": "time",
+                "t": 1095.0,
+                "d": 680.0
+              },
+              {
+                "w": "his",
+                "t": 1776.0,
+                "d": 255.0
+              },
+              {
+                "w": "grandfather",
+                "t": 2031.0,
+                "d": 680.0
+              },
+              {
+                "w": "was",
+                "t": 2712.0,
+                "d": 170.0
+              },
+              {
+                "w": "gone",
+                "t": 2882.0,
+                "d": 851.0
+              },
+              {
+                "w": "but",
+                "t": 3776.0,
+                "d": 296.0
+              },
+              {
+                "w": "the",
+                "t": 4073.0,
+                "d": 127.0
+              },
+              {
+                "w": "manuscripts",
+                "t": 4201.0,
+                "d": 767.0
+              },
+              {
+                "w": "remained",
+                "t": 4968.0,
+                "d": 680.0
+              },
+              {
+                "w": "fragile",
+                "t": 5819.0,
+                "d": 936.0
+              },
+              {
+                "w": "hand-copied",
+                "t": 6882.0,
+                "d": 893.0
+              },
+              {
+                "w": "threads",
+                "t": 7776.0,
+                "d": 680.0
+              },
+              {
+                "w": "linking",
+                "t": 8669.0,
+                "d": 554.0
+              },
+              {
+                "w": "their",
+                "t": 9223.0,
+                "d": 212.0
+              },
+              {
+                "w": "house",
+                "t": 9436.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 9691.0,
+                "d": 126.0
+              },
+              {
+                "w": "centuries",
+                "t": 9818.0,
+                "d": 639.0
+              },
+              {
+                "w": "of",
+                "t": 10457.0,
+                "d": 212.0
+              },
+              {
+                "w": "Indian",
+                "t": 10670.0,
+                "d": 425.0
+              },
+              {
+                "w": "astronomy",
+                "t": 11095.0,
+                "d": 978.0
+              },
+              {
+                "w": "and",
+                "t": 12074.0,
+                "d": 255.0
+              },
+              {
+                "w": "mathematics",
+                "t": 12329.0,
+                "d": 935.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_school_of_numbers_at_the_edge_of_empire/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_school_of_numbers_at_the_edge_of_empire/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Grief hardens into resolve as Changadeva carries Bhaskara's fragile verses into the storm-swept world beyond his teacher's quiet room.",
+            "hi": "शोक पिघलकर संकल्प बन गया, जब चांगदेव अपने गुरु के शांत कक्ष से भास्कर की नाज़ुक पंक्तियाँ उठा तूफ़ानी दुनिया में निकल पड़ा।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Grief",
+                "t": 80.0,
+                "d": 459.0
+              },
+              {
+                "w": "hardens",
+                "t": 540.0,
+                "d": 505.0
+              },
+              {
+                "w": "into",
+                "t": 1045.0,
+                "d": 275.0
+              },
+              {
+                "w": "resolve",
+                "t": 1321.0,
+                "d": 873.0
+              },
+              {
+                "w": "as",
+                "t": 2195.0,
+                "d": 413.0
+              },
+              {
+                "w": "Changadeva",
+                "t": 2609.0,
+                "d": 642.0
+              },
+              {
+                "w": "carries",
+                "t": 3251.0,
+                "d": 460.0
+              },
+              {
+                "w": "Bhaskara's",
+                "t": 3712.0,
+                "d": 688.0
+              },
+              {
+                "w": "fragile",
+                "t": 4401.0,
+                "d": 598.0
+              },
+              {
+                "w": "verses",
+                "t": 5000.0,
+                "d": 735.0
+              },
+              {
+                "w": "into",
+                "t": 5781.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 6057.0,
+                "d": 183.0
+              },
+              {
+                "w": "storm-swept",
+                "t": 6241.0,
+                "d": 735.0
+              },
+              {
+                "w": "world",
+                "t": 6977.0,
+                "d": 827.0
+              },
+              {
+                "w": "beyond",
+                "t": 7804.0,
+                "d": 505.0
+              },
+              {
+                "w": "his",
+                "t": 8310.0,
+                "d": 229.0
+              },
+              {
+                "w": "teacher's",
+                "t": 8540.0,
+                "d": 643.0
+              },
+              {
+                "w": "quiet",
+                "t": 9183.0,
+                "d": 413.0
+              },
+              {
+                "w": "room",
+                "t": 9597.0,
+                "d": 505.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p05.png",
+      "shot": "over-the-shoulder of Changadeva reading by lamplight as rain lashes outside",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "If these verses stay only in this house, they will die with me.",
+            "hi": "अगर ये श्लोक सिर्फ इस घर में रह गए, तो वे मेरे साथ ही मर जाएँगे।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p05_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "If",
+                "t": 49.0,
+                "d": 159.3
+              },
+              {
+                "w": "these",
+                "t": 208.3,
+                "d": 355.4
+              },
+              {
+                "w": "verses",
+                "t": 563.7,
+                "d": 539.2
+              },
+              {
+                "w": "stay",
+                "t": 1152.0,
+                "d": 269.6
+              },
+              {
+                "w": "only",
+                "t": 1495.1,
+                "d": 428.9
+              },
+              {
+                "w": "in",
+                "t": 1985.3,
+                "d": 171.6
+              },
+              {
+                "w": "this",
+                "t": 2169.1,
+                "d": 220.6
+              },
+              {
+                "w": "house",
+                "t": 2389.7,
+                "d": 428.9
+              },
+              {
+                "w": "they",
+                "t": 3088.2,
+                "d": 171.6
+              },
+              {
+                "w": "will",
+                "t": 3272.0,
+                "d": 245.1
+              },
+              {
+                "w": "die",
+                "t": 3517.2,
+                "d": 232.8
+              },
+              {
+                "w": "with",
+                "t": 3750.0,
+                "d": 245.1
+              },
+              {
+                "w": "me",
+                "t": 3995.1,
+                "d": 257.3
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p06.png",
+      "shot": "wide shot of a small assembly of villagers and students before a shrine, with Changadeva addressing them",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Changadeva inscription tells us he did more than memorize; he gathered land, people and purpose to make a place where Bhaskara's works would be studied.",
+            "hi": "चंगदेव का शिलालेख दिखाता है कि उसने सिर्फ याद नहीं किया; ज़मीन, लोग और मकसद जुटाकर ऐसी जगह बनाई जहाँ भास्कर के ग्रंथ पढ़े जाएँ।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p06_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Changadeva",
+                "t": 329.0,
+                "d": 638.0
+              },
+              {
+                "w": "inscription",
+                "t": 968.0,
+                "d": 638.0
+              },
+              {
+                "w": "tells",
+                "t": 1606.0,
+                "d": 340.0
+              },
+              {
+                "w": "us",
+                "t": 1946.0,
+                "d": 170.0
+              },
+              {
+                "w": "he",
+                "t": 2117.0,
+                "d": 212.0
+              },
+              {
+                "w": "did",
+                "t": 2329.0,
+                "d": 211.0
+              },
+              {
+                "w": "more",
+                "t": 2541.0,
+                "d": 341.0
+              },
+              {
+                "w": "than",
+                "t": 2882.0,
+                "d": 169.0
+              },
+              {
+                "w": "memorize",
+                "t": 3052.0,
+                "d": 767.0
+              },
+              {
+                "w": "he",
+                "t": 4158.0,
+                "d": 298.0
+              },
+              {
+                "w": "gathered",
+                "t": 4457.0,
+                "d": 468.0
+              },
+              {
+                "w": "land",
+                "t": 4925.0,
+                "d": 723.0
+              },
+              {
+                "w": "people",
+                "t": 5819.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 6627.0,
+                "d": 340.0
+              },
+              {
+                "w": "purpose",
+                "t": 6968.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 7351.0,
+                "d": 127.0
+              },
+              {
+                "w": "make",
+                "t": 7478.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 7776.0,
+                "d": 85.0
+              },
+              {
+                "w": "place",
+                "t": 7861.0,
+                "d": 340.0
+              },
+              {
+                "w": "where",
+                "t": 8202.0,
+                "d": 212.0
+              },
+              {
+                "w": "Bhaskara's",
+                "t": 8414.0,
+                "d": 553.0
+              },
+              {
+                "w": "works",
+                "t": 8968.0,
+                "d": 638.0
+              },
+              {
+                "w": "would",
+                "t": 9647.0,
+                "d": 255.0
+              },
+              {
+                "w": "be",
+                "t": 9903.0,
+                "d": 128.0
+              },
+              {
+                "w": "studied",
+                "t": 10031.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p07.png",
+      "shot": "medium shot of a scribe chiseling letters into a stone slab while Changadeva dictates",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "His charter, carved in stone, records a gift: land set aside so that students might live and learn, studying the Siddhanta Shiromani and Karana-kutuhala in this frontier village.",
+            "hi": "उसका पत्थर पर खुदा फरमान एक दान बताता है: ज़मीन छोड़ी गई ताकि विद्यार्थी यहाँ रहें, सीखें, और सीमा के इस गाँव में सिद्धांत शिरोमणि और करण-कुतूहल पढ़ें।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p07_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "His",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "charter",
+                "t": 329.0,
+                "d": 595.0
+              },
+              {
+                "w": "carved",
+                "t": 1223.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 1606.0,
+                "d": 127.0
+              },
+              {
+                "w": "stone",
+                "t": 1734.0,
+                "d": 638.0
+              },
+              {
+                "w": "records",
+                "t": 2498.0,
+                "d": 553.0
+              },
+              {
+                "w": "a",
+                "t": 3052.0,
+                "d": 127.0
+              },
+              {
+                "w": "gift",
+                "t": 3179.0,
+                "d": 893.0
+              },
+              {
+                "w": "land",
+                "t": 4201.0,
+                "d": 426.0
+              },
+              {
+                "w": "set",
+                "t": 4627.0,
+                "d": 255.0
+              },
+              {
+                "w": "aside",
+                "t": 4882.0,
+                "d": 680.0
+              },
+              {
+                "w": "so",
+                "t": 5563.0,
+                "d": 212.0
+              },
+              {
+                "w": "that",
+                "t": 5776.0,
+                "d": 212.0
+              },
+              {
+                "w": "students",
+                "t": 5989.0,
+                "d": 553.0
+              },
+              {
+                "w": "might",
+                "t": 6542.0,
+                "d": 297.0
+              },
+              {
+                "w": "live",
+                "t": 6840.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 7223.0,
+                "d": 255.0
+              },
+              {
+                "w": "learn",
+                "t": 7478.0,
+                "d": 553.0
+              },
+              {
+                "w": "studying",
+                "t": 8329.0,
+                "d": 509.0
+              },
+              {
+                "w": "the",
+                "t": 8839.0,
+                "d": 128.0
+              },
+              {
+                "w": "Siddhanta",
+                "t": 8968.0,
+                "d": 553.0
+              },
+              {
+                "w": "Shiromani",
+                "t": 9521.0,
+                "d": 1021.0
+              },
+              {
+                "w": "and",
+                "t": 10542.0,
+                "d": 127.0
+              },
+              {
+                "w": "Karana-kutuhala",
+                "t": 10670.0,
+                "d": 1021.0
+              },
+              {
+                "w": "in",
+                "t": 11734.0,
+                "d": 211.0
+              },
+              {
+                "w": "this",
+                "t": 11945.0,
+                "d": 213.0
+              },
+              {
+                "w": "frontier",
+                "t": 12159.0,
+                "d": 468.0
+              },
+              {
+                "w": "village",
+                "t": 12627.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p08.png",
+      "shot": "close-up on the carved inscription lines, with key words subtly emphasized by light",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Modern scholars reading this stone hear a clear voice: a grandson naming his lineage, naming Bhaskara's texts, and tying their study to this soil.",
+            "hi": "आज के विद्वान इस पत्थर को पढ़ते हैं तो एक साफ आवाज़ सुनते हैं—एक पोता, अपनी वंशावली, भास्कर के ग्रंथों के नाम, और उनकी पढ़ाई को इस मिट्टी से जोड़ता हुआ।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p08_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Modern",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "scholars",
+                "t": 542.0,
+                "d": 510.0
+              },
+              {
+                "w": "reading",
+                "t": 1053.0,
+                "d": 425.0
+              },
+              {
+                "w": "this",
+                "t": 1478.0,
+                "d": 170.0
+              },
+              {
+                "w": "stone",
+                "t": 1648.0,
+                "d": 382.0
+              },
+              {
+                "w": "hear",
+                "t": 2031.0,
+                "d": 509.0
+              },
+              {
+                "w": "a",
+                "t": 2584.0,
+                "d": 171.0
+              },
+              {
+                "w": "clear",
+                "t": 2755.0,
+                "d": 296.0
+              },
+              {
+                "w": "voice",
+                "t": 3052.0,
+                "d": 1021.0
+              },
+              {
+                "w": "a",
+                "t": 4287.0,
+                "d": 212.0
+              },
+              {
+                "w": "grandson",
+                "t": 4500.0,
+                "d": 510.0
+              },
+              {
+                "w": "naming",
+                "t": 5010.0,
+                "d": 340.0
+              },
+              {
+                "w": "his",
+                "t": 5351.0,
+                "d": 170.0
+              },
+              {
+                "w": "lineage",
+                "t": 5521.0,
+                "d": 1021.0
+              },
+              {
+                "w": "naming",
+                "t": 6670.0,
+                "d": 510.0
+              },
+              {
+                "w": "Bhaskara's",
+                "t": 7180.0,
+                "d": 595.0
+              },
+              {
+                "w": "texts",
+                "t": 7776.0,
+                "d": 764.0
+              },
+              {
+                "w": "and",
+                "t": 8669.0,
+                "d": 510.0
+              },
+              {
+                "w": "tying",
+                "t": 9179.0,
+                "d": 384.0
+              },
+              {
+                "w": "their",
+                "t": 9563.0,
+                "d": 212.0
+              },
+              {
+                "w": "study",
+                "t": 9776.0,
+                "d": 381.0
+              },
+              {
+                "w": "to",
+                "t": 10158.0,
+                "d": 128.0
+              },
+              {
+                "w": "this",
+                "t": 10287.0,
+                "d": 170.0
+              },
+              {
+                "w": "soil",
+                "t": 10457.0,
+                "d": 424.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p09.png",
+      "shot": "interior wide of the new math school—a simple hall with students and diagrams",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "This was no royal academy; the inscription names no king as founder. It shows a more common story, local initiative, family tradition, and quiet institutional work at the edge of empire.",
+            "hi": "ये कोई शाही अकादमी नहीं थी; शिलालेख में किसी राजा का नाम संस्थापक के रूप में नहीं है। ये एक आम कहानी दिखाता है—स्थानीय पहल, पारिवारिक परंपरा और सीमा पर चलती शांत संस्थागत मेहनत।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p09_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "This",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "was",
+                "t": 329.0,
+                "d": 212.0
+              },
+              {
+                "w": "no",
+                "t": 542.0,
+                "d": 212.0
+              },
+              {
+                "w": "royal",
+                "t": 755.0,
+                "d": 297.0
+              },
+              {
+                "w": "academy",
+                "t": 1053.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 1478.0,
+                "d": 425.0
+              },
+              {
+                "w": "inscription",
+                "t": 2158.0,
+                "d": 596.0
+              },
+              {
+                "w": "names",
+                "t": 2755.0,
+                "d": 381.0
+              },
+              {
+                "w": "no",
+                "t": 3137.0,
+                "d": 256.0
+              },
+              {
+                "w": "king",
+                "t": 3393.0,
+                "d": 340.0
+              },
+              {
+                "w": "as",
+                "t": 3734.0,
+                "d": 212.0
+              },
+              {
+                "w": "founder",
+                "t": 3946.0,
+                "d": 638.0
+              },
+              {
+                "w": "It",
+                "t": 5138.0,
+                "d": 255.0
+              },
+              {
+                "w": "shows",
+                "t": 5393.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 5648.0,
+                "d": 42.0
+              },
+              {
+                "w": "more",
+                "t": 5691.0,
+                "d": 255.0
+              },
+              {
+                "w": "common",
+                "t": 5946.0,
+                "d": 340.0
+              },
+              {
+                "w": "story",
+                "t": 6287.0,
+                "d": 851.0
+              },
+              {
+                "w": "local",
+                "t": 7138.0,
+                "d": 425.0
+              },
+              {
+                "w": "initiative",
+                "t": 7563.0,
+                "d": 936.0
+              },
+              {
+                "w": "family",
+                "t": 8500.0,
+                "d": 468.0
+              },
+              {
+                "w": "tradition",
+                "t": 8968.0,
+                "d": 850.0
+              },
+              {
+                "w": "and",
+                "t": 9861.0,
+                "d": 340.0
+              },
+              {
+                "w": "quiet",
+                "t": 10202.0,
+                "d": 297.0
+              },
+              {
+                "w": "institutional",
+                "t": 10500.0,
+                "d": 722.0
+              },
+              {
+                "w": "work",
+                "t": 11222.0,
+                "d": 426.0
+              },
+              {
+                "w": "at",
+                "t": 11648.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 11775.0,
+                "d": 128.0
+              },
+              {
+                "w": "edge",
+                "t": 11904.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 12244.0,
+                "d": 126.0
+              },
+              {
+                "w": "empire",
+                "t": 12371.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p10.png",
+      "shot": "medium shot of Changadeva teaching a verse, students chanting in unison",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Verses on sines, eclipses and arithmetic were chanted aloud. Memory carried the rules, while the school's manuscripts carried their exact words into another generation.",
+            "hi": "ज्या, ग्रहण और अंकगणित के श्लोक ज़ोर से गाए जाते थे। नियम याददाश्त में रहते, और स्कूल की पांडुलिपियाँ उन्हीं शब्दों को अगली पीढ़ी तक पहुँचातीं।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p10_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Verses",
+                "t": 159.0,
+                "d": 638.0
+              },
+              {
+                "w": "on",
+                "t": 797.0,
+                "d": 255.0
+              },
+              {
+                "w": "sines",
+                "t": 1053.0,
+                "d": 765.0
+              },
+              {
+                "w": "eclipses",
+                "t": 2031.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 2840.0,
+                "d": 211.0
+              },
+              {
+                "w": "arithmetic",
+                "t": 3052.0,
+                "d": 724.0
+              },
+              {
+                "w": "were",
+                "t": 3776.0,
+                "d": 170.0
+              },
+              {
+                "w": "chanted",
+                "t": 3946.0,
+                "d": 425.0
+              },
+              {
+                "w": "aloud",
+                "t": 4372.0,
+                "d": 553.0
+              },
+              {
+                "w": "Memory",
+                "t": 5691.0,
+                "d": 553.0
+              },
+              {
+                "w": "carried",
+                "t": 6244.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 6585.0,
+                "d": 127.0
+              },
+              {
+                "w": "rules",
+                "t": 6712.0,
+                "d": 723.0
+              },
+              {
+                "w": "while",
+                "t": 7734.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 8031.0,
+                "d": 127.0
+              },
+              {
+                "w": "school's",
+                "t": 8159.0,
+                "d": 381.0
+              },
+              {
+                "w": "manuscripts",
+                "t": 8541.0,
+                "d": 723.0
+              },
+              {
+                "w": "carried",
+                "t": 9264.0,
+                "d": 382.0
+              },
+              {
+                "w": "their",
+                "t": 9647.0,
+                "d": 213.0
+              },
+              {
+                "w": "exact",
+                "t": 9861.0,
+                "d": 638.0
+              },
+              {
+                "w": "words",
+                "t": 10500.0,
+                "d": 467.0
+              },
+              {
+                "w": "into",
+                "t": 10967.0,
+                "d": 340.0
+              },
+              {
+                "w": "another",
+                "t": 11307.0,
+                "d": 468.0
+              },
+              {
+                "w": "generation",
+                "t": 11775.0,
+                "d": 767.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p11.png",
+      "shot": "close-up on a young student’s face lit by lamplight, reflected in his eye are star positions on a board",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Remember: the verse is the key, the computation is the door it opens.",
+            "hi": "याद रखो: श्लोक चाबी है, गणना वो दरवाज़ा है जो वह खोलती है।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p11_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Remember",
+                "t": 49.2,
+                "d": 527.0
+              },
+              {
+                "w": "the",
+                "t": 772.3,
+                "d": 122.5
+              },
+              {
+                "w": "verse",
+                "t": 894.8,
+                "d": 379.9
+              },
+              {
+                "w": "is",
+                "t": 1348.3,
+                "d": 134.8
+              },
+              {
+                "w": "the",
+                "t": 1483.1,
+                "d": 110.3
+              },
+              {
+                "w": "key",
+                "t": 1593.4,
+                "d": 306.4
+              },
+              {
+                "w": "the",
+                "t": 2083.6,
+                "d": 122.5
+              },
+              {
+                "w": "computation",
+                "t": 2206.1,
+                "d": 772.0
+              },
+              {
+                "w": "is",
+                "t": 3064.0,
+                "d": 159.3
+              },
+              {
+                "w": "the",
+                "t": 3223.3,
+                "d": 134.8
+              },
+              {
+                "w": "door",
+                "t": 3358.1,
+                "d": 294.1
+              },
+              {
+                "w": "it",
+                "t": 3664.5,
+                "d": 159.3
+              },
+              {
+                "w": "opens",
+                "t": 3897.3,
+                "d": 490.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p12.png",
+      "shot": "wide shot showing Devagiri fort in the distance as a caravan passes by the village school",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "While Yadava power swelled and roads filled with caravans and soldiers, this small school quietly bound Vijjalavida's past to Devagiri's rising present through shared calculation.",
+            "hi": "जब यादव शक्ति फूल रही थी और रास्ते काफिलों और सैनिकों से भर रहे थे, यह छोटा स्कूल शांत गणनाओं से विज्जलाविदा के अतीत को देवगिरि के उभरते वर्तमान से बाँध रहा था।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p12_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "While",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Yadava",
+                "t": 287.0,
+                "d": 255.0
+              },
+              {
+                "w": "power",
+                "t": 542.0,
+                "d": 255.0
+              },
+              {
+                "w": "swelled",
+                "t": 1180.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 1819.0,
+                "d": 255.0
+              },
+              {
+                "w": "roads",
+                "t": 2074.0,
+                "d": 340.0
+              },
+              {
+                "w": "filled",
+                "t": 2414.0,
+                "d": 297.0
+              },
+              {
+                "w": "with",
+                "t": 2712.0,
+                "d": 212.0
+              },
+              {
+                "w": "caravans",
+                "t": 2925.0,
+                "d": 594.0
+              },
+              {
+                "w": "and",
+                "t": 3520.0,
+                "d": 213.0
+              },
+              {
+                "w": "soldiers",
+                "t": 3734.0,
+                "d": 851.0
+              },
+              {
+                "w": "this",
+                "t": 4925.0,
+                "d": 297.0
+              },
+              {
+                "w": "small",
+                "t": 5223.0,
+                "d": 340.0
+              },
+              {
+                "w": "school",
+                "t": 5563.0,
+                "d": 425.0
+              },
+              {
+                "w": "quietly",
+                "t": 5989.0,
+                "d": 553.0
+              },
+              {
+                "w": "bound",
+                "t": 6542.0,
+                "d": 340.0
+              },
+              {
+                "w": "Vijjalavida's",
+                "t": 6882.0,
+                "d": 936.0
+              },
+              {
+                "w": "past",
+                "t": 7819.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 8159.0,
+                "d": 170.0
+              },
+              {
+                "w": "Devagiri's",
+                "t": 8329.0,
+                "d": 638.0
+              },
+              {
+                "w": "rising",
+                "t": 8968.0,
+                "d": 468.0
+              },
+              {
+                "w": "present",
+                "t": 9436.0,
+                "d": 467.0
+              },
+              {
+                "w": "through",
+                "t": 9903.0,
+                "d": 511.0
+              },
+              {
+                "w": "shared",
+                "t": 10414.0,
+                "d": 425.0
+              },
+              {
+                "w": "calculation",
+                "t": 10840.0,
+                "d": 893.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_school_of_numbers_at_the_edge_of_empire/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_school_of_numbers_at_the_edge_of_empire/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As caravans thunder past, Changadeva vows that Bhaskara's numbers will echo from Devagiri's stones to distant lands.",
+            "hi": "काफ़िले गरजते निकलते हैं, चंगदेव कसम खाता है – भास्कर की गिनती देवगिरि की चट्टानों से दूर देशों तक गूंजेगी।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 70.0,
+                "d": 80.0
+              },
+              {
+                "w": "caravans",
+                "t": 150.0,
+                "d": 760.0
+              },
+              {
+                "w": "thunder",
+                "t": 910.0,
+                "d": 320.0
+              },
+              {
+                "w": "past",
+                "t": 1230.0,
+                "d": 600.0
+              },
+              {
+                "w": "Changadeva",
+                "t": 2029.0,
+                "d": 601.0
+              },
+              {
+                "w": "vows",
+                "t": 2630.0,
+                "d": 279.0
+              },
+              {
+                "w": "that",
+                "t": 2909.0,
+                "d": 201.0
+              },
+              {
+                "w": "Bhaskara's",
+                "t": 3110.0,
+                "d": 560.0
+              },
+              {
+                "w": "numbers",
+                "t": 3670.0,
+                "d": 440.0
+              },
+              {
+                "w": "will",
+                "t": 4110.0,
+                "d": 240.0
+              },
+              {
+                "w": "echo",
+                "t": 4350.0,
+                "d": 320.0
+              },
+              {
+                "w": "from",
+                "t": 4670.0,
+                "d": 240.0
+              },
+              {
+                "w": "Devagiri's",
+                "t": 4910.0,
+                "d": 520.0
+              },
+              {
+                "w": "stones",
+                "t": 5430.0,
+                "d": 640.0
+              },
+              {
+                "w": "to",
+                "t": 6110.0,
+                "d": 160.0
+              },
+              {
+                "w": "distant",
+                "t": 6270.0,
+                "d": 480.0
+              },
+              {
+                "w": "lands",
+                "t": 6750.0,
+                "d": 560.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p13.png",
+      "shot": "medium shot of Changadeva and a visiting scholar exchanging manuscripts",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Texts did not stay still. Carried by scholars and students, copies of Bhaskara's treatises travelled between such schools, weaving a network far beyond any single court.",
+            "hi": "ग्रंथ भी स्थिर नहीं थे। विद्वानों और विद्यार्थियों के कंधों पर भास्कर के treatise की प्रतियाँ ऐसे स्कूलों के बीच घूमतीं, अदालतों से कहीं दूर तक जाल बुनतीं।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p13_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Texts",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "did",
+                "t": 712.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 925.0,
+                "d": 255.0
+              },
+              {
+                "w": "stay",
+                "t": 1180.0,
+                "d": 255.0
+              },
+              {
+                "w": "still",
+                "t": 1436.0,
+                "d": 1276.0
+              },
+              {
+                "w": "Carried",
+                "t": 2797.0,
+                "d": 381.0
+              },
+              {
+                "w": "by",
+                "t": 3179.0,
+                "d": 171.0
+              },
+              {
+                "w": "scholars",
+                "t": 3351.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 3819.0,
+                "d": 127.0
+              },
+              {
+                "w": "students",
+                "t": 3946.0,
+                "d": 808.0
+              },
+              {
+                "w": "copies",
+                "t": 4840.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 5351.0,
+                "d": 170.0
+              },
+              {
+                "w": "Bhaskara's",
+                "t": 5521.0,
+                "d": 595.0
+              },
+              {
+                "w": "treatises",
+                "t": 6117.0,
+                "d": 638.0
+              },
+              {
+                "w": "travelled",
+                "t": 6755.0,
+                "d": 468.0
+              },
+              {
+                "w": "between",
+                "t": 7223.0,
+                "d": 340.0
+              },
+              {
+                "w": "such",
+                "t": 7563.0,
+                "d": 297.0
+              },
+              {
+                "w": "schools",
+                "t": 7861.0,
+                "d": 764.0
+              },
+              {
+                "w": "weaving",
+                "t": 8968.0,
+                "d": 510.0
+              },
+              {
+                "w": "a",
+                "t": 9478.0,
+                "d": 42.0
+              },
+              {
+                "w": "network",
+                "t": 9521.0,
+                "d": 552.0
+              },
+              {
+                "w": "far",
+                "t": 10073.0,
+                "d": 341.0
+              },
+              {
+                "w": "beyond",
+                "t": 10414.0,
+                "d": 425.0
+              },
+              {
+                "w": "any",
+                "t": 10881.0,
+                "d": 298.0
+              },
+              {
+                "w": "single",
+                "t": 11180.0,
+                "d": 425.0
+              },
+              {
+                "w": "court",
+                "t": 11606.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p14.png",
+      "shot": "documentary-style map overlay showing Maharashtra and Khandesh with a question mark at Vijjalavida",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today we cannot place Vijjalavida with certainty; scholars debate its exact spot, though most see it in this Maharashtra, Khandesh belt, near the Yadava heartland.",
+            "hi": "आज हम विज्जलाविदा को बिल्कुल नाप नहीं सकते; विद्वान उसकी सही जगह पर बहस करते हैं, पर ज़्यादातर उसे महाराष्ट्र–खंडेश की इसी पट्टी में, यादवों के दिल के पास रखते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p14_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "we",
+                "t": 457.0,
+                "d": 212.0
+              },
+              {
+                "w": "cannot",
+                "t": 670.0,
+                "d": 382.0
+              },
+              {
+                "w": "place",
+                "t": 1053.0,
+                "d": 297.0
+              },
+              {
+                "w": "Vijjalavida",
+                "t": 1351.0,
+                "d": 723.0
+              },
+              {
+                "w": "with",
+                "t": 2074.0,
+                "d": 255.0
+              },
+              {
+                "w": "certainty",
+                "t": 2329.0,
+                "d": 1063.0
+              },
+              {
+                "w": "scholars",
+                "t": 3478.0,
+                "d": 594.0
+              },
+              {
+                "w": "debate",
+                "t": 4073.0,
+                "d": 469.0
+              },
+              {
+                "w": "its",
+                "t": 4542.0,
+                "d": 255.0
+              },
+              {
+                "w": "exact",
+                "t": 4797.0,
+                "d": 425.0
+              },
+              {
+                "w": "spot",
+                "t": 5223.0,
+                "d": 936.0
+              },
+              {
+                "w": "though",
+                "t": 6287.0,
+                "d": 297.0
+              },
+              {
+                "w": "most",
+                "t": 6585.0,
+                "d": 297.0
+              },
+              {
+                "w": "see",
+                "t": 6882.0,
+                "d": 255.0
+              },
+              {
+                "w": "it",
+                "t": 7138.0,
+                "d": 127.0
+              },
+              {
+                "w": "in",
+                "t": 7265.0,
+                "d": 170.0
+              },
+              {
+                "w": "this",
+                "t": 7436.0,
+                "d": 255.0
+              },
+              {
+                "w": "Maharashtra",
+                "t": 7691.0,
+                "d": 935.0
+              },
+              {
+                "w": "Khandesh",
+                "t": 8882.0,
+                "d": 510.0
+              },
+              {
+                "w": "belt",
+                "t": 9393.0,
+                "d": 594.0
+              },
+              {
+                "w": "near",
+                "t": 10202.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 10500.0,
+                "d": 127.0
+              },
+              {
+                "w": "Yadava",
+                "t": 10627.0,
+                "d": 424.0
+              },
+              {
+                "w": "heartland",
+                "t": 11052.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_school_of_numbers_at_the_edge_of_empire/split_auto/s0.png",
+          "slogan": {
+            "en": "Let numbers outlive our bones",
+            "hi": "अंकों को हड्डियों से दीर्घ करो"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_school_of_numbers_at_the_edge_of_empire/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_school_of_numbers_at_the_edge_of_empire/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across hills and courts, his verses ride on stone and song, binding Bhaskara's sky-math to the memory of Yadava lands.",
+            "hi": "पहाड़ों और दरबारों पर, उसकी कविताएँ पत्थर और गीतों में दौड़ती हैं, भास्कर के आकाश-गणित को यादवों की धरती की याद से बाँधती हैं।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 72.0,
+                "d": 541.0
+              },
+              {
+                "w": "hills",
+                "t": 614.0,
+                "d": 333.0
+              },
+              {
+                "w": "and",
+                "t": 947.0,
+                "d": 166.0
+              },
+              {
+                "w": "courts",
+                "t": 1114.0,
+                "d": 666.0
+              },
+              {
+                "w": "his",
+                "t": 1989.0,
+                "d": 375.0
+              },
+              {
+                "w": "verses",
+                "t": 2364.0,
+                "d": 500.0
+              },
+              {
+                "w": "ride",
+                "t": 2864.0,
+                "d": 291.0
+              },
+              {
+                "w": "on",
+                "t": 3156.0,
+                "d": 125.0
+              },
+              {
+                "w": "stone",
+                "t": 3281.0,
+                "d": 375.0
+              },
+              {
+                "w": "and",
+                "t": 3656.0,
+                "d": 166.0
+              },
+              {
+                "w": "song",
+                "t": 3822.0,
+                "d": 916.0
+              },
+              {
+                "w": "binding",
+                "t": 4822.0,
+                "d": 666.0
+              },
+              {
+                "w": "Bhaskara's",
+                "t": 5489.0,
+                "d": 583.0
+              },
+              {
+                "w": "sky-math",
+                "t": 6072.0,
+                "d": 583.0
+              },
+              {
+                "w": "to",
+                "t": 6656.0,
+                "d": 375.0
+              },
+              {
+                "w": "the",
+                "t": 7031.0,
+                "d": 166.0
+              },
+              {
+                "w": "memory",
+                "t": 7197.0,
+                "d": 458.0
+              },
+              {
+                "w": "of",
+                "t": 7656.0,
+                "d": 250.0
+              },
+              {
+                "w": "Yadava",
+                "t": 7906.0,
+                "d": 457.0
+              },
+              {
+                "w": "lands",
+                "t": 8363.0,
+                "d": 501.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p15.png",
+      "shot": "split-panel feel: on one side, Changadeva teaching; on the other, a modern scholar reading the inscription",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Yet the inscription's words are clear enough to bridge eight centuries, aligning the voices of Bhaskara's house with those who read his verses today.",
+            "hi": "फिर भी शिलालेख के शब्द इतने साफ हैं कि आठ सदियों को जोड़ दें—भास्कर के घर की आवाज़ें आज उनके श्लोक पढ़ने वालों से मिल जाती हैं।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p15_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Yet",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 372.0,
+                "d": 127.0
+              },
+              {
+                "w": "inscription's",
+                "t": 500.0,
+                "d": 765.0
+              },
+              {
+                "w": "words",
+                "t": 1265.0,
+                "d": 468.0
+              },
+              {
+                "w": "are",
+                "t": 1776.0,
+                "d": 255.0
+              },
+              {
+                "w": "clear",
+                "t": 2031.0,
+                "d": 297.0
+              },
+              {
+                "w": "enough",
+                "t": 2329.0,
+                "d": 296.0
+              },
+              {
+                "w": "to",
+                "t": 2626.0,
+                "d": 128.0
+              },
+              {
+                "w": "bridge",
+                "t": 2755.0,
+                "d": 468.0
+              },
+              {
+                "w": "eight",
+                "t": 3265.0,
+                "d": 339.0
+              },
+              {
+                "w": "centuries",
+                "t": 3605.0,
+                "d": 979.0
+              },
+              {
+                "w": "aligning",
+                "t": 4755.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 5308.0,
+                "d": 127.0
+              },
+              {
+                "w": "voices",
+                "t": 5436.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 5946.0,
+                "d": 170.0
+              },
+              {
+                "w": "Bhaskara's",
+                "t": 6117.0,
+                "d": 510.0
+              },
+              {
+                "w": "house",
+                "t": 6627.0,
+                "d": 297.0
+              },
+              {
+                "w": "with",
+                "t": 6925.0,
+                "d": 255.0
+              },
+              {
+                "w": "those",
+                "t": 7180.0,
+                "d": 468.0
+              },
+              {
+                "w": "who",
+                "t": 7648.0,
+                "d": 255.0
+              },
+              {
+                "w": "read",
+                "t": 7904.0,
+                "d": 255.0
+              },
+              {
+                "w": "his",
+                "t": 8159.0,
+                "d": 212.0
+              },
+              {
+                "w": "verses",
+                "t": 8372.0,
+                "d": 425.0
+              },
+              {
+                "w": "today",
+                "t": 8797.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p16.png",
+      "shot": "close-up on the weathered inscription now, with lichen on the stone and faint letters",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kim Plofker and David Pingree read in this stone not a legend, but firm evidence of how Bhaskara's works were kept alive in Yadava-country institutions.",
+            "hi": "किम प्लोफ़कर और डेविड पिंग्री को इस पत्थर में कहानी नहीं, ठोस सबूत दिखते हैं कि यादव-देश की संस्थाओं में भास्कर के ग्रंथ कैसे ज़िंदा रखे गए।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p16_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kim",
+                "t": 159.0,
+                "d": 170.0
+              },
+              {
+                "w": "Plofker",
+                "t": 329.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 882.0,
+                "d": 212.0
+              },
+              {
+                "w": "David",
+                "t": 1095.0,
+                "d": 382.0
+              },
+              {
+                "w": "Pingree",
+                "t": 1478.0,
+                "d": 425.0
+              },
+              {
+                "w": "read",
+                "t": 1904.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 2244.0,
+                "d": 211.0
+              },
+              {
+                "w": "this",
+                "t": 2456.0,
+                "d": 170.0
+              },
+              {
+                "w": "stone",
+                "t": 2626.0,
+                "d": 425.0
+              },
+              {
+                "w": "not",
+                "t": 3052.0,
+                "d": 341.0
+              },
+              {
+                "w": "a",
+                "t": 3393.0,
+                "d": 85.0
+              },
+              {
+                "w": "legend",
+                "t": 3478.0,
+                "d": 552.0
+              },
+              {
+                "w": "but",
+                "t": 4457.0,
+                "d": 297.0
+              },
+              {
+                "w": "firm",
+                "t": 4755.0,
+                "d": 340.0
+              },
+              {
+                "w": "evidence",
+                "t": 5095.0,
+                "d": 595.0
+              },
+              {
+                "w": "of",
+                "t": 5691.0,
+                "d": 212.0
+              },
+              {
+                "w": "how",
+                "t": 5904.0,
+                "d": 297.0
+              },
+              {
+                "w": "Bhaskara's",
+                "t": 6202.0,
+                "d": 595.0
+              },
+              {
+                "w": "works",
+                "t": 6797.0,
+                "d": 638.0
+              },
+              {
+                "w": "were",
+                "t": 7521.0,
+                "d": 212.0
+              },
+              {
+                "w": "kept",
+                "t": 7734.0,
+                "d": 340.0
+              },
+              {
+                "w": "alive",
+                "t": 8074.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 8414.0,
+                "d": 85.0
+              },
+              {
+                "w": "Yadava-country",
+                "t": 8500.0,
+                "d": 723.0
+              },
+              {
+                "w": "institutions",
+                "t": 9223.0,
+                "d": 935.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p17.png",
+      "shot": "slow pull-back from the stone to reveal ruins of the school and distant modern fields",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The later Kerala school would craft new techniques elsewhere, but this stone belongs to another story, of a Deccan lineage building a school so that inherited knowledge could outlast its founders.",
+            "hi": "बाद की केरल स्कूल ने कहीं और नई विधियाँ गढ़ीं, पर ये पत्थर दूसरी कहानी का है—दक्खन की एक वंश-परंपरा की, जिसने स्कूल खड़ा किया ताकि मिला हुआ ज्ञान संस्थापक के बाद भी जिए।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p17_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "later",
+                "t": 329.0,
+                "d": 382.0
+              },
+              {
+                "w": "Kerala",
+                "t": 712.0,
+                "d": 425.0
+              },
+              {
+                "w": "school",
+                "t": 1138.0,
+                "d": 425.0
+              },
+              {
+                "w": "would",
+                "t": 1563.0,
+                "d": 212.0
+              },
+              {
+                "w": "craft",
+                "t": 1776.0,
+                "d": 468.0
+              },
+              {
+                "w": "new",
+                "t": 2244.0,
+                "d": 339.0
+              },
+              {
+                "w": "techniques",
+                "t": 2584.0,
+                "d": 852.0
+              },
+              {
+                "w": "elsewhere",
+                "t": 3436.0,
+                "d": 637.0
+              },
+              {
+                "w": "but",
+                "t": 4243.0,
+                "d": 213.0
+              },
+              {
+                "w": "this",
+                "t": 4457.0,
+                "d": 212.0
+              },
+              {
+                "w": "stone",
+                "t": 4670.0,
+                "d": 425.0
+              },
+              {
+                "w": "belongs",
+                "t": 5095.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 5478.0,
+                "d": 127.0
+              },
+              {
+                "w": "another",
+                "t": 5606.0,
+                "d": 340.0
+              },
+              {
+                "w": "story",
+                "t": 5946.0,
+                "d": 808.0
+              },
+              {
+                "w": "of",
+                "t": 6968.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 7223.0,
+                "d": 85.0
+              },
+              {
+                "w": "Deccan",
+                "t": 7308.0,
+                "d": 340.0
+              },
+              {
+                "w": "lineage",
+                "t": 7648.0,
+                "d": 510.0
+              },
+              {
+                "w": "building a",
+                "t": 8159.0,
+                "d": 424.0
+              },
+              {
+                "w": "school",
+                "t": 8584.0,
+                "d": 724.0
+              },
+              {
+                "w": "so",
+                "t": 9308.0,
+                "d": 255.0
+              },
+              {
+                "w": "that",
+                "t": 9563.0,
+                "d": 254.0
+              },
+              {
+                "w": "inherited",
+                "t": 9818.0,
+                "d": 596.0
+              },
+              {
+                "w": "knowledge",
+                "t": 10414.0,
+                "d": 510.0
+              },
+              {
+                "w": "could",
+                "t": 10925.0,
+                "d": 211.0
+              },
+              {
+                "w": "outlast",
+                "t": 11137.0,
+                "d": 596.0
+              },
+              {
+                "w": "its",
+                "t": 11734.0,
+                "d": 170.0
+              },
+              {
+                "w": "founders",
+                "t": 11904.0,
+                "d": 851.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/the_school_of_numbers_at_the_edge_of_empire/img/p18.png",
+      "shot": "final contemplative wide shot of a modern classroom overlaid faintly with silhouettes of Changadeva’s school",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Changadeva's inscription reminds us that ideas endure not only through genius, but through places built to teach them, houses of number at the edge of empire, and in every age after.",
+            "hi": "चंगदेव का शिलालेख याद दिलाता है कि विचार सिर्फ प्रतिभा से नहीं, उनसे सीखने की जगहों से भी बचते हैं—सीमा पर बने अंकों के घरों से, और हर जमाने में।"
+          },
+          "audio": {
+            "en": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/en/p18_0.mp3",
+            "hi": "assets/the_school_of_numbers_at_the_edge_of_empire/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Changadeva's",
+                "t": 159.0,
+                "d": 595.0
+              },
+              {
+                "w": "inscription",
+                "t": 755.0,
+                "d": 638.0
+              },
+              {
+                "w": "reminds",
+                "t": 1393.0,
+                "d": 468.0
+              },
+              {
+                "w": "us",
+                "t": 1861.0,
+                "d": 170.0
+              },
+              {
+                "w": "that",
+                "t": 2031.0,
+                "d": 255.0
+              },
+              {
+                "w": "ideas",
+                "t": 2287.0,
+                "d": 553.0
+              },
+              {
+                "w": "endure",
+                "t": 2840.0,
+                "d": 595.0
+              },
+              {
+                "w": "not",
+                "t": 3436.0,
+                "d": 340.0
+              },
+              {
+                "w": "only",
+                "t": 3776.0,
+                "d": 296.0
+              },
+              {
+                "w": "through",
+                "t": 4073.0,
+                "d": 298.0
+              },
+              {
+                "w": "genius",
+                "t": 4372.0,
+                "d": 765.0
+              },
+              {
+                "w": "but",
+                "t": 5308.0,
+                "d": 212.0
+              },
+              {
+                "w": "through",
+                "t": 5521.0,
+                "d": 297.0
+              },
+              {
+                "w": "places",
+                "t": 5819.0,
+                "d": 425.0
+              },
+              {
+                "w": "built",
+                "t": 6244.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 6542.0,
+                "d": 170.0
+              },
+              {
+                "w": "teach",
+                "t": 6712.0,
+                "d": 297.0
+              },
+              {
+                "w": "them",
+                "t": 7010.0,
+                "d": 808.0
+              },
+              {
+                "w": "houses",
+                "t": 7861.0,
+                "d": 595.0
+              },
+              {
+                "w": "of",
+                "t": 8457.0,
+                "d": 126.0
+              },
+              {
+                "w": "number",
+                "t": 8584.0,
+                "d": 595.0
+              },
+              {
+                "w": "at",
+                "t": 9179.0,
+                "d": 171.0
+              },
+              {
+                "w": "the",
+                "t": 9351.0,
+                "d": 127.0
+              },
+              {
+                "w": "edge",
+                "t": 9478.0,
+                "d": 339.0
+              },
+              {
+                "w": "of",
+                "t": 9818.0,
+                "d": 128.0
+              },
+              {
+                "w": "empire",
+                "t": 9946.0,
+                "d": 893.0
+              },
+              {
+                "w": "and",
+                "t": 10925.0,
+                "d": 211.0
+              },
+              {
+                "w": "in",
+                "t": 11137.0,
+                "d": 170.0
+              },
+              {
+                "w": "every",
+                "t": 11351.0,
+                "d": 424.0
+              },
+              {
+                "w": "age",
+                "t": 11819.0,
+                "d": 296.0
+              },
+              {
+                "w": "after",
+                "t": 12115.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Changadeva of Vijjalavida",
+    "epithets": [
+      "Bhāskarāchārya of Maharashtra",
+      "Author of Lilavati and Bijaganita",
+      "Court Astronomer of the Yadavas",
+      "Master of the Siddhānta Shiromani"
+    ],
+    "legend": "A family of number–masters fights time to keep knowledge alive."
+  }
+}
