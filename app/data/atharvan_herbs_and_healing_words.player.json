@@ -1,3707 +1,3707 @@
 {
-  "id": "atharvan_herbs_and_healing_words",
-  "title": "Atharvan Herbs and Healing Words",
-  "title_i18n": {
-    "en": "Atharvan Herbs and Healing Words",
-    "hi": "अथर्वन जड़ी-बूटियाँ और उपचार-मंत्र"
-  },
-  "figure": "Atharvaveda healers",
-  "era": "Vedic healing traditions, c. 1500-900 BCE with later textual redaction",
-  "moral": "Knowledge often begins as a braid of faith and observation.",
-  "langs": [
-    "en",
-    "hi"
-  ],
-  "panels": [
+ "id": "atharvan_herbs_and_healing_words",
+ "title": "Atharvan Herbs and Healing Words",
+ "title_i18n": {
+  "en": "Atharvan Herbs and Healing Words",
+  "hi": "अथर्वन जड़ी-बूटियाँ और उपचार-मंत्र"
+ },
+ "figure": "Atharvaveda healers",
+ "era": "Vedic healing traditions, c. 1500-900 BCE with later textual redaction",
+ "moral": "Knowledge often begins as a braid of faith and observation.",
+ "langs": [
+  "en",
+  "hi"
+ ],
+ "panels": [
+  {
+   "id": "intro_hero",
+   "type": "hero",
+   "mood": "triumph",
+   "art": "assets/atharvan_herbs_and_healing_words/intro/hero.png",
+   "name": "Atharvan Healer of the Vedic Fire",
+   "epithets": [
+    "Chants of the Atharvans",
+    "Keepers of healing spells",
+    "Herb-knowers of the Veda",
+    "Warders of sickness and curse"
+   ],
+   "legend": "They sang between fear and reason to keep death away.",
+   "era": "Vedic healing traditions, c. 1500-900 BCE with later textual redaction",
+   "lines": [
     {
-      "id": "intro_hero",
-      "type": "hero",
-      "mood": "triumph",
-      "art": "assets/atharvan_herbs_and_healing_words/intro/hero.png",
-      "name": "Atharvan Healer of the Vedic Fire",
-      "epithets": [
-        "chants of the Atharvans",
-        "keepers of healing spells",
-        "herb-knowers of the Veda",
-        "warders of sickness and curse"
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "In smoke, song, and bitter roots, they faced fevers, curses, and ghosts, Atharvaveda healers whispering to plants and gods, groping toward medicine while the village trembled at every illness.",
+      "hi": "धुआं, गीत और कड़वे जड़ों के बीच, वे बुखार, शाप और भूतों से जूझ रहे थे, अथर्ववेद के वैद्य पौधों और देवों से फुसफुसा रहे थे, इलाज टटोलते हुए, जबकि हर बीमारी पर गांव कांप उठता था।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/intro/hero_en.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/intro/hero_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "In",
+        "t": 72.0,
+        "d": 250.0
+       },
+       {
+        "w": "smoke",
+        "t": 322.0,
+        "d": 541.0
+       },
+       {
+        "w": "song",
+        "t": 906.0,
+        "d": 583.0
+       },
+       {
+        "w": "and",
+        "t": 1531.0,
+        "d": 250.0
+       },
+       {
+        "w": "bitter",
+        "t": 1781.0,
+        "d": 291.0
+       },
+       {
+        "w": "roots",
+        "t": 2072.0,
+        "d": 541.0
+       },
+       {
+        "w": "they",
+        "t": 2822.0,
+        "d": 290.0
+       },
+       {
+        "w": "faced",
+        "t": 3113.0,
+        "d": 333.0
+       },
+       {
+        "w": "fevers",
+        "t": 3446.0,
+        "d": 834.0
+       },
+       {
+        "w": "curses",
+        "t": 4489.0,
+        "d": 791.0
+       },
+       {
+        "w": "and",
+        "t": 5322.0,
+        "d": 291.0
+       },
+       {
+        "w": "ghosts",
+        "t": 5614.0,
+        "d": 625.0
+       },
+       {
+        "w": "Atharvaveda",
+        "t": 6656.0,
+        "d": 791.0
+       },
+       {
+        "w": "healers",
+        "t": 7447.0,
+        "d": 541.0
+       },
+       {
+        "w": "whispering",
+        "t": 7989.0,
+        "d": 498.0
+       },
+       {
+        "w": "to",
+        "t": 8488.0,
+        "d": 126.0
+       },
+       {
+        "w": "plants",
+        "t": 8614.0,
+        "d": 416.0
+       },
+       {
+        "w": "and",
+        "t": 9031.0,
+        "d": 166.0
+       },
+       {
+        "w": "gods",
+        "t": 9197.0,
+        "d": 625.0
+       },
+       {
+        "w": "groping",
+        "t": 10322.0,
+        "d": 582.0
+       },
+       {
+        "w": "toward",
+        "t": 10905.0,
+        "d": 292.0
+       },
+       {
+        "w": "medicine",
+        "t": 11197.0,
+        "d": 625.0
+       },
+       {
+        "w": "while",
+        "t": 12156.0,
+        "d": 333.0
+       },
+       {
+        "w": "the",
+        "t": 12489.0,
+        "d": 125.0
+       },
+       {
+        "w": "village",
+        "t": 12614.0,
+        "d": 416.0
+       },
+       {
+        "w": "trembled",
+        "t": 13031.0,
+        "d": 541.0
+       },
+       {
+        "w": "at",
+        "t": 13572.0,
+        "d": 250.0
+       },
+       {
+        "w": "every",
+        "t": 13863.0,
+        "d": 459.0
+       },
+       {
+        "w": "illness",
+        "t": 14322.0,
+        "d": 791.0
+       }
       ],
-      "legend": "They sang between fear and reason to keep death away.",
-      "era": "Vedic healing traditions, c. 1500-900 BCE with later textual redaction",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "In smoke, song, and bitter roots, they faced fevers, curses, and ghosts, Atharvaveda healers whispering to plants and gods, groping toward medicine while the village trembled at every illness.",
-            "hi": "धुआं, गीत और कड़वे जड़ों के बीच, वे बुखार, शाप और भूतों से जूझ रहे थे, अथर्ववेद के वैद्य पौधों और देवों से फुसफुसा रहे थे, इलाज टटोलते हुए, जबकि हर बीमारी पर गांव कांप उठता था।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/intro/hero_en.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/intro/hero_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "In",
-                "t": 72.0,
-                "d": 250.0
-              },
-              {
-                "w": "smoke",
-                "t": 322.0,
-                "d": 541.0
-              },
-              {
-                "w": "song",
-                "t": 906.0,
-                "d": 583.0
-              },
-              {
-                "w": "and",
-                "t": 1531.0,
-                "d": 250.0
-              },
-              {
-                "w": "bitter",
-                "t": 1781.0,
-                "d": 291.0
-              },
-              {
-                "w": "roots",
-                "t": 2072.0,
-                "d": 541.0
-              },
-              {
-                "w": "they",
-                "t": 2822.0,
-                "d": 290.0
-              },
-              {
-                "w": "faced",
-                "t": 3113.0,
-                "d": 333.0
-              },
-              {
-                "w": "fevers",
-                "t": 3446.0,
-                "d": 834.0
-              },
-              {
-                "w": "curses",
-                "t": 4489.0,
-                "d": 791.0
-              },
-              {
-                "w": "and",
-                "t": 5322.0,
-                "d": 291.0
-              },
-              {
-                "w": "ghosts",
-                "t": 5614.0,
-                "d": 625.0
-              },
-              {
-                "w": "Atharvaveda",
-                "t": 6656.0,
-                "d": 791.0
-              },
-              {
-                "w": "healers",
-                "t": 7447.0,
-                "d": 541.0
-              },
-              {
-                "w": "whispering",
-                "t": 7989.0,
-                "d": 498.0
-              },
-              {
-                "w": "to",
-                "t": 8488.0,
-                "d": 126.0
-              },
-              {
-                "w": "plants",
-                "t": 8614.0,
-                "d": 416.0
-              },
-              {
-                "w": "and",
-                "t": 9031.0,
-                "d": 166.0
-              },
-              {
-                "w": "gods",
-                "t": 9197.0,
-                "d": 625.0
-              },
-              {
-                "w": "groping",
-                "t": 10322.0,
-                "d": 582.0
-              },
-              {
-                "w": "toward",
-                "t": 10905.0,
-                "d": 292.0
-              },
-              {
-                "w": "medicine",
-                "t": 11197.0,
-                "d": 625.0
-              },
-              {
-                "w": "while",
-                "t": 12156.0,
-                "d": 333.0
-              },
-              {
-                "w": "the",
-                "t": 12489.0,
-                "d": 125.0
-              },
-              {
-                "w": "village",
-                "t": 12614.0,
-                "d": 416.0
-              },
-              {
-                "w": "trembled",
-                "t": 13031.0,
-                "d": 541.0
-              },
-              {
-                "w": "at",
-                "t": 13572.0,
-                "d": 250.0
-              },
-              {
-                "w": "every",
-                "t": 13863.0,
-                "d": 459.0
-              },
-              {
-                "w": "illness",
-                "t": 14322.0,
-                "d": 791.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "intro_map",
-      "type": "map",
-      "mood": "suspense",
-      "map": "assets/atharvan_herbs_and_healing_words/intro/map.png",
-      "x": 0.47,
-      "y": 0.26,
-      "label": "Northwestern & early Gangetic Vedic lands",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Here, along wide rivers and cattle camps, healers mix wild herbs with sharp chants, testing which words and plants truly hold back sickness.",
-            "hi": "यहीं चौड़ी नदियों और मवेशी डेरों के बीच वैद्य जंगली जड़ी-बूटियाँ तीखे मंत्रों संग घोलकर परख रहे हैं, कौन सा शब्द और कौन सा पौधा सच में रोग रोकता है।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/intro/map_en.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/intro/map_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Here",
-                "t": 80.0,
-                "d": 781.0
-              },
-              {
-                "w": "along",
-                "t": 1091.0,
-                "d": 413.0
-              },
-              {
-                "w": "wide",
-                "t": 1505.0,
-                "d": 367.0
-              },
-              {
-                "w": "rivers",
-                "t": 1873.0,
-                "d": 458.0
-              },
-              {
-                "w": "and",
-                "t": 2332.0,
-                "d": 231.0
-              },
-              {
-                "w": "cattle",
-                "t": 2563.0,
-                "d": 459.0
-              },
-              {
-                "w": "camps",
-                "t": 3022.0,
-                "d": 780.0
-              },
-              {
-                "w": "healers",
-                "t": 4034.0,
-                "d": 643.0
-              },
-              {
-                "w": "mix",
-                "t": 4678.0,
-                "d": 321.0
-              },
-              {
-                "w": "wild",
-                "t": 5000.0,
-                "d": 459.0
-              },
-              {
-                "w": "herbs",
-                "t": 5459.0,
-                "d": 459.0
-              },
-              {
-                "w": "with",
-                "t": 5919.0,
-                "d": 321.0
-              },
-              {
-                "w": "sharp",
-                "t": 6241.0,
-                "d": 367.0
-              },
-              {
-                "w": "chants",
-                "t": 6609.0,
-                "d": 735.0
-              },
-              {
-                "w": "testing",
-                "t": 7712.0,
-                "d": 505.0
-              },
-              {
-                "w": "which",
-                "t": 8218.0,
-                "d": 275.0
-              },
-              {
-                "w": "words",
-                "t": 8494.0,
-                "d": 551.0
-              },
-              {
-                "w": "and",
-                "t": 9045.0,
-                "d": 320.0
-              },
-              {
-                "w": "plants",
-                "t": 9366.0,
-                "d": 598.0
-              },
-              {
-                "w": "truly",
-                "t": 9965.0,
-                "d": 458.0
-              },
-              {
-                "w": "hold",
-                "t": 10424.0,
-                "d": 322.0
-              },
-              {
-                "w": "back",
-                "t": 10747.0,
-                "d": 275.0
-              },
-              {
-                "w": "sickness",
-                "t": 11022.0,
-                "d": 873.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "cover",
-      "art": "assets/atharvan_herbs_and_healing_words/img/cover.png",
-      "shot": "wide, low-angle scene at dusk of a Vedic healer between fire altar and forest edge",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Before Ayurveda's doctors, Atharvaveda healers walked between fire and forest, chanting to fevers and herbs alike, half-priests, half-physicians in a world where illness spoke with many tongues.",
-            "hi": "आयुर्वेद के वैद्यों से पहले, अथर्ववेद के वैद्य आग और जंगल के बीच चलते थे, ज्वर और जड़ी दोनों से मंत्र बोलते – आधे पुजारी, आधे चिकित्सक, उस दुनिया में जहाँ रोग की कई ज़बानें थीं।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/cover_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/cover_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Before",
-                "t": 126.0,
-                "d": 505.0
-              },
-              {
-                "w": "Ayurveda's",
-                "t": 632.0,
-                "d": 643.0
-              },
-              {
-                "w": "doctors",
-                "t": 1275.0,
-                "d": 919.0
-              },
-              {
-                "w": "Atharvaveda",
-                "t": 2517.0,
-                "d": 872.0
-              },
-              {
-                "w": "healers",
-                "t": 3389.0,
-                "d": 597.0
-              },
-              {
-                "w": "walked",
-                "t": 3987.0,
-                "d": 459.0
-              },
-              {
-                "w": "between",
-                "t": 4447.0,
-                "d": 414.0
-              },
-              {
-                "w": "fire",
-                "t": 4862.0,
-                "d": 551.0
-              },
-              {
-                "w": "and",
-                "t": 5413.0,
-                "d": 229.0
-              },
-              {
-                "w": "forest",
-                "t": 5643.0,
-                "d": 1011.0
-              },
-              {
-                "w": "chanting",
-                "t": 6655.0,
-                "d": 459.0
-              },
-              {
-                "w": "to",
-                "t": 7114.0,
-                "d": 91.0
-              },
-              {
-                "w": "fevers",
-                "t": 7206.0,
-                "d": 597.0
-              },
-              {
-                "w": "and",
-                "t": 7804.0,
-                "d": 229.0
-              },
-              {
-                "w": "herbs",
-                "t": 8034.0,
-                "d": 367.0
-              },
-              {
-                "w": "alike",
-                "t": 8402.0,
-                "d": 826.0
-              },
-              {
-                "w": "half-priests",
-                "t": 9320.0,
-                "d": 920.0
-              },
-              {
-                "w": "half-physicians",
-                "t": 10655.0,
-                "d": 1010.0
-              },
-              {
-                "w": "in",
-                "t": 11665.0,
-                "d": 183.0
-              },
-              {
-                "w": "a",
-                "t": 11849.0,
-                "d": 91.0
-              },
-              {
-                "w": "world",
-                "t": 11941.0,
-                "d": 414.0
-              },
-              {
-                "w": "where",
-                "t": 12356.0,
-                "d": 321.0
-              },
-              {
-                "w": "illness",
-                "t": 12678.0,
-                "d": 459.0
-              },
-              {
-                "w": "spoke",
-                "t": 13137.0,
-                "d": 413.0
-              },
-              {
-                "w": "with",
-                "t": 13551.0,
-                "d": 229.0
-              },
-              {
-                "w": "many",
-                "t": 13781.0,
-                "d": 413.0
-              },
-              {
-                "w": "tongues",
-                "t": 14195.0,
-                "d": 735.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p01",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p01.png",
-      "shot": "slow push-in from high wide to mid-shot on healer amid a Vedic settlement",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "In the early Vedic centuries, long before Charaka and Susruta, sickness was both spirit and substance. The Atharvaveda names it, fears it, and begins to touch it with human hands.",
-            "hi": "वैदिक आरंभिक सदियों में, चरक–सुश्रुत से बहुत पहले, रोग आत्मा भी था, देह भी। अथर्ववेद उसे नाम देता है, उससे डरता भी है, और पहली बार उसे इंसानी हाथों से छूता है।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p01_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p01_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "In",
-                "t": 80.0,
-                "d": 183.0
-              },
-              {
-                "w": "the",
-                "t": 264.0,
-                "d": 137.0
-              },
-              {
-                "w": "early",
-                "t": 402.0,
-                "d": 459.0
-              },
-              {
-                "w": "Vedic",
-                "t": 862.0,
-                "d": 367.0
-              },
-              {
-                "w": "centuries",
-                "t": 1229.0,
-                "d": 965.0
-              },
-              {
-                "w": "long",
-                "t": 2287.0,
-                "d": 504.0
-              },
-              {
-                "w": "before",
-                "t": 2791.0,
-                "d": 322.0
-              },
-              {
-                "w": "Charaka",
-                "t": 3114.0,
-                "d": 413.0
-              },
-              {
-                "w": "and",
-                "t": 3528.0,
-                "d": 366.0
-              },
-              {
-                "w": "Susruta",
-                "t": 3895.0,
-                "d": 736.0
-              },
-              {
-                "w": "sickness",
-                "t": 5000.0,
-                "d": 689.0
-              },
-              {
-                "w": "was",
-                "t": 5689.0,
-                "d": 275.0
-              },
-              {
-                "w": "both",
-                "t": 5965.0,
-                "d": 321.0
-              },
-              {
-                "w": "spirit",
-                "t": 6287.0,
-                "d": 597.0
-              },
-              {
-                "w": "and",
-                "t": 6931.0,
-                "d": 229.0
-              },
-              {
-                "w": "substance",
-                "t": 7160.0,
-                "d": 919.0
-              },
-              {
-                "w": "The",
-                "t": 8632.0,
-                "d": 321.0
-              },
-              {
-                "w": "Atharvaveda",
-                "t": 8954.0,
-                "d": 827.0
-              },
-              {
-                "w": "names",
-                "t": 9781.0,
-                "d": 367.0
-              },
-              {
-                "w": "it",
-                "t": 10149.0,
-                "d": 413.0
-              },
-              {
-                "w": "fears",
-                "t": 10563.0,
-                "d": 596.0
-              },
-              {
-                "w": "it",
-                "t": 11159.0,
-                "d": 552.0
-              },
-              {
-                "w": "and",
-                "t": 11757.0,
-                "d": 414.0
-              },
-              {
-                "w": "begins",
-                "t": 12172.0,
-                "d": 367.0
-              },
-              {
-                "w": "to",
-                "t": 12540.0,
-                "d": 137.0
-              },
-              {
-                "w": "touch",
-                "t": 12678.0,
-                "d": 412.0
-              },
-              {
-                "w": "it",
-                "t": 13090.0,
-                "d": 139.0
-              },
-              {
-                "w": "with",
-                "t": 13229.0,
-                "d": 228.0
-              },
-              {
-                "w": "human",
-                "t": 13458.0,
-                "d": 413.0
-              },
-              {
-                "w": "hands",
-                "t": 13872.0,
-                "d": 643.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p02",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p02.png",
-      "shot": "close-up on healer’s hands sorting herbs over a woven mat",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "The Atharvaveda sings to herbs as if they were living allies: roots that seize poison, shoots that drive out demons, plants that promise years added to a fragile life.",
-            "hi": "अथर्ववेद जड़ी-बूटियों से जीते साथी की तरह गाता है – जड़ें जो ज़हर पकड़ लें, कोमल कोंपलें जो भूत भगाएँ, वनस्पतियाँ जो नाज़ुक जीवन में साल जोड़ने का वादा करें।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p02_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p02_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "The",
-                "t": 74.0,
-                "d": 255.0
-              },
-              {
-                "w": "Atharvaveda",
-                "t": 329.0,
-                "d": 851.0
-              },
-              {
-                "w": "sings",
-                "t": 1180.0,
-                "d": 340.0
-              },
-              {
-                "w": "to",
-                "t": 1521.0,
-                "d": 170.0
-              },
-              {
-                "w": "herbs",
-                "t": 1691.0,
-                "d": 680.0
-              },
-              {
-                "w": "as",
-                "t": 2414.0,
-                "d": 340.0
-              },
-              {
-                "w": "if",
-                "t": 2755.0,
-                "d": 170.0
-              },
-              {
-                "w": "they",
-                "t": 2925.0,
-                "d": 169.0
-              },
-              {
-                "w": "were",
-                "t": 3094.0,
-                "d": 171.0
-              },
-              {
-                "w": "living",
-                "t": 3265.0,
-                "d": 296.0
-              },
-              {
-                "w": "allies",
-                "t": 3562.0,
-                "d": 767.0
-              },
-              {
-                "w": "roots",
-                "t": 5010.0,
-                "d": 382.0
-              },
-              {
-                "w": "that",
-                "t": 5393.0,
-                "d": 255.0
-              },
-              {
-                "w": "seize",
-                "t": 5648.0,
-                "d": 297.0
-              },
-              {
-                "w": "poison",
-                "t": 5946.0,
-                "d": 851.0
-              },
-              {
-                "w": "shoots",
-                "t": 6925.0,
-                "d": 425.0
-              },
-              {
-                "w": "that",
-                "t": 7351.0,
-                "d": 170.0
-              },
-              {
-                "w": "drive",
-                "t": 7521.0,
-                "d": 340.0
-              },
-              {
-                "w": "out",
-                "t": 7861.0,
-                "d": 170.0
-              },
-              {
-                "w": "demons",
-                "t": 8031.0,
-                "d": 1147.0
-              },
-              {
-                "w": "plants",
-                "t": 9179.0,
-                "d": 384.0
-              },
-              {
-                "w": "that",
-                "t": 9563.0,
-                "d": 254.0
-              },
-              {
-                "w": "promise",
-                "t": 9818.0,
-                "d": 425.0
-              },
-              {
-                "w": "years",
-                "t": 10243.0,
-                "d": 426.0
-              },
-              {
-                "w": "added",
-                "t": 10670.0,
-                "d": 381.0
-              },
-              {
-                "w": "to",
-                "t": 11052.0,
-                "d": 128.0
-              },
-              {
-                "w": "a",
-                "t": 11180.0,
-                "d": 85.0
-              },
-              {
-                "w": "fragile",
-                "t": 11265.0,
-                "d": 468.0
-              },
-              {
-                "w": "life",
-                "t": 11734.0,
-                "d": 510.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p03",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p03.png",
-      "shot": "intimate interior mid-shot of healer beside a feverish patient on a mat",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "A fever in the Atharvaveda is not only heat. It is a being with many heads, a foe to be cajoled, threatened, and cooled, while water, herbs, and words all work together.",
-            "hi": "अथर्ववेद में ज्वर सिर्फ़ तपिश नहीं। वह कई सिरों वाला प्राणी है, जिसे कभी मनाया, कभी धमकाया, कभी ठंडा किया जाता है, जबकि पानी, जड़ी और शब्द मिलकर काम करते हैं।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p03_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p03_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "A",
-                "t": 159.0,
-                "d": 85.0
-              },
-              {
-                "w": "fever",
-                "t": 244.0,
-                "d": 468.0
-              },
-              {
-                "w": "in",
-                "t": 712.0,
-                "d": 170.0
-              },
-              {
-                "w": "the",
-                "t": 882.0,
-                "d": 170.0
-              },
-              {
-                "w": "Atharvaveda",
-                "t": 1053.0,
-                "d": 808.0
-              },
-              {
-                "w": "is",
-                "t": 1861.0,
-                "d": 212.0
-              },
-              {
-                "w": "not",
-                "t": 2074.0,
-                "d": 212.0
-              },
-              {
-                "w": "only",
-                "t": 2287.0,
-                "d": 254.0
-              },
-              {
-                "w": "heat",
-                "t": 2541.0,
-                "d": 681.0
-              },
-              {
-                "w": "It",
-                "t": 3520.0,
-                "d": 256.0
-              },
-              {
-                "w": "is",
-                "t": 3776.0,
-                "d": 127.0
-              },
-              {
-                "w": "a",
-                "t": 3904.0,
-                "d": 126.0
-              },
-              {
-                "w": "being",
-                "t": 4030.0,
-                "d": 298.0
-              },
-              {
-                "w": "with",
-                "t": 4329.0,
-                "d": 255.0
-              },
-              {
-                "w": "many",
-                "t": 4585.0,
-                "d": 340.0
-              },
-              {
-                "w": "heads",
-                "t": 4925.0,
-                "d": 680.0
-              },
-              {
-                "w": "a",
-                "t": 5776.0,
-                "d": 127.0
-              },
-              {
-                "w": "foe",
-                "t": 5904.0,
-                "d": 382.0
-              },
-              {
-                "w": "to",
-                "t": 6287.0,
-                "d": 127.0
-              },
-              {
-                "w": "be",
-                "t": 6414.0,
-                "d": 170.0
-              },
-              {
-                "w": "cajoled",
-                "t": 6585.0,
-                "d": 808.0
-              },
-              {
-                "w": "threatened",
-                "t": 7521.0,
-                "d": 851.0
-              },
-              {
-                "w": "and",
-                "t": 8414.0,
-                "d": 339.0
-              },
-              {
-                "w": "cooled",
-                "t": 8754.0,
-                "d": 1107.0
-              },
-              {
-                "w": "while",
-                "t": 9903.0,
-                "d": 298.0
-              },
-              {
-                "w": "water",
-                "t": 10202.0,
-                "d": 679.0
-              },
-              {
-                "w": "herbs",
-                "t": 10881.0,
-                "d": 852.0
-              },
-              {
-                "w": "and",
-                "t": 11775.0,
-                "d": 298.0
-              },
-              {
-                "w": "words",
-                "t": 12074.0,
-                "d": 510.0
-              },
-              {
-                "w": "all",
-                "t": 12627.0,
-                "d": 340.0
-              },
-              {
-                "w": "work",
-                "t": 12968.0,
-                "d": 255.0
-              },
-              {
-                "w": "together",
-                "t": 13223.0,
-                "d": 723.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "action_auto",
-      "type": "action",
-      "mood": "suspense",
-      "bg": "assets/atharvan_herbs_and_healing_words/action_auto/bg.png",
-      "chars": [
-        {
-          "img": "assets/atharvan_herbs_and_healing_words/action_auto/char0.png",
-          "motion": {
-            "fromX": -40,
-            "toX": -10,
-            "fromScale": 0.82,
-            "toScale": 1.03,
-            "rot": -2,
-            "dur": 7200
-          }
-        }
-      ],
-      "motion": {
-        "bgZoom": 1.12,
-        "bgPan": -6,
-        "dur": 7200
-      },
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "His chants cross the village like wind over water, herbs and breath meeting unseen forces in the dark.",
-            "hi": "उसके मंत्र गाँव भर में दौड़ते हैं, जैसे पानी पर चलती हवा, जड़ी-बूटियाँ और साँस अँधेरे में अदृश्य ताकतों से भिड़ते हैं।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/action/action_auto_en.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/action/action_auto_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "His",
-                "t": 80.0,
-                "d": 321.0
-              },
-              {
-                "w": "chants",
-                "t": 402.0,
-                "d": 551.0
-              },
-              {
-                "w": "cross",
-                "t": 954.0,
-                "d": 367.0
-              },
-              {
-                "w": "the",
-                "t": 1321.0,
-                "d": 137.0
-              },
-              {
-                "w": "village",
-                "t": 1459.0,
-                "d": 735.0
-              },
-              {
-                "w": "like",
-                "t": 2241.0,
-                "d": 458.0
-              },
-              {
-                "w": "wind",
-                "t": 2700.0,
-                "d": 414.0
-              },
-              {
-                "w": "over",
-                "t": 3114.0,
-                "d": 320.0
-              },
-              {
-                "w": "water",
-                "t": 3435.0,
-                "d": 736.0
-              },
-              {
-                "w": "herbs",
-                "t": 4447.0,
-                "d": 782.0
-              },
-              {
-                "w": "and",
-                "t": 5275.0,
-                "d": 367.0
-              },
-              {
-                "w": "breath",
-                "t": 5643.0,
-                "d": 321.0
-              },
-              {
-                "w": "meeting",
-                "t": 5965.0,
-                "d": 413.0
-              },
-              {
-                "w": "unseen",
-                "t": 6379.0,
-                "d": 505.0
-              },
-              {
-                "w": "forces",
-                "t": 6885.0,
-                "d": 689.0
-              },
-              {
-                "w": "in",
-                "t": 7574.0,
-                "d": 183.0
-              },
-              {
-                "w": "the",
-                "t": 7758.0,
-                "d": 137.0
-              },
-              {
-                "w": "dark",
-                "t": 7896.0,
-                "d": 643.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p04",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p04.png",
-      "shot": "tight three-quarter profile close-up of healer chanting over water bowl",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "A hymn against takman, the dreaded fever, calls it by name and bids it depart to forest and marsh. Yet in the same breath, the healer offers cooling drinks and plant juices.",
-            "hi": "तपकारी ज्वर तक्षकन पर hymn उसका नाम लेकर उसे जंगल–दलदल की ओर भगाता है; पर उसी साँस में वैद्य ठंडी पेय और रसदार औषधि भी बढ़ा देता है।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p04_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p04_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "A",
-                "t": 172.0,
-                "d": 91.0
-              },
-              {
-                "w": "hymn",
-                "t": 264.0,
-                "d": 275.0
-              },
-              {
-                "w": "against",
-                "t": 540.0,
-                "d": 551.0
-              },
-              {
-                "w": "takman",
-                "t": 1091.0,
-                "d": 643.0
-              },
-              {
-                "w": "the",
-                "t": 1919.0,
-                "d": 321.0
-              },
-              {
-                "w": "dreaded",
-                "t": 2241.0,
-                "d": 412.0
-              },
-              {
-                "w": "fever",
-                "t": 2654.0,
-                "d": 874.0
-              },
-              {
-                "w": "calls",
-                "t": 3712.0,
-                "d": 413.0
-              },
-              {
-                "w": "it",
-                "t": 4126.0,
-                "d": 137.0
-              },
-              {
-                "w": "by",
-                "t": 4264.0,
-                "d": 228.0
-              },
-              {
-                "w": "name",
-                "t": 4493.0,
-                "d": 690.0
-              },
-              {
-                "w": "and",
-                "t": 5183.0,
-                "d": 367.0
-              },
-              {
-                "w": "bids",
-                "t": 5551.0,
-                "d": 321.0
-              },
-              {
-                "w": "it",
-                "t": 5873.0,
-                "d": 91.0
-              },
-              {
-                "w": "depart",
-                "t": 5965.0,
-                "d": 505.0
-              },
-              {
-                "w": "to",
-                "t": 6471.0,
-                "d": 137.0
-              },
-              {
-                "w": "forest",
-                "t": 6609.0,
-                "d": 505.0
-              },
-              {
-                "w": "and",
-                "t": 7114.0,
-                "d": 183.0
-              },
-              {
-                "w": "marsh",
-                "t": 7298.0,
-                "d": 1195.0
-              },
-              {
-                "w": "Yet",
-                "t": 8632.0,
-                "d": 505.0
-              },
-              {
-                "w": "in",
-                "t": 9183.0,
-                "d": 136.0
-              },
-              {
-                "w": "the",
-                "t": 9320.0,
-                "d": 137.0
-              },
-              {
-                "w": "same",
-                "t": 9458.0,
-                "d": 414.0
-              },
-              {
-                "w": "breath",
-                "t": 9873.0,
-                "d": 642.0
-              },
-              {
-                "w": "the",
-                "t": 10700.0,
-                "d": 231.0
-              },
-              {
-                "w": "healer",
-                "t": 10931.0,
-                "d": 413.0
-              },
-              {
-                "w": "offers",
-                "t": 11344.0,
-                "d": 504.0
-              },
-              {
-                "w": "cooling",
-                "t": 11849.0,
-                "d": 459.0
-              },
-              {
-                "w": "drinks",
-                "t": 12309.0,
-                "d": 552.0
-              },
-              {
-                "w": "and",
-                "t": 12906.0,
-                "d": 275.0
-              },
-              {
-                "w": "plant",
-                "t": 13182.0,
-                "d": 322.0
-              },
-              {
-                "w": "juices",
-                "t": 13505.0,
-                "d": 873.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p05",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p05.png",
-      "shot": "over-the-shoulder shot from behind healer as he tends a wound by firelight",
-      "mood": "battle",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Other hymns speak of wounds, bone-setting, and arrow removal. The words invoke divine physicians, the Asvins, but the hands learn where flesh splits, where bones slip, where pain lives.",
-            "hi": "और सूक्त घावों, हड्डी जमाने और तीर निकालने की बातें करते हैं। शब्द दिव्य वैद्य अश्विनों को पुकारते हैं, पर हाथ सीखते हैं – कहाँ माँस फटता है, कहाँ हड्डी खिसकती है, दर्द कहाँ बसता है।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p05_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p05_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Other",
-                "t": 150.0,
-                "d": 280.0
-              },
-              {
-                "w": "hymns",
-                "t": 430.0,
-                "d": 240.0
-              },
-              {
-                "w": "speak",
-                "t": 670.0,
-                "d": 320.0
-              },
-              {
-                "w": "of",
-                "t": 990.0,
-                "d": 160.0
-              },
-              {
-                "w": "wounds",
-                "t": 1150.0,
-                "d": 680.0
-              },
-              {
-                "w": "bone-setting",
-                "t": 2150.0,
-                "d": 960.0
-              },
-              {
-                "w": "and",
-                "t": 3349.0,
-                "d": 321.0
-              },
-              {
-                "w": "arrow",
-                "t": 3670.0,
-                "d": 360.0
-              },
-              {
-                "w": "removal",
-                "t": 4030.0,
-                "d": 880.0
-              },
-              {
-                "w": "The",
-                "t": 5870.0,
-                "d": 200.0
-              },
-              {
-                "w": "words",
-                "t": 6070.0,
-                "d": 360.0
-              },
-              {
-                "w": "invoke",
-                "t": 6430.0,
-                "d": 440.0
-              },
-              {
-                "w": "divine",
-                "t": 6870.0,
-                "d": 360.0
-              },
-              {
-                "w": "physicians",
-                "t": 7230.0,
-                "d": 1079.0
-              },
-              {
-                "w": "the",
-                "t": 8510.0,
-                "d": 280.0
-              },
-              {
-                "w": "Asvins",
-                "t": 8790.0,
-                "d": 880.0
-              },
-              {
-                "w": "but",
-                "t": 10229.0,
-                "d": 160.0
-              },
-              {
-                "w": "the",
-                "t": 10389.0,
-                "d": 121.0
-              },
-              {
-                "w": "hands",
-                "t": 10510.0,
-                "d": 320.0
-              },
-              {
-                "w": "learn",
-                "t": 10830.0,
-                "d": 319.0
-              },
-              {
-                "w": "where",
-                "t": 11149.0,
-                "d": 201.0
-              },
-              {
-                "w": "flesh",
-                "t": 11350.0,
-                "d": 320.0
-              },
-              {
-                "w": "splits",
-                "t": 11670.0,
-                "d": 639.0
-              },
-              {
-                "w": "where",
-                "t": 12709.0,
-                "d": 281.0
-              },
-              {
-                "w": "bones",
-                "t": 12990.0,
-                "d": 319.0
-              },
-              {
-                "w": "slip",
-                "t": 13309.0,
-                "d": 840.0
-              },
-              {
-                "w": "where",
-                "t": 14190.0,
-                "d": 279.0
-              },
-              {
-                "w": "pain",
-                "t": 14469.0,
-                "d": 281.0
-              },
-              {
-                "w": "lives",
-                "t": 14750.0,
-                "d": 639.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p06",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p06.png",
-      "shot": "wide shot juxtaposing healer at altar and healer in grove in split-like composition",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Kenneth Zysk calls this medicine in the Veda a world where ritual and remedy interweave. The healer sacrifices into the fire, then turns to the forest, carrying both chant and knife.",
-            "hi": "केनेथ ज़िस्क इस वेद की चिकित्सा को ऐसा जगत कहते हैं जहाँ अनुष्ठान और औषधि एक-दूसरे में घुल जाते हैं। वैद्य अग्नि में आहुति देता है, फिर मंत्र और चाकू लेकर जंगल की ओर बढ़ता है।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p06_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p06_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Kenneth",
-                "t": 74.0,
-                "d": 510.0
-              },
-              {
-                "w": "Zysk",
-                "t": 585.0,
-                "d": 212.0
-              },
-              {
-                "w": "calls",
-                "t": 797.0,
-                "d": 340.0
-              },
-              {
-                "w": "this",
-                "t": 1138.0,
-                "d": 170.0
-              },
-              {
-                "w": "medicine",
-                "t": 1563.0,
-                "d": 1020.0
-              },
-              {
-                "w": "in",
-                "t": 2584.0,
-                "d": 171.0
-              },
-              {
-                "w": "the",
-                "t": 2755.0,
-                "d": 127.0
-              },
-              {
-                "w": "Veda",
-                "t": 2882.0,
-                "d": 595.0
-              },
-              {
-                "w": "a",
-                "t": 3776.0,
-                "d": 212.0
-              },
-              {
-                "w": "world",
-                "t": 3989.0,
-                "d": 425.0
-              },
-              {
-                "w": "where",
-                "t": 4414.0,
-                "d": 297.0
-              },
-              {
-                "w": "ritual",
-                "t": 4712.0,
-                "d": 510.0
-              },
-              {
-                "w": "and",
-                "t": 5223.0,
-                "d": 212.0
-              },
-              {
-                "w": "remedy",
-                "t": 5436.0,
-                "d": 510.0
-              },
-              {
-                "w": "interweave",
-                "t": 5946.0,
-                "d": 978.0
-              },
-              {
-                "w": "The",
-                "t": 7734.0,
-                "d": 212.0
-              },
-              {
-                "w": "healer",
-                "t": 7946.0,
-                "d": 340.0
-              },
-              {
-                "w": "sacrifices",
-                "t": 8287.0,
-                "d": 851.0
-              },
-              {
-                "w": "into",
-                "t": 9138.0,
-                "d": 297.0
-              },
-              {
-                "w": "the",
-                "t": 9436.0,
-                "d": 127.0
-              },
-              {
-                "w": "fire",
-                "t": 9563.0,
-                "d": 723.0
-              },
-              {
-                "w": "then",
-                "t": 10585.0,
-                "d": 340.0
-              },
-              {
-                "w": "turns",
-                "t": 10925.0,
-                "d": 340.0
-              },
-              {
-                "w": "to",
-                "t": 11265.0,
-                "d": 126.0
-              },
-              {
-                "w": "the",
-                "t": 11392.0,
-                "d": 128.0
-              },
-              {
-                "w": "forest",
-                "t": 11521.0,
-                "d": 1063.0
-              },
-              {
-                "w": "carrying",
-                "t": 12627.0,
-                "d": 425.0
-              },
-              {
-                "w": "both",
-                "t": 13053.0,
-                "d": 381.0
-              },
-              {
-                "w": "chant",
-                "t": 13435.0,
-                "d": 596.0
-              },
-              {
-                "w": "and",
-                "t": 14073.0,
-                "d": 255.0
-              },
-              {
-                "w": "knife",
-                "t": 14328.0,
-                "d": 511.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p07",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p07.png",
-      "shot": "mid-shot of healer teaching a younger apprentice by the riverside",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "speech",
-          "role": "male",
-          "text": {
-            "en": "Remember their names. The hymn will fail if the herb is wrong.",
-            "hi": "नाम याद रखो। गलत जड़ी हो तो मंत्र भी बेअसर है।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p07_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p07_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Remember",
-                "t": 49.2,
-                "d": 527.0
-              },
-              {
-                "w": "their",
-                "t": 576.2,
-                "d": 318.6
-              },
-              {
-                "w": "names",
-                "t": 894.8,
-                "d": 490.2
-              },
-              {
-                "w": "The",
-                "t": 2267.2,
-                "d": 110.3
-              },
-              {
-                "w": "hymn",
-                "t": 2377.5,
-                "d": 294.1
-              },
-              {
-                "w": "will",
-                "t": 2671.6,
-                "d": 257.3
-              },
-              {
-                "w": "fail",
-                "t": 2928.9,
-                "d": 355.4
-              },
-              {
-                "w": "if",
-                "t": 3370.1,
-                "d": 147.0
-              },
-              {
-                "w": "the",
-                "t": 3517.2,
-                "d": 134.8
-              },
-              {
-                "w": "herb",
-                "t": 3652.0,
-                "d": 379.9
-              },
-              {
-                "w": "is",
-                "t": 4129.9,
-                "d": 208.3
-              },
-              {
-                "w": "wrong",
-                "t": 4338.2,
-                "d": 379.9
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p08",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p08.png",
-      "shot": "low, close three-quarter shot of healer confronting a worried family",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Healers like him are not yet separate physicians. They are ritual experts, household priests, masters of chants, and yet villagers bring their sick to them, measuring hope in both mantra and medicine.",
-            "hi": "उस जैसे वैद्य अभी अलग ‘डॉक्टर’ नहीं। वे ही अनुष्ठान–पारंगत, घर के पुजारी, मन्त्र–गत विद्वान हैं – फिर भी गाँव वाले अपना रोग इन्हीं के पास लाते हैं, आशा को मन्त्र और औषधि दोनों में नापते हुए।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p08_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p08_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Healers",
-                "t": 74.0,
-                "d": 468.0
-              },
-              {
-                "w": "like",
-                "t": 542.0,
-                "d": 255.0
-              },
-              {
-                "w": "him",
-                "t": 797.0,
-                "d": 255.0
-              },
-              {
-                "w": "are",
-                "t": 1053.0,
-                "d": 170.0
-              },
-              {
-                "w": "not",
-                "t": 1223.0,
-                "d": 340.0
-              },
-              {
-                "w": "yet",
-                "t": 1563.0,
-                "d": 212.0
-              },
-              {
-                "w": "separate",
-                "t": 1776.0,
-                "d": 468.0
-              },
-              {
-                "w": "physicians",
-                "t": 2244.0,
-                "d": 892.0
-              },
-              {
-                "w": "They",
-                "t": 3520.0,
-                "d": 298.0
-              },
-              {
-                "w": "are",
-                "t": 3819.0,
-                "d": 127.0
-              },
-              {
-                "w": "ritual",
-                "t": 3946.0,
-                "d": 382.0
-              },
-              {
-                "w": "experts",
-                "t": 4329.0,
-                "d": 808.0
-              },
-              {
-                "w": "household",
-                "t": 5265.0,
-                "d": 595.0
-              },
-              {
-                "w": "priests",
-                "t": 5861.0,
-                "d": 765.0
-              },
-              {
-                "w": "masters",
-                "t": 6797.0,
-                "d": 553.0
-              },
-              {
-                "w": "of",
-                "t": 7351.0,
-                "d": 127.0
-              },
-              {
-                "w": "chants",
-                "t": 7478.0,
-                "d": 680.0
-              },
-              {
-                "w": "and",
-                "t": 8414.0,
-                "d": 339.0
-              },
-              {
-                "w": "yet",
-                "t": 8754.0,
-                "d": 213.0
-              },
-              {
-                "w": "villagers",
-                "t": 8968.0,
-                "d": 553.0
-              },
-              {
-                "w": "bring",
-                "t": 9521.0,
-                "d": 255.0
-              },
-              {
-                "w": "their",
-                "t": 9776.0,
-                "d": 211.0
-              },
-              {
-                "w": "sick",
-                "t": 9988.0,
-                "d": 255.0
-              },
-              {
-                "w": "to",
-                "t": 10243.0,
-                "d": 128.0
-              },
-              {
-                "w": "them",
-                "t": 10372.0,
-                "d": 212.0
-              },
-              {
-                "w": "measuring",
-                "t": 10585.0,
-                "d": 1063.0
-              },
-              {
-                "w": "hope",
-                "t": 11648.0,
-                "d": 340.0
-              },
-              {
-                "w": "in",
-                "t": 11989.0,
-                "d": 211.0
-              },
-              {
-                "w": "both",
-                "t": 12201.0,
-                "d": 298.0
-              },
-              {
-                "w": "mantra",
-                "t": 12500.0,
-                "d": 638.0
-              },
-              {
-                "w": "and",
-                "t": 13179.0,
-                "d": 255.0
-              },
-              {
-                "w": "medicine",
-                "t": 13435.0,
-                "d": 511.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p09",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p09.png",
-      "shot": "moody interior mid-shot of healer performing a demon-expulsion rite",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Many hymns speak frankly of demons, sorcerers, and curses. Atharvan spells to bind enemies or drive out bhutas stand beside charms for comfort, childbirth, and long life in the same collection.",
-            "hi": "कई सूक्त साफ़-साफ़ भूत, तांत्रिक और शाप की बात करते हैं। अथर्वन मन्त्र जो शत्रु बाँधें या भूत भगाएँ, उसी संग्रह में प्रसव–सुख, दिलासा और दीर्घायु के मंत्रों के साथ खड़े हैं।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p09_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p09_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Many",
-                "t": 74.0,
-                "d": 425.0
-              },
-              {
-                "w": "hymns",
-                "t": 500.0,
-                "d": 255.0
-              },
-              {
-                "w": "speak",
-                "t": 755.0,
-                "d": 382.0
-              },
-              {
-                "w": "frankly",
-                "t": 1138.0,
-                "d": 510.0
-              },
-              {
-                "w": "of",
-                "t": 1648.0,
-                "d": 212.0
-              },
-              {
-                "w": "demons",
-                "t": 1861.0,
-                "d": 851.0
-              },
-              {
-                "w": "sorcerers",
-                "t": 2797.0,
-                "d": 1191.0
-              },
-              {
-                "w": "and",
-                "t": 4030.0,
-                "d": 298.0
-              },
-              {
-                "w": "curses",
-                "t": 4329.0,
-                "d": 936.0
-              },
-              {
-                "w": "Atharvan",
-                "t": 5904.0,
-                "d": 595.0
-              },
-              {
-                "w": "spells",
-                "t": 6500.0,
-                "d": 425.0
-              },
-              {
-                "w": "to",
-                "t": 6925.0,
-                "d": 170.0
-              },
-              {
-                "w": "bind",
-                "t": 7095.0,
-                "d": 382.0
-              },
-              {
-                "w": "enemies",
-                "t": 7521.0,
-                "d": 638.0
-              },
-              {
-                "w": "or",
-                "t": 8202.0,
-                "d": 212.0
-              },
-              {
-                "w": "drive",
-                "t": 8414.0,
-                "d": 382.0
-              },
-              {
-                "w": "out",
-                "t": 8797.0,
-                "d": 595.0
-              },
-              {
-                "w": "bhutas",
-                "t": 9606.0,
-                "d": 595.0
-              },
-              {
-                "w": "stand",
-                "t": 10202.0,
-                "d": 382.0
-              },
-              {
-                "w": "beside",
-                "t": 10585.0,
-                "d": 381.0
-              },
-              {
-                "w": "charms",
-                "t": 10967.0,
-                "d": 425.0
-              },
-              {
-                "w": "for",
-                "t": 11392.0,
-                "d": 213.0
-              },
-              {
-                "w": "comfort",
-                "t": 11606.0,
-                "d": 723.0
-              },
-              {
-                "w": "childbirth",
-                "t": 12371.0,
-                "d": 1022.0
-              },
-              {
-                "w": "and",
-                "t": 13435.0,
-                "d": 341.0
-              },
-              {
-                "w": "long",
-                "t": 13776.0,
-                "d": 340.0
-              },
-              {
-                "w": "life",
-                "t": 14117.0,
-                "d": 425.0
-              },
-              {
-                "w": "in",
-                "t": 14542.0,
-                "d": 127.0
-              },
-              {
-                "w": "the",
-                "t": 14670.0,
-                "d": 127.0
-              },
-              {
-                "w": "same",
-                "t": 14797.0,
-                "d": 382.0
-              },
-              {
-                "w": "collection",
-                "t": 15180.0,
-                "d": 723.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p10",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p10.png",
-      "shot": "contrastive wide shot of healer watching a funeral procession from a distance",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "The Atharvaveda does not promise to conquer death. Funerary hymns speak instead of a safe path for the dead, and of long life for those who still breathe and fear the next fever.",
-            "hi": "अथर्ववेद मृत्यु पर विजय का वादा नहीं करता। अन्त्येष्टि सूक्त मृत के लिए सुरक्षित पथ की बात करते हैं, और उनके लिए लम्बी आयु की, जो अभी साँस लेते हैं और अगली तपन से डरते हैं।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p10_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p10_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "The",
-                "t": 80.0,
-                "d": 321.0
-              },
-              {
-                "w": "Atharvaveda",
-                "t": 402.0,
-                "d": 919.0
-              },
-              {
-                "w": "does",
-                "t": 1321.0,
-                "d": 229.0
-              },
-              {
-                "w": "not",
-                "t": 1551.0,
-                "d": 275.0
-              },
-              {
-                "w": "promise",
-                "t": 1827.0,
-                "d": 367.0
-              },
-              {
-                "w": "to",
-                "t": 2195.0,
-                "d": 183.0
-              },
-              {
-                "w": "conquer",
-                "t": 2379.0,
-                "d": 412.0
-              },
-              {
-                "w": "death",
-                "t": 2791.0,
-                "d": 368.0
-              },
-              {
-                "w": "Funerary",
-                "t": 3895.0,
-                "d": 736.0
-              },
-              {
-                "w": "hymns",
-                "t": 4632.0,
-                "d": 321.0
-              },
-              {
-                "w": "speak",
-                "t": 4954.0,
-                "d": 689.0
-              },
-              {
-                "w": "instead",
-                "t": 5689.0,
-                "d": 459.0
-              },
-              {
-                "w": "of",
-                "t": 6149.0,
-                "d": 137.0
-              },
-              {
-                "w": "a",
-                "t": 6287.0,
-                "d": 45.0
-              },
-              {
-                "w": "safe",
-                "t": 6333.0,
-                "d": 459.0
-              },
-              {
-                "w": "path",
-                "t": 6793.0,
-                "d": 275.0
-              },
-              {
-                "w": "for",
-                "t": 7068.0,
-                "d": 183.0
-              },
-              {
-                "w": "the",
-                "t": 7252.0,
-                "d": 137.0
-              },
-              {
-                "w": "dead",
-                "t": 7390.0,
-                "d": 689.0
-              },
-              {
-                "w": "and",
-                "t": 8126.0,
-                "d": 275.0
-              },
-              {
-                "w": "of",
-                "t": 8402.0,
-                "d": 183.0
-              },
-              {
-                "w": "long",
-                "t": 8586.0,
-                "d": 275.0
-              },
-              {
-                "w": "life",
-                "t": 8862.0,
-                "d": 321.0
-              },
-              {
-                "w": "for",
-                "t": 9183.0,
-                "d": 136.0
-              },
-              {
-                "w": "those",
-                "t": 9320.0,
-                "d": 368.0
-              },
-              {
-                "w": "who",
-                "t": 9689.0,
-                "d": 136.0
-              },
-              {
-                "w": "still",
-                "t": 9826.0,
-                "d": 322.0
-              },
-              {
-                "w": "breathe",
-                "t": 10149.0,
-                "d": 458.0
-              },
-              {
-                "w": "and",
-                "t": 10608.0,
-                "d": 275.0
-              },
-              {
-                "w": "fear",
-                "t": 10883.0,
-                "d": 506.0
-              },
-              {
-                "w": "the",
-                "t": 11390.0,
-                "d": 182.0
-              },
-              {
-                "w": "next",
-                "t": 11573.0,
-                "d": 275.0
-              },
-              {
-                "w": "fever",
-                "t": 11849.0,
-                "d": 598.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p11",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p11.png",
-      "shot": "close-up of healer examining a plant leaf with quiet concentration",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Dominik Wujastyk notes that here we first meet a language of the body, bones, flesh, veins, breath, and a vocabulary of herbs that later Ayurvedic authors will refine, catalog, and argue over.",
-            "hi": "डॉमिनिक वुयास्टिक बताते हैं कि यहीं हमें देह की पहली भाषा मिलती है – अस्थियाँ, माँस, नाड़ियाँ, प्राण – और जड़ी-बूटियों का वह शब्द–भंडार, जिसे आगे के आयुर्वेदाचार्य सँवारेंगे, गिनेंगे, और जिस पर झगड़ेंगे।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p11_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p11_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Dominik",
-                "t": 117.0,
-                "d": 553.0
-              },
-              {
-                "w": "Wujastyk",
-                "t": 670.0,
-                "d": 595.0
-              },
-              {
-                "w": "notes",
-                "t": 1265.0,
-                "d": 382.0
-              },
-              {
-                "w": "that",
-                "t": 1648.0,
-                "d": 212.0
-              },
-              {
-                "w": "here",
-                "t": 1861.0,
-                "d": 296.0
-              },
-              {
-                "w": "we",
-                "t": 2158.0,
-                "d": 171.0
-              },
-              {
-                "w": "first",
-                "t": 2329.0,
-                "d": 425.0
-              },
-              {
-                "w": "meet",
-                "t": 2755.0,
-                "d": 254.0
-              },
-              {
-                "w": "a",
-                "t": 3009.0,
-                "d": 127.0
-              },
-              {
-                "w": "language",
-                "t": 3137.0,
-                "d": 553.0
-              },
-              {
-                "w": "of",
-                "t": 3690.0,
-                "d": 86.0
-              },
-              {
-                "w": "the",
-                "t": 3776.0,
-                "d": 127.0
-              },
-              {
-                "w": "body",
-                "t": 3904.0,
-                "d": 680.0
-              },
-              {
-                "w": "bones",
-                "t": 4627.0,
-                "d": 851.0
-              },
-              {
-                "w": "flesh",
-                "t": 5521.0,
-                "d": 936.0
-              },
-              {
-                "w": "veins",
-                "t": 6457.0,
-                "d": 808.0
-              },
-              {
-                "w": "breath",
-                "t": 7308.0,
-                "d": 723.0
-              },
-              {
-                "w": "and",
-                "t": 8159.0,
-                "d": 340.0
-              },
-              {
-                "w": "a",
-                "t": 8500.0,
-                "d": 41.0
-              },
-              {
-                "w": "vocabulary",
-                "t": 8541.0,
-                "d": 809.0
-              },
-              {
-                "w": "of",
-                "t": 9351.0,
-                "d": 212.0
-              },
-              {
-                "w": "herbs",
-                "t": 9563.0,
-                "d": 679.0
-              },
-              {
-                "w": "that",
-                "t": 10328.0,
-                "d": 298.0
-              },
-              {
-                "w": "later",
-                "t": 10627.0,
-                "d": 553.0
-              },
-              {
-                "w": "Ayurvedic",
-                "t": 11180.0,
-                "d": 723.0
-              },
-              {
-                "w": "authors",
-                "t": 11945.0,
-                "d": 554.0
-              },
-              {
-                "w": "will",
-                "t": 12500.0,
-                "d": 212.0
-              },
-              {
-                "w": "refine",
-                "t": 12712.0,
-                "d": 807.0
-              },
-              {
-                "w": "catalog",
-                "t": 13691.0,
-                "d": 936.0
-              },
-              {
-                "w": "and",
-                "t": 14627.0,
-                "d": 382.0
-              },
-              {
-                "w": "argue",
-                "t": 15010.0,
-                "d": 467.0
-              },
-              {
-                "w": "over",
-                "t": 15521.0,
-                "d": 594.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "action_auto2",
-      "type": "action",
-      "mood": "battle",
-      "bg": "assets/atharvan_herbs_and_healing_words/action_auto2/bg.png",
-      "chars": [
-        {
-          "img": "assets/atharvan_herbs_and_healing_words/action_auto2/char0.png",
-          "motion": {
-            "fromX": 42,
-            "toX": 8,
-            "fromScale": 0.82,
-            "toScale": 1.03,
-            "rot": 2,
-            "dur": 7200
-          }
-        }
-      ],
-      "motion": {
-        "bgZoom": 1.12,
-        "bgPan": -6,
-        "dur": 7200
-      },
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Between thorn and stone he rushes, guarding fragile breath with leaf, word, and will.",
-            "hi": "कांटे-पत्थर चीरता दौड़ रहा है, पत्ती, शब्द और जिद से नाज़ुक सांस बचा रहा है।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/action/action_auto2_en.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/action/action_auto2_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Between",
-                "t": 70.0,
-                "d": 480.0
-              },
-              {
-                "w": "thorn",
-                "t": 550.0,
-                "d": 280.0
-              },
-              {
-                "w": "and",
-                "t": 830.0,
-                "d": 160.0
-              },
-              {
-                "w": "stone",
-                "t": 990.0,
-                "d": 400.0
-              },
-              {
-                "w": "he",
-                "t": 1390.0,
-                "d": 200.0
-              },
-              {
-                "w": "rushes",
-                "t": 1590.0,
-                "d": 680.0
-              },
-              {
-                "w": "guarding",
-                "t": 2630.0,
-                "d": 480.0
-              },
-              {
-                "w": "fragile",
-                "t": 3110.0,
-                "d": 480.0
-              },
-              {
-                "w": "breath",
-                "t": 3590.0,
-                "d": 279.0
-              },
-              {
-                "w": "with",
-                "t": 3869.0,
-                "d": 281.0
-              },
-              {
-                "w": "leaf",
-                "t": 4150.0,
-                "d": 520.0
-              },
-              {
-                "w": "word",
-                "t": 4870.0,
-                "d": 760.0
-              },
-              {
-                "w": "and",
-                "t": 5630.0,
-                "d": 320.0
-              },
-              {
-                "w": "will",
-                "t": 5950.0,
-                "d": 440.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p12",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p12.png",
-      "shot": "dynamic mid-shot of healer mixing a multi-herb preparation in a stone mortar",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Yet this is not yet Ayurveda. There is no systematic diagnosis, no organized schools. There are spells, remembered successes, plant lore, and a growing habit of watching what helps and what fails.",
-            "hi": "फिर भी यह अभी आयुर्वेद नहीं। न सुव्यवस्थित निदान, न पक्के गुरुकुल। बस मन्त्र, याद रखी सफलताएँ, पौधों की लोक–विद्या, और यह उभरती आदत कि क्या काम आया, क्या नहीं – उसे देखा जाए।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p12_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p12_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Yet",
-                "t": 80.0,
-                "d": 367.0
-              },
-              {
-                "w": "this",
-                "t": 448.0,
-                "d": 459.0
-              },
-              {
-                "w": "is",
-                "t": 908.0,
-                "d": 183.0
-              },
-              {
-                "w": "not",
-                "t": 1091.0,
-                "d": 321.0
-              },
-              {
-                "w": "yet",
-                "t": 1413.0,
-                "d": 275.0
-              },
-              {
-                "w": "Ayurveda",
-                "t": 1689.0,
-                "d": 505.0
-              },
-              {
-                "w": "There",
-                "t": 2195.0,
-                "d": 275.0
-              },
-              {
-                "w": "is",
-                "t": 3574.0,
-                "d": 228.0
-              },
-              {
-                "w": "no",
-                "t": 3803.0,
-                "d": 137.0
-              },
-              {
-                "w": "systematic",
-                "t": 3941.0,
-                "d": 782.0
-              },
-              {
-                "w": "diagnosis",
-                "t": 4724.0,
-                "d": 1149.0
-              },
-              {
-                "w": "no",
-                "t": 5873.0,
-                "d": 321.0
-              },
-              {
-                "w": "organized",
-                "t": 6195.0,
-                "d": 781.0
-              },
-              {
-                "w": "schools",
-                "t": 6977.0,
-                "d": 781.0
-              },
-              {
-                "w": "There",
-                "t": 8264.0,
-                "d": 321.0
-              },
-              {
-                "w": "are",
-                "t": 8586.0,
-                "d": 137.0
-              },
-              {
-                "w": "spells",
-                "t": 8724.0,
-                "d": 734.0
-              },
-              {
-                "w": "remembered",
-                "t": 9734.0,
-                "d": 644.0
-              },
-              {
-                "w": "successes",
-                "t": 10379.0,
-                "d": 965.0
-              },
-              {
-                "w": "plant",
-                "t": 11712.0,
-                "d": 412.0
-              },
-              {
-                "w": "lore",
-                "t": 12125.0,
-                "d": 506.0
-              },
-              {
-                "w": "and",
-                "t": 12862.0,
-                "d": 320.0
-              },
-              {
-                "w": "a",
-                "t": 13182.0,
-                "d": 91.0
-              },
-              {
-                "w": "growing",
-                "t": 13274.0,
-                "d": 322.0
-              },
-              {
-                "w": "habit",
-                "t": 13597.0,
-                "d": 366.0
-              },
-              {
-                "w": "of",
-                "t": 13964.0,
-                "d": 139.0
-              },
-              {
-                "w": "watching",
-                "t": 14103.0,
-                "d": 459.0
-              },
-              {
-                "w": "what",
-                "t": 14563.0,
-                "d": 275.0
-              },
-              {
-                "w": "helps",
-                "t": 14839.0,
-                "d": 458.0
-              },
-              {
-                "w": "and",
-                "t": 15344.0,
-                "d": 183.0
-              },
-              {
-                "w": "what",
-                "t": 15528.0,
-                "d": 228.0
-              },
-              {
-                "w": "fails",
-                "t": 15757.0,
-                "d": 597.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p13",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p13.png",
-      "shot": "wide shot showing healer among diverse practitioners at a marketplace or gathering",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Later scholars see this as a plural world of healing. Ritualists, herb-women, bone-setters, and wandering ascetics all tend sickness in overlapping spheres, not along a neat, single line of descent.",
-            "hi": "बाद के विद्वान इसे बहुस्तरीय चिकित्सा–जगत मानते हैं। अनुष्ठान–कर्मी, जड़ी वाली औरतें, हड्डी जोड़ने वाले, घूमते संन्यासी – सब अपने-अपने घेरे में रोग सँभालते हैं, एक सीधी वंशरेखा की तरह नहीं।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p13_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p13_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Later",
-                "t": 80.0,
-                "d": 505.0
-              },
-              {
-                "w": "scholars",
-                "t": 586.0,
-                "d": 551.0
-              },
-              {
-                "w": "see",
-                "t": 1137.0,
-                "d": 229.0
-              },
-              {
-                "w": "this",
-                "t": 1367.0,
-                "d": 275.0
-              },
-              {
-                "w": "as",
-                "t": 1643.0,
-                "d": 229.0
-              },
-              {
-                "w": "a",
-                "t": 1873.0,
-                "d": 183.0
-              },
-              {
-                "w": "plural",
-                "t": 2057.0,
-                "d": 505.0
-              },
-              {
-                "w": "world",
-                "t": 2563.0,
-                "d": 367.0
-              },
-              {
-                "w": "of",
-                "t": 2931.0,
-                "d": 137.0
-              },
-              {
-                "w": "healing",
-                "t": 3068.0,
-                "d": 1149.0
-              },
-              {
-                "w": "Ritualists",
-                "t": 4355.0,
-                "d": 1104.0
-              },
-              {
-                "w": "herb-women",
-                "t": 5505.0,
-                "d": 827.0
-              },
-              {
-                "w": "bone-setters",
-                "t": 6471.0,
-                "d": 1057.0
-              },
-              {
-                "w": "and",
-                "t": 7712.0,
-                "d": 459.0
-              },
-              {
-                "w": "wandering",
-                "t": 8172.0,
-                "d": 597.0
-              },
-              {
-                "w": "ascetics",
-                "t": 8770.0,
-                "d": 688.0
-              },
-              {
-                "w": "all",
-                "t": 9505.0,
-                "d": 412.0
-              },
-              {
-                "w": "tend",
-                "t": 9918.0,
-                "d": 277.0
-              },
-              {
-                "w": "sickness",
-                "t": 10195.0,
-                "d": 643.0
-              },
-              {
-                "w": "in",
-                "t": 10839.0,
-                "d": 228.0
-              },
-              {
-                "w": "overlapping",
-                "t": 11067.0,
-                "d": 781.0
-              },
-              {
-                "w": "spheres",
-                "t": 11849.0,
-                "d": 828.0
-              },
-              {
-                "w": "not",
-                "t": 12862.0,
-                "d": 412.0
-              },
-              {
-                "w": "along",
-                "t": 13274.0,
-                "d": 368.0
-              },
-              {
-                "w": "a",
-                "t": 13643.0,
-                "d": 91.0
-              },
-              {
-                "w": "neat",
-                "t": 13735.0,
-                "d": 688.0
-              },
-              {
-                "w": "single",
-                "t": 14471.0,
-                "d": 550.0
-              },
-              {
-                "w": "line",
-                "t": 15021.0,
-                "d": 322.0
-              },
-              {
-                "w": "of",
-                "t": 15344.0,
-                "d": 136.0
-              },
-              {
-                "w": "descent",
-                "t": 15481.0,
-                "d": 644.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p14",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p14.png",
-      "shot": "time-lapse style wide shot of healer under the same tree at different ages, subtly implied",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Generations later, compilers shape the Atharvaveda into its present form, preserving these charms and cures. They do not rewrite them into theory, but let this early mixture of fear and observation stand.",
-            "hi": "पीढ़ियों बाद संकलक अथर्ववेद को आज के रूप में गढ़ते हैं, इन तंत्र–मंत्रों और औषधियों को बचाते हुए। वे उन्हें सिद्धान्त में नहीं घोलते, बस इस आरंभिक डर और निरीक्षण के मेल को जस का तस रहने देते हैं।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p14_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p14_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Generations",
-                "t": 80.0,
-                "d": 1011.0
-              },
-              {
-                "w": "later",
-                "t": 1091.0,
-                "d": 597.0
-              },
-              {
-                "w": "compilers",
-                "t": 2057.0,
-                "d": 780.0
-              },
-              {
-                "w": "shape",
-                "t": 2837.0,
-                "d": 322.0
-              },
-              {
-                "w": "the",
-                "t": 3160.0,
-                "d": 182.0
-              },
-              {
-                "w": "Atharvaveda",
-                "t": 3389.0,
-                "d": 965.0
-              },
-              {
-                "w": "into",
-                "t": 4447.0,
-                "d": 414.0
-              },
-              {
-                "w": "its",
-                "t": 4862.0,
-                "d": 229.0
-              },
-              {
-                "w": "present",
-                "t": 5091.0,
-                "d": 459.0
-              },
-              {
-                "w": "form",
-                "t": 5551.0,
-                "d": 873.0
-              },
-              {
-                "w": "preserving",
-                "t": 6471.0,
-                "d": 781.0
-              },
-              {
-                "w": "these",
-                "t": 7252.0,
-                "d": 275.0
-              },
-              {
-                "w": "charms",
-                "t": 7528.0,
-                "d": 551.0
-              },
-              {
-                "w": "and",
-                "t": 8080.0,
-                "d": 275.0
-              },
-              {
-                "w": "cures",
-                "t": 8356.0,
-                "d": 643.0
-              },
-              {
-                "w": "They",
-                "t": 9826.0,
-                "d": 277.0
-              },
-              {
-                "w": "do",
-                "t": 10103.0,
-                "d": 91.0
-              },
-              {
-                "w": "not",
-                "t": 10195.0,
-                "d": 275.0
-              },
-              {
-                "w": "rewrite",
-                "t": 10471.0,
-                "d": 412.0
-              },
-              {
-                "w": "them",
-                "t": 10883.0,
-                "d": 231.0
-              },
-              {
-                "w": "into",
-                "t": 11114.0,
-                "d": 275.0
-              },
-              {
-                "w": "theory",
-                "t": 11390.0,
-                "d": 873.0
-              },
-              {
-                "w": "but",
-                "t": 12722.0,
-                "d": 322.0
-              },
-              {
-                "w": "let",
-                "t": 13045.0,
-                "d": 183.0
-              },
-              {
-                "w": "this",
-                "t": 13229.0,
-                "d": 367.0
-              },
-              {
-                "w": "early",
-                "t": 13597.0,
-                "d": 413.0
-              },
-              {
-                "w": "mixture",
-                "t": 14011.0,
-                "d": 596.0
-              },
-              {
-                "w": "of",
-                "t": 14608.0,
-                "d": 185.0
-              },
-              {
-                "w": "fear",
-                "t": 14793.0,
-                "d": 643.0
-              },
-              {
-                "w": "and",
-                "t": 15436.0,
-                "d": 413.0
-              },
-              {
-                "w": "observation",
-                "t": 15850.0,
-                "d": 780.0
-              },
-              {
-                "w": "stand",
-                "t": 16631.0,
-                "d": 781.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "split_auto",
-      "type": "split",
-      "mood": "triumph",
-      "slices": [
-        {
-          "img": "assets/atharvan_herbs_and_healing_words/split_auto/s0.png",
-          "slogan": {
-            "en": "Leaf, fire, word—one",
-            "hi": "पत्र, अग्नि, मंत्र—एक"
-          },
-          "pos": "center 30%"
-        },
-        {
-          "img": "assets/atharvan_herbs_and_healing_words/split_auto/s1.png",
-          "pos": "center 46%"
-        },
-        {
-          "img": "assets/atharvan_herbs_and_healing_words/split_auto/s2.png",
-          "pos": "center 52%"
-        }
-      ],
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "From whispered charms to careful mixtures, his lineage threads through time like a hidden river beneath empires.",
-            "hi": "फुसफुसाती जादुई फॉर्मूलों से लेकर नापी-तौली काढ़ियों तक, उसकी नस्ल साम्राज्यों के नीचे छुपी नदी-सी बहती रही है।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/split/split_auto_en.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/split/split_auto_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "From",
-                "t": 72.0,
-                "d": 291.0
-              },
-              {
-                "w": "whispered",
-                "t": 364.0,
-                "d": 541.0
-              },
-              {
-                "w": "charms",
-                "t": 906.0,
-                "d": 500.0
-              },
-              {
-                "w": "to",
-                "t": 1406.0,
-                "d": 166.0
-              },
-              {
-                "w": "careful",
-                "t": 1572.0,
-                "d": 416.0
-              },
-              {
-                "w": "mixtures",
-                "t": 1989.0,
-                "d": 998.0
-              },
-              {
-                "w": "his",
-                "t": 2988.0,
-                "d": 292.0
-              },
-              {
-                "w": "lineage",
-                "t": 3281.0,
-                "d": 583.0
-              },
-              {
-                "w": "threads",
-                "t": 3864.0,
-                "d": 500.0
-              },
-              {
-                "w": "through",
-                "t": 4364.0,
-                "d": 291.0
-              },
-              {
-                "w": "time",
-                "t": 4656.0,
-                "d": 666.0
-              },
-              {
-                "w": "like",
-                "t": 5364.0,
-                "d": 333.0
-              },
-              {
-                "w": "a",
-                "t": 5697.0,
-                "d": 83.0
-              },
-              {
-                "w": "hidden",
-                "t": 5781.0,
-                "d": 375.0
-              },
-              {
-                "w": "river",
-                "t": 6156.0,
-                "d": 500.0
-              },
-              {
-                "w": "beneath",
-                "t": 6697.0,
-                "d": 500.0
-              },
-              {
-                "w": "empires",
-                "t": 7239.0,
-                "d": 833.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p15",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p15.png",
-      "shot": "wide, slightly elevated shot suggesting future with faint silhouettes of later physicians behind",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "When classical Ayurveda speaks with cool precision of humors and texts, it still echoes these older songs: the respect for plants, the naming of disease, the idea that knowledge can stand between man and misery.",
-            "hi": "जब शास्त्रीय आयुर्वेद शान्त, नापतौल भाषा में दोष और ग्रन्थों की बात करता है, तो भी इन प्राचीन गीतों की गूँज रहती है – वनस्पतियों का आदर, रोग का नाम लेना, यह धारणा कि ज्ञान मनुष्य और दुःख के बीच खड़ा हो सकता है।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p15_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p15_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "When",
-                "t": 74.0,
-                "d": 297.0
-              },
-              {
-                "w": "classical",
-                "t": 372.0,
-                "d": 595.0
-              },
-              {
-                "w": "Ayurveda",
-                "t": 968.0,
-                "d": 553.0
-              },
-              {
-                "w": "speaks",
-                "t": 1521.0,
-                "d": 468.0
-              },
-              {
-                "w": "with",
-                "t": 1989.0,
-                "d": 212.0
-              },
-              {
-                "w": "cool",
-                "t": 2202.0,
-                "d": 296.0
-              },
-              {
-                "w": "precision",
-                "t": 2498.0,
-                "d": 510.0
-              },
-              {
-                "w": "of",
-                "t": 3009.0,
-                "d": 170.0
-              },
-              {
-                "w": "humors",
-                "t": 3179.0,
-                "d": 468.0
-              },
-              {
-                "w": "and",
-                "t": 3647.0,
-                "d": 171.0
-              },
-              {
-                "w": "texts",
-                "t": 3819.0,
-                "d": 381.0
-              },
-              {
-                "w": "it",
-                "t": 4201.0,
-                "d": 384.0
-              },
-              {
-                "w": "still",
-                "t": 5138.0,
-                "d": 340.0
-              },
-              {
-                "w": "echoes",
-                "t": 5478.0,
-                "d": 340.0
-              },
-              {
-                "w": "these",
-                "t": 5819.0,
-                "d": 340.0
-              },
-              {
-                "w": "older",
-                "t": 6159.0,
-                "d": 340.0
-              },
-              {
-                "w": "songs",
-                "t": 6500.0,
-                "d": 765.0
-              },
-              {
-                "w": "the",
-                "t": 7606.0,
-                "d": 255.0
-              },
-              {
-                "w": "respect",
-                "t": 7861.0,
-                "d": 382.0
-              },
-              {
-                "w": "for",
-                "t": 8244.0,
-                "d": 170.0
-              },
-              {
-                "w": "plants",
-                "t": 8414.0,
-                "d": 764.0
-              },
-              {
-                "w": "the",
-                "t": 9436.0,
-                "d": 211.0
-              },
-              {
-                "w": "naming",
-                "t": 9647.0,
-                "d": 340.0
-              },
-              {
-                "w": "of",
-                "t": 9988.0,
-                "d": 128.0
-              },
-              {
-                "w": "disease",
-                "t": 10117.0,
-                "d": 893.0
-              },
-              {
-                "w": "the",
-                "t": 11265.0,
-                "d": 297.0
-              },
-              {
-                "w": "idea",
-                "t": 11563.0,
-                "d": 467.0
-              },
-              {
-                "w": "that",
-                "t": 12030.0,
-                "d": 255.0
-              },
-              {
-                "w": "knowledge",
-                "t": 12286.0,
-                "d": 511.0
-              },
-              {
-                "w": "can",
-                "t": 12797.0,
-                "d": 170.0
-              },
-              {
-                "w": "stand",
-                "t": 12968.0,
-                "d": 425.0
-              },
-              {
-                "w": "between",
-                "t": 13393.0,
-                "d": 425.0
-              },
-              {
-                "w": "man",
-                "t": 13819.0,
-                "d": 424.0
-              },
-              {
-                "w": "and",
-                "t": 14287.0,
-                "d": 211.0
-              },
-              {
-                "w": "misery",
-                "t": 14498.0,
-                "d": 638.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p16",
-      "art": "assets/atharvan_herbs_and_healing_words/img/p16.png",
-      "shot": "close-up on healer’s face lit by both firelight and dawn light, contemplative",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "The Atharvaveda healers show how knowledge often begins, in whispered charms, in careful eyes, in hands that treat herbs and words as one braid, before reason and experiment slowly learn to stand alone.",
-            "hi": "अथर्ववेद के वैद्य दिखाते हैं कि ज्ञान अक्सर ऐसे शुरू होता है – फुसफुसाते मन्त्रों में, चौकस आँखों में, उन हाथों में जो जड़ी और शब्द को एक ही चोटी मानते हैं, इससे पहले कि तर्क और प्रयोग अकेले खड़े होना सीखें।"
-          },
-          "audio": {
-            "en": "assets/atharvan_herbs_and_healing_words/audio/en/p16_0.mp3",
-            "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p16_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "The",
-                "t": 74.0,
-                "d": 297.0
-              },
-              {
-                "w": "Atharvaveda",
-                "t": 372.0,
-                "d": 851.0
-              },
-              {
-                "w": "healers",
-                "t": 1223.0,
-                "d": 510.0
-              },
-              {
-                "w": "show",
-                "t": 1734.0,
-                "d": 340.0
-              },
-              {
-                "w": "how",
-                "t": 2074.0,
-                "d": 212.0
-              },
-              {
-                "w": "knowledge",
-                "t": 2287.0,
-                "d": 553.0
-              },
-              {
-                "w": "often",
-                "t": 2882.0,
-                "d": 425.0
-              },
-              {
-                "w": "begins",
-                "t": 3308.0,
-                "d": 764.0
-              },
-              {
-                "w": "in",
-                "t": 4115.0,
-                "d": 256.0
-              },
-              {
-                "w": "whispered",
-                "t": 4372.0,
-                "d": 553.0
-              },
-              {
-                "w": "charms",
-                "t": 4925.0,
-                "d": 851.0
-              },
-              {
-                "w": "in",
-                "t": 5819.0,
-                "d": 297.0
-              },
-              {
-                "w": "careful",
-                "t": 6117.0,
-                "d": 468.0
-              },
-              {
-                "w": "eyes",
-                "t": 6585.0,
-                "d": 510.0
-              },
-              {
-                "w": "in",
-                "t": 7436.0,
-                "d": 212.0
-              },
-              {
-                "w": "hands",
-                "t": 7648.0,
-                "d": 468.0
-              },
-              {
-                "w": "that",
-                "t": 8117.0,
-                "d": 212.0
-              },
-              {
-                "w": "treat",
-                "t": 8329.0,
-                "d": 296.0
-              },
-              {
-                "w": "herbs",
-                "t": 8626.0,
-                "d": 511.0
-              },
-              {
-                "w": "and",
-                "t": 9138.0,
-                "d": 255.0
-              },
-              {
-                "w": "words",
-                "t": 9393.0,
-                "d": 594.0
-              },
-              {
-                "w": "as",
-                "t": 10073.0,
-                "d": 384.0
-              },
-              {
-                "w": "one",
-                "t": 10457.0,
-                "d": 297.0
-              },
-              {
-                "w": "braid",
-                "t": 10755.0,
-                "d": 723.0
-              },
-              {
-                "w": "before",
-                "t": 11734.0,
-                "d": 467.0
-              },
-              {
-                "w": "reason",
-                "t": 12201.0,
-                "d": 681.0
-              },
-              {
-                "w": "and",
-                "t": 12924.0,
-                "d": 255.0
-              },
-              {
-                "w": "experiment",
-                "t": 13179.0,
-                "d": 681.0
-              },
-              {
-                "w": "slowly",
-                "t": 13861.0,
-                "d": 552.0
-              },
-              {
-                "w": "learn",
-                "t": 14413.0,
-                "d": 341.0
-              },
-              {
-                "w": "to",
-                "t": 14755.0,
-                "d": 127.0
-              },
-              {
-                "w": "stand",
-                "t": 14882.0,
-                "d": 424.0
-              },
-              {
-                "w": "alone",
-                "t": 15307.0,
-                "d": 596.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
+      "hi": []
+     }
     }
-  ],
-  "hero": {
-    "name": "Atharvan Healer of the Vedic Fire",
-    "epithets": [
-      "chants of the Atharvans",
-      "keepers of healing spells",
-      "herb-knowers of the Veda",
-      "warders of sickness and curse"
-    ],
-    "legend": "They sang between fear and reason to keep death away."
+   ]
+  },
+  {
+   "id": "intro_map",
+   "type": "map",
+   "mood": "suspense",
+   "map": "assets/atharvan_herbs_and_healing_words/intro/map.png",
+   "x": 0.47,
+   "y": 0.26,
+   "label": "Northwestern & early Gangetic Vedic lands",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Here, along wide rivers and cattle camps, healers mix wild herbs with sharp chants, testing which words and plants truly hold back sickness.",
+      "hi": "यहीं चौड़ी नदियों और मवेशी डेरों के बीच वैद्य जंगली जड़ी-बूटियाँ तीखे मंत्रों संग घोलकर परख रहे हैं, कौन सा शब्द और कौन सा पौधा सच में रोग रोकता है।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/intro/map_en.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/intro/map_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Here",
+        "t": 80.0,
+        "d": 781.0
+       },
+       {
+        "w": "along",
+        "t": 1091.0,
+        "d": 413.0
+       },
+       {
+        "w": "wide",
+        "t": 1505.0,
+        "d": 367.0
+       },
+       {
+        "w": "rivers",
+        "t": 1873.0,
+        "d": 458.0
+       },
+       {
+        "w": "and",
+        "t": 2332.0,
+        "d": 231.0
+       },
+       {
+        "w": "cattle",
+        "t": 2563.0,
+        "d": 459.0
+       },
+       {
+        "w": "camps",
+        "t": 3022.0,
+        "d": 780.0
+       },
+       {
+        "w": "healers",
+        "t": 4034.0,
+        "d": 643.0
+       },
+       {
+        "w": "mix",
+        "t": 4678.0,
+        "d": 321.0
+       },
+       {
+        "w": "wild",
+        "t": 5000.0,
+        "d": 459.0
+       },
+       {
+        "w": "herbs",
+        "t": 5459.0,
+        "d": 459.0
+       },
+       {
+        "w": "with",
+        "t": 5919.0,
+        "d": 321.0
+       },
+       {
+        "w": "sharp",
+        "t": 6241.0,
+        "d": 367.0
+       },
+       {
+        "w": "chants",
+        "t": 6609.0,
+        "d": 735.0
+       },
+       {
+        "w": "testing",
+        "t": 7712.0,
+        "d": 505.0
+       },
+       {
+        "w": "which",
+        "t": 8218.0,
+        "d": 275.0
+       },
+       {
+        "w": "words",
+        "t": 8494.0,
+        "d": 551.0
+       },
+       {
+        "w": "and",
+        "t": 9045.0,
+        "d": 320.0
+       },
+       {
+        "w": "plants",
+        "t": 9366.0,
+        "d": 598.0
+       },
+       {
+        "w": "truly",
+        "t": 9965.0,
+        "d": 458.0
+       },
+       {
+        "w": "hold",
+        "t": 10424.0,
+        "d": 322.0
+       },
+       {
+        "w": "back",
+        "t": 10747.0,
+        "d": 275.0
+       },
+       {
+        "w": "sickness",
+        "t": 11022.0,
+        "d": 873.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "cover",
+   "art": "assets/atharvan_herbs_and_healing_words/img/cover.png",
+   "shot": "wide, low-angle scene at dusk of a Vedic healer between fire altar and forest edge",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Before Ayurveda's doctors, Atharvaveda healers walked between fire and forest, chanting to fevers and herbs alike, half-priests, half-physicians in a world where illness spoke with many tongues.",
+      "hi": "आयुर्वेद के वैद्यों से पहले, अथर्ववेद के वैद्य आग और जंगल के बीच चलते थे, ज्वर और जड़ी दोनों से मंत्र बोलते – आधे पुजारी, आधे चिकित्सक, उस दुनिया में जहाँ रोग की कई ज़बानें थीं।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/cover_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/cover_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Before",
+        "t": 126.0,
+        "d": 505.0
+       },
+       {
+        "w": "Ayurveda's",
+        "t": 632.0,
+        "d": 643.0
+       },
+       {
+        "w": "doctors",
+        "t": 1275.0,
+        "d": 919.0
+       },
+       {
+        "w": "Atharvaveda",
+        "t": 2517.0,
+        "d": 872.0
+       },
+       {
+        "w": "healers",
+        "t": 3389.0,
+        "d": 597.0
+       },
+       {
+        "w": "walked",
+        "t": 3987.0,
+        "d": 459.0
+       },
+       {
+        "w": "between",
+        "t": 4447.0,
+        "d": 414.0
+       },
+       {
+        "w": "fire",
+        "t": 4862.0,
+        "d": 551.0
+       },
+       {
+        "w": "and",
+        "t": 5413.0,
+        "d": 229.0
+       },
+       {
+        "w": "forest",
+        "t": 5643.0,
+        "d": 1011.0
+       },
+       {
+        "w": "chanting",
+        "t": 6655.0,
+        "d": 459.0
+       },
+       {
+        "w": "to",
+        "t": 7114.0,
+        "d": 91.0
+       },
+       {
+        "w": "fevers",
+        "t": 7206.0,
+        "d": 597.0
+       },
+       {
+        "w": "and",
+        "t": 7804.0,
+        "d": 229.0
+       },
+       {
+        "w": "herbs",
+        "t": 8034.0,
+        "d": 367.0
+       },
+       {
+        "w": "alike",
+        "t": 8402.0,
+        "d": 826.0
+       },
+       {
+        "w": "half-priests",
+        "t": 9320.0,
+        "d": 920.0
+       },
+       {
+        "w": "half-physicians",
+        "t": 10655.0,
+        "d": 1010.0
+       },
+       {
+        "w": "in",
+        "t": 11665.0,
+        "d": 183.0
+       },
+       {
+        "w": "a",
+        "t": 11849.0,
+        "d": 91.0
+       },
+       {
+        "w": "world",
+        "t": 11941.0,
+        "d": 414.0
+       },
+       {
+        "w": "where",
+        "t": 12356.0,
+        "d": 321.0
+       },
+       {
+        "w": "illness",
+        "t": 12678.0,
+        "d": 459.0
+       },
+       {
+        "w": "spoke",
+        "t": 13137.0,
+        "d": 413.0
+       },
+       {
+        "w": "with",
+        "t": 13551.0,
+        "d": 229.0
+       },
+       {
+        "w": "many",
+        "t": 13781.0,
+        "d": 413.0
+       },
+       {
+        "w": "tongues",
+        "t": 14195.0,
+        "d": 735.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p01",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p01.png",
+   "shot": "slow push-in from high wide to mid-shot on healer amid a Vedic settlement",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "In the early Vedic centuries, long before Charaka and Susruta, sickness was both spirit and substance. The Atharvaveda names it, fears it, and begins to touch it with human hands.",
+      "hi": "वैदिक आरंभिक सदियों में, चरक–सुश्रुत से बहुत पहले, रोग आत्मा भी था, देह भी। अथर्ववेद उसे नाम देता है, उससे डरता भी है, और पहली बार उसे इंसानी हाथों से छूता है।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p01_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p01_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "In",
+        "t": 80.0,
+        "d": 183.0
+       },
+       {
+        "w": "the",
+        "t": 264.0,
+        "d": 137.0
+       },
+       {
+        "w": "early",
+        "t": 402.0,
+        "d": 459.0
+       },
+       {
+        "w": "Vedic",
+        "t": 862.0,
+        "d": 367.0
+       },
+       {
+        "w": "centuries",
+        "t": 1229.0,
+        "d": 965.0
+       },
+       {
+        "w": "long",
+        "t": 2287.0,
+        "d": 504.0
+       },
+       {
+        "w": "before",
+        "t": 2791.0,
+        "d": 322.0
+       },
+       {
+        "w": "Charaka",
+        "t": 3114.0,
+        "d": 413.0
+       },
+       {
+        "w": "and",
+        "t": 3528.0,
+        "d": 366.0
+       },
+       {
+        "w": "Susruta",
+        "t": 3895.0,
+        "d": 736.0
+       },
+       {
+        "w": "sickness",
+        "t": 5000.0,
+        "d": 689.0
+       },
+       {
+        "w": "was",
+        "t": 5689.0,
+        "d": 275.0
+       },
+       {
+        "w": "both",
+        "t": 5965.0,
+        "d": 321.0
+       },
+       {
+        "w": "spirit",
+        "t": 6287.0,
+        "d": 597.0
+       },
+       {
+        "w": "and",
+        "t": 6931.0,
+        "d": 229.0
+       },
+       {
+        "w": "substance",
+        "t": 7160.0,
+        "d": 919.0
+       },
+       {
+        "w": "The",
+        "t": 8632.0,
+        "d": 321.0
+       },
+       {
+        "w": "Atharvaveda",
+        "t": 8954.0,
+        "d": 827.0
+       },
+       {
+        "w": "names",
+        "t": 9781.0,
+        "d": 367.0
+       },
+       {
+        "w": "it",
+        "t": 10149.0,
+        "d": 413.0
+       },
+       {
+        "w": "fears",
+        "t": 10563.0,
+        "d": 596.0
+       },
+       {
+        "w": "it",
+        "t": 11159.0,
+        "d": 552.0
+       },
+       {
+        "w": "and",
+        "t": 11757.0,
+        "d": 414.0
+       },
+       {
+        "w": "begins",
+        "t": 12172.0,
+        "d": 367.0
+       },
+       {
+        "w": "to",
+        "t": 12540.0,
+        "d": 137.0
+       },
+       {
+        "w": "touch",
+        "t": 12678.0,
+        "d": 412.0
+       },
+       {
+        "w": "it",
+        "t": 13090.0,
+        "d": 139.0
+       },
+       {
+        "w": "with",
+        "t": 13229.0,
+        "d": 228.0
+       },
+       {
+        "w": "human",
+        "t": 13458.0,
+        "d": 413.0
+       },
+       {
+        "w": "hands",
+        "t": 13872.0,
+        "d": 643.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p02",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p02.png",
+   "shot": "close-up on healer’s hands sorting herbs over a woven mat",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "The Atharvaveda sings to herbs as if they were living allies: roots that seize poison, shoots that drive out demons, plants that promise years added to a fragile life.",
+      "hi": "अथर्ववेद जड़ी-बूटियों से जीते साथी की तरह गाता है – जड़ें जो ज़हर पकड़ लें, कोमल कोंपलें जो भूत भगाएँ, वनस्पतियाँ जो नाज़ुक जीवन में साल जोड़ने का वादा करें।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p02_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p02_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "The",
+        "t": 74.0,
+        "d": 255.0
+       },
+       {
+        "w": "Atharvaveda",
+        "t": 329.0,
+        "d": 851.0
+       },
+       {
+        "w": "sings",
+        "t": 1180.0,
+        "d": 340.0
+       },
+       {
+        "w": "to",
+        "t": 1521.0,
+        "d": 170.0
+       },
+       {
+        "w": "herbs",
+        "t": 1691.0,
+        "d": 680.0
+       },
+       {
+        "w": "as",
+        "t": 2414.0,
+        "d": 340.0
+       },
+       {
+        "w": "if",
+        "t": 2755.0,
+        "d": 170.0
+       },
+       {
+        "w": "they",
+        "t": 2925.0,
+        "d": 169.0
+       },
+       {
+        "w": "were",
+        "t": 3094.0,
+        "d": 171.0
+       },
+       {
+        "w": "living",
+        "t": 3265.0,
+        "d": 296.0
+       },
+       {
+        "w": "allies",
+        "t": 3562.0,
+        "d": 767.0
+       },
+       {
+        "w": "roots",
+        "t": 5010.0,
+        "d": 382.0
+       },
+       {
+        "w": "that",
+        "t": 5393.0,
+        "d": 255.0
+       },
+       {
+        "w": "seize",
+        "t": 5648.0,
+        "d": 297.0
+       },
+       {
+        "w": "poison",
+        "t": 5946.0,
+        "d": 851.0
+       },
+       {
+        "w": "shoots",
+        "t": 6925.0,
+        "d": 425.0
+       },
+       {
+        "w": "that",
+        "t": 7351.0,
+        "d": 170.0
+       },
+       {
+        "w": "drive",
+        "t": 7521.0,
+        "d": 340.0
+       },
+       {
+        "w": "out",
+        "t": 7861.0,
+        "d": 170.0
+       },
+       {
+        "w": "demons",
+        "t": 8031.0,
+        "d": 1147.0
+       },
+       {
+        "w": "plants",
+        "t": 9179.0,
+        "d": 384.0
+       },
+       {
+        "w": "that",
+        "t": 9563.0,
+        "d": 254.0
+       },
+       {
+        "w": "promise",
+        "t": 9818.0,
+        "d": 425.0
+       },
+       {
+        "w": "years",
+        "t": 10243.0,
+        "d": 426.0
+       },
+       {
+        "w": "added",
+        "t": 10670.0,
+        "d": 381.0
+       },
+       {
+        "w": "to",
+        "t": 11052.0,
+        "d": 128.0
+       },
+       {
+        "w": "a",
+        "t": 11180.0,
+        "d": 85.0
+       },
+       {
+        "w": "fragile",
+        "t": 11265.0,
+        "d": 468.0
+       },
+       {
+        "w": "life",
+        "t": 11734.0,
+        "d": 510.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p03",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p03.png",
+   "shot": "intimate interior mid-shot of healer beside a feverish patient on a mat",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "A fever in the Atharvaveda is not only heat. It is a being with many heads, a foe to be cajoled, threatened, and cooled, while water, herbs, and words all work together.",
+      "hi": "अथर्ववेद में ज्वर सिर्फ़ तपिश नहीं। वह कई सिरों वाला प्राणी है, जिसे कभी मनाया, कभी धमकाया, कभी ठंडा किया जाता है, जबकि पानी, जड़ी और शब्द मिलकर काम करते हैं।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p03_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p03_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "A",
+        "t": 159.0,
+        "d": 85.0
+       },
+       {
+        "w": "fever",
+        "t": 244.0,
+        "d": 468.0
+       },
+       {
+        "w": "in",
+        "t": 712.0,
+        "d": 170.0
+       },
+       {
+        "w": "the",
+        "t": 882.0,
+        "d": 170.0
+       },
+       {
+        "w": "Atharvaveda",
+        "t": 1053.0,
+        "d": 808.0
+       },
+       {
+        "w": "is",
+        "t": 1861.0,
+        "d": 212.0
+       },
+       {
+        "w": "not",
+        "t": 2074.0,
+        "d": 212.0
+       },
+       {
+        "w": "only",
+        "t": 2287.0,
+        "d": 254.0
+       },
+       {
+        "w": "heat",
+        "t": 2541.0,
+        "d": 681.0
+       },
+       {
+        "w": "It",
+        "t": 3520.0,
+        "d": 256.0
+       },
+       {
+        "w": "is",
+        "t": 3776.0,
+        "d": 127.0
+       },
+       {
+        "w": "a",
+        "t": 3904.0,
+        "d": 126.0
+       },
+       {
+        "w": "being",
+        "t": 4030.0,
+        "d": 298.0
+       },
+       {
+        "w": "with",
+        "t": 4329.0,
+        "d": 255.0
+       },
+       {
+        "w": "many",
+        "t": 4585.0,
+        "d": 340.0
+       },
+       {
+        "w": "heads",
+        "t": 4925.0,
+        "d": 680.0
+       },
+       {
+        "w": "a",
+        "t": 5776.0,
+        "d": 127.0
+       },
+       {
+        "w": "foe",
+        "t": 5904.0,
+        "d": 382.0
+       },
+       {
+        "w": "to",
+        "t": 6287.0,
+        "d": 127.0
+       },
+       {
+        "w": "be",
+        "t": 6414.0,
+        "d": 170.0
+       },
+       {
+        "w": "cajoled",
+        "t": 6585.0,
+        "d": 808.0
+       },
+       {
+        "w": "threatened",
+        "t": 7521.0,
+        "d": 851.0
+       },
+       {
+        "w": "and",
+        "t": 8414.0,
+        "d": 339.0
+       },
+       {
+        "w": "cooled",
+        "t": 8754.0,
+        "d": 1107.0
+       },
+       {
+        "w": "while",
+        "t": 9903.0,
+        "d": 298.0
+       },
+       {
+        "w": "water",
+        "t": 10202.0,
+        "d": 679.0
+       },
+       {
+        "w": "herbs",
+        "t": 10881.0,
+        "d": 852.0
+       },
+       {
+        "w": "and",
+        "t": 11775.0,
+        "d": 298.0
+       },
+       {
+        "w": "words",
+        "t": 12074.0,
+        "d": 510.0
+       },
+       {
+        "w": "all",
+        "t": 12627.0,
+        "d": 340.0
+       },
+       {
+        "w": "work",
+        "t": 12968.0,
+        "d": 255.0
+       },
+       {
+        "w": "together",
+        "t": 13223.0,
+        "d": 723.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "action_auto",
+   "type": "action",
+   "mood": "suspense",
+   "bg": "assets/atharvan_herbs_and_healing_words/action_auto/bg.png",
+   "chars": [
+    {
+     "img": "assets/atharvan_herbs_and_healing_words/action_auto/char0.png",
+     "motion": {
+      "fromX": -40,
+      "toX": -10,
+      "fromScale": 0.82,
+      "toScale": 1.03,
+      "rot": -2,
+      "dur": 7200
+     }
+    }
+   ],
+   "motion": {
+    "bgZoom": 1.12,
+    "bgPan": -6,
+    "dur": 7200
+   },
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "His chants cross the village like wind over water, herbs and breath meeting unseen forces in the dark.",
+      "hi": "उसके मंत्र गाँव भर में दौड़ते हैं, जैसे पानी पर चलती हवा, जड़ी-बूटियाँ और साँस अँधेरे में अदृश्य ताकतों से भिड़ते हैं।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/action/action_auto_en.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/action/action_auto_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "His",
+        "t": 80.0,
+        "d": 321.0
+       },
+       {
+        "w": "chants",
+        "t": 402.0,
+        "d": 551.0
+       },
+       {
+        "w": "cross",
+        "t": 954.0,
+        "d": 367.0
+       },
+       {
+        "w": "the",
+        "t": 1321.0,
+        "d": 137.0
+       },
+       {
+        "w": "village",
+        "t": 1459.0,
+        "d": 735.0
+       },
+       {
+        "w": "like",
+        "t": 2241.0,
+        "d": 458.0
+       },
+       {
+        "w": "wind",
+        "t": 2700.0,
+        "d": 414.0
+       },
+       {
+        "w": "over",
+        "t": 3114.0,
+        "d": 320.0
+       },
+       {
+        "w": "water",
+        "t": 3435.0,
+        "d": 736.0
+       },
+       {
+        "w": "herbs",
+        "t": 4447.0,
+        "d": 782.0
+       },
+       {
+        "w": "and",
+        "t": 5275.0,
+        "d": 367.0
+       },
+       {
+        "w": "breath",
+        "t": 5643.0,
+        "d": 321.0
+       },
+       {
+        "w": "meeting",
+        "t": 5965.0,
+        "d": 413.0
+       },
+       {
+        "w": "unseen",
+        "t": 6379.0,
+        "d": 505.0
+       },
+       {
+        "w": "forces",
+        "t": 6885.0,
+        "d": 689.0
+       },
+       {
+        "w": "in",
+        "t": 7574.0,
+        "d": 183.0
+       },
+       {
+        "w": "the",
+        "t": 7758.0,
+        "d": 137.0
+       },
+       {
+        "w": "dark",
+        "t": 7896.0,
+        "d": 643.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p04",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p04.png",
+   "shot": "tight three-quarter profile close-up of healer chanting over water bowl",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "A hymn against takman, the dreaded fever, calls it by name and bids it depart to forest and marsh. Yet in the same breath, the healer offers cooling drinks and plant juices.",
+      "hi": "तपकारी ज्वर तक्षकन पर hymn उसका नाम लेकर उसे जंगल–दलदल की ओर भगाता है; पर उसी साँस में वैद्य ठंडी पेय और रसदार औषधि भी बढ़ा देता है।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p04_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p04_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "A",
+        "t": 172.0,
+        "d": 91.0
+       },
+       {
+        "w": "hymn",
+        "t": 264.0,
+        "d": 275.0
+       },
+       {
+        "w": "against",
+        "t": 540.0,
+        "d": 551.0
+       },
+       {
+        "w": "takman",
+        "t": 1091.0,
+        "d": 643.0
+       },
+       {
+        "w": "the",
+        "t": 1919.0,
+        "d": 321.0
+       },
+       {
+        "w": "dreaded",
+        "t": 2241.0,
+        "d": 412.0
+       },
+       {
+        "w": "fever",
+        "t": 2654.0,
+        "d": 874.0
+       },
+       {
+        "w": "calls",
+        "t": 3712.0,
+        "d": 413.0
+       },
+       {
+        "w": "it",
+        "t": 4126.0,
+        "d": 137.0
+       },
+       {
+        "w": "by",
+        "t": 4264.0,
+        "d": 228.0
+       },
+       {
+        "w": "name",
+        "t": 4493.0,
+        "d": 690.0
+       },
+       {
+        "w": "and",
+        "t": 5183.0,
+        "d": 367.0
+       },
+       {
+        "w": "bids",
+        "t": 5551.0,
+        "d": 321.0
+       },
+       {
+        "w": "it",
+        "t": 5873.0,
+        "d": 91.0
+       },
+       {
+        "w": "depart",
+        "t": 5965.0,
+        "d": 505.0
+       },
+       {
+        "w": "to",
+        "t": 6471.0,
+        "d": 137.0
+       },
+       {
+        "w": "forest",
+        "t": 6609.0,
+        "d": 505.0
+       },
+       {
+        "w": "and",
+        "t": 7114.0,
+        "d": 183.0
+       },
+       {
+        "w": "marsh",
+        "t": 7298.0,
+        "d": 1195.0
+       },
+       {
+        "w": "Yet",
+        "t": 8632.0,
+        "d": 505.0
+       },
+       {
+        "w": "in",
+        "t": 9183.0,
+        "d": 136.0
+       },
+       {
+        "w": "the",
+        "t": 9320.0,
+        "d": 137.0
+       },
+       {
+        "w": "same",
+        "t": 9458.0,
+        "d": 414.0
+       },
+       {
+        "w": "breath",
+        "t": 9873.0,
+        "d": 642.0
+       },
+       {
+        "w": "the",
+        "t": 10700.0,
+        "d": 231.0
+       },
+       {
+        "w": "healer",
+        "t": 10931.0,
+        "d": 413.0
+       },
+       {
+        "w": "offers",
+        "t": 11344.0,
+        "d": 504.0
+       },
+       {
+        "w": "cooling",
+        "t": 11849.0,
+        "d": 459.0
+       },
+       {
+        "w": "drinks",
+        "t": 12309.0,
+        "d": 552.0
+       },
+       {
+        "w": "and",
+        "t": 12906.0,
+        "d": 275.0
+       },
+       {
+        "w": "plant",
+        "t": 13182.0,
+        "d": 322.0
+       },
+       {
+        "w": "juices",
+        "t": 13505.0,
+        "d": 873.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p05",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p05.png",
+   "shot": "over-the-shoulder shot from behind healer as he tends a wound by firelight",
+   "mood": "battle",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Other hymns speak of wounds, bone-setting, and arrow removal. The words invoke divine physicians, the Asvins, but the hands learn where flesh splits, where bones slip, where pain lives.",
+      "hi": "और सूक्त घावों, हड्डी जमाने और तीर निकालने की बातें करते हैं। शब्द दिव्य वैद्य अश्विनों को पुकारते हैं, पर हाथ सीखते हैं – कहाँ माँस फटता है, कहाँ हड्डी खिसकती है, दर्द कहाँ बसता है।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p05_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p05_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Other",
+        "t": 150.0,
+        "d": 280.0
+       },
+       {
+        "w": "hymns",
+        "t": 430.0,
+        "d": 240.0
+       },
+       {
+        "w": "speak",
+        "t": 670.0,
+        "d": 320.0
+       },
+       {
+        "w": "of",
+        "t": 990.0,
+        "d": 160.0
+       },
+       {
+        "w": "wounds",
+        "t": 1150.0,
+        "d": 680.0
+       },
+       {
+        "w": "bone-setting",
+        "t": 2150.0,
+        "d": 960.0
+       },
+       {
+        "w": "and",
+        "t": 3349.0,
+        "d": 321.0
+       },
+       {
+        "w": "arrow",
+        "t": 3670.0,
+        "d": 360.0
+       },
+       {
+        "w": "removal",
+        "t": 4030.0,
+        "d": 880.0
+       },
+       {
+        "w": "The",
+        "t": 5870.0,
+        "d": 200.0
+       },
+       {
+        "w": "words",
+        "t": 6070.0,
+        "d": 360.0
+       },
+       {
+        "w": "invoke",
+        "t": 6430.0,
+        "d": 440.0
+       },
+       {
+        "w": "divine",
+        "t": 6870.0,
+        "d": 360.0
+       },
+       {
+        "w": "physicians",
+        "t": 7230.0,
+        "d": 1079.0
+       },
+       {
+        "w": "the",
+        "t": 8510.0,
+        "d": 280.0
+       },
+       {
+        "w": "Asvins",
+        "t": 8790.0,
+        "d": 880.0
+       },
+       {
+        "w": "but",
+        "t": 10229.0,
+        "d": 160.0
+       },
+       {
+        "w": "the",
+        "t": 10389.0,
+        "d": 121.0
+       },
+       {
+        "w": "hands",
+        "t": 10510.0,
+        "d": 320.0
+       },
+       {
+        "w": "learn",
+        "t": 10830.0,
+        "d": 319.0
+       },
+       {
+        "w": "where",
+        "t": 11149.0,
+        "d": 201.0
+       },
+       {
+        "w": "flesh",
+        "t": 11350.0,
+        "d": 320.0
+       },
+       {
+        "w": "splits",
+        "t": 11670.0,
+        "d": 639.0
+       },
+       {
+        "w": "where",
+        "t": 12709.0,
+        "d": 281.0
+       },
+       {
+        "w": "bones",
+        "t": 12990.0,
+        "d": 319.0
+       },
+       {
+        "w": "slip",
+        "t": 13309.0,
+        "d": 840.0
+       },
+       {
+        "w": "where",
+        "t": 14190.0,
+        "d": 279.0
+       },
+       {
+        "w": "pain",
+        "t": 14469.0,
+        "d": 281.0
+       },
+       {
+        "w": "lives",
+        "t": 14750.0,
+        "d": 639.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p06",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p06.png",
+   "shot": "wide shot juxtaposing healer at altar and healer in grove in split-like composition",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Kenneth Zysk calls this medicine in the Veda a world where ritual and remedy interweave. The healer sacrifices into the fire, then turns to the forest, carrying both chant and knife.",
+      "hi": "केनेथ ज़िस्क इस वेद की चिकित्सा को ऐसा जगत कहते हैं जहाँ अनुष्ठान और औषधि एक-दूसरे में घुल जाते हैं। वैद्य अग्नि में आहुति देता है, फिर मंत्र और चाकू लेकर जंगल की ओर बढ़ता है।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p06_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p06_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Kenneth",
+        "t": 74.0,
+        "d": 510.0
+       },
+       {
+        "w": "Zysk",
+        "t": 585.0,
+        "d": 212.0
+       },
+       {
+        "w": "calls",
+        "t": 797.0,
+        "d": 340.0
+       },
+       {
+        "w": "this",
+        "t": 1138.0,
+        "d": 170.0
+       },
+       {
+        "w": "medicine",
+        "t": 1563.0,
+        "d": 1020.0
+       },
+       {
+        "w": "in",
+        "t": 2584.0,
+        "d": 171.0
+       },
+       {
+        "w": "the",
+        "t": 2755.0,
+        "d": 127.0
+       },
+       {
+        "w": "Veda",
+        "t": 2882.0,
+        "d": 595.0
+       },
+       {
+        "w": "a",
+        "t": 3776.0,
+        "d": 212.0
+       },
+       {
+        "w": "world",
+        "t": 3989.0,
+        "d": 425.0
+       },
+       {
+        "w": "where",
+        "t": 4414.0,
+        "d": 297.0
+       },
+       {
+        "w": "ritual",
+        "t": 4712.0,
+        "d": 510.0
+       },
+       {
+        "w": "and",
+        "t": 5223.0,
+        "d": 212.0
+       },
+       {
+        "w": "remedy",
+        "t": 5436.0,
+        "d": 510.0
+       },
+       {
+        "w": "interweave",
+        "t": 5946.0,
+        "d": 978.0
+       },
+       {
+        "w": "The",
+        "t": 7734.0,
+        "d": 212.0
+       },
+       {
+        "w": "healer",
+        "t": 7946.0,
+        "d": 340.0
+       },
+       {
+        "w": "sacrifices",
+        "t": 8287.0,
+        "d": 851.0
+       },
+       {
+        "w": "into",
+        "t": 9138.0,
+        "d": 297.0
+       },
+       {
+        "w": "the",
+        "t": 9436.0,
+        "d": 127.0
+       },
+       {
+        "w": "fire",
+        "t": 9563.0,
+        "d": 723.0
+       },
+       {
+        "w": "then",
+        "t": 10585.0,
+        "d": 340.0
+       },
+       {
+        "w": "turns",
+        "t": 10925.0,
+        "d": 340.0
+       },
+       {
+        "w": "to",
+        "t": 11265.0,
+        "d": 126.0
+       },
+       {
+        "w": "the",
+        "t": 11392.0,
+        "d": 128.0
+       },
+       {
+        "w": "forest",
+        "t": 11521.0,
+        "d": 1063.0
+       },
+       {
+        "w": "carrying",
+        "t": 12627.0,
+        "d": 425.0
+       },
+       {
+        "w": "both",
+        "t": 13053.0,
+        "d": 381.0
+       },
+       {
+        "w": "chant",
+        "t": 13435.0,
+        "d": 596.0
+       },
+       {
+        "w": "and",
+        "t": 14073.0,
+        "d": 255.0
+       },
+       {
+        "w": "knife",
+        "t": 14328.0,
+        "d": 511.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p07",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p07.png",
+   "shot": "mid-shot of healer teaching a younger apprentice by the riverside",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "speech",
+     "role": "male",
+     "text": {
+      "en": "Remember their names. The hymn will fail if the herb is wrong.",
+      "hi": "नाम याद रखो। गलत जड़ी हो तो मंत्र भी बेअसर है।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p07_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p07_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Remember",
+        "t": 49.2,
+        "d": 527.0
+       },
+       {
+        "w": "their",
+        "t": 576.2,
+        "d": 318.6
+       },
+       {
+        "w": "names",
+        "t": 894.8,
+        "d": 490.2
+       },
+       {
+        "w": "The",
+        "t": 2267.2,
+        "d": 110.3
+       },
+       {
+        "w": "hymn",
+        "t": 2377.5,
+        "d": 294.1
+       },
+       {
+        "w": "will",
+        "t": 2671.6,
+        "d": 257.3
+       },
+       {
+        "w": "fail",
+        "t": 2928.9,
+        "d": 355.4
+       },
+       {
+        "w": "if",
+        "t": 3370.1,
+        "d": 147.0
+       },
+       {
+        "w": "the",
+        "t": 3517.2,
+        "d": 134.8
+       },
+       {
+        "w": "herb",
+        "t": 3652.0,
+        "d": 379.9
+       },
+       {
+        "w": "is",
+        "t": 4129.9,
+        "d": 208.3
+       },
+       {
+        "w": "wrong",
+        "t": 4338.2,
+        "d": 379.9
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p08",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p08.png",
+   "shot": "low, close three-quarter shot of healer confronting a worried family",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Healers like him are not yet separate physicians. They are ritual experts, household priests, masters of chants, and yet villagers bring their sick to them, measuring hope in both mantra and medicine.",
+      "hi": "उस जैसे वैद्य अभी अलग ‘डॉक्टर’ नहीं। वे ही अनुष्ठान–पारंगत, घर के पुजारी, मन्त्र–गत विद्वान हैं – फिर भी गाँव वाले अपना रोग इन्हीं के पास लाते हैं, आशा को मन्त्र और औषधि दोनों में नापते हुए।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p08_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p08_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Healers",
+        "t": 74.0,
+        "d": 468.0
+       },
+       {
+        "w": "like",
+        "t": 542.0,
+        "d": 255.0
+       },
+       {
+        "w": "him",
+        "t": 797.0,
+        "d": 255.0
+       },
+       {
+        "w": "are",
+        "t": 1053.0,
+        "d": 170.0
+       },
+       {
+        "w": "not",
+        "t": 1223.0,
+        "d": 340.0
+       },
+       {
+        "w": "yet",
+        "t": 1563.0,
+        "d": 212.0
+       },
+       {
+        "w": "separate",
+        "t": 1776.0,
+        "d": 468.0
+       },
+       {
+        "w": "physicians",
+        "t": 2244.0,
+        "d": 892.0
+       },
+       {
+        "w": "They",
+        "t": 3520.0,
+        "d": 298.0
+       },
+       {
+        "w": "are",
+        "t": 3819.0,
+        "d": 127.0
+       },
+       {
+        "w": "ritual",
+        "t": 3946.0,
+        "d": 382.0
+       },
+       {
+        "w": "experts",
+        "t": 4329.0,
+        "d": 808.0
+       },
+       {
+        "w": "household",
+        "t": 5265.0,
+        "d": 595.0
+       },
+       {
+        "w": "priests",
+        "t": 5861.0,
+        "d": 765.0
+       },
+       {
+        "w": "masters",
+        "t": 6797.0,
+        "d": 553.0
+       },
+       {
+        "w": "of",
+        "t": 7351.0,
+        "d": 127.0
+       },
+       {
+        "w": "chants",
+        "t": 7478.0,
+        "d": 680.0
+       },
+       {
+        "w": "and",
+        "t": 8414.0,
+        "d": 339.0
+       },
+       {
+        "w": "yet",
+        "t": 8754.0,
+        "d": 213.0
+       },
+       {
+        "w": "villagers",
+        "t": 8968.0,
+        "d": 553.0
+       },
+       {
+        "w": "bring",
+        "t": 9521.0,
+        "d": 255.0
+       },
+       {
+        "w": "their",
+        "t": 9776.0,
+        "d": 211.0
+       },
+       {
+        "w": "sick",
+        "t": 9988.0,
+        "d": 255.0
+       },
+       {
+        "w": "to",
+        "t": 10243.0,
+        "d": 128.0
+       },
+       {
+        "w": "them",
+        "t": 10372.0,
+        "d": 212.0
+       },
+       {
+        "w": "measuring",
+        "t": 10585.0,
+        "d": 1063.0
+       },
+       {
+        "w": "hope",
+        "t": 11648.0,
+        "d": 340.0
+       },
+       {
+        "w": "in",
+        "t": 11989.0,
+        "d": 211.0
+       },
+       {
+        "w": "both",
+        "t": 12201.0,
+        "d": 298.0
+       },
+       {
+        "w": "mantra",
+        "t": 12500.0,
+        "d": 638.0
+       },
+       {
+        "w": "and",
+        "t": 13179.0,
+        "d": 255.0
+       },
+       {
+        "w": "medicine",
+        "t": 13435.0,
+        "d": 511.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p09",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p09.png",
+   "shot": "moody interior mid-shot of healer performing a demon-expulsion rite",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Many hymns speak frankly of demons, sorcerers, and curses. Atharvan spells to bind enemies or drive out bhutas stand beside charms for comfort, childbirth, and long life in the same collection.",
+      "hi": "कई सूक्त साफ़-साफ़ भूत, तांत्रिक और शाप की बात करते हैं। अथर्वन मन्त्र जो शत्रु बाँधें या भूत भगाएँ, उसी संग्रह में प्रसव–सुख, दिलासा और दीर्घायु के मंत्रों के साथ खड़े हैं।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p09_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p09_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Many",
+        "t": 74.0,
+        "d": 425.0
+       },
+       {
+        "w": "hymns",
+        "t": 500.0,
+        "d": 255.0
+       },
+       {
+        "w": "speak",
+        "t": 755.0,
+        "d": 382.0
+       },
+       {
+        "w": "frankly",
+        "t": 1138.0,
+        "d": 510.0
+       },
+       {
+        "w": "of",
+        "t": 1648.0,
+        "d": 212.0
+       },
+       {
+        "w": "demons",
+        "t": 1861.0,
+        "d": 851.0
+       },
+       {
+        "w": "sorcerers",
+        "t": 2797.0,
+        "d": 1191.0
+       },
+       {
+        "w": "and",
+        "t": 4030.0,
+        "d": 298.0
+       },
+       {
+        "w": "curses",
+        "t": 4329.0,
+        "d": 936.0
+       },
+       {
+        "w": "Atharvan",
+        "t": 5904.0,
+        "d": 595.0
+       },
+       {
+        "w": "spells",
+        "t": 6500.0,
+        "d": 425.0
+       },
+       {
+        "w": "to",
+        "t": 6925.0,
+        "d": 170.0
+       },
+       {
+        "w": "bind",
+        "t": 7095.0,
+        "d": 382.0
+       },
+       {
+        "w": "enemies",
+        "t": 7521.0,
+        "d": 638.0
+       },
+       {
+        "w": "or",
+        "t": 8202.0,
+        "d": 212.0
+       },
+       {
+        "w": "drive",
+        "t": 8414.0,
+        "d": 382.0
+       },
+       {
+        "w": "out",
+        "t": 8797.0,
+        "d": 595.0
+       },
+       {
+        "w": "bhutas",
+        "t": 9606.0,
+        "d": 595.0
+       },
+       {
+        "w": "stand",
+        "t": 10202.0,
+        "d": 382.0
+       },
+       {
+        "w": "beside",
+        "t": 10585.0,
+        "d": 381.0
+       },
+       {
+        "w": "charms",
+        "t": 10967.0,
+        "d": 425.0
+       },
+       {
+        "w": "for",
+        "t": 11392.0,
+        "d": 213.0
+       },
+       {
+        "w": "comfort",
+        "t": 11606.0,
+        "d": 723.0
+       },
+       {
+        "w": "childbirth",
+        "t": 12371.0,
+        "d": 1022.0
+       },
+       {
+        "w": "and",
+        "t": 13435.0,
+        "d": 341.0
+       },
+       {
+        "w": "long",
+        "t": 13776.0,
+        "d": 340.0
+       },
+       {
+        "w": "life",
+        "t": 14117.0,
+        "d": 425.0
+       },
+       {
+        "w": "in",
+        "t": 14542.0,
+        "d": 127.0
+       },
+       {
+        "w": "the",
+        "t": 14670.0,
+        "d": 127.0
+       },
+       {
+        "w": "same",
+        "t": 14797.0,
+        "d": 382.0
+       },
+       {
+        "w": "collection",
+        "t": 15180.0,
+        "d": 723.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p10.png",
+   "shot": "contrastive wide shot of healer watching a funeral procession from a distance",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "The Atharvaveda does not promise to conquer death. Funerary hymns speak instead of a safe path for the dead, and of long life for those who still breathe and fear the next fever.",
+      "hi": "अथर्ववेद मृत्यु पर विजय का वादा नहीं करता। अन्त्येष्टि सूक्त मृत के लिए सुरक्षित पथ की बात करते हैं, और उनके लिए लम्बी आयु की, जो अभी साँस लेते हैं और अगली तपन से डरते हैं।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p10_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p10_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "The",
+        "t": 80.0,
+        "d": 321.0
+       },
+       {
+        "w": "Atharvaveda",
+        "t": 402.0,
+        "d": 919.0
+       },
+       {
+        "w": "does",
+        "t": 1321.0,
+        "d": 229.0
+       },
+       {
+        "w": "not",
+        "t": 1551.0,
+        "d": 275.0
+       },
+       {
+        "w": "promise",
+        "t": 1827.0,
+        "d": 367.0
+       },
+       {
+        "w": "to",
+        "t": 2195.0,
+        "d": 183.0
+       },
+       {
+        "w": "conquer",
+        "t": 2379.0,
+        "d": 412.0
+       },
+       {
+        "w": "death",
+        "t": 2791.0,
+        "d": 368.0
+       },
+       {
+        "w": "Funerary",
+        "t": 3895.0,
+        "d": 736.0
+       },
+       {
+        "w": "hymns",
+        "t": 4632.0,
+        "d": 321.0
+       },
+       {
+        "w": "speak",
+        "t": 4954.0,
+        "d": 689.0
+       },
+       {
+        "w": "instead",
+        "t": 5689.0,
+        "d": 459.0
+       },
+       {
+        "w": "of",
+        "t": 6149.0,
+        "d": 137.0
+       },
+       {
+        "w": "a",
+        "t": 6287.0,
+        "d": 45.0
+       },
+       {
+        "w": "safe",
+        "t": 6333.0,
+        "d": 459.0
+       },
+       {
+        "w": "path",
+        "t": 6793.0,
+        "d": 275.0
+       },
+       {
+        "w": "for",
+        "t": 7068.0,
+        "d": 183.0
+       },
+       {
+        "w": "the",
+        "t": 7252.0,
+        "d": 137.0
+       },
+       {
+        "w": "dead",
+        "t": 7390.0,
+        "d": 689.0
+       },
+       {
+        "w": "and",
+        "t": 8126.0,
+        "d": 275.0
+       },
+       {
+        "w": "of",
+        "t": 8402.0,
+        "d": 183.0
+       },
+       {
+        "w": "long",
+        "t": 8586.0,
+        "d": 275.0
+       },
+       {
+        "w": "life",
+        "t": 8862.0,
+        "d": 321.0
+       },
+       {
+        "w": "for",
+        "t": 9183.0,
+        "d": 136.0
+       },
+       {
+        "w": "those",
+        "t": 9320.0,
+        "d": 368.0
+       },
+       {
+        "w": "who",
+        "t": 9689.0,
+        "d": 136.0
+       },
+       {
+        "w": "still",
+        "t": 9826.0,
+        "d": 322.0
+       },
+       {
+        "w": "breathe",
+        "t": 10149.0,
+        "d": 458.0
+       },
+       {
+        "w": "and",
+        "t": 10608.0,
+        "d": 275.0
+       },
+       {
+        "w": "fear",
+        "t": 10883.0,
+        "d": 506.0
+       },
+       {
+        "w": "the",
+        "t": 11390.0,
+        "d": 182.0
+       },
+       {
+        "w": "next",
+        "t": 11573.0,
+        "d": 275.0
+       },
+       {
+        "w": "fever",
+        "t": 11849.0,
+        "d": 598.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p11.png",
+   "shot": "close-up of healer examining a plant leaf with quiet concentration",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Dominik Wujastyk notes that here we first meet a language of the body, bones, flesh, veins, breath, and a vocabulary of herbs that later Ayurvedic authors will refine, catalog, and argue over.",
+      "hi": "डॉमिनिक वुयास्टिक बताते हैं कि यहीं हमें देह की पहली भाषा मिलती है – अस्थियाँ, माँस, नाड़ियाँ, प्राण – और जड़ी-बूटियों का वह शब्द–भंडार, जिसे आगे के आयुर्वेदाचार्य सँवारेंगे, गिनेंगे, और जिस पर झगड़ेंगे।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p11_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p11_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Dominik",
+        "t": 117.0,
+        "d": 553.0
+       },
+       {
+        "w": "Wujastyk",
+        "t": 670.0,
+        "d": 595.0
+       },
+       {
+        "w": "notes",
+        "t": 1265.0,
+        "d": 382.0
+       },
+       {
+        "w": "that",
+        "t": 1648.0,
+        "d": 212.0
+       },
+       {
+        "w": "here",
+        "t": 1861.0,
+        "d": 296.0
+       },
+       {
+        "w": "we",
+        "t": 2158.0,
+        "d": 171.0
+       },
+       {
+        "w": "first",
+        "t": 2329.0,
+        "d": 425.0
+       },
+       {
+        "w": "meet",
+        "t": 2755.0,
+        "d": 254.0
+       },
+       {
+        "w": "a",
+        "t": 3009.0,
+        "d": 127.0
+       },
+       {
+        "w": "language",
+        "t": 3137.0,
+        "d": 553.0
+       },
+       {
+        "w": "of",
+        "t": 3690.0,
+        "d": 86.0
+       },
+       {
+        "w": "the",
+        "t": 3776.0,
+        "d": 127.0
+       },
+       {
+        "w": "body",
+        "t": 3904.0,
+        "d": 680.0
+       },
+       {
+        "w": "bones",
+        "t": 4627.0,
+        "d": 851.0
+       },
+       {
+        "w": "flesh",
+        "t": 5521.0,
+        "d": 936.0
+       },
+       {
+        "w": "veins",
+        "t": 6457.0,
+        "d": 808.0
+       },
+       {
+        "w": "breath",
+        "t": 7308.0,
+        "d": 723.0
+       },
+       {
+        "w": "and",
+        "t": 8159.0,
+        "d": 340.0
+       },
+       {
+        "w": "a",
+        "t": 8500.0,
+        "d": 41.0
+       },
+       {
+        "w": "vocabulary",
+        "t": 8541.0,
+        "d": 809.0
+       },
+       {
+        "w": "of",
+        "t": 9351.0,
+        "d": 212.0
+       },
+       {
+        "w": "herbs",
+        "t": 9563.0,
+        "d": 679.0
+       },
+       {
+        "w": "that",
+        "t": 10328.0,
+        "d": 298.0
+       },
+       {
+        "w": "later",
+        "t": 10627.0,
+        "d": 553.0
+       },
+       {
+        "w": "Ayurvedic",
+        "t": 11180.0,
+        "d": 723.0
+       },
+       {
+        "w": "authors",
+        "t": 11945.0,
+        "d": 554.0
+       },
+       {
+        "w": "will",
+        "t": 12500.0,
+        "d": 212.0
+       },
+       {
+        "w": "refine",
+        "t": 12712.0,
+        "d": 807.0
+       },
+       {
+        "w": "catalog",
+        "t": 13691.0,
+        "d": 936.0
+       },
+       {
+        "w": "and",
+        "t": 14627.0,
+        "d": 382.0
+       },
+       {
+        "w": "argue",
+        "t": 15010.0,
+        "d": 467.0
+       },
+       {
+        "w": "over",
+        "t": 15521.0,
+        "d": 594.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "action_auto2",
+   "type": "action",
+   "mood": "battle",
+   "bg": "assets/atharvan_herbs_and_healing_words/action_auto2/bg.png",
+   "chars": [
+    {
+     "img": "assets/atharvan_herbs_and_healing_words/action_auto2/char0.png",
+     "motion": {
+      "fromX": 42,
+      "toX": 8,
+      "fromScale": 0.82,
+      "toScale": 1.03,
+      "rot": 2,
+      "dur": 7200
+     }
+    }
+   ],
+   "motion": {
+    "bgZoom": 1.12,
+    "bgPan": -6,
+    "dur": 7200
+   },
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Between thorn and stone he rushes, guarding fragile breath with leaf, word, and will.",
+      "hi": "कांटे-पत्थर चीरता दौड़ रहा है, पत्ती, शब्द और जिद से नाज़ुक सांस बचा रहा है।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/action/action_auto2_en.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/action/action_auto2_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Between",
+        "t": 70.0,
+        "d": 480.0
+       },
+       {
+        "w": "thorn",
+        "t": 550.0,
+        "d": 280.0
+       },
+       {
+        "w": "and",
+        "t": 830.0,
+        "d": 160.0
+       },
+       {
+        "w": "stone",
+        "t": 990.0,
+        "d": 400.0
+       },
+       {
+        "w": "he",
+        "t": 1390.0,
+        "d": 200.0
+       },
+       {
+        "w": "rushes",
+        "t": 1590.0,
+        "d": 680.0
+       },
+       {
+        "w": "guarding",
+        "t": 2630.0,
+        "d": 480.0
+       },
+       {
+        "w": "fragile",
+        "t": 3110.0,
+        "d": 480.0
+       },
+       {
+        "w": "breath",
+        "t": 3590.0,
+        "d": 279.0
+       },
+       {
+        "w": "with",
+        "t": 3869.0,
+        "d": 281.0
+       },
+       {
+        "w": "leaf",
+        "t": 4150.0,
+        "d": 520.0
+       },
+       {
+        "w": "word",
+        "t": 4870.0,
+        "d": 760.0
+       },
+       {
+        "w": "and",
+        "t": 5630.0,
+        "d": 320.0
+       },
+       {
+        "w": "will",
+        "t": 5950.0,
+        "d": 440.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p12.png",
+   "shot": "dynamic mid-shot of healer mixing a multi-herb preparation in a stone mortar",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Yet this is not yet Ayurveda. There is no systematic diagnosis, no organized schools. There are spells, remembered successes, plant lore, and a growing habit of watching what helps and what fails.",
+      "hi": "फिर भी यह अभी आयुर्वेद नहीं। न सुव्यवस्थित निदान, न पक्के गुरुकुल। बस मन्त्र, याद रखी सफलताएँ, पौधों की लोक–विद्या, और यह उभरती आदत कि क्या काम आया, क्या नहीं – उसे देखा जाए।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p12_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p12_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Yet",
+        "t": 80.0,
+        "d": 367.0
+       },
+       {
+        "w": "this",
+        "t": 448.0,
+        "d": 459.0
+       },
+       {
+        "w": "is",
+        "t": 908.0,
+        "d": 183.0
+       },
+       {
+        "w": "not",
+        "t": 1091.0,
+        "d": 321.0
+       },
+       {
+        "w": "yet",
+        "t": 1413.0,
+        "d": 275.0
+       },
+       {
+        "w": "Ayurveda",
+        "t": 1689.0,
+        "d": 505.0
+       },
+       {
+        "w": "There",
+        "t": 2195.0,
+        "d": 275.0
+       },
+       {
+        "w": "is",
+        "t": 3574.0,
+        "d": 228.0
+       },
+       {
+        "w": "no",
+        "t": 3803.0,
+        "d": 137.0
+       },
+       {
+        "w": "systematic",
+        "t": 3941.0,
+        "d": 782.0
+       },
+       {
+        "w": "diagnosis",
+        "t": 4724.0,
+        "d": 1149.0
+       },
+       {
+        "w": "no",
+        "t": 5873.0,
+        "d": 321.0
+       },
+       {
+        "w": "organized",
+        "t": 6195.0,
+        "d": 781.0
+       },
+       {
+        "w": "schools",
+        "t": 6977.0,
+        "d": 781.0
+       },
+       {
+        "w": "There",
+        "t": 8264.0,
+        "d": 321.0
+       },
+       {
+        "w": "are",
+        "t": 8586.0,
+        "d": 137.0
+       },
+       {
+        "w": "spells",
+        "t": 8724.0,
+        "d": 734.0
+       },
+       {
+        "w": "remembered",
+        "t": 9734.0,
+        "d": 644.0
+       },
+       {
+        "w": "successes",
+        "t": 10379.0,
+        "d": 965.0
+       },
+       {
+        "w": "plant",
+        "t": 11712.0,
+        "d": 412.0
+       },
+       {
+        "w": "lore",
+        "t": 12125.0,
+        "d": 506.0
+       },
+       {
+        "w": "and",
+        "t": 12862.0,
+        "d": 320.0
+       },
+       {
+        "w": "a",
+        "t": 13182.0,
+        "d": 91.0
+       },
+       {
+        "w": "growing",
+        "t": 13274.0,
+        "d": 322.0
+       },
+       {
+        "w": "habit",
+        "t": 13597.0,
+        "d": 366.0
+       },
+       {
+        "w": "of",
+        "t": 13964.0,
+        "d": 139.0
+       },
+       {
+        "w": "watching",
+        "t": 14103.0,
+        "d": 459.0
+       },
+       {
+        "w": "what",
+        "t": 14563.0,
+        "d": 275.0
+       },
+       {
+        "w": "helps",
+        "t": 14839.0,
+        "d": 458.0
+       },
+       {
+        "w": "and",
+        "t": 15344.0,
+        "d": 183.0
+       },
+       {
+        "w": "what",
+        "t": 15528.0,
+        "d": 228.0
+       },
+       {
+        "w": "fails",
+        "t": 15757.0,
+        "d": 597.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p13.png",
+   "shot": "wide shot showing healer among diverse practitioners at a marketplace or gathering",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Later scholars see this as a plural world of healing. Ritualists, herb-women, bone-setters, and wandering ascetics all tend sickness in overlapping spheres, not along a neat, single line of descent.",
+      "hi": "बाद के विद्वान इसे बहुस्तरीय चिकित्सा–जगत मानते हैं। अनुष्ठान–कर्मी, जड़ी वाली औरतें, हड्डी जोड़ने वाले, घूमते संन्यासी – सब अपने-अपने घेरे में रोग सँभालते हैं, एक सीधी वंशरेखा की तरह नहीं।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p13_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p13_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Later",
+        "t": 80.0,
+        "d": 505.0
+       },
+       {
+        "w": "scholars",
+        "t": 586.0,
+        "d": 551.0
+       },
+       {
+        "w": "see",
+        "t": 1137.0,
+        "d": 229.0
+       },
+       {
+        "w": "this",
+        "t": 1367.0,
+        "d": 275.0
+       },
+       {
+        "w": "as",
+        "t": 1643.0,
+        "d": 229.0
+       },
+       {
+        "w": "a",
+        "t": 1873.0,
+        "d": 183.0
+       },
+       {
+        "w": "plural",
+        "t": 2057.0,
+        "d": 505.0
+       },
+       {
+        "w": "world",
+        "t": 2563.0,
+        "d": 367.0
+       },
+       {
+        "w": "of",
+        "t": 2931.0,
+        "d": 137.0
+       },
+       {
+        "w": "healing",
+        "t": 3068.0,
+        "d": 1149.0
+       },
+       {
+        "w": "Ritualists",
+        "t": 4355.0,
+        "d": 1104.0
+       },
+       {
+        "w": "herb-women",
+        "t": 5505.0,
+        "d": 827.0
+       },
+       {
+        "w": "bone-setters",
+        "t": 6471.0,
+        "d": 1057.0
+       },
+       {
+        "w": "and",
+        "t": 7712.0,
+        "d": 459.0
+       },
+       {
+        "w": "wandering",
+        "t": 8172.0,
+        "d": 597.0
+       },
+       {
+        "w": "ascetics",
+        "t": 8770.0,
+        "d": 688.0
+       },
+       {
+        "w": "all",
+        "t": 9505.0,
+        "d": 412.0
+       },
+       {
+        "w": "tend",
+        "t": 9918.0,
+        "d": 277.0
+       },
+       {
+        "w": "sickness",
+        "t": 10195.0,
+        "d": 643.0
+       },
+       {
+        "w": "in",
+        "t": 10839.0,
+        "d": 228.0
+       },
+       {
+        "w": "overlapping",
+        "t": 11067.0,
+        "d": 781.0
+       },
+       {
+        "w": "spheres",
+        "t": 11849.0,
+        "d": 828.0
+       },
+       {
+        "w": "not",
+        "t": 12862.0,
+        "d": 412.0
+       },
+       {
+        "w": "along",
+        "t": 13274.0,
+        "d": 368.0
+       },
+       {
+        "w": "a",
+        "t": 13643.0,
+        "d": 91.0
+       },
+       {
+        "w": "neat",
+        "t": 13735.0,
+        "d": 688.0
+       },
+       {
+        "w": "single",
+        "t": 14471.0,
+        "d": 550.0
+       },
+       {
+        "w": "line",
+        "t": 15021.0,
+        "d": 322.0
+       },
+       {
+        "w": "of",
+        "t": 15344.0,
+        "d": 136.0
+       },
+       {
+        "w": "descent",
+        "t": 15481.0,
+        "d": 644.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p14.png",
+   "shot": "time-lapse style wide shot of healer under the same tree at different ages, subtly implied",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Generations later, compilers shape the Atharvaveda into its present form, preserving these charms and cures. They do not rewrite them into theory, but let this early mixture of fear and observation stand.",
+      "hi": "पीढ़ियों बाद संकलक अथर्ववेद को आज के रूप में गढ़ते हैं, इन तंत्र–मंत्रों और औषधियों को बचाते हुए। वे उन्हें सिद्धान्त में नहीं घोलते, बस इस आरंभिक डर और निरीक्षण के मेल को जस का तस रहने देते हैं।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p14_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p14_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Generations",
+        "t": 80.0,
+        "d": 1011.0
+       },
+       {
+        "w": "later",
+        "t": 1091.0,
+        "d": 597.0
+       },
+       {
+        "w": "compilers",
+        "t": 2057.0,
+        "d": 780.0
+       },
+       {
+        "w": "shape",
+        "t": 2837.0,
+        "d": 322.0
+       },
+       {
+        "w": "the",
+        "t": 3160.0,
+        "d": 182.0
+       },
+       {
+        "w": "Atharvaveda",
+        "t": 3389.0,
+        "d": 965.0
+       },
+       {
+        "w": "into",
+        "t": 4447.0,
+        "d": 414.0
+       },
+       {
+        "w": "its",
+        "t": 4862.0,
+        "d": 229.0
+       },
+       {
+        "w": "present",
+        "t": 5091.0,
+        "d": 459.0
+       },
+       {
+        "w": "form",
+        "t": 5551.0,
+        "d": 873.0
+       },
+       {
+        "w": "preserving",
+        "t": 6471.0,
+        "d": 781.0
+       },
+       {
+        "w": "these",
+        "t": 7252.0,
+        "d": 275.0
+       },
+       {
+        "w": "charms",
+        "t": 7528.0,
+        "d": 551.0
+       },
+       {
+        "w": "and",
+        "t": 8080.0,
+        "d": 275.0
+       },
+       {
+        "w": "cures",
+        "t": 8356.0,
+        "d": 643.0
+       },
+       {
+        "w": "They",
+        "t": 9826.0,
+        "d": 277.0
+       },
+       {
+        "w": "do",
+        "t": 10103.0,
+        "d": 91.0
+       },
+       {
+        "w": "not",
+        "t": 10195.0,
+        "d": 275.0
+       },
+       {
+        "w": "rewrite",
+        "t": 10471.0,
+        "d": 412.0
+       },
+       {
+        "w": "them",
+        "t": 10883.0,
+        "d": 231.0
+       },
+       {
+        "w": "into",
+        "t": 11114.0,
+        "d": 275.0
+       },
+       {
+        "w": "theory",
+        "t": 11390.0,
+        "d": 873.0
+       },
+       {
+        "w": "but",
+        "t": 12722.0,
+        "d": 322.0
+       },
+       {
+        "w": "let",
+        "t": 13045.0,
+        "d": 183.0
+       },
+       {
+        "w": "this",
+        "t": 13229.0,
+        "d": 367.0
+       },
+       {
+        "w": "early",
+        "t": 13597.0,
+        "d": 413.0
+       },
+       {
+        "w": "mixture",
+        "t": 14011.0,
+        "d": 596.0
+       },
+       {
+        "w": "of",
+        "t": 14608.0,
+        "d": 185.0
+       },
+       {
+        "w": "fear",
+        "t": 14793.0,
+        "d": 643.0
+       },
+       {
+        "w": "and",
+        "t": 15436.0,
+        "d": 413.0
+       },
+       {
+        "w": "observation",
+        "t": 15850.0,
+        "d": 780.0
+       },
+       {
+        "w": "stand",
+        "t": 16631.0,
+        "d": 781.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "split_auto",
+   "type": "split",
+   "mood": "triumph",
+   "slices": [
+    {
+     "img": "assets/atharvan_herbs_and_healing_words/split_auto/s0.png",
+     "slogan": {
+      "en": "Leaf, fire, word—one",
+      "hi": "पत्र, अग्नि, मंत्र—एक"
+     },
+     "pos": "center 30%"
+    },
+    {
+     "img": "assets/atharvan_herbs_and_healing_words/split_auto/s1.png",
+     "pos": "center 46%"
+    },
+    {
+     "img": "assets/atharvan_herbs_and_healing_words/split_auto/s2.png",
+     "pos": "center 52%"
+    }
+   ],
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "From whispered charms to careful mixtures, his lineage threads through time like a hidden river beneath empires.",
+      "hi": "फुसफुसाती जादुई फॉर्मूलों से लेकर नापी-तौली काढ़ियों तक, उसकी नस्ल साम्राज्यों के नीचे छुपी नदी-सी बहती रही है।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/split/split_auto_en.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/split/split_auto_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "From",
+        "t": 72.0,
+        "d": 291.0
+       },
+       {
+        "w": "whispered",
+        "t": 364.0,
+        "d": 541.0
+       },
+       {
+        "w": "charms",
+        "t": 906.0,
+        "d": 500.0
+       },
+       {
+        "w": "to",
+        "t": 1406.0,
+        "d": 166.0
+       },
+       {
+        "w": "careful",
+        "t": 1572.0,
+        "d": 416.0
+       },
+       {
+        "w": "mixtures",
+        "t": 1989.0,
+        "d": 998.0
+       },
+       {
+        "w": "his",
+        "t": 2988.0,
+        "d": 292.0
+       },
+       {
+        "w": "lineage",
+        "t": 3281.0,
+        "d": 583.0
+       },
+       {
+        "w": "threads",
+        "t": 3864.0,
+        "d": 500.0
+       },
+       {
+        "w": "through",
+        "t": 4364.0,
+        "d": 291.0
+       },
+       {
+        "w": "time",
+        "t": 4656.0,
+        "d": 666.0
+       },
+       {
+        "w": "like",
+        "t": 5364.0,
+        "d": 333.0
+       },
+       {
+        "w": "a",
+        "t": 5697.0,
+        "d": 83.0
+       },
+       {
+        "w": "hidden",
+        "t": 5781.0,
+        "d": 375.0
+       },
+       {
+        "w": "river",
+        "t": 6156.0,
+        "d": 500.0
+       },
+       {
+        "w": "beneath",
+        "t": 6697.0,
+        "d": 500.0
+       },
+       {
+        "w": "empires",
+        "t": 7239.0,
+        "d": 833.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p15.png",
+   "shot": "wide, slightly elevated shot suggesting future with faint silhouettes of later physicians behind",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "When classical Ayurveda speaks with cool precision of humors and texts, it still echoes these older songs: the respect for plants, the naming of disease, the idea that knowledge can stand between man and misery.",
+      "hi": "जब शास्त्रीय आयुर्वेद शान्त, नापतौल भाषा में दोष और ग्रन्थों की बात करता है, तो भी इन प्राचीन गीतों की गूँज रहती है – वनस्पतियों का आदर, रोग का नाम लेना, यह धारणा कि ज्ञान मनुष्य और दुःख के बीच खड़ा हो सकता है।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p15_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p15_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "When",
+        "t": 74.0,
+        "d": 297.0
+       },
+       {
+        "w": "classical",
+        "t": 372.0,
+        "d": 595.0
+       },
+       {
+        "w": "Ayurveda",
+        "t": 968.0,
+        "d": 553.0
+       },
+       {
+        "w": "speaks",
+        "t": 1521.0,
+        "d": 468.0
+       },
+       {
+        "w": "with",
+        "t": 1989.0,
+        "d": 212.0
+       },
+       {
+        "w": "cool",
+        "t": 2202.0,
+        "d": 296.0
+       },
+       {
+        "w": "precision",
+        "t": 2498.0,
+        "d": 510.0
+       },
+       {
+        "w": "of",
+        "t": 3009.0,
+        "d": 170.0
+       },
+       {
+        "w": "humors",
+        "t": 3179.0,
+        "d": 468.0
+       },
+       {
+        "w": "and",
+        "t": 3647.0,
+        "d": 171.0
+       },
+       {
+        "w": "texts",
+        "t": 3819.0,
+        "d": 381.0
+       },
+       {
+        "w": "it",
+        "t": 4201.0,
+        "d": 384.0
+       },
+       {
+        "w": "still",
+        "t": 5138.0,
+        "d": 340.0
+       },
+       {
+        "w": "echoes",
+        "t": 5478.0,
+        "d": 340.0
+       },
+       {
+        "w": "these",
+        "t": 5819.0,
+        "d": 340.0
+       },
+       {
+        "w": "older",
+        "t": 6159.0,
+        "d": 340.0
+       },
+       {
+        "w": "songs",
+        "t": 6500.0,
+        "d": 765.0
+       },
+       {
+        "w": "the",
+        "t": 7606.0,
+        "d": 255.0
+       },
+       {
+        "w": "respect",
+        "t": 7861.0,
+        "d": 382.0
+       },
+       {
+        "w": "for",
+        "t": 8244.0,
+        "d": 170.0
+       },
+       {
+        "w": "plants",
+        "t": 8414.0,
+        "d": 764.0
+       },
+       {
+        "w": "the",
+        "t": 9436.0,
+        "d": 211.0
+       },
+       {
+        "w": "naming",
+        "t": 9647.0,
+        "d": 340.0
+       },
+       {
+        "w": "of",
+        "t": 9988.0,
+        "d": 128.0
+       },
+       {
+        "w": "disease",
+        "t": 10117.0,
+        "d": 893.0
+       },
+       {
+        "w": "the",
+        "t": 11265.0,
+        "d": 297.0
+       },
+       {
+        "w": "idea",
+        "t": 11563.0,
+        "d": 467.0
+       },
+       {
+        "w": "that",
+        "t": 12030.0,
+        "d": 255.0
+       },
+       {
+        "w": "knowledge",
+        "t": 12286.0,
+        "d": 511.0
+       },
+       {
+        "w": "can",
+        "t": 12797.0,
+        "d": 170.0
+       },
+       {
+        "w": "stand",
+        "t": 12968.0,
+        "d": 425.0
+       },
+       {
+        "w": "between",
+        "t": 13393.0,
+        "d": 425.0
+       },
+       {
+        "w": "man",
+        "t": 13819.0,
+        "d": 424.0
+       },
+       {
+        "w": "and",
+        "t": 14287.0,
+        "d": 211.0
+       },
+       {
+        "w": "misery",
+        "t": 14498.0,
+        "d": 638.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "art": "assets/atharvan_herbs_and_healing_words/img/p16.png",
+   "shot": "close-up on healer’s face lit by both firelight and dawn light, contemplative",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "The Atharvaveda healers show how knowledge often begins, in whispered charms, in careful eyes, in hands that treat herbs and words as one braid, before reason and experiment slowly learn to stand alone.",
+      "hi": "अथर्ववेद के वैद्य दिखाते हैं कि ज्ञान अक्सर ऐसे शुरू होता है – फुसफुसाते मन्त्रों में, चौकस आँखों में, उन हाथों में जो जड़ी और शब्द को एक ही चोटी मानते हैं, इससे पहले कि तर्क और प्रयोग अकेले खड़े होना सीखें।"
+     },
+     "audio": {
+      "en": "assets/atharvan_herbs_and_healing_words/audio/en/p16_0.mp3",
+      "hi": "assets/atharvan_herbs_and_healing_words/audio/hi/p16_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "The",
+        "t": 74.0,
+        "d": 297.0
+       },
+       {
+        "w": "Atharvaveda",
+        "t": 372.0,
+        "d": 851.0
+       },
+       {
+        "w": "healers",
+        "t": 1223.0,
+        "d": 510.0
+       },
+       {
+        "w": "show",
+        "t": 1734.0,
+        "d": 340.0
+       },
+       {
+        "w": "how",
+        "t": 2074.0,
+        "d": 212.0
+       },
+       {
+        "w": "knowledge",
+        "t": 2287.0,
+        "d": 553.0
+       },
+       {
+        "w": "often",
+        "t": 2882.0,
+        "d": 425.0
+       },
+       {
+        "w": "begins",
+        "t": 3308.0,
+        "d": 764.0
+       },
+       {
+        "w": "in",
+        "t": 4115.0,
+        "d": 256.0
+       },
+       {
+        "w": "whispered",
+        "t": 4372.0,
+        "d": 553.0
+       },
+       {
+        "w": "charms",
+        "t": 4925.0,
+        "d": 851.0
+       },
+       {
+        "w": "in",
+        "t": 5819.0,
+        "d": 297.0
+       },
+       {
+        "w": "careful",
+        "t": 6117.0,
+        "d": 468.0
+       },
+       {
+        "w": "eyes",
+        "t": 6585.0,
+        "d": 510.0
+       },
+       {
+        "w": "in",
+        "t": 7436.0,
+        "d": 212.0
+       },
+       {
+        "w": "hands",
+        "t": 7648.0,
+        "d": 468.0
+       },
+       {
+        "w": "that",
+        "t": 8117.0,
+        "d": 212.0
+       },
+       {
+        "w": "treat",
+        "t": 8329.0,
+        "d": 296.0
+       },
+       {
+        "w": "herbs",
+        "t": 8626.0,
+        "d": 511.0
+       },
+       {
+        "w": "and",
+        "t": 9138.0,
+        "d": 255.0
+       },
+       {
+        "w": "words",
+        "t": 9393.0,
+        "d": 594.0
+       },
+       {
+        "w": "as",
+        "t": 10073.0,
+        "d": 384.0
+       },
+       {
+        "w": "one",
+        "t": 10457.0,
+        "d": 297.0
+       },
+       {
+        "w": "braid",
+        "t": 10755.0,
+        "d": 723.0
+       },
+       {
+        "w": "before",
+        "t": 11734.0,
+        "d": 467.0
+       },
+       {
+        "w": "reason",
+        "t": 12201.0,
+        "d": 681.0
+       },
+       {
+        "w": "and",
+        "t": 12924.0,
+        "d": 255.0
+       },
+       {
+        "w": "experiment",
+        "t": 13179.0,
+        "d": 681.0
+       },
+       {
+        "w": "slowly",
+        "t": 13861.0,
+        "d": 552.0
+       },
+       {
+        "w": "learn",
+        "t": 14413.0,
+        "d": 341.0
+       },
+       {
+        "w": "to",
+        "t": 14755.0,
+        "d": 127.0
+       },
+       {
+        "w": "stand",
+        "t": 14882.0,
+        "d": 424.0
+       },
+       {
+        "w": "alone",
+        "t": 15307.0,
+        "d": 596.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
   }
+ ],
+ "hero": {
+  "name": "Atharvan Healer of the Vedic Fire",
+  "epithets": [
+   "Chants of the Atharvans",
+   "Keepers of healing spells",
+   "Herb-knowers of the Veda",
+   "Warders of sickness and curse"
+  ],
+  "legend": "They sang between fear and reason to keep death away."
+ }
 }
