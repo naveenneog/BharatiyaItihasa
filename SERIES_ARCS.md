@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🧮 The Yadavas of Devagiri  *(Early medieval → medieval — c. 1187–1318 CE, the Seuna fortress-dynasty of the Deccan)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The Seuna (Yadava) dynasty of Devagiri — the last great Deccan power before the Delhi Sultanate broke it — told from the basalt hill-fort of its founding to the flaying of its last rebel. Military glory is weighed against what the sources actually attest: Singhana's zenith and the Yadava war-machine set beside the honest silences of frontier war, the 1296 submission and 1318 fall read from Persian court-chronicles (Barani, Isami) as hostile witnesses rather than neutral record, and the age's quieter crown — Hemadri's scholarship, the Hemadpanti stone-craft, the Konkan sea-road economy, the Mahanubhava reform and the transmission of Bhaskara II's mathematics — weighed equal to the sword. Communal-sensitive turns (Harapala's flaying, the sultanate's temple-reuse) are framed as politics and power, not faith.
+
+**I. Rise on the Basalt Hill**
+1. **The Hill That Would Not Yield** ✅ — as the Chalukya order collapses, Bhillama V raises Devagiri from a basalt hill into a new Yadava capital, before Soratur teaches the price of empire. *(founding)*
+2. **Lion of the Deccan** ✅ — Singhana II pushes the frontier from the Narmada toward the Tungabhadra, turning a wounded hill kingdom into the Deccan's great power. *(expansion; zenith)*
+
+**II. Kings, Generals and Frontier Choices**
+3. **The Actor Who Seized the Throne** ✅ — Ramachandra enters Devagiri disguised as an actor, takes the throne from Ammana, and builds a reign brilliant enough to be argued over by inscriptions. *(succession)*
+4. **Eastward March** ✅ — Jaitugi defeats the Kakatiya line, captures Ganapati, and chooses vassalage over occupation to hold the eastern frontier. *(wars; frontier)*
+5. **The Yadava War Machine** ✅ — Kholeshvara and Bichana, the powerful regional commanders who could win frontiers far from the king. *(military system)*
+
+**III. Wars that Changed Devagiri**
+6. **Soratur and the River Border** ✅ — a defeat at Soratur pushes the Yadavas north, and the river border becomes the line Singhana's generation will fight to cross. *(wars)*
+7. **The Moated Hill Surrenders** ✅ — after tribute fails and refugees gather at Baglana, Malik Kafur forces Devagiri to submit and turns Ramachandra into Delhi's southern vassal. *(fall begins; source-criticism)*
+8. **Harapala's Skin** ✅ — after Ramachandra's death rebellion returns to Devagiri, and Harapala's flaying marks the end of Yadava sovereignty; sourced to Barani and Isami and framed as calculated political terror, not a feud of faith. *(fall; source-criticism)*
+
+**IV. Craft, Rule and Exchange**
+9. **The Book of All Duties** ✅ — Hemadri's *Chaturvarga Chintamani* gathers vows, gifts, law, medicine and royal memory into encyclopedias of order; his genealogy flagged as panegyric (per P.V. Kane) and the Modi-script legend debunked. *(scholarship)*
+10. **Stone Without Mortar** ✅ — the black-rock Hemadpanti temples fitted without mortar, the single-inventor myth debunked and the sultanate's later reuse of the stones noted without communal spin. *(craft; architecture)*
+11. **The Sea Road and the Silver Coin** ✅ — from Devagiri's plateau to the Konkan ports, the horses, cotton, coins and merchants that powered the hill kingdom, read partly through the hostile chronicler Barani. *(economy; trade)*
+
+**V. Marathi, Mathematics and Memory**
+12. **The Secret Assembly at Ridhapur** ✅ — Chakradhara's Mahanubhava followers choose Marathi and reject caste barriers, preserving the *Lilacharitra* as a rare street-level window into Yadava society; the Krishna-avatar claim marked "later remembered as," the absence of persecution evidence noted. *(religious reform; source-criticism)*
+13. **The School of Numbers at the Edge of Empire** ✅ — a 1207 inscription shows Bhaskara II's grandson Changadeva founding the Vijjalavida school to carry Maharashtra's mathematical inheritance through the Yadava age; the "royal academy" myth corrected and the school distinguished from the later Kerala School (per Kim Plofker & David Pingree). *(science; mathematics)*
+
 ## 📖 The Paramaras of Malwa and Raja Bhoja  *(Early medieval — c. 972–1305 CE, the Agnikula kingdom of Malwa & Dhara)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 The "fire-born" (Agnikula) dynasty of Malwa and its polymath centrepiece, Raja Bhoja of Dhara (c. 1010–1055) — a king his own inscriptions remember as poet, engineer, aesthete and patron as much as warrior. The chapter weighs that inscriptional praise against what the stones and texts actually show: a Betwa reservoir and a treatise on machines set beside the tribute-verses, the "Param Dev" whom Mahmud of Ghazni supposedly avoided read as later memory rather than proven battle, and the dynasty's 1305 end at Mandu told from the conqueror's own court-poet — honest about the silence beneath the verses.
