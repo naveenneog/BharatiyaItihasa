@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## 🏞️ Kamarupa: The Ancient Kingdom of Assam  *(Ancient → early medieval — c. 350–1200 CE, the Brahmaputra-valley frontier)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The first securely-attested kingdom of the eastern Brahmaputra frontier — reconstructed from the Allahabad Pillar, Kamarupa's own copperplates, Chinese annals and a local Purana, and honest at every step about how much is later genealogy and myth layered over thin early evidence. Epic legend (Naraka, Bhagadatta) is kept apart from record; three dynasties (Varman → Mlechchha/Salastambha → Pala) are told with their silences intact; the age's innovation — muga silk, adaptive river-statecraft, a script bending toward Assamese, the scribes and stone-carvers behind the record — is weighed equally with rule; and the sacred (Kamakhya, the Kalika Purana) is handled as "how Kamarupa chose to remember itself," with the debated *nara-bali* verses read as theological imagination, not proof of practice.
+
+**I. The Eastern Frontier Takes Shape**
+1. **The Pillar Names the Eastern Kingdom** ✅ — Samudragupta's Allahabad Pillar names Kamarupa and Davaka as frontier polities (~350 CE); the founder Pushyavarman survives only in a much later copperplate, and the Naraka/Bhagadatta legend is marked as chant, not dated record. *(founding; source-criticism)*
+2. **Davaka Enters the Brahmaputra Realm** ✅ — the neighbouring river-kingdom of Davaka, kept visible by a 428 CE Chinese embassy, absorbed under Kalyanavarman with "no recorded great battle" — the process "lost to silence." *(expansion)*
+3. **The Horse Sacrifice on Nilachal** ✅ — Mahendravarman/Surendravarman's *ashvamedha* and the Umachal cave-shrine, with the same-ruler identity uncertainty flagged and the Nidhanpur genealogy read as "the voice of hindsight." *(sovereignty ritual)*
+
+**II. Bhaskaravarman's Documented Age**
+4. **The Bachelor King at Karnasuvarna** ✅ — Bhaskaravarman told from Kamarupa's side (the Nidhanpur plates from his "victorious camp"), Shashanka's fall left honestly as "the sources do not say," and no permanent conquest claimed. *(diplomacy; the documented reign)*
+5. **The Lost Plates Rewritten** ✅ — the scribe Vasuvarma and coppersmith Kaliya re-engraving a *lost* land grant, an administrative-memory innovation that names its own "quiet hands." *(administration; economy)*
+
+**III. New Dynasties and Contested Power**
+6. **Salasthambha Takes the Elephant Seal** ✅ — the founder of the Mlechchha (Salastambha) line, the Brahmanical slur "carried with pride" as a dynasty name; the Mech/Bodo-Kachari vs Tantric-political identity debate presented raw (Sharma, Shin) with no battles invented. *(dynastic change; identity)*
+7. **The Stone Door at Da Parbatiya** ✅ — the nameless Haruppeshvara artisans and the 6–7th-century carved doorframe, honest that the temple behind it and its patron are unknown. *(craft; art)*
+8. **The Elected King of Kamarupa** ✅ — Brahma Pala raised to the throne by the chiefs after Tyagasimha died heirless — a governance experiment honestly qualified ("no modern democracy… 'people' meant these chiefs"), disambiguated from Bengal's Palas. *(governance innovation)*
+9. **Ratnapala Reaches the Ganges** ✅ — the Pala king whose plates boast of terrifying Saka, Gurjara, Arab and southern kings, weighed against Srichandra's independent Dacca copperplate: only the Gauda campaign survives the test (Sircar). *(wars; source-criticism)*
+
+**IV. River, Trade and Script Innovations**
+10. **Golden Silk of Suvarnakudya** ✅ — the muga-silk economy woven from Assam's unique ecology, its fame traced through an "early tradition preserved in the Arthashastra" and Bana's gift-list, with no romanticised "Silk Road." *(economy; craft)*
+11. **The River That Redrew the Kingdom** ✅ — adaptive statecraft on a braided, flood-prone Brahmaputra, where charters bound people to the river's moods rather than damming it — "power flowed through knowledge." *(environment; statecraft)*
+12. **Copper Letters Become Assamese** ✅ — the Kamarupi script bending from Gupta forms toward Assamese across the Umachal rock, the Nidhanpur plates and the 1207 Kanai-Baroxiboa inscription (Sircar, Sharma). *(script; scholarship)*
+
+**V. Goddess, Text and Memory**
+13. **The Goddess and the Purana of Kamarupa** ✅ — Kamakhya of Nilachal and the Kalika Purana turning a frontier into sacred geography; the Sati-yoni myth marked as Puranic claim, the *nara-bali* verses read responsibly (Urban, Shin), the visible temple noted as later Koch–Ahom on older layers. *(sacred geography; source-criticism)*
+
 ## 🧮 The Yadavas of Devagiri  *(Early medieval → medieval — c. 1187–1318 CE, the Seuna fortress-dynasty of the Deccan)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 The Seuna (Yadava) dynasty of Devagiri — the last great Deccan power before the Delhi Sultanate broke it — told from the basalt hill-fort of its founding to the flaying of its last rebel. Military glory is weighed against what the sources actually attest: Singhana's zenith and the Yadava war-machine set beside the honest silences of frontier war, the 1296 submission and 1318 fall read from Persian court-chronicles (Barani, Isami) as hostile witnesses rather than neutral record, and the age's quieter crown — Hemadri's scholarship, the Hemadpanti stone-craft, the Konkan sea-road economy, the Mahanubhava reform and the transmission of Bhaskara II's mathematics — weighed equal to the sword. Communal-sensitive turns (Harapala's flaying, the sultanate's temple-reuse) are framed as politics and power, not faith.
