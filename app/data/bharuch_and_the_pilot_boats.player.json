@@ -1,0 +1,3217 @@
+{
+  "id": "bharuch_and_the_pilot_boats",
+  "title": "Bharuch and the Pilot Boats",
+  "title_i18n": {
+    "en": "Bharuch and the Pilot Boats",
+    "hi": "भरूच और पायलट नौकाएँ"
+  },
+  "figure": "Barygaza pilots and port merchants",
+  "era": "Indo-Roman trade at Barygaza, c. 40-100 CE",
+  "moral": "Local knowledge can command a global sea.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/bharuch_and_the_pilot_boats/intro/hero.png",
+      "name": "Barygaza Bar Pilot",
+      "epithets": [
+        "Pilots of Barygaza",
+        "Masters of the Narmada tides",
+        "Gatekeepers of Roman trade",
+        "Merchants of Bharuch"
+      ],
+      "legend": "They steered the world’s richest ships through a roaring brown river.",
+      "era": "Indo-Roman trade at Barygaza, c. 40-100 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When Roman captains lost their nerve at Barygaza's wild mouth, only these lean river pilots dared ride the broken tides, holding a whole ocean trade in their calloused hands.",
+            "hi": "जब रोमी कप्तान बरुगाज़ा के उफनते मुहाने पर काँप गए, तब बस ये दुबले नदी-पायलट ही टूटती लहरों पर सवार हुए, पूरे सागर का व्यापार अपनी सख़्त हथेलियों में थामे।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/intro/hero_en.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 72.0,
+                "d": 250.0
+              },
+              {
+                "w": "Roman",
+                "t": 322.0,
+                "d": 333.0
+              },
+              {
+                "w": "captains",
+                "t": 656.0,
+                "d": 541.0
+              },
+              {
+                "w": "lost",
+                "t": 1197.0,
+                "d": 333.0
+              },
+              {
+                "w": "their",
+                "t": 1531.0,
+                "d": 208.0
+              },
+              {
+                "w": "nerve",
+                "t": 1739.0,
+                "d": 333.0
+              },
+              {
+                "w": "at",
+                "t": 2072.0,
+                "d": 208.0
+              },
+              {
+                "w": "Barygaza's",
+                "t": 2281.0,
+                "d": 790.0
+              },
+              {
+                "w": "wild",
+                "t": 3071.0,
+                "d": 334.0
+              },
+              {
+                "w": "mouth",
+                "t": 3406.0,
+                "d": 500.0
+              },
+              {
+                "w": "only",
+                "t": 4572.0,
+                "d": 416.0
+              },
+              {
+                "w": "these",
+                "t": 4989.0,
+                "d": 333.0
+              },
+              {
+                "w": "lean",
+                "t": 5322.0,
+                "d": 291.0
+              },
+              {
+                "w": "river",
+                "t": 5614.0,
+                "d": 333.0
+              },
+              {
+                "w": "pilots",
+                "t": 5947.0,
+                "d": 625.0
+              },
+              {
+                "w": "dared",
+                "t": 6656.0,
+                "d": 500.0
+              },
+              {
+                "w": "ride",
+                "t": 7156.0,
+                "d": 208.0
+              },
+              {
+                "w": "the",
+                "t": 7364.0,
+                "d": 166.0
+              },
+              {
+                "w": "broken",
+                "t": 7531.0,
+                "d": 416.0
+              },
+              {
+                "w": "tides",
+                "t": 7947.0,
+                "d": 707.0
+              },
+              {
+                "w": "holding",
+                "t": 8905.0,
+                "d": 584.0
+              },
+              {
+                "w": "a",
+                "t": 9530.0,
+                "d": 166.0
+              },
+              {
+                "w": "whole",
+                "t": 9696.0,
+                "d": 376.0
+              },
+              {
+                "w": "ocean",
+                "t": 10072.0,
+                "d": 458.0
+              },
+              {
+                "w": "trade",
+                "t": 10531.0,
+                "d": 457.0
+              },
+              {
+                "w": "in",
+                "t": 11031.0,
+                "d": 208.0
+              },
+              {
+                "w": "their",
+                "t": 11239.0,
+                "d": 208.0
+              },
+              {
+                "w": "calloused",
+                "t": 11447.0,
+                "d": 458.0
+              },
+              {
+                "w": "hands",
+                "t": 11906.0,
+                "d": 625.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/bharuch_and_the_pilot_boats/intro/map.png",
+      "x": 0.28,
+      "y": 0.38,
+      "label": "Barygaza (Bharuch), Narmada Estuary, Gujarat",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, where the Narmada hits the sea in foaming brown fury, Bharuch turns risky channels into gold roads for ships from far Rome.",
+            "hi": "यहाँ, जहाँ नार्मदा झागदार भूरे जोश से सागर से टकराती है, भरूच खतरनाक धाराओं को रोम से आई नौकाओं के लिए सुनहरे रास्ते बना देता है।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/intro/map_en.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 781.0
+              },
+              {
+                "w": "where",
+                "t": 908.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 1275.0,
+                "d": 137.0
+              },
+              {
+                "w": "Narmada",
+                "t": 1413.0,
+                "d": 459.0
+              },
+              {
+                "w": "hits",
+                "t": 1873.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 2195.0,
+                "d": 136.0
+              },
+              {
+                "w": "sea",
+                "t": 2332.0,
+                "d": 459.0
+              },
+              {
+                "w": "in",
+                "t": 2791.0,
+                "d": 231.0
+              },
+              {
+                "w": "foaming",
+                "t": 3022.0,
+                "d": 551.0
+              },
+              {
+                "w": "brown",
+                "t": 3574.0,
+                "d": 320.0
+              },
+              {
+                "w": "fury",
+                "t": 3895.0,
+                "d": 874.0
+              },
+              {
+                "w": "Bharuch",
+                "t": 5000.0,
+                "d": 643.0
+              },
+              {
+                "w": "turns",
+                "t": 5643.0,
+                "d": 413.0
+              },
+              {
+                "w": "risky",
+                "t": 6057.0,
+                "d": 459.0
+              },
+              {
+                "w": "channels",
+                "t": 6517.0,
+                "d": 551.0
+              },
+              {
+                "w": "into",
+                "t": 7068.0,
+                "d": 321.0
+              },
+              {
+                "w": "gold",
+                "t": 7390.0,
+                "d": 367.0
+              },
+              {
+                "w": "roads",
+                "t": 7758.0,
+                "d": 321.0
+              },
+              {
+                "w": "for",
+                "t": 8080.0,
+                "d": 183.0
+              },
+              {
+                "w": "ships",
+                "t": 8264.0,
+                "d": 413.0
+              },
+              {
+                "w": "from",
+                "t": 8678.0,
+                "d": 1148.0
+              },
+              {
+                "w": "far",
+                "t": 9826.0,
+                "d": 0.0
+              },
+              {
+                "w": "Rome",
+                "t": 9826.0,
+                "d": 0.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/bharuch_and_the_pilot_boats/img/cover.png",
+      "shot": "epic bird's-eye wide over the Narmada estuary at dusk",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "At Barygaza, c. 50 CE, foreign captains dared the Narmada's fury only by hiring Indian pilot boats, local knowledge turning tides into gold.",
+            "hi": "बारीगज़ा, करीब 50 ईस्वी में, परदेसी सिपाही नर्मदा के गुस्से से तभी भिड़ते, जब देसी पायलट नौकाएँ हों — देसी चाल से लहरें सोना बनतीं।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/cover_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "At",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "Barygaza",
+                "t": 356.0,
+                "d": 1011.0
+              },
+              {
+                "w": "c",
+                "t": 1689.0,
+                "d": 642.0
+              },
+              {
+                "w": "50",
+                "t": 2745.0,
+                "d": 597.0
+              },
+              {
+                "w": "CE",
+                "t": 3343.0,
+                "d": 690.0
+              },
+              {
+                "w": "foreign",
+                "t": 4080.0,
+                "d": 597.0
+              },
+              {
+                "w": "captains",
+                "t": 4678.0,
+                "d": 597.0
+              },
+              {
+                "w": "dared",
+                "t": 5275.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 5597.0,
+                "d": 183.0
+              },
+              {
+                "w": "Narmada's",
+                "t": 5781.0,
+                "d": 597.0
+              },
+              {
+                "w": "fury",
+                "t": 6379.0,
+                "d": 689.0
+              },
+              {
+                "w": "only",
+                "t": 7114.0,
+                "d": 459.0
+              },
+              {
+                "w": "by",
+                "t": 7574.0,
+                "d": 183.0
+              },
+              {
+                "w": "hiring",
+                "t": 7758.0,
+                "d": 505.0
+              },
+              {
+                "w": "Indian",
+                "t": 8264.0,
+                "d": 459.0
+              },
+              {
+                "w": "pilot",
+                "t": 8724.0,
+                "d": 413.0
+              },
+              {
+                "w": "boats",
+                "t": 9137.0,
+                "d": 596.0
+              },
+              {
+                "w": "local",
+                "t": 10010.0,
+                "d": 505.0
+              },
+              {
+                "w": "knowledge",
+                "t": 10516.0,
+                "d": 506.0
+              },
+              {
+                "w": "turning",
+                "t": 11022.0,
+                "d": 413.0
+              },
+              {
+                "w": "tides",
+                "t": 11436.0,
+                "d": 367.0
+              },
+              {
+                "w": "into",
+                "t": 11849.0,
+                "d": 322.0
+              },
+              {
+                "w": "gold",
+                "t": 12172.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p01.png",
+      "shot": "low-angle medium on the pilot against stormy sky",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Periplus of the Erythraean Sea speaks of this place as Barygaza, Bharuch, where the Narmada meets the sea with a dangerous bar and racing tides.",
+            "hi": "एरिथ्राई सागर के पेरीप्लस में इसे बारीगज़ा — भरूच — कहा गया है, जहाँ नर्मदा खतरनाक रेती और तेज़ ज्वार के साथ समंदर से मिलती है।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p01_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "Periplus",
+                "t": 230.0,
+                "d": 440.0
+              },
+              {
+                "w": "of",
+                "t": 670.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 790.0,
+                "d": 120.0
+              },
+              {
+                "w": "Erythraean",
+                "t": 910.0,
+                "d": 640.0
+              },
+              {
+                "w": "Sea",
+                "t": 1550.0,
+                "d": 360.0
+              },
+              {
+                "w": "speaks",
+                "t": 1910.0,
+                "d": 439.0
+              },
+              {
+                "w": "of",
+                "t": 2349.0,
+                "d": 120.0
+              },
+              {
+                "w": "this",
+                "t": 2469.0,
+                "d": 241.0
+              },
+              {
+                "w": "place",
+                "t": 2710.0,
+                "d": 400.0
+              },
+              {
+                "w": "as",
+                "t": 3150.0,
+                "d": 239.0
+              },
+              {
+                "w": "Barygaza",
+                "t": 3389.0,
+                "d": 961.0
+              },
+              {
+                "w": "Bharuch",
+                "t": 4390.0,
+                "d": 680.0
+              },
+              {
+                "w": "where",
+                "t": 5750.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 5990.0,
+                "d": 120.0
+              },
+              {
+                "w": "Narmada",
+                "t": 6110.0,
+                "d": 400.0
+              },
+              {
+                "w": "meets",
+                "t": 6510.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 6830.0,
+                "d": 120.0
+              },
+              {
+                "w": "sea",
+                "t": 6950.0,
+                "d": 280.0
+              },
+              {
+                "w": "with",
+                "t": 7230.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 7390.0,
+                "d": 80.0
+              },
+              {
+                "w": "dangerous",
+                "t": 7470.0,
+                "d": 520.0
+              },
+              {
+                "w": "bar",
+                "t": 7990.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 8350.0,
+                "d": 240.0
+              },
+              {
+                "w": "racing",
+                "t": 8590.0,
+                "d": 360.0
+              },
+              {
+                "w": "tides",
+                "t": 8950.0,
+                "d": 599.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p02.png",
+      "shot": "wide shot showing foreign ship offshore and low Indian shoreline",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Greek-speaking merchants wrote that big ships could not enter alone. Sandbanks shifted, currents twisted. One mistake, and cargo, crew and coin would be lost.",
+            "hi": "यूनानी बोलने वाले सौदागर लिखते हैं, बड़ी नौकाएँ अकेली भीतर नहीं जा सकतीं। रेत की पट्टियाँ बदलतीं, धाराएँ मरोड़ खातीं। एक चूक, और माल, मल्लाह, पैसा सब गया।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p02_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Greek-speaking",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "merchants",
+                "t": 840.0,
+                "d": 553.0
+              },
+              {
+                "w": "wrote",
+                "t": 1393.0,
+                "d": 297.0
+              },
+              {
+                "w": "that",
+                "t": 1691.0,
+                "d": 255.0
+              },
+              {
+                "w": "big",
+                "t": 1946.0,
+                "d": 211.0
+              },
+              {
+                "w": "ships",
+                "t": 2158.0,
+                "d": 382.0
+              },
+              {
+                "w": "could",
+                "t": 2541.0,
+                "d": 213.0
+              },
+              {
+                "w": "not",
+                "t": 2755.0,
+                "d": 296.0
+              },
+              {
+                "w": "enter",
+                "t": 3052.0,
+                "d": 426.0
+              },
+              {
+                "w": "alone",
+                "t": 3478.0,
+                "d": 936.0
+              },
+              {
+                "w": "Sandbanks",
+                "t": 4882.0,
+                "d": 723.0
+              },
+              {
+                "w": "shifted",
+                "t": 5606.0,
+                "d": 851.0
+              },
+              {
+                "w": "currents",
+                "t": 6542.0,
+                "d": 382.0
+              },
+              {
+                "w": "twisted",
+                "t": 6925.0,
+                "d": 936.0
+              },
+              {
+                "w": "One",
+                "t": 8457.0,
+                "d": 296.0
+              },
+              {
+                "w": "mistake",
+                "t": 8754.0,
+                "d": 767.0
+              },
+              {
+                "w": "and",
+                "t": 9563.0,
+                "d": 254.0
+              },
+              {
+                "w": "cargo",
+                "t": 9818.0,
+                "d": 724.0
+              },
+              {
+                "w": "crew",
+                "t": 10670.0,
+                "d": 467.0
+              },
+              {
+                "w": "and",
+                "t": 11351.0,
+                "d": 340.0
+              },
+              {
+                "w": "coin",
+                "t": 11691.0,
+                "d": 297.0
+              },
+              {
+                "w": "would",
+                "t": 11989.0,
+                "d": 211.0
+              },
+              {
+                "w": "be",
+                "t": 12201.0,
+                "d": 128.0
+              },
+              {
+                "w": "lost",
+                "t": 12329.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p03.png",
+      "shot": "overhead view of small pilot boat approaching towering hull",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "So the Periplus says: only with trappaga and kotymba, local boats with skilled pilots, could foreign ships cross the bar and find the river's true mouth.",
+            "hi": "तो पेरीप्लस कहता है: सिर्फ त्रप्पग और कोट्यम्बा — देसी नावें, चालाक पायलटों संग — से ही परदेसी जहाज़ रेती पार कर सही मुहाना पकड़ सकते थे।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p03_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "So",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 127.0
+              },
+              {
+                "w": "Periplus",
+                "t": 457.0,
+                "d": 510.0
+              },
+              {
+                "w": "says",
+                "t": 968.0,
+                "d": 595.0
+              },
+              {
+                "w": "only",
+                "t": 1819.0,
+                "d": 468.0
+              },
+              {
+                "w": "with",
+                "t": 2287.0,
+                "d": 211.0
+              },
+              {
+                "w": "trappaga",
+                "t": 2498.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 3009.0,
+                "d": 298.0
+              },
+              {
+                "w": "kotymba",
+                "t": 3308.0,
+                "d": 638.0
+              },
+              {
+                "w": "local",
+                "t": 4414.0,
+                "d": 468.0
+              },
+              {
+                "w": "boats",
+                "t": 4882.0,
+                "d": 340.0
+              },
+              {
+                "w": "with",
+                "t": 5223.0,
+                "d": 212.0
+              },
+              {
+                "w": "skilled",
+                "t": 5436.0,
+                "d": 340.0
+              },
+              {
+                "w": "pilots",
+                "t": 5776.0,
+                "d": 638.0
+              },
+              {
+                "w": "could",
+                "t": 6670.0,
+                "d": 255.0
+              },
+              {
+                "w": "foreign",
+                "t": 6925.0,
+                "d": 425.0
+              },
+              {
+                "w": "ships",
+                "t": 7351.0,
+                "d": 297.0
+              },
+              {
+                "w": "cross",
+                "t": 7648.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 7989.0,
+                "d": 127.0
+              },
+              {
+                "w": "bar",
+                "t": 8117.0,
+                "d": 467.0
+              },
+              {
+                "w": "and",
+                "t": 8584.0,
+                "d": 340.0
+              },
+              {
+                "w": "find",
+                "t": 8924.0,
+                "d": 298.0
+              },
+              {
+                "w": "the",
+                "t": 9223.0,
+                "d": 127.0
+              },
+              {
+                "w": "river's",
+                "t": 9351.0,
+                "d": 425.0
+              },
+              {
+                "w": "true",
+                "t": 9776.0,
+                "d": 0.0
+              },
+              {
+                "w": "mouth",
+                "t": 9776.0,
+                "d": 0.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/bharuch_and_the_pilot_boats/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/bharuch_and_the_pilot_boats/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He reads the hidden channels by foam and color, steering strangers through waters that have drowned careless hulls for generations.",
+            "hi": "झाग और रंग से वो छुपी लहरें पढ़ लेता है, बेख़बर जहाज़ों को पीढ़ियों से डुबोती लहरों में वो अनजानियों की नावें बचा ले जाता है।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/action/action_auto_en.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "reads",
+                "t": 310.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 678.0,
+                "d": 137.0
+              },
+              {
+                "w": "hidden",
+                "t": 816.0,
+                "d": 367.0
+              },
+              {
+                "w": "channels",
+                "t": 1183.0,
+                "d": 551.0
+              },
+              {
+                "w": "by",
+                "t": 1735.0,
+                "d": 229.0
+              },
+              {
+                "w": "foam",
+                "t": 1965.0,
+                "d": 505.0
+              },
+              {
+                "w": "and",
+                "t": 2471.0,
+                "d": 274.0
+              },
+              {
+                "w": "color",
+                "t": 2745.0,
+                "d": 459.0
+              },
+              {
+                "w": "steering",
+                "t": 3849.0,
+                "d": 551.0
+              },
+              {
+                "w": "strangers",
+                "t": 4401.0,
+                "d": 782.0
+              },
+              {
+                "w": "through",
+                "t": 5183.0,
+                "d": 367.0
+              },
+              {
+                "w": "waters",
+                "t": 5551.0,
+                "d": 643.0
+              },
+              {
+                "w": "that",
+                "t": 6195.0,
+                "d": 229.0
+              },
+              {
+                "w": "have",
+                "t": 6425.0,
+                "d": 229.0
+              },
+              {
+                "w": "drowned",
+                "t": 6655.0,
+                "d": 505.0
+              },
+              {
+                "w": "careless",
+                "t": 7206.0,
+                "d": 505.0
+              },
+              {
+                "w": "hulls",
+                "t": 7712.0,
+                "d": 459.0
+              },
+              {
+                "w": "for",
+                "t": 8172.0,
+                "d": 229.0
+              },
+              {
+                "w": "generations",
+                "t": 8402.0,
+                "d": 1103.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p04.png",
+      "shot": "tight medium of pilot climbing rope ladder",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Anchor where I say. Here, the river hides teeth beneath the foam.",
+            "hi": "जहाँ कहूँ, वहीं लंगर डालो। नीचे झाग के अंदर नदी के दाँत छिपे हैं।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p04_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Anchor",
+                "t": 49.0,
+                "d": 392.2
+              },
+              {
+                "w": "where",
+                "t": 441.2,
+                "d": 355.4
+              },
+              {
+                "w": "I",
+                "t": 870.1,
+                "d": 196.1
+              },
+              {
+                "w": "say",
+                "t": 1066.2,
+                "d": 330.9
+              },
+              {
+                "w": "Here",
+                "t": 2279.4,
+                "d": 330.9
+              },
+              {
+                "w": "the",
+                "t": 2830.9,
+                "d": 110.3
+              },
+              {
+                "w": "river",
+                "t": 2941.2,
+                "d": 330.9
+              },
+              {
+                "w": "hides",
+                "t": 3272.0,
+                "d": 441.2
+              },
+              {
+                "w": "teeth",
+                "t": 3750.0,
+                "d": 318.6
+              },
+              {
+                "w": "beneath",
+                "t": 4117.7,
+                "d": 441.2
+              },
+              {
+                "w": "the",
+                "t": 4620.1,
+                "d": 159.3
+              },
+              {
+                "w": "foam",
+                "t": 4779.4,
+                "d": 441.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p05.png",
+      "shot": "interior deck shot, pilot at the steering oar of the foreign vessel",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "To the outsider, this was a technical note in a trade manual. To the pilot, it was a profession: reading winds, river, and invisible sand from his childhood.",
+            "hi": "बाहरी के लिए ये बस किताब में नोट था। पायलट के लिए ये रोज़ी थी: बचपन से हवा, नदी और अदृश्य रेत पढ़ने की कला।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p05_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "To",
+                "t": 117.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 244.0,
+                "d": 212.0
+              },
+              {
+                "w": "outsider",
+                "t": 457.0,
+                "d": 808.0
+              },
+              {
+                "w": "this",
+                "t": 1734.0,
+                "d": 340.0
+              },
+              {
+                "w": "was",
+                "t": 2074.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 2287.0,
+                "d": 127.0
+              },
+              {
+                "w": "technical",
+                "t": 2414.0,
+                "d": 594.0
+              },
+              {
+                "w": "note",
+                "t": 3009.0,
+                "d": 384.0
+              },
+              {
+                "w": "in",
+                "t": 3436.0,
+                "d": 126.0
+              },
+              {
+                "w": "a",
+                "t": 3562.0,
+                "d": 127.0
+              },
+              {
+                "w": "trade",
+                "t": 3690.0,
+                "d": 340.0
+              },
+              {
+                "w": "manual",
+                "t": 4030.0,
+                "d": 1447.0
+              },
+              {
+                "w": "To",
+                "t": 5606.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 5776.0,
+                "d": 170.0
+              },
+              {
+                "w": "pilot",
+                "t": 5946.0,
+                "d": 680.0
+              },
+              {
+                "w": "it",
+                "t": 6840.0,
+                "d": 212.0
+              },
+              {
+                "w": "was",
+                "t": 7053.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 7223.0,
+                "d": 85.0
+              },
+              {
+                "w": "profession",
+                "t": 7308.0,
+                "d": 978.0
+              },
+              {
+                "w": "reading",
+                "t": 8500.0,
+                "d": 424.0
+              },
+              {
+                "w": "winds",
+                "t": 8924.0,
+                "d": 596.0
+              },
+              {
+                "w": "river",
+                "t": 9606.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 10372.0,
+                "d": 297.0
+              },
+              {
+                "w": "invisible",
+                "t": 10670.0,
+                "d": 722.0
+              },
+              {
+                "w": "sand",
+                "t": 11392.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 11775.0,
+                "d": 213.0
+              },
+              {
+                "w": "his",
+                "t": 11989.0,
+                "d": 211.0
+              },
+              {
+                "w": "childhood",
+                "t": 12201.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p06.png",
+      "shot": "dynamic low wide showing ship threading between visible sandbanks",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Periplus warns: only such pilots knew the channels. The Narmada's bar was not a line on a map. It shifted with each season, storm and flood.",
+            "hi": "पेरीप्लस चेतावनी देता है: रास्ता सिर्फ ऐसे पायलट ही जानते हैं। नर्मदा की रेती नक्शे की लकीर नहीं, हर मौसम, आँधी, बाढ़ के साथ खिसकती रहती है।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p06_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "Periplus",
+                "t": 310.0,
+                "d": 520.0
+              },
+              {
+                "w": "warns",
+                "t": 830.0,
+                "d": 760.0
+              },
+              {
+                "w": "only",
+                "t": 2070.0,
+                "d": 440.0
+              },
+              {
+                "w": "such",
+                "t": 2510.0,
+                "d": 319.0
+              },
+              {
+                "w": "pilots",
+                "t": 2829.0,
+                "d": 480.0
+              },
+              {
+                "w": "knew",
+                "t": 3309.0,
+                "d": 201.0
+              },
+              {
+                "w": "the",
+                "t": 3510.0,
+                "d": 120.0
+              },
+              {
+                "w": "channels",
+                "t": 3630.0,
+                "d": 1480.0
+              },
+              {
+                "w": "The",
+                "t": 5190.0,
+                "d": 240.0
+              },
+              {
+                "w": "Narmada's",
+                "t": 5430.0,
+                "d": 560.0
+              },
+              {
+                "w": "bar",
+                "t": 5990.0,
+                "d": 320.0
+              },
+              {
+                "w": "was",
+                "t": 6310.0,
+                "d": 240.0
+              },
+              {
+                "w": "not",
+                "t": 6550.0,
+                "d": 280.0
+              },
+              {
+                "w": "a",
+                "t": 6830.0,
+                "d": 40.0
+              },
+              {
+                "w": "line",
+                "t": 6870.0,
+                "d": 280.0
+              },
+              {
+                "w": "on",
+                "t": 7150.0,
+                "d": 120.0
+              },
+              {
+                "w": "a",
+                "t": 7270.0,
+                "d": 80.0
+              },
+              {
+                "w": "map",
+                "t": 7350.0,
+                "d": 1000.0
+              },
+              {
+                "w": "It",
+                "t": 8469.0,
+                "d": 240.0
+              },
+              {
+                "w": "shifted",
+                "t": 8709.0,
+                "d": 481.0
+              },
+              {
+                "w": "with",
+                "t": 9190.0,
+                "d": 240.0
+              },
+              {
+                "w": "each",
+                "t": 9469.0,
+                "d": 281.0
+              },
+              {
+                "w": "season",
+                "t": 9750.0,
+                "d": 760.0
+              },
+              {
+                "w": "storm",
+                "t": 10549.0,
+                "d": 840.0
+              },
+              {
+                "w": "and",
+                "t": 11430.0,
+                "d": 240.0
+              },
+              {
+                "w": "flood",
+                "t": 11670.0,
+                "d": 559.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p07.png",
+      "shot": "wide shot of the river widening inland with town in distance",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Beyond the bar lay the port-city itself, its warehouses and customs houses standing for a wider network, villages, caravans, guilds, and royal officials behind them.",
+            "hi": "रेती के पार ही बसता था असली बंदरगाह — गोदाम, चुंगी-घर और उनके पीछे फैला जाल — गाँव, काफिले, संघ और राजकर्मी।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p07_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Beyond",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 542.0,
+                "d": 127.0
+              },
+              {
+                "w": "bar",
+                "t": 670.0,
+                "d": 595.0
+              },
+              {
+                "w": "lay",
+                "t": 1351.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 1691.0,
+                "d": 170.0
+              },
+              {
+                "w": "port-city",
+                "t": 1861.0,
+                "d": 553.0
+              },
+              {
+                "w": "itself",
+                "t": 2414.0,
+                "d": 764.0
+              },
+              {
+                "w": "its",
+                "t": 3647.0,
+                "d": 298.0
+              },
+              {
+                "w": "warehouses",
+                "t": 3946.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 4840.0,
+                "d": 340.0
+              },
+              {
+                "w": "customs",
+                "t": 5180.0,
+                "d": 553.0
+              },
+              {
+                "w": "houses",
+                "t": 5734.0,
+                "d": 468.0
+              },
+              {
+                "w": "standing",
+                "t": 6202.0,
+                "d": 468.0
+              },
+              {
+                "w": "for",
+                "t": 6670.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 6882.0,
+                "d": 85.0
+              },
+              {
+                "w": "wider",
+                "t": 6968.0,
+                "d": 425.0
+              },
+              {
+                "w": "network",
+                "t": 7393.0,
+                "d": 808.0
+              },
+              {
+                "w": "villages",
+                "t": 8202.0,
+                "d": 936.0
+              },
+              {
+                "w": "caravans",
+                "t": 9264.0,
+                "d": 937.0
+              },
+              {
+                "w": "guilds",
+                "t": 10243.0,
+                "d": 852.0
+              },
+              {
+                "w": "and",
+                "t": 11222.0,
+                "d": 426.0
+              },
+              {
+                "w": "royal",
+                "t": 11648.0,
+                "d": 255.0
+              },
+              {
+                "w": "officials",
+                "t": 11904.0,
+                "d": 595.0
+              },
+              {
+                "w": "behind",
+                "t": 12500.0,
+                "d": 424.0
+              },
+              {
+                "w": "them",
+                "t": 12924.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p08.png",
+      "shot": "crowded dockside wide shot",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Periplus lists the trade: into Barygaza came wine, copper, tin, coral, and Roman coins; out went cotton textiles, carnelian, agate, ivory, nard and long pepper.",
+            "hi": "पेरीप्लस सौदा गिनता है: बारीगज़ा में आती थी शराब, ताँबा, राँगा, मूँगा और रोमी सिक्के; यहाँ से जाती सूती मलमल, माणिक्य, अकीक, हाथीदाँत, जटामांसी और लंबी मिर्च।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p08_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Periplus",
+                "t": 329.0,
+                "d": 553.0
+              },
+              {
+                "w": "lists",
+                "t": 882.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 1351.0,
+                "d": 170.0
+              },
+              {
+                "w": "trade",
+                "t": 1521.0,
+                "d": 595.0
+              },
+              {
+                "w": "into",
+                "t": 2498.0,
+                "d": 384.0
+              },
+              {
+                "w": "Barygaza",
+                "t": 2882.0,
+                "d": 764.0
+              },
+              {
+                "w": "came",
+                "t": 3647.0,
+                "d": 298.0
+              },
+              {
+                "w": "wine",
+                "t": 3946.0,
+                "d": 638.0
+              },
+              {
+                "w": "copper",
+                "t": 4627.0,
+                "d": 680.0
+              },
+              {
+                "w": "tin",
+                "t": 5436.0,
+                "d": 510.0
+              },
+              {
+                "w": "coral",
+                "t": 6159.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 6797.0,
+                "d": 382.0
+              },
+              {
+                "w": "Roman",
+                "t": 7180.0,
+                "d": 340.0
+              },
+              {
+                "w": "coins",
+                "t": 7521.0,
+                "d": 638.0
+              },
+              {
+                "w": "out",
+                "t": 8541.0,
+                "d": 341.0
+              },
+              {
+                "w": "went",
+                "t": 8882.0,
+                "d": 296.0
+              },
+              {
+                "w": "cotton",
+                "t": 9179.0,
+                "d": 426.0
+              },
+              {
+                "w": "textiles",
+                "t": 9647.0,
+                "d": 852.0
+              },
+              {
+                "w": "carnelian",
+                "t": 10711.0,
+                "d": 937.0
+              },
+              {
+                "w": "agate",
+                "t": 11691.0,
+                "d": 723.0
+              },
+              {
+                "w": "ivory",
+                "t": 12670.0,
+                "d": 808.0
+              },
+              {
+                "w": "nard",
+                "t": 13563.0,
+                "d": 594.0
+              },
+              {
+                "w": "and",
+                "t": 14202.0,
+                "d": 425.0
+              },
+              {
+                "w": "long",
+                "t": 14627.0,
+                "d": 424.0
+              },
+              {
+                "w": "pepper",
+                "t": 15052.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p09.png",
+      "shot": "medium shot of pilot in conversation with a local merchant near bales",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Your cotton rides their coin. My river brings their hulls to your door.",
+            "hi": "उनके सिक्कों पर तुम्हारी सूत चढ़ती है। मेरी नदी उनके जहाज़ तुम्हारे घाट तक खींच लाती है।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p09_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Your",
+                "t": 49.0,
+                "d": 245.1
+              },
+              {
+                "w": "cotton",
+                "t": 294.1,
+                "d": 465.7
+              },
+              {
+                "w": "rides",
+                "t": 759.8,
+                "d": 416.7
+              },
+              {
+                "w": "their",
+                "t": 1176.5,
+                "d": 318.6
+              },
+              {
+                "w": "coin",
+                "t": 1507.3,
+                "d": 428.9
+              },
+              {
+                "w": "My",
+                "t": 2794.1,
+                "d": 196.1
+              },
+              {
+                "w": "river",
+                "t": 2990.2,
+                "d": 355.4
+              },
+              {
+                "w": "brings",
+                "t": 3345.6,
+                "d": 367.7
+              },
+              {
+                "w": "their",
+                "t": 3713.2,
+                "d": 343.1
+              },
+              {
+                "w": "hulls",
+                "t": 4056.4,
+                "d": 392.2
+              },
+              {
+                "w": "to",
+                "t": 4497.5,
+                "d": 85.8
+              },
+              {
+                "w": "your",
+                "t": 4583.3,
+                "d": 294.1
+              },
+              {
+                "w": "door",
+                "t": 4877.5,
+                "d": 294.1
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p10.png",
+      "shot": "split-focus shot: foreground on a weighing scale, background on customs officials",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Periplus notes customs dues and royal interest. Its writer calls the king Mambanus, often linked to Nahapana, though modern scholars debate the exact chronology.",
+            "hi": "पेरीप्लस चुंगी और राजा की दिलचस्पी भी लिखता है। लेखक राजा को माम्बानुस कहता है, जिसे अक्सर नभपान से जोड़ा जाता है, पर विद्वानों में तारीख़ पर बहस है।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p10_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Periplus",
+                "t": 287.0,
+                "d": 510.0
+              },
+              {
+                "w": "notes",
+                "t": 797.0,
+                "d": 425.0
+              },
+              {
+                "w": "customs",
+                "t": 1223.0,
+                "d": 510.0
+              },
+              {
+                "w": "dues",
+                "t": 1734.0,
+                "d": 424.0
+              },
+              {
+                "w": "and",
+                "t": 2158.0,
+                "d": 297.0
+              },
+              {
+                "w": "royal",
+                "t": 2456.0,
+                "d": 256.0
+              },
+              {
+                "w": "interest",
+                "t": 2712.0,
+                "d": 1021.0
+              },
+              {
+                "w": "Its",
+                "t": 3734.0,
+                "d": 296.0
+              },
+              {
+                "w": "writer",
+                "t": 4030.0,
+                "d": 384.0
+              },
+              {
+                "w": "calls",
+                "t": 4414.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 4755.0,
+                "d": 170.0
+              },
+              {
+                "w": "king",
+                "t": 4925.0,
+                "d": 255.0
+              },
+              {
+                "w": "Mambanus",
+                "t": 5180.0,
+                "d": 851.0
+              },
+              {
+                "w": "often",
+                "t": 6202.0,
+                "d": 510.0
+              },
+              {
+                "w": "linked",
+                "t": 6712.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 6968.0,
+                "d": 85.0
+              },
+              {
+                "w": "Nahapana",
+                "t": 7053.0,
+                "d": 1063.0
+              },
+              {
+                "w": "though",
+                "t": 8244.0,
+                "d": 296.0
+              },
+              {
+                "w": "modern",
+                "t": 8541.0,
+                "d": 297.0
+              },
+              {
+                "w": "scholars",
+                "t": 8839.0,
+                "d": 469.0
+              },
+              {
+                "w": "debate",
+                "t": 9308.0,
+                "d": 509.0
+              },
+              {
+                "w": "the",
+                "t": 9861.0,
+                "d": 170.0
+              },
+              {
+                "w": "exact",
+                "t": 10031.0,
+                "d": 468.0
+              },
+              {
+                "w": "chronology",
+                "t": 10500.0,
+                "d": 892.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p11.png",
+      "shot": "interior warehouse shot, dim and crowded",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Bronze coins from far-off cities piled beside beads from Saurashtra and tusks from forests. Pliny, writing at Rome, complained that Indian luxuries drained Roman gold.",
+            "hi": "दूर शहरों के कांसे के सिक्के, सौराष्ट्र की मनकियाँ, जंगलों की दाँतें एक ढेर में। रोमी लेखक प्लिनी शिकायत करता है कि भारतीय शान-शौकत रोमी सोना चूस रही है।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p11_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Bronze",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "coins",
+                "t": 585.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 968.0,
+                "d": 212.0
+              },
+              {
+                "w": "far-off",
+                "t": 1180.0,
+                "d": 425.0
+              },
+              {
+                "w": "cities",
+                "t": 1606.0,
+                "d": 680.0
+              },
+              {
+                "w": "piled",
+                "t": 2287.0,
+                "d": 339.0
+              },
+              {
+                "w": "beside",
+                "t": 2626.0,
+                "d": 382.0
+              },
+              {
+                "w": "beads",
+                "t": 3009.0,
+                "d": 469.0
+              },
+              {
+                "w": "from",
+                "t": 3478.0,
+                "d": 255.0
+              },
+              {
+                "w": "Saurashtra",
+                "t": 3734.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 4372.0,
+                "d": 595.0
+              },
+              {
+                "w": "tusks",
+                "t": 4968.0,
+                "d": 425.0
+              },
+              {
+                "w": "from",
+                "t": 5393.0,
+                "d": 255.0
+              },
+              {
+                "w": "forests",
+                "t": 5648.0,
+                "d": 765.0
+              },
+              {
+                "w": "Pliny",
+                "t": 6797.0,
+                "d": 765.0
+              },
+              {
+                "w": "writing",
+                "t": 7734.0,
+                "d": 425.0
+              },
+              {
+                "w": "at",
+                "t": 8159.0,
+                "d": 85.0
+              },
+              {
+                "w": "Rome",
+                "t": 8244.0,
+                "d": 594.0
+              },
+              {
+                "w": "complained",
+                "t": 8882.0,
+                "d": 978.0
+              },
+              {
+                "w": "that",
+                "t": 9861.0,
+                "d": 296.0
+              },
+              {
+                "w": "Indian",
+                "t": 10202.0,
+                "d": 340.0
+              },
+              {
+                "w": "luxuries",
+                "t": 10542.0,
+                "d": 723.0
+              },
+              {
+                "w": "drained",
+                "t": 11265.0,
+                "d": 509.0
+              },
+              {
+                "w": "Roman",
+                "t": 11775.0,
+                "d": 469.0
+              },
+              {
+                "w": "gold",
+                "t": 12244.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "triumph",
+      "bg": "assets/bharuch_and_the_pilot_boats/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/bharuch_and_the_pilot_boats/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On land as at sea, his word carries weight; a single command keeps cargo, coin, and tempers from shattering.",
+            "hi": "ज़मीन हो या समंदर, उसकी एक आवाज़ से ही माल, पैसा और लोगों का गुस्सा काबू में रहता है।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/action/action_auto2_en.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 72.0,
+                "d": 250.0
+              },
+              {
+                "w": "land",
+                "t": 322.0,
+                "d": 333.0
+              },
+              {
+                "w": "as",
+                "t": 656.0,
+                "d": 125.0
+              },
+              {
+                "w": "at",
+                "t": 781.0,
+                "d": 208.0
+              },
+              {
+                "w": "sea",
+                "t": 989.0,
+                "d": 291.0
+              },
+              {
+                "w": "his",
+                "t": 1447.0,
+                "d": 333.0
+              },
+              {
+                "w": "word",
+                "t": 1781.0,
+                "d": 332.0
+              },
+              {
+                "w": "carries",
+                "t": 2113.0,
+                "d": 416.0
+              },
+              {
+                "w": "weight",
+                "t": 2530.0,
+                "d": 583.0
+              },
+              {
+                "w": "a",
+                "t": 3322.0,
+                "d": 123.0
+              },
+              {
+                "w": "single",
+                "t": 3446.0,
+                "d": 459.0
+              },
+              {
+                "w": "command",
+                "t": 3906.0,
+                "d": 416.0
+              },
+              {
+                "w": "keeps",
+                "t": 4322.0,
+                "d": 375.0
+              },
+              {
+                "w": "cargo",
+                "t": 4697.0,
+                "d": 750.0
+              },
+              {
+                "w": "coin",
+                "t": 5489.0,
+                "d": 625.0
+              },
+              {
+                "w": "and",
+                "t": 6156.0,
+                "d": 333.0
+              },
+              {
+                "w": "tempers",
+                "t": 6489.0,
+                "d": 500.0
+              },
+              {
+                "w": "from",
+                "t": 6989.0,
+                "d": 166.0
+              },
+              {
+                "w": "shattering",
+                "t": 7156.0,
+                "d": 708.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p12.png",
+      "shot": "somber medium shot, pilot passing by a group of finely dressed youths",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Periplus also records that slave-boys and musical girls were imported here for the ruler, showing that luxury trade at Barygaza included human lives as goods.",
+            "hi": "पेरीप्लस में ये भी दर्ज है कि यहाँ शासक के लिए ग़ुलाम लड़के और नौचनियाँ लाई जाती थीं — बताता है कि बारीगज़ा की शानो-शौकत की मंडी में इंसान भी माल थे।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p12_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "Periplus",
+                "t": 244.0,
+                "d": 595.0
+              },
+              {
+                "w": "also",
+                "t": 882.0,
+                "d": 340.0
+              },
+              {
+                "w": "records",
+                "t": 1223.0,
+                "d": 510.0
+              },
+              {
+                "w": "that",
+                "t": 1734.0,
+                "d": 212.0
+              },
+              {
+                "w": "slave-boys",
+                "t": 1946.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 2670.0,
+                "d": 170.0
+              },
+              {
+                "w": "musical",
+                "t": 2840.0,
+                "d": 468.0
+              },
+              {
+                "w": "girls",
+                "t": 3308.0,
+                "d": 296.0
+              },
+              {
+                "w": "were",
+                "t": 3605.0,
+                "d": 213.0
+              },
+              {
+                "w": "imported",
+                "t": 3819.0,
+                "d": 553.0
+              },
+              {
+                "w": "here",
+                "t": 4372.0,
+                "d": 255.0
+              },
+              {
+                "w": "for",
+                "t": 4627.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 4755.0,
+                "d": 127.0
+              },
+              {
+                "w": "ruler",
+                "t": 4882.0,
+                "d": 638.0
+              },
+              {
+                "w": "showing",
+                "t": 5819.0,
+                "d": 510.0
+              },
+              {
+                "w": "that",
+                "t": 6329.0,
+                "d": 170.0
+              },
+              {
+                "w": "luxury",
+                "t": 6500.0,
+                "d": 553.0
+              },
+              {
+                "w": "trade",
+                "t": 7053.0,
+                "d": 382.0
+              },
+              {
+                "w": "at",
+                "t": 7436.0,
+                "d": 255.0
+              },
+              {
+                "w": "Barygaza",
+                "t": 7691.0,
+                "d": 892.0
+              },
+              {
+                "w": "included",
+                "t": 8584.0,
+                "d": 639.0
+              },
+              {
+                "w": "human",
+                "t": 9223.0,
+                "d": 340.0
+              },
+              {
+                "w": "lives",
+                "t": 9563.0,
+                "d": 382.0
+              },
+              {
+                "w": "as",
+                "t": 9946.0,
+                "d": 296.0
+              },
+              {
+                "w": "goods",
+                "t": 10243.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p13.png",
+      "shot": "close-up on pilot’s contemplative face looking back toward the town",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "The tide carries spices and sorrow together. We steer them both.",
+            "hi": "ज्वार मसाले और मायानें साथ बहाता है। हम दोनों को खेते हैं।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p13_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 49.0,
+                "d": 85.8
+              },
+              {
+                "w": "tide",
+                "t": 134.8,
+                "d": 343.1
+              },
+              {
+                "w": "carries",
+                "t": 478.0,
+                "d": 502.5
+              },
+              {
+                "w": "spices",
+                "t": 1041.7,
+                "d": 588.2
+              },
+              {
+                "w": "and",
+                "t": 1703.4,
+                "d": 208.3
+              },
+              {
+                "w": "sorrow",
+                "t": 1911.8,
+                "d": 355.4
+              },
+              {
+                "w": "together",
+                "t": 2291.7,
+                "d": 527.0
+              },
+              {
+                "w": "We",
+                "t": 3688.7,
+                "d": 196.1
+              },
+              {
+                "w": "steer",
+                "t": 3909.3,
+                "d": 416.7
+              },
+              {
+                "w": "them",
+                "t": 4326.0,
+                "d": 294.1
+              },
+              {
+                "w": "both",
+                "t": 4620.1,
+                "d": 392.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p14.png",
+      "shot": "wide shot of caravans heading inland from port",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Archaeology and texts together show Barygaza as a node, not an isolated town, linked inland by caravans, and seaward by ships trusting pilots for the most dangerous stretch.",
+            "hi": "खुदाइयां और लिखतें मिलकर दिखाती हैं कि बारीगज़ा कोई अकेला कस्बा नहीं, पूरा जोड़ था — भीतर की तरफ़ काफिलों से, और समंदर की तरफ़ जहाज़ों से, जो सबसे ख़तरनाक मोड़ पर पायलटों पर भरोसा करते थे।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p14_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Archaeology",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 840.0,
+                "d": 212.0
+              },
+              {
+                "w": "texts",
+                "t": 1053.0,
+                "d": 468.0
+              },
+              {
+                "w": "together",
+                "t": 1521.0,
+                "d": 680.0
+              },
+              {
+                "w": "show",
+                "t": 2202.0,
+                "d": 296.0
+              },
+              {
+                "w": "Barygaza",
+                "t": 2498.0,
+                "d": 638.0
+              },
+              {
+                "w": "as",
+                "t": 3137.0,
+                "d": 256.0
+              },
+              {
+                "w": "a",
+                "t": 3393.0,
+                "d": 85.0
+              },
+              {
+                "w": "node",
+                "t": 3478.0,
+                "d": 510.0
+              },
+              {
+                "w": "not",
+                "t": 4414.0,
+                "d": 255.0
+              },
+              {
+                "w": "an",
+                "t": 4670.0,
+                "d": 170.0
+              },
+              {
+                "w": "isolated",
+                "t": 4840.0,
+                "d": 680.0
+              },
+              {
+                "w": "town",
+                "t": 5521.0,
+                "d": 468.0
+              },
+              {
+                "w": "linked",
+                "t": 6159.0,
+                "d": 468.0
+              },
+              {
+                "w": "inland",
+                "t": 6670.0,
+                "d": 425.0
+              },
+              {
+                "w": "by",
+                "t": 7095.0,
+                "d": 212.0
+              },
+              {
+                "w": "caravans",
+                "t": 7308.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 8159.0,
+                "d": 340.0
+              },
+              {
+                "w": "seaward",
+                "t": 8500.0,
+                "d": 509.0
+              },
+              {
+                "w": "by",
+                "t": 9009.0,
+                "d": 170.0
+              },
+              {
+                "w": "ships",
+                "t": 9179.0,
+                "d": 384.0
+              },
+              {
+                "w": "trusting",
+                "t": 9563.0,
+                "d": 553.0
+              },
+              {
+                "w": "pilots",
+                "t": 10117.0,
+                "d": 425.0
+              },
+              {
+                "w": "for",
+                "t": 10542.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 10670.0,
+                "d": 126.0
+              },
+              {
+                "w": "most",
+                "t": 10796.0,
+                "d": 340.0
+              },
+              {
+                "w": "dangerous",
+                "t": 11137.0,
+                "d": 511.0
+              },
+              {
+                "w": "stretch",
+                "t": 11648.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "battle",
+      "slices": [
+        {
+          "img": "assets/bharuch_and_the_pilot_boats/split_auto/s0.png",
+          "slogan": {
+            "en": "Narmada guides, we do not yield",
+            "hi": "नर्मदा मार्ग, हम नहीं झुकते"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/bharuch_and_the_pilot_boats/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/bharuch_and_the_pilot_boats/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From river bar to caravan road, his choices stitch Barygaza into the wide, restless fabric of the ocean world.",
+            "hi": "नदी घाट से कारवां राह तक, वही भरेग़ज़ा को बेचैन समुंदर दुनिया से जोड़ देता है।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/split/split_auto_en.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "river",
+                "t": 350.0,
+                "d": 280.0
+              },
+              {
+                "w": "bar",
+                "t": 630.0,
+                "d": 280.0
+              },
+              {
+                "w": "to",
+                "t": 910.0,
+                "d": 160.0
+              },
+              {
+                "w": "caravan",
+                "t": 1070.0,
+                "d": 520.0
+              },
+              {
+                "w": "road",
+                "t": 1590.0,
+                "d": 640.0
+              },
+              {
+                "w": "his",
+                "t": 2230.0,
+                "d": 280.0
+              },
+              {
+                "w": "choices",
+                "t": 2510.0,
+                "d": 439.0
+              },
+              {
+                "w": "stitch",
+                "t": 2949.0,
+                "d": 480.0
+              },
+              {
+                "w": "Barygaza",
+                "t": 3429.0,
+                "d": 801.0
+              },
+              {
+                "w": "into",
+                "t": 4230.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 4470.0,
+                "d": 160.0
+              },
+              {
+                "w": "wide",
+                "t": 4630.0,
+                "d": 640.0
+              },
+              {
+                "w": "restless",
+                "t": 5350.0,
+                "d": 560.0
+              },
+              {
+                "w": "fabric",
+                "t": 5910.0,
+                "d": 520.0
+              },
+              {
+                "w": "of",
+                "t": 6470.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 6630.0,
+                "d": 200.0
+              },
+              {
+                "w": "ocean",
+                "t": 6830.0,
+                "d": 360.0
+              },
+              {
+                "w": "world",
+                "t": 7190.0,
+                "d": 440.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p15.png",
+      "shot": "evening riverside wide shot, pilot preparing his boat again",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Each arrival meant fresh risk: storms, shifting bars, politics upriver. Yet as long as pilots could read their river, the ocean's wealth would keep threading through Bharuch.",
+            "hi": "हर पहुँच नया ख़तरा लाती: तूफ़ान, बदलती रेती, ऊपर का राज-सियासत। पर जब तक पायलट अपनी नदी पढ़ लेते, समंदर की दौलत भरूच से होकर गुजरती रहती।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p15_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Each",
+                "t": 70.0,
+                "d": 360.0
+              },
+              {
+                "w": "arrival",
+                "t": 470.0,
+                "d": 480.0
+              },
+              {
+                "w": "meant",
+                "t": 950.0,
+                "d": 280.0
+              },
+              {
+                "w": "fresh",
+                "t": 1230.0,
+                "d": 400.0
+              },
+              {
+                "w": "risk",
+                "t": 1630.0,
+                "d": 640.0
+              },
+              {
+                "w": "storms",
+                "t": 2429.0,
+                "d": 601.0
+              },
+              {
+                "w": "shifting",
+                "t": 3030.0,
+                "d": 879.0
+              },
+              {
+                "w": "bars",
+                "t": 3909.0,
+                "d": 601.0
+              },
+              {
+                "w": "politics",
+                "t": 4670.0,
+                "d": 560.0
+              },
+              {
+                "w": "upriver",
+                "t": 5230.0,
+                "d": 760.0
+              },
+              {
+                "w": "Yet",
+                "t": 6630.0,
+                "d": 320.0
+              },
+              {
+                "w": "as",
+                "t": 6950.0,
+                "d": 200.0
+              },
+              {
+                "w": "long",
+                "t": 7150.0,
+                "d": 280.0
+              },
+              {
+                "w": "as",
+                "t": 7430.0,
+                "d": 160.0
+              },
+              {
+                "w": "pilots",
+                "t": 7590.0,
+                "d": 400.0
+              },
+              {
+                "w": "could",
+                "t": 7990.0,
+                "d": 199.0
+              },
+              {
+                "w": "read",
+                "t": 8189.0,
+                "d": 161.0
+              },
+              {
+                "w": "their",
+                "t": 8350.0,
+                "d": 199.0
+              },
+              {
+                "w": "river",
+                "t": 8549.0,
+                "d": 600.0
+              },
+              {
+                "w": "the",
+                "t": 9350.0,
+                "d": 279.0
+              },
+              {
+                "w": "ocean's",
+                "t": 9629.0,
+                "d": 481.0
+              },
+              {
+                "w": "wealth",
+                "t": 10110.0,
+                "d": 320.0
+              },
+              {
+                "w": "would",
+                "t": 10430.0,
+                "d": 199.0
+              },
+              {
+                "w": "keep",
+                "t": 10629.0,
+                "d": 321.0
+              },
+              {
+                "w": "threading",
+                "t": 10950.0,
+                "d": 400.0
+              },
+              {
+                "w": "through",
+                "t": 11350.0,
+                "d": 279.0
+              },
+              {
+                "w": "Bharuch",
+                "t": 11629.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/bharuch_and_the_pilot_boats/img/p16.png",
+      "shot": "high, contemplative wide shot over estuary, sea and starry sky",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today the Periplus and Pliny survive as texts, and ruins mark the old port; but the story of Barygaza's pilots shows how, even two thousand years ago, local knowledge commanded a global sea.",
+            "hi": "आज पेरीप्लस और प्लिनी किताबों में बचे हैं, खंडहर पुराने बंदरगाह की निशानी हैं; पर बारीगज़ा के पायलटों की कहानी दिखाती है कि दो हज़ार साल पहले भी देसी हुनर ने दुनिया भर के समंदर को हाँक रखा था।"
+          },
+          "audio": {
+            "en": "assets/bharuch_and_the_pilot_boats/audio/en/p16_0.mp3",
+            "hi": "assets/bharuch_and_the_pilot_boats/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 414.0,
+                "d": 170.0
+              },
+              {
+                "w": "Periplus",
+                "t": 585.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 1138.0,
+                "d": 255.0
+              },
+              {
+                "w": "Pliny",
+                "t": 1393.0,
+                "d": 425.0
+              },
+              {
+                "w": "survive",
+                "t": 1819.0,
+                "d": 637.0
+              },
+              {
+                "w": "as",
+                "t": 2456.0,
+                "d": 298.0
+              },
+              {
+                "w": "texts",
+                "t": 2755.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 3478.0,
+                "d": 468.0
+              },
+              {
+                "w": "ruins",
+                "t": 3946.0,
+                "d": 340.0
+              },
+              {
+                "w": "mark",
+                "t": 4287.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 4542.0,
+                "d": 212.0
+              },
+              {
+                "w": "old",
+                "t": 4755.0,
+                "d": 340.0
+              },
+              {
+                "w": "port",
+                "t": 5095.0,
+                "d": 510.0
+              },
+              {
+                "w": "but",
+                "t": 6117.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 6329.0,
+                "d": 127.0
+              },
+              {
+                "w": "story",
+                "t": 6457.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 6840.0,
+                "d": 170.0
+              },
+              {
+                "w": "Barygaza's",
+                "t": 7010.0,
+                "d": 765.0
+              },
+              {
+                "w": "pilots",
+                "t": 7776.0,
+                "d": 680.0
+              },
+              {
+                "w": "shows",
+                "t": 8500.0,
+                "d": 382.0
+              },
+              {
+                "w": "how",
+                "t": 8882.0,
+                "d": 680.0
+              },
+              {
+                "w": "even",
+                "t": 9776.0,
+                "d": 340.0
+              },
+              {
+                "w": "two",
+                "t": 10117.0,
+                "d": 211.0
+              },
+              {
+                "w": "thousand",
+                "t": 10328.0,
+                "d": 426.0
+              },
+              {
+                "w": "years",
+                "t": 10755.0,
+                "d": 296.0
+              },
+              {
+                "w": "ago",
+                "t": 11052.0,
+                "d": 723.0
+              },
+              {
+                "w": "local",
+                "t": 11904.0,
+                "d": 510.0
+              },
+              {
+                "w": "knowledge",
+                "t": 12414.0,
+                "d": 509.0
+              },
+              {
+                "w": "commanded",
+                "t": 12924.0,
+                "d": 639.0
+              },
+              {
+                "w": "a",
+                "t": 13606.0,
+                "d": 170.0
+              },
+              {
+                "w": "global",
+                "t": 13776.0,
+                "d": 467.0
+              },
+              {
+                "w": "sea",
+                "t": 14243.0,
+                "d": 298.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Barygaza Bar Pilot",
+    "epithets": [
+      "Pilots of Barygaza",
+      "Masters of the Narmada tides",
+      "Gatekeepers of Roman trade",
+      "Merchants of Bharuch"
+    ],
+    "legend": "They steered the world’s richest ships through a roaring brown river."
+  }
+}
