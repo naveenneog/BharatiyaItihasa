@@ -572,6 +572,33 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## ⚕️ Ayurveda and the Healers of Ancient India  *(Deep antiquity → colonial — c. 7000 BCE–1800 CE, the long arc of Indian medicine)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+Indian medicine told not as a single timeless "Ayurveda" but as a long, layered, contested craft — from Neolithic drilled teeth to a colonial-era rhinoplasty — weighing pre-textual archaeology, fragile-manuscript survival, state law, diagnosis, alchemy, veterinary and maritime trade, and honest at every step about what the evidence does and does not show. The chapter carries the project's hard-truth directive into medicine: the classical texts' own caste and gender exclusions are stated plainly, the toxicity of metal-based remedies is named, and the unnamed non-elite healers who treated most people are given equal billing with the Sanskrit authors.
+
+**I. Before the Classical Texts**
+1. **Drilled Teeth at Mehrgarh** ✅ — the ~7000 BCE drilled molars (Coppa, *Nature* 2006) and Indus drains/wells (Arnott), honest that this is "not yet Ayurveda," the script is unread, and Indus health was unequally shared (Robbins Schug). *(pre-textual archaeology)*
+2. **Atharvan Herbs and Healing Words** ✅ — the Atharvaveda's braid of incantation and empirical herb-lore, framed honestly as "not yet Ayurveda… not a neat single line of descent" (Zysk, Wujastyk). *(proto-medicine)*
+
+**II. Texts Saved from Fragile Leaves**
+3. **Bhela's Palm Leaf Returns** ✅ — the single damaged Chennai manuscript proving Ayurveda "was a debate, not a single voice" (Meulenbeld, Wujastyk). *(manuscript plurality)*
+4. **Drdhabala Rebuilds Charaka's Book** ✅ — the Charaka Samhita as a layered palimpsest (Agnivesa → Charaka → Drdhabala's restoration); "a mosaic, not a monolith," with the text's caste restrictions stated plainly. *(textual survival)*
+5. **The Silk Road Manuscript of Kucha** ✅ — the Bower Manuscript, a 5–6th-c. birch-bark medical roll, "a practical, provincial healer's anthology," traced from Bower's 1890s find to Hoernle and British Library Or. 5494. *(transmission)*
+
+**III. Law, Care and Exclusion**
+6. **The King's Physician Under Law** ✅ — the Arthashastra's regulation of medicine: physician licensing, mandatory informed-consent before dangerous procedures, negligence penalties (Upinder Singh, Olivelle); "when healers hold lives, who should hold the healers to account?" *(medical law)*
+7. **Care at the Monastery Gate** ✅ — Buddhist infirmaries as institutions of care (Vinaya nursing duty, Faxian's Pataliputra charitable houses; Zysk, Salguero), honest they were "not hospitals in the modern sense" and about who was turned away. *(institutions)*
+8. **Barber Surgeons and Village Midwives** ✅ — the social-history hard-truth: Sanskrit texts idealized well-born students and "praised the physician who shunned patients from despised groups," while nai surgeons and dai midwives from marginalized castes carried most people's medicine — "whose pain reached the page and whose stayed only in the dust of the street." *(caste/gender exclusion)*
+
+**IV. Diagnosis, Drugs and Animals**
+9. **Madhava Names the Disease** ✅ — Madhavakara's *Madhava Nidanam* giving diagnosis its own architecture (nidana/purvarupa/rupa/upashaya/samprapti); disambiguated from Madhava of the Kerala math school, his biography honestly "in shadow." *(diagnostics)*
+10. **Mercury in the Rasashala** ✅ — Nagarjuna and Rasashastra's mercury/metal medicine, the "alchemist of tradition, not the famed philosopher," with the toxicity truth named plainly ("lead, mercury, arsenic… cases of poisoning… mishandled, can still turn to harm"). *(alchemy; applied chemistry)*
+11. **Shalihotra Treats the War Horse** ✅ — veterinary science as economic-political innovation (cavalry, royal stables), anchored to Ashoka's Rock Edict II; "one revered name, many hands and ages." *(veterinary science)*
+
+**V. Medicine on the Roads of the World**
+12. **Pepper, Nard and the Medicine Ships** ✅ — materia medica as export economy (Periplus, Muziris, Barygaza, Arikamedu, Roman coins, Pliny), honest that "Indian theory did not sail whole; no evidence of full Ayurvedic systems in Rome." *(economy; trade)*
+13. **Cowasjee's Rebuilt Nose** ✅ — the 1793 forehead-flap rhinoplasty by a Kumhar (potter-caste) surgeon near Pune → Gentleman's Magazine 1794 → Carpue's London operations (1814–16) → modern plastic surgery; "knowledge can outlive the status of its makers," the Sushruta link honestly "a broken path." *(surgery; legacy; caste-truth)*
+
 ## 🏞️ Kamarupa: The Ancient Kingdom of Assam  *(Ancient → early medieval — c. 350–1200 CE, the Brahmaputra-valley frontier)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 The first securely-attested kingdom of the eastern Brahmaputra frontier — reconstructed from the Allahabad Pillar, Kamarupa's own copperplates, Chinese annals and a local Purana, and honest at every step about how much is later genealogy and myth layered over thin early evidence. Epic legend (Naraka, Bhagadatta) is kept apart from record; three dynasties (Varman → Mlechchha/Salastambha → Pala) are told with their silences intact; the age's innovation — muga silk, adaptive river-statecraft, a script bending toward Assamese, the scribes and stone-carvers behind the record — is weighed equally with rule; and the sacred (Kamakhya, the Kalika Purana) is handled as "how Kamarupa chose to remember itself," with the debated *nara-bali* verses read as theological imagination, not proof of practice.
