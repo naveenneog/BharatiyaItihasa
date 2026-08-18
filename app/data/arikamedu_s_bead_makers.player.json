@@ -1,0 +1,3602 @@
+{
+  "id": "arikamedu_s_bead_makers",
+  "title": "Arikamedu's Bead Makers",
+  "title_i18n": {
+    "en": "Arikamedu's Bead Makers",
+    "hi": "आरिकामेडु के मनके‑साज़"
+  },
+  "figure": "Arikamedu artisans",
+  "era": "Indo-Roman and Coromandel manufacture, c. 200 BCE-300 CE",
+  "moral": "The maker's town can be as important as the buyer's empire.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/arikamedu_s_bead_makers/intro/hero.png",
+      "name": "Arikamedu Artisan",
+      "epithets": [
+        "Glass-bead masters of Arikamedu",
+        "Coromandel sea traders",
+        "Craftsmen of Indo-Roman trade",
+        "Makers of rouletted ware"
+      ],
+      "legend": "They shaped tiny beads that linked a village to an empire.",
+      "era": "Indo-Roman and Coromandel manufacture, c. 200 BCE-300 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On a quiet creek by the Coromandel sea, unknown hands fire glass, clay and wine jars for faraway Rome. Why do their beads cross oceans while their town stays free?",
+            "hi": "कोरोमंडल सागर की शांत खाड़ी पर, अनजाने हाथ काँच, मिट्टी और शराब के घड़ों की आग भड़काते हैं, दूर रोम के लिए। उनकी मनके समंदर पार जाते हैं, पर उनका नगर आज़ाद क्यों रहता है?"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/intro/hero_en.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 72.0,
+                "d": 208.0
+              },
+              {
+                "w": "a",
+                "t": 281.0,
+                "d": 125.0
+              },
+              {
+                "w": "quiet",
+                "t": 406.0,
+                "d": 416.0
+              },
+              {
+                "w": "creek",
+                "t": 822.0,
+                "d": 333.0
+              },
+              {
+                "w": "by",
+                "t": 1156.0,
+                "d": 166.0
+              },
+              {
+                "w": "the",
+                "t": 1322.0,
+                "d": 166.0
+              },
+              {
+                "w": "Coromandel",
+                "t": 1489.0,
+                "d": 583.0
+              },
+              {
+                "w": "sea",
+                "t": 2072.0,
+                "d": 373.0
+              },
+              {
+                "w": "unknown",
+                "t": 2822.0,
+                "d": 458.0
+              },
+              {
+                "w": "hands",
+                "t": 3281.0,
+                "d": 458.0
+              },
+              {
+                "w": "fire",
+                "t": 3739.0,
+                "d": 373.0
+              },
+              {
+                "w": "glass",
+                "t": 4113.0,
+                "d": 542.0
+              },
+              {
+                "w": "clay",
+                "t": 4697.0,
+                "d": 625.0
+              },
+              {
+                "w": "and",
+                "t": 5322.0,
+                "d": 291.0
+              },
+              {
+                "w": "wine",
+                "t": 5614.0,
+                "d": 333.0
+              },
+              {
+                "w": "jars",
+                "t": 5947.0,
+                "d": 375.0
+              },
+              {
+                "w": "for",
+                "t": 6322.0,
+                "d": 166.0
+              },
+              {
+                "w": "faraway",
+                "t": 6489.0,
+                "d": 500.0
+              },
+              {
+                "w": "Rome",
+                "t": 6989.0,
+                "d": 666.0
+              },
+              {
+                "w": "Why",
+                "t": 8363.0,
+                "d": 458.0
+              },
+              {
+                "w": "do",
+                "t": 8821.0,
+                "d": 126.0
+              },
+              {
+                "w": "their",
+                "t": 8947.0,
+                "d": 208.0
+              },
+              {
+                "w": "beads",
+                "t": 9156.0,
+                "d": 373.0
+              },
+              {
+                "w": "cross",
+                "t": 9530.0,
+                "d": 333.0
+              },
+              {
+                "w": "oceans",
+                "t": 9863.0,
+                "d": 542.0
+              },
+              {
+                "w": "while",
+                "t": 10406.0,
+                "d": 248.0
+              },
+              {
+                "w": "their",
+                "t": 10655.0,
+                "d": 209.0
+              },
+              {
+                "w": "town",
+                "t": 10864.0,
+                "d": 290.0
+              },
+              {
+                "w": "stays",
+                "t": 11155.0,
+                "d": 375.0
+              },
+              {
+                "w": "free",
+                "t": 11530.0,
+                "d": 459.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/arikamedu_s_bead_makers/intro/map.png",
+      "x": 0.82,
+      "y": 0.64,
+      "label": "Arikamedu, near Puducherry, Coromandel Coast",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here on the windy Coromandel shore, furnaces glow and ships wait, trading village smoke for the shine of a distant Roman world.",
+            "hi": "यहाँ तेज़ हवा वाली कोरोमंडल किनारे भट्टियाँ धधकती हैं, जहाज़ खड़े हैं, गाँव का धुआँ रोमन दुनिया की चमक से सौदा करता है।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/intro/map_en.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 551.0
+              },
+              {
+                "w": "on",
+                "t": 632.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 770.0,
+                "d": 183.0
+              },
+              {
+                "w": "windy",
+                "t": 954.0,
+                "d": 551.0
+              },
+              {
+                "w": "Coromandel",
+                "t": 1505.0,
+                "d": 643.0
+              },
+              {
+                "w": "shore",
+                "t": 2149.0,
+                "d": 827.0
+              },
+              {
+                "w": "furnaces",
+                "t": 2977.0,
+                "d": 826.0
+              },
+              {
+                "w": "glow",
+                "t": 3803.0,
+                "d": 414.0
+              },
+              {
+                "w": "and",
+                "t": 4264.0,
+                "d": 274.0
+              },
+              {
+                "w": "ships",
+                "t": 4539.0,
+                "d": 368.0
+              },
+              {
+                "w": "wait",
+                "t": 4908.0,
+                "d": 551.0
+              },
+              {
+                "w": "trading",
+                "t": 5735.0,
+                "d": 597.0
+              },
+              {
+                "w": "village",
+                "t": 6333.0,
+                "d": 367.0
+              },
+              {
+                "w": "smoke",
+                "t": 6701.0,
+                "d": 459.0
+              },
+              {
+                "w": "for",
+                "t": 7160.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 7344.0,
+                "d": 137.0
+              },
+              {
+                "w": "shine",
+                "t": 7482.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 7850.0,
+                "d": 137.0
+              },
+              {
+                "w": "a",
+                "t": 7988.0,
+                "d": 91.0
+              },
+              {
+                "w": "distant",
+                "t": 8080.0,
+                "d": 643.0
+              },
+              {
+                "w": "Roman",
+                "t": 8724.0,
+                "d": 367.0
+              },
+              {
+                "w": "world",
+                "t": 9091.0,
+                "d": 550.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/arikamedu_s_bead_makers/img/cover.png",
+      "shot": "epic wide shot from above, sweeping over a busy coastal settlement with kilns, bead workshops and ships offshore on a hazy bay",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On the banks of a quiet creek near today's Puducherry, Arikamedu's unnamed bead makers shaped glass and clay that reached Roman tables and African necks, yet their town never bowed as a Roman colony.",
+            "hi": "आज के पुडुचेरी के पास एक शांत नाले किनारे, आरिकामेडु के गुमनाम कारीगरों ने काँच और मिट्टी गढ़ी, जो रोमन थालियों और अफ़्रीकी गलों तक पहुँची—पर उनका नगर कभी रोमन उपनिवेश नहीं झुका।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/cover_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 117.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "banks",
+                "t": 414.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 755.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 882.0,
+                "d": 127.0
+              },
+              {
+                "w": "quiet",
+                "t": 1010.0,
+                "d": 468.0
+              },
+              {
+                "w": "creek",
+                "t": 1478.0,
+                "d": 340.0
+              },
+              {
+                "w": "near",
+                "t": 1819.0,
+                "d": 297.0
+              },
+              {
+                "w": "today's",
+                "t": 2117.0,
+                "d": 424.0
+              },
+              {
+                "w": "Puducherry",
+                "t": 2541.0,
+                "d": 1021.0
+              },
+              {
+                "w": "Arikamedu's",
+                "t": 3734.0,
+                "d": 936.0
+              },
+              {
+                "w": "unnamed",
+                "t": 4712.0,
+                "d": 553.0
+              },
+              {
+                "w": "bead",
+                "t": 5265.0,
+                "d": 297.0
+              },
+              {
+                "w": "makers",
+                "t": 5563.0,
+                "d": 553.0
+              },
+              {
+                "w": "shaped",
+                "t": 6117.0,
+                "d": 595.0
+              },
+              {
+                "w": "glass",
+                "t": 6712.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 7138.0,
+                "d": 170.0
+              },
+              {
+                "w": "clay",
+                "t": 7308.0,
+                "d": 595.0
+              },
+              {
+                "w": "that",
+                "t": 7946.0,
+                "d": 297.0
+              },
+              {
+                "w": "reached",
+                "t": 8244.0,
+                "d": 339.0
+              },
+              {
+                "w": "Roman",
+                "t": 8584.0,
+                "d": 298.0
+              },
+              {
+                "w": "tables",
+                "t": 8882.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 9393.0,
+                "d": 212.0
+              },
+              {
+                "w": "African",
+                "t": 9606.0,
+                "d": 425.0
+              },
+              {
+                "w": "necks",
+                "t": 10031.0,
+                "d": 679.0
+              },
+              {
+                "w": "yet",
+                "t": 10925.0,
+                "d": 296.0
+              },
+              {
+                "w": "their",
+                "t": 11222.0,
+                "d": 213.0
+              },
+              {
+                "w": "town",
+                "t": 11436.0,
+                "d": 297.0
+              },
+              {
+                "w": "never",
+                "t": 11734.0,
+                "d": 340.0
+              },
+              {
+                "w": "bowed",
+                "t": 12074.0,
+                "d": 340.0
+              },
+              {
+                "w": "as",
+                "t": 12414.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 12585.0,
+                "d": 85.0
+              },
+              {
+                "w": "Roman",
+                "t": 12670.0,
+                "d": 339.0
+              },
+              {
+                "w": "colony",
+                "t": 13009.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/arikamedu_s_bead_makers/img/p01.png",
+      "shot": "slow push-in over coastal landscape, dawn light catching the curve of a backwater entering the sea",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Greeks spoke of Poduke and the Periplus listed it among Coromandel ports, but on the ground it was this bend in a creek, Arikamedu, where river met sea and village met the world.",
+            "hi": "यूनानी ‘पोडुके’ कहते थे, पेरिप्लस ने इसे कोरोमंडल के बंदरों में गिना, पर ज़मीन पर यह बस इस नाले का मोड़ था—आरिकामेडु—जहाँ नदी सागर से, और गाँव दुनिया से मिलते थे।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p01_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Greeks",
+                "t": 287.0,
+                "d": 382.0
+              },
+              {
+                "w": "spoke",
+                "t": 670.0,
+                "d": 638.0
+              },
+              {
+                "w": "of",
+                "t": 1308.0,
+                "d": 255.0
+              },
+              {
+                "w": "Poduke",
+                "t": 1563.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 2372.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 2584.0,
+                "d": 128.0
+              },
+              {
+                "w": "Periplus",
+                "t": 2712.0,
+                "d": 595.0
+              },
+              {
+                "w": "listed",
+                "t": 3308.0,
+                "d": 553.0
+              },
+              {
+                "w": "it",
+                "t": 3861.0,
+                "d": 85.0
+              },
+              {
+                "w": "among",
+                "t": 3946.0,
+                "d": 382.0
+              },
+              {
+                "w": "Coromandel",
+                "t": 4329.0,
+                "d": 638.0
+              },
+              {
+                "w": "ports",
+                "t": 4968.0,
+                "d": 1148.0
+              },
+              {
+                "w": "but",
+                "t": 6202.0,
+                "d": 255.0
+              },
+              {
+                "w": "on",
+                "t": 6457.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 6542.0,
+                "d": 127.0
+              },
+              {
+                "w": "ground",
+                "t": 6670.0,
+                "d": 638.0
+              },
+              {
+                "w": "it",
+                "t": 7436.0,
+                "d": 212.0
+              },
+              {
+                "w": "was",
+                "t": 7648.0,
+                "d": 170.0
+              },
+              {
+                "w": "this",
+                "t": 7819.0,
+                "d": 212.0
+              },
+              {
+                "w": "bend",
+                "t": 8031.0,
+                "d": 509.0
+              },
+              {
+                "w": "in",
+                "t": 8541.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 8711.0,
+                "d": 127.0
+              },
+              {
+                "w": "creek",
+                "t": 8839.0,
+                "d": 808.0
+              },
+              {
+                "w": "Arikamedu",
+                "t": 9861.0,
+                "d": 723.0
+              },
+              {
+                "w": "where",
+                "t": 10967.0,
+                "d": 340.0
+              },
+              {
+                "w": "river",
+                "t": 11307.0,
+                "d": 256.0
+              },
+              {
+                "w": "met",
+                "t": 11563.0,
+                "d": 211.0
+              },
+              {
+                "w": "sea",
+                "t": 11775.0,
+                "d": 384.0
+              },
+              {
+                "w": "and",
+                "t": 12201.0,
+                "d": 213.0
+              },
+              {
+                "w": "village",
+                "t": 12414.0,
+                "d": 424.0
+              },
+              {
+                "w": "met",
+                "t": 12839.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 13094.0,
+                "d": 170.0
+              },
+              {
+                "w": "world",
+                "t": 13264.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/arikamedu_s_bead_makers/img/p02.png",
+      "shot": "medium wide interior shot of a bead workshop, slightly high angle to show tools and layout",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Long before Roman amphorae ever arrived, Arikamedu's craftsmen already drilled stone and glass, their skills passed through caste-bound hands that the texts leave unnamed.",
+            "hi": "रोमन अम्फ़ोरा आने से बहुत पहले, आरिकामेडु के कारीगर पत्थर और काँच में छेद कर रहे थे, हुनर जाति‑बंधे हाथों से पीढ़ी‑दर‑पीढ़ी चला, जिसे ग्रंथों ने बेनाम छोड़ा।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p02_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Long",
+                "t": 74.0,
+                "d": 425.0
+              },
+              {
+                "w": "before",
+                "t": 500.0,
+                "d": 340.0
+              },
+              {
+                "w": "Roman",
+                "t": 840.0,
+                "d": 297.0
+              },
+              {
+                "w": "amphorae",
+                "t": 1138.0,
+                "d": 510.0
+              },
+              {
+                "w": "ever",
+                "t": 1691.0,
+                "d": 297.0
+              },
+              {
+                "w": "arrived",
+                "t": 1989.0,
+                "d": 594.0
+              },
+              {
+                "w": "Arikamedu's",
+                "t": 3137.0,
+                "d": 809.0
+              },
+              {
+                "w": "craftsmen",
+                "t": 3946.0,
+                "d": 638.0
+              },
+              {
+                "w": "already",
+                "t": 4585.0,
+                "d": 510.0
+              },
+              {
+                "w": "drilled",
+                "t": 5095.0,
+                "d": 340.0
+              },
+              {
+                "w": "stone",
+                "t": 5436.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 5776.0,
+                "d": 170.0
+              },
+              {
+                "w": "glass",
+                "t": 5946.0,
+                "d": 680.0
+              },
+              {
+                "w": "their",
+                "t": 6925.0,
+                "d": 340.0
+              },
+              {
+                "w": "skills",
+                "t": 7265.0,
+                "d": 382.0
+              },
+              {
+                "w": "passed",
+                "t": 7648.0,
+                "d": 340.0
+              },
+              {
+                "w": "through",
+                "t": 7989.0,
+                "d": 340.0
+              },
+              {
+                "w": "caste-bound",
+                "t": 8329.0,
+                "d": 638.0
+              },
+              {
+                "w": "hands",
+                "t": 8968.0,
+                "d": 723.0
+              },
+              {
+                "w": "that",
+                "t": 9691.0,
+                "d": 296.0
+              },
+              {
+                "w": "the",
+                "t": 9988.0,
+                "d": 128.0
+              },
+              {
+                "w": "texts",
+                "t": 10117.0,
+                "d": 510.0
+              },
+              {
+                "w": "leave",
+                "t": 10670.0,
+                "d": 425.0
+              },
+              {
+                "w": "unnamed",
+                "t": 11095.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/arikamedu_s_bead_makers/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/arikamedu_s_bead_makers/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Each bead must glow like the sea-road itself, or the merchants' gold will sail past Arikamedu's waiting shore.",
+            "hi": "हर मोती को समुंदर-मार्ग सा चमकना होगा, नहीं तो सौदागरों का सोना अरिकमेडु की तट से फिसल जाएगा।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/action/action_auto_en.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Each",
+                "t": 126.0,
+                "d": 413.0
+              },
+              {
+                "w": "bead",
+                "t": 540.0,
+                "d": 321.0
+              },
+              {
+                "w": "must",
+                "t": 862.0,
+                "d": 275.0
+              },
+              {
+                "w": "glow",
+                "t": 1137.0,
+                "d": 689.0
+              },
+              {
+                "w": "like",
+                "t": 1827.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 2103.0,
+                "d": 183.0
+              },
+              {
+                "w": "sea-road",
+                "t": 2287.0,
+                "d": 458.0
+              },
+              {
+                "w": "itself",
+                "t": 2745.0,
+                "d": 689.0
+              },
+              {
+                "w": "or",
+                "t": 3803.0,
+                "d": 231.0
+              },
+              {
+                "w": "the",
+                "t": 4034.0,
+                "d": 137.0
+              },
+              {
+                "w": "merchants'",
+                "t": 4172.0,
+                "d": 551.0
+              },
+              {
+                "w": "gold",
+                "t": 4724.0,
+                "d": 643.0
+              },
+              {
+                "w": "will",
+                "t": 5413.0,
+                "d": 275.0
+              },
+              {
+                "w": "sail",
+                "t": 5689.0,
+                "d": 367.0
+              },
+              {
+                "w": "past",
+                "t": 6057.0,
+                "d": 413.0
+              },
+              {
+                "w": "Arikamedu's",
+                "t": 6471.0,
+                "d": 827.0
+              },
+              {
+                "w": "waiting",
+                "t": 7298.0,
+                "d": 413.0
+              },
+              {
+                "w": "shore",
+                "t": 7712.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/arikamedu_s_bead_makers/img/p03.png",
+      "shot": "close-up on artisan’s hands and face, shallow focus on bead being drilled",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "My father drilled like this, and his before him. The bead remembers us.",
+            "hi": "मेरे पिता ऐसे ही छेद करते थे, और उनके पिता भी। मनका हमें याद रखता है।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p03_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "My",
+                "t": 49.0,
+                "d": 196.1
+              },
+              {
+                "w": "father",
+                "t": 245.1,
+                "d": 478.0
+              },
+              {
+                "w": "drilled",
+                "t": 723.0,
+                "d": 355.4
+              },
+              {
+                "w": "like",
+                "t": 1078.4,
+                "d": 269.6
+              },
+              {
+                "w": "this",
+                "t": 1348.0,
+                "d": 367.7
+              },
+              {
+                "w": "and",
+                "t": 1960.8,
+                "d": 196.1
+              },
+              {
+                "w": "his",
+                "t": 2156.9,
+                "d": 208.3
+              },
+              {
+                "w": "before",
+                "t": 2365.2,
+                "d": 416.7
+              },
+              {
+                "w": "him",
+                "t": 2781.9,
+                "d": 343.1
+              },
+              {
+                "w": "The",
+                "t": 3970.6,
+                "d": 110.3
+              },
+              {
+                "w": "bead",
+                "t": 4080.9,
+                "d": 330.9
+              },
+              {
+                "w": "remembers",
+                "t": 4436.3,
+                "d": 625.0
+              },
+              {
+                "w": "us",
+                "t": 5061.3,
+                "d": 294.1
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/arikamedu_s_bead_makers/img/p04.png",
+      "shot": "cutaway to archaeological future, bird’s-eye of Wheeler’s trench lines across the mound",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In nineteen forty-five, Mortimer Wheeler sliced into this mound and saw red Arretine sherds, wine amphorae and rouletted ware, calling Arikamedu a Roman trading station, almost a Roman town upon Indian shore.",
+            "hi": "१९४५ में मॉर्टिमर व्हीलर ने इस टीले को चीर कर लाल अरेटाइन टुकड़े, मदिरा अम्फ़ोरा और रूलेटेड बर्तन देखे, और आरिकामेडु को रोमन व्यापार चौकी, लगभग भारतीय तट पर रोमन नगर कहा।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p04_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 85.0
+              },
+              {
+                "w": "nineteen",
+                "t": 159.0,
+                "d": 553.0
+              },
+              {
+                "w": "forty-five",
+                "t": 712.0,
+                "d": 765.0
+              },
+              {
+                "w": "Mortimer",
+                "t": 1861.0,
+                "d": 594.0
+              },
+              {
+                "w": "Wheeler",
+                "t": 2456.0,
+                "d": 426.0
+              },
+              {
+                "w": "sliced",
+                "t": 2882.0,
+                "d": 468.0
+              },
+              {
+                "w": "into",
+                "t": 3351.0,
+                "d": 211.0
+              },
+              {
+                "w": "this",
+                "t": 3562.0,
+                "d": 256.0
+              },
+              {
+                "w": "mound",
+                "t": 3819.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 4457.0,
+                "d": 382.0
+              },
+              {
+                "w": "saw",
+                "t": 4840.0,
+                "d": 170.0
+              },
+              {
+                "w": "red",
+                "t": 5010.0,
+                "d": 382.0
+              },
+              {
+                "w": "Arretine",
+                "t": 5393.0,
+                "d": 595.0
+              },
+              {
+                "w": "sherds",
+                "t": 5989.0,
+                "d": 808.0
+              },
+              {
+                "w": "wine",
+                "t": 7180.0,
+                "d": 382.0
+              },
+              {
+                "w": "amphorae",
+                "t": 7563.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 8329.0,
+                "d": 296.0
+              },
+              {
+                "w": "rouletted",
+                "t": 8626.0,
+                "d": 511.0
+              },
+              {
+                "w": "ware",
+                "t": 9138.0,
+                "d": 594.0
+              },
+              {
+                "w": "calling",
+                "t": 9946.0,
+                "d": 468.0
+              },
+              {
+                "w": "Arikamedu",
+                "t": 10414.0,
+                "d": 807.0
+              },
+              {
+                "w": "a",
+                "t": 11222.0,
+                "d": 128.0
+              },
+              {
+                "w": "Roman",
+                "t": 11351.0,
+                "d": 424.0
+              },
+              {
+                "w": "trading",
+                "t": 11775.0,
+                "d": 384.0
+              },
+              {
+                "w": "station",
+                "t": 12159.0,
+                "d": 935.0
+              },
+              {
+                "w": "almost",
+                "t": 13264.0,
+                "d": 511.0
+              },
+              {
+                "w": "a",
+                "t": 13776.0,
+                "d": 42.0
+              },
+              {
+                "w": "Roman",
+                "t": 13819.0,
+                "d": 509.0
+              },
+              {
+                "w": "town",
+                "t": 14328.0,
+                "d": 341.0
+              },
+              {
+                "w": "upon",
+                "t": 14670.0,
+                "d": 381.0
+              },
+              {
+                "w": "Indian",
+                "t": 15052.0,
+                "d": 384.0
+              },
+              {
+                "w": "shore",
+                "t": 15436.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/arikamedu_s_bead_makers/img/p05.png",
+      "shot": "medium shot across a table of pottery sherds in a dig tent, evening lamplight",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Later, Vimala Begley and others re-read the soil: they traced earlier and later layers beyond Roman horizons and showed that this was no colony, but an Indian town adapting foreign taste.",
+            "hi": "बाद में विमला बेगली और साथियों ने मिट्टी फिर पढ़ी: उन्होंने रोमन परतों से पहले और बाद की सतहें पकड़ीं और दिखाया कि यह कोई उपनिवेश नहीं, बल्कि विदेशी रुचि को बदलता भारतीय नगर था।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p05_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Later",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "Vimala",
+                "t": 1053.0,
+                "d": 425.0
+              },
+              {
+                "w": "Begley",
+                "t": 1478.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 2031.0,
+                "d": 170.0
+              },
+              {
+                "w": "others",
+                "t": 2202.0,
+                "d": 424.0
+              },
+              {
+                "w": "re-read",
+                "t": 2626.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 3094.0,
+                "d": 128.0
+              },
+              {
+                "w": "soil",
+                "t": 3223.0,
+                "d": 595.0
+              },
+              {
+                "w": "they",
+                "t": 4372.0,
+                "d": 255.0
+              },
+              {
+                "w": "traced",
+                "t": 4627.0,
+                "d": 382.0
+              },
+              {
+                "w": "earlier",
+                "t": 5010.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 5436.0,
+                "d": 212.0
+              },
+              {
+                "w": "later",
+                "t": 5648.0,
+                "d": 638.0
+              },
+              {
+                "w": "layers",
+                "t": 6329.0,
+                "d": 468.0
+              },
+              {
+                "w": "beyond",
+                "t": 6797.0,
+                "d": 382.0
+              },
+              {
+                "w": "Roman",
+                "t": 7180.0,
+                "d": 255.0
+              },
+              {
+                "w": "horizons",
+                "t": 7436.0,
+                "d": 893.0
+              },
+              {
+                "w": "and",
+                "t": 8500.0,
+                "d": 339.0
+              },
+              {
+                "w": "showed",
+                "t": 8839.0,
+                "d": 425.0
+              },
+              {
+                "w": "that",
+                "t": 9264.0,
+                "d": 171.0
+              },
+              {
+                "w": "this",
+                "t": 9436.0,
+                "d": 296.0
+              },
+              {
+                "w": "was",
+                "t": 9732.0,
+                "d": 213.0
+              },
+              {
+                "w": "no",
+                "t": 9946.0,
+                "d": 170.0
+              },
+              {
+                "w": "colony",
+                "t": 10117.0,
+                "d": 808.0
+              },
+              {
+                "w": "but",
+                "t": 11137.0,
+                "d": 255.0
+              },
+              {
+                "w": "an",
+                "t": 11392.0,
+                "d": 128.0
+              },
+              {
+                "w": "Indian",
+                "t": 11521.0,
+                "d": 468.0
+              },
+              {
+                "w": "town",
+                "t": 11989.0,
+                "d": 340.0
+              },
+              {
+                "w": "adapting",
+                "t": 12371.0,
+                "d": 553.0
+              },
+              {
+                "w": "foreign",
+                "t": 12924.0,
+                "d": 384.0
+              },
+              {
+                "w": "taste",
+                "t": 13308.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/arikamedu_s_bead_makers/img/p06.png",
+      "shot": "wide shot of riverside settlement bustling, with workshops and simple wharfs",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Arikamedu's life ran along many crafts, bead drilling, glass working, spinning and weaving, feeding caravans inland and boats that hugged the Bay of Bengal long before and after any Roman demand.",
+            "hi": "आरिकामेडु की ज़िंदगी कई हुनरों पर चली—मनका छेदना, काँच ढालना, कातना‑बुनना—जो भीतर के कारवाँ और बंगाल की खाड़ी से चिपकी नावों को, रोमन माँग से बहुत पहले और बाद तक, सामान देते रहे।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p06_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Arikamedu's",
+                "t": 117.0,
+                "d": 765.0
+              },
+              {
+                "w": "life",
+                "t": 882.0,
+                "d": 340.0
+              },
+              {
+                "w": "ran",
+                "t": 1223.0,
+                "d": 212.0
+              },
+              {
+                "w": "along",
+                "t": 1436.0,
+                "d": 382.0
+              },
+              {
+                "w": "many",
+                "t": 1819.0,
+                "d": 297.0
+              },
+              {
+                "w": "crafts",
+                "t": 2117.0,
+                "d": 680.0
+              },
+              {
+                "w": "bead",
+                "t": 2967.0,
+                "d": 426.0
+              },
+              {
+                "w": "drilling",
+                "t": 3393.0,
+                "d": 425.0
+              },
+              {
+                "w": "glass",
+                "t": 3819.0,
+                "d": 808.0
+              },
+              {
+                "w": "working",
+                "t": 4627.0,
+                "d": 765.0
+              },
+              {
+                "w": "spinning",
+                "t": 5436.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 6031.0,
+                "d": 255.0
+              },
+              {
+                "w": "weaving",
+                "t": 6287.0,
+                "d": 936.0
+              },
+              {
+                "w": "feeding",
+                "t": 7308.0,
+                "d": 553.0
+              },
+              {
+                "w": "caravans",
+                "t": 7861.0,
+                "d": 553.0
+              },
+              {
+                "w": "inland",
+                "t": 8414.0,
+                "d": 764.0
+              },
+              {
+                "w": "and",
+                "t": 9223.0,
+                "d": 382.0
+              },
+              {
+                "w": "boats",
+                "t": 9606.0,
+                "d": 381.0
+              },
+              {
+                "w": "that",
+                "t": 9988.0,
+                "d": 213.0
+              },
+              {
+                "w": "hugged",
+                "t": 10202.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 10585.0,
+                "d": 170.0
+              },
+              {
+                "w": "Bay",
+                "t": 10755.0,
+                "d": 170.0
+              },
+              {
+                "w": "of",
+                "t": 10925.0,
+                "d": 170.0
+              },
+              {
+                "w": "Bengal",
+                "t": 11095.0,
+                "d": 468.0
+              },
+              {
+                "w": "long",
+                "t": 11563.0,
+                "d": 425.0
+              },
+              {
+                "w": "before",
+                "t": 11989.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 12670.0,
+                "d": 339.0
+              },
+              {
+                "w": "after",
+                "t": 13053.0,
+                "d": 510.0
+              },
+              {
+                "w": "any",
+                "t": 13563.0,
+                "d": 339.0
+              },
+              {
+                "w": "Roman",
+                "t": 13903.0,
+                "d": 340.0
+              },
+              {
+                "w": "demand",
+                "t": 14243.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/arikamedu_s_bead_makers/img/p07.png",
+      "shot": "interior workshop, low-angle shot toward glowing furnace opening",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Glass rods softened in small furnaces; artisans pulled and cut them into tiny segments, rolled and fired again to form uniform beads that would later be threaded by hands far away.",
+            "hi": "काँच की डंडियाँ छोटी भट्टियों में नरम होतीं; कारीगर उन्हें खींच कर छोटे टुकड़े काटते, लुढ़का कर फिर पकाते, ताकि एकसार मनके बनें जिन्हें दूर-दराज हाथ पिरोते।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p07_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Glass",
+                "t": 117.0,
+                "d": 468.0
+              },
+              {
+                "w": "rods",
+                "t": 585.0,
+                "d": 340.0
+              },
+              {
+                "w": "softened",
+                "t": 925.0,
+                "d": 595.0
+              },
+              {
+                "w": "in",
+                "t": 1521.0,
+                "d": 85.0
+              },
+              {
+                "w": "small",
+                "t": 1606.0,
+                "d": 425.0
+              },
+              {
+                "w": "furnaces",
+                "t": 2031.0,
+                "d": 1020.0
+              },
+              {
+                "w": "artisans",
+                "t": 3265.0,
+                "d": 680.0
+              },
+              {
+                "w": "pulled",
+                "t": 3946.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 4329.0,
+                "d": 255.0
+              },
+              {
+                "w": "cut",
+                "t": 4585.0,
+                "d": 212.0
+              },
+              {
+                "w": "them",
+                "t": 4797.0,
+                "d": 255.0
+              },
+              {
+                "w": "into",
+                "t": 5053.0,
+                "d": 255.0
+              },
+              {
+                "w": "tiny",
+                "t": 5308.0,
+                "d": 340.0
+              },
+              {
+                "w": "segments",
+                "t": 5648.0,
+                "d": 765.0
+              },
+              {
+                "w": "rolled",
+                "t": 6627.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 7436.0,
+                "d": 297.0
+              },
+              {
+                "w": "fired",
+                "t": 7734.0,
+                "d": 340.0
+              },
+              {
+                "w": "again",
+                "t": 8074.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 8414.0,
+                "d": 85.0
+              },
+              {
+                "w": "form",
+                "t": 8500.0,
+                "d": 339.0
+              },
+              {
+                "w": "uniform",
+                "t": 8839.0,
+                "d": 511.0
+              },
+              {
+                "w": "beads",
+                "t": 9351.0,
+                "d": 595.0
+              },
+              {
+                "w": "that",
+                "t": 10202.0,
+                "d": 212.0
+              },
+              {
+                "w": "would",
+                "t": 10414.0,
+                "d": 212.0
+              },
+              {
+                "w": "later",
+                "t": 10627.0,
+                "d": 382.0
+              },
+              {
+                "w": "be",
+                "t": 11010.0,
+                "d": 170.0
+              },
+              {
+                "w": "threaded",
+                "t": 11180.0,
+                "d": 382.0
+              },
+              {
+                "w": "by",
+                "t": 11563.0,
+                "d": 170.0
+              },
+              {
+                "w": "hands",
+                "t": 11734.0,
+                "d": 510.0
+              },
+              {
+                "w": "far",
+                "t": 12286.0,
+                "d": 341.0
+              },
+              {
+                "w": "away",
+                "t": 12627.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/arikamedu_s_bead_makers/img/p08.png",
+      "shot": "over-the-shoulder medium shot, artisan examining finished beads laid out on mat",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Petrographic and chemical studies now trace these beads across the Bay of Bengal and beyond, linking Arikamedu workshops to wider Indian Ocean circuits, not just to a single Roman market.",
+            "hi": "पेट्रोग्राफ़िक और रासायनिक जाँच अब इन मनकों का पीछा बंगाल की खाड़ी पार और आगे तक करती हैं, आरिकामेडु के कारख़ानों को पूरे हिंद महासागर के जाल से जोड़ती हैं, न कि केवल एक रोमन बाज़ार से।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p08_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Petrographic",
+                "t": 117.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 925.0,
+                "d": 170.0
+              },
+              {
+                "w": "chemical",
+                "t": 1095.0,
+                "d": 468.0
+              },
+              {
+                "w": "studies",
+                "t": 1563.0,
+                "d": 468.0
+              },
+              {
+                "w": "now",
+                "t": 2031.0,
+                "d": 297.0
+              },
+              {
+                "w": "trace",
+                "t": 2329.0,
+                "d": 425.0
+              },
+              {
+                "w": "these",
+                "t": 2755.0,
+                "d": 254.0
+              },
+              {
+                "w": "beads",
+                "t": 3009.0,
+                "d": 384.0
+              },
+              {
+                "w": "across",
+                "t": 3393.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 3861.0,
+                "d": 169.0
+              },
+              {
+                "w": "Bay",
+                "t": 4030.0,
+                "d": 170.0
+              },
+              {
+                "w": "of",
+                "t": 4201.0,
+                "d": 128.0
+              },
+              {
+                "w": "Bengal",
+                "t": 4329.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 4968.0,
+                "d": 340.0
+              },
+              {
+                "w": "beyond",
+                "t": 5308.0,
+                "d": 595.0
+              },
+              {
+                "w": "linking",
+                "t": 6244.0,
+                "d": 553.0
+              },
+              {
+                "w": "Arikamedu",
+                "t": 6797.0,
+                "d": 553.0
+              },
+              {
+                "w": "workshops",
+                "t": 7351.0,
+                "d": 595.0
+              },
+              {
+                "w": "to",
+                "t": 7946.0,
+                "d": 212.0
+              },
+              {
+                "w": "wider",
+                "t": 8159.0,
+                "d": 424.0
+              },
+              {
+                "w": "Indian",
+                "t": 8584.0,
+                "d": 384.0
+              },
+              {
+                "w": "Ocean",
+                "t": 8968.0,
+                "d": 382.0
+              },
+              {
+                "w": "circuits",
+                "t": 9351.0,
+                "d": 680.0
+              },
+              {
+                "w": "not",
+                "t": 10243.0,
+                "d": 384.0
+              },
+              {
+                "w": "just",
+                "t": 10627.0,
+                "d": 254.0
+              },
+              {
+                "w": "to",
+                "t": 10881.0,
+                "d": 128.0
+              },
+              {
+                "w": "a",
+                "t": 11010.0,
+                "d": 41.0
+              },
+              {
+                "w": "single",
+                "t": 11052.0,
+                "d": 511.0
+              },
+              {
+                "w": "Roman",
+                "t": 11563.0,
+                "d": 296.0
+              },
+              {
+                "w": "market",
+                "t": 11860.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/arikamedu_s_bead_makers/img/p09.png",
+      "shot": "medium shot of artisan negotiating with a local merchant in a courtyard",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "You take our beads and cloth; what stories do your ships bring back?",
+            "hi": "तुम हमारे मनके और कपड़े ले जाते हो; तुम्हारी नौकाएँ बदले में कैसी कहानियाँ लौटाती हैं?"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p09_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "You",
+                "t": 49.0,
+                "d": 98.0
+              },
+              {
+                "w": "take",
+                "t": 183.8,
+                "d": 281.9
+              },
+              {
+                "w": "our",
+                "t": 527.0,
+                "d": 183.8
+              },
+              {
+                "w": "beads",
+                "t": 710.8,
+                "d": 416.7
+              },
+              {
+                "w": "and",
+                "t": 1201.0,
+                "d": 245.1
+              },
+              {
+                "w": "cloth",
+                "t": 1446.1,
+                "d": 441.2
+              },
+              {
+                "w": "what",
+                "t": 2107.8,
+                "d": 281.9
+              },
+              {
+                "w": "stories",
+                "t": 2389.7,
+                "d": 527.0
+              },
+              {
+                "w": "do",
+                "t": 2916.7,
+                "d": 147.0
+              },
+              {
+                "w": "your",
+                "t": 3063.7,
+                "d": 245.1
+              },
+              {
+                "w": "ships",
+                "t": 3308.8,
+                "d": 343.1
+              },
+              {
+                "w": "bring",
+                "t": 3676.5,
+                "d": 269.6
+              },
+              {
+                "w": "back",
+                "t": 3946.1,
+                "d": 367.7
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/arikamedu_s_bead_makers/img/p10.png",
+      "shot": "epic wide shot from the sea looking toward shore, with foreign and local ships anchored",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Seasonal winds carried ships from Egypt and the Red Sea; amphorae of wine and oil appeared on this shore, while Arikamedu sent out pepper, textiles and strings of meticulously drilled beads.",
+            "hi": "मौसमी पवनें मिस्र और लाल सागर से जहाज़ यहाँ लाती थीं; मदिरा और तेल से भरे अम्फ़ोरा इस तट पर उतरते, और आरिकामेडु से काली मिर्च, वस्त्र और बारीकी से छिदे मनकों की लड़ियाँ निकलतीं।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p10_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Seasonal",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "winds",
+                "t": 712.0,
+                "d": 340.0
+              },
+              {
+                "w": "carried",
+                "t": 1053.0,
+                "d": 382.0
+              },
+              {
+                "w": "ships",
+                "t": 1436.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 1819.0,
+                "d": 212.0
+              },
+              {
+                "w": "Egypt",
+                "t": 2031.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 2755.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 2967.0,
+                "d": 127.0
+              },
+              {
+                "w": "Red",
+                "t": 3094.0,
+                "d": 213.0
+              },
+              {
+                "w": "Sea",
+                "t": 3308.0,
+                "d": 339.0
+              },
+              {
+                "w": "amphorae",
+                "t": 4329.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 4840.0,
+                "d": 170.0
+              },
+              {
+                "w": "wine",
+                "t": 5010.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 5436.0,
+                "d": 212.0
+              },
+              {
+                "w": "oil",
+                "t": 5648.0,
+                "d": 382.0
+              },
+              {
+                "w": "appeared",
+                "t": 6031.0,
+                "d": 382.0
+              },
+              {
+                "w": "on",
+                "t": 6414.0,
+                "d": 127.0
+              },
+              {
+                "w": "this",
+                "t": 6542.0,
+                "d": 170.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/arikamedu_s_bead_makers/img/p11.png",
+      "shot": "medium shot on beach, artisan watching bales being loaded into a boat",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Rouletted ware and amphorae in the ground record those exchanges, but the ledgers do not name the men who sweated under this sun, nor the women whose spinning fed the bales.",
+            "hi": "ज़मीन में दबी रूलेटेड मिट्टी और अम्फ़ोरा उस लेन‑देन को दर्ज रखते हैं, पर हिसाब‑किताब में न उन पुरुषों के नाम हैं जो इस धूप में पसीना बहाते थे, न उन स्त्रियों के जिनकी चरखियाँ गठरियाँ भरती थीं।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p11_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Rouletted",
+                "t": 126.0,
+                "d": 643.0
+              },
+              {
+                "w": "ware",
+                "t": 770.0,
+                "d": 505.0
+              },
+              {
+                "w": "and",
+                "t": 1275.0,
+                "d": 275.0
+              },
+              {
+                "w": "amphorae",
+                "t": 1597.0,
+                "d": 597.0
+              },
+              {
+                "w": "in",
+                "t": 2195.0,
+                "d": 136.0
+              },
+              {
+                "w": "the",
+                "t": 2332.0,
+                "d": 139.0
+              },
+              {
+                "w": "ground",
+                "t": 2471.0,
+                "d": 366.0
+              },
+              {
+                "w": "record",
+                "t": 2837.0,
+                "d": 736.0
+              },
+              {
+                "w": "those",
+                "t": 3620.0,
+                "d": 366.0
+              },
+              {
+                "w": "exchanges",
+                "t": 3987.0,
+                "d": 966.0
+              },
+              {
+                "w": "but",
+                "t": 5505.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 5781.0,
+                "d": 137.0
+              },
+              {
+                "w": "ledgers",
+                "t": 5919.0,
+                "d": 551.0
+              },
+              {
+                "w": "do",
+                "t": 6471.0,
+                "d": 183.0
+              },
+              {
+                "w": "not",
+                "t": 6655.0,
+                "d": 275.0
+              },
+              {
+                "w": "name",
+                "t": 6931.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 7252.0,
+                "d": 137.0
+              },
+              {
+                "w": "men",
+                "t": 7390.0,
+                "d": 367.0
+              },
+              {
+                "w": "who",
+                "t": 7758.0,
+                "d": 183.0
+              },
+              {
+                "w": "sweated",
+                "t": 7942.0,
+                "d": 551.0
+              },
+              {
+                "w": "under",
+                "t": 8494.0,
+                "d": 321.0
+              },
+              {
+                "w": "this",
+                "t": 8816.0,
+                "d": 183.0
+              },
+              {
+                "w": "sun",
+                "t": 9000.0,
+                "d": 689.0
+              },
+              {
+                "w": "nor",
+                "t": 10010.0,
+                "d": 368.0
+              },
+              {
+                "w": "the",
+                "t": 10379.0,
+                "d": 136.0
+              },
+              {
+                "w": "women",
+                "t": 10516.0,
+                "d": 414.0
+              },
+              {
+                "w": "whose",
+                "t": 10931.0,
+                "d": 228.0
+              },
+              {
+                "w": "spinning",
+                "t": 11159.0,
+                "d": 413.0
+              },
+              {
+                "w": "fed",
+                "t": 11573.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 11849.0,
+                "d": 183.0
+              },
+              {
+                "w": "bales",
+                "t": 12033.0,
+                "d": 598.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/arikamedu_s_bead_makers/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/arikamedu_s_bead_makers/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With every jar he sends seaward, he feels the pull of distant buyers who will never know his name.",
+            "hi": "हर घड़ा समंदर भेजते ही, उसे दूर के उन खरीदारों की खींच महसूस होती है जो उसका नाम कभी नहीं जानेंगे।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/action/action_auto2_en.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "every",
+                "t": 350.0,
+                "d": 440.0
+              },
+              {
+                "w": "jar",
+                "t": 790.0,
+                "d": 360.0
+              },
+              {
+                "w": "he",
+                "t": 1150.0,
+                "d": 200.0
+              },
+              {
+                "w": "sends",
+                "t": 1350.0,
+                "d": 320.0
+              },
+              {
+                "w": "seaward",
+                "t": 1670.0,
+                "d": 880.0
+              },
+              {
+                "w": "he",
+                "t": 2750.0,
+                "d": 280.0
+              },
+              {
+                "w": "feels",
+                "t": 3030.0,
+                "d": 319.0
+              },
+              {
+                "w": "the",
+                "t": 3349.0,
+                "d": 161.0
+              },
+              {
+                "w": "pull",
+                "t": 3510.0,
+                "d": 200.0
+              },
+              {
+                "w": "of",
+                "t": 3710.0,
+                "d": 159.0
+              },
+              {
+                "w": "distant",
+                "t": 3869.0,
+                "d": 401.0
+              },
+              {
+                "w": "buyers",
+                "t": 4270.0,
+                "d": 640.0
+              },
+              {
+                "w": "who",
+                "t": 5110.0,
+                "d": 120.0
+              },
+              {
+                "w": "will",
+                "t": 5230.0,
+                "d": 200.0
+              },
+              {
+                "w": "never",
+                "t": 5430.0,
+                "d": 360.0
+              },
+              {
+                "w": "know",
+                "t": 5790.0,
+                "d": 160.0
+              },
+              {
+                "w": "his",
+                "t": 5950.0,
+                "d": 160.0
+              },
+              {
+                "w": "name",
+                "t": 6110.0,
+                "d": 440.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/arikamedu_s_bead_makers/img/p12.png",
+      "shot": "interior domestic shot, evening, artisan’s family around a low lamp",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Many of these crafts were bound to caste and lineage; work ran in families, and while elite merchants appear in inscriptions, bead makers and weavers stayed hidden behind the goods they produced.",
+            "hi": "इनमें से कई पेशे जात‑कुल से बँधे थे; काम घरों में ही चलता, और जहाँ शिलालेखों में बड़े व्यापारी दिखते हैं, वहीं मनके‑साज़ और बुनकर अपने सामान के पीछे छिपे रह जाते हैं।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p12_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Many",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 457.0,
+                "d": 127.0
+              },
+              {
+                "w": "these",
+                "t": 585.0,
+                "d": 255.0
+              },
+              {
+                "w": "crafts",
+                "t": 840.0,
+                "d": 382.0
+              },
+              {
+                "w": "were",
+                "t": 1223.0,
+                "d": 212.0
+              },
+              {
+                "w": "bound",
+                "t": 1436.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 1691.0,
+                "d": 127.0
+              },
+              {
+                "w": "caste",
+                "t": 1819.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 2244.0,
+                "d": 170.0
+              },
+              {
+                "w": "lineage",
+                "t": 2414.0,
+                "d": 1021.0
+              },
+              {
+                "w": "work",
+                "t": 3478.0,
+                "d": 468.0
+              },
+              {
+                "w": "ran",
+                "t": 3946.0,
+                "d": 169.0
+              },
+              {
+                "w": "in",
+                "t": 4115.0,
+                "d": 127.0
+              },
+              {
+                "w": "families",
+                "t": 4243.0,
+                "d": 767.0
+              },
+              {
+                "w": "and",
+                "t": 5223.0,
+                "d": 297.0
+              },
+              {
+                "w": "while",
+                "t": 5521.0,
+                "d": 255.0
+              },
+              {
+                "w": "elite",
+                "t": 5776.0,
+                "d": 340.0
+              },
+              {
+                "w": "merchants",
+                "t": 6117.0,
+                "d": 553.0
+              },
+              {
+                "w": "appear",
+                "t": 6670.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 7095.0,
+                "d": 127.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 7223.0,
+                "d": 978.0
+              },
+              {
+                "w": "bead",
+                "t": 8244.0,
+                "d": 381.0
+              },
+              {
+                "w": "makers",
+                "t": 8626.0,
+                "d": 596.0
+              },
+              {
+                "w": "and",
+                "t": 9223.0,
+                "d": 212.0
+              },
+              {
+                "w": "weavers",
+                "t": 9436.0,
+                "d": 552.0
+              },
+              {
+                "w": "stayed",
+                "t": 9988.0,
+                "d": 639.0
+              },
+              {
+                "w": "hidden",
+                "t": 10627.0,
+                "d": 297.0
+              },
+              {
+                "w": "behind",
+                "t": 10925.0,
+                "d": 296.0
+              },
+              {
+                "w": "the",
+                "t": 11222.0,
+                "d": 128.0
+              },
+              {
+                "w": "goods",
+                "t": 11351.0,
+                "d": 297.0
+              },
+              {
+                "w": "they",
+                "t": 11648.0,
+                "d": 170.0
+              },
+              {
+                "w": "produced",
+                "t": 11819.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/arikamedu_s_bead_makers/img/p13.png",
+      "shot": "cross-cut to distant land, close-up of a foreign neck adorned with Indian beads",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Yet those hidden hands reached far: archaeologists now find Arikamedu-type beads in Sri Lanka, Southeast Asia and even Roman contexts, carried by trade routes whose full stories we are still piecing together.",
+            "hi": "पर उन्हीं छिपे हाथों की पहुँच दूर गई: पुरातत्वविद अब श्रीलंका, दक्षिण‑पूर्व एशिया और यहाँ तक कि रोमन स्थलों में भी आरिकामेडु‑क़िस्म के मनके पा रहे हैं, उन व्यापार मार्गों से उठाए हुए जिनकी पूरी कथा हम अभी जोड़ रहे हैं।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p13_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Yet",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "those",
+                "t": 372.0,
+                "d": 297.0
+              },
+              {
+                "w": "hidden",
+                "t": 670.0,
+                "d": 297.0
+              },
+              {
+                "w": "hands",
+                "t": 968.0,
+                "d": 340.0
+              },
+              {
+                "w": "reached",
+                "t": 1308.0,
+                "d": 425.0
+              },
+              {
+                "w": "far",
+                "t": 1734.0,
+                "d": 978.0
+              },
+              {
+                "w": "archaeologists",
+                "t": 2925.0,
+                "d": 936.0
+              },
+              {
+                "w": "now",
+                "t": 3861.0,
+                "d": 339.0
+              },
+              {
+                "w": "find",
+                "t": 4201.0,
+                "d": 298.0
+              },
+              {
+                "w": "Arikamedu-type",
+                "t": 4500.0,
+                "d": 936.0
+              },
+              {
+                "w": "beads",
+                "t": 5436.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 5861.0,
+                "d": 170.0
+              },
+              {
+                "w": "Sri",
+                "t": 6031.0,
+                "d": 212.0
+              },
+              {
+                "w": "Lanka",
+                "t": 6244.0,
+                "d": 553.0
+              },
+              {
+                "w": "Southeast",
+                "t": 7138.0,
+                "d": 680.0
+              },
+              {
+                "w": "Asia",
+                "t": 7819.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 8159.0,
+                "d": 638.0
+              },
+              {
+                "w": "even",
+                "t": 8797.0,
+                "d": 340.0
+              },
+              {
+                "w": "Roman",
+                "t": 9138.0,
+                "d": 382.0
+              },
+              {
+                "w": "contexts",
+                "t": 9521.0,
+                "d": 1021.0
+              },
+              {
+                "w": "carried",
+                "t": 10755.0,
+                "d": 381.0
+              },
+              {
+                "w": "by",
+                "t": 11137.0,
+                "d": 213.0
+              },
+              {
+                "w": "trade",
+                "t": 11351.0,
+                "d": 297.0
+              },
+              {
+                "w": "routes",
+                "t": 11648.0,
+                "d": 510.0
+              },
+              {
+                "w": "whose",
+                "t": 12201.0,
+                "d": 298.0
+              },
+              {
+                "w": "full",
+                "t": 12500.0,
+                "d": 255.0
+              },
+              {
+                "w": "stories",
+                "t": 12755.0,
+                "d": 553.0
+              },
+              {
+                "w": "we",
+                "t": 13308.0,
+                "d": 126.0
+              },
+              {
+                "w": "are",
+                "t": 13435.0,
+                "d": 128.0
+              },
+              {
+                "w": "still",
+                "t": 13563.0,
+                "d": 297.0
+              },
+              {
+                "w": "piecing",
+                "t": 13861.0,
+                "d": 381.0
+              },
+              {
+                "w": "together",
+                "t": 14243.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/arikamedu_s_bead_makers/img/p14.png",
+      "shot": "wide shot of settlement over time, with subtle fade from busy town to abandoned mound",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As trade currents shifted, Arikamedu's kilns cooled, its workshops thinned, but the site did not vanish; later occupations reused the ground, adding new layers to the mound Wheeler once cut open.",
+            "hi": "जब व्यापार की धार बदली, आरिकामेडु की भट्टियाँ ठंडी पड़ीं, कारख़ाने छंटे, पर स्थान मिटा नहीं; बाद की बसाहटों ने यही ज़मीन फिर ओढ़ी, उस टीले में नई परतें जोड़ीं जिसे कभी व्हीलर ने काटा था।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p14_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "trade",
+                "t": 287.0,
+                "d": 340.0
+              },
+              {
+                "w": "currents",
+                "t": 627.0,
+                "d": 340.0
+              },
+              {
+                "w": "shifted",
+                "t": 968.0,
+                "d": 808.0
+              },
+              {
+                "w": "Arikamedu's",
+                "t": 1946.0,
+                "d": 808.0
+              },
+              {
+                "w": "kilns",
+                "t": 2755.0,
+                "d": 424.0
+              },
+              {
+                "w": "cooled",
+                "t": 3179.0,
+                "d": 767.0
+              },
+              {
+                "w": "its",
+                "t": 4030.0,
+                "d": 256.0
+              },
+              {
+                "w": "workshops",
+                "t": 4287.0,
+                "d": 638.0
+              },
+              {
+                "w": "thinned",
+                "t": 4925.0,
+                "d": 638.0
+              },
+              {
+                "w": "but",
+                "t": 5776.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 5989.0,
+                "d": 127.0
+              },
+              {
+                "w": "site",
+                "t": 6117.0,
+                "d": 382.0
+              },
+              {
+                "w": "did",
+                "t": 6500.0,
+                "d": 127.0
+              },
+              {
+                "w": "not",
+                "t": 6627.0,
+                "d": 255.0
+              },
+              {
+                "w": "vanish",
+                "t": 6882.0,
+                "d": 1106.0
+              },
+              {
+                "w": "later",
+                "t": 8074.0,
+                "d": 552.0
+              },
+              {
+                "w": "occupations",
+                "t": 8626.0,
+                "d": 724.0
+              },
+              {
+                "w": "reused",
+                "t": 9351.0,
+                "d": 467.0
+              },
+              {
+                "w": "the",
+                "t": 9818.0,
+                "d": 128.0
+              },
+              {
+                "w": "ground",
+                "t": 9946.0,
+                "d": 723.0
+              },
+              {
+                "w": "adding",
+                "t": 10796.0,
+                "d": 425.0
+              },
+              {
+                "w": "new",
+                "t": 11222.0,
+                "d": 298.0
+              },
+              {
+                "w": "layers",
+                "t": 11521.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 11819.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 11904.0,
+                "d": 126.0
+              },
+              {
+                "w": "mound",
+                "t": 12030.0,
+                "d": 298.0
+              },
+              {
+                "w": "Wheeler",
+                "t": 12329.0,
+                "d": 723.0
+              },
+              {
+                "w": "once",
+                "t": 13179.0,
+                "d": 426.0
+              },
+              {
+                "w": "cut",
+                "t": 13606.0,
+                "d": 212.0
+              },
+              {
+                "w": "open",
+                "t": 13819.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/arikamedu_s_bead_makers/split_auto/s0.png",
+          "slogan": {
+            "en": "Let these beads outlive empires",
+            "hi": "इन मनकों से साम्राज्य मिटें"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/arikamedu_s_bead_makers/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/arikamedu_s_bead_makers/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Work, fire and river bind his fragile beads to centuries yet unborn, while Arikamedu's name sinks and rises with the tides.",
+            "hi": "काम, आग और नदी उसकी नाज़ुक मनके सदियों तक जोड़ते हैं, जबकि अरिकमेडु का नाम ज्वार के साथ डूबता‑उठता रहता है।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/split/split_auto_en.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Work",
+                "t": 72.0,
+                "d": 708.0
+              },
+              {
+                "w": "fire",
+                "t": 822.0,
+                "d": 541.0
+              },
+              {
+                "w": "and",
+                "t": 1364.0,
+                "d": 291.0
+              },
+              {
+                "w": "river",
+                "t": 1656.0,
+                "d": 333.0
+              },
+              {
+                "w": "bind",
+                "t": 1989.0,
+                "d": 375.0
+              },
+              {
+                "w": "his",
+                "t": 2364.0,
+                "d": 165.0
+              },
+              {
+                "w": "fragile",
+                "t": 2530.0,
+                "d": 541.0
+              },
+              {
+                "w": "beads",
+                "t": 3071.0,
+                "d": 375.0
+              },
+              {
+                "w": "to",
+                "t": 3446.0,
+                "d": 166.0
+              },
+              {
+                "w": "centuries",
+                "t": 3613.0,
+                "d": 667.0
+              },
+              {
+                "w": "yet",
+                "t": 4281.0,
+                "d": 291.0
+              },
+              {
+                "w": "unborn",
+                "t": 4614.0,
+                "d": 833.0
+              },
+              {
+                "w": "while",
+                "t": 6156.0,
+                "d": 333.0
+              },
+              {
+                "w": "Arikamedu's",
+                "t": 6489.0,
+                "d": 750.0
+              },
+              {
+                "w": "name",
+                "t": 7239.0,
+                "d": 250.0
+              },
+              {
+                "w": "sinks",
+                "t": 7489.0,
+                "d": 625.0
+              },
+              {
+                "w": "and",
+                "t": 8114.0,
+                "d": 373.0
+              },
+              {
+                "w": "rises",
+                "t": 8488.0,
+                "d": 416.0
+              },
+              {
+                "w": "with",
+                "t": 8905.0,
+                "d": 166.0
+              },
+              {
+                "w": "the",
+                "t": 9071.0,
+                "d": 167.0
+              },
+              {
+                "w": "tides",
+                "t": 9239.0,
+                "d": 623.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/arikamedu_s_bead_makers/img/p15.png",
+      "shot": "extreme close-up on artisan’s eyes looking toward the future, reflective mood",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today, when we read Arikamedu's soil through Begley, De Puma, Tomber and others, the old picture of a Roman outpost gives way to a subtler one of Indian agency shaping global taste.",
+            "hi": "आज जब हम बेगली, डे पुमा, टोम्बर और अन्य की पढ़ाई से आरिकामेडु की मिट्टी पढ़ते हैं, तो रोमन चौकी की पुरानी तस्वीर हटकर भारतीय पहल वाली, स्वाद गढ़ती सूक्ष्म तस्वीर उभरती है।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p15_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "when",
+                "t": 457.0,
+                "d": 212.0
+              },
+              {
+                "w": "we",
+                "t": 670.0,
+                "d": 170.0
+              },
+              {
+                "w": "read",
+                "t": 840.0,
+                "d": 297.0
+              },
+              {
+                "w": "Arikamedu's",
+                "t": 1138.0,
+                "d": 680.0
+              },
+              {
+                "w": "soil",
+                "t": 1819.0,
+                "d": 382.0
+              },
+              {
+                "w": "through",
+                "t": 2202.0,
+                "d": 296.0
+              },
+              {
+                "w": "Begley",
+                "t": 2498.0,
+                "d": 724.0
+              },
+              {
+                "w": "De",
+                "t": 3265.0,
+                "d": 296.0
+              },
+              {
+                "w": "Puma",
+                "t": 3562.0,
+                "d": 680.0
+              },
+              {
+                "w": "Tomber",
+                "t": 4287.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 4712.0,
+                "d": 255.0
+              },
+              {
+                "w": "others",
+                "t": 4968.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 5904.0,
+                "d": 297.0
+              },
+              {
+                "w": "old",
+                "t": 6202.0,
+                "d": 382.0
+              },
+              {
+                "w": "picture",
+                "t": 6585.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 7010.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 7138.0,
+                "d": 42.0
+              },
+              {
+                "w": "Roman",
+                "t": 7180.0,
+                "d": 382.0
+              },
+              {
+                "w": "outpost",
+                "t": 7563.0,
+                "d": 851.0
+              },
+              {
+                "w": "gives",
+                "t": 8500.0,
+                "d": 424.0
+              },
+              {
+                "w": "way",
+                "t": 8924.0,
+                "d": 298.0
+              },
+              {
+                "w": "to",
+                "t": 9223.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 9393.0,
+                "d": 42.0
+              },
+              {
+                "w": "subtler",
+                "t": 9436.0,
+                "d": 552.0
+              },
+              {
+                "w": "one",
+                "t": 9988.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 10287.0,
+                "d": 212.0
+              },
+              {
+                "w": "Indian",
+                "t": 10542.0,
+                "d": 424.0
+              },
+              {
+                "w": "agency",
+                "t": 10967.0,
+                "d": 808.0
+              },
+              {
+                "w": "shaping",
+                "t": 11819.0,
+                "d": 552.0
+              },
+              {
+                "w": "global",
+                "t": 12371.0,
+                "d": 723.0
+              },
+              {
+                "w": "taste",
+                "t": 13094.0,
+                "d": 0.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/arikamedu_s_bead_makers/img/p16.png",
+      "shot": "final wide shot, artisan standing on creek bank at dusk, ships faint on horizon",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Arikamedu reminds us that the story of empires is incomplete without the maker's town, that quiet places on forgotten creeks can bend the desires of far-off capitals without ever being ruled by them.",
+            "hi": "आरिकामेडु याद दिलाता है कि साम्राज्यों की कहानी बिना कारीगरों के नगर के अधूरी है—भूले‑बिसरे नालों के शांत बसेरे भी दूर राजधानियों की चाहत मोड़ सकते हैं, बिना उनके राज के नीचे आए।"
+          },
+          "audio": {
+            "en": "assets/arikamedu_s_bead_makers/audio/en/p16_0.mp3",
+            "hi": "assets/arikamedu_s_bead_makers/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Arikamedu",
+                "t": 80.0,
+                "d": 643.0
+              },
+              {
+                "w": "reminds",
+                "t": 724.0,
+                "d": 551.0
+              },
+              {
+                "w": "us",
+                "t": 1275.0,
+                "d": 183.0
+              },
+              {
+                "w": "that",
+                "t": 1459.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 1643.0,
+                "d": 137.0
+              },
+              {
+                "w": "story",
+                "t": 1781.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 2149.0,
+                "d": 229.0
+              },
+              {
+                "w": "empires",
+                "t": 2379.0,
+                "d": 781.0
+              },
+              {
+                "w": "is",
+                "t": 3205.0,
+                "d": 183.0
+              },
+              {
+                "w": "incomplete",
+                "t": 3389.0,
+                "d": 828.0
+              },
+              {
+                "w": "without",
+                "t": 4218.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 4678.0,
+                "d": 137.0
+              },
+              {
+                "w": "maker's",
+                "t": 4816.0,
+                "d": 505.0
+              },
+              {
+                "w": "town",
+                "t": 5321.0,
+                "d": 919.0
+              },
+              {
+                "w": "that",
+                "t": 6563.0,
+                "d": 321.0
+              },
+              {
+                "w": "quiet",
+                "t": 6885.0,
+                "d": 321.0
+              },
+              {
+                "w": "places",
+                "t": 7206.0,
+                "d": 413.0
+              },
+              {
+                "w": "on",
+                "t": 7620.0,
+                "d": 183.0
+              },
+              {
+                "w": "forgotten",
+                "t": 7804.0,
+                "d": 551.0
+              },
+              {
+                "w": "creeks",
+                "t": 8356.0,
+                "d": 735.0
+              },
+              {
+                "w": "can",
+                "t": 9183.0,
+                "d": 321.0
+              },
+              {
+                "w": "bend",
+                "t": 9505.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 9826.0,
+                "d": 139.0
+              },
+              {
+                "w": "desires",
+                "t": 9965.0,
+                "d": 689.0
+              },
+              {
+                "w": "of",
+                "t": 10655.0,
+                "d": 91.0
+              },
+              {
+                "w": "far-off",
+                "t": 10747.0,
+                "d": 505.0
+              },
+              {
+                "w": "capitals",
+                "t": 11252.0,
+                "d": 872.0
+              },
+              {
+                "w": "without",
+                "t": 12172.0,
+                "d": 550.0
+              },
+              {
+                "w": "ever",
+                "t": 12722.0,
+                "d": 322.0
+              },
+              {
+                "w": "being",
+                "t": 13045.0,
+                "d": 320.0
+              },
+              {
+                "w": "ruled",
+                "t": 13366.0,
+                "d": 322.0
+              },
+              {
+                "w": "by",
+                "t": 13689.0,
+                "d": 229.0
+              },
+              {
+                "w": "them",
+                "t": 13919.0,
+                "d": 320.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Arikamedu Artisan",
+    "epithets": [
+      "Glass-bead masters of Arikamedu",
+      "Coromandel sea traders",
+      "Craftsmen of Indo-Roman trade",
+      "Makers of rouletted ware"
+    ],
+    "legend": "They shaped tiny beads that linked a village to an empire."
+  }
+}
