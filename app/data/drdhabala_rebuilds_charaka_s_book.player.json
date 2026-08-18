@@ -1,3950 +1,3950 @@
 {
-  "id": "drdhabala_rebuilds_charaka_s_book",
-  "title": "Drdhabala Rebuilds Charaka's Book",
-  "title_i18n": {
-    "en": "Drdhabala Rebuilds Charaka's Book",
-    "hi": "दृढबल ने चरक की पुस्तक फिर जोड़ी"
-  },
-  "figure": "Drdhabala of Kashmir",
-  "era": "Charaka Samhita redaction and restoration, c. 8th-9th century CE",
-  "moral": "Preservation is also a form of invention.",
-  "langs": [
-    "en",
-    "hi"
-  ],
-  "panels": [
+ "id": "drdhabala_rebuilds_charaka_s_book",
+ "title": "Drdhabala Rebuilds Charaka's Book",
+ "title_i18n": {
+  "en": "Drdhabala Rebuilds Charaka's Book",
+  "hi": "दृढबल ने चरक की पुस्तक फिर जोड़ी"
+ },
+ "figure": "Drdhabala of Kashmir",
+ "era": "Charaka Samhita redaction and restoration, c. 8th-9th century CE",
+ "moral": "Preservation is also a form of invention.",
+ "langs": [
+  "en",
+  "hi"
+ ],
+ "panels": [
+  {
+   "id": "intro_hero",
+   "type": "hero",
+   "mood": "triumph",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/intro/hero.png",
+   "name": "Drdhabala of Kashmir",
+   "epithets": [
+    "Redactor of the Charaka Samhita",
+    "Physician-scholar of Kashmir",
+    "Restorer of lost medical lore"
+   ],
+   "legend": "He healed a broken book so it could heal the world.",
+   "era": "Charaka Samhita redaction and restoration, c. 8th-9th century CE",
+   "lines": [
     {
-      "id": "intro_hero",
-      "type": "hero",
-      "mood": "triumph",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/intro/hero.png",
-      "name": "Dṛḍhabala of Kashmir",
-      "epithets": [
-        "Redactor of the Charaka Samhita",
-        "Physician-scholar of Kashmir",
-        "Restorer of lost medical lore"
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "In Kashmir, Drdhabala found Charaka's great medical book torn and bare. With missing chapters, wrong cures, and sick bodies at stake, he dared to rewrite what even masters once wrote.",
+      "hi": "कश्मीर में दृढबाला ने चरक की महान चिकित्सा पुस्तक फटी‑पुरानी पाई। कई अध्याय गायब, नुस्खे गलत, और लोगों की जान दांव पर थी… फिर भी उसने वही किताब फिर से लिखने की ठानी, जिसे कभी महानों ने लिखा था।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/intro/hero_en.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/intro/hero_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "In",
+        "t": 72.0,
+        "d": 166.0
+       },
+       {
+        "w": "Kashmir",
+        "t": 239.0,
+        "d": 375.0
+       },
+       {
+        "w": "Drdhabala",
+        "t": 614.0,
+        "d": 1208.0
+       },
+       {
+        "w": "found",
+        "t": 1822.0,
+        "d": 333.0
+       },
+       {
+        "w": "Charaka's",
+        "t": 2156.0,
+        "d": 625.0
+       },
+       {
+        "w": "great",
+        "t": 2781.0,
+        "d": 375.0
+       },
+       {
+        "w": "medical",
+        "t": 3156.0,
+        "d": 415.0
+       },
+       {
+        "w": "book",
+        "t": 3571.0,
+        "d": 292.0
+       },
+       {
+        "w": "torn",
+        "t": 3864.0,
+        "d": 290.0
+       },
+       {
+        "w": "and",
+        "t": 4155.0,
+        "d": 167.0
+       },
+       {
+        "w": "bare",
+        "t": 4322.0,
+        "d": 625.0
+       },
+       {
+        "w": "With",
+        "t": 5322.0,
+        "d": 208.0
+       },
+       {
+        "w": "missing",
+        "t": 5531.0,
+        "d": 375.0
+       },
+       {
+        "w": "chapters",
+        "t": 5906.0,
+        "d": 750.0
+       },
+       {
+        "w": "wrong",
+        "t": 6781.0,
+        "d": 375.0
+       },
+       {
+        "w": "cures",
+        "t": 7156.0,
+        "d": 666.0
+       },
+       {
+        "w": "and",
+        "t": 7906.0,
+        "d": 291.0
+       },
+       {
+        "w": "sick",
+        "t": 8197.0,
+        "d": 207.0
+       },
+       {
+        "w": "bodies",
+        "t": 8405.0,
+        "d": 416.0
+       },
+       {
+        "w": "at",
+        "t": 8821.0,
+        "d": 126.0
+       },
+       {
+        "w": "stake",
+        "t": 8947.0,
+        "d": 665.0
+       },
+       {
+        "w": "he",
+        "t": 9822.0,
+        "d": 333.0
+       },
+       {
+        "w": "dared",
+        "t": 10156.0,
+        "d": 332.0
+       },
+       {
+        "w": "to",
+        "t": 10488.0,
+        "d": 209.0
+       },
+       {
+        "w": "rewrite",
+        "t": 10697.0,
+        "d": 750.0
+       },
+       {
+        "w": "what",
+        "t": 11572.0,
+        "d": 333.0
+       },
+       {
+        "w": "even",
+        "t": 11906.0,
+        "d": 375.0
+       },
+       {
+        "w": "masters",
+        "t": 12281.0,
+        "d": 500.0
+       },
+       {
+        "w": "once",
+        "t": 12781.0,
+        "d": 290.0
+       },
+       {
+        "w": "wrote",
+        "t": 13071.0,
+        "d": 417.0
+       }
       ],
-      "legend": "He healed a broken book so it could heal the world.",
-      "era": "Charaka Samhita redaction and restoration, c. 8th-9th century CE",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "In Kashmir, Drdhabala found Charaka's great medical book torn and bare. With missing chapters, wrong cures, and sick bodies at stake, he dared to rewrite what even masters once wrote.",
-            "hi": "कश्मीर में दृढबाला ने चरक की महान चिकित्सा पुस्तक फटी‑पुरानी पाई। कई अध्याय गायब, नुस्खे गलत, और लोगों की जान दांव पर थी… फिर भी उसने वही किताब फिर से लिखने की ठानी, जिसे कभी महानों ने लिखा था।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/intro/hero_en.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/intro/hero_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "In",
-                "t": 72.0,
-                "d": 166.0
-              },
-              {
-                "w": "Kashmir",
-                "t": 239.0,
-                "d": 375.0
-              },
-              {
-                "w": "Drdhabala",
-                "t": 614.0,
-                "d": 1208.0
-              },
-              {
-                "w": "found",
-                "t": 1822.0,
-                "d": 333.0
-              },
-              {
-                "w": "Charaka's",
-                "t": 2156.0,
-                "d": 625.0
-              },
-              {
-                "w": "great",
-                "t": 2781.0,
-                "d": 375.0
-              },
-              {
-                "w": "medical",
-                "t": 3156.0,
-                "d": 415.0
-              },
-              {
-                "w": "book",
-                "t": 3571.0,
-                "d": 292.0
-              },
-              {
-                "w": "torn",
-                "t": 3864.0,
-                "d": 290.0
-              },
-              {
-                "w": "and",
-                "t": 4155.0,
-                "d": 167.0
-              },
-              {
-                "w": "bare",
-                "t": 4322.0,
-                "d": 625.0
-              },
-              {
-                "w": "With",
-                "t": 5322.0,
-                "d": 208.0
-              },
-              {
-                "w": "missing",
-                "t": 5531.0,
-                "d": 375.0
-              },
-              {
-                "w": "chapters",
-                "t": 5906.0,
-                "d": 750.0
-              },
-              {
-                "w": "wrong",
-                "t": 6781.0,
-                "d": 375.0
-              },
-              {
-                "w": "cures",
-                "t": 7156.0,
-                "d": 666.0
-              },
-              {
-                "w": "and",
-                "t": 7906.0,
-                "d": 291.0
-              },
-              {
-                "w": "sick",
-                "t": 8197.0,
-                "d": 207.0
-              },
-              {
-                "w": "bodies",
-                "t": 8405.0,
-                "d": 416.0
-              },
-              {
-                "w": "at",
-                "t": 8821.0,
-                "d": 126.0
-              },
-              {
-                "w": "stake",
-                "t": 8947.0,
-                "d": 665.0
-              },
-              {
-                "w": "he",
-                "t": 9822.0,
-                "d": 333.0
-              },
-              {
-                "w": "dared",
-                "t": 10156.0,
-                "d": 332.0
-              },
-              {
-                "w": "to",
-                "t": 10488.0,
-                "d": 209.0
-              },
-              {
-                "w": "rewrite",
-                "t": 10697.0,
-                "d": 750.0
-              },
-              {
-                "w": "what",
-                "t": 11572.0,
-                "d": 333.0
-              },
-              {
-                "w": "even",
-                "t": 11906.0,
-                "d": 375.0
-              },
-              {
-                "w": "masters",
-                "t": 12281.0,
-                "d": 500.0
-              },
-              {
-                "w": "once",
-                "t": 12781.0,
-                "d": 290.0
-              },
-              {
-                "w": "wrote",
-                "t": 13071.0,
-                "d": 417.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "intro_map",
-      "type": "map",
-      "mood": "suspense",
-      "map": "assets/drdhabala_rebuilds_charaka_s_book/intro/map.png",
-      "x": 0.34,
-      "y": 0.13,
-      "label": "Kashmir Valley, northwestern India",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "High in the cool Kashmir valley, among scholars and snow peaks, a quiet healer bends over fading palm leaves, trying to save their wisdom.",
-            "hi": "ठंडी कश्मीर घाटी में, विद्वानों और हिम चोटियों के बीच, एक शांत वैद्य मुरझाए ताड़पत्रों पर झुका उनकी विद्या बचाने की जद्दोजहद में है।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/intro/map_en.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/intro/map_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "High",
-                "t": 80.0,
-                "d": 321.0
-              },
-              {
-                "w": "in",
-                "t": 402.0,
-                "d": 321.0
-              },
-              {
-                "w": "the",
-                "t": 724.0,
-                "d": 137.0
-              },
-              {
-                "w": "cool",
-                "t": 862.0,
-                "d": 275.0
-              },
-              {
-                "w": "Kashmir",
-                "t": 1137.0,
-                "d": 413.0
-              },
-              {
-                "w": "valley",
-                "t": 1551.0,
-                "d": 643.0
-              },
-              {
-                "w": "among",
-                "t": 2241.0,
-                "d": 367.0
-              },
-              {
-                "w": "scholars",
-                "t": 2609.0,
-                "d": 596.0
-              },
-              {
-                "w": "and",
-                "t": 3205.0,
-                "d": 183.0
-              },
-              {
-                "w": "snow",
-                "t": 3389.0,
-                "d": 322.0
-              },
-              {
-                "w": "peaks",
-                "t": 3712.0,
-                "d": 597.0
-              },
-              {
-                "w": "a",
-                "t": 4539.0,
-                "d": 277.0
-              },
-              {
-                "w": "quiet",
-                "t": 4816.0,
-                "d": 321.0
-              },
-              {
-                "w": "healer",
-                "t": 5137.0,
-                "d": 367.0
-              },
-              {
-                "w": "bends",
-                "t": 5505.0,
-                "d": 413.0
-              },
-              {
-                "w": "over",
-                "t": 5919.0,
-                "d": 275.0
-              },
-              {
-                "w": "fading",
-                "t": 6195.0,
-                "d": 459.0
-              },
-              {
-                "w": "palm",
-                "t": 6655.0,
-                "d": 275.0
-              },
-              {
-                "w": "leaves",
-                "t": 6931.0,
-                "d": 597.0
-              },
-              {
-                "w": "trying",
-                "t": 7758.0,
-                "d": 321.0
-              },
-              {
-                "w": "to",
-                "t": 8080.0,
-                "d": 137.0
-              },
-              {
-                "w": "save",
-                "t": 8218.0,
-                "d": 321.0
-              },
-              {
-                "w": "their",
-                "t": 8540.0,
-                "d": 229.0
-              },
-              {
-                "w": "wisdom",
-                "t": 8770.0,
-                "d": 642.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "cover",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/cover.png",
-      "shot": "epic three-quarter view, medium-wide, with manuscript fragments swirling around a seated scholar",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Centuries after Charaka, in the snows of Kashmir, Drdhabala faced a frightening truth: the great medical scripture lay broken, its heart missing, and the world still called it whole.",
-            "hi": "सदियों बाद, कश्मीर की बर्फ़ में, दृढबल ने देखा डरावना सच: महान आयुर्वेदिक ग्रंथ बिखरा था, उसका हृदय गायब, फिर भी दुनिया उसे पूरा मानती रही।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/cover_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/cover_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Centuries",
-                "t": 117.0,
-                "d": 680.0
-              },
-              {
-                "w": "after",
-                "t": 797.0,
-                "d": 297.0
-              },
-              {
-                "w": "Charaka",
-                "t": 1095.0,
-                "d": 765.0
-              },
-              {
-                "w": "in",
-                "t": 2031.0,
-                "d": 126.0
-              },
-              {
-                "w": "the",
-                "t": 2158.0,
-                "d": 128.0
-              },
-              {
-                "w": "snows",
-                "t": 2287.0,
-                "d": 382.0
-              },
-              {
-                "w": "of",
-                "t": 2670.0,
-                "d": 170.0
-              },
-              {
-                "w": "Kashmir",
-                "t": 2840.0,
-                "d": 510.0
-              },
-              {
-                "w": "Drdhabala",
-                "t": 3351.0,
-                "d": 382.0
-              },
-              {
-                "w": "faced",
-                "t": 4073.0,
-                "d": 511.0
-              },
-              {
-                "w": "a",
-                "t": 4585.0,
-                "d": 42.0
-              },
-              {
-                "w": "frightening",
-                "t": 4627.0,
-                "d": 1063.0
-              },
-              {
-                "w": "truth",
-                "t": 5691.0,
-                "d": 297.0
-              },
-              {
-                "w": "the",
-                "t": 5989.0,
-                "d": 297.0
-              },
-              {
-                "w": "great",
-                "t": 7138.0,
-                "d": 425.0
-              },
-              {
-                "w": "medical",
-                "t": 7563.0,
-                "d": 425.0
-              },
-              {
-                "w": "scripture",
-                "t": 7989.0,
-                "d": 552.0
-              },
-              {
-                "w": "lay",
-                "t": 8541.0,
-                "d": 212.0
-              },
-              {
-                "w": "broken",
-                "t": 8754.0,
-                "d": 767.0
-              },
-              {
-                "w": "its",
-                "t": 9776.0,
-                "d": 296.0
-              },
-              {
-                "w": "heart",
-                "t": 10073.0,
-                "d": 298.0
-              },
-              {
-                "w": "missing",
-                "t": 10372.0,
-                "d": 935.0
-              },
-              {
-                "w": "and",
-                "t": 11392.0,
-                "d": 213.0
-              },
-              {
-                "w": "the",
-                "t": 11606.0,
-                "d": 127.0
-              },
-              {
-                "w": "world",
-                "t": 11734.0,
-                "d": 381.0
-              },
-              {
-                "w": "still",
-                "t": 12115.0,
-                "d": 426.0
-              },
-              {
-                "w": "called",
-                "t": 12542.0,
-                "d": 381.0
-              },
-              {
-                "w": "it",
-                "t": 12924.0,
-                "d": 85.0
-              },
-              {
-                "w": "whole",
-                "t": 13009.0,
-                "d": 510.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p01",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p01.png",
-      "shot": "sweeping bird's-eye over ancient subcontinent map fading into layered manuscripts",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "The work we call Charaka Samhita was never a single voice, never a single age; it was a river of words, fed by Agnivesa, reshaped by Charaka, and carried forward by hands now forgotten.",
-            "hi": "जिसे हम चरक संहिता कहते हैं, वह कभी एक आवाज़ या एक युग नहीं था; यह शब्दों की नदी थी, अग्निवेश से उठी, चरक ने सँवारा, और अनजाने हाथों ने आगे बढ़ाया।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p01_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p01_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "The",
-                "t": 117.0,
-                "d": 212.0
-              },
-              {
-                "w": "work",
-                "t": 329.0,
-                "d": 340.0
-              },
-              {
-                "w": "we",
-                "t": 670.0,
-                "d": 170.0
-              },
-              {
-                "w": "call",
-                "t": 840.0,
-                "d": 255.0
-              },
-              {
-                "w": "Charaka",
-                "t": 1095.0,
-                "d": 425.0
-              },
-              {
-                "w": "Samhita",
-                "t": 1521.0,
-                "d": 468.0
-              },
-              {
-                "w": "was",
-                "t": 1989.0,
-                "d": 212.0
-              },
-              {
-                "w": "never",
-                "t": 2202.0,
-                "d": 254.0
-              },
-              {
-                "w": "a",
-                "t": 2456.0,
-                "d": 85.0
-              },
-              {
-                "w": "single",
-                "t": 2541.0,
-                "d": 425.0
-              },
-              {
-                "w": "voice",
-                "t": 2967.0,
-                "d": 767.0
-              },
-              {
-                "w": "never",
-                "t": 3819.0,
-                "d": 381.0
-              },
-              {
-                "w": "a",
-                "t": 4201.0,
-                "d": 42.0
-              },
-              {
-                "w": "single",
-                "t": 4243.0,
-                "d": 511.0
-              },
-              {
-                "w": "age",
-                "t": 4755.0,
-                "d": 723.0
-              },
-              {
-                "w": "it",
-                "t": 5521.0,
-                "d": 212.0
-              },
-              {
-                "w": "was",
-                "t": 5734.0,
-                "d": 170.0
-              },
-              {
-                "w": "a",
-                "t": 5904.0,
-                "d": 85.0
-              },
-              {
-                "w": "river",
-                "t": 5989.0,
-                "d": 255.0
-              },
-              {
-                "w": "of",
-                "t": 6244.0,
-                "d": 212.0
-              },
-              {
-                "w": "words",
-                "t": 6457.0,
-                "d": 638.0
-              },
-              {
-                "w": "fed",
-                "t": 7478.0,
-                "d": 297.0
-              },
-              {
-                "w": "by",
-                "t": 7776.0,
-                "d": 212.0
-              },
-              {
-                "w": "Agnivesa",
-                "t": 7989.0,
-                "d": 978.0
-              },
-              {
-                "w": "reshaped",
-                "t": 9223.0,
-                "d": 638.0
-              },
-              {
-                "w": "by",
-                "t": 9861.0,
-                "d": 211.0
-              },
-              {
-                "w": "Charaka",
-                "t": 10073.0,
-                "d": 384.0
-              },
-              {
-                "w": "and",
-                "t": 10457.0,
-                "d": 764.0
-              },
-              {
-                "w": "carried",
-                "t": 11222.0,
-                "d": 384.0
-              },
-              {
-                "w": "forward",
-                "t": 11606.0,
-                "d": 424.0
-              },
-              {
-                "w": "by",
-                "t": 12030.0,
-                "d": 170.0
-              },
-              {
-                "w": "hands",
-                "t": 12201.0,
-                "d": 384.0
-              },
-              {
-                "w": "now",
-                "t": 12585.0,
-                "d": 212.0
-              },
-              {
-                "w": "forgotten",
-                "t": 12797.0,
-                "d": 722.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p02",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p02.png",
-      "shot": "slow push-in on an old manuscript bundle being unwrapped on a wooden desk",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Somewhere between the early Common Era and the early centuries that followed, Charaka reworked an older teaching of Agnivesa into a vast compendium of the body, disease and duty.",
-            "hi": "ईसवी की शुरुआती सदियों के आस‑पास, चरक ने अग्निवेश की पुरानी शिक्षा को देह, रोग और धर्म का विशाल ग्रंथ बना दिया।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p02_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p02_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Somewhere",
-                "t": 74.0,
-                "d": 553.0
-              },
-              {
-                "w": "between",
-                "t": 627.0,
-                "d": 297.0
-              },
-              {
-                "w": "the",
-                "t": 925.0,
-                "d": 127.0
-              },
-              {
-                "w": "early",
-                "t": 1053.0,
-                "d": 468.0
-              },
-              {
-                "w": "Common",
-                "t": 1521.0,
-                "d": 425.0
-              },
-              {
-                "w": "Era",
-                "t": 1946.0,
-                "d": 255.0
-              },
-              {
-                "w": "and",
-                "t": 2202.0,
-                "d": 638.0
-              },
-              {
-                "w": "the",
-                "t": 2840.0,
-                "d": 126.0
-              },
-              {
-                "w": "early",
-                "t": 2967.0,
-                "d": 426.0
-              },
-              {
-                "w": "centuries",
-                "t": 3393.0,
-                "d": 595.0
-              },
-              {
-                "w": "that",
-                "t": 3989.0,
-                "d": 211.0
-              },
-              {
-                "w": "followed",
-                "t": 4201.0,
-                "d": 894.0
-              },
-              {
-                "w": "Charaka",
-                "t": 5308.0,
-                "d": 723.0
-              },
-              {
-                "w": "reworked",
-                "t": 6159.0,
-                "d": 638.0
-              },
-              {
-                "w": "an",
-                "t": 6797.0,
-                "d": 127.0
-              },
-              {
-                "w": "older",
-                "t": 6968.0,
-                "d": 425.0
-              },
-              {
-                "w": "teaching",
-                "t": 7393.0,
-                "d": 425.0
-              },
-              {
-                "w": "of",
-                "t": 7819.0,
-                "d": 170.0
-              },
-              {
-                "w": "Agnivesa",
-                "t": 7989.0,
-                "d": 978.0
-              },
-              {
-                "w": "into",
-                "t": 8968.0,
-                "d": 255.0
-              },
-              {
-                "w": "a",
-                "t": 9223.0,
-                "d": 85.0
-              },
-              {
-                "w": "vast",
-                "t": 9308.0,
-                "d": 468.0
-              },
-              {
-                "w": "compendium",
-                "t": 9776.0,
-                "d": 638.0
-              },
-              {
-                "w": "of",
-                "t": 10414.0,
-                "d": 127.0
-              },
-              {
-                "w": "the",
-                "t": 10542.0,
-                "d": 127.0
-              },
-              {
-                "w": "body",
-                "t": 10670.0,
-                "d": 765.0
-              },
-              {
-                "w": "disease",
-                "t": 11563.0,
-                "d": 680.0
-              },
-              {
-                "w": "and",
-                "t": 12329.0,
-                "d": 297.0
-              },
-              {
-                "w": "duty",
-                "t": 12627.0,
-                "d": 595.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p03",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p03.png",
-      "shot": "low-angle interior wide shot of a teaching hall with physicians and students, scrolls around",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "In its verses, physicians found a stern ideal: to observe keenly, argue carefully, live cleanly; yet the same verses guarded training for the high-born and refused care to the condemned.",
-            "hi": "इन श्लोकों में वैद्य को सख्त आदर्श मिलता है: तेज़ नजर, साफ़ तर्क, सादा जीवन; और उन्हीं श्लोकों में ऊँचे जन्म वालों के लिए ही शिक्षा, और दोषी ठहराए गए लोगों से इलाज छीन लिया गया।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p03_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p03_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "In",
-                "t": 74.0,
-                "d": 212.0
-              },
-              {
-                "w": "its",
-                "t": 287.0,
-                "d": 170.0
-              },
-              {
-                "w": "verses",
-                "t": 457.0,
-                "d": 723.0
-              },
-              {
-                "w": "physicians",
-                "t": 1351.0,
-                "d": 595.0
-              },
-              {
-                "w": "found",
-                "t": 1946.0,
-                "d": 297.0
-              },
-              {
-                "w": "a",
-                "t": 2244.0,
-                "d": 42.0
-              },
-              {
-                "w": "stern",
-                "t": 2287.0,
-                "d": 425.0
-              },
-              {
-                "w": "ideal",
-                "t": 2712.0,
-                "d": 765.0
-              },
-              {
-                "w": "to",
-                "t": 3861.0,
-                "d": 127.0
-              },
-              {
-                "w": "observe",
-                "t": 3989.0,
-                "d": 553.0
-              },
-              {
-                "w": "keenly",
-                "t": 4542.0,
-                "d": 851.0
-              },
-              {
-                "w": "argue",
-                "t": 5436.0,
-                "d": 510.0
-              },
-              {
-                "w": "carefully",
-                "t": 5946.0,
-                "d": 851.0
-              },
-              {
-                "w": "live",
-                "t": 6797.0,
-                "d": 468.0
-              },
-              {
-                "w": "cleanly",
-                "t": 7265.0,
-                "d": 936.0
-              },
-              {
-                "w": "yet",
-                "t": 8500.0,
-                "d": 339.0
-              },
-              {
-                "w": "the",
-                "t": 8839.0,
-                "d": 170.0
-              },
-              {
-                "w": "same",
-                "t": 9009.0,
-                "d": 298.0
-              },
-              {
-                "w": "verses",
-                "t": 9308.0,
-                "d": 509.0
-              },
-              {
-                "w": "guarded",
-                "t": 9818.0,
-                "d": 384.0
-              },
-              {
-                "w": "training",
-                "t": 10202.0,
-                "d": 425.0
-              },
-              {
-                "w": "for",
-                "t": 10627.0,
-                "d": 127.0
-              },
-              {
-                "w": "the",
-                "t": 10755.0,
-                "d": 126.0
-              },
-              {
-                "w": "high-born",
-                "t": 10881.0,
-                "d": 554.0
-              },
-              {
-                "w": "and",
-                "t": 11775.0,
-                "d": 298.0
-              },
-              {
-                "w": "refused",
-                "t": 12074.0,
-                "d": 553.0
-              },
-              {
-                "w": "care",
-                "t": 12627.0,
-                "d": 340.0
-              },
-              {
-                "w": "to",
-                "t": 12968.0,
-                "d": 85.0
-              },
-              {
-                "w": "the",
-                "t": 13053.0,
-                "d": 126.0
-              },
-              {
-                "w": "condemned",
-                "t": 13179.0,
-                "d": 808.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p04",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p04.png",
-      "shot": "montage-style, medium shots of manuscripts being copied, eaten by insects, burned, and lost in travel",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "But palm leaves crack, birch bark molds, fires come without warning. Copyists fall ill, patrons vanish, caravans are waylaid. Bit by bit, chapters go missing and no one knows where they fell.",
-            "hi": "लेकिन ताड़पत्र फटते हैं, भोजपत्र सड़ते हैं, आग अचानक लग जाती है। नकलनवीस बीमार पड़ते हैं, संरक्षक गायब, काफिले लूटे जाते हैं। धीरे‑धीरे अध्याय गुम हो जाते हैं, और कोई नहीं जानता कहाँ गिर पड़े।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p04_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p04_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "But",
-                "t": 80.0,
-                "d": 321.0
-              },
-              {
-                "w": "palm",
-                "t": 402.0,
-                "d": 367.0
-              },
-              {
-                "w": "leaves",
-                "t": 770.0,
-                "d": 367.0
-              },
-              {
-                "w": "crack",
-                "t": 1137.0,
-                "d": 919.0
-              },
-              {
-                "w": "birch",
-                "t": 2241.0,
-                "d": 458.0
-              },
-              {
-                "w": "bark",
-                "t": 2700.0,
-                "d": 368.0
-              },
-              {
-                "w": "molds",
-                "t": 3068.0,
-                "d": 780.0
-              },
-              {
-                "w": "fires",
-                "t": 4126.0,
-                "d": 689.0
-              },
-              {
-                "w": "come",
-                "t": 4816.0,
-                "d": 321.0
-              },
-              {
-                "w": "without",
-                "t": 5137.0,
-                "d": 413.0
-              },
-              {
-                "w": "warning",
-                "t": 5551.0,
-                "d": 1103.0
-              },
-              {
-                "w": "Copyists",
-                "t": 6793.0,
-                "d": 735.0
-              },
-              {
-                "w": "fall",
-                "t": 7528.0,
-                "d": 919.0
-              },
-              {
-                "w": "ill",
-                "t": 8632.0,
-                "d": 183.0
-              },
-              {
-                "w": "patrons",
-                "t": 8816.0,
-                "d": 596.0
-              },
-              {
-                "w": "vanish",
-                "t": 9412.0,
-                "d": 874.0
-              },
-              {
-                "w": "caravans",
-                "t": 10424.0,
-                "d": 690.0
-              },
-              {
-                "w": "are",
-                "t": 11114.0,
-                "d": 137.0
-              },
-              {
-                "w": "waylaid",
-                "t": 11252.0,
-                "d": 964.0
-              },
-              {
-                "w": "Bit",
-                "t": 12770.0,
-                "d": 320.0
-              },
-              {
-                "w": "by",
-                "t": 13090.0,
-                "d": 275.0
-              },
-              {
-                "w": "bit",
-                "t": 13366.0,
-                "d": 460.0
-              },
-              {
-                "w": "chapters",
-                "t": 13872.0,
-                "d": 598.0
-              },
-              {
-                "w": "go",
-                "t": 14471.0,
-                "d": 183.0
-              },
-              {
-                "w": "missing",
-                "t": 14655.0,
-                "d": 413.0
-              },
-              {
-                "w": "and",
-                "t": 15068.0,
-                "d": 136.0
-              },
-              {
-                "w": "no",
-                "t": 15205.0,
-                "d": 139.0
-              },
-              {
-                "w": "one",
-                "t": 15344.0,
-                "d": 275.0
-              },
-              {
-                "w": "knows",
-                "t": 15620.0,
-                "d": 321.0
-              },
-              {
-                "w": "where",
-                "t": 15942.0,
-                "d": 228.0
-              },
-              {
-                "w": "they",
-                "t": 16171.0,
-                "d": 183.0
-              },
-              {
-                "w": "fell",
-                "t": 16355.0,
-                "d": 551.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p05",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p05.png",
-      "shot": "establishing wide shot of Kashmir valley with monastery or scholarly house in foreground",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Centuries later, perhaps in the eighth or ninth century, tradition places a physician named Drdhabala in Kashmir, on the northern rim of this manuscript world, walking into its cold.",
-            "hi": "सदियों बाद, शायद आठवीं‑नौवीं सदी में, परंपरा एक वैद्य दृढबल को कश्मीर में रखती है, पांडुलिपि जगत की उत्तरी किनारी पर, ठंड में कदम रखते हुए।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p05_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p05_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Centuries",
-                "t": 159.0,
-                "d": 595.0
-              },
-              {
-                "w": "later",
-                "t": 755.0,
-                "d": 680.0
-              },
-              {
-                "w": "perhaps",
-                "t": 1563.0,
-                "d": 510.0
-              },
-              {
-                "w": "in",
-                "t": 2074.0,
-                "d": 170.0
-              },
-              {
-                "w": "the",
-                "t": 2244.0,
-                "d": 127.0
-              },
-              {
-                "w": "eighth",
-                "t": 2372.0,
-                "d": 510.0
-              },
-              {
-                "w": "or",
-                "t": 2925.0,
-                "d": 169.0
-              },
-              {
-                "w": "ninth",
-                "t": 3094.0,
-                "d": 384.0
-              },
-              {
-                "w": "century",
-                "t": 3478.0,
-                "d": 1276.0
-              },
-              {
-                "w": "tradition",
-                "t": 4755.0,
-                "d": 595.0
-              },
-              {
-                "w": "places",
-                "t": 5351.0,
-                "d": 468.0
-              },
-              {
-                "w": "a",
-                "t": 5819.0,
-                "d": 85.0
-              },
-              {
-                "w": "physician",
-                "t": 5904.0,
-                "d": 510.0
-              },
-              {
-                "w": "named",
-                "t": 6414.0,
-                "d": 382.0
-              },
-              {
-                "w": "Drdhabala",
-                "t": 6797.0,
-                "d": 1106.0
-              },
-              {
-                "w": "in",
-                "t": 7904.0,
-                "d": 170.0
-              },
-              {
-                "w": "Kashmir",
-                "t": 8074.0,
-                "d": 679.0
-              },
-              {
-                "w": "on",
-                "t": 9179.0,
-                "d": 171.0
-              },
-              {
-                "w": "the",
-                "t": 9351.0,
-                "d": 170.0
-              },
-              {
-                "w": "northern",
-                "t": 9521.0,
-                "d": 425.0
-              },
-              {
-                "w": "rim",
-                "t": 9946.0,
-                "d": 296.0
-              },
-              {
-                "w": "of",
-                "t": 10287.0,
-                "d": 170.0
-              },
-              {
-                "w": "this",
-                "t": 10457.0,
-                "d": 254.0
-              },
-              {
-                "w": "manuscript",
-                "t": 10711.0,
-                "d": 639.0
-              },
-              {
-                "w": "world",
-                "t": 11351.0,
-                "d": 509.0
-              },
-              {
-                "w": "walking",
-                "t": 12244.0,
-                "d": 553.0
-              },
-              {
-                "w": "into",
-                "t": 12797.0,
-                "d": 255.0
-              },
-              {
-                "w": "its",
-                "t": 13053.0,
-                "d": 211.0
-              },
-              {
-                "w": "cold",
-                "t": 13264.0,
-                "d": 596.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "action_auto",
-      "type": "action",
-      "mood": "suspense",
-      "bg": "assets/drdhabala_rebuilds_charaka_s_book/action_auto/bg.png",
-      "chars": [
-        {
-          "img": "assets/drdhabala_rebuilds_charaka_s_book/action_auto/char0.png",
-          "motion": {
-            "fromX": -40,
-            "toX": -10,
-            "fromScale": 0.82,
-            "toScale": 1.03,
-            "rot": -2,
-            "dur": 7200
-          }
-        }
-      ],
-      "motion": {
-        "bgZoom": 1.12,
-        "bgPan": -6,
-        "dur": 7200
-      },
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "From secluded Kashmiri heights, Drdhabala vows to rescue every fading syllable from oblivion's slow, creeping frost.",
-            "hi": "कश्मीरी ऊँचाइयों में छिपी द्र्ढ़बाला कसम खाती है, हर मुरझाती ध्वनि को भूल की ठंडी पकड़ से बचाएगी।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/action/action_auto_en.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/action/action_auto_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "From",
-                "t": 80.0,
-                "d": 321.0
-              },
-              {
-                "w": "secluded",
-                "t": 402.0,
-                "d": 643.0
-              },
-              {
-                "w": "Kashmiri",
-                "t": 1045.0,
-                "d": 505.0
-              },
-              {
-                "w": "heights",
-                "t": 1551.0,
-                "d": 643.0
-              },
-              {
-                "w": "Drdhabala",
-                "t": 2563.0,
-                "d": 780.0
-              },
-              {
-                "w": "vows",
-                "t": 3343.0,
-                "d": 368.0
-              },
-              {
-                "w": "to",
-                "t": 3712.0,
-                "d": 182.0
-              },
-              {
-                "w": "rescue",
-                "t": 3895.0,
-                "d": 597.0
-              },
-              {
-                "w": "every",
-                "t": 4539.0,
-                "d": 506.0
-              },
-              {
-                "w": "fading",
-                "t": 5045.0,
-                "d": 459.0
-              },
-              {
-                "w": "syllable",
-                "t": 5505.0,
-                "d": 551.0
-              },
-              {
-                "w": "from",
-                "t": 6057.0,
-                "d": 275.0
-              },
-              {
-                "w": "oblivion's",
-                "t": 6333.0,
-                "d": 689.0
-              },
-              {
-                "w": "slow",
-                "t": 7022.0,
-                "d": 689.0
-              },
-              {
-                "w": "creeping",
-                "t": 7988.0,
-                "d": 597.0
-              },
-              {
-                "w": "frost",
-                "t": 8586.0,
-                "d": 642.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p06",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p06.png",
-      "shot": "medium close-up of Drdhabala examining a damaged manuscript leaf by lamplight",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "He opened what passed for Charaka in his time and met gaps: sections on the later parts of treatment and the very end of the book, Siddhi, torn or simply absent.",
-            "hi": "उसने अपने समय की चरक संहिता खोली तो खालीपन मिला: उपचार के उत्तर भागों पर अध्याय और अंतिम खंड सिद्धि, फटे हुए या बिलकुल गायब।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p06_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p06_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "He",
-                "t": 74.0,
-                "d": 297.0
-              },
-              {
-                "w": "opened",
-                "t": 372.0,
-                "d": 340.0
-              },
-              {
-                "w": "what",
-                "t": 712.0,
-                "d": 340.0
-              },
-              {
-                "w": "passed",
-                "t": 1053.0,
-                "d": 340.0
-              },
-              {
-                "w": "for",
-                "t": 1393.0,
-                "d": 127.0
-              },
-              {
-                "w": "Charaka",
-                "t": 1521.0,
-                "d": 382.0
-              },
-              {
-                "w": "in",
-                "t": 1904.0,
-                "d": 127.0
-              },
-              {
-                "w": "his",
-                "t": 2031.0,
-                "d": 212.0
-              },
-              {
-                "w": "time",
-                "t": 2244.0,
-                "d": 425.0
-              },
-              {
-                "w": "and",
-                "t": 2712.0,
-                "d": 212.0
-              },
-              {
-                "w": "met",
-                "t": 2925.0,
-                "d": 297.0
-              },
-              {
-                "w": "gaps",
-                "t": 3223.0,
-                "d": 1191.0
-              },
-              {
-                "w": "sections",
-                "t": 4542.0,
-                "d": 638.0
-              },
-              {
-                "w": "on",
-                "t": 5180.0,
-                "d": 127.0
-              },
-              {
-                "w": "the",
-                "t": 5308.0,
-                "d": 127.0
-              },
-              {
-                "w": "later",
-                "t": 5436.0,
-                "d": 340.0
-              },
-              {
-                "w": "parts",
-                "t": 5776.0,
-                "d": 340.0
-              },
-              {
-                "w": "of",
-                "t": 6117.0,
-                "d": 127.0
-              },
-              {
-                "w": "treatment",
-                "t": 6244.0,
-                "d": 893.0
-              },
-              {
-                "w": "and",
-                "t": 7138.0,
-                "d": 212.0
-              },
-              {
-                "w": "the",
-                "t": 7351.0,
-                "d": 127.0
-              },
-              {
-                "w": "very",
-                "t": 7478.0,
-                "d": 425.0
-              },
-              {
-                "w": "end",
-                "t": 7904.0,
-                "d": 255.0
-              },
-              {
-                "w": "of",
-                "t": 8159.0,
-                "d": 127.0
-              },
-              {
-                "w": "the",
-                "t": 8287.0,
-                "d": 127.0
-              },
-              {
-                "w": "book",
-                "t": 8414.0,
-                "d": 679.0
-              },
-              {
-                "w": "Siddhi",
-                "t": 9138.0,
-                "d": 594.0
-              },
-              {
-                "w": "torn",
-                "t": 10073.0,
-                "d": 596.0
-              },
-              {
-                "w": "or",
-                "t": 10840.0,
-                "d": 211.0
-              },
-              {
-                "w": "simply",
-                "t": 11052.0,
-                "d": 511.0
-              },
-              {
-                "w": "absent",
-                "t": 11606.0,
-                "d": 808.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p07",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p07.png",
-      "shot": "close-up on Drdhabala’s eyes and fingertips tracing lines, with multiple manuscripts in background",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "speech",
-          "role": "male",
-          "text": {
-            "en": "The teaching breaks here. What did Charaka intend us to see?",
-            "hi": "यहीं शिक्षा टूटती है। चरक हमें क्या दिखाना चाहते थे?"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p07_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p07_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "The",
-                "t": 49.0,
-                "d": 98.0
-              },
-              {
-                "w": "teaching",
-                "t": 159.3,
-                "d": 490.2
-              },
-              {
-                "w": "breaks",
-                "t": 649.5,
-                "d": 379.9
-              },
-              {
-                "w": "here",
-                "t": 1029.4,
-                "d": 343.1
-              },
-              {
-                "w": "What",
-                "t": 2267.2,
-                "d": 281.9
-              },
-              {
-                "w": "did",
-                "t": 2610.3,
-                "d": 245.1
-              },
-              {
-                "w": "Charaka",
-                "t": 2879.9,
-                "d": 392.2
-              },
-              {
-                "w": "intend",
-                "t": 3308.8,
-                "d": 441.2
-              },
-              {
-                "w": "us",
-                "t": 3750.0,
-                "d": 171.6
-              },
-              {
-                "w": "to",
-                "t": 3933.8,
-                "d": 110.3
-              },
-              {
-                "w": "see",
-                "t": 4044.1,
-                "d": 294.1
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p08",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p08.png",
-      "shot": "over-the-shoulder shot of Drdhabala reading earlier colophons on a manuscript",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "The colophons he read named Agnivesa as source, Charaka as redactor. They did not yet know that his own hand would become the third layer in this long medical palimpsest.",
-            "hi": "जिस अंतिका को उसने पढ़ा, वे अग्निवेश को मूल और चरक को संपादक बताते थे। उन्हें अभी पता नहीं था कि इसी ग्रंथ में तीसरी परत उसकी अपनी बनेगी।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p08_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p08_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "The",
-                "t": 74.0,
-                "d": 212.0
-              },
-              {
-                "w": "colophons",
-                "t": 287.0,
-                "d": 553.0
-              },
-              {
-                "w": "he",
-                "t": 840.0,
-                "d": 170.0
-              },
-              {
-                "w": "read",
-                "t": 1010.0,
-                "d": 297.0
-              },
-              {
-                "w": "named",
-                "t": 1308.0,
-                "d": 468.0
-              },
-              {
-                "w": "Agnivesa",
-                "t": 1819.0,
-                "d": 637.0
-              },
-              {
-                "w": "as",
-                "t": 2456.0,
-                "d": 384.0
-              },
-              {
-                "w": "source",
-                "t": 2840.0,
-                "d": 893.0
-              },
-              {
-                "w": "Charaka",
-                "t": 3861.0,
-                "d": 425.0
-              },
-              {
-                "w": "as",
-                "t": 4287.0,
-                "d": 425.0
-              },
-              {
-                "w": "redactor",
-                "t": 4712.0,
-                "d": 851.0
-              },
-              {
-                "w": "They",
-                "t": 6117.0,
-                "d": 255.0
-              },
-              {
-                "w": "did",
-                "t": 6372.0,
-                "d": 170.0
-              },
-              {
-                "w": "not",
-                "t": 6542.0,
-                "d": 255.0
-              },
-              {
-                "w": "yet",
-                "t": 6797.0,
-                "d": 212.0
-              },
-              {
-                "w": "know",
-                "t": 7010.0,
-                "d": 255.0
-              },
-              {
-                "w": "that",
-                "t": 7265.0,
-                "d": 212.0
-              },
-              {
-                "w": "his",
-                "t": 7478.0,
-                "d": 212.0
-              },
-              {
-                "w": "own",
-                "t": 7691.0,
-                "d": 340.0
-              },
-              {
-                "w": "hand",
-                "t": 8031.0,
-                "d": 297.0
-              },
-              {
-                "w": "would",
-                "t": 8329.0,
-                "d": 211.0
-              },
-              {
-                "w": "become",
-                "t": 8541.0,
-                "d": 382.0
-              },
-              {
-                "w": "the",
-                "t": 8924.0,
-                "d": 255.0
-              },
-              {
-                "w": "third",
-                "t": 9179.0,
-                "d": 341.0
-              },
-              {
-                "w": "layer",
-                "t": 9521.0,
-                "d": 425.0
-              },
-              {
-                "w": "in",
-                "t": 9988.0,
-                "d": 255.0
-              },
-              {
-                "w": "this",
-                "t": 10243.0,
-                "d": 213.0
-              },
-              {
-                "w": "long",
-                "t": 10457.0,
-                "d": 468.0
-              },
-              {
-                "w": "medical",
-                "t": 10925.0,
-                "d": 425.0
-              },
-              {
-                "w": "palimpsest",
-                "t": 11351.0,
-                "d": 935.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p09",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p09.png",
-      "shot": "medium shot of Drdhabala in discussion with another anonymous scholar-physician, manuscripts between them",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Later scholars would reconstruct his choices, but his own words survive only where he signed them: brief, matter-of-fact notes saying that where Charaka's text was missing, he supplied and completed it.",
-            "hi": "बाद के पंडित उसकी पसंदों को जोड़ेंगे, पर उसके अपने शब्द बस वहीं बचे हैं जहाँ उसने हाथ रखा: छोटे, सीधे नोट कि जहाँ चरक का पाठ नहीं था, वहाँ उसने जोड़कर पूरा किया।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p09_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p09_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Later",
-                "t": 74.0,
-                "d": 425.0
-              },
-              {
-                "w": "scholars",
-                "t": 500.0,
-                "d": 510.0
-              },
-              {
-                "w": "would",
-                "t": 1010.0,
-                "d": 212.0
-              },
-              {
-                "w": "reconstruct",
-                "t": 1223.0,
-                "d": 680.0
-              },
-              {
-                "w": "his",
-                "t": 1904.0,
-                "d": 170.0
-              },
-              {
-                "w": "choices",
-                "t": 2074.0,
-                "d": 977.0
-              },
-              {
-                "w": "but",
-                "t": 3137.0,
-                "d": 213.0
-              },
-              {
-                "w": "his",
-                "t": 3351.0,
-                "d": 127.0
-              },
-              {
-                "w": "own",
-                "t": 3478.0,
-                "d": 211.0
-              },
-              {
-                "w": "words",
-                "t": 3690.0,
-                "d": 340.0
-              },
-              {
-                "w": "survive",
-                "t": 4030.0,
-                "d": 596.0
-              },
-              {
-                "w": "only",
-                "t": 4627.0,
-                "d": 340.0
-              },
-              {
-                "w": "where",
-                "t": 4968.0,
-                "d": 212.0
-              },
-              {
-                "w": "he",
-                "t": 5180.0,
-                "d": 127.0
-              },
-              {
-                "w": "signed",
-                "t": 5308.0,
-                "d": 340.0
-              },
-              {
-                "w": "them",
-                "t": 5648.0,
-                "d": 851.0
-              },
-              {
-                "w": "brief",
-                "t": 6712.0,
-                "d": 893.0
-              },
-              {
-                "w": "matter-of-fact",
-                "t": 7819.0,
-                "d": 638.0
-              },
-              {
-                "w": "notes",
-                "t": 8457.0,
-                "d": 340.0
-              },
-              {
-                "w": "saying",
-                "t": 8797.0,
-                "d": 296.0
-              },
-              {
-                "w": "that",
-                "t": 9094.0,
-                "d": 213.0
-              },
-              {
-                "w": "where",
-                "t": 9308.0,
-                "d": 297.0
-              },
-              {
-                "w": "Charaka's",
-                "t": 9606.0,
-                "d": 510.0
-              },
-              {
-                "w": "text",
-                "t": 10117.0,
-                "d": 255.0
-              },
-              {
-                "w": "was",
-                "t": 10372.0,
-                "d": 212.0
-              },
-              {
-                "w": "missing",
-                "t": 10585.0,
-                "d": 765.0
-              },
-              {
-                "w": "he",
-                "t": 11351.0,
-                "d": 297.0
-              },
-              {
-                "w": "supplied",
-                "t": 11648.0,
-                "d": 637.0
-              },
-              {
-                "w": "and",
-                "t": 12329.0,
-                "d": 170.0
-              },
-              {
-                "w": "completed",
-                "t": 12500.0,
-                "d": 553.0
-              },
-              {
-                "w": "it",
-                "t": 13053.0,
-                "d": 381.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p10",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p10.png",
-      "shot": "dramatic low-angle shot of Drdhabala standing, holding a stylus above a fresh leaf, resolved expression",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "thought",
-          "role": "male",
-          "text": {
-            "en": "To leave these wounds open is another kind of harm.",
-            "hi": "इन घावों को खुला छोड़ना भी हिंसा है।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p10_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p10_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "To",
-                "t": 49.0,
-                "d": 110.3
-              },
-              {
-                "w": "leave",
-                "t": 208.3,
-                "d": 281.9
-              },
-              {
-                "w": "these",
-                "t": 490.2,
-                "d": 343.1
-              },
-              {
-                "w": "wounds",
-                "t": 833.3,
-                "d": 428.9
-              },
-              {
-                "w": "open",
-                "t": 1335.8,
-                "d": 404.4
-              },
-              {
-                "w": "is",
-                "t": 1838.2,
-                "d": 171.6
-              },
-              {
-                "w": "another",
-                "t": 2046.6,
-                "d": 441.2
-              },
-              {
-                "w": "kind",
-                "t": 2500.0,
-                "d": 330.9
-              },
-              {
-                "w": "of",
-                "t": 2830.9,
-                "d": 183.8
-              },
-              {
-                "w": "harm",
-                "t": 3014.7,
-                "d": 416.7
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p11",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p11.png",
-      "shot": "montage split-panel of Drdhabala consulting multiple sources: oral recitation, another text, clinical practice",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "We can only infer his method: collating traditions, comparing rival compendia, testing doctrines against practice, then weaving new verses that fit Charaka's voice and structure as he understood them.",
-            "hi": "हम उसकी पद्धति बस टटोल सकते हैं: परंपराएँ मिलाना, अलग‑अलग संहिताओं की तुलना, सिद्धांत को अभ्यास पर कसना, फिर ऐसे नए श्लोक बुनना जो उसके अनुसार चरक की आवाज़ और ढाँचे में घुल जाएँ।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p11_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p11_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "We",
-                "t": 74.0,
-                "d": 255.0
-              },
-              {
-                "w": "can",
-                "t": 329.0,
-                "d": 127.0
-              },
-              {
-                "w": "only",
-                "t": 457.0,
-                "d": 297.0
-              },
-              {
-                "w": "infer",
-                "t": 755.0,
-                "d": 468.0
-              },
-              {
-                "w": "his",
-                "t": 1223.0,
-                "d": 170.0
-              },
-              {
-                "w": "method",
-                "t": 1393.0,
-                "d": 978.0
-              },
-              {
-                "w": "collating",
-                "t": 2626.0,
-                "d": 510.0
-              },
-              {
-                "w": "traditions",
-                "t": 3137.0,
-                "d": 936.0
-              },
-              {
-                "w": "comparing",
-                "t": 4201.0,
-                "d": 639.0
-              },
-              {
-                "w": "rival",
-                "t": 4840.0,
-                "d": 382.0
-              },
-              {
-                "w": "compendia",
-                "t": 5223.0,
-                "d": 1021.0
-              },
-              {
-                "w": "testing",
-                "t": 6457.0,
-                "d": 595.0
-              },
-              {
-                "w": "doctrines",
-                "t": 7053.0,
-                "d": 468.0
-              },
-              {
-                "w": "against",
-                "t": 7521.0,
-                "d": 382.0
-              },
-              {
-                "w": "practice",
-                "t": 7904.0,
-                "d": 679.0
-              },
-              {
-                "w": "then",
-                "t": 9264.0,
-                "d": 341.0
-              },
-              {
-                "w": "weaving",
-                "t": 9606.0,
-                "d": 425.0
-              },
-              {
-                "w": "new",
-                "t": 10031.0,
-                "d": 296.0
-              },
-              {
-                "w": "verses",
-                "t": 10328.0,
-                "d": 767.0
-              },
-              {
-                "w": "that",
-                "t": 11180.0,
-                "d": 297.0
-              },
-              {
-                "w": "fit",
-                "t": 11478.0,
-                "d": 212.0
-              },
-              {
-                "w": "Charaka's",
-                "t": 11691.0,
-                "d": 594.0
-              },
-              {
-                "w": "voice",
-                "t": 12286.0,
-                "d": 426.0
-              },
-              {
-                "w": "and",
-                "t": 12712.0,
-                "d": 211.0
-              },
-              {
-                "w": "structure",
-                "t": 12924.0,
-                "d": 852.0
-              },
-              {
-                "w": "as",
-                "t": 13776.0,
-                "d": 381.0
-              },
-              {
-                "w": "he",
-                "t": 14158.0,
-                "d": 170.0
-              },
-              {
-                "w": "understood",
-                "t": 14328.0,
-                "d": 596.0
-              },
-              {
-                "w": "them",
-                "t": 14925.0,
-                "d": 510.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p12",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p12.png",
-      "shot": "medium shot of Drdhabala writing carefully, with a note-like colophon visible at the edge",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "In the Siddhisthana's twelfth chapter, the manuscript voice turns and speaks of him by name: Drdhabala, who restored what was missing and brought the treatise to its present form.",
-            "hi": "सिद्धिस्थान के बारहवें अध्याय में, पांडुलिपि की आवाज़ मुड़कर उसका नाम लेती है: दृढबल, जिसने जो खो गया था, उसे लौटाया और ग्रंथ को आज के रूप में बाँधा।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p12_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p12_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "In",
-                "t": 74.0,
-                "d": 170.0
-              },
-              {
-                "w": "the",
-                "t": 244.0,
-                "d": 127.0
-              },
-              {
-                "w": "Siddhisthana's",
-                "t": 372.0,
-                "d": 851.0
-              },
-              {
-                "w": "twelfth",
-                "t": 1223.0,
-                "d": 382.0
-              },
-              {
-                "w": "chapter",
-                "t": 1606.0,
-                "d": 765.0
-              },
-              {
-                "w": "the",
-                "t": 2414.0,
-                "d": 211.0
-              },
-              {
-                "w": "manuscript",
-                "t": 2626.0,
-                "d": 596.0
-              },
-              {
-                "w": "voice",
-                "t": 3223.0,
-                "d": 381.0
-              },
-              {
-                "w": "turns",
-                "t": 3605.0,
-                "d": 425.0
-              },
-              {
-                "w": "and",
-                "t": 4030.0,
-                "d": 212.0
-              },
-              {
-                "w": "speaks",
-                "t": 4243.0,
-                "d": 426.0
-              },
-              {
-                "w": "of",
-                "t": 4670.0,
-                "d": 127.0
-              },
-              {
-                "w": "him",
-                "t": 4797.0,
-                "d": 170.0
-              },
-              {
-                "w": "by",
-                "t": 4968.0,
-                "d": 170.0
-              },
-              {
-                "w": "name",
-                "t": 5138.0,
-                "d": 638.0
-              },
-              {
-                "w": "Drdhabala",
-                "t": 6031.0,
-                "d": 893.0
-              },
-              {
-                "w": "who",
-                "t": 7180.0,
-                "d": 212.0
-              },
-              {
-                "w": "restored",
-                "t": 7393.0,
-                "d": 553.0
-              },
-              {
-                "w": "what",
-                "t": 7946.0,
-                "d": 255.0
-              },
-              {
-                "w": "was",
-                "t": 8202.0,
-                "d": 170.0
-              },
-              {
-                "w": "missing",
-                "t": 8372.0,
-                "d": 467.0
-              },
-              {
-                "w": "and",
-                "t": 8839.0,
-                "d": 298.0
-              },
-              {
-                "w": "brought",
-                "t": 9138.0,
-                "d": 297.0
-              },
-              {
-                "w": "the",
-                "t": 9436.0,
-                "d": 127.0
-              },
-              {
-                "w": "treatise",
-                "t": 9563.0,
-                "d": 424.0
-              },
-              {
-                "w": "to",
-                "t": 9988.0,
-                "d": 170.0
-              },
-              {
-                "w": "its",
-                "t": 10158.0,
-                "d": 213.0
-              },
-              {
-                "w": "present",
-                "t": 10372.0,
-                "d": 382.0
-              },
-              {
-                "w": "form",
-                "t": 10755.0,
-                "d": 637.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p13",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p13.png",
-      "shot": "overhead shot of the manuscript sections, with earlier and Drdhabala’s layers visually distinct",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Modern historians, reading handwriting, vocabulary and structure, see the seams: an older core, a Charaka layer, then Drdhabala's additions, especially in the last two books of treatment and perfection.",
-            "hi": "आधुनिक इतिहासकार, लेखन, शब्दावली और रचना देखकर जोड़ पहचान लेते हैं: एक पुराना मूल, उस पर चरक की परत, और फिर दृढबल की जोड़‑तोड़, खासकर उपचार और सिद्धि के आख़िरी दो भागों में।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p13_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p13_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Modern",
-                "t": 74.0,
-                "d": 425.0
-              },
-              {
-                "w": "historians",
-                "t": 500.0,
-                "d": 851.0
-              },
-              {
-                "w": "reading",
-                "t": 1776.0,
-                "d": 468.0
-              },
-              {
-                "w": "handwriting",
-                "t": 2244.0,
-                "d": 1275.0
-              },
-              {
-                "w": "vocabulary",
-                "t": 3647.0,
-                "d": 894.0
-              },
-              {
-                "w": "and",
-                "t": 4585.0,
-                "d": 212.0
-              },
-              {
-                "w": "structure",
-                "t": 4797.0,
-                "d": 1319.0
-              },
-              {
-                "w": "see",
-                "t": 6244.0,
-                "d": 297.0
-              },
-              {
-                "w": "the",
-                "t": 6542.0,
-                "d": 170.0
-              },
-              {
-                "w": "seams",
-                "t": 6712.0,
-                "d": 893.0
-              },
-              {
-                "w": "an",
-                "t": 8159.0,
-                "d": 212.0
-              },
-              {
-                "w": "older",
-                "t": 8372.0,
-                "d": 381.0
-              },
-              {
-                "w": "core",
-                "t": 8754.0,
-                "d": 596.0
-              },
-              {
-                "w": "a",
-                "t": 9647.0,
-                "d": 213.0
-              },
-              {
-                "w": "Charaka",
-                "t": 9861.0,
-                "d": 467.0
-              },
-              {
-                "w": "layer",
-                "t": 10328.0,
-                "d": 553.0
-              },
-              {
-                "w": "then",
-                "t": 11180.0,
-                "d": 297.0
-              },
-              {
-                "w": "Drdhabala's",
-                "t": 11478.0,
-                "d": 680.0
-              },
-              {
-                "w": "additions",
-                "t": 12159.0,
-                "d": 935.0
-              },
-              {
-                "w": "especially",
-                "t": 13393.0,
-                "d": 679.0
-              },
-              {
-                "w": "in",
-                "t": 14073.0,
-                "d": 85.0
-              },
-              {
-                "w": "the",
-                "t": 14158.0,
-                "d": 170.0
-              },
-              {
-                "w": "last",
-                "t": 14328.0,
-                "d": 298.0
-              },
-              {
-                "w": "two",
-                "t": 14627.0,
-                "d": 212.0
-              },
-              {
-                "w": "books",
-                "t": 14840.0,
-                "d": 255.0
-              },
-              {
-                "w": "of",
-                "t": 15095.0,
-                "d": 126.0
-              },
-              {
-                "w": "treatment",
-                "t": 15222.0,
-                "d": 639.0
-              },
-              {
-                "w": "and",
-                "t": 15861.0,
-                "d": 254.0
-              },
-              {
-                "w": "perfection",
-                "t": 16115.0,
-                "d": 681.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "action_auto2",
-      "type": "action",
-      "mood": "triumph",
-      "bg": "assets/drdhabala_rebuilds_charaka_s_book/action_auto2/bg.png",
-      "chars": [
-        {
-          "img": "assets/drdhabala_rebuilds_charaka_s_book/action_auto2/char0.png",
-          "motion": {
-            "fromX": 42,
-            "toX": 8,
-            "fromScale": 0.82,
-            "toScale": 1.03,
-            "rot": 2,
-            "dur": 7200
-          }
-        }
-      ],
-      "motion": {
-        "bgZoom": 1.12,
-        "bgPan": -6,
-        "dur": 7200
-      },
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Fragment by fragment, he locks scattered verses into a single, breathing body of medicine.",
-            "hi": "टुकड़ा‑टुकड़ा करके वो बिखरी आयतों को जोड़कर दवा का ज़िंदा जिस्म बना देता है।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/action/action_auto2_en.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/action/action_auto2_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Fragment",
-                "t": 72.0,
-                "d": 916.0
-              },
-              {
-                "w": "by",
-                "t": 1656.0,
-                "d": 291.0
-              },
-              {
-                "w": "fragment",
-                "t": 1947.0,
-                "d": 791.0
-              },
-              {
-                "w": "he",
-                "t": 3030.0,
-                "d": 334.0
-              },
-              {
-                "w": "locks",
-                "t": 3364.0,
-                "d": 291.0
-              },
-              {
-                "w": "scattered",
-                "t": 3656.0,
-                "d": 457.0
-              },
-              {
-                "w": "verses",
-                "t": 4113.0,
-                "d": 417.0
-              },
-              {
-                "w": "into",
-                "t": 4531.0,
-                "d": 333.0
-              },
-              {
-                "w": "a",
-                "t": 4864.0,
-                "d": 41.0
-              },
-              {
-                "w": "single",
-                "t": 4906.0,
-                "d": 958.0
-              },
-              {
-                "w": "breathing",
-                "t": 5989.0,
-                "d": 541.0
-              },
-              {
-                "w": "body",
-                "t": 6531.0,
-                "d": 375.0
-              },
-              {
-                "w": "of",
-                "t": 6906.0,
-                "d": 208.0
-              },
-              {
-                "w": "medicine",
-                "t": 7114.0,
-                "d": 541.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p14",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p14.png",
-      "shot": "medium shot of Drdhabala reading aloud a passage on physician ethics to a younger student",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Within this layered book, a physician's ideal shines: compassion, restraint, clear reasoning. Yet in the same lines lie rules that bar certain castes from training and counsel avoiding some patients altogether.",
-            "hi": "इसी परतों वाले ग्रंथ में वैद्य का आदर्श चमकता है: करुणा, संयम, साफ़ तर्क। और उन्हीं पंक्तियों में नियम हैं जो कुछ जातियों को शिक्षा से रोकते और कुछ रोगियों से दूरी की सलाह देते हैं।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p14_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p14_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Within",
-                "t": 74.0,
-                "d": 340.0
-              },
-              {
-                "w": "this",
-                "t": 414.0,
-                "d": 255.0
-              },
-              {
-                "w": "layered",
-                "t": 670.0,
-                "d": 638.0
-              },
-              {
-                "w": "book",
-                "t": 1308.0,
-                "d": 297.0
-              },
-              {
-                "w": "a",
-                "t": 1648.0,
-                "d": 127.0
-              },
-              {
-                "w": "physician's",
-                "t": 1776.0,
-                "d": 595.0
-              },
-              {
-                "w": "ideal",
-                "t": 2372.0,
-                "d": 425.0
-              },
-              {
-                "w": "shines",
-                "t": 2797.0,
-                "d": 722.0
-              },
-              {
-                "w": "compassion",
-                "t": 3861.0,
-                "d": 1106.0
-              },
-              {
-                "w": "restraint",
-                "t": 5053.0,
-                "d": 936.0
-              },
-              {
-                "w": "clear",
-                "t": 6159.0,
-                "d": 340.0
-              },
-              {
-                "w": "reasoning",
-                "t": 6500.0,
-                "d": 1361.0
-              },
-              {
-                "w": "Yet",
-                "t": 8117.0,
-                "d": 255.0
-              },
-              {
-                "w": "in",
-                "t": 8372.0,
-                "d": 85.0
-              },
-              {
-                "w": "the",
-                "t": 8457.0,
-                "d": 126.0
-              },
-              {
-                "w": "same",
-                "t": 8584.0,
-                "d": 340.0
-              },
-              {
-                "w": "lines",
-                "t": 8924.0,
-                "d": 384.0
-              },
-              {
-                "w": "lie",
-                "t": 9308.0,
-                "d": 255.0
-              },
-              {
-                "w": "rules",
-                "t": 9563.0,
-                "d": 382.0
-              },
-              {
-                "w": "that",
-                "t": 9946.0,
-                "d": 255.0
-              },
-              {
-                "w": "bar",
-                "t": 10202.0,
-                "d": 297.0
-              },
-              {
-                "w": "certain",
-                "t": 10542.0,
-                "d": 339.0
-              },
-              {
-                "w": "castes",
-                "t": 10881.0,
-                "d": 469.0
-              },
-              {
-                "w": "from",
-                "t": 11351.0,
-                "d": 297.0
-              },
-              {
-                "w": "training",
-                "t": 11648.0,
-                "d": 467.0
-              },
-              {
-                "w": "and",
-                "t": 12115.0,
-                "d": 213.0
-              },
-              {
-                "w": "counsel",
-                "t": 12329.0,
-                "d": 468.0
-              },
-              {
-                "w": "avoiding",
-                "t": 12797.0,
-                "d": 467.0
-              },
-              {
-                "w": "some",
-                "t": 13264.0,
-                "d": 255.0
-              },
-              {
-                "w": "patients",
-                "t": 13520.0,
-                "d": 468.0
-              },
-              {
-                "w": "altogether",
-                "t": 13988.0,
-                "d": 852.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p15",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p15.png",
-      "shot": "close-up on Drdhabala pausing over a passage about caste or exclusion, thoughtful expression",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "thought",
-          "role": "male",
-          "text": {
-            "en": "To preserve is to mirror the age, not my wish alone.",
-            "hi": "संरक्षण का अर्थ है युग को दिखाना, सिर्फ मेरी इच्छा नहीं।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p15_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p15_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "To",
-                "t": 49.0,
-                "d": 73.5
-              },
-              {
-                "w": "preserve",
-                "t": 147.0,
-                "d": 612.8
-              },
-              {
-                "w": "is",
-                "t": 833.3,
-                "d": 183.8
-              },
-              {
-                "w": "to",
-                "t": 1029.4,
-                "d": 110.3
-              },
-              {
-                "w": "mirror",
-                "t": 1152.0,
-                "d": 318.6
-              },
-              {
-                "w": "the",
-                "t": 1470.6,
-                "d": 196.1
-              },
-              {
-                "w": "age",
-                "t": 1740.2,
-                "d": 355.4
-              },
-              {
-                "w": "not",
-                "t": 2389.7,
-                "d": 318.6
-              },
-              {
-                "w": "my",
-                "t": 2708.3,
-                "d": 245.1
-              },
-              {
-                "w": "wish",
-                "t": 2953.4,
-                "d": 281.9
-              },
-              {
-                "w": "alone",
-                "t": 3296.6,
-                "d": 465.7
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p16",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p16.png",
-      "shot": "wide shot of Drdhabala overseeing scribes copying the completed composite text",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "When his redaction was done, copies began to travel. What physicians from Gujarat to Bengal would later call Charaka was, in fact, this Kashmiri recension, already centuries removed from its first utterance.",
-            "hi": "जब उसकी संहिताकरण पूरा हुआ, नकलें चल पड़ीं। गुजरात से बंगाल तक जिन वैद्यों ने जिसे चरक कहा, वह दरअसल यही कश्मीरी पाठ था, जो अपने स्रोत से पहले ही सदियों दूर जा चुका था।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p16_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p16_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "When",
-                "t": 74.0,
-                "d": 212.0
-              },
-              {
-                "w": "his",
-                "t": 287.0,
-                "d": 170.0
-              },
-              {
-                "w": "redaction",
-                "t": 457.0,
-                "d": 510.0
-              },
-              {
-                "w": "was",
-                "t": 968.0,
-                "d": 255.0
-              },
-              {
-                "w": "done",
-                "t": 1223.0,
-                "d": 595.0
-              },
-              {
-                "w": "copies",
-                "t": 1861.0,
-                "d": 510.0
-              },
-              {
-                "w": "began",
-                "t": 2372.0,
-                "d": 297.0
-              },
-              {
-                "w": "to",
-                "t": 2670.0,
-                "d": 170.0
-              },
-              {
-                "w": "travel",
-                "t": 2840.0,
-                "d": 893.0
-              },
-              {
-                "w": "What",
-                "t": 3989.0,
-                "d": 340.0
-              },
-              {
-                "w": "physicians",
-                "t": 4329.0,
-                "d": 595.0
-              },
-              {
-                "w": "from",
-                "t": 4925.0,
-                "d": 212.0
-              },
-              {
-                "w": "Gujarat",
-                "t": 5138.0,
-                "d": 425.0
-              },
-              {
-                "w": "to",
-                "t": 5563.0,
-                "d": 170.0
-              },
-              {
-                "w": "Bengal",
-                "t": 5734.0,
-                "d": 425.0
-              },
-              {
-                "w": "would",
-                "t": 6159.0,
-                "d": 212.0
-              },
-              {
-                "w": "later",
-                "t": 6372.0,
-                "d": 425.0
-              },
-              {
-                "w": "call",
-                "t": 6797.0,
-                "d": 255.0
-              },
-              {
-                "w": "Charaka",
-                "t": 7053.0,
-                "d": 382.0
-              },
-              {
-                "w": "was",
-                "t": 7436.0,
-                "d": 510.0
-              },
-              {
-                "w": "in",
-                "t": 7946.0,
-                "d": 255.0
-              },
-              {
-                "w": "fact",
-                "t": 8202.0,
-                "d": 339.0
-              },
-              {
-                "w": "this",
-                "t": 8541.0,
-                "d": 723.0
-              },
-              {
-                "w": "Kashmiri",
-                "t": 9264.0,
-                "d": 468.0
-              },
-              {
-                "w": "recension",
-                "t": 9732.0,
-                "d": 894.0
-              },
-              {
-                "w": "already",
-                "t": 10711.0,
-                "d": 554.0
-              },
-              {
-                "w": "centuries",
-                "t": 11265.0,
-                "d": 594.0
-              },
-              {
-                "w": "removed",
-                "t": 11860.0,
-                "d": 384.0
-              },
-              {
-                "w": "from",
-                "t": 12244.0,
-                "d": 170.0
-              },
-              {
-                "w": "its",
-                "t": 12414.0,
-                "d": 170.0
-              },
-              {
-                "w": "first",
-                "t": 12585.0,
-                "d": 424.0
-              },
-              {
-                "w": "utterance",
-                "t": 13053.0,
-                "d": 723.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p17",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p17.png",
-      "shot": "time-lapse style sequence of the manuscript moving through centuries, hands, and regions",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Later commentators and translators debated, praised and sometimes corrected this text, rarely naming Drdhabala, yet relying on the structure he gave to what they assumed was one timeless voice.",
-            "hi": "बाद के टीकाकार और अनुवादक इस पाठ पर बहस, प्रशंसा और कभी‑कभार संशोधन करते रहे, शायद ही कभी दृढबल का नाम लेते, पर उसी ढाँचे पर टिके रहे जिसे वे एक अनादि आवाज़ समझते थे।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p17_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p17_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Later",
-                "t": 74.0,
-                "d": 425.0
-              },
-              {
-                "w": "commentators",
-                "t": 500.0,
-                "d": 851.0
-              },
-              {
-                "w": "and",
-                "t": 1351.0,
-                "d": 170.0
-              },
-              {
-                "w": "translators",
-                "t": 1521.0,
-                "d": 680.0
-              },
-              {
-                "w": "debated",
-                "t": 2202.0,
-                "d": 1191.0
-              },
-              {
-                "w": "praised",
-                "t": 3436.0,
-                "d": 722.0
-              },
-              {
-                "w": "and",
-                "t": 4158.0,
-                "d": 256.0
-              },
-              {
-                "w": "sometimes",
-                "t": 4414.0,
-                "d": 595.0
-              },
-              {
-                "w": "corrected",
-                "t": 5010.0,
-                "d": 510.0
-              },
-              {
-                "w": "this",
-                "t": 5521.0,
-                "d": 212.0
-              },
-              {
-                "w": "text",
-                "t": 5734.0,
-                "d": 1063.0
-              },
-              {
-                "w": "rarely",
-                "t": 6797.0,
-                "d": 425.0
-              },
-              {
-                "w": "naming",
-                "t": 7223.0,
-                "d": 382.0
-              },
-              {
-                "w": "Drdhabala",
-                "t": 7606.0,
-                "d": 977.0
-              },
-              {
-                "w": "yet",
-                "t": 8924.0,
-                "d": 255.0
-              },
-              {
-                "w": "relying",
-                "t": 9179.0,
-                "d": 426.0
-              },
-              {
-                "w": "on",
-                "t": 9606.0,
-                "d": 85.0
-              },
-              {
-                "w": "the",
-                "t": 9691.0,
-                "d": 126.0
-              },
-              {
-                "w": "structure",
-                "t": 9818.0,
-                "d": 510.0
-              },
-              {
-                "w": "he",
-                "t": 10328.0,
-                "d": 171.0
-              },
-              {
-                "w": "gave",
-                "t": 10500.0,
-                "d": 340.0
-              },
-              {
-                "w": "to",
-                "t": 10840.0,
-                "d": 255.0
-              },
-              {
-                "w": "what",
-                "t": 11095.0,
-                "d": 211.0
-              },
-              {
-                "w": "they",
-                "t": 11307.0,
-                "d": 256.0
-              },
-              {
-                "w": "assumed",
-                "t": 11563.0,
-                "d": 892.0
-              },
-              {
-                "w": "was",
-                "t": 12500.0,
-                "d": 255.0
-              },
-              {
-                "w": "one",
-                "t": 12755.0,
-                "d": 424.0
-              },
-              {
-                "w": "timeless",
-                "t": 13179.0,
-                "d": 469.0
-              },
-              {
-                "w": "voice",
-                "t": 13648.0,
-                "d": 594.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "split_auto",
-      "type": "split",
-      "mood": "battle",
-      "slices": [
-        {
-          "img": "assets/drdhabala_rebuilds_charaka_s_book/split_auto/s0.png",
-          "slogan": {
-            "en": "Guard every syllable, heal worlds",
-            "hi": "हर अक्षर बचाओ, जग चंगा करो"
-          },
-          "pos": "center 30%"
-        },
-        {
-          "img": "assets/drdhabala_rebuilds_charaka_s_book/split_auto/s1.png",
-          "pos": "center 46%"
-        },
-        {
-          "img": "assets/drdhabala_rebuilds_charaka_s_book/split_auto/s2.png",
-          "pos": "center 52%"
-        }
-      ],
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Across centuries and kingdoms, his patient redaction armors healers with Charaka's restored wisdom.",
-            "hi": "सदियों और साम्राज्यों के पार, उसकी धीरजभरी संपादन तलवार वैद्यों को चरक की लौटी हुई विद्या से ढाल देती है।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/split/split_auto_en.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/split/split_auto_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Across",
-                "t": 70.0,
-                "d": 440.0
-              },
-              {
-                "w": "centuries",
-                "t": 510.0,
-                "d": 480.0
-              },
-              {
-                "w": "and",
-                "t": 990.0,
-                "d": 160.0
-              },
-              {
-                "w": "kingdoms",
-                "t": 1150.0,
-                "d": 960.0
-              },
-              {
-                "w": "his",
-                "t": 2190.0,
-                "d": 279.0
-              },
-              {
-                "w": "patient",
-                "t": 2469.0,
-                "d": 360.0
-              },
-              {
-                "w": "redaction",
-                "t": 2829.0,
-                "d": 560.0
-              },
-              {
-                "w": "armors",
-                "t": 3389.0,
-                "d": 440.0
-              },
-              {
-                "w": "healers",
-                "t": 3829.0,
-                "d": 721.0
-              },
-              {
-                "w": "with",
-                "t": 4590.0,
-                "d": 280.0
-              },
-              {
-                "w": "Charaka's",
-                "t": 4870.0,
-                "d": 640.0
-              },
-              {
-                "w": "restored",
-                "t": 5510.0,
-                "d": 560.0
-              },
-              {
-                "w": "wisdom",
-                "t": 6070.0,
-                "d": 560.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p18",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p18.png",
-      "shot": "modern-era wide shot of a printed Charaka Samhita on a scholar’s desk beside critical editions and notes",
-      "mood": "calm",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "In the twentieth century, editors like Meulenbeld and physicians like Valiathan would tease apart these layers, reminding us that the text in print is a mosaic, not a monolith.",
-            "hi": "बीसवीं सदी में, म्यूलनबेल्ड जैसे संपादक और वलियाथन जैसे वैद्य इन परतों को अलग करेंगे, याद दिलाते हुए कि छपा हुआ पाठ एक मोज़ेक है, ठोस स्तंभ नहीं।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p18_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p18_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "In",
-                "t": 74.0,
-                "d": 170.0
-              },
-              {
-                "w": "the",
-                "t": 244.0,
-                "d": 127.0
-              },
-              {
-                "w": "twentieth",
-                "t": 372.0,
-                "d": 510.0
-              },
-              {
-                "w": "century",
-                "t": 882.0,
-                "d": 1063.0
-              },
-              {
-                "w": "editors",
-                "t": 2031.0,
-                "d": 509.0
-              },
-              {
-                "w": "like",
-                "t": 2541.0,
-                "d": 298.0
-              },
-              {
-                "w": "Meulenbeld",
-                "t": 2840.0,
-                "d": 850.0
-              },
-              {
-                "w": "and",
-                "t": 3734.0,
-                "d": 170.0
-              },
-              {
-                "w": "physicians",
-                "t": 3904.0,
-                "d": 595.0
-              },
-              {
-                "w": "like",
-                "t": 4500.0,
-                "d": 212.0
-              },
-              {
-                "w": "Valiathan",
-                "t": 4712.0,
-                "d": 553.0
-              },
-              {
-                "w": "would",
-                "t": 5265.0,
-                "d": 382.0
-              },
-              {
-                "w": "tease",
-                "t": 5648.0,
-                "d": 297.0
-              },
-              {
-                "w": "apart",
-                "t": 5946.0,
-                "d": 510.0
-              },
-              {
-                "w": "these",
-                "t": 6457.0,
-                "d": 255.0
-              },
-              {
-                "w": "layers",
-                "t": 6712.0,
-                "d": 808.0
-              },
-              {
-                "w": "reminding",
-                "t": 7946.0,
-                "d": 637.0
-              },
-              {
-                "w": "us",
-                "t": 8584.0,
-                "d": 213.0
-              },
-              {
-                "w": "that",
-                "t": 8797.0,
-                "d": 170.0
-              },
-              {
-                "w": "the",
-                "t": 8968.0,
-                "d": 211.0
-              },
-              {
-                "w": "text",
-                "t": 9179.0,
-                "d": 384.0
-              },
-              {
-                "w": "in",
-                "t": 9563.0,
-                "d": 169.0
-              },
-              {
-                "w": "print",
-                "t": 9732.0,
-                "d": 595.0
-              },
-              {
-                "w": "is",
-                "t": 10457.0,
-                "d": 254.0
-              },
-              {
-                "w": "a",
-                "t": 10711.0,
-                "d": 43.0
-              },
-              {
-                "w": "mosaic",
-                "t": 10755.0,
-                "d": 936.0
-              },
-              {
-                "w": "not",
-                "t": 11860.0,
-                "d": 384.0
-              },
-              {
-                "w": "a",
-                "t": 12244.0,
-                "d": 41.0
-              },
-              {
-                "w": "monolith",
-                "t": 12286.0,
-                "d": 767.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "p19",
-      "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p19.png",
-      "shot": "final contemplative close-up of Drdhabala half in shadow, manuscripts behind him fading into abstract light",
-      "mood": "suspense",
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Drdhabala did not originate Ayurveda, nor erase its limits; he stitched a wounded text so others could inherit it, showing that sometimes the boldest creation is to rebuild what time has already half taken away.",
-            "hi": "दृढबल ने आयुर्वेद न तो रचा, न उसकी सीमाएँ मिटाईं; उसने घायल ग्रंथ को सी दिया ताकि और लोग उसे विरासत में लें, दिखाते हुए कि कभी‑कभी सबसे साहसी सृजन वही है जो समय ने आधा मिटा दिया हो, उसे फिर से जोड़ देना।"
-          },
-          "audio": {
-            "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p19_0.mp3",
-            "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p19_0.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Drdhabala",
-                "t": 80.0,
-                "d": 689.0
-              },
-              {
-                "w": "did",
-                "t": 770.0,
-                "d": 275.0
-              },
-              {
-                "w": "not",
-                "t": 1045.0,
-                "d": 367.0
-              },
-              {
-                "w": "originate",
-                "t": 1413.0,
-                "d": 643.0
-              },
-              {
-                "w": "Ayurveda",
-                "t": 2057.0,
-                "d": 827.0
-              },
-              {
-                "w": "nor",
-                "t": 3297.0,
-                "d": 368.0
-              },
-              {
-                "w": "erase",
-                "t": 3666.0,
-                "d": 459.0
-              },
-              {
-                "w": "its",
-                "t": 4126.0,
-                "d": 183.0
-              },
-              {
-                "w": "limits",
-                "t": 4310.0,
-                "d": 735.0
-              },
-              {
-                "w": "he",
-                "t": 5505.0,
-                "d": 321.0
-              },
-              {
-                "w": "stitched",
-                "t": 5827.0,
-                "d": 505.0
-              },
-              {
-                "w": "a",
-                "t": 6379.0,
-                "d": 183.0
-              },
-              {
-                "w": "wounded",
-                "t": 6563.0,
-                "d": 643.0
-              },
-              {
-                "w": "text",
-                "t": 7206.0,
-                "d": 551.0
-              },
-              {
-                "w": "so",
-                "t": 7758.0,
-                "d": 275.0
-              },
-              {
-                "w": "others",
-                "t": 8034.0,
-                "d": 597.0
-              },
-              {
-                "w": "could",
-                "t": 8632.0,
-                "d": 229.0
-              },
-              {
-                "w": "inherit",
-                "t": 8862.0,
-                "d": 458.0
-              },
-              {
-                "w": "it",
-                "t": 9320.0,
-                "d": 413.0
-              },
-              {
-                "w": "showing",
-                "t": 10103.0,
-                "d": 504.0
-              },
-              {
-                "w": "that",
-                "t": 10608.0,
-                "d": 183.0
-              },
-              {
-                "w": "sometimes",
-                "t": 10791.0,
-                "d": 690.0
-              },
-              {
-                "w": "the",
-                "t": 11482.0,
-                "d": 182.0
-              },
-              {
-                "w": "boldest",
-                "t": 11665.0,
-                "d": 551.0
-              },
-              {
-                "w": "creation",
-                "t": 12217.0,
-                "d": 689.0
-              },
-              {
-                "w": "is",
-                "t": 12906.0,
-                "d": 183.0
-              },
-              {
-                "w": "to",
-                "t": 13090.0,
-                "d": 139.0
-              },
-              {
-                "w": "rebuild",
-                "t": 13229.0,
-                "d": 873.0
-              },
-              {
-                "w": "what",
-                "t": 14148.0,
-                "d": 414.0
-              },
-              {
-                "w": "time",
-                "t": 14563.0,
-                "d": 458.0
-              },
-              {
-                "w": "has",
-                "t": 15021.0,
-                "d": 231.0
-              },
-              {
-                "w": "already",
-                "t": 15297.0,
-                "d": 598.0
-              },
-              {
-                "w": "half",
-                "t": 15896.0,
-                "d": 321.0
-              },
-              {
-                "w": "taken",
-                "t": 16218.0,
-                "d": 367.0
-              },
-              {
-                "w": "away",
-                "t": 16586.0,
-                "d": 459.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
+      "hi": []
+     }
     }
-  ],
-  "hero": {
-    "name": "Dṛḍhabala of Kashmir",
-    "epithets": [
-      "Redactor of the Charaka Samhita",
-      "Physician-scholar of Kashmir",
-      "Restorer of lost medical lore"
-    ],
-    "legend": "He healed a broken book so it could heal the world."
+   ]
+  },
+  {
+   "id": "intro_map",
+   "type": "map",
+   "mood": "suspense",
+   "map": "assets/drdhabala_rebuilds_charaka_s_book/intro/map.png",
+   "x": 0.34,
+   "y": 0.13,
+   "label": "Kashmir Valley, northwestern India",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "High in the cool Kashmir valley, among scholars and snow peaks, a quiet healer bends over fading palm leaves, trying to save their wisdom.",
+      "hi": "ठंडी कश्मीर घाटी में, विद्वानों और हिम चोटियों के बीच, एक शांत वैद्य मुरझाए ताड़पत्रों पर झुका उनकी विद्या बचाने की जद्दोजहद में है।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/intro/map_en.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/intro/map_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "High",
+        "t": 80.0,
+        "d": 321.0
+       },
+       {
+        "w": "in",
+        "t": 402.0,
+        "d": 321.0
+       },
+       {
+        "w": "the",
+        "t": 724.0,
+        "d": 137.0
+       },
+       {
+        "w": "cool",
+        "t": 862.0,
+        "d": 275.0
+       },
+       {
+        "w": "Kashmir",
+        "t": 1137.0,
+        "d": 413.0
+       },
+       {
+        "w": "valley",
+        "t": 1551.0,
+        "d": 643.0
+       },
+       {
+        "w": "among",
+        "t": 2241.0,
+        "d": 367.0
+       },
+       {
+        "w": "scholars",
+        "t": 2609.0,
+        "d": 596.0
+       },
+       {
+        "w": "and",
+        "t": 3205.0,
+        "d": 183.0
+       },
+       {
+        "w": "snow",
+        "t": 3389.0,
+        "d": 322.0
+       },
+       {
+        "w": "peaks",
+        "t": 3712.0,
+        "d": 597.0
+       },
+       {
+        "w": "a",
+        "t": 4539.0,
+        "d": 277.0
+       },
+       {
+        "w": "quiet",
+        "t": 4816.0,
+        "d": 321.0
+       },
+       {
+        "w": "healer",
+        "t": 5137.0,
+        "d": 367.0
+       },
+       {
+        "w": "bends",
+        "t": 5505.0,
+        "d": 413.0
+       },
+       {
+        "w": "over",
+        "t": 5919.0,
+        "d": 275.0
+       },
+       {
+        "w": "fading",
+        "t": 6195.0,
+        "d": 459.0
+       },
+       {
+        "w": "palm",
+        "t": 6655.0,
+        "d": 275.0
+       },
+       {
+        "w": "leaves",
+        "t": 6931.0,
+        "d": 597.0
+       },
+       {
+        "w": "trying",
+        "t": 7758.0,
+        "d": 321.0
+       },
+       {
+        "w": "to",
+        "t": 8080.0,
+        "d": 137.0
+       },
+       {
+        "w": "save",
+        "t": 8218.0,
+        "d": 321.0
+       },
+       {
+        "w": "their",
+        "t": 8540.0,
+        "d": 229.0
+       },
+       {
+        "w": "wisdom",
+        "t": 8770.0,
+        "d": 642.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "cover",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/cover.png",
+   "shot": "epic three-quarter view, medium-wide, with manuscript fragments swirling around a seated scholar",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Centuries after Charaka, in the snows of Kashmir, Drdhabala faced a frightening truth: the great medical scripture lay broken, its heart missing, and the world still called it whole.",
+      "hi": "सदियों बाद, कश्मीर की बर्फ़ में, दृढबल ने देखा डरावना सच: महान आयुर्वेदिक ग्रंथ बिखरा था, उसका हृदय गायब, फिर भी दुनिया उसे पूरा मानती रही।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/cover_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/cover_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Centuries",
+        "t": 117.0,
+        "d": 680.0
+       },
+       {
+        "w": "after",
+        "t": 797.0,
+        "d": 297.0
+       },
+       {
+        "w": "Charaka",
+        "t": 1095.0,
+        "d": 765.0
+       },
+       {
+        "w": "in",
+        "t": 2031.0,
+        "d": 126.0
+       },
+       {
+        "w": "the",
+        "t": 2158.0,
+        "d": 128.0
+       },
+       {
+        "w": "snows",
+        "t": 2287.0,
+        "d": 382.0
+       },
+       {
+        "w": "of",
+        "t": 2670.0,
+        "d": 170.0
+       },
+       {
+        "w": "Kashmir",
+        "t": 2840.0,
+        "d": 510.0
+       },
+       {
+        "w": "Drdhabala",
+        "t": 3351.0,
+        "d": 382.0
+       },
+       {
+        "w": "faced",
+        "t": 4073.0,
+        "d": 511.0
+       },
+       {
+        "w": "a",
+        "t": 4585.0,
+        "d": 42.0
+       },
+       {
+        "w": "frightening",
+        "t": 4627.0,
+        "d": 1063.0
+       },
+       {
+        "w": "truth",
+        "t": 5691.0,
+        "d": 297.0
+       },
+       {
+        "w": "the",
+        "t": 5989.0,
+        "d": 297.0
+       },
+       {
+        "w": "great",
+        "t": 7138.0,
+        "d": 425.0
+       },
+       {
+        "w": "medical",
+        "t": 7563.0,
+        "d": 425.0
+       },
+       {
+        "w": "scripture",
+        "t": 7989.0,
+        "d": 552.0
+       },
+       {
+        "w": "lay",
+        "t": 8541.0,
+        "d": 212.0
+       },
+       {
+        "w": "broken",
+        "t": 8754.0,
+        "d": 767.0
+       },
+       {
+        "w": "its",
+        "t": 9776.0,
+        "d": 296.0
+       },
+       {
+        "w": "heart",
+        "t": 10073.0,
+        "d": 298.0
+       },
+       {
+        "w": "missing",
+        "t": 10372.0,
+        "d": 935.0
+       },
+       {
+        "w": "and",
+        "t": 11392.0,
+        "d": 213.0
+       },
+       {
+        "w": "the",
+        "t": 11606.0,
+        "d": 127.0
+       },
+       {
+        "w": "world",
+        "t": 11734.0,
+        "d": 381.0
+       },
+       {
+        "w": "still",
+        "t": 12115.0,
+        "d": 426.0
+       },
+       {
+        "w": "called",
+        "t": 12542.0,
+        "d": 381.0
+       },
+       {
+        "w": "it",
+        "t": 12924.0,
+        "d": 85.0
+       },
+       {
+        "w": "whole",
+        "t": 13009.0,
+        "d": 510.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p01",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p01.png",
+   "shot": "sweeping bird's-eye over ancient subcontinent map fading into layered manuscripts",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "The work we call Charaka Samhita was never a single voice, never a single age; it was a river of words, fed by Agnivesa, reshaped by Charaka, and carried forward by hands now forgotten.",
+      "hi": "जिसे हम चरक संहिता कहते हैं, वह कभी एक आवाज़ या एक युग नहीं था; यह शब्दों की नदी थी, अग्निवेश से उठी, चरक ने सँवारा, और अनजाने हाथों ने आगे बढ़ाया।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p01_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p01_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "The",
+        "t": 117.0,
+        "d": 212.0
+       },
+       {
+        "w": "work",
+        "t": 329.0,
+        "d": 340.0
+       },
+       {
+        "w": "we",
+        "t": 670.0,
+        "d": 170.0
+       },
+       {
+        "w": "call",
+        "t": 840.0,
+        "d": 255.0
+       },
+       {
+        "w": "Charaka",
+        "t": 1095.0,
+        "d": 425.0
+       },
+       {
+        "w": "Samhita",
+        "t": 1521.0,
+        "d": 468.0
+       },
+       {
+        "w": "was",
+        "t": 1989.0,
+        "d": 212.0
+       },
+       {
+        "w": "never",
+        "t": 2202.0,
+        "d": 254.0
+       },
+       {
+        "w": "a",
+        "t": 2456.0,
+        "d": 85.0
+       },
+       {
+        "w": "single",
+        "t": 2541.0,
+        "d": 425.0
+       },
+       {
+        "w": "voice",
+        "t": 2967.0,
+        "d": 767.0
+       },
+       {
+        "w": "never",
+        "t": 3819.0,
+        "d": 381.0
+       },
+       {
+        "w": "a",
+        "t": 4201.0,
+        "d": 42.0
+       },
+       {
+        "w": "single",
+        "t": 4243.0,
+        "d": 511.0
+       },
+       {
+        "w": "age",
+        "t": 4755.0,
+        "d": 723.0
+       },
+       {
+        "w": "it",
+        "t": 5521.0,
+        "d": 212.0
+       },
+       {
+        "w": "was",
+        "t": 5734.0,
+        "d": 170.0
+       },
+       {
+        "w": "a",
+        "t": 5904.0,
+        "d": 85.0
+       },
+       {
+        "w": "river",
+        "t": 5989.0,
+        "d": 255.0
+       },
+       {
+        "w": "of",
+        "t": 6244.0,
+        "d": 212.0
+       },
+       {
+        "w": "words",
+        "t": 6457.0,
+        "d": 638.0
+       },
+       {
+        "w": "fed",
+        "t": 7478.0,
+        "d": 297.0
+       },
+       {
+        "w": "by",
+        "t": 7776.0,
+        "d": 212.0
+       },
+       {
+        "w": "Agnivesa",
+        "t": 7989.0,
+        "d": 978.0
+       },
+       {
+        "w": "reshaped",
+        "t": 9223.0,
+        "d": 638.0
+       },
+       {
+        "w": "by",
+        "t": 9861.0,
+        "d": 211.0
+       },
+       {
+        "w": "Charaka",
+        "t": 10073.0,
+        "d": 384.0
+       },
+       {
+        "w": "and",
+        "t": 10457.0,
+        "d": 764.0
+       },
+       {
+        "w": "carried",
+        "t": 11222.0,
+        "d": 384.0
+       },
+       {
+        "w": "forward",
+        "t": 11606.0,
+        "d": 424.0
+       },
+       {
+        "w": "by",
+        "t": 12030.0,
+        "d": 170.0
+       },
+       {
+        "w": "hands",
+        "t": 12201.0,
+        "d": 384.0
+       },
+       {
+        "w": "now",
+        "t": 12585.0,
+        "d": 212.0
+       },
+       {
+        "w": "forgotten",
+        "t": 12797.0,
+        "d": 722.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p02",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p02.png",
+   "shot": "slow push-in on an old manuscript bundle being unwrapped on a wooden desk",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Somewhere between the early Common Era and the early centuries that followed, Charaka reworked an older teaching of Agnivesa into a vast compendium of the body, disease and duty.",
+      "hi": "ईसवी की शुरुआती सदियों के आस‑पास, चरक ने अग्निवेश की पुरानी शिक्षा को देह, रोग और धर्म का विशाल ग्रंथ बना दिया।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p02_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p02_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Somewhere",
+        "t": 74.0,
+        "d": 553.0
+       },
+       {
+        "w": "between",
+        "t": 627.0,
+        "d": 297.0
+       },
+       {
+        "w": "the",
+        "t": 925.0,
+        "d": 127.0
+       },
+       {
+        "w": "early",
+        "t": 1053.0,
+        "d": 468.0
+       },
+       {
+        "w": "Common",
+        "t": 1521.0,
+        "d": 425.0
+       },
+       {
+        "w": "Era",
+        "t": 1946.0,
+        "d": 255.0
+       },
+       {
+        "w": "and",
+        "t": 2202.0,
+        "d": 638.0
+       },
+       {
+        "w": "the",
+        "t": 2840.0,
+        "d": 126.0
+       },
+       {
+        "w": "early",
+        "t": 2967.0,
+        "d": 426.0
+       },
+       {
+        "w": "centuries",
+        "t": 3393.0,
+        "d": 595.0
+       },
+       {
+        "w": "that",
+        "t": 3989.0,
+        "d": 211.0
+       },
+       {
+        "w": "followed",
+        "t": 4201.0,
+        "d": 894.0
+       },
+       {
+        "w": "Charaka",
+        "t": 5308.0,
+        "d": 723.0
+       },
+       {
+        "w": "reworked",
+        "t": 6159.0,
+        "d": 638.0
+       },
+       {
+        "w": "an",
+        "t": 6797.0,
+        "d": 127.0
+       },
+       {
+        "w": "older",
+        "t": 6968.0,
+        "d": 425.0
+       },
+       {
+        "w": "teaching",
+        "t": 7393.0,
+        "d": 425.0
+       },
+       {
+        "w": "of",
+        "t": 7819.0,
+        "d": 170.0
+       },
+       {
+        "w": "Agnivesa",
+        "t": 7989.0,
+        "d": 978.0
+       },
+       {
+        "w": "into",
+        "t": 8968.0,
+        "d": 255.0
+       },
+       {
+        "w": "a",
+        "t": 9223.0,
+        "d": 85.0
+       },
+       {
+        "w": "vast",
+        "t": 9308.0,
+        "d": 468.0
+       },
+       {
+        "w": "compendium",
+        "t": 9776.0,
+        "d": 638.0
+       },
+       {
+        "w": "of",
+        "t": 10414.0,
+        "d": 127.0
+       },
+       {
+        "w": "the",
+        "t": 10542.0,
+        "d": 127.0
+       },
+       {
+        "w": "body",
+        "t": 10670.0,
+        "d": 765.0
+       },
+       {
+        "w": "disease",
+        "t": 11563.0,
+        "d": 680.0
+       },
+       {
+        "w": "and",
+        "t": 12329.0,
+        "d": 297.0
+       },
+       {
+        "w": "duty",
+        "t": 12627.0,
+        "d": 595.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p03",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p03.png",
+   "shot": "low-angle interior wide shot of a teaching hall with physicians and students, scrolls around",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "In its verses, physicians found a stern ideal: to observe keenly, argue carefully, live cleanly; yet the same verses guarded training for the high-born and refused care to the condemned.",
+      "hi": "इन श्लोकों में वैद्य को सख्त आदर्श मिलता है: तेज़ नजर, साफ़ तर्क, सादा जीवन; और उन्हीं श्लोकों में ऊँचे जन्म वालों के लिए ही शिक्षा, और दोषी ठहराए गए लोगों से इलाज छीन लिया गया।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p03_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p03_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "In",
+        "t": 74.0,
+        "d": 212.0
+       },
+       {
+        "w": "its",
+        "t": 287.0,
+        "d": 170.0
+       },
+       {
+        "w": "verses",
+        "t": 457.0,
+        "d": 723.0
+       },
+       {
+        "w": "physicians",
+        "t": 1351.0,
+        "d": 595.0
+       },
+       {
+        "w": "found",
+        "t": 1946.0,
+        "d": 297.0
+       },
+       {
+        "w": "a",
+        "t": 2244.0,
+        "d": 42.0
+       },
+       {
+        "w": "stern",
+        "t": 2287.0,
+        "d": 425.0
+       },
+       {
+        "w": "ideal",
+        "t": 2712.0,
+        "d": 765.0
+       },
+       {
+        "w": "to",
+        "t": 3861.0,
+        "d": 127.0
+       },
+       {
+        "w": "observe",
+        "t": 3989.0,
+        "d": 553.0
+       },
+       {
+        "w": "keenly",
+        "t": 4542.0,
+        "d": 851.0
+       },
+       {
+        "w": "argue",
+        "t": 5436.0,
+        "d": 510.0
+       },
+       {
+        "w": "carefully",
+        "t": 5946.0,
+        "d": 851.0
+       },
+       {
+        "w": "live",
+        "t": 6797.0,
+        "d": 468.0
+       },
+       {
+        "w": "cleanly",
+        "t": 7265.0,
+        "d": 936.0
+       },
+       {
+        "w": "yet",
+        "t": 8500.0,
+        "d": 339.0
+       },
+       {
+        "w": "the",
+        "t": 8839.0,
+        "d": 170.0
+       },
+       {
+        "w": "same",
+        "t": 9009.0,
+        "d": 298.0
+       },
+       {
+        "w": "verses",
+        "t": 9308.0,
+        "d": 509.0
+       },
+       {
+        "w": "guarded",
+        "t": 9818.0,
+        "d": 384.0
+       },
+       {
+        "w": "training",
+        "t": 10202.0,
+        "d": 425.0
+       },
+       {
+        "w": "for",
+        "t": 10627.0,
+        "d": 127.0
+       },
+       {
+        "w": "the",
+        "t": 10755.0,
+        "d": 126.0
+       },
+       {
+        "w": "high-born",
+        "t": 10881.0,
+        "d": 554.0
+       },
+       {
+        "w": "and",
+        "t": 11775.0,
+        "d": 298.0
+       },
+       {
+        "w": "refused",
+        "t": 12074.0,
+        "d": 553.0
+       },
+       {
+        "w": "care",
+        "t": 12627.0,
+        "d": 340.0
+       },
+       {
+        "w": "to",
+        "t": 12968.0,
+        "d": 85.0
+       },
+       {
+        "w": "the",
+        "t": 13053.0,
+        "d": 126.0
+       },
+       {
+        "w": "condemned",
+        "t": 13179.0,
+        "d": 808.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p04",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p04.png",
+   "shot": "montage-style, medium shots of manuscripts being copied, eaten by insects, burned, and lost in travel",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "But palm leaves crack, birch bark molds, fires come without warning. Copyists fall ill, patrons vanish, caravans are waylaid. Bit by bit, chapters go missing and no one knows where they fell.",
+      "hi": "लेकिन ताड़पत्र फटते हैं, भोजपत्र सड़ते हैं, आग अचानक लग जाती है। नकलनवीस बीमार पड़ते हैं, संरक्षक गायब, काफिले लूटे जाते हैं। धीरे‑धीरे अध्याय गुम हो जाते हैं, और कोई नहीं जानता कहाँ गिर पड़े।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p04_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p04_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "But",
+        "t": 80.0,
+        "d": 321.0
+       },
+       {
+        "w": "palm",
+        "t": 402.0,
+        "d": 367.0
+       },
+       {
+        "w": "leaves",
+        "t": 770.0,
+        "d": 367.0
+       },
+       {
+        "w": "crack",
+        "t": 1137.0,
+        "d": 919.0
+       },
+       {
+        "w": "birch",
+        "t": 2241.0,
+        "d": 458.0
+       },
+       {
+        "w": "bark",
+        "t": 2700.0,
+        "d": 368.0
+       },
+       {
+        "w": "molds",
+        "t": 3068.0,
+        "d": 780.0
+       },
+       {
+        "w": "fires",
+        "t": 4126.0,
+        "d": 689.0
+       },
+       {
+        "w": "come",
+        "t": 4816.0,
+        "d": 321.0
+       },
+       {
+        "w": "without",
+        "t": 5137.0,
+        "d": 413.0
+       },
+       {
+        "w": "warning",
+        "t": 5551.0,
+        "d": 1103.0
+       },
+       {
+        "w": "Copyists",
+        "t": 6793.0,
+        "d": 735.0
+       },
+       {
+        "w": "fall",
+        "t": 7528.0,
+        "d": 919.0
+       },
+       {
+        "w": "ill",
+        "t": 8632.0,
+        "d": 183.0
+       },
+       {
+        "w": "patrons",
+        "t": 8816.0,
+        "d": 596.0
+       },
+       {
+        "w": "vanish",
+        "t": 9412.0,
+        "d": 874.0
+       },
+       {
+        "w": "caravans",
+        "t": 10424.0,
+        "d": 690.0
+       },
+       {
+        "w": "are",
+        "t": 11114.0,
+        "d": 137.0
+       },
+       {
+        "w": "waylaid",
+        "t": 11252.0,
+        "d": 964.0
+       },
+       {
+        "w": "Bit",
+        "t": 12770.0,
+        "d": 320.0
+       },
+       {
+        "w": "by",
+        "t": 13090.0,
+        "d": 275.0
+       },
+       {
+        "w": "bit",
+        "t": 13366.0,
+        "d": 460.0
+       },
+       {
+        "w": "chapters",
+        "t": 13872.0,
+        "d": 598.0
+       },
+       {
+        "w": "go",
+        "t": 14471.0,
+        "d": 183.0
+       },
+       {
+        "w": "missing",
+        "t": 14655.0,
+        "d": 413.0
+       },
+       {
+        "w": "and",
+        "t": 15068.0,
+        "d": 136.0
+       },
+       {
+        "w": "no",
+        "t": 15205.0,
+        "d": 139.0
+       },
+       {
+        "w": "one",
+        "t": 15344.0,
+        "d": 275.0
+       },
+       {
+        "w": "knows",
+        "t": 15620.0,
+        "d": 321.0
+       },
+       {
+        "w": "where",
+        "t": 15942.0,
+        "d": 228.0
+       },
+       {
+        "w": "they",
+        "t": 16171.0,
+        "d": 183.0
+       },
+       {
+        "w": "fell",
+        "t": 16355.0,
+        "d": 551.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p05",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p05.png",
+   "shot": "establishing wide shot of Kashmir valley with monastery or scholarly house in foreground",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Centuries later, perhaps in the eighth or ninth century, tradition places a physician named Drdhabala in Kashmir, on the northern rim of this manuscript world, walking into its cold.",
+      "hi": "सदियों बाद, शायद आठवीं‑नौवीं सदी में, परंपरा एक वैद्य दृढबल को कश्मीर में रखती है, पांडुलिपि जगत की उत्तरी किनारी पर, ठंड में कदम रखते हुए।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p05_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p05_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Centuries",
+        "t": 159.0,
+        "d": 595.0
+       },
+       {
+        "w": "later",
+        "t": 755.0,
+        "d": 680.0
+       },
+       {
+        "w": "perhaps",
+        "t": 1563.0,
+        "d": 510.0
+       },
+       {
+        "w": "in",
+        "t": 2074.0,
+        "d": 170.0
+       },
+       {
+        "w": "the",
+        "t": 2244.0,
+        "d": 127.0
+       },
+       {
+        "w": "eighth",
+        "t": 2372.0,
+        "d": 510.0
+       },
+       {
+        "w": "or",
+        "t": 2925.0,
+        "d": 169.0
+       },
+       {
+        "w": "ninth",
+        "t": 3094.0,
+        "d": 384.0
+       },
+       {
+        "w": "century",
+        "t": 3478.0,
+        "d": 1276.0
+       },
+       {
+        "w": "tradition",
+        "t": 4755.0,
+        "d": 595.0
+       },
+       {
+        "w": "places",
+        "t": 5351.0,
+        "d": 468.0
+       },
+       {
+        "w": "a",
+        "t": 5819.0,
+        "d": 85.0
+       },
+       {
+        "w": "physician",
+        "t": 5904.0,
+        "d": 510.0
+       },
+       {
+        "w": "named",
+        "t": 6414.0,
+        "d": 382.0
+       },
+       {
+        "w": "Drdhabala",
+        "t": 6797.0,
+        "d": 1106.0
+       },
+       {
+        "w": "in",
+        "t": 7904.0,
+        "d": 170.0
+       },
+       {
+        "w": "Kashmir",
+        "t": 8074.0,
+        "d": 679.0
+       },
+       {
+        "w": "on",
+        "t": 9179.0,
+        "d": 171.0
+       },
+       {
+        "w": "the",
+        "t": 9351.0,
+        "d": 170.0
+       },
+       {
+        "w": "northern",
+        "t": 9521.0,
+        "d": 425.0
+       },
+       {
+        "w": "rim",
+        "t": 9946.0,
+        "d": 296.0
+       },
+       {
+        "w": "of",
+        "t": 10287.0,
+        "d": 170.0
+       },
+       {
+        "w": "this",
+        "t": 10457.0,
+        "d": 254.0
+       },
+       {
+        "w": "manuscript",
+        "t": 10711.0,
+        "d": 639.0
+       },
+       {
+        "w": "world",
+        "t": 11351.0,
+        "d": 509.0
+       },
+       {
+        "w": "walking",
+        "t": 12244.0,
+        "d": 553.0
+       },
+       {
+        "w": "into",
+        "t": 12797.0,
+        "d": 255.0
+       },
+       {
+        "w": "its",
+        "t": 13053.0,
+        "d": 211.0
+       },
+       {
+        "w": "cold",
+        "t": 13264.0,
+        "d": 596.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "action_auto",
+   "type": "action",
+   "mood": "suspense",
+   "bg": "assets/drdhabala_rebuilds_charaka_s_book/action_auto/bg.png",
+   "chars": [
+    {
+     "img": "assets/drdhabala_rebuilds_charaka_s_book/action_auto/char0.png",
+     "motion": {
+      "fromX": -40,
+      "toX": -10,
+      "fromScale": 0.82,
+      "toScale": 1.03,
+      "rot": -2,
+      "dur": 7200
+     }
+    }
+   ],
+   "motion": {
+    "bgZoom": 1.12,
+    "bgPan": -6,
+    "dur": 7200
+   },
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "From secluded Kashmiri heights, Drdhabala vows to rescue every fading syllable from oblivion's slow, creeping frost.",
+      "hi": "कश्मीरी ऊँचाइयों में छिपी द्र्ढ़बाला कसम खाती है, हर मुरझाती ध्वनि को भूल की ठंडी पकड़ से बचाएगी।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/action/action_auto_en.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/action/action_auto_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "From",
+        "t": 80.0,
+        "d": 321.0
+       },
+       {
+        "w": "secluded",
+        "t": 402.0,
+        "d": 643.0
+       },
+       {
+        "w": "Kashmiri",
+        "t": 1045.0,
+        "d": 505.0
+       },
+       {
+        "w": "heights",
+        "t": 1551.0,
+        "d": 643.0
+       },
+       {
+        "w": "Drdhabala",
+        "t": 2563.0,
+        "d": 780.0
+       },
+       {
+        "w": "vows",
+        "t": 3343.0,
+        "d": 368.0
+       },
+       {
+        "w": "to",
+        "t": 3712.0,
+        "d": 182.0
+       },
+       {
+        "w": "rescue",
+        "t": 3895.0,
+        "d": 597.0
+       },
+       {
+        "w": "every",
+        "t": 4539.0,
+        "d": 506.0
+       },
+       {
+        "w": "fading",
+        "t": 5045.0,
+        "d": 459.0
+       },
+       {
+        "w": "syllable",
+        "t": 5505.0,
+        "d": 551.0
+       },
+       {
+        "w": "from",
+        "t": 6057.0,
+        "d": 275.0
+       },
+       {
+        "w": "oblivion's",
+        "t": 6333.0,
+        "d": 689.0
+       },
+       {
+        "w": "slow",
+        "t": 7022.0,
+        "d": 689.0
+       },
+       {
+        "w": "creeping",
+        "t": 7988.0,
+        "d": 597.0
+       },
+       {
+        "w": "frost",
+        "t": 8586.0,
+        "d": 642.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p06",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p06.png",
+   "shot": "medium close-up of Drdhabala examining a damaged manuscript leaf by lamplight",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "He opened what passed for Charaka in his time and met gaps: sections on the later parts of treatment and the very end of the book, Siddhi, torn or simply absent.",
+      "hi": "उसने अपने समय की चरक संहिता खोली तो खालीपन मिला: उपचार के उत्तर भागों पर अध्याय और अंतिम खंड सिद्धि, फटे हुए या बिलकुल गायब।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p06_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p06_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "He",
+        "t": 74.0,
+        "d": 297.0
+       },
+       {
+        "w": "opened",
+        "t": 372.0,
+        "d": 340.0
+       },
+       {
+        "w": "what",
+        "t": 712.0,
+        "d": 340.0
+       },
+       {
+        "w": "passed",
+        "t": 1053.0,
+        "d": 340.0
+       },
+       {
+        "w": "for",
+        "t": 1393.0,
+        "d": 127.0
+       },
+       {
+        "w": "Charaka",
+        "t": 1521.0,
+        "d": 382.0
+       },
+       {
+        "w": "in",
+        "t": 1904.0,
+        "d": 127.0
+       },
+       {
+        "w": "his",
+        "t": 2031.0,
+        "d": 212.0
+       },
+       {
+        "w": "time",
+        "t": 2244.0,
+        "d": 425.0
+       },
+       {
+        "w": "and",
+        "t": 2712.0,
+        "d": 212.0
+       },
+       {
+        "w": "met",
+        "t": 2925.0,
+        "d": 297.0
+       },
+       {
+        "w": "gaps",
+        "t": 3223.0,
+        "d": 1191.0
+       },
+       {
+        "w": "sections",
+        "t": 4542.0,
+        "d": 638.0
+       },
+       {
+        "w": "on",
+        "t": 5180.0,
+        "d": 127.0
+       },
+       {
+        "w": "the",
+        "t": 5308.0,
+        "d": 127.0
+       },
+       {
+        "w": "later",
+        "t": 5436.0,
+        "d": 340.0
+       },
+       {
+        "w": "parts",
+        "t": 5776.0,
+        "d": 340.0
+       },
+       {
+        "w": "of",
+        "t": 6117.0,
+        "d": 127.0
+       },
+       {
+        "w": "treatment",
+        "t": 6244.0,
+        "d": 893.0
+       },
+       {
+        "w": "and",
+        "t": 7138.0,
+        "d": 212.0
+       },
+       {
+        "w": "the",
+        "t": 7351.0,
+        "d": 127.0
+       },
+       {
+        "w": "very",
+        "t": 7478.0,
+        "d": 425.0
+       },
+       {
+        "w": "end",
+        "t": 7904.0,
+        "d": 255.0
+       },
+       {
+        "w": "of",
+        "t": 8159.0,
+        "d": 127.0
+       },
+       {
+        "w": "the",
+        "t": 8287.0,
+        "d": 127.0
+       },
+       {
+        "w": "book",
+        "t": 8414.0,
+        "d": 679.0
+       },
+       {
+        "w": "Siddhi",
+        "t": 9138.0,
+        "d": 594.0
+       },
+       {
+        "w": "torn",
+        "t": 10073.0,
+        "d": 596.0
+       },
+       {
+        "w": "or",
+        "t": 10840.0,
+        "d": 211.0
+       },
+       {
+        "w": "simply",
+        "t": 11052.0,
+        "d": 511.0
+       },
+       {
+        "w": "absent",
+        "t": 11606.0,
+        "d": 808.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p07",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p07.png",
+   "shot": "close-up on Drdhabala’s eyes and fingertips tracing lines, with multiple manuscripts in background",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "speech",
+     "role": "male",
+     "text": {
+      "en": "The teaching breaks here. What did Charaka intend us to see?",
+      "hi": "यहीं शिक्षा टूटती है। चरक हमें क्या दिखाना चाहते थे?"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p07_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p07_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "The",
+        "t": 49.0,
+        "d": 98.0
+       },
+       {
+        "w": "teaching",
+        "t": 159.3,
+        "d": 490.2
+       },
+       {
+        "w": "breaks",
+        "t": 649.5,
+        "d": 379.9
+       },
+       {
+        "w": "here",
+        "t": 1029.4,
+        "d": 343.1
+       },
+       {
+        "w": "What",
+        "t": 2267.2,
+        "d": 281.9
+       },
+       {
+        "w": "did",
+        "t": 2610.3,
+        "d": 245.1
+       },
+       {
+        "w": "Charaka",
+        "t": 2879.9,
+        "d": 392.2
+       },
+       {
+        "w": "intend",
+        "t": 3308.8,
+        "d": 441.2
+       },
+       {
+        "w": "us",
+        "t": 3750.0,
+        "d": 171.6
+       },
+       {
+        "w": "to",
+        "t": 3933.8,
+        "d": 110.3
+       },
+       {
+        "w": "see",
+        "t": 4044.1,
+        "d": 294.1
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p08",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p08.png",
+   "shot": "over-the-shoulder shot of Drdhabala reading earlier colophons on a manuscript",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "The colophons he read named Agnivesa as source, Charaka as redactor. They did not yet know that his own hand would become the third layer in this long medical palimpsest.",
+      "hi": "जिस अंतिका को उसने पढ़ा, वे अग्निवेश को मूल और चरक को संपादक बताते थे। उन्हें अभी पता नहीं था कि इसी ग्रंथ में तीसरी परत उसकी अपनी बनेगी।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p08_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p08_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "The",
+        "t": 74.0,
+        "d": 212.0
+       },
+       {
+        "w": "colophons",
+        "t": 287.0,
+        "d": 553.0
+       },
+       {
+        "w": "he",
+        "t": 840.0,
+        "d": 170.0
+       },
+       {
+        "w": "read",
+        "t": 1010.0,
+        "d": 297.0
+       },
+       {
+        "w": "named",
+        "t": 1308.0,
+        "d": 468.0
+       },
+       {
+        "w": "Agnivesa",
+        "t": 1819.0,
+        "d": 637.0
+       },
+       {
+        "w": "as",
+        "t": 2456.0,
+        "d": 384.0
+       },
+       {
+        "w": "source",
+        "t": 2840.0,
+        "d": 893.0
+       },
+       {
+        "w": "Charaka",
+        "t": 3861.0,
+        "d": 425.0
+       },
+       {
+        "w": "as",
+        "t": 4287.0,
+        "d": 425.0
+       },
+       {
+        "w": "redactor",
+        "t": 4712.0,
+        "d": 851.0
+       },
+       {
+        "w": "They",
+        "t": 6117.0,
+        "d": 255.0
+       },
+       {
+        "w": "did",
+        "t": 6372.0,
+        "d": 170.0
+       },
+       {
+        "w": "not",
+        "t": 6542.0,
+        "d": 255.0
+       },
+       {
+        "w": "yet",
+        "t": 6797.0,
+        "d": 212.0
+       },
+       {
+        "w": "know",
+        "t": 7010.0,
+        "d": 255.0
+       },
+       {
+        "w": "that",
+        "t": 7265.0,
+        "d": 212.0
+       },
+       {
+        "w": "his",
+        "t": 7478.0,
+        "d": 212.0
+       },
+       {
+        "w": "own",
+        "t": 7691.0,
+        "d": 340.0
+       },
+       {
+        "w": "hand",
+        "t": 8031.0,
+        "d": 297.0
+       },
+       {
+        "w": "would",
+        "t": 8329.0,
+        "d": 211.0
+       },
+       {
+        "w": "become",
+        "t": 8541.0,
+        "d": 382.0
+       },
+       {
+        "w": "the",
+        "t": 8924.0,
+        "d": 255.0
+       },
+       {
+        "w": "third",
+        "t": 9179.0,
+        "d": 341.0
+       },
+       {
+        "w": "layer",
+        "t": 9521.0,
+        "d": 425.0
+       },
+       {
+        "w": "in",
+        "t": 9988.0,
+        "d": 255.0
+       },
+       {
+        "w": "this",
+        "t": 10243.0,
+        "d": 213.0
+       },
+       {
+        "w": "long",
+        "t": 10457.0,
+        "d": 468.0
+       },
+       {
+        "w": "medical",
+        "t": 10925.0,
+        "d": 425.0
+       },
+       {
+        "w": "palimpsest",
+        "t": 11351.0,
+        "d": 935.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p09",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p09.png",
+   "shot": "medium shot of Drdhabala in discussion with another anonymous scholar-physician, manuscripts between them",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Later scholars would reconstruct his choices, but his own words survive only where he signed them: brief, matter-of-fact notes saying that where Charaka's text was missing, he supplied and completed it.",
+      "hi": "बाद के पंडित उसकी पसंदों को जोड़ेंगे, पर उसके अपने शब्द बस वहीं बचे हैं जहाँ उसने हाथ रखा: छोटे, सीधे नोट कि जहाँ चरक का पाठ नहीं था, वहाँ उसने जोड़कर पूरा किया।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p09_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p09_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Later",
+        "t": 74.0,
+        "d": 425.0
+       },
+       {
+        "w": "scholars",
+        "t": 500.0,
+        "d": 510.0
+       },
+       {
+        "w": "would",
+        "t": 1010.0,
+        "d": 212.0
+       },
+       {
+        "w": "reconstruct",
+        "t": 1223.0,
+        "d": 680.0
+       },
+       {
+        "w": "his",
+        "t": 1904.0,
+        "d": 170.0
+       },
+       {
+        "w": "choices",
+        "t": 2074.0,
+        "d": 977.0
+       },
+       {
+        "w": "but",
+        "t": 3137.0,
+        "d": 213.0
+       },
+       {
+        "w": "his",
+        "t": 3351.0,
+        "d": 127.0
+       },
+       {
+        "w": "own",
+        "t": 3478.0,
+        "d": 211.0
+       },
+       {
+        "w": "words",
+        "t": 3690.0,
+        "d": 340.0
+       },
+       {
+        "w": "survive",
+        "t": 4030.0,
+        "d": 596.0
+       },
+       {
+        "w": "only",
+        "t": 4627.0,
+        "d": 340.0
+       },
+       {
+        "w": "where",
+        "t": 4968.0,
+        "d": 212.0
+       },
+       {
+        "w": "he",
+        "t": 5180.0,
+        "d": 127.0
+       },
+       {
+        "w": "signed",
+        "t": 5308.0,
+        "d": 340.0
+       },
+       {
+        "w": "them",
+        "t": 5648.0,
+        "d": 851.0
+       },
+       {
+        "w": "brief",
+        "t": 6712.0,
+        "d": 893.0
+       },
+       {
+        "w": "matter-of-fact",
+        "t": 7819.0,
+        "d": 638.0
+       },
+       {
+        "w": "notes",
+        "t": 8457.0,
+        "d": 340.0
+       },
+       {
+        "w": "saying",
+        "t": 8797.0,
+        "d": 296.0
+       },
+       {
+        "w": "that",
+        "t": 9094.0,
+        "d": 213.0
+       },
+       {
+        "w": "where",
+        "t": 9308.0,
+        "d": 297.0
+       },
+       {
+        "w": "Charaka's",
+        "t": 9606.0,
+        "d": 510.0
+       },
+       {
+        "w": "text",
+        "t": 10117.0,
+        "d": 255.0
+       },
+       {
+        "w": "was",
+        "t": 10372.0,
+        "d": 212.0
+       },
+       {
+        "w": "missing",
+        "t": 10585.0,
+        "d": 765.0
+       },
+       {
+        "w": "he",
+        "t": 11351.0,
+        "d": 297.0
+       },
+       {
+        "w": "supplied",
+        "t": 11648.0,
+        "d": 637.0
+       },
+       {
+        "w": "and",
+        "t": 12329.0,
+        "d": 170.0
+       },
+       {
+        "w": "completed",
+        "t": 12500.0,
+        "d": 553.0
+       },
+       {
+        "w": "it",
+        "t": 13053.0,
+        "d": 381.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p10.png",
+   "shot": "dramatic low-angle shot of Drdhabala standing, holding a stylus above a fresh leaf, resolved expression",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "thought",
+     "role": "male",
+     "text": {
+      "en": "To leave these wounds open is another kind of harm.",
+      "hi": "इन घावों को खुला छोड़ना भी हिंसा है।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p10_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p10_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "To",
+        "t": 49.0,
+        "d": 110.3
+       },
+       {
+        "w": "leave",
+        "t": 208.3,
+        "d": 281.9
+       },
+       {
+        "w": "these",
+        "t": 490.2,
+        "d": 343.1
+       },
+       {
+        "w": "wounds",
+        "t": 833.3,
+        "d": 428.9
+       },
+       {
+        "w": "open",
+        "t": 1335.8,
+        "d": 404.4
+       },
+       {
+        "w": "is",
+        "t": 1838.2,
+        "d": 171.6
+       },
+       {
+        "w": "another",
+        "t": 2046.6,
+        "d": 441.2
+       },
+       {
+        "w": "kind",
+        "t": 2500.0,
+        "d": 330.9
+       },
+       {
+        "w": "of",
+        "t": 2830.9,
+        "d": 183.8
+       },
+       {
+        "w": "harm",
+        "t": 3014.7,
+        "d": 416.7
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p11.png",
+   "shot": "montage split-panel of Drdhabala consulting multiple sources: oral recitation, another text, clinical practice",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "We can only infer his method: collating traditions, comparing rival compendia, testing doctrines against practice, then weaving new verses that fit Charaka's voice and structure as he understood them.",
+      "hi": "हम उसकी पद्धति बस टटोल सकते हैं: परंपराएँ मिलाना, अलग‑अलग संहिताओं की तुलना, सिद्धांत को अभ्यास पर कसना, फिर ऐसे नए श्लोक बुनना जो उसके अनुसार चरक की आवाज़ और ढाँचे में घुल जाएँ।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p11_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p11_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "We",
+        "t": 74.0,
+        "d": 255.0
+       },
+       {
+        "w": "can",
+        "t": 329.0,
+        "d": 127.0
+       },
+       {
+        "w": "only",
+        "t": 457.0,
+        "d": 297.0
+       },
+       {
+        "w": "infer",
+        "t": 755.0,
+        "d": 468.0
+       },
+       {
+        "w": "his",
+        "t": 1223.0,
+        "d": 170.0
+       },
+       {
+        "w": "method",
+        "t": 1393.0,
+        "d": 978.0
+       },
+       {
+        "w": "collating",
+        "t": 2626.0,
+        "d": 510.0
+       },
+       {
+        "w": "traditions",
+        "t": 3137.0,
+        "d": 936.0
+       },
+       {
+        "w": "comparing",
+        "t": 4201.0,
+        "d": 639.0
+       },
+       {
+        "w": "rival",
+        "t": 4840.0,
+        "d": 382.0
+       },
+       {
+        "w": "compendia",
+        "t": 5223.0,
+        "d": 1021.0
+       },
+       {
+        "w": "testing",
+        "t": 6457.0,
+        "d": 595.0
+       },
+       {
+        "w": "doctrines",
+        "t": 7053.0,
+        "d": 468.0
+       },
+       {
+        "w": "against",
+        "t": 7521.0,
+        "d": 382.0
+       },
+       {
+        "w": "practice",
+        "t": 7904.0,
+        "d": 679.0
+       },
+       {
+        "w": "then",
+        "t": 9264.0,
+        "d": 341.0
+       },
+       {
+        "w": "weaving",
+        "t": 9606.0,
+        "d": 425.0
+       },
+       {
+        "w": "new",
+        "t": 10031.0,
+        "d": 296.0
+       },
+       {
+        "w": "verses",
+        "t": 10328.0,
+        "d": 767.0
+       },
+       {
+        "w": "that",
+        "t": 11180.0,
+        "d": 297.0
+       },
+       {
+        "w": "fit",
+        "t": 11478.0,
+        "d": 212.0
+       },
+       {
+        "w": "Charaka's",
+        "t": 11691.0,
+        "d": 594.0
+       },
+       {
+        "w": "voice",
+        "t": 12286.0,
+        "d": 426.0
+       },
+       {
+        "w": "and",
+        "t": 12712.0,
+        "d": 211.0
+       },
+       {
+        "w": "structure",
+        "t": 12924.0,
+        "d": 852.0
+       },
+       {
+        "w": "as",
+        "t": 13776.0,
+        "d": 381.0
+       },
+       {
+        "w": "he",
+        "t": 14158.0,
+        "d": 170.0
+       },
+       {
+        "w": "understood",
+        "t": 14328.0,
+        "d": 596.0
+       },
+       {
+        "w": "them",
+        "t": 14925.0,
+        "d": 510.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p12.png",
+   "shot": "medium shot of Drdhabala writing carefully, with a note-like colophon visible at the edge",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "In the Siddhisthana's twelfth chapter, the manuscript voice turns and speaks of him by name: Drdhabala, who restored what was missing and brought the treatise to its present form.",
+      "hi": "सिद्धिस्थान के बारहवें अध्याय में, पांडुलिपि की आवाज़ मुड़कर उसका नाम लेती है: दृढबल, जिसने जो खो गया था, उसे लौटाया और ग्रंथ को आज के रूप में बाँधा।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p12_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p12_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "In",
+        "t": 74.0,
+        "d": 170.0
+       },
+       {
+        "w": "the",
+        "t": 244.0,
+        "d": 127.0
+       },
+       {
+        "w": "Siddhisthana's",
+        "t": 372.0,
+        "d": 851.0
+       },
+       {
+        "w": "twelfth",
+        "t": 1223.0,
+        "d": 382.0
+       },
+       {
+        "w": "chapter",
+        "t": 1606.0,
+        "d": 765.0
+       },
+       {
+        "w": "the",
+        "t": 2414.0,
+        "d": 211.0
+       },
+       {
+        "w": "manuscript",
+        "t": 2626.0,
+        "d": 596.0
+       },
+       {
+        "w": "voice",
+        "t": 3223.0,
+        "d": 381.0
+       },
+       {
+        "w": "turns",
+        "t": 3605.0,
+        "d": 425.0
+       },
+       {
+        "w": "and",
+        "t": 4030.0,
+        "d": 212.0
+       },
+       {
+        "w": "speaks",
+        "t": 4243.0,
+        "d": 426.0
+       },
+       {
+        "w": "of",
+        "t": 4670.0,
+        "d": 127.0
+       },
+       {
+        "w": "him",
+        "t": 4797.0,
+        "d": 170.0
+       },
+       {
+        "w": "by",
+        "t": 4968.0,
+        "d": 170.0
+       },
+       {
+        "w": "name",
+        "t": 5138.0,
+        "d": 638.0
+       },
+       {
+        "w": "Drdhabala",
+        "t": 6031.0,
+        "d": 893.0
+       },
+       {
+        "w": "who",
+        "t": 7180.0,
+        "d": 212.0
+       },
+       {
+        "w": "restored",
+        "t": 7393.0,
+        "d": 553.0
+       },
+       {
+        "w": "what",
+        "t": 7946.0,
+        "d": 255.0
+       },
+       {
+        "w": "was",
+        "t": 8202.0,
+        "d": 170.0
+       },
+       {
+        "w": "missing",
+        "t": 8372.0,
+        "d": 467.0
+       },
+       {
+        "w": "and",
+        "t": 8839.0,
+        "d": 298.0
+       },
+       {
+        "w": "brought",
+        "t": 9138.0,
+        "d": 297.0
+       },
+       {
+        "w": "the",
+        "t": 9436.0,
+        "d": 127.0
+       },
+       {
+        "w": "treatise",
+        "t": 9563.0,
+        "d": 424.0
+       },
+       {
+        "w": "to",
+        "t": 9988.0,
+        "d": 170.0
+       },
+       {
+        "w": "its",
+        "t": 10158.0,
+        "d": 213.0
+       },
+       {
+        "w": "present",
+        "t": 10372.0,
+        "d": 382.0
+       },
+       {
+        "w": "form",
+        "t": 10755.0,
+        "d": 637.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p13.png",
+   "shot": "overhead shot of the manuscript sections, with earlier and Drdhabala’s layers visually distinct",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Modern historians, reading handwriting, vocabulary and structure, see the seams: an older core, a Charaka layer, then Drdhabala's additions, especially in the last two books of treatment and perfection.",
+      "hi": "आधुनिक इतिहासकार, लेखन, शब्दावली और रचना देखकर जोड़ पहचान लेते हैं: एक पुराना मूल, उस पर चरक की परत, और फिर दृढबल की जोड़‑तोड़, खासकर उपचार और सिद्धि के आख़िरी दो भागों में।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p13_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p13_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Modern",
+        "t": 74.0,
+        "d": 425.0
+       },
+       {
+        "w": "historians",
+        "t": 500.0,
+        "d": 851.0
+       },
+       {
+        "w": "reading",
+        "t": 1776.0,
+        "d": 468.0
+       },
+       {
+        "w": "handwriting",
+        "t": 2244.0,
+        "d": 1275.0
+       },
+       {
+        "w": "vocabulary",
+        "t": 3647.0,
+        "d": 894.0
+       },
+       {
+        "w": "and",
+        "t": 4585.0,
+        "d": 212.0
+       },
+       {
+        "w": "structure",
+        "t": 4797.0,
+        "d": 1319.0
+       },
+       {
+        "w": "see",
+        "t": 6244.0,
+        "d": 297.0
+       },
+       {
+        "w": "the",
+        "t": 6542.0,
+        "d": 170.0
+       },
+       {
+        "w": "seams",
+        "t": 6712.0,
+        "d": 893.0
+       },
+       {
+        "w": "an",
+        "t": 8159.0,
+        "d": 212.0
+       },
+       {
+        "w": "older",
+        "t": 8372.0,
+        "d": 381.0
+       },
+       {
+        "w": "core",
+        "t": 8754.0,
+        "d": 596.0
+       },
+       {
+        "w": "a",
+        "t": 9647.0,
+        "d": 213.0
+       },
+       {
+        "w": "Charaka",
+        "t": 9861.0,
+        "d": 467.0
+       },
+       {
+        "w": "layer",
+        "t": 10328.0,
+        "d": 553.0
+       },
+       {
+        "w": "then",
+        "t": 11180.0,
+        "d": 297.0
+       },
+       {
+        "w": "Drdhabala's",
+        "t": 11478.0,
+        "d": 680.0
+       },
+       {
+        "w": "additions",
+        "t": 12159.0,
+        "d": 935.0
+       },
+       {
+        "w": "especially",
+        "t": 13393.0,
+        "d": 679.0
+       },
+       {
+        "w": "in",
+        "t": 14073.0,
+        "d": 85.0
+       },
+       {
+        "w": "the",
+        "t": 14158.0,
+        "d": 170.0
+       },
+       {
+        "w": "last",
+        "t": 14328.0,
+        "d": 298.0
+       },
+       {
+        "w": "two",
+        "t": 14627.0,
+        "d": 212.0
+       },
+       {
+        "w": "books",
+        "t": 14840.0,
+        "d": 255.0
+       },
+       {
+        "w": "of",
+        "t": 15095.0,
+        "d": 126.0
+       },
+       {
+        "w": "treatment",
+        "t": 15222.0,
+        "d": 639.0
+       },
+       {
+        "w": "and",
+        "t": 15861.0,
+        "d": 254.0
+       },
+       {
+        "w": "perfection",
+        "t": 16115.0,
+        "d": 681.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "action_auto2",
+   "type": "action",
+   "mood": "triumph",
+   "bg": "assets/drdhabala_rebuilds_charaka_s_book/action_auto2/bg.png",
+   "chars": [
+    {
+     "img": "assets/drdhabala_rebuilds_charaka_s_book/action_auto2/char0.png",
+     "motion": {
+      "fromX": 42,
+      "toX": 8,
+      "fromScale": 0.82,
+      "toScale": 1.03,
+      "rot": 2,
+      "dur": 7200
+     }
+    }
+   ],
+   "motion": {
+    "bgZoom": 1.12,
+    "bgPan": -6,
+    "dur": 7200
+   },
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Fragment by fragment, he locks scattered verses into a single, breathing body of medicine.",
+      "hi": "टुकड़ा‑टुकड़ा करके वो बिखरी आयतों को जोड़कर दवा का ज़िंदा जिस्म बना देता है।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/action/action_auto2_en.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/action/action_auto2_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Fragment",
+        "t": 72.0,
+        "d": 916.0
+       },
+       {
+        "w": "by",
+        "t": 1656.0,
+        "d": 291.0
+       },
+       {
+        "w": "fragment",
+        "t": 1947.0,
+        "d": 791.0
+       },
+       {
+        "w": "he",
+        "t": 3030.0,
+        "d": 334.0
+       },
+       {
+        "w": "locks",
+        "t": 3364.0,
+        "d": 291.0
+       },
+       {
+        "w": "scattered",
+        "t": 3656.0,
+        "d": 457.0
+       },
+       {
+        "w": "verses",
+        "t": 4113.0,
+        "d": 417.0
+       },
+       {
+        "w": "into",
+        "t": 4531.0,
+        "d": 333.0
+       },
+       {
+        "w": "a",
+        "t": 4864.0,
+        "d": 41.0
+       },
+       {
+        "w": "single",
+        "t": 4906.0,
+        "d": 958.0
+       },
+       {
+        "w": "breathing",
+        "t": 5989.0,
+        "d": 541.0
+       },
+       {
+        "w": "body",
+        "t": 6531.0,
+        "d": 375.0
+       },
+       {
+        "w": "of",
+        "t": 6906.0,
+        "d": 208.0
+       },
+       {
+        "w": "medicine",
+        "t": 7114.0,
+        "d": 541.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p14.png",
+   "shot": "medium shot of Drdhabala reading aloud a passage on physician ethics to a younger student",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Within this layered book, a physician's ideal shines: compassion, restraint, clear reasoning. Yet in the same lines lie rules that bar certain castes from training and counsel avoiding some patients altogether.",
+      "hi": "इसी परतों वाले ग्रंथ में वैद्य का आदर्श चमकता है: करुणा, संयम, साफ़ तर्क। और उन्हीं पंक्तियों में नियम हैं जो कुछ जातियों को शिक्षा से रोकते और कुछ रोगियों से दूरी की सलाह देते हैं।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p14_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p14_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Within",
+        "t": 74.0,
+        "d": 340.0
+       },
+       {
+        "w": "this",
+        "t": 414.0,
+        "d": 255.0
+       },
+       {
+        "w": "layered",
+        "t": 670.0,
+        "d": 638.0
+       },
+       {
+        "w": "book",
+        "t": 1308.0,
+        "d": 297.0
+       },
+       {
+        "w": "a",
+        "t": 1648.0,
+        "d": 127.0
+       },
+       {
+        "w": "physician's",
+        "t": 1776.0,
+        "d": 595.0
+       },
+       {
+        "w": "ideal",
+        "t": 2372.0,
+        "d": 425.0
+       },
+       {
+        "w": "shines",
+        "t": 2797.0,
+        "d": 722.0
+       },
+       {
+        "w": "compassion",
+        "t": 3861.0,
+        "d": 1106.0
+       },
+       {
+        "w": "restraint",
+        "t": 5053.0,
+        "d": 936.0
+       },
+       {
+        "w": "clear",
+        "t": 6159.0,
+        "d": 340.0
+       },
+       {
+        "w": "reasoning",
+        "t": 6500.0,
+        "d": 1361.0
+       },
+       {
+        "w": "Yet",
+        "t": 8117.0,
+        "d": 255.0
+       },
+       {
+        "w": "in",
+        "t": 8372.0,
+        "d": 85.0
+       },
+       {
+        "w": "the",
+        "t": 8457.0,
+        "d": 126.0
+       },
+       {
+        "w": "same",
+        "t": 8584.0,
+        "d": 340.0
+       },
+       {
+        "w": "lines",
+        "t": 8924.0,
+        "d": 384.0
+       },
+       {
+        "w": "lie",
+        "t": 9308.0,
+        "d": 255.0
+       },
+       {
+        "w": "rules",
+        "t": 9563.0,
+        "d": 382.0
+       },
+       {
+        "w": "that",
+        "t": 9946.0,
+        "d": 255.0
+       },
+       {
+        "w": "bar",
+        "t": 10202.0,
+        "d": 297.0
+       },
+       {
+        "w": "certain",
+        "t": 10542.0,
+        "d": 339.0
+       },
+       {
+        "w": "castes",
+        "t": 10881.0,
+        "d": 469.0
+       },
+       {
+        "w": "from",
+        "t": 11351.0,
+        "d": 297.0
+       },
+       {
+        "w": "training",
+        "t": 11648.0,
+        "d": 467.0
+       },
+       {
+        "w": "and",
+        "t": 12115.0,
+        "d": 213.0
+       },
+       {
+        "w": "counsel",
+        "t": 12329.0,
+        "d": 468.0
+       },
+       {
+        "w": "avoiding",
+        "t": 12797.0,
+        "d": 467.0
+       },
+       {
+        "w": "some",
+        "t": 13264.0,
+        "d": 255.0
+       },
+       {
+        "w": "patients",
+        "t": 13520.0,
+        "d": 468.0
+       },
+       {
+        "w": "altogether",
+        "t": 13988.0,
+        "d": 852.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p15.png",
+   "shot": "close-up on Drdhabala pausing over a passage about caste or exclusion, thoughtful expression",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "thought",
+     "role": "male",
+     "text": {
+      "en": "To preserve is to mirror the age, not my wish alone.",
+      "hi": "संरक्षण का अर्थ है युग को दिखाना, सिर्फ मेरी इच्छा नहीं।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p15_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p15_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "To",
+        "t": 49.0,
+        "d": 73.5
+       },
+       {
+        "w": "preserve",
+        "t": 147.0,
+        "d": 612.8
+       },
+       {
+        "w": "is",
+        "t": 833.3,
+        "d": 183.8
+       },
+       {
+        "w": "to",
+        "t": 1029.4,
+        "d": 110.3
+       },
+       {
+        "w": "mirror",
+        "t": 1152.0,
+        "d": 318.6
+       },
+       {
+        "w": "the",
+        "t": 1470.6,
+        "d": 196.1
+       },
+       {
+        "w": "age",
+        "t": 1740.2,
+        "d": 355.4
+       },
+       {
+        "w": "not",
+        "t": 2389.7,
+        "d": 318.6
+       },
+       {
+        "w": "my",
+        "t": 2708.3,
+        "d": 245.1
+       },
+       {
+        "w": "wish",
+        "t": 2953.4,
+        "d": 281.9
+       },
+       {
+        "w": "alone",
+        "t": 3296.6,
+        "d": 465.7
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p16.png",
+   "shot": "wide shot of Drdhabala overseeing scribes copying the completed composite text",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "When his redaction was done, copies began to travel. What physicians from Gujarat to Bengal would later call Charaka was, in fact, this Kashmiri recension, already centuries removed from its first utterance.",
+      "hi": "जब उसकी संहिताकरण पूरा हुआ, नकलें चल पड़ीं। गुजरात से बंगाल तक जिन वैद्यों ने जिसे चरक कहा, वह दरअसल यही कश्मीरी पाठ था, जो अपने स्रोत से पहले ही सदियों दूर जा चुका था।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p16_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p16_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "When",
+        "t": 74.0,
+        "d": 212.0
+       },
+       {
+        "w": "his",
+        "t": 287.0,
+        "d": 170.0
+       },
+       {
+        "w": "redaction",
+        "t": 457.0,
+        "d": 510.0
+       },
+       {
+        "w": "was",
+        "t": 968.0,
+        "d": 255.0
+       },
+       {
+        "w": "done",
+        "t": 1223.0,
+        "d": 595.0
+       },
+       {
+        "w": "copies",
+        "t": 1861.0,
+        "d": 510.0
+       },
+       {
+        "w": "began",
+        "t": 2372.0,
+        "d": 297.0
+       },
+       {
+        "w": "to",
+        "t": 2670.0,
+        "d": 170.0
+       },
+       {
+        "w": "travel",
+        "t": 2840.0,
+        "d": 893.0
+       },
+       {
+        "w": "What",
+        "t": 3989.0,
+        "d": 340.0
+       },
+       {
+        "w": "physicians",
+        "t": 4329.0,
+        "d": 595.0
+       },
+       {
+        "w": "from",
+        "t": 4925.0,
+        "d": 212.0
+       },
+       {
+        "w": "Gujarat",
+        "t": 5138.0,
+        "d": 425.0
+       },
+       {
+        "w": "to",
+        "t": 5563.0,
+        "d": 170.0
+       },
+       {
+        "w": "Bengal",
+        "t": 5734.0,
+        "d": 425.0
+       },
+       {
+        "w": "would",
+        "t": 6159.0,
+        "d": 212.0
+       },
+       {
+        "w": "later",
+        "t": 6372.0,
+        "d": 425.0
+       },
+       {
+        "w": "call",
+        "t": 6797.0,
+        "d": 255.0
+       },
+       {
+        "w": "Charaka",
+        "t": 7053.0,
+        "d": 382.0
+       },
+       {
+        "w": "was",
+        "t": 7436.0,
+        "d": 510.0
+       },
+       {
+        "w": "in",
+        "t": 7946.0,
+        "d": 255.0
+       },
+       {
+        "w": "fact",
+        "t": 8202.0,
+        "d": 339.0
+       },
+       {
+        "w": "this",
+        "t": 8541.0,
+        "d": 723.0
+       },
+       {
+        "w": "Kashmiri",
+        "t": 9264.0,
+        "d": 468.0
+       },
+       {
+        "w": "recension",
+        "t": 9732.0,
+        "d": 894.0
+       },
+       {
+        "w": "already",
+        "t": 10711.0,
+        "d": 554.0
+       },
+       {
+        "w": "centuries",
+        "t": 11265.0,
+        "d": 594.0
+       },
+       {
+        "w": "removed",
+        "t": 11860.0,
+        "d": 384.0
+       },
+       {
+        "w": "from",
+        "t": 12244.0,
+        "d": 170.0
+       },
+       {
+        "w": "its",
+        "t": 12414.0,
+        "d": 170.0
+       },
+       {
+        "w": "first",
+        "t": 12585.0,
+        "d": 424.0
+       },
+       {
+        "w": "utterance",
+        "t": 13053.0,
+        "d": 723.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p17.png",
+   "shot": "time-lapse style sequence of the manuscript moving through centuries, hands, and regions",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Later commentators and translators debated, praised and sometimes corrected this text, rarely naming Drdhabala, yet relying on the structure he gave to what they assumed was one timeless voice.",
+      "hi": "बाद के टीकाकार और अनुवादक इस पाठ पर बहस, प्रशंसा और कभी‑कभार संशोधन करते रहे, शायद ही कभी दृढबल का नाम लेते, पर उसी ढाँचे पर टिके रहे जिसे वे एक अनादि आवाज़ समझते थे।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p17_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p17_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Later",
+        "t": 74.0,
+        "d": 425.0
+       },
+       {
+        "w": "commentators",
+        "t": 500.0,
+        "d": 851.0
+       },
+       {
+        "w": "and",
+        "t": 1351.0,
+        "d": 170.0
+       },
+       {
+        "w": "translators",
+        "t": 1521.0,
+        "d": 680.0
+       },
+       {
+        "w": "debated",
+        "t": 2202.0,
+        "d": 1191.0
+       },
+       {
+        "w": "praised",
+        "t": 3436.0,
+        "d": 722.0
+       },
+       {
+        "w": "and",
+        "t": 4158.0,
+        "d": 256.0
+       },
+       {
+        "w": "sometimes",
+        "t": 4414.0,
+        "d": 595.0
+       },
+       {
+        "w": "corrected",
+        "t": 5010.0,
+        "d": 510.0
+       },
+       {
+        "w": "this",
+        "t": 5521.0,
+        "d": 212.0
+       },
+       {
+        "w": "text",
+        "t": 5734.0,
+        "d": 1063.0
+       },
+       {
+        "w": "rarely",
+        "t": 6797.0,
+        "d": 425.0
+       },
+       {
+        "w": "naming",
+        "t": 7223.0,
+        "d": 382.0
+       },
+       {
+        "w": "Drdhabala",
+        "t": 7606.0,
+        "d": 977.0
+       },
+       {
+        "w": "yet",
+        "t": 8924.0,
+        "d": 255.0
+       },
+       {
+        "w": "relying",
+        "t": 9179.0,
+        "d": 426.0
+       },
+       {
+        "w": "on",
+        "t": 9606.0,
+        "d": 85.0
+       },
+       {
+        "w": "the",
+        "t": 9691.0,
+        "d": 126.0
+       },
+       {
+        "w": "structure",
+        "t": 9818.0,
+        "d": 510.0
+       },
+       {
+        "w": "he",
+        "t": 10328.0,
+        "d": 171.0
+       },
+       {
+        "w": "gave",
+        "t": 10500.0,
+        "d": 340.0
+       },
+       {
+        "w": "to",
+        "t": 10840.0,
+        "d": 255.0
+       },
+       {
+        "w": "what",
+        "t": 11095.0,
+        "d": 211.0
+       },
+       {
+        "w": "they",
+        "t": 11307.0,
+        "d": 256.0
+       },
+       {
+        "w": "assumed",
+        "t": 11563.0,
+        "d": 892.0
+       },
+       {
+        "w": "was",
+        "t": 12500.0,
+        "d": 255.0
+       },
+       {
+        "w": "one",
+        "t": 12755.0,
+        "d": 424.0
+       },
+       {
+        "w": "timeless",
+        "t": 13179.0,
+        "d": 469.0
+       },
+       {
+        "w": "voice",
+        "t": 13648.0,
+        "d": 594.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "split_auto",
+   "type": "split",
+   "mood": "battle",
+   "slices": [
+    {
+     "img": "assets/drdhabala_rebuilds_charaka_s_book/split_auto/s0.png",
+     "slogan": {
+      "en": "Guard every syllable, heal worlds",
+      "hi": "हर अक्षर बचाओ, जग चंगा करो"
+     },
+     "pos": "center 30%"
+    },
+    {
+     "img": "assets/drdhabala_rebuilds_charaka_s_book/split_auto/s1.png",
+     "pos": "center 46%"
+    },
+    {
+     "img": "assets/drdhabala_rebuilds_charaka_s_book/split_auto/s2.png",
+     "pos": "center 52%"
+    }
+   ],
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Across centuries and kingdoms, his patient redaction armors healers with Charaka's restored wisdom.",
+      "hi": "सदियों और साम्राज्यों के पार, उसकी धीरजभरी संपादन तलवार वैद्यों को चरक की लौटी हुई विद्या से ढाल देती है।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/split/split_auto_en.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/split/split_auto_hi.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Across",
+        "t": 70.0,
+        "d": 440.0
+       },
+       {
+        "w": "centuries",
+        "t": 510.0,
+        "d": 480.0
+       },
+       {
+        "w": "and",
+        "t": 990.0,
+        "d": 160.0
+       },
+       {
+        "w": "kingdoms",
+        "t": 1150.0,
+        "d": 960.0
+       },
+       {
+        "w": "his",
+        "t": 2190.0,
+        "d": 279.0
+       },
+       {
+        "w": "patient",
+        "t": 2469.0,
+        "d": 360.0
+       },
+       {
+        "w": "redaction",
+        "t": 2829.0,
+        "d": 560.0
+       },
+       {
+        "w": "armors",
+        "t": 3389.0,
+        "d": 440.0
+       },
+       {
+        "w": "healers",
+        "t": 3829.0,
+        "d": 721.0
+       },
+       {
+        "w": "with",
+        "t": 4590.0,
+        "d": 280.0
+       },
+       {
+        "w": "Charaka's",
+        "t": 4870.0,
+        "d": 640.0
+       },
+       {
+        "w": "restored",
+        "t": 5510.0,
+        "d": 560.0
+       },
+       {
+        "w": "wisdom",
+        "t": 6070.0,
+        "d": 560.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p18.png",
+   "shot": "modern-era wide shot of a printed Charaka Samhita on a scholar’s desk beside critical editions and notes",
+   "mood": "calm",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "In the twentieth century, editors like Meulenbeld and physicians like Valiathan would tease apart these layers, reminding us that the text in print is a mosaic, not a monolith.",
+      "hi": "बीसवीं सदी में, म्यूलनबेल्ड जैसे संपादक और वलियाथन जैसे वैद्य इन परतों को अलग करेंगे, याद दिलाते हुए कि छपा हुआ पाठ एक मोज़ेक है, ठोस स्तंभ नहीं।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p18_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p18_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "In",
+        "t": 74.0,
+        "d": 170.0
+       },
+       {
+        "w": "the",
+        "t": 244.0,
+        "d": 127.0
+       },
+       {
+        "w": "twentieth",
+        "t": 372.0,
+        "d": 510.0
+       },
+       {
+        "w": "century",
+        "t": 882.0,
+        "d": 1063.0
+       },
+       {
+        "w": "editors",
+        "t": 2031.0,
+        "d": 509.0
+       },
+       {
+        "w": "like",
+        "t": 2541.0,
+        "d": 298.0
+       },
+       {
+        "w": "Meulenbeld",
+        "t": 2840.0,
+        "d": 850.0
+       },
+       {
+        "w": "and",
+        "t": 3734.0,
+        "d": 170.0
+       },
+       {
+        "w": "physicians",
+        "t": 3904.0,
+        "d": 595.0
+       },
+       {
+        "w": "like",
+        "t": 4500.0,
+        "d": 212.0
+       },
+       {
+        "w": "Valiathan",
+        "t": 4712.0,
+        "d": 553.0
+       },
+       {
+        "w": "would",
+        "t": 5265.0,
+        "d": 382.0
+       },
+       {
+        "w": "tease",
+        "t": 5648.0,
+        "d": 297.0
+       },
+       {
+        "w": "apart",
+        "t": 5946.0,
+        "d": 510.0
+       },
+       {
+        "w": "these",
+        "t": 6457.0,
+        "d": 255.0
+       },
+       {
+        "w": "layers",
+        "t": 6712.0,
+        "d": 808.0
+       },
+       {
+        "w": "reminding",
+        "t": 7946.0,
+        "d": 637.0
+       },
+       {
+        "w": "us",
+        "t": 8584.0,
+        "d": 213.0
+       },
+       {
+        "w": "that",
+        "t": 8797.0,
+        "d": 170.0
+       },
+       {
+        "w": "the",
+        "t": 8968.0,
+        "d": 211.0
+       },
+       {
+        "w": "text",
+        "t": 9179.0,
+        "d": 384.0
+       },
+       {
+        "w": "in",
+        "t": 9563.0,
+        "d": 169.0
+       },
+       {
+        "w": "print",
+        "t": 9732.0,
+        "d": 595.0
+       },
+       {
+        "w": "is",
+        "t": 10457.0,
+        "d": 254.0
+       },
+       {
+        "w": "a",
+        "t": 10711.0,
+        "d": 43.0
+       },
+       {
+        "w": "mosaic",
+        "t": 10755.0,
+        "d": 936.0
+       },
+       {
+        "w": "not",
+        "t": 11860.0,
+        "d": 384.0
+       },
+       {
+        "w": "a",
+        "t": 12244.0,
+        "d": 41.0
+       },
+       {
+        "w": "monolith",
+        "t": 12286.0,
+        "d": 767.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "p19",
+   "art": "assets/drdhabala_rebuilds_charaka_s_book/img/p19.png",
+   "shot": "final contemplative close-up of Drdhabala half in shadow, manuscripts behind him fading into abstract light",
+   "mood": "suspense",
+   "lines": [
+    {
+     "type": "narration",
+     "role": "narrator",
+     "text": {
+      "en": "Drdhabala did not originate Ayurveda, nor erase its limits; he stitched a wounded text so others could inherit it, showing that sometimes the boldest creation is to rebuild what time has already half taken away.",
+      "hi": "दृढबल ने आयुर्वेद न तो रचा, न उसकी सीमाएँ मिटाईं; उसने घायल ग्रंथ को सी दिया ताकि और लोग उसे विरासत में लें, दिखाते हुए कि कभी‑कभी सबसे साहसी सृजन वही है जो समय ने आधा मिटा दिया हो, उसे फिर से जोड़ देना।"
+     },
+     "audio": {
+      "en": "assets/drdhabala_rebuilds_charaka_s_book/audio/en/p19_0.mp3",
+      "hi": "assets/drdhabala_rebuilds_charaka_s_book/audio/hi/p19_0.mp3"
+     },
+     "words": {
+      "en": [
+       {
+        "w": "Drdhabala",
+        "t": 80.0,
+        "d": 689.0
+       },
+       {
+        "w": "did",
+        "t": 770.0,
+        "d": 275.0
+       },
+       {
+        "w": "not",
+        "t": 1045.0,
+        "d": 367.0
+       },
+       {
+        "w": "originate",
+        "t": 1413.0,
+        "d": 643.0
+       },
+       {
+        "w": "Ayurveda",
+        "t": 2057.0,
+        "d": 827.0
+       },
+       {
+        "w": "nor",
+        "t": 3297.0,
+        "d": 368.0
+       },
+       {
+        "w": "erase",
+        "t": 3666.0,
+        "d": 459.0
+       },
+       {
+        "w": "its",
+        "t": 4126.0,
+        "d": 183.0
+       },
+       {
+        "w": "limits",
+        "t": 4310.0,
+        "d": 735.0
+       },
+       {
+        "w": "he",
+        "t": 5505.0,
+        "d": 321.0
+       },
+       {
+        "w": "stitched",
+        "t": 5827.0,
+        "d": 505.0
+       },
+       {
+        "w": "a",
+        "t": 6379.0,
+        "d": 183.0
+       },
+       {
+        "w": "wounded",
+        "t": 6563.0,
+        "d": 643.0
+       },
+       {
+        "w": "text",
+        "t": 7206.0,
+        "d": 551.0
+       },
+       {
+        "w": "so",
+        "t": 7758.0,
+        "d": 275.0
+       },
+       {
+        "w": "others",
+        "t": 8034.0,
+        "d": 597.0
+       },
+       {
+        "w": "could",
+        "t": 8632.0,
+        "d": 229.0
+       },
+       {
+        "w": "inherit",
+        "t": 8862.0,
+        "d": 458.0
+       },
+       {
+        "w": "it",
+        "t": 9320.0,
+        "d": 413.0
+       },
+       {
+        "w": "showing",
+        "t": 10103.0,
+        "d": 504.0
+       },
+       {
+        "w": "that",
+        "t": 10608.0,
+        "d": 183.0
+       },
+       {
+        "w": "sometimes",
+        "t": 10791.0,
+        "d": 690.0
+       },
+       {
+        "w": "the",
+        "t": 11482.0,
+        "d": 182.0
+       },
+       {
+        "w": "boldest",
+        "t": 11665.0,
+        "d": 551.0
+       },
+       {
+        "w": "creation",
+        "t": 12217.0,
+        "d": 689.0
+       },
+       {
+        "w": "is",
+        "t": 12906.0,
+        "d": 183.0
+       },
+       {
+        "w": "to",
+        "t": 13090.0,
+        "d": 139.0
+       },
+       {
+        "w": "rebuild",
+        "t": 13229.0,
+        "d": 873.0
+       },
+       {
+        "w": "what",
+        "t": 14148.0,
+        "d": 414.0
+       },
+       {
+        "w": "time",
+        "t": 14563.0,
+        "d": 458.0
+       },
+       {
+        "w": "has",
+        "t": 15021.0,
+        "d": 231.0
+       },
+       {
+        "w": "already",
+        "t": 15297.0,
+        "d": 598.0
+       },
+       {
+        "w": "half",
+        "t": 15896.0,
+        "d": 321.0
+       },
+       {
+        "w": "taken",
+        "t": 16218.0,
+        "d": 367.0
+       },
+       {
+        "w": "away",
+        "t": 16586.0,
+        "d": 459.0
+       }
+      ],
+      "hi": []
+     }
+    }
+   ]
   }
+ ],
+ "hero": {
+  "name": "Drdhabala of Kashmir",
+  "epithets": [
+   "Redactor of the Charaka Samhita",
+   "Physician-scholar of Kashmir",
+   "Restorer of lost medical lore"
+  ],
+  "legend": "He healed a broken book so it could heal the world."
+ }
 }
