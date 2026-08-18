@@ -1,0 +1,3372 @@
+{
+  "id": "the_nanadesi_road_without_borders",
+  "title": "The Nanadesi Road Without Borders",
+  "title_i18n": {
+    "en": "The Nanadesi Road Without Borders",
+    "hi": "सीमाओं से परे नानदेशी सड़क"
+  },
+  "figure": "Nanadesi merchants",
+  "era": "Trans-regional merchant mobility, c. 10th-13th century CE",
+  "moral": "A network can become a homeland.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_nanadesi_road_without_borders/intro/hero.png",
+      "name": "Nanadesi Merchant",
+      "epithets": [
+        "Nanadesi",
+        "People of Many Countries",
+        "Ainurruvar Merchants",
+        "Guilds of the Eastern Sea"
+      ],
+      "legend": "They turned faraway roads into one shared homeland of trade.",
+      "era": "Trans-regional merchant mobility, c. 10th-13th century CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "They called themselves people of many countries, yet carried one guild mark from temple towns in Karnataka to Sri Lanka's shores. Who owns the road when your homeland is every port you touch?",
+            "hi": "वे खुद को कई देशों के लोग कहते थे, पर एक ही गिल्ड की मुहर लिये कर्नाटक के मंदिरों से श्रीलंका के तट तक घूमते थे।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/intro/hero_en.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "They",
+                "t": 72.0,
+                "d": 250.0
+              },
+              {
+                "w": "called",
+                "t": 322.0,
+                "d": 250.0
+              },
+              {
+                "w": "themselves",
+                "t": 572.0,
+                "d": 541.0
+              },
+              {
+                "w": "people",
+                "t": 1114.0,
+                "d": 416.0
+              },
+              {
+                "w": "of",
+                "t": 1531.0,
+                "d": 250.0
+              },
+              {
+                "w": "many",
+                "t": 1781.0,
+                "d": 291.0
+              },
+              {
+                "w": "countries",
+                "t": 2072.0,
+                "d": 791.0
+              },
+              {
+                "w": "yet",
+                "t": 3071.0,
+                "d": 292.0
+              },
+              {
+                "w": "carried",
+                "t": 3364.0,
+                "d": 416.0
+              },
+              {
+                "w": "one",
+                "t": 3781.0,
+                "d": 373.0
+              },
+              {
+                "w": "guild",
+                "t": 4155.0,
+                "d": 251.0
+              },
+              {
+                "w": "mark",
+                "t": 4406.0,
+                "d": 291.0
+              },
+              {
+                "w": "from",
+                "t": 4697.0,
+                "d": 291.0
+              },
+              {
+                "w": "temple",
+                "t": 4989.0,
+                "d": 375.0
+              },
+              {
+                "w": "towns",
+                "t": 5364.0,
+                "d": 333.0
+              },
+              {
+                "w": "in",
+                "t": 5697.0,
+                "d": 125.0
+              },
+              {
+                "w": "Karnataka",
+                "t": 5822.0,
+                "d": 625.0
+              },
+              {
+                "w": "to",
+                "t": 6697.0,
+                "d": 125.0
+              },
+              {
+                "w": "Sri",
+                "t": 6822.0,
+                "d": 166.0
+              },
+              {
+                "w": "Lanka's",
+                "t": 6989.0,
+                "d": 416.0
+              },
+              {
+                "w": "shores",
+                "t": 7406.0,
+                "d": 750.0
+              },
+              {
+                "w": "Who",
+                "t": 8405.0,
+                "d": 250.0
+              },
+              {
+                "w": "owns",
+                "t": 8655.0,
+                "d": 416.0
+              },
+              {
+                "w": "the",
+                "t": 9071.0,
+                "d": 167.0
+              },
+              {
+                "w": "road",
+                "t": 9239.0,
+                "d": 250.0
+              },
+              {
+                "w": "when",
+                "t": 9489.0,
+                "d": 166.0
+              },
+              {
+                "w": "your",
+                "t": 9656.0,
+                "d": 166.0
+              },
+              {
+                "w": "homeland",
+                "t": 9822.0,
+                "d": 500.0
+              },
+              {
+                "w": "is",
+                "t": 10322.0,
+                "d": 248.0
+              },
+              {
+                "w": "every",
+                "t": 10614.0,
+                "d": 540.0
+              },
+              {
+                "w": "port",
+                "t": 11155.0,
+                "d": 334.0
+              },
+              {
+                "w": "you",
+                "t": 11489.0,
+                "d": 166.0
+              },
+              {
+                "w": "touch",
+                "t": 11656.0,
+                "d": 583.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_nanadesi_road_without_borders/intro/map.png",
+      "x": 0.65,
+      "y": 0.55,
+      "label": "Kaveri–Tungabhadra to Bay of Bengal ports",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From inland temple streets to salty Bay of Bengal harbours, their caravans and ships stitched distant kingdoms into one humming road of trade.",
+            "hi": "भीतरी मंदिर गलियों से लेकर खारे बंगाल की खाड़ी बंदरगाहों तक, उनकी काफ़िले और जहाज़ों ने दूर–दूर के राज्यों को एक गूंजती व्यापार सड़क में पिरो दिया।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/intro/map_en.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "inland",
+                "t": 448.0,
+                "d": 459.0
+              },
+              {
+                "w": "temple",
+                "t": 908.0,
+                "d": 367.0
+              },
+              {
+                "w": "streets",
+                "t": 1275.0,
+                "d": 505.0
+              },
+              {
+                "w": "to",
+                "t": 1781.0,
+                "d": 137.0
+              },
+              {
+                "w": "salty",
+                "t": 1919.0,
+                "d": 505.0
+              },
+              {
+                "w": "Bay",
+                "t": 2425.0,
+                "d": 228.0
+              },
+              {
+                "w": "of",
+                "t": 2654.0,
+                "d": 137.0
+              },
+              {
+                "w": "Bengal",
+                "t": 2791.0,
+                "d": 459.0
+              },
+              {
+                "w": "harbours",
+                "t": 3251.0,
+                "d": 874.0
+              },
+              {
+                "w": "their",
+                "t": 4401.0,
+                "d": 277.0
+              },
+              {
+                "w": "caravans",
+                "t": 4678.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 5275.0,
+                "d": 321.0
+              },
+              {
+                "w": "ships",
+                "t": 5597.0,
+                "d": 367.0
+              },
+              {
+                "w": "stitched",
+                "t": 5965.0,
+                "d": 873.0
+              },
+              {
+                "w": "distant",
+                "t": 6839.0,
+                "d": 551.0
+              },
+              {
+                "w": "kingdoms",
+                "t": 7390.0,
+                "d": 597.0
+              },
+              {
+                "w": "into",
+                "t": 7988.0,
+                "d": 275.0
+              },
+              {
+                "w": "one",
+                "t": 8264.0,
+                "d": 413.0
+              },
+              {
+                "w": "humming",
+                "t": 8678.0,
+                "d": 413.0
+              },
+              {
+                "w": "road",
+                "t": 9091.0,
+                "d": 274.0
+              },
+              {
+                "w": "of",
+                "t": 9366.0,
+                "d": 231.0
+              },
+              {
+                "w": "trade",
+                "t": 9597.0,
+                "d": 643.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_nanadesi_road_without_borders/img/cover.png",
+      "shot": "wide, low-angle view of a busy medieval South Indian port, with Nanadesi Merchant standing at the edge of a wooden jetty, ships and nagaram town behind, distant shoreline across the bay",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In an age of kingdoms and castes, the Nanadesi called themselves people of many countries; how did merchants build a road without borders, yet keep its gates so tightly guarded?",
+            "hi": "राज और जात के दौर में भी नानदेशी अपने को कई देसों के लोग कहते थे; फिर उन्होंने बिना सरहद की राह कैसे बनाई, पर फाटक इतने कसे कैसे रखे?"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/cover_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "an",
+                "t": 287.0,
+                "d": 170.0
+              },
+              {
+                "w": "age",
+                "t": 457.0,
+                "d": 212.0
+              },
+              {
+                "w": "of",
+                "t": 670.0,
+                "d": 170.0
+              },
+              {
+                "w": "kingdoms",
+                "t": 840.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 1351.0,
+                "d": 170.0
+              },
+              {
+                "w": "castes",
+                "t": 1521.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 1989.0,
+                "d": 637.0
+              },
+              {
+                "w": "Nanadesi",
+                "t": 2626.0,
+                "d": 553.0
+              },
+              {
+                "w": "called",
+                "t": 3179.0,
+                "d": 340.0
+              },
+              {
+                "w": "themselves",
+                "t": 3520.0,
+                "d": 680.0
+              },
+              {
+                "w": "people",
+                "t": 4201.0,
+                "d": 341.0
+              },
+              {
+                "w": "of",
+                "t": 4542.0,
+                "d": 127.0
+              },
+              {
+                "w": "many",
+                "t": 4670.0,
+                "d": 297.0
+              },
+              {
+                "w": "countries",
+                "t": 4968.0,
+                "d": 1148.0
+              },
+              {
+                "w": "how",
+                "t": 6329.0,
+                "d": 340.0
+              },
+              {
+                "w": "did",
+                "t": 6670.0,
+                "d": 170.0
+              },
+              {
+                "w": "merchants",
+                "t": 6840.0,
+                "d": 638.0
+              },
+              {
+                "w": "build",
+                "t": 7478.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 7819.0,
+                "d": 42.0
+              },
+              {
+                "w": "road",
+                "t": 7861.0,
+                "d": 382.0
+              },
+              {
+                "w": "without",
+                "t": 8244.0,
+                "d": 381.0
+              },
+              {
+                "w": "borders",
+                "t": 8626.0,
+                "d": 809.0
+              },
+              {
+                "w": "yet",
+                "t": 9818.0,
+                "d": 340.0
+              },
+              {
+                "w": "keep",
+                "t": 10158.0,
+                "d": 256.0
+              },
+              {
+                "w": "its",
+                "t": 10414.0,
+                "d": 212.0
+              },
+              {
+                "w": "gates",
+                "t": 10627.0,
+                "d": 339.0
+              },
+              {
+                "w": "so",
+                "t": 10967.0,
+                "d": 511.0
+              },
+              {
+                "w": "tightly",
+                "t": 11478.0,
+                "d": 510.0
+              },
+              {
+                "w": "guarded",
+                "t": 11989.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_nanadesi_road_without_borders/img/p01.png",
+      "shot": "bird's-eye view over the Deccan, tracking a long caravan road weaving between rivers, temples and market towns",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From the eleventh to the thirteenth century, roads from the Kaveri to the Krishna shook with caravans; in the stone records of these routes, a new name appears again and again, Nanadesi, people of many countries.",
+            "hi": "ग्यारहवीं से तेरहवीं सदी तक कावेरी से कृष्णा तक की राहें काफिलों से काँप उठीं; इन्हीं रास्तों की पत्थर-लिपियों में बार‑बार उभरता है एक नाम—नानदेशी, यानी कई देसों के लोग।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p01_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 127.0
+              },
+              {
+                "w": "eleventh",
+                "t": 457.0,
+                "d": 595.0
+              },
+              {
+                "w": "to",
+                "t": 1053.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 1180.0,
+                "d": 170.0
+              },
+              {
+                "w": "thirteenth",
+                "t": 1351.0,
+                "d": 510.0
+              },
+              {
+                "w": "century",
+                "t": 1861.0,
+                "d": 851.0
+              },
+              {
+                "w": "roads",
+                "t": 2755.0,
+                "d": 468.0
+              },
+              {
+                "w": "from",
+                "t": 3223.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 3393.0,
+                "d": 126.0
+              },
+              {
+                "w": "Kaveri",
+                "t": 3520.0,
+                "d": 553.0
+              },
+              {
+                "w": "to",
+                "t": 4073.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 4158.0,
+                "d": 171.0
+              },
+              {
+                "w": "Krishna",
+                "t": 4329.0,
+                "d": 425.0
+              },
+              {
+                "w": "shook",
+                "t": 4755.0,
+                "d": 297.0
+              },
+              {
+                "w": "with",
+                "t": 5053.0,
+                "d": 212.0
+              },
+              {
+                "w": "caravans",
+                "t": 5265.0,
+                "d": 1234.0
+              },
+              {
+                "w": "in",
+                "t": 6585.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 6797.0,
+                "d": 127.0
+              },
+              {
+                "w": "stone",
+                "t": 6925.0,
+                "d": 340.0
+              },
+              {
+                "w": "records",
+                "t": 7265.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 7776.0,
+                "d": 127.0
+              },
+              {
+                "w": "these",
+                "t": 7904.0,
+                "d": 297.0
+              },
+              {
+                "w": "routes",
+                "t": 8202.0,
+                "d": 637.0
+              },
+              {
+                "w": "a",
+                "t": 9179.0,
+                "d": 171.0
+              },
+              {
+                "w": "new",
+                "t": 9351.0,
+                "d": 296.0
+              },
+              {
+                "w": "name",
+                "t": 9647.0,
+                "d": 298.0
+              },
+              {
+                "w": "appears",
+                "t": 9946.0,
+                "d": 553.0
+              },
+              {
+                "w": "again",
+                "t": 10500.0,
+                "d": 552.0
+              },
+              {
+                "w": "and",
+                "t": 11052.0,
+                "d": 213.0
+              },
+              {
+                "w": "again",
+                "t": 11265.0,
+                "d": 808.0
+              },
+              {
+                "w": "Nanadesi",
+                "t": 12159.0,
+                "d": 893.0
+              },
+              {
+                "w": "people",
+                "t": 13350.0,
+                "d": 384.0
+              },
+              {
+                "w": "of",
+                "t": 13734.0,
+                "d": 169.0
+              },
+              {
+                "w": "many",
+                "t": 13903.0,
+                "d": 255.0
+              },
+              {
+                "w": "countries",
+                "t": 14158.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_nanadesi_road_without_borders/img/p02.png",
+      "shot": "medium shot inside a crowded nagaram street, camera at eye level between stalls",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Their inscriptions call them residents of nagarams, market towns linked to temples and guild-houses; here, in the noise of coin and scale, distance itself became a profession.",
+            "hi": "उनकी शिलालेखों में वे ‘नगरम्’ के बाशिंदे कहलाते हैं—मंदिरों और श्रेणी‑मंडपों से जुड़ी बाज़ार बस्तियाँ; यहाँ सिक्कों और तराजू की गूँज में दूरी ही एक पेशा बन गई।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p02_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Their",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 457.0,
+                "d": 765.0
+              },
+              {
+                "w": "call",
+                "t": 1223.0,
+                "d": 212.0
+              },
+              {
+                "w": "them",
+                "t": 1436.0,
+                "d": 255.0
+              },
+              {
+                "w": "residents",
+                "t": 1691.0,
+                "d": 595.0
+              },
+              {
+                "w": "of",
+                "t": 2287.0,
+                "d": 254.0
+              },
+              {
+                "w": "nagarams",
+                "t": 2541.0,
+                "d": 937.0
+              },
+              {
+                "w": "market",
+                "t": 3605.0,
+                "d": 468.0
+              },
+              {
+                "w": "towns",
+                "t": 4073.0,
+                "d": 384.0
+              },
+              {
+                "w": "linked",
+                "t": 4457.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 4755.0,
+                "d": 170.0
+              },
+              {
+                "w": "temples",
+                "t": 4925.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 5521.0,
+                "d": 297.0
+              },
+              {
+                "w": "guild-houses",
+                "t": 5819.0,
+                "d": 765.0
+              },
+              {
+                "w": "here",
+                "t": 7180.0,
+                "d": 851.0
+              },
+              {
+                "w": "in",
+                "t": 8031.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 8287.0,
+                "d": 127.0
+              },
+              {
+                "w": "noise",
+                "t": 8414.0,
+                "d": 339.0
+              },
+              {
+                "w": "of",
+                "t": 8754.0,
+                "d": 170.0
+              },
+              {
+                "w": "coin",
+                "t": 8924.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 9264.0,
+                "d": 128.0
+              },
+              {
+                "w": "scale",
+                "t": 9393.0,
+                "d": 808.0
+              },
+              {
+                "w": "distance",
+                "t": 10372.0,
+                "d": 594.0
+              },
+              {
+                "w": "itself",
+                "t": 10967.0,
+                "d": 639.0
+              },
+              {
+                "w": "became",
+                "t": 11648.0,
+                "d": 425.0
+              },
+              {
+                "w": "a",
+                "t": 12074.0,
+                "d": 85.0
+              },
+              {
+                "w": "profession",
+                "t": 12159.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_nanadesi_road_without_borders/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_nanadesi_road_without_borders/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With guild charters in hand, he threads new paths through crowded nagarams, mapping routes in his mind before caravans ever move.",
+            "hi": "गिल्ड का चार्टर हाथ में, वह भीड़भाड़ वाले नगरों से नई राहें बुनता है, कारवां चलने से पहले ही दिमाग में रास्ता बना लेता है।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "guild",
+                "t": 356.0,
+                "d": 367.0
+              },
+              {
+                "w": "charters",
+                "t": 724.0,
+                "d": 459.0
+              },
+              {
+                "w": "in",
+                "t": 1183.0,
+                "d": 91.0
+              },
+              {
+                "w": "hand",
+                "t": 1275.0,
+                "d": 735.0
+              },
+              {
+                "w": "he",
+                "t": 2011.0,
+                "d": 367.0
+              },
+              {
+                "w": "threads",
+                "t": 2379.0,
+                "d": 412.0
+              },
+              {
+                "w": "new",
+                "t": 2791.0,
+                "d": 322.0
+              },
+              {
+                "w": "paths",
+                "t": 3114.0,
+                "d": 413.0
+              },
+              {
+                "w": "through",
+                "t": 3528.0,
+                "d": 366.0
+              },
+              {
+                "w": "crowded",
+                "t": 3895.0,
+                "d": 414.0
+              },
+              {
+                "w": "nagarams",
+                "t": 4310.0,
+                "d": 1103.0
+              },
+              {
+                "w": "mapping",
+                "t": 5505.0,
+                "d": 551.0
+              },
+              {
+                "w": "routes",
+                "t": 6057.0,
+                "d": 321.0
+              },
+              {
+                "w": "in",
+                "t": 6379.0,
+                "d": 91.0
+              },
+              {
+                "w": "his",
+                "t": 6471.0,
+                "d": 137.0
+              },
+              {
+                "w": "mind",
+                "t": 6609.0,
+                "d": 597.0
+              },
+              {
+                "w": "before",
+                "t": 7252.0,
+                "d": 459.0
+              },
+              {
+                "w": "caravans",
+                "t": 7712.0,
+                "d": 689.0
+              },
+              {
+                "w": "ever",
+                "t": 8448.0,
+                "d": 275.0
+              },
+              {
+                "w": "move",
+                "t": 8724.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_nanadesi_road_without_borders/img/p03.png",
+      "shot": "close-up on carved stone inscription, with Nanadesi Merchant's hand tracing the letters",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Some stones pair Nanadesi with the great federations, the Ainnurruvar, the Five Hundred of the Thousand Settlements; were they a separate guild, or a rank within these mighty networks?",
+            "hi": "कुछ पत्थरों पर नानदेशी का नाम जुड़ता है बड़ी संघों से—ऐन्नूर्रुवर, हज़ार बस्तियों की पाँच सौ मंडली; क्या वे अलग श्रेणी थे, या इन्हीं महा‑जालों के अंदर एक ऊँचा ओहदा?"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p03_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Some",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "stones",
+                "t": 457.0,
+                "d": 468.0
+              },
+              {
+                "w": "pair",
+                "t": 925.0,
+                "d": 297.0
+              },
+              {
+                "w": "Nanadesi",
+                "t": 1223.0,
+                "d": 680.0
+              },
+              {
+                "w": "with",
+                "t": 1904.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 2074.0,
+                "d": 170.0
+              },
+              {
+                "w": "great",
+                "t": 2244.0,
+                "d": 339.0
+              },
+              {
+                "w": "federations",
+                "t": 2584.0,
+                "d": 1021.0
+              },
+              {
+                "w": "the",
+                "t": 3776.0,
+                "d": 296.0
+              },
+              {
+                "w": "Ainnurruvar",
+                "t": 4115.0,
+                "d": 979.0
+              },
+              {
+                "w": "the",
+                "t": 5138.0,
+                "d": 255.0
+              },
+              {
+                "w": "Five",
+                "t": 5393.0,
+                "d": 297.0
+              },
+              {
+                "w": "Hundred",
+                "t": 5691.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 5989.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 6074.0,
+                "d": 170.0
+              },
+              {
+                "w": "Thousand",
+                "t": 6244.0,
+                "d": 425.0
+              },
+              {
+                "w": "Settlements",
+                "t": 6670.0,
+                "d": 1148.0
+              },
+              {
+                "w": "were",
+                "t": 8202.0,
+                "d": 297.0
+              },
+              {
+                "w": "they",
+                "t": 8500.0,
+                "d": 169.0
+              },
+              {
+                "w": "a",
+                "t": 8669.0,
+                "d": 85.0
+              },
+              {
+                "w": "separate",
+                "t": 8754.0,
+                "d": 510.0
+              },
+              {
+                "w": "guild",
+                "t": 9264.0,
+                "d": 723.0
+              },
+              {
+                "w": "or",
+                "t": 10202.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 10414.0,
+                "d": 42.0
+              },
+              {
+                "w": "rank",
+                "t": 10457.0,
+                "d": 424.0
+              },
+              {
+                "w": "within",
+                "t": 10881.0,
+                "d": 340.0
+              },
+              {
+                "w": "these",
+                "t": 11222.0,
+                "d": 298.0
+              },
+              {
+                "w": "mighty",
+                "t": 11521.0,
+                "d": 382.0
+              },
+              {
+                "w": "networks",
+                "t": 11904.0,
+                "d": 851.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_nanadesi_road_without_borders/img/p04.png",
+      "shot": "interior wide shot of a guild hall, with beams and lamps, low-angle emphasizing height",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Later scholars debate their nature: were these guilds true corporations with rigid boards and seals, or flexible titles of prestige, claimed when a merchant's reach spanned many lands?",
+            "hi": "बाद के विद्वान बहसते हैं—ये संघ सचमुच सख़्त निगम थे, मुहरों और कड़े बोर्डों वाले, या फिर लचीले मान‑खिताब, जो वही पाता जब किसी व्यापारी की पहुँच कई देसों तक फैल जाती?"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p04_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Later",
+                "t": 74.0,
+                "d": 425.0
+              },
+              {
+                "w": "scholars",
+                "t": 500.0,
+                "d": 468.0
+              },
+              {
+                "w": "debate",
+                "t": 968.0,
+                "d": 382.0
+              },
+              {
+                "w": "their",
+                "t": 1351.0,
+                "d": 212.0
+              },
+              {
+                "w": "nature",
+                "t": 1563.0,
+                "d": 851.0
+              },
+              {
+                "w": "were",
+                "t": 2456.0,
+                "d": 256.0
+              },
+              {
+                "w": "these",
+                "t": 2712.0,
+                "d": 296.0
+              },
+              {
+                "w": "guilds",
+                "t": 3009.0,
+                "d": 384.0
+              },
+              {
+                "w": "true",
+                "t": 3393.0,
+                "d": 296.0
+              },
+              {
+                "w": "corporations",
+                "t": 3690.0,
+                "d": 767.0
+              },
+              {
+                "w": "with",
+                "t": 4457.0,
+                "d": 255.0
+              },
+              {
+                "w": "rigid",
+                "t": 4712.0,
+                "d": 340.0
+              },
+              {
+                "w": "boards",
+                "t": 5053.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 5648.0,
+                "d": 255.0
+              },
+              {
+                "w": "seals",
+                "t": 5904.0,
+                "d": 680.0
+              },
+              {
+                "w": "or",
+                "t": 6797.0,
+                "d": 255.0
+              },
+              {
+                "w": "flexible",
+                "t": 7053.0,
+                "d": 510.0
+              },
+              {
+                "w": "titles",
+                "t": 7563.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 7946.0,
+                "d": 127.0
+              },
+              {
+                "w": "prestige",
+                "t": 8074.0,
+                "d": 1063.0
+              },
+              {
+                "w": "claimed",
+                "t": 9308.0,
+                "d": 468.0
+              },
+              {
+                "w": "when",
+                "t": 9776.0,
+                "d": 211.0
+              },
+              {
+                "w": "a",
+                "t": 9988.0,
+                "d": 43.0
+              },
+              {
+                "w": "merchant's",
+                "t": 10031.0,
+                "d": 553.0
+              },
+              {
+                "w": "reach",
+                "t": 10585.0,
+                "d": 296.0
+              },
+              {
+                "w": "spanned",
+                "t": 10881.0,
+                "d": 510.0
+              },
+              {
+                "w": "many",
+                "t": 11392.0,
+                "d": 256.0
+              },
+              {
+                "w": "lands",
+                "t": 11648.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_nanadesi_road_without_borders/img/p05.png",
+      "shot": "map-like overhead composition, but rendered as real terrain with caravans and ships, no modern borders",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "What the records agree on is movement: Nanadesis appear along routes from Karnataka to Tamil country, across Andhra coasts, in Kerala ports, and even on stones raised in Sri Lanka.",
+            "hi": "इतिहास जिन बातों पर एकमत है, वह है चलन; नानदेशी के नाम कर्नाटक से तमिल देस की राहों पर, आंध्र तटों पर, केरल के बंदरगाहों में, और श्रीलंका की शिलाओं पर भी उभरते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p05_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "What",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "records",
+                "t": 414.0,
+                "d": 425.0
+              },
+              {
+                "w": "agree",
+                "t": 840.0,
+                "d": 297.0
+              },
+              {
+                "w": "on",
+                "t": 1138.0,
+                "d": 255.0
+              },
+              {
+                "w": "is",
+                "t": 1393.0,
+                "d": 212.0
+              },
+              {
+                "w": "movement",
+                "t": 1606.0,
+                "d": 1106.0
+              },
+              {
+                "w": "Nanadesis",
+                "t": 2797.0,
+                "d": 807.0
+              },
+              {
+                "w": "appear",
+                "t": 3605.0,
+                "d": 384.0
+              },
+              {
+                "w": "along",
+                "t": 3989.0,
+                "d": 340.0
+              },
+              {
+                "w": "routes",
+                "t": 4329.0,
+                "d": 297.0
+              },
+              {
+                "w": "from",
+                "t": 4627.0,
+                "d": 212.0
+              },
+              {
+                "w": "Karnataka",
+                "t": 4840.0,
+                "d": 723.0
+              },
+              {
+                "w": "to",
+                "t": 5563.0,
+                "d": 212.0
+              },
+              {
+                "w": "Tamil",
+                "t": 5776.0,
+                "d": 297.0
+              },
+              {
+                "w": "country",
+                "t": 6074.0,
+                "d": 723.0
+              },
+              {
+                "w": "across",
+                "t": 6840.0,
+                "d": 510.0
+              },
+              {
+                "w": "Andhra",
+                "t": 7393.0,
+                "d": 382.0
+              },
+              {
+                "w": "coasts",
+                "t": 7776.0,
+                "d": 595.0
+              },
+              {
+                "w": "in",
+                "t": 8457.0,
+                "d": 211.0
+              },
+              {
+                "w": "Kerala",
+                "t": 8669.0,
+                "d": 384.0
+              },
+              {
+                "w": "ports",
+                "t": 9053.0,
+                "d": 594.0
+              },
+              {
+                "w": "and",
+                "t": 9691.0,
+                "d": 381.0
+              },
+              {
+                "w": "even",
+                "t": 10073.0,
+                "d": 298.0
+              },
+              {
+                "w": "on",
+                "t": 10372.0,
+                "d": 170.0
+              },
+              {
+                "w": "stones",
+                "t": 10542.0,
+                "d": 553.0
+              },
+              {
+                "w": "raised",
+                "t": 11095.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 11478.0,
+                "d": 85.0
+              },
+              {
+                "w": "Sri",
+                "t": 11563.0,
+                "d": 170.0
+              },
+              {
+                "w": "Lanka",
+                "t": 11734.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_nanadesi_road_without_borders/img/p06.png",
+      "shot": "medium shot at a temple courtyard, slight low-angle to include gopuram",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Inscription after inscription ties them to temple endowments, land grants, lamps, feeding houses; the guild's road without borders still anchored itself in stone, ritual and local gods.",
+            "hi": "एक के बाद एक शिलालेख उन्हें मंदिर दान से जोड़ता है—जागीर, दीप, अन्नछत्र; यह बे‑सरहद राह भी पत्थर, पूजा और देसी देवताओं से ही जकड़ी रही।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p06_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Inscription",
+                "t": 74.0,
+                "d": 808.0
+              },
+              {
+                "w": "after",
+                "t": 882.0,
+                "d": 425.0
+              },
+              {
+                "w": "inscription",
+                "t": 1308.0,
+                "d": 723.0
+              },
+              {
+                "w": "ties",
+                "t": 2031.0,
+                "d": 340.0
+              },
+              {
+                "w": "them",
+                "t": 2372.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 2670.0,
+                "d": 170.0
+              },
+              {
+                "w": "temple",
+                "t": 2840.0,
+                "d": 382.0
+              },
+              {
+                "w": "endowments",
+                "t": 3223.0,
+                "d": 977.0
+              },
+              {
+                "w": "land",
+                "t": 4329.0,
+                "d": 425.0
+              },
+              {
+                "w": "grants",
+                "t": 4755.0,
+                "d": 680.0
+              },
+              {
+                "w": "lamps",
+                "t": 5436.0,
+                "d": 851.0
+              },
+              {
+                "w": "feeding",
+                "t": 6372.0,
+                "d": 510.0
+              },
+              {
+                "w": "houses",
+                "t": 6882.0,
+                "d": 765.0
+              },
+              {
+                "w": "the",
+                "t": 8031.0,
+                "d": 255.0
+              },
+              {
+                "w": "guild's",
+                "t": 8287.0,
+                "d": 296.0
+              },
+              {
+                "w": "road",
+                "t": 8584.0,
+                "d": 255.0
+              },
+              {
+                "w": "without",
+                "t": 8839.0,
+                "d": 384.0
+              },
+              {
+                "w": "borders",
+                "t": 9223.0,
+                "d": 468.0
+              },
+              {
+                "w": "still",
+                "t": 9691.0,
+                "d": 340.0
+              },
+              {
+                "w": "anchored",
+                "t": 10031.0,
+                "d": 510.0
+              },
+              {
+                "w": "itself",
+                "t": 10542.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 10925.0,
+                "d": 126.0
+              },
+              {
+                "w": "stone",
+                "t": 11052.0,
+                "d": 681.0
+              },
+              {
+                "w": "ritual",
+                "t": 11734.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 12542.0,
+                "d": 340.0
+              },
+              {
+                "w": "local",
+                "t": 12882.0,
+                "d": 381.0
+              },
+              {
+                "w": "gods",
+                "t": 13264.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_nanadesi_road_without_borders/img/p07.png",
+      "shot": "wide shot at a coastal nagaram, with both land and sea activities visible",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Their wealth rode both bullock and wave; around the Bay of Bengal, ports saw Nanadesi names in gifts and guild pacts, linking inland markets to overseas buyers and sailors.",
+            "hi": "उनकी दौलत बैलगाड़ी पर भी दौड़ी, लहरों पर भी; बंगाल की खाड़ी के इर्द‑गिर्द बंदरगाहों में नानदेशी नाम दान और शर्तनामों पर चमके, जो भीतरी बाज़ारों को समंदर‑पार खरीदारों और मल्लाहों से जोड़ते थे।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p07_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Their",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "wealth",
+                "t": 372.0,
+                "d": 340.0
+              },
+              {
+                "w": "rode",
+                "t": 712.0,
+                "d": 255.0
+              },
+              {
+                "w": "both",
+                "t": 968.0,
+                "d": 340.0
+              },
+              {
+                "w": "bullock",
+                "t": 1308.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 1734.0,
+                "d": 212.0
+              },
+              {
+                "w": "wave",
+                "t": 1946.0,
+                "d": 765.0
+              },
+              {
+                "w": "around",
+                "t": 2925.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 3223.0,
+                "d": 170.0
+              },
+              {
+                "w": "Bay",
+                "t": 3393.0,
+                "d": 169.0
+              },
+              {
+                "w": "of",
+                "t": 3562.0,
+                "d": 127.0
+              },
+              {
+                "w": "Bengal",
+                "t": 3690.0,
+                "d": 681.0
+              },
+              {
+                "w": "ports",
+                "t": 4755.0,
+                "d": 723.0
+              },
+              {
+                "w": "saw",
+                "t": 5521.0,
+                "d": 127.0
+              },
+              {
+                "w": "Nanadesi",
+                "t": 5648.0,
+                "d": 468.0
+              },
+              {
+                "w": "names",
+                "t": 6117.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 6457.0,
+                "d": 170.0
+              },
+              {
+                "w": "gifts",
+                "t": 6627.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 7138.0,
+                "d": 255.0
+              },
+              {
+                "w": "guild",
+                "t": 7393.0,
+                "d": 297.0
+              },
+              {
+                "w": "pacts",
+                "t": 7691.0,
+                "d": 595.0
+              },
+              {
+                "w": "linking",
+                "t": 8500.0,
+                "d": 553.0
+              },
+              {
+                "w": "inland",
+                "t": 9053.0,
+                "d": 382.0
+              },
+              {
+                "w": "markets",
+                "t": 9436.0,
+                "d": 467.0
+              },
+              {
+                "w": "to",
+                "t": 9903.0,
+                "d": 128.0
+              },
+              {
+                "w": "overseas",
+                "t": 10031.0,
+                "d": 595.0
+              },
+              {
+                "w": "buyers",
+                "t": 10627.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 11180.0,
+                "d": 211.0
+              },
+              {
+                "w": "sailors",
+                "t": 11392.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_nanadesi_road_without_borders/img/p08.png",
+      "shot": "dynamic three-quarter shot on ship deck, horizon tilted slightly to suggest swell",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On some stones in Sri Lanka, Nanadesi stand beside Tamil merchant names and local donors; the road without borders had crossed the waters, but it still spoke in familiar scripts and deities.",
+            "hi": "श्रीलंका की कुछ शिलाओं पर नानदेशी तमिल सौदागरों और स्थानीय दाताओं के साथ खड़े दिखते हैं; बे‑सरहद राह सागर पार कर गई, पर बोली अब भी वही लिपियाँ और वही देवता थीं।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p08_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 117.0,
+                "d": 212.0
+              },
+              {
+                "w": "some",
+                "t": 329.0,
+                "d": 212.0
+              },
+              {
+                "w": "stones",
+                "t": 542.0,
+                "d": 680.0
+              },
+              {
+                "w": "in",
+                "t": 1223.0,
+                "d": 85.0
+              },
+              {
+                "w": "Sri",
+                "t": 1308.0,
+                "d": 127.0
+              },
+              {
+                "w": "Lanka",
+                "t": 1436.0,
+                "d": 638.0
+              },
+              {
+                "w": "Nanadesi",
+                "t": 2074.0,
+                "d": 467.0
+              },
+              {
+                "w": "stand",
+                "t": 2541.0,
+                "d": 425.0
+              },
+              {
+                "w": "beside",
+                "t": 2967.0,
+                "d": 426.0
+              },
+              {
+                "w": "Tamil",
+                "t": 3393.0,
+                "d": 468.0
+              },
+              {
+                "w": "merchant",
+                "t": 3861.0,
+                "d": 339.0
+              },
+              {
+                "w": "names",
+                "t": 4201.0,
+                "d": 298.0
+              },
+              {
+                "w": "and",
+                "t": 4500.0,
+                "d": 255.0
+              },
+              {
+                "w": "local",
+                "t": 4755.0,
+                "d": 340.0
+              },
+              {
+                "w": "donors",
+                "t": 5095.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 6287.0,
+                "d": 255.0
+              },
+              {
+                "w": "road",
+                "t": 6542.0,
+                "d": 255.0
+              },
+              {
+                "w": "without",
+                "t": 6797.0,
+                "d": 382.0
+              },
+              {
+                "w": "borders",
+                "t": 7180.0,
+                "d": 425.0
+              },
+              {
+                "w": "had",
+                "t": 7606.0,
+                "d": 212.0
+              },
+              {
+                "w": "crossed",
+                "t": 7819.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 8159.0,
+                "d": 127.0
+              },
+              {
+                "w": "waters",
+                "t": 8287.0,
+                "d": 722.0
+              },
+              {
+                "w": "but",
+                "t": 9393.0,
+                "d": 212.0
+              },
+              {
+                "w": "it",
+                "t": 9606.0,
+                "d": 85.0
+              },
+              {
+                "w": "still",
+                "t": 9691.0,
+                "d": 255.0
+              },
+              {
+                "w": "spoke",
+                "t": 9946.0,
+                "d": 381.0
+              },
+              {
+                "w": "in",
+                "t": 10328.0,
+                "d": 128.0
+              },
+              {
+                "w": "familiar",
+                "t": 10457.0,
+                "d": 424.0
+              },
+              {
+                "w": "scripts",
+                "t": 10881.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 11307.0,
+                "d": 256.0
+              },
+              {
+                "w": "deities",
+                "t": 11563.0,
+                "d": 807.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_nanadesi_road_without_borders/img/p09.png",
+      "shot": "intimate medium shot in a guild-house courtyard at dusk",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Our home is not a village, brother. It is the route itself.",
+            "hi": "अपना गाँव नहीं, भैया—अपना घर तो यही राह है।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p09_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Our",
+                "t": 52.6,
+                "d": 210.5
+              },
+              {
+                "w": "home",
+                "t": 263.2,
+                "d": 407.9
+              },
+              {
+                "w": "is",
+                "t": 723.7,
+                "d": 197.4
+              },
+              {
+                "w": "not",
+                "t": 921.0,
+                "d": 329.0
+              },
+              {
+                "w": "a",
+                "t": 1263.2,
+                "d": 39.5
+              },
+              {
+                "w": "village",
+                "t": 1315.8,
+                "d": 460.5
+              },
+              {
+                "w": "brother",
+                "t": 1973.7,
+                "d": 500.0
+              },
+              {
+                "w": "It",
+                "t": 3421.0,
+                "d": 105.2
+              },
+              {
+                "w": "is",
+                "t": 3552.6,
+                "d": 157.9
+              },
+              {
+                "w": "the",
+                "t": 3710.5,
+                "d": 144.7
+              },
+              {
+                "w": "route",
+                "t": 3855.2,
+                "d": 302.6
+              },
+              {
+                "w": "itself",
+                "t": 4223.7,
+                "d": 552.6
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_nanadesi_road_without_borders/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_nanadesi_road_without_borders/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When rivals threaten their routes, he plants himself at the quay, ready to defend contracts, caravans, and guild honor.",
+            "hi": "जब दुश्मन रास्तों को ललकारें, वो घाट पर डट जाता है, सौदे, काफिले और संघ की इज़्ज़त बचाने को तैयार।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "rivals",
+                "t": 310.0,
+                "d": 400.0
+              },
+              {
+                "w": "threaten",
+                "t": 710.0,
+                "d": 400.0
+              },
+              {
+                "w": "their",
+                "t": 1110.0,
+                "d": 200.0
+              },
+              {
+                "w": "routes",
+                "t": 1310.0,
+                "d": 600.0
+              },
+              {
+                "w": "he",
+                "t": 1910.0,
+                "d": 320.0
+              },
+              {
+                "w": "plants",
+                "t": 2230.0,
+                "d": 320.0
+              },
+              {
+                "w": "himself",
+                "t": 2550.0,
+                "d": 520.0
+              },
+              {
+                "w": "at",
+                "t": 3070.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 3230.0,
+                "d": 159.0
+              },
+              {
+                "w": "quay",
+                "t": 3389.0,
+                "d": 560.0
+              },
+              {
+                "w": "ready",
+                "t": 4230.0,
+                "d": 400.0
+              },
+              {
+                "w": "to",
+                "t": 4630.0,
+                "d": 120.0
+              },
+              {
+                "w": "defend",
+                "t": 4750.0,
+                "d": 360.0
+              },
+              {
+                "w": "contracts",
+                "t": 5110.0,
+                "d": 800.0
+              },
+              {
+                "w": "caravans",
+                "t": 6070.0,
+                "d": 800.0
+              },
+              {
+                "w": "and",
+                "t": 7030.0,
+                "d": 280.0
+              },
+              {
+                "w": "guild",
+                "t": 7310.0,
+                "d": 280.0
+              },
+              {
+                "w": "honor",
+                "t": 7630.0,
+                "d": 519.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_nanadesi_road_without_borders/img/p10.png",
+      "shot": "close-up on Nanadesi Merchant's face, half-lit by lamp, introspective expression",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Yet this mobile identity did not wash away hierarchy; inscriptions hint at caste limits and closed circles, where guild honor protected its own more than the many who labored for them.",
+            "hi": "पर यह चलायमान पहचान सारी ऊँच‑नीच नहीं बहा ले गई; पत्थर इशारा करते हैं जात‑की सीमाओं और बंद गोलों की ओर, जहाँ संघ‑इज़्ज़त अपने लोगों को ज़्यादा ढालती थी, उनसे कम जो उनके लिए खटते थे।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p10_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Yet",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "this",
+                "t": 372.0,
+                "d": 255.0
+              },
+              {
+                "w": "mobile",
+                "t": 627.0,
+                "d": 468.0
+              },
+              {
+                "w": "identity",
+                "t": 1095.0,
+                "d": 638.0
+              },
+              {
+                "w": "did",
+                "t": 1734.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 1904.0,
+                "d": 340.0
+              },
+              {
+                "w": "wash",
+                "t": 2244.0,
+                "d": 339.0
+              },
+              {
+                "w": "away",
+                "t": 2584.0,
+                "d": 213.0
+              },
+              {
+                "w": "hierarchy",
+                "t": 2797.0,
+                "d": 764.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 4073.0,
+                "d": 724.0
+              },
+              {
+                "w": "hint",
+                "t": 4797.0,
+                "d": 255.0
+              },
+              {
+                "w": "at",
+                "t": 5053.0,
+                "d": 170.0
+              },
+              {
+                "w": "caste",
+                "t": 5223.0,
+                "d": 340.0
+              },
+              {
+                "w": "limits",
+                "t": 5563.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 6074.0,
+                "d": 255.0
+              },
+              {
+                "w": "closed",
+                "t": 6329.0,
+                "d": 468.0
+              },
+              {
+                "w": "circles",
+                "t": 6797.0,
+                "d": 680.0
+              },
+              {
+                "w": "where",
+                "t": 7946.0,
+                "d": 297.0
+              },
+              {
+                "w": "guild",
+                "t": 8244.0,
+                "d": 296.0
+              },
+              {
+                "w": "honor",
+                "t": 8584.0,
+                "d": 340.0
+              },
+              {
+                "w": "protected",
+                "t": 8924.0,
+                "d": 596.0
+              },
+              {
+                "w": "its",
+                "t": 9521.0,
+                "d": 255.0
+              },
+              {
+                "w": "own",
+                "t": 9776.0,
+                "d": 595.0
+              },
+              {
+                "w": "more",
+                "t": 10585.0,
+                "d": 340.0
+              },
+              {
+                "w": "than",
+                "t": 10925.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 11095.0,
+                "d": 126.0
+              },
+              {
+                "w": "many",
+                "t": 11222.0,
+                "d": 384.0
+              },
+              {
+                "w": "who",
+                "t": 11606.0,
+                "d": 169.0
+              },
+              {
+                "w": "labored",
+                "t": 11775.0,
+                "d": 425.0
+              },
+              {
+                "w": "for",
+                "t": 12201.0,
+                "d": 170.0
+              },
+              {
+                "w": "them",
+                "t": 12371.0,
+                "d": 341.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_nanadesi_road_without_borders/img/p11.png",
+      "shot": "wide shot of a bustling port edge, camera low behind anonymous workers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Port diversity meant many tongues, many faces; it did not always mean equal standing for sailors, porters, artisans or bonded workers who moved the goods that made guilds famous.",
+            "hi": "बंदरों की रंग‑बिरंगी भीड़ ने कई बोली, कई चेहरे दिए; पर इससे हमेशा नाविक, मज़दूर, कारीगर या बंधुआ हाथों को वही दर्जा नहीं मिला, जिनकी पीठ पर चलकर संघ मशहूर हुए।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p11_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Port",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "diversity",
+                "t": 329.0,
+                "d": 638.0
+              },
+              {
+                "w": "meant",
+                "t": 968.0,
+                "d": 382.0
+              },
+              {
+                "w": "many",
+                "t": 1351.0,
+                "d": 425.0
+              },
+              {
+                "w": "tongues",
+                "t": 1776.0,
+                "d": 679.0
+              },
+              {
+                "w": "many",
+                "t": 2498.0,
+                "d": 426.0
+              },
+              {
+                "w": "faces",
+                "t": 2925.0,
+                "d": 808.0
+              },
+              {
+                "w": "it",
+                "t": 4073.0,
+                "d": 256.0
+              },
+              {
+                "w": "did",
+                "t": 4329.0,
+                "d": 127.0
+              },
+              {
+                "w": "not",
+                "t": 4457.0,
+                "d": 297.0
+              },
+              {
+                "w": "always",
+                "t": 4755.0,
+                "d": 468.0
+              },
+              {
+                "w": "mean",
+                "t": 5223.0,
+                "d": 297.0
+              },
+              {
+                "w": "equal",
+                "t": 5521.0,
+                "d": 425.0
+              },
+              {
+                "w": "standing",
+                "t": 5946.0,
+                "d": 468.0
+              },
+              {
+                "w": "for",
+                "t": 6414.0,
+                "d": 127.0
+              },
+              {
+                "w": "sailors",
+                "t": 6542.0,
+                "d": 808.0
+              },
+              {
+                "w": "porters",
+                "t": 7436.0,
+                "d": 808.0
+              },
+              {
+                "w": "artisans",
+                "t": 8287.0,
+                "d": 977.0
+              },
+              {
+                "w": "or",
+                "t": 9308.0,
+                "d": 339.0
+              },
+              {
+                "w": "bonded",
+                "t": 9647.0,
+                "d": 384.0
+              },
+              {
+                "w": "workers",
+                "t": 10031.0,
+                "d": 808.0
+              },
+              {
+                "w": "who",
+                "t": 10925.0,
+                "d": 255.0
+              },
+              {
+                "w": "moved",
+                "t": 11180.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 11478.0,
+                "d": 127.0
+              },
+              {
+                "w": "goods",
+                "t": 11606.0,
+                "d": 339.0
+              },
+              {
+                "w": "that",
+                "t": 11945.0,
+                "d": 255.0
+              },
+              {
+                "w": "made",
+                "t": 12201.0,
+                "d": 298.0
+              },
+              {
+                "w": "guilds",
+                "t": 12500.0,
+                "d": 339.0
+              },
+              {
+                "w": "famous",
+                "t": 12839.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_nanadesi_road_without_borders/img/p12.png",
+      "shot": "medium shot in a royal court hall, with king on throne in background, merchants in foreground",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Rulers courted their favor; guild records sit beside royal grants, showing Nanadesi woven into Chola and other South Indian polities, not as subjects alone but as negotiators of routes and revenues.",
+            "hi": "राजे‑महाराजे उनकी मेहर चाहने लगे; संघ‑लिपियाँ राजदान‑पत्रों के साथ दिखाई देती हैं, दिखाती हैं कि नानदेशी चोल और दूसरे दक्षिणी राज्यों में सिर्फ़ रैयत नहीं, राह और महसूल के सौदागर भी थे।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p12_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Rulers",
+                "t": 117.0,
+                "d": 553.0
+              },
+              {
+                "w": "courted",
+                "t": 670.0,
+                "d": 425.0
+              },
+              {
+                "w": "their",
+                "t": 1095.0,
+                "d": 212.0
+              },
+              {
+                "w": "favor",
+                "t": 1308.0,
+                "d": 553.0
+              },
+              {
+                "w": "guild",
+                "t": 2158.0,
+                "d": 382.0
+              },
+              {
+                "w": "records",
+                "t": 2541.0,
+                "d": 510.0
+              },
+              {
+                "w": "sit",
+                "t": 3052.0,
+                "d": 256.0
+              },
+              {
+                "w": "beside",
+                "t": 3308.0,
+                "d": 468.0
+              },
+              {
+                "w": "royal",
+                "t": 3776.0,
+                "d": 254.0
+              },
+              {
+                "w": "grants",
+                "t": 4030.0,
+                "d": 724.0
+              },
+              {
+                "w": "showing",
+                "t": 4840.0,
+                "d": 468.0
+              },
+              {
+                "w": "Nanadesi",
+                "t": 5308.0,
+                "d": 595.0
+              },
+              {
+                "w": "woven",
+                "t": 5904.0,
+                "d": 510.0
+              },
+              {
+                "w": "into",
+                "t": 6414.0,
+                "d": 340.0
+              },
+              {
+                "w": "Chola",
+                "t": 6755.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 7095.0,
+                "d": 680.0
+              },
+              {
+                "w": "other",
+                "t": 7776.0,
+                "d": 255.0
+              },
+              {
+                "w": "South",
+                "t": 8031.0,
+                "d": 340.0
+              },
+              {
+                "w": "Indian",
+                "t": 8372.0,
+                "d": 296.0
+              },
+              {
+                "w": "polities",
+                "t": 8669.0,
+                "d": 852.0
+              },
+              {
+                "w": "not",
+                "t": 9818.0,
+                "d": 340.0
+              },
+              {
+                "w": "as",
+                "t": 10158.0,
+                "d": 128.0
+              },
+              {
+                "w": "subjects",
+                "t": 10287.0,
+                "d": 553.0
+              },
+              {
+                "w": "alone",
+                "t": 10840.0,
+                "d": 723.0
+              },
+              {
+                "w": "but",
+                "t": 11648.0,
+                "d": 296.0
+              },
+              {
+                "w": "as",
+                "t": 11945.0,
+                "d": 128.0
+              },
+              {
+                "w": "negotiators",
+                "t": 12074.0,
+                "d": 893.0
+              },
+              {
+                "w": "of",
+                "t": 12968.0,
+                "d": 255.0
+              },
+              {
+                "w": "routes",
+                "t": 13223.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 13691.0,
+                "d": 211.0
+              },
+              {
+                "w": "revenues",
+                "t": 13903.0,
+                "d": 894.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_nanadesi_road_without_borders/split_auto/s0.png",
+          "slogan": {
+            "en": "Routes remember our name",
+            "hi": "राहें हमारा नाम याद रखें"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_nanadesi_road_without_borders/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_nanadesi_road_without_borders/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across seas and kingdoms, Nanadesi names are carved into stone, pledged in temples, and carried by caravans beyond every familiar horizon.",
+            "hi": "समुद्रों और राज्यों के पार, नानादेशियों के नाम पत्थरों पर खुदे, मंदिरों में अर्पित, कारवाँ बनकर हर अनजाने क्षितिज के पार पहुँचते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 156.0,
+                "d": 458.0
+              },
+              {
+                "w": "seas",
+                "t": 614.0,
+                "d": 333.0
+              },
+              {
+                "w": "and",
+                "t": 947.0,
+                "d": 208.0
+              },
+              {
+                "w": "kingdoms",
+                "t": 1156.0,
+                "d": 1166.0
+              },
+              {
+                "w": "Nanadesi",
+                "t": 2322.0,
+                "d": 623.0
+              },
+              {
+                "w": "names",
+                "t": 2946.0,
+                "d": 376.0
+              },
+              {
+                "w": "are",
+                "t": 3322.0,
+                "d": 207.0
+              },
+              {
+                "w": "carved",
+                "t": 3530.0,
+                "d": 292.0
+              },
+              {
+                "w": "into",
+                "t": 3822.0,
+                "d": 207.0
+              },
+              {
+                "w": "stone",
+                "t": 4030.0,
+                "d": 959.0
+              },
+              {
+                "w": "pledged",
+                "t": 5114.0,
+                "d": 458.0
+              },
+              {
+                "w": "in",
+                "t": 5572.0,
+                "d": 166.0
+              },
+              {
+                "w": "temples",
+                "t": 5739.0,
+                "d": 833.0
+              },
+              {
+                "w": "and",
+                "t": 6781.0,
+                "d": 291.0
+              },
+              {
+                "w": "carried",
+                "t": 7072.0,
+                "d": 333.0
+              },
+              {
+                "w": "by",
+                "t": 7406.0,
+                "d": 250.0
+              },
+              {
+                "w": "caravans",
+                "t": 7656.0,
+                "d": 790.0
+              },
+              {
+                "w": "beyond",
+                "t": 8530.0,
+                "d": 375.0
+              },
+              {
+                "w": "every",
+                "t": 8905.0,
+                "d": 459.0
+              },
+              {
+                "w": "familiar",
+                "t": 9364.0,
+                "d": 458.0
+              },
+              {
+                "w": "horizon",
+                "t": 9822.0,
+                "d": 708.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_nanadesi_road_without_borders/img/p13.png",
+      "shot": "transition shot, time-lapse feel, same nagaram street at different times, slightly ghosted",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By the later medieval centuries, other powers and routes rose; the Nanadesi name fades from some stones, but the pattern they carved, mobile networks bound by trust and ritual, endured in newer forms.",
+            "hi": "देर मध्यकाल तक नई ताकतें और राहें उठीं; कहीं‑कहीं पत्थरों से नानदेशी नाम धुंधला गया, पर जो नक्शा उन्होंने काटा—चलती फिरती जालियाँ, भरोसे और रीत से बंधी—नई शक्लों में जीता रहा।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p13_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 159.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 372.0,
+                "d": 127.0
+              },
+              {
+                "w": "later",
+                "t": 500.0,
+                "d": 382.0
+              },
+              {
+                "w": "medieval",
+                "t": 882.0,
+                "d": 468.0
+              },
+              {
+                "w": "centuries",
+                "t": 1351.0,
+                "d": 978.0
+              },
+              {
+                "w": "other",
+                "t": 2498.0,
+                "d": 298.0
+              },
+              {
+                "w": "powers",
+                "t": 2797.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 3223.0,
+                "d": 212.0
+              },
+              {
+                "w": "routes",
+                "t": 3436.0,
+                "d": 297.0
+              },
+              {
+                "w": "rose",
+                "t": 3734.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 5180.0,
+                "d": 255.0
+              },
+              {
+                "w": "Nanadesi",
+                "t": 5436.0,
+                "d": 553.0
+              },
+              {
+                "w": "name",
+                "t": 5989.0,
+                "d": 297.0
+              },
+              {
+                "w": "fades",
+                "t": 6287.0,
+                "d": 510.0
+              },
+              {
+                "w": "from",
+                "t": 6797.0,
+                "d": 212.0
+              },
+              {
+                "w": "some",
+                "t": 7010.0,
+                "d": 255.0
+              },
+              {
+                "w": "stones",
+                "t": 7265.0,
+                "d": 851.0
+              },
+              {
+                "w": "but",
+                "t": 8584.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 8797.0,
+                "d": 170.0
+              },
+              {
+                "w": "pattern",
+                "t": 8968.0,
+                "d": 382.0
+              },
+              {
+                "w": "they",
+                "t": 9351.0,
+                "d": 212.0
+              },
+              {
+                "w": "carved",
+                "t": 9563.0,
+                "d": 723.0
+              },
+              {
+                "w": "mobile",
+                "t": 10372.0,
+                "d": 509.0
+              },
+              {
+                "w": "networks",
+                "t": 10881.0,
+                "d": 510.0
+              },
+              {
+                "w": "bound",
+                "t": 11392.0,
+                "d": 298.0
+              },
+              {
+                "w": "by",
+                "t": 11691.0,
+                "d": 169.0
+              },
+              {
+                "w": "trust",
+                "t": 11860.0,
+                "d": 384.0
+              },
+              {
+                "w": "and",
+                "t": 12244.0,
+                "d": 170.0
+              },
+              {
+                "w": "ritual",
+                "t": 12414.0,
+                "d": 808.0
+              },
+              {
+                "w": "endured",
+                "t": 13264.0,
+                "d": 596.0
+              },
+              {
+                "w": "in",
+                "t": 13861.0,
+                "d": 85.0
+              },
+              {
+                "w": "newer",
+                "t": 13946.0,
+                "d": 425.0
+              },
+              {
+                "w": "forms",
+                "t": 14372.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_nanadesi_road_without_borders/img/p14.png",
+      "shot": "close-up on an old stone inscription half-buried, with modern feet passing by, soft focus",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today their stones lie quiet beside roads and temples, but each carved word reminds us that long before nations, some Indians learned to live by a road without borders, even while its doors stayed selective.",
+            "hi": "आज उनके पत्थर सड़कों और मंदिरों के किनारे चुप पड़े हैं, पर हर खुदा हुआ शब्द याद दिलाता है कि क़ौमों से बहुत पहले ही कुछ भारतीयों ने बे‑सरहद राह पर जीना सीख लिया था, भले उसके दरवाज़े चुने हुए लोगों के लिए ही खुले रहे।"
+          },
+          "audio": {
+            "en": "assets/the_nanadesi_road_without_borders/audio/en/p14_0.mp3",
+            "hi": "assets/the_nanadesi_road_without_borders/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "their",
+                "t": 457.0,
+                "d": 212.0
+              },
+              {
+                "w": "stones",
+                "t": 670.0,
+                "d": 468.0
+              },
+              {
+                "w": "lie",
+                "t": 1138.0,
+                "d": 382.0
+              },
+              {
+                "w": "quiet",
+                "t": 1521.0,
+                "d": 382.0
+              },
+              {
+                "w": "beside",
+                "t": 1904.0,
+                "d": 425.0
+              },
+              {
+                "w": "roads",
+                "t": 2329.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 2712.0,
+                "d": 127.0
+              },
+              {
+                "w": "temples",
+                "t": 2840.0,
+                "d": 893.0
+              },
+              {
+                "w": "but",
+                "t": 3819.0,
+                "d": 339.0
+              },
+              {
+                "w": "each",
+                "t": 4158.0,
+                "d": 384.0
+              },
+              {
+                "w": "carved",
+                "t": 4542.0,
+                "d": 340.0
+              },
+              {
+                "w": "word",
+                "t": 4882.0,
+                "d": 340.0
+              },
+              {
+                "w": "reminds",
+                "t": 5223.0,
+                "d": 468.0
+              },
+              {
+                "w": "us",
+                "t": 5691.0,
+                "d": 425.0
+              },
+              {
+                "w": "that",
+                "t": 6244.0,
+                "d": 297.0
+              },
+              {
+                "w": "long",
+                "t": 6542.0,
+                "d": 382.0
+              },
+              {
+                "w": "before",
+                "t": 6925.0,
+                "d": 340.0
+              },
+              {
+                "w": "nations",
+                "t": 7265.0,
+                "d": 765.0
+              },
+              {
+                "w": "some",
+                "t": 8287.0,
+                "d": 637.0
+              },
+              {
+                "w": "Indians",
+                "t": 8924.0,
+                "d": 469.0
+              },
+              {
+                "w": "learned",
+                "t": 9393.0,
+                "d": 339.0
+              },
+              {
+                "w": "to",
+                "t": 9732.0,
+                "d": 85.0
+              },
+              {
+                "w": "live",
+                "t": 9818.0,
+                "d": 255.0
+              },
+              {
+                "w": "by",
+                "t": 10073.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 10287.0,
+                "d": 41.0
+              },
+              {
+                "w": "road",
+                "t": 10328.0,
+                "d": 382.0
+              },
+              {
+                "w": "without",
+                "t": 10711.0,
+                "d": 384.0
+              },
+              {
+                "w": "borders",
+                "t": 11095.0,
+                "d": 808.0
+              },
+              {
+                "w": "even",
+                "t": 12201.0,
+                "d": 341.0
+              },
+              {
+                "w": "while",
+                "t": 12542.0,
+                "d": 296.0
+              },
+              {
+                "w": "its",
+                "t": 12839.0,
+                "d": 170.0
+              },
+              {
+                "w": "doors",
+                "t": 13009.0,
+                "d": 384.0
+              },
+              {
+                "w": "stayed",
+                "t": 13393.0,
+                "d": 382.0
+              },
+              {
+                "w": "selective",
+                "t": 13776.0,
+                "d": 807.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Nanadesi Merchant",
+    "epithets": [
+      "Nanadesi",
+      "People of Many Countries",
+      "Ainurruvar Merchants",
+      "Guilds of the Eastern Sea"
+    ],
+    "legend": "They turned faraway roads into one shared homeland of trade."
+  }
+}
