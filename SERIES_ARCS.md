@@ -572,6 +572,31 @@ Thirteen stories of the Kakatiya century — a line of Telugu "footsoldier" feud
 12. **Jayapa Writes the Dance of War** ✅ — Jayapa's Nrittaratnavali preserving the Perini martial dance and Tikkana's Andhra Mahabharatam giving the epic a Telugu voice. *(performing arts / literature)*
 13. **The Gates of Telangana** ✅ — Musunuri Kapaya Nayaka's reconquest of Warangal and the Kala Thoranam gate that outlived the kingdom to become Telangana's emblem. *(memory / reconquest)*
 
+## ⛵ The Merchant Guilds and the Indian Ocean Trade  *(Ancient → colonial — c. 300 BCE–1950 CE, the merchant corporations that moved India's goods, credit and gods across the seas)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The great merchant corporations of India — the *shreni* of the Arthashastra, the Ayyavole Five Hundred / Ainnurruvar, Manigramam, Anjuvannam, Nanadesi and the modern Nakarattar — told as the institutions that carried India's goods, credit, art and gods across the Indian Ocean for two thousand years. The chapter holds the project's hard-truth directive at sea: every achievement of self-governance, long-distance credit and cross-cultural trust is set beside the bonded labour, slavery, caste-selective access and debt that underwrote it; inflated traveller-numbers are flagged; colonial-era scholarship is corrected against the epigraphy; and the communally-charged Burma episode is told plainly as a storm of race, class and empire — the same guild that lifts a harvest can, under different skies, help strip a people of their land.
+
+**I. Guild Law and the Ancient Ports**
+1. **The Guild Law in Kautilya's Market** ✅ — the Arthashastra's regulation of the *shreni*: guild self-rule under state oversight, with the bonded and unfree labour inside the marketplace named, not hidden. *(institutional origins / labour truth)*
+2. **Bharuch and the Pilot Boats** ✅ — Barygaza's *trappaga* and *kotymba* pilot craft from the *Periplus of the Erythraean Sea*, the port's dangerous approaches, and the slaves counted among its cargoes. *(ancient port / slavery named)*
+3. **The Bull Banner of Ayyavole** ✅ — the Ayyavole Five Hundred (Ainnurruvar / Vira-Bananju) corporate merchants, their self-praising *prashasti* and coercive power flagged alongside their reach. *(corporate guild / self-praise flagged)*
+
+**II. Charters, Roads and Makers**
+4. **Quilon's Copper-Plate of Many Scripts** ✅ — the Tarisapalli / Kollam plates (c. 849 CE) binding Manigramam, the Jewish-and-West-Asian Anjuvannam and Christian merchants under one charter — multi-faith trade shown with respect. *(charter / pluralism)*
+5. **The Nanadesi Road Without Borders** ✅ — the "People of Many Countries" itinerant guild, its cosmopolitan reach set against caste-selective gates and access. *(itinerant guild / caste truth)*
+6. **Arikamedu's Bead-Makers** ✅ — the Indo-Roman glass-bead and rouletted-ware artisans, with Wheeler's colonial framing corrected via Begley and the caste-hidden makers named. *(artisans / colonial-scholarship correction)*
+
+**III. Ships, Cloth and the Temple-Bank**
+7. **The Sewn Ship Rides the Monsoon** ✅ — the coir-stitched sewn-plank ships and their monsoon pilots, with the enslaved crews who sailed them named. *(maritime tech / slavery named)*
+8. **The Weaver's Cloth in Fustat** ✅ — Gujarati Cambay cotton recovered from Fustat's rubbish heaps and the Cairo Geniza (Goitein, Ruth Barnes), honest that the profit flowed upward to merchants while the weavers stayed anonymous. *(textile trade / labour-capital divide)*
+9. **The Temple Treasury as a Bank** ✅ — the South-Indian temple as credit institution (Champakalakshmi, Stein, Karashima), with the caste hierarchy hardened by its wealth stated plainly. *(sacred economy / caste truth)*
+
+**IV. Overseas Stones and Modern Credit**
+10. **Lobu Tua's Tamil Stone in Sumatra** ✅ — the 1088 CE Ainnurruvar inscription at Barus, framed as an enclave *bargained* within Srivijaya, not a conquest, with the advance-credit debt bondage of forest collectors named. *(diaspora guild / debt bondage)*
+11. **Nagapattinam's Bronze Buddha Cargo** ✅ — Chola bronze Buddhas as trade cargo (Rajaraja's Anaimangalam plates, c. 1006), a Shaiva king endowing a Buddhist vihara as policy — and the 19th-century demolition of the pagoda stated plainly. *(art-as-cargo / heritage loss)*
+12. **Horse Brokers of the Arabian Sea** ✅ — the Arabian and Persian war-horse trade (Marco Polo and Ibn Battuta's inflated numbers flagged; Digby, Gommans), with the tax burden on cultivators that paid for royal cavalry named. *(strategic trade / number-inflation flagged)*
+13. **The Nakarattar Hundi Crosses Burma** ✅ — Chettiar *hundi* banking from Chettinad to colonial Burma, the Nakarattar shown neither victim nor villain: their credit both fed the rice frontier and foreclosed Burmese land through colonial courts, and the 1930s anti-Indian riots told honestly as race, class and empire. *(modern finance / communal-truth honesty)*
+
 ## ⚕️ Ayurveda and the Healers of Ancient India  *(Deep antiquity → colonial — c. 7000 BCE–1800 CE, the long arc of Indian medicine)*  — **✅ CHAPTER COMPLETE (13/13)**
 
 Indian medicine told not as a single timeless "Ayurveda" but as a long, layered, contested craft — from Neolithic drilled teeth to a colonial-era rhinoplasty — weighing pre-textual archaeology, fragile-manuscript survival, state law, diagnosis, alchemy, veterinary and maritime trade, and honest at every step about what the evidence does and does not show. The chapter carries the project's hard-truth directive into medicine: the classical texts' own caste and gender exclusions are stated plainly, the toxicity of metal-based remedies is named, and the unnamed non-elite healers who treated most people are given equal billing with the Sanskrit authors.
