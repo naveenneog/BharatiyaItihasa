@@ -14,6 +14,353 @@
   ],
   "panels": [
     {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_broken_oath_at_raisen/intro/hero.png",
+      "name": "Sher Shah Suri & Puran Mal of Raisen",
+      "epithets": [
+        "Farid Khan",
+        "Just Sultan of Hind",
+        "Victor of Rajputana",
+        "Puran Mal, betrayed Rajput chief of Raisen"
+      ],
+      "legend": "The king who vowed mercy, then washed Raisen in blood.",
+      "era": "Siege and massacre at Raisen, 1543 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Sher Shah, praised as the fairest ruler of his age, swears safety to Puran Mal's surrender, then orders slaughter. Why did the just king choose betrayal over his own oath?",
+            "hi": "अपने दौर का सबसे न्यायी शासक कहे जाने वाले शेरशाह ने पूरण मल की आत्मसमर्पण पर सुरक्षा की कसम खाई, फिर कत्लेआम का हुक्म दे दिया। आखिर इस ‘इंसाफ़ पसंद’ बादशाह ने अपनी ही कसम तोड़ कर ग़द्दारी क्यों की?"
+          },
+          "audio": {
+            "en": "assets/the_broken_oath_at_raisen/audio/intro/hero_en.mp3",
+            "hi": "assets/the_broken_oath_at_raisen/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 72.0,
+                "d": 250.0
+              },
+              {
+                "w": "ruled",
+                "t": 322.0,
+                "d": 291.0
+              },
+              {
+                "w": "as",
+                "t": 614.0,
+                "d": 83.0
+              },
+              {
+                "w": "a",
+                "t": 697.0,
+                "d": 83.0
+              },
+              {
+                "w": "fair",
+                "t": 781.0,
+                "d": 375.0
+              },
+              {
+                "w": "lion",
+                "t": 1156.0,
+                "d": 333.0
+              },
+              {
+                "w": "over",
+                "t": 1489.0,
+                "d": 250.0
+              },
+              {
+                "w": "Hindustan",
+                "t": 1739.0,
+                "d": 790.0
+              },
+              {
+                "w": "praised",
+                "t": 2864.0,
+                "d": 416.0
+              },
+              {
+                "w": "for",
+                "t": 3281.0,
+                "d": 165.0
+              },
+              {
+                "w": "mercy",
+                "t": 3446.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 3906.0,
+                "d": 248.0
+              },
+              {
+                "w": "law",
+                "t": 4155.0,
+                "d": 292.0
+              },
+              {
+                "w": "Yet",
+                "t": 5031.0,
+                "d": 458.0
+              },
+              {
+                "w": "at",
+                "t": 5531.0,
+                "d": 208.0
+              },
+              {
+                "w": "Raisen",
+                "t": 5739.0,
+                "d": 750.0
+              },
+              {
+                "w": "one",
+                "t": 6739.0,
+                "d": 375.0
+              },
+              {
+                "w": "signed",
+                "t": 7114.0,
+                "d": 500.0
+              },
+              {
+                "w": "vow",
+                "t": 7614.0,
+                "d": 291.0
+              },
+              {
+                "w": "and",
+                "t": 8072.0,
+                "d": 250.0
+              },
+              {
+                "w": "a",
+                "t": 8322.0,
+                "d": 40.0
+              },
+              {
+                "w": "rain",
+                "t": 8363.0,
+                "d": 251.0
+              },
+              {
+                "w": "of",
+                "t": 8614.0,
+                "d": 123.0
+              },
+              {
+                "w": "muskets",
+                "t": 8738.0,
+                "d": 501.0
+              },
+              {
+                "w": "would",
+                "t": 9239.0,
+                "d": 207.0
+              },
+              {
+                "w": "test",
+                "t": 9446.0,
+                "d": 416.0
+              },
+              {
+                "w": "if",
+                "t": 9906.0,
+                "d": 166.0
+              },
+              {
+                "w": "justice",
+                "t": 10072.0,
+                "d": 415.0
+              },
+              {
+                "w": "could",
+                "t": 10488.0,
+                "d": 209.0
+              },
+              {
+                "w": "survive",
+                "t": 10697.0,
+                "d": 333.0
+              },
+              {
+                "w": "his",
+                "t": 11031.0,
+                "d": 166.0
+              },
+              {
+                "w": "fear",
+                "t": 11197.0,
+                "d": 415.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_broken_oath_at_raisen/intro/map.png",
+      "x": 0.55,
+      "y": 0.55,
+      "label": "Raisen Fort, near Bhopal, Malwa",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, on the stony heights of Raisen, Rajput honor met a king's broken word, and the hill ran red beneath the guns of Sher Shah.",
+            "hi": "रायसेन की पथरीली चोटियों पर राजपूत मान-सम्मान, बादशाह की टूटे वचन से टकराया… और शेरशाह की तोपों के नीचे पहाड़ी खून से लाल हो उठी।"
+          },
+          "audio": {
+            "en": "assets/the_broken_oath_at_raisen/audio/intro/map_en.mp3",
+            "hi": "assets/the_broken_oath_at_raisen/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 597.0
+              },
+              {
+                "w": "on",
+                "t": 1091.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 1275.0,
+                "d": 137.0
+              },
+              {
+                "w": "stony",
+                "t": 1413.0,
+                "d": 459.0
+              },
+              {
+                "w": "heights",
+                "t": 1873.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 2287.0,
+                "d": 183.0
+              },
+              {
+                "w": "Raisen",
+                "t": 2471.0,
+                "d": 643.0
+              },
+              {
+                "w": "Rajput",
+                "t": 3803.0,
+                "d": 689.0
+              },
+              {
+                "w": "honor",
+                "t": 4493.0,
+                "d": 414.0
+              },
+              {
+                "w": "met",
+                "t": 4908.0,
+                "d": 229.0
+              },
+              {
+                "w": "a",
+                "t": 5137.0,
+                "d": 91.0
+              },
+              {
+                "w": "king's",
+                "t": 5229.0,
+                "d": 459.0
+              },
+              {
+                "w": "broken",
+                "t": 5689.0,
+                "d": 459.0
+              },
+              {
+                "w": "word",
+                "t": 6149.0,
+                "d": 735.0
+              },
+              {
+                "w": "and",
+                "t": 7068.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 7390.0,
+                "d": 137.0
+              },
+              {
+                "w": "hill",
+                "t": 7528.0,
+                "d": 275.0
+              },
+              {
+                "w": "ran",
+                "t": 7804.0,
+                "d": 597.0
+              },
+              {
+                "w": "red",
+                "t": 8540.0,
+                "d": 459.0
+              },
+              {
+                "w": "beneath",
+                "t": 9000.0,
+                "d": 412.0
+              },
+              {
+                "w": "the",
+                "t": 9412.0,
+                "d": 185.0
+              },
+              {
+                "w": "guns",
+                "t": 9597.0,
+                "d": 505.0
+              },
+              {
+                "w": "of",
+                "t": 10103.0,
+                "d": 229.0
+              },
+              {
+                "w": "Sher",
+                "t": 10333.0,
+                "d": 321.0
+              },
+              {
+                "w": "Shah",
+                "t": 10655.0,
+                "d": 367.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "cover",
       "art": "assets/the_broken_oath_at_raisen/img/cover.png",
       "shot": "wide, split-composition: Sher Shah on one rampart, Puran Mal on another, Raisen fort between them under stormy skies",
@@ -3256,5 +3603,15 @@
         }
       ]
     }
-  ]
+  ],
+  "hero": {
+    "name": "Sher Shah Suri & Puran Mal of Raisen",
+    "epithets": [
+      "Farid Khan",
+      "Just Sultan of Hind",
+      "Victor of Rajputana",
+      "Puran Mal, betrayed Rajput chief of Raisen"
+    ],
+    "legend": "The king who vowed mercy, then washed Raisen in blood."
+  }
 }
