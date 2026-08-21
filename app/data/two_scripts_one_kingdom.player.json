@@ -1,0 +1,3674 @@
+{
+  "id": "two_scripts_one_kingdom",
+  "title": "Two Scripts One Kingdom",
+  "title_i18n": {
+    "en": "Two Scripts One Kingdom",
+    "hi": "दो लिपियाँ, एक साम्राज्य"
+  },
+  "figure": "Kharosthi scribes",
+  "era": "Bilingual governance and Gandhari manuscript culture, c. 2nd century BCE-1st century CE",
+  "moral": "Diversity becomes governable when people can read power.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/two_scripts_one_kingdom/intro/hero.png",
+      "name": "Gandharan Kharosthi Scribe",
+      "epithets": [
+        "scribes of Gandhara",
+        "masters of Kharosthi",
+        "keepers of Gandhari scrolls",
+        "bilingual hands of the Indo-Greek kings"
+      ],
+      "legend": "They made a mixed kingdom readable to every eye.",
+      "era": "Bilingual governance and Gandhari manuscript culture, c. 2nd century BCE-1st century CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In a borderland of Greeks and Indians, their thin reed pens chose which tongue lived on each coin and scroll. If they failed, the king's orders would die at the frontier.",
+            "hi": "यूनानी-भारतीय सीमा पर, उनकी नाज़ुक कलम तय करती थी किस ज़बान में सिक्के और फरमान लिखे जाएँ। अगर चूक गए, तो राजा के हुक्म सरहद पर ही दफ़न हो जाते।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/intro/hero_en.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 72.0,
+                "d": 166.0
+              },
+              {
+                "w": "a",
+                "t": 239.0,
+                "d": 125.0
+              },
+              {
+                "w": "borderland",
+                "t": 364.0,
+                "d": 541.0
+              },
+              {
+                "w": "of",
+                "t": 906.0,
+                "d": 166.0
+              },
+              {
+                "w": "Greeks",
+                "t": 1072.0,
+                "d": 416.0
+              },
+              {
+                "w": "and",
+                "t": 1489.0,
+                "d": 166.0
+              },
+              {
+                "w": "Indians",
+                "t": 1656.0,
+                "d": 832.0
+              },
+              {
+                "w": "their",
+                "t": 2656.0,
+                "d": 373.0
+              },
+              {
+                "w": "thin",
+                "t": 3030.0,
+                "d": 376.0
+              },
+              {
+                "w": "reed",
+                "t": 3406.0,
+                "d": 416.0
+              },
+              {
+                "w": "pens",
+                "t": 3822.0,
+                "d": 625.0
+              },
+              {
+                "w": "chose",
+                "t": 4697.0,
+                "d": 458.0
+              },
+              {
+                "w": "which",
+                "t": 5156.0,
+                "d": 333.0
+              },
+              {
+                "w": "tongue",
+                "t": 5489.0,
+                "d": 333.0
+              },
+              {
+                "w": "lived",
+                "t": 5822.0,
+                "d": 250.0
+              },
+              {
+                "w": "on",
+                "t": 6072.0,
+                "d": 166.0
+              },
+              {
+                "w": "each",
+                "t": 6239.0,
+                "d": 375.0
+              },
+              {
+                "w": "coin",
+                "t": 6614.0,
+                "d": 375.0
+              },
+              {
+                "w": "and",
+                "t": 6989.0,
+                "d": 250.0
+              },
+              {
+                "w": "scroll",
+                "t": 7239.0,
+                "d": 1248.0
+              },
+              {
+                "w": "If",
+                "t": 8571.0,
+                "d": 250.0
+              },
+              {
+                "w": "they",
+                "t": 8821.0,
+                "d": 166.0
+              },
+              {
+                "w": "failed",
+                "t": 8988.0,
+                "d": 791.0
+              },
+              {
+                "w": "the",
+                "t": 9863.0,
+                "d": 250.0
+              },
+              {
+                "w": "king's",
+                "t": 10113.0,
+                "d": 334.0
+              },
+              {
+                "w": "orders",
+                "t": 10447.0,
+                "d": 416.0
+              },
+              {
+                "w": "would",
+                "t": 10864.0,
+                "d": 207.0
+              },
+              {
+                "w": "die",
+                "t": 11071.0,
+                "d": 334.0
+              },
+              {
+                "w": "at",
+                "t": 11406.0,
+                "d": 123.0
+              },
+              {
+                "w": "the",
+                "t": 11530.0,
+                "d": 126.0
+              },
+              {
+                "w": "frontier",
+                "t": 11656.0,
+                "d": 625.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/two_scripts_one_kingdom/intro/map.png",
+      "x": 0.3,
+      "y": 0.23,
+      "label": "Gandhara & Taxila, Northwest Frontier",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, on dusty roads between Taxila and the passes, coins, scrolls and voices switch tongues as fast as caravans change horses.",
+            "hi": "यहाँ तक्षशिला और पहाड़ी दर्रों के बीच की धूल भरी राहों पर सिक्के, ग्रंथ और आवाज़ें उतनी ही तेजी से ज़ुबान बदलते हैं जितनी तेजी से काफिले घोड़े बदलते हैं।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/intro/map_en.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 597.0
+              },
+              {
+                "w": "on",
+                "t": 908.0,
+                "d": 321.0
+              },
+              {
+                "w": "dusty",
+                "t": 1229.0,
+                "d": 413.0
+              },
+              {
+                "w": "roads",
+                "t": 1643.0,
+                "d": 367.0
+              },
+              {
+                "w": "between",
+                "t": 2011.0,
+                "d": 413.0
+              },
+              {
+                "w": "Taxila",
+                "t": 2425.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 2977.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 3114.0,
+                "d": 136.0
+              },
+              {
+                "w": "passes",
+                "t": 3251.0,
+                "d": 689.0
+              },
+              {
+                "w": "coins",
+                "t": 4172.0,
+                "d": 781.0
+              },
+              {
+                "w": "scrolls",
+                "t": 5000.0,
+                "d": 827.0
+              },
+              {
+                "w": "and",
+                "t": 5965.0,
+                "d": 321.0
+              },
+              {
+                "w": "voices",
+                "t": 6287.0,
+                "d": 505.0
+              },
+              {
+                "w": "switch",
+                "t": 6793.0,
+                "d": 367.0
+              },
+              {
+                "w": "tongues",
+                "t": 7160.0,
+                "d": 413.0
+              },
+              {
+                "w": "as",
+                "t": 7574.0,
+                "d": 229.0
+              },
+              {
+                "w": "fast",
+                "t": 7804.0,
+                "d": 459.0
+              },
+              {
+                "w": "as",
+                "t": 8264.0,
+                "d": 183.0
+              },
+              {
+                "w": "caravans",
+                "t": 8448.0,
+                "d": 689.0
+              },
+              {
+                "w": "change",
+                "t": 9137.0,
+                "d": 367.0
+              },
+              {
+                "w": "horses",
+                "t": 9505.0,
+                "d": 735.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/two_scripts_one_kingdom/img/cover.png",
+      "shot": "epic close-up of a weathered silver Indo-Greek coin held between ink-stained fingers, one face showing Greek letters, the other Kharosthi signs, with faint silhouettes of mountains and stupas behind",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On the northwestern frontier, a single coin spoke in two scripts, Greek and Kharosthi, binding kings, merchants and monks into one readable kingdom.",
+            "hi": "उत्तर-पश्चिमी सरहद पर एक सिक्का दो लिपियों में बोलता था—यूनानी और खरोष्ठी—जो राजा, व्यापारी और भिक्षुओं को एक पढ़ने योग्य राज्य में जोड़ देता था।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/cover_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 117.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 127.0
+              },
+              {
+                "w": "northwestern",
+                "t": 457.0,
+                "d": 638.0
+              },
+              {
+                "w": "frontier",
+                "t": 1095.0,
+                "d": 468.0
+              },
+              {
+                "w": "a",
+                "t": 1563.0,
+                "d": 425.0
+              },
+              {
+                "w": "single",
+                "t": 1989.0,
+                "d": 425.0
+              },
+              {
+                "w": "coin",
+                "t": 2414.0,
+                "d": 297.0
+              },
+              {
+                "w": "spoke",
+                "t": 2712.0,
+                "d": 467.0
+              },
+              {
+                "w": "in",
+                "t": 3179.0,
+                "d": 213.0
+              },
+              {
+                "w": "two",
+                "t": 3393.0,
+                "d": 211.0
+              },
+              {
+                "w": "scripts",
+                "t": 3605.0,
+                "d": 809.0
+              },
+              {
+                "w": "Greek",
+                "t": 4414.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 4968.0,
+                "d": 212.0
+              },
+              {
+                "w": "Kharosthi",
+                "t": 5180.0,
+                "d": 723.0
+              },
+              {
+                "w": "binding",
+                "t": 6159.0,
+                "d": 595.0
+              },
+              {
+                "w": "kings",
+                "t": 6755.0,
+                "d": 638.0
+              },
+              {
+                "w": "merchants",
+                "t": 7478.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 8202.0,
+                "d": 255.0
+              },
+              {
+                "w": "monks",
+                "t": 8457.0,
+                "d": 552.0
+              },
+              {
+                "w": "into",
+                "t": 9094.0,
+                "d": 341.0
+              },
+              {
+                "w": "one",
+                "t": 9436.0,
+                "d": 381.0
+              },
+              {
+                "w": "readable",
+                "t": 9818.0,
+                "d": 425.0
+              },
+              {
+                "w": "kingdom",
+                "t": 10243.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/two_scripts_one_kingdom/img/p01.png",
+      "shot": "wide aerial of the northwest subcontinent, from the Indus valley to Taxila, with caravan routes and rivers glowing faintly like veins",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "This was Gandhara, where mountains met the Indus, and roads from Iran, Central Asia and the Ganga plain braided into the trading city of Taxila.",
+            "hi": "यह था गंधार, जहाँ पहाड़ सिंधु से मिलते थे, और ईरान, मध्य एशिया और गंगा मैदान से आती राहें मिलकर तक्षशिला के बाज़ारों में घुसती थीं।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p01_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "This",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "was",
+                "t": 372.0,
+                "d": 255.0
+              },
+              {
+                "w": "Gandhara",
+                "t": 627.0,
+                "d": 553.0
+              },
+              {
+                "w": "where",
+                "t": 1436.0,
+                "d": 340.0
+              },
+              {
+                "w": "mountains",
+                "t": 1776.0,
+                "d": 553.0
+              },
+              {
+                "w": "met",
+                "t": 2329.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 2541.0,
+                "d": 256.0
+              },
+              {
+                "w": "Indus",
+                "t": 2797.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 3605.0,
+                "d": 298.0
+              },
+              {
+                "w": "roads",
+                "t": 3904.0,
+                "d": 339.0
+              },
+              {
+                "w": "from",
+                "t": 4243.0,
+                "d": 256.0
+              },
+              {
+                "w": "Iran",
+                "t": 4500.0,
+                "d": 680.0
+              },
+              {
+                "w": "Central",
+                "t": 5265.0,
+                "d": 510.0
+              },
+              {
+                "w": "Asia",
+                "t": 5776.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 6159.0,
+                "d": 595.0
+              },
+              {
+                "w": "the",
+                "t": 6755.0,
+                "d": 127.0
+              },
+              {
+                "w": "Ganga",
+                "t": 6882.0,
+                "d": 382.0
+              },
+              {
+                "w": "plain",
+                "t": 7265.0,
+                "d": 425.0
+              },
+              {
+                "w": "braided",
+                "t": 7691.0,
+                "d": 468.0
+              },
+              {
+                "w": "into",
+                "t": 8159.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 8372.0,
+                "d": 169.0
+              },
+              {
+                "w": "trading",
+                "t": 8541.0,
+                "d": 426.0
+              },
+              {
+                "w": "city",
+                "t": 8968.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 9223.0,
+                "d": 170.0
+              },
+              {
+                "w": "Taxila",
+                "t": 9393.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/two_scripts_one_kingdom/img/p02.png",
+      "shot": "medium shot of rock face at Shahbazgarhi with neatly carved Ashokan edict lines, seen from a low angle against the sky",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "A century earlier, Ashoka had carved his edicts here at Shahbazgarhi and at Mansehra, using Kharosthi to carry the Mauryan king's words into the northwest.",
+            "hi": "सदी भर पहले अशोक ने यहीं शाहबाज़गढ़ी और मानसहरा में अपने शिलालेख गढ़वाए, खरोष्ठी में, ताकि मौर्य सम्राट की वाणी उत्तर-पश्चिम तक पहुँचे।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p02_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "A",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "century",
+                "t": 287.0,
+                "d": 510.0
+              },
+              {
+                "w": "earlier",
+                "t": 797.0,
+                "d": 382.0
+              },
+              {
+                "w": "Ashoka",
+                "t": 1180.0,
+                "d": 1021.0
+              },
+              {
+                "w": "had",
+                "t": 2202.0,
+                "d": 254.0
+              },
+              {
+                "w": "carved",
+                "t": 2456.0,
+                "d": 341.0
+              },
+              {
+                "w": "his",
+                "t": 2797.0,
+                "d": 169.0
+              },
+              {
+                "w": "edicts",
+                "t": 2967.0,
+                "d": 384.0
+              },
+              {
+                "w": "here",
+                "t": 3351.0,
+                "d": 339.0
+              },
+              {
+                "w": "at",
+                "t": 3690.0,
+                "d": 213.0
+              },
+              {
+                "w": "Shahbazgarhi",
+                "t": 3904.0,
+                "d": 936.0
+              },
+              {
+                "w": "and",
+                "t": 4925.0,
+                "d": 297.0
+              },
+              {
+                "w": "at",
+                "t": 5223.0,
+                "d": 127.0
+              },
+              {
+                "w": "Mansehra",
+                "t": 5351.0,
+                "d": 680.0
+              },
+              {
+                "w": "using",
+                "t": 6329.0,
+                "d": 425.0
+              },
+              {
+                "w": "Kharosthi",
+                "t": 6755.0,
+                "d": 510.0
+              },
+              {
+                "w": "to",
+                "t": 7265.0,
+                "d": 170.0
+              },
+              {
+                "w": "carry",
+                "t": 7436.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 7734.0,
+                "d": 127.0
+              },
+              {
+                "w": "Mauryan",
+                "t": 7861.0,
+                "d": 425.0
+              },
+              {
+                "w": "king's",
+                "t": 8287.0,
+                "d": 254.0
+              },
+              {
+                "w": "words",
+                "t": 8541.0,
+                "d": 553.0
+              },
+              {
+                "w": "into",
+                "t": 9138.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 9436.0,
+                "d": 170.0
+              },
+              {
+                "w": "northwest",
+                "t": 9606.0,
+                "d": 936.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/two_scripts_one_kingdom/img/p03.png",
+      "shot": "close-up on a line of Kharosthi letters on the rock, then a ghosted overlay of a scribe’s hand copying them onto a palm leaf",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kharosthi ran right to left, tailored for Prakrit speech of the region. It became the script of officials, merchants and monks who needed to read the king.",
+            "hi": "खरोष्ठी दाएँ से बाएँ बहती थी, यहीं की प्राकृत बोली के हिसाब से ढली। यह उन अफसरों, व्यापारियों और भिक्षुओं की लिपि बनी जिन्हें राजा पढ़ना था।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p03_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kharosthi",
+                "t": 117.0,
+                "d": 595.0
+              },
+              {
+                "w": "ran",
+                "t": 712.0,
+                "d": 297.0
+              },
+              {
+                "w": "right",
+                "t": 1053.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 1308.0,
+                "d": 127.0
+              },
+              {
+                "w": "left",
+                "t": 1436.0,
+                "d": 553.0
+              },
+              {
+                "w": "tailored",
+                "t": 2158.0,
+                "d": 511.0
+              },
+              {
+                "w": "for",
+                "t": 2670.0,
+                "d": 212.0
+              },
+              {
+                "w": "Prakrit",
+                "t": 2882.0,
+                "d": 340.0
+              },
+              {
+                "w": "speech",
+                "t": 3223.0,
+                "d": 381.0
+              },
+              {
+                "w": "of",
+                "t": 3605.0,
+                "d": 128.0
+              },
+              {
+                "w": "the",
+                "t": 3734.0,
+                "d": 127.0
+              },
+              {
+                "w": "region",
+                "t": 3861.0,
+                "d": 893.0
+              },
+              {
+                "w": "It",
+                "t": 5010.0,
+                "d": 212.0
+              },
+              {
+                "w": "became",
+                "t": 5223.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 5563.0,
+                "d": 127.0
+              },
+              {
+                "w": "script",
+                "t": 5691.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 6074.0,
+                "d": 170.0
+              },
+              {
+                "w": "officials",
+                "t": 6244.0,
+                "d": 893.0
+              },
+              {
+                "w": "merchants",
+                "t": 7180.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 7904.0,
+                "d": 255.0
+              },
+              {
+                "w": "monks",
+                "t": 8159.0,
+                "d": 679.0
+              },
+              {
+                "w": "who",
+                "t": 8882.0,
+                "d": 170.0
+              },
+              {
+                "w": "needed",
+                "t": 9053.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 9393.0,
+                "d": 127.0
+              },
+              {
+                "w": "read",
+                "t": 9521.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 9776.0,
+                "d": 126.0
+              },
+              {
+                "w": "king",
+                "t": 9903.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/two_scripts_one_kingdom/img/p04.png",
+      "shot": "dynamic wide of a battlefield aftermath, Greek and Indian soldiers resting together with mixed gear and standards",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Then, from the northwest, Hellenistic kings pushed in. Indo-Greek rulers like Apollodotus and Menander took old cities but inherited the scribes and roads of Gandhara.",
+            "hi": "फिर उत्तर-पश्चिम से हेलनिस्टिक राजा धकेलते हुए आए। अपोलोदोतुस और मेनान्दर जैसे इंडो-यूनानी शासकों ने पुराने नगर लिए, पर गंधार के लेखक और सड़के विरासत में पाए।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p04_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Then",
+                "t": 70.0,
+                "d": 520.0
+              },
+              {
+                "w": "from",
+                "t": 790.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 1030.0,
+                "d": 160.0
+              },
+              {
+                "w": "northwest",
+                "t": 1190.0,
+                "d": 880.0
+              },
+              {
+                "w": "Hellenistic",
+                "t": 2110.0,
+                "d": 759.0
+              },
+              {
+                "w": "kings",
+                "t": 2869.0,
+                "d": 361.0
+              },
+              {
+                "w": "pushed",
+                "t": 3230.0,
+                "d": 360.0
+              },
+              {
+                "w": "in",
+                "t": 3590.0,
+                "d": 359.0
+              },
+              {
+                "w": "Indo-Greek",
+                "t": 4470.0,
+                "d": 560.0
+              },
+              {
+                "w": "rulers",
+                "t": 5030.0,
+                "d": 440.0
+              },
+              {
+                "w": "like",
+                "t": 5470.0,
+                "d": 240.0
+              },
+              {
+                "w": "Apollodotus",
+                "t": 5710.0,
+                "d": 920.0
+              },
+              {
+                "w": "and",
+                "t": 6630.0,
+                "d": 200.0
+              },
+              {
+                "w": "Menander",
+                "t": 6830.0,
+                "d": 800.0
+              },
+              {
+                "w": "took",
+                "t": 7670.0,
+                "d": 240.0
+              },
+              {
+                "w": "old",
+                "t": 7910.0,
+                "d": 279.0
+              },
+              {
+                "w": "cities",
+                "t": 8189.0,
+                "d": 641.0
+              },
+              {
+                "w": "but",
+                "t": 8910.0,
+                "d": 280.0
+              },
+              {
+                "w": "inherited",
+                "t": 9190.0,
+                "d": 600.0
+              },
+              {
+                "w": "the",
+                "t": 9790.0,
+                "d": 120.0
+              },
+              {
+                "w": "scribes",
+                "t": 9910.0,
+                "d": 559.0
+              },
+              {
+                "w": "and",
+                "t": 10469.0,
+                "d": 240.0
+              },
+              {
+                "w": "roads",
+                "t": 10709.0,
+                "d": 440.0
+              },
+              {
+                "w": "of",
+                "t": 11149.0,
+                "d": 160.0
+              },
+              {
+                "w": "Gandhara",
+                "t": 11309.0,
+                "d": 561.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/two_scripts_one_kingdom/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/two_scripts_one_kingdom/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Between weary armies, the scribe steps forward, forging peace in ink and silver instead of blood.",
+            "hi": "थकी सेनाओं के बीच, लेखक आगे बढ़ा, स्याही और चाँदी से, खून के बिना सुलह लिखी।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/action/action_auto_en.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Between",
+                "t": 80.0,
+                "d": 551.0
+              },
+              {
+                "w": "weary",
+                "t": 632.0,
+                "d": 597.0
+              },
+              {
+                "w": "armies",
+                "t": 1229.0,
+                "d": 597.0
+              },
+              {
+                "w": "the",
+                "t": 2011.0,
+                "d": 229.0
+              },
+              {
+                "w": "scribe",
+                "t": 2241.0,
+                "d": 504.0
+              },
+              {
+                "w": "steps",
+                "t": 2745.0,
+                "d": 505.0
+              },
+              {
+                "w": "forward",
+                "t": 3251.0,
+                "d": 1058.0
+              },
+              {
+                "w": "forging",
+                "t": 4310.0,
+                "d": 735.0
+              },
+              {
+                "w": "peace",
+                "t": 5045.0,
+                "d": 413.0
+              },
+              {
+                "w": "in",
+                "t": 5459.0,
+                "d": 321.0
+              },
+              {
+                "w": "ink",
+                "t": 5827.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 6241.0,
+                "d": 275.0
+              },
+              {
+                "w": "silver",
+                "t": 6517.0,
+                "d": 919.0
+              },
+              {
+                "w": "instead",
+                "t": 7528.0,
+                "d": 505.0
+              },
+              {
+                "w": "of",
+                "t": 8034.0,
+                "d": 183.0
+              },
+              {
+                "w": "blood",
+                "t": 8218.0,
+                "d": 505.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/two_scripts_one_kingdom/img/p05.png",
+      "shot": "interior medium shot of a royal mint in Taxila, with furnaces in back and a central focus on Gandharan Kharosthi Scribe examining dies",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "To rule this layered land, they needed a language on metal. In the mints of Taxila, Greek officials and local Kharosthi scribes worked side by side.",
+            "hi": "इस तहदार देश पर राज करने को उन्हें धातु पर भाषा चाहिए थी। तक्षशिला के टकसालों में यूनानी अफसर और स्थानीय खरोष्ठी लेखक कंधे से कंधा मिलाकर काम करने लगे।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p05_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "To",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "rule",
+                "t": 287.0,
+                "d": 255.0
+              },
+              {
+                "w": "this",
+                "t": 542.0,
+                "d": 255.0
+              },
+              {
+                "w": "layered",
+                "t": 797.0,
+                "d": 425.0
+              },
+              {
+                "w": "land",
+                "t": 1223.0,
+                "d": 680.0
+              },
+              {
+                "w": "they",
+                "t": 1904.0,
+                "d": 297.0
+              },
+              {
+                "w": "needed",
+                "t": 2202.0,
+                "d": 424.0
+              },
+              {
+                "w": "a",
+                "t": 2626.0,
+                "d": 43.0
+              },
+              {
+                "w": "language",
+                "t": 2670.0,
+                "d": 381.0
+              },
+              {
+                "w": "on",
+                "t": 3052.0,
+                "d": 127.0
+              },
+              {
+                "w": "metal",
+                "t": 3179.0,
+                "d": 681.0
+              },
+              {
+                "w": "In",
+                "t": 4414.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 4627.0,
+                "d": 127.0
+              },
+              {
+                "w": "mints",
+                "t": 4755.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 5053.0,
+                "d": 170.0
+              },
+              {
+                "w": "Taxila",
+                "t": 5223.0,
+                "d": 723.0
+              },
+              {
+                "w": "Greek",
+                "t": 6159.0,
+                "d": 382.0
+              },
+              {
+                "w": "officials",
+                "t": 6542.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 7265.0,
+                "d": 212.0
+              },
+              {
+                "w": "local",
+                "t": 7478.0,
+                "d": 425.0
+              },
+              {
+                "w": "Kharosthi",
+                "t": 7904.0,
+                "d": 510.0
+              },
+              {
+                "w": "scribes",
+                "t": 8414.0,
+                "d": 553.0
+              },
+              {
+                "w": "worked",
+                "t": 9009.0,
+                "d": 511.0
+              },
+              {
+                "w": "side",
+                "t": 9521.0,
+                "d": 211.0
+              },
+              {
+                "w": "by",
+                "t": 9732.0,
+                "d": 213.0
+              },
+              {
+                "w": "side",
+                "t": 9946.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/two_scripts_one_kingdom/img/p06.png",
+      "shot": "tight close-up on two coin dies on the table, one engraved in Greek letters, the other in Kharosthi, with the scribe’s finger hovering between them",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The solution hardened in silver: one face in Greek, the other in Kharosthi, stating the same royal claims in two scripts.",
+            "hi": "हल चाँदी में जड़ गया: एक तरफ यूनानी, दूसरी तरफ खरोष्ठी, दोनों में वही शाही दावा दोहरी लिपि में लिखा।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p06_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "solution",
+                "t": 287.0,
+                "d": 553.0
+              },
+              {
+                "w": "hardened",
+                "t": 840.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 1265.0,
+                "d": 85.0
+              },
+              {
+                "w": "silver",
+                "t": 1351.0,
+                "d": 723.0
+              },
+              {
+                "w": "one",
+                "t": 2414.0,
+                "d": 382.0
+              },
+              {
+                "w": "face",
+                "t": 2797.0,
+                "d": 254.0
+              },
+              {
+                "w": "in",
+                "t": 3052.0,
+                "d": 127.0
+              },
+              {
+                "w": "Greek",
+                "t": 3179.0,
+                "d": 724.0
+              },
+              {
+                "w": "the",
+                "t": 4158.0,
+                "d": 298.0
+              },
+              {
+                "w": "other",
+                "t": 4457.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 4797.0,
+                "d": 127.0
+              },
+              {
+                "w": "Kharosthi",
+                "t": 4925.0,
+                "d": 638.0
+              },
+              {
+                "w": "stating",
+                "t": 5989.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 6500.0,
+                "d": 127.0
+              },
+              {
+                "w": "same",
+                "t": 6627.0,
+                "d": 382.0
+              },
+              {
+                "w": "royal",
+                "t": 7010.0,
+                "d": 340.0
+              },
+              {
+                "w": "claims",
+                "t": 7351.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 7861.0,
+                "d": 212.0
+              },
+              {
+                "w": "two",
+                "t": 8074.0,
+                "d": 212.0
+              },
+              {
+                "w": "scripts",
+                "t": 8287.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/two_scripts_one_kingdom/img/p07.png",
+      "shot": "medium profile shot of Gandharan Kharosthi Scribe speaking to an unseen Greek official, gesturing toward a sketch of coin legends",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Greek letters named the Basileus, the king, for soldiers and settlers. Kharosthi carried 'Maharajasa' for merchants, taxmen and villagers along the Indus.",
+            "hi": "यूनानी अक्षरों ने सैनिकों और बसने वालों के लिए बासिलियुस यानी राजा का नाम उकेरा। खरोष्ठी में ‘महारजस’ बहती रही—सिंदु किनारे के व्यापारियों, महसूलियों और गाँववालों के लिए।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p07_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Greek",
+                "t": 117.0,
+                "d": 468.0
+              },
+              {
+                "w": "letters",
+                "t": 585.0,
+                "d": 510.0
+              },
+              {
+                "w": "named",
+                "t": 1095.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 1351.0,
+                "d": 127.0
+              },
+              {
+                "w": "Basileus",
+                "t": 1478.0,
+                "d": 893.0
+              },
+              {
+                "w": "the",
+                "t": 2498.0,
+                "d": 256.0
+              },
+              {
+                "w": "king",
+                "t": 2755.0,
+                "d": 553.0
+              },
+              {
+                "w": "for",
+                "t": 3308.0,
+                "d": 254.0
+              },
+              {
+                "w": "soldiers",
+                "t": 3562.0,
+                "d": 724.0
+              },
+              {
+                "w": "and",
+                "t": 4287.0,
+                "d": 297.0
+              },
+              {
+                "w": "settlers",
+                "t": 4585.0,
+                "d": 851.0
+              },
+              {
+                "w": "Kharosthi",
+                "t": 6117.0,
+                "d": 595.0
+              },
+              {
+                "w": "carried",
+                "t": 6712.0,
+                "d": 425.0
+              },
+              {
+                "w": "Maharajasa",
+                "t": 7138.0,
+                "d": 723.0
+              },
+              {
+                "w": "for",
+                "t": 7861.0,
+                "d": 170.0
+              },
+              {
+                "w": "merchants",
+                "t": 8031.0,
+                "d": 892.0
+              },
+              {
+                "w": "taxmen",
+                "t": 9053.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 9732.0,
+                "d": 213.0
+              },
+              {
+                "w": "villagers",
+                "t": 9946.0,
+                "d": 553.0
+              },
+              {
+                "w": "along",
+                "t": 10500.0,
+                "d": 381.0
+              },
+              {
+                "w": "the",
+                "t": 10881.0,
+                "d": 170.0
+              },
+              {
+                "w": "Indus",
+                "t": 11052.0,
+                "d": 767.0
+              }
+            ],
+            "hi": []
+          }
+        },
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Two scripts, one ruler. Then all who trade his coins will know him.",
+            "hi": "दो लिपियाँ, एक शासक। उसके सिक्कों से सौदा करने वाला हर कोई उसे जान लेगा।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p07_1.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p07_1.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Two",
+                "t": 49.0,
+                "d": 110.3
+              },
+              {
+                "w": "scripts",
+                "t": 159.3,
+                "d": 551.5
+              },
+              {
+                "w": "one",
+                "t": 906.9,
+                "d": 306.4
+              },
+              {
+                "w": "ruler",
+                "t": 1213.2,
+                "d": 465.7
+              },
+              {
+                "w": "Then",
+                "t": 2561.3,
+                "d": 257.3
+              },
+              {
+                "w": "all",
+                "t": 2904.4,
+                "d": 257.3
+              },
+              {
+                "w": "who",
+                "t": 3161.8,
+                "d": 196.1
+              },
+              {
+                "w": "trade",
+                "t": 3357.8,
+                "d": 379.9
+              },
+              {
+                "w": "his",
+                "t": 3737.8,
+                "d": 232.8
+              },
+              {
+                "w": "coins",
+                "t": 3982.8,
+                "d": 392.2
+              },
+              {
+                "w": "will",
+                "t": 4411.8,
+                "d": 281.9
+              },
+              {
+                "w": "know",
+                "t": 4693.6,
+                "d": 183.8
+              },
+              {
+                "w": "him",
+                "t": 4889.7,
+                "d": 355.4
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/two_scripts_one_kingdom/img/p08.png",
+      "shot": "montage-style wide shot of different hands receiving and using coins: a Greek soldier, a local trader, a monk",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The same coin clinked in a soldier's palm, crossed a trader's stall, and dropped into a monk's bowl, its twin scripts silently repeating the king's name.",
+            "hi": "वही सिक्का कभी सिपाही की हथेली में खनकता, कभी व्यापारी की दुकान पार करता, तो कभी भिक्षु के भिक्षा–पात्र में गिरता—दोहरी लिपि चुपचाप राजा का नाम दोहराती रहती।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p08_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "same",
+                "t": 244.0,
+                "d": 297.0
+              },
+              {
+                "w": "coin",
+                "t": 542.0,
+                "d": 382.0
+              },
+              {
+                "w": "clinked",
+                "t": 925.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 1351.0,
+                "d": 85.0
+              },
+              {
+                "w": "a",
+                "t": 1436.0,
+                "d": 42.0
+              },
+              {
+                "w": "soldier's",
+                "t": 1478.0,
+                "d": 638.0
+              },
+              {
+                "w": "palm",
+                "t": 2117.0,
+                "d": 935.0
+              },
+              {
+                "w": "crossed",
+                "t": 3094.0,
+                "d": 425.0
+              },
+              {
+                "w": "a",
+                "t": 3520.0,
+                "d": 85.0
+              },
+              {
+                "w": "trader's",
+                "t": 3605.0,
+                "d": 468.0
+              },
+              {
+                "w": "stall",
+                "t": 4073.0,
+                "d": 681.0
+              },
+              {
+                "w": "and",
+                "t": 4925.0,
+                "d": 255.0
+              },
+              {
+                "w": "dropped",
+                "t": 5180.0,
+                "d": 340.0
+              },
+              {
+                "w": "into",
+                "t": 5521.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 5776.0,
+                "d": 42.0
+              },
+              {
+                "w": "monk's",
+                "t": 5819.0,
+                "d": 425.0
+              },
+              {
+                "w": "bowl",
+                "t": 6244.0,
+                "d": 553.0
+              },
+              {
+                "w": "its",
+                "t": 7478.0,
+                "d": 340.0
+              },
+              {
+                "w": "twin",
+                "t": 7819.0,
+                "d": 255.0
+              },
+              {
+                "w": "scripts",
+                "t": 8074.0,
+                "d": 425.0
+              },
+              {
+                "w": "silently",
+                "t": 8500.0,
+                "d": 723.0
+              },
+              {
+                "w": "repeating",
+                "t": 9223.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 9691.0,
+                "d": 170.0
+              },
+              {
+                "w": "king's",
+                "t": 9861.0,
+                "d": 340.0
+              },
+              {
+                "w": "name",
+                "t": 10202.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/two_scripts_one_kingdom/img/p09.png",
+      "shot": "close-up of a silver coin of Apollodotus rotating in mid-air, one side freezing on Greek legend, the flip freezing on Kharosthi",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Under Apollodotus, under Menander, the pattern hardened into habit. Bilingual coinage became systematic, an administrative practice made visible in every purchase.",
+            "hi": "अपोलोदोतुस के नीचे, मेनान्दर के नीचे, यह ढर्रा आदत में जम गया। द्विभाषी सिक्के एक पक्का दफ्तरशाही चलन बने—हर ख़रीद में दिखने वाली राजकाज की प्रथा।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p09_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Under",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "Apollodotus",
+                "t": 457.0,
+                "d": 1234.0
+              },
+              {
+                "w": "under",
+                "t": 1776.0,
+                "d": 381.0
+              },
+              {
+                "w": "Menander",
+                "t": 2158.0,
+                "d": 639.0
+              },
+              {
+                "w": "the",
+                "t": 3179.0,
+                "d": 256.0
+              },
+              {
+                "w": "pattern",
+                "t": 3436.0,
+                "d": 425.0
+              },
+              {
+                "w": "hardened",
+                "t": 3861.0,
+                "d": 553.0
+              },
+              {
+                "w": "into",
+                "t": 4414.0,
+                "d": 340.0
+              },
+              {
+                "w": "habit",
+                "t": 4755.0,
+                "d": 553.0
+              },
+              {
+                "w": "Bilingual",
+                "t": 6202.0,
+                "d": 680.0
+              },
+              {
+                "w": "coinage",
+                "t": 6882.0,
+                "d": 468.0
+              },
+              {
+                "w": "became",
+                "t": 7351.0,
+                "d": 382.0
+              },
+              {
+                "w": "systematic",
+                "t": 7734.0,
+                "d": 1105.0
+              },
+              {
+                "w": "an",
+                "t": 8839.0,
+                "d": 298.0
+              },
+              {
+                "w": "administrative",
+                "t": 9138.0,
+                "d": 893.0
+              },
+              {
+                "w": "practice",
+                "t": 10031.0,
+                "d": 553.0
+              },
+              {
+                "w": "made",
+                "t": 10585.0,
+                "d": 255.0
+              },
+              {
+                "w": "visible",
+                "t": 10840.0,
+                "d": 638.0
+              },
+              {
+                "w": "in",
+                "t": 11521.0,
+                "d": 212.0
+              },
+              {
+                "w": "every",
+                "t": 11734.0,
+                "d": 510.0
+              },
+              {
+                "w": "purchase",
+                "t": 12244.0,
+                "d": 764.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/two_scripts_one_kingdom/img/p10.png",
+      "shot": "wide marketplace scene in Taxila, with a money-changer’s table as the focal foreground and different scripts visible on weights and tallies (without readable letters)",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Markets learned to trust these little bilingual oaths of metal. Every deal turned the coin over and over, Greek and Kharosthi scripts confirming the face was not a fraud.",
+            "hi": "हाट–बाज़ारों ने इन दो–भाषी धातु–कसमें पर भरोसा करना सीख लिया। हर सौदे में सिक्का बार–बार पलटता—यूनानी और खरोष्ठी देख–देखकर तय होता कि चेहरा नकली नहीं।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p10_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Markets",
+                "t": 74.0,
+                "d": 553.0
+              },
+              {
+                "w": "learned",
+                "t": 627.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 1010.0,
+                "d": 85.0
+              },
+              {
+                "w": "trust",
+                "t": 1095.0,
+                "d": 340.0
+              },
+              {
+                "w": "these",
+                "t": 1436.0,
+                "d": 297.0
+              },
+              {
+                "w": "little",
+                "t": 1734.0,
+                "d": 297.0
+              },
+              {
+                "w": "bilingual",
+                "t": 2031.0,
+                "d": 467.0
+              },
+              {
+                "w": "oaths",
+                "t": 2498.0,
+                "d": 384.0
+              },
+              {
+                "w": "of",
+                "t": 2882.0,
+                "d": 254.0
+              },
+              {
+                "w": "metal",
+                "t": 3137.0,
+                "d": 767.0
+              },
+              {
+                "w": "Every",
+                "t": 3989.0,
+                "d": 425.0
+              },
+              {
+                "w": "deal",
+                "t": 4414.0,
+                "d": 340.0
+              },
+              {
+                "w": "turned",
+                "t": 4755.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 5095.0,
+                "d": 170.0
+              },
+              {
+                "w": "coin",
+                "t": 5265.0,
+                "d": 297.0
+              },
+              {
+                "w": "over",
+                "t": 5563.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 5904.0,
+                "d": 127.0
+              },
+              {
+                "w": "over",
+                "t": 6031.0,
+                "d": 765.0
+              },
+              {
+                "w": "Greek",
+                "t": 6925.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 7691.0,
+                "d": 297.0
+              },
+              {
+                "w": "Kharosthi",
+                "t": 7989.0,
+                "d": 552.0
+              },
+              {
+                "w": "scripts",
+                "t": 8541.0,
+                "d": 426.0
+              },
+              {
+                "w": "confirming",
+                "t": 8968.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 9521.0,
+                "d": 126.0
+              },
+              {
+                "w": "face",
+                "t": 9647.0,
+                "d": 639.0
+              },
+              {
+                "w": "was",
+                "t": 10328.0,
+                "d": 298.0
+              },
+              {
+                "w": "not",
+                "t": 10627.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 10925.0,
+                "d": 41.0
+              },
+              {
+                "w": "fraud",
+                "t": 10967.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/two_scripts_one_kingdom/img/p11.png",
+      "shot": "moody wide shot of a stupa complex in Gandhara at dusk, with caravans arriving and departing",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Around the stupas of Gandhara, merchants brought Indo-Greek coins as gifts. The coins spoke of kings; the stupas and monasteries spoke of the Buddha.",
+            "hi": "गंधार के स्तूपों के आस–पास व्यापारी इंडो–यूनानी सिक्के दान में लाते। सिक्के राजाओं की भाषा बोलते, स्तूप और विहार बुद्ध की।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p11_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Around",
+                "t": 80.0,
+                "d": 413.0
+              },
+              {
+                "w": "the",
+                "t": 494.0,
+                "d": 137.0
+              },
+              {
+                "w": "stupas",
+                "t": 632.0,
+                "d": 643.0
+              },
+              {
+                "w": "of",
+                "t": 1275.0,
+                "d": 137.0
+              },
+              {
+                "w": "Gandhara",
+                "t": 1413.0,
+                "d": 597.0
+              },
+              {
+                "w": "merchants",
+                "t": 2700.0,
+                "d": 689.0
+              },
+              {
+                "w": "brought",
+                "t": 3389.0,
+                "d": 459.0
+              },
+              {
+                "w": "Indo-Greek",
+                "t": 3849.0,
+                "d": 643.0
+              },
+              {
+                "w": "coins",
+                "t": 4493.0,
+                "d": 460.0
+              },
+              {
+                "w": "as",
+                "t": 4954.0,
+                "d": 321.0
+              },
+              {
+                "w": "gifts",
+                "t": 5275.0,
+                "d": 597.0
+              },
+              {
+                "w": "The",
+                "t": 6701.0,
+                "d": 275.0
+              },
+              {
+                "w": "coins",
+                "t": 6977.0,
+                "d": 413.0
+              },
+              {
+                "w": "spoke",
+                "t": 7390.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 7758.0,
+                "d": 183.0
+              },
+              {
+                "w": "kings",
+                "t": 7942.0,
+                "d": 873.0
+              },
+              {
+                "w": "the",
+                "t": 9274.0,
+                "d": 231.0
+              },
+              {
+                "w": "stupas",
+                "t": 9505.0,
+                "d": 735.0
+              },
+              {
+                "w": "and",
+                "t": 10241.0,
+                "d": 229.0
+              },
+              {
+                "w": "monasteries",
+                "t": 10471.0,
+                "d": 735.0
+              },
+              {
+                "w": "spoke",
+                "t": 11206.0,
+                "d": 505.0
+              },
+              {
+                "w": "of",
+                "t": 11712.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 11896.0,
+                "d": 136.0
+              },
+              {
+                "w": "Buddha",
+                "t": 12033.0,
+                "d": 598.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/two_scripts_one_kingdom/img/p12.png",
+      "shot": "intimate interior shot of a monastery scriptorium with Gandharan Kharosthi Scribe and a young monk seated among birch-bark strips",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The same Kharosthi that carried royal names now traced sacred words. Birch bark strips, scraped and joined, became a new page for Gandhari-language teachings.",
+            "hi": "यही खरोष्ठी जो कभी शाही नाम ढोती थी, अब पवित्र शब्द बुनने लगी। भुर्ज–पत्र की पट्टियाँ खुरचकर, जोड़कर गंधारी उपदेशों के नए पन्ने बन गए।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p12_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "same",
+                "t": 287.0,
+                "d": 382.0
+              },
+              {
+                "w": "Kharosthi",
+                "t": 670.0,
+                "d": 595.0
+              },
+              {
+                "w": "that",
+                "t": 1265.0,
+                "d": 255.0
+              },
+              {
+                "w": "carried",
+                "t": 1521.0,
+                "d": 468.0
+              },
+              {
+                "w": "royal",
+                "t": 1989.0,
+                "d": 340.0
+              },
+              {
+                "w": "names",
+                "t": 2329.0,
+                "d": 382.0
+              },
+              {
+                "w": "now",
+                "t": 2712.0,
+                "d": 553.0
+              },
+              {
+                "w": "traced",
+                "t": 3351.0,
+                "d": 468.0
+              },
+              {
+                "w": "sacred",
+                "t": 3861.0,
+                "d": 510.0
+              },
+              {
+                "w": "words",
+                "t": 4372.0,
+                "d": 595.0
+              },
+              {
+                "w": "Birch",
+                "t": 5734.0,
+                "d": 425.0
+              },
+              {
+                "w": "bark",
+                "t": 6159.0,
+                "d": 255.0
+              },
+              {
+                "w": "strips",
+                "t": 6414.0,
+                "d": 553.0
+              },
+              {
+                "w": "scraped",
+                "t": 7010.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 7606.0,
+                "d": 212.0
+              },
+              {
+                "w": "joined",
+                "t": 7819.0,
+                "d": 764.0
+              },
+              {
+                "w": "became",
+                "t": 8626.0,
+                "d": 468.0
+              },
+              {
+                "w": "a",
+                "t": 9094.0,
+                "d": 43.0
+              },
+              {
+                "w": "new",
+                "t": 9138.0,
+                "d": 297.0
+              },
+              {
+                "w": "page",
+                "t": 9436.0,
+                "d": 255.0
+              },
+              {
+                "w": "for",
+                "t": 9691.0,
+                "d": 211.0
+              },
+              {
+                "w": "Gandhari-language",
+                "t": 9903.0,
+                "d": 937.0
+              },
+              {
+                "w": "teachings",
+                "t": 10840.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/two_scripts_one_kingdom/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/two_scripts_one_kingdom/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Clutching fragile words of law and faith, he races to keep knowledge alive as powers shift around him.",
+            "hi": "नाज़ुक क़ानून और धर्म की बातें थामे, वो सत्ता के हड़कंप में ज्ञान बचाने दौड़ पड़ता है।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/action/action_auto2_en.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Clutching",
+                "t": 70.0,
+                "d": 480.0
+              },
+              {
+                "w": "fragile",
+                "t": 550.0,
+                "d": 520.0
+              },
+              {
+                "w": "words",
+                "t": 1070.0,
+                "d": 440.0
+              },
+              {
+                "w": "of",
+                "t": 1510.0,
+                "d": 160.0
+              },
+              {
+                "w": "law",
+                "t": 1670.0,
+                "d": 320.0
+              },
+              {
+                "w": "and",
+                "t": 1990.0,
+                "d": 200.0
+              },
+              {
+                "w": "faith",
+                "t": 2190.0,
+                "d": 560.0
+              },
+              {
+                "w": "he",
+                "t": 3190.0,
+                "d": 320.0
+              },
+              {
+                "w": "races",
+                "t": 3510.0,
+                "d": 359.0
+              },
+              {
+                "w": "to",
+                "t": 3869.0,
+                "d": 161.0
+              },
+              {
+                "w": "keep",
+                "t": 4030.0,
+                "d": 280.0
+              },
+              {
+                "w": "knowledge",
+                "t": 4310.0,
+                "d": 440.0
+              },
+              {
+                "w": "alive",
+                "t": 4750.0,
+                "d": 800.0
+              },
+              {
+                "w": "as",
+                "t": 5550.0,
+                "d": 320.0
+              },
+              {
+                "w": "powers",
+                "t": 5870.0,
+                "d": 440.0
+              },
+              {
+                "w": "shift",
+                "t": 6310.0,
+                "d": 400.0
+              },
+              {
+                "w": "around",
+                "t": 6710.0,
+                "d": 400.0
+              },
+              {
+                "w": "him",
+                "t": 7110.0,
+                "d": 440.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/two_scripts_one_kingdom/img/p13.png",
+      "shot": "close-up of Gandharan Kharosthi Scribe’s hand writing Kharosthi on a birch-bark scroll, with a faint overlay of a coin in the background",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On these narrow scrolls, scribes wrote in Gandhari, a local Prakrit. The orthography they used grew out of the same script-world that had served kings and traders.",
+            "hi": "इन पतली स्क्रॉलों पर लेखक गंधारी, स्थानीय प्राकृत, लिखते। उनकी लिखावट उसी लिपि–दुनिया से उगी थी जो पहले राजाओं और व्यापारियों की सेवा करती थी।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p13_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "these",
+                "t": 270.0,
+                "d": 280.0
+              },
+              {
+                "w": "narrow",
+                "t": 550.0,
+                "d": 320.0
+              },
+              {
+                "w": "scrolls",
+                "t": 870.0,
+                "d": 720.0
+              },
+              {
+                "w": "scribes",
+                "t": 1630.0,
+                "d": 600.0
+              },
+              {
+                "w": "wrote",
+                "t": 2230.0,
+                "d": 280.0
+              },
+              {
+                "w": "in",
+                "t": 2510.0,
+                "d": 120.0
+              },
+              {
+                "w": "Gandhari",
+                "t": 2630.0,
+                "d": 640.0
+              },
+              {
+                "w": "a",
+                "t": 3550.0,
+                "d": 160.0
+              },
+              {
+                "w": "local",
+                "t": 3710.0,
+                "d": 400.0
+              },
+              {
+                "w": "Prakrit",
+                "t": 4110.0,
+                "d": 560.0
+              },
+              {
+                "w": "The",
+                "t": 5270.0,
+                "d": 240.0
+              },
+              {
+                "w": "orthography",
+                "t": 5510.0,
+                "d": 680.0
+              },
+              {
+                "w": "they",
+                "t": 6190.0,
+                "d": 200.0
+              },
+              {
+                "w": "used",
+                "t": 6390.0,
+                "d": 400.0
+              },
+              {
+                "w": "grew",
+                "t": 6790.0,
+                "d": 280.0
+              },
+              {
+                "w": "out",
+                "t": 7070.0,
+                "d": 240.0
+              },
+              {
+                "w": "of",
+                "t": 7310.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 7390.0,
+                "d": 160.0
+              },
+              {
+                "w": "same",
+                "t": 7550.0,
+                "d": 320.0
+              },
+              {
+                "w": "script-world",
+                "t": 7870.0,
+                "d": 720.0
+              },
+              {
+                "w": "that",
+                "t": 8950.0,
+                "d": 240.0
+              },
+              {
+                "w": "had",
+                "t": 9190.0,
+                "d": 119.0
+              },
+              {
+                "w": "served",
+                "t": 9309.0,
+                "d": 441.0
+              },
+              {
+                "w": "kings",
+                "t": 9750.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 10190.0,
+                "d": 199.0
+              },
+              {
+                "w": "traders",
+                "t": 10389.0,
+                "d": 760.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/two_scripts_one_kingdom/img/p14.png",
+      "shot": "dramatic archaeological cut: an excavated clay jar broken open, revealing tightly rolled, fragile birch-bark scrolls",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Centuries later, in the late twentieth century, jars of birch-bark scrolls from this region emerged in the modern world, their Kharosthi letters still legible.",
+            "hi": "सदियों बाद, बीसवीं सदी के उत्तरार्ध में, इसी क्षेत्र के भुर्ज–पत्र स्क्रॉलों के घड़े दुनिया के सामने आए—उनकी खरोष्ठी अब भी पढ़ी जा सकने वाली थी।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p14_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Centuries",
+                "t": 117.0,
+                "d": 680.0
+              },
+              {
+                "w": "later",
+                "t": 797.0,
+                "d": 723.0
+              },
+              {
+                "w": "in",
+                "t": 1521.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 1691.0,
+                "d": 170.0
+              },
+              {
+                "w": "late",
+                "t": 1861.0,
+                "d": 255.0
+              },
+              {
+                "w": "twentieth",
+                "t": 2117.0,
+                "d": 553.0
+              },
+              {
+                "w": "century",
+                "t": 2670.0,
+                "d": 808.0
+              },
+              {
+                "w": "jars",
+                "t": 3734.0,
+                "d": 509.0
+              },
+              {
+                "w": "of",
+                "t": 4243.0,
+                "d": 171.0
+              },
+              {
+                "w": "birch-bark",
+                "t": 4414.0,
+                "d": 638.0
+              },
+              {
+                "w": "scrolls",
+                "t": 5053.0,
+                "d": 468.0
+              },
+              {
+                "w": "from",
+                "t": 5521.0,
+                "d": 212.0
+              },
+              {
+                "w": "this",
+                "t": 5734.0,
+                "d": 212.0
+              },
+              {
+                "w": "region",
+                "t": 5946.0,
+                "d": 638.0
+              },
+              {
+                "w": "emerged",
+                "t": 6712.0,
+                "d": 553.0
+              },
+              {
+                "w": "in",
+                "t": 7265.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 7351.0,
+                "d": 127.0
+              },
+              {
+                "w": "modern",
+                "t": 7478.0,
+                "d": 382.0
+              },
+              {
+                "w": "world",
+                "t": 7861.0,
+                "d": 679.0
+              },
+              {
+                "w": "their",
+                "t": 9179.0,
+                "d": 341.0
+              },
+              {
+                "w": "Kharosthi",
+                "t": 9521.0,
+                "d": 552.0
+              },
+              {
+                "w": "letters",
+                "t": 10073.0,
+                "d": 426.0
+              },
+              {
+                "w": "still",
+                "t": 10500.0,
+                "d": 340.0
+              },
+              {
+                "w": "legible",
+                "t": 10840.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/two_scripts_one_kingdom/img/p15.png",
+      "shot": "modern scholarly study shot: a conservator under magnification gently unrolls a scroll, with reference diagrams of Kharosthi characters on the desk",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Scholars like Richard Salomon and Andrew Glass traced these Gandhari manuscripts, studying how each Kharosthi character rendered sound, word and formula.",
+            "hi": "रिचर्ड सैलोमन और एंड्र्यू ग्लास जैसे विद्वानों ने इन गंधारी पांड–पत्रों की लड़ी पकड़ी, देख–देखकर कि हर खरोष्ठी अक्षर कैसे ध्वनि, शब्द और सूत्र रचता है।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p15_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Scholars",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "like",
+                "t": 670.0,
+                "d": 340.0
+              },
+              {
+                "w": "Richard",
+                "t": 1010.0,
+                "d": 425.0
+              },
+              {
+                "w": "Salomon",
+                "t": 1436.0,
+                "d": 722.0
+              },
+              {
+                "w": "and",
+                "t": 2158.0,
+                "d": 382.0
+              },
+              {
+                "w": "Andrew",
+                "t": 2541.0,
+                "d": 468.0
+              },
+              {
+                "w": "Glass",
+                "t": 3009.0,
+                "d": 510.0
+              },
+              {
+                "w": "traced",
+                "t": 3734.0,
+                "d": 424.0
+              },
+              {
+                "w": "these",
+                "t": 4158.0,
+                "d": 256.0
+              },
+              {
+                "w": "Gandhari",
+                "t": 4414.0,
+                "d": 510.0
+              },
+              {
+                "w": "manuscripts",
+                "t": 4925.0,
+                "d": 936.0
+              },
+              {
+                "w": "studying",
+                "t": 6031.0,
+                "d": 468.0
+              },
+              {
+                "w": "how",
+                "t": 6500.0,
+                "d": 255.0
+              },
+              {
+                "w": "each",
+                "t": 6797.0,
+                "d": 340.0
+              },
+              {
+                "w": "Kharosthi",
+                "t": 7138.0,
+                "d": 553.0
+              },
+              {
+                "w": "character",
+                "t": 7691.0,
+                "d": 553.0
+              },
+              {
+                "w": "rendered",
+                "t": 8244.0,
+                "d": 594.0
+              },
+              {
+                "w": "sound",
+                "t": 8839.0,
+                "d": 596.0
+              },
+              {
+                "w": "word",
+                "t": 9563.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 10202.0,
+                "d": 297.0
+              },
+              {
+                "w": "formula",
+                "t": 10500.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/two_scripts_one_kingdom/img/p16.png",
+      "shot": "split panel: on one side, an ancient Kharosthi inscription; on the other, a Gandhari manuscript line, both tied by a faint map of Gandhara overlay",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "They found continuity, not a single act of patronage: an administrative habit of Kharosthi writing that flowed naturally into a manuscript culture for Buddhist learning.",
+            "hi": "उन्हें टू–टी–सी परंपरा नहीं, बल्कि निरंतर धारा मिली: खरोष्ठी लेखन की एक दफ्तरशाही आदत, जो सहज बहते–बहते ही बौद्ध शिक्षा की पांडुलिपि–संस्कृति में घुस गई।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p16_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "They",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "found",
+                "t": 372.0,
+                "d": 340.0
+              },
+              {
+                "w": "continuity",
+                "t": 712.0,
+                "d": 1148.0
+              },
+              {
+                "w": "not",
+                "t": 1861.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 2202.0,
+                "d": 42.0
+              },
+              {
+                "w": "single",
+                "t": 2244.0,
+                "d": 425.0
+              },
+              {
+                "w": "act",
+                "t": 2670.0,
+                "d": 170.0
+              },
+              {
+                "w": "of",
+                "t": 2840.0,
+                "d": 126.0
+              },
+              {
+                "w": "patronage",
+                "t": 2967.0,
+                "d": 937.0
+              },
+              {
+                "w": "an",
+                "t": 4073.0,
+                "d": 213.0
+              },
+              {
+                "w": "administrative",
+                "t": 4287.0,
+                "d": 808.0
+              },
+              {
+                "w": "habit",
+                "t": 5095.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 5393.0,
+                "d": 170.0
+              },
+              {
+                "w": "Kharosthi",
+                "t": 5563.0,
+                "d": 510.0
+              },
+              {
+                "w": "writing",
+                "t": 6074.0,
+                "d": 425.0
+              },
+              {
+                "w": "that",
+                "t": 6500.0,
+                "d": 212.0
+              },
+              {
+                "w": "flowed",
+                "t": 6712.0,
+                "d": 340.0
+              },
+              {
+                "w": "naturally",
+                "t": 7053.0,
+                "d": 638.0
+              },
+              {
+                "w": "into",
+                "t": 7691.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 7989.0,
+                "d": 42.0
+              },
+              {
+                "w": "manuscript",
+                "t": 8031.0,
+                "d": 637.0
+              },
+              {
+                "w": "culture",
+                "t": 8669.0,
+                "d": 425.0
+              },
+              {
+                "w": "for",
+                "t": 9094.0,
+                "d": 170.0
+              },
+              {
+                "w": "Buddhist",
+                "t": 9264.0,
+                "d": 468.0
+              },
+              {
+                "w": "learning",
+                "t": 9732.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/two_scripts_one_kingdom/img/p17.png",
+      "shot": "low-angle medium shot of Gandharan Kharosthi Scribe seated between a stack of coins and a pile of scrolls, lit by cross-light from coin shine and lamp glow",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kharosthi scribes never ruled armies. Yet by giving kings two scripts on one coin, and monks a script for their scrolls, they made a diverse frontier legible to itself.",
+            "hi": "खरोष्ठी लेखक ने कभी सेनाएँ नहीं चलाईं। पर एक ही सिक्के पर राजाओं को दो लिपियाँ देकर, और भिक्षुओं को उनकी स्क्रॉल के लिए लिपि देकर, उन्होंने इस बहुरंगी सरहद को खुद अपने लिए पढ़ने योग्य बना दिया।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p17_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kharosthi",
+                "t": 74.0,
+                "d": 553.0
+              },
+              {
+                "w": "scribes",
+                "t": 627.0,
+                "d": 510.0
+              },
+              {
+                "w": "never",
+                "t": 1138.0,
+                "d": 382.0
+              },
+              {
+                "w": "ruled",
+                "t": 1521.0,
+                "d": 382.0
+              },
+              {
+                "w": "armies",
+                "t": 1904.0,
+                "d": 679.0
+              },
+              {
+                "w": "Yet",
+                "t": 3009.0,
+                "d": 510.0
+              },
+              {
+                "w": "by",
+                "t": 3904.0,
+                "d": 296.0
+              },
+              {
+                "w": "giving",
+                "t": 4201.0,
+                "d": 298.0
+              },
+              {
+                "w": "kings",
+                "t": 4500.0,
+                "d": 297.0
+              },
+              {
+                "w": "two",
+                "t": 4797.0,
+                "d": 170.0
+              },
+              {
+                "w": "scripts",
+                "t": 4968.0,
+                "d": 382.0
+              },
+              {
+                "w": "on",
+                "t": 5351.0,
+                "d": 127.0
+              },
+              {
+                "w": "one",
+                "t": 5478.0,
+                "d": 297.0
+              },
+              {
+                "w": "coin",
+                "t": 5776.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 6457.0,
+                "d": 255.0
+              },
+              {
+                "w": "monks",
+                "t": 6712.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 7053.0,
+                "d": 42.0
+              },
+              {
+                "w": "script",
+                "t": 7095.0,
+                "d": 340.0
+              },
+              {
+                "w": "for",
+                "t": 7436.0,
+                "d": 127.0
+              },
+              {
+                "w": "their",
+                "t": 7563.0,
+                "d": 212.0
+              },
+              {
+                "w": "scrolls",
+                "t": 7776.0,
+                "d": 680.0
+              },
+              {
+                "w": "they",
+                "t": 8797.0,
+                "d": 255.0
+              },
+              {
+                "w": "made",
+                "t": 9053.0,
+                "d": 211.0
+              },
+              {
+                "w": "a",
+                "t": 9264.0,
+                "d": 43.0
+              },
+              {
+                "w": "diverse",
+                "t": 9308.0,
+                "d": 468.0
+              },
+              {
+                "w": "frontier",
+                "t": 9776.0,
+                "d": 723.0
+              },
+              {
+                "w": "legible",
+                "t": 10542.0,
+                "d": 509.0
+              },
+              {
+                "w": "to",
+                "t": 11052.0,
+                "d": 128.0
+              },
+              {
+                "w": "itself",
+                "t": 11180.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/two_scripts_one_kingdom/split_auto/s0.png",
+          "slogan": {
+            "en": "One script for many worlds",
+            "hi": "एक लेख, अनेक लोक"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/two_scripts_one_kingdom/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/two_scripts_one_kingdom/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across stone, silver, and bark, his letters bind kings, traders, and monks into a single, remembered realm.",
+            "hi": "पत्थर, चाँदी और छाल पर लिखे उसके शब्द, राजा, व्यापारी और भिक्षुओं को एक यादों से भरे साम्राज्य में बाँध देते हैं।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/split/split_auto_en.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 156.0,
+                "d": 500.0
+              },
+              {
+                "w": "stone",
+                "t": 656.0,
+                "d": 500.0
+              },
+              {
+                "w": "silver",
+                "t": 1197.0,
+                "d": 708.0
+              },
+              {
+                "w": "and",
+                "t": 1906.0,
+                "d": 250.0
+              },
+              {
+                "w": "bark",
+                "t": 2156.0,
+                "d": 832.0
+              },
+              {
+                "w": "his",
+                "t": 2988.0,
+                "d": 376.0
+              },
+              {
+                "w": "letters",
+                "t": 3364.0,
+                "d": 458.0
+              },
+              {
+                "w": "bind",
+                "t": 3822.0,
+                "d": 375.0
+              },
+              {
+                "w": "kings",
+                "t": 4197.0,
+                "d": 750.0
+              },
+              {
+                "w": "traders",
+                "t": 5031.0,
+                "d": 916.0
+              },
+              {
+                "w": "and",
+                "t": 6072.0,
+                "d": 333.0
+              },
+              {
+                "w": "monks",
+                "t": 6406.0,
+                "d": 375.0
+              },
+              {
+                "w": "into",
+                "t": 6781.0,
+                "d": 333.0
+              },
+              {
+                "w": "a",
+                "t": 7114.0,
+                "d": 41.0
+              },
+              {
+                "w": "single",
+                "t": 7156.0,
+                "d": 708.0
+              },
+              {
+                "w": "remembered",
+                "t": 7906.0,
+                "d": 665.0
+              },
+              {
+                "w": "realm",
+                "t": 8571.0,
+                "d": 542.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/two_scripts_one_kingdom/img/p18.png",
+      "shot": "final contemplative wide shot: Gandharan Kharosthi Scribe walks along a stupa railing at dawn, while a lone coin lies half-buried in the path",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Gandhara, power learned to write itself twice so that many could read it; today, those twin scripts remind us that diversity becomes governable when people can read the words that rule them.",
+            "hi": "गंधार में सत्ता ने खुद को दो बार लिखना सीखा, ताकि ज़्यादा लोग उसे पढ़ सकें; आज वही जुड़वाँ लिपियाँ याद दिलाती हैं कि विविधता तभी राजकाज में बदलती है, जब लोग अपने ऊपर लिखे हुए शब्द पढ़ सकें।"
+          },
+          "audio": {
+            "en": "assets/two_scripts_one_kingdom/audio/en/p18_0.mp3",
+            "hi": "assets/two_scripts_one_kingdom/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Gandhara",
+                "t": 287.0,
+                "d": 553.0
+              },
+              {
+                "w": "power",
+                "t": 1351.0,
+                "d": 340.0
+              },
+              {
+                "w": "learned",
+                "t": 1691.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 1989.0,
+                "d": 127.0
+              },
+              {
+                "w": "write",
+                "t": 2117.0,
+                "d": 339.0
+              },
+              {
+                "w": "itself",
+                "t": 2456.0,
+                "d": 426.0
+              },
+              {
+                "w": "twice",
+                "t": 2882.0,
+                "d": 425.0
+              },
+              {
+                "w": "so",
+                "t": 3308.0,
+                "d": 680.0
+              },
+              {
+                "w": "that",
+                "t": 3989.0,
+                "d": 211.0
+              },
+              {
+                "w": "many",
+                "t": 4201.0,
+                "d": 341.0
+              },
+              {
+                "w": "could",
+                "t": 4542.0,
+                "d": 255.0
+              },
+              {
+                "w": "read",
+                "t": 4797.0,
+                "d": 212.0
+              },
+              {
+                "w": "it",
+                "t": 5010.0,
+                "d": 382.0
+              },
+              {
+                "w": "today",
+                "t": 5478.0,
+                "d": 1319.0
+              },
+              {
+                "w": "those",
+                "t": 6882.0,
+                "d": 340.0
+              },
+              {
+                "w": "twin",
+                "t": 7223.0,
+                "d": 340.0
+              },
+              {
+                "w": "scripts",
+                "t": 7563.0,
+                "d": 425.0
+              },
+              {
+                "w": "remind",
+                "t": 7989.0,
+                "d": 510.0
+              },
+              {
+                "w": "us",
+                "t": 8500.0,
+                "d": 169.0
+              },
+              {
+                "w": "that",
+                "t": 8669.0,
+                "d": 213.0
+              },
+              {
+                "w": "diversity",
+                "t": 8882.0,
+                "d": 764.0
+              },
+              {
+                "w": "becomes",
+                "t": 9647.0,
+                "d": 469.0
+              },
+              {
+                "w": "governable",
+                "t": 10117.0,
+                "d": 850.0
+              },
+              {
+                "w": "when",
+                "t": 11010.0,
+                "d": 296.0
+              },
+              {
+                "w": "people",
+                "t": 11307.0,
+                "d": 384.0
+              },
+              {
+                "w": "can",
+                "t": 11691.0,
+                "d": 169.0
+              },
+              {
+                "w": "read",
+                "t": 11860.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 12115.0,
+                "d": 170.0
+              },
+              {
+                "w": "words",
+                "t": 12286.0,
+                "d": 384.0
+              },
+              {
+                "w": "that",
+                "t": 12670.0,
+                "d": 254.0
+              },
+              {
+                "w": "rule",
+                "t": 12924.0,
+                "d": 255.0
+              },
+              {
+                "w": "them",
+                "t": 13179.0,
+                "d": 426.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Gandharan Kharosthi Scribe",
+    "epithets": [
+      "scribes of Gandhara",
+      "masters of Kharosthi",
+      "keepers of Gandhari scrolls",
+      "bilingual hands of the Indo-Greek kings"
+    ],
+    "legend": "They made a mixed kingdom readable to every eye."
+  }
+}
