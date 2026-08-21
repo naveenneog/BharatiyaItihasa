@@ -1,0 +1,3447 @@
+{
+  "id": "barygaza_the_silver_port",
+  "title": "Barygaza the Silver Port",
+  "title_i18n": {
+    "en": "Barygaza the Silver Port",
+    "hi": "चाँदी का बंदरगाह बारिगज़ा"
+  },
+  "figure": "The Merchants of Barygaza",
+  "era": "Indian Ocean trade under Nahapana, c. 1st century CE",
+  "moral": "Trade thrives where rulers protect routes and merchants earn trust.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/barygaza_the_silver_port/intro/hero.png",
+      "name": "Merchant of Barygaza",
+      "epithets": [
+        "Masters of Barygaza",
+        "Sailors of the Silver Port",
+        "Caravan Kings of the Gulf",
+        "Guardians of the Trade Winds"
+      ],
+      "legend": "Where silver flowed, they sold trust more than goods.",
+      "era": "Indian Ocean trade under Nahapana, c. 1st century CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Under Saka lord Nahapana, their ships left with cotton and dreams, returned with wine and silver. One raid, one storm, one broken promise, and the lifeline of Barygaza could snap.",
+            "hi": "साका स्वामी नहापान के ज़माने में, उनकी नावें सूत और सपनों से भरकर जातीं, शराब और चाँदी लेकर लौटतीं। बस एक हमला, एक तूफ़ान, एक टूटा वादा… और भरुगाज़ा की साँस ही टूट सकती थी।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/intro/hero_en.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Under",
+                "t": 114.0,
+                "d": 333.0
+              },
+              {
+                "w": "Saka",
+                "t": 447.0,
+                "d": 416.0
+              },
+              {
+                "w": "lord",
+                "t": 864.0,
+                "d": 291.0
+              },
+              {
+                "w": "Nahapana",
+                "t": 1156.0,
+                "d": 750.0
+              },
+              {
+                "w": "their",
+                "t": 2405.0,
+                "d": 292.0
+              },
+              {
+                "w": "ships",
+                "t": 2697.0,
+                "d": 373.0
+              },
+              {
+                "w": "left",
+                "t": 3071.0,
+                "d": 292.0
+              },
+              {
+                "w": "with",
+                "t": 3364.0,
+                "d": 207.0
+              },
+              {
+                "w": "cotton",
+                "t": 3571.0,
+                "d": 375.0
+              },
+              {
+                "w": "and",
+                "t": 3946.0,
+                "d": 166.0
+              },
+              {
+                "w": "dreams",
+                "t": 4113.0,
+                "d": 876.0
+              },
+              {
+                "w": "returned",
+                "t": 5114.0,
+                "d": 500.0
+              },
+              {
+                "w": "with",
+                "t": 5614.0,
+                "d": 208.0
+              },
+              {
+                "w": "wine",
+                "t": 5822.0,
+                "d": 333.0
+              },
+              {
+                "w": "and",
+                "t": 6156.0,
+                "d": 125.0
+              },
+              {
+                "w": "silver",
+                "t": 6281.0,
+                "d": 708.0
+              },
+              {
+                "w": "One",
+                "t": 7614.0,
+                "d": 291.0
+              },
+              {
+                "w": "raid",
+                "t": 7906.0,
+                "d": 457.0
+              },
+              {
+                "w": "one",
+                "t": 8405.0,
+                "d": 333.0
+              },
+              {
+                "w": "storm",
+                "t": 8738.0,
+                "d": 751.0
+              },
+              {
+                "w": "one",
+                "t": 9530.0,
+                "d": 333.0
+              },
+              {
+                "w": "broken",
+                "t": 9863.0,
+                "d": 334.0
+              },
+              {
+                "w": "promise",
+                "t": 10197.0,
+                "d": 623.0
+              },
+              {
+                "w": "and",
+                "t": 11071.0,
+                "d": 292.0
+              },
+              {
+                "w": "the",
+                "t": 11364.0,
+                "d": 125.0
+              },
+              {
+                "w": "lifeline",
+                "t": 11489.0,
+                "d": 540.0
+              },
+              {
+                "w": "of",
+                "t": 12030.0,
+                "d": 126.0
+              },
+              {
+                "w": "Barygaza",
+                "t": 12156.0,
+                "d": 791.0
+              },
+              {
+                "w": "could",
+                "t": 12947.0,
+                "d": 250.0
+              },
+              {
+                "w": "snap",
+                "t": 13197.0,
+                "d": 541.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/barygaza_the_silver_port/intro/map.png",
+      "x": 0.25,
+      "y": 0.48,
+      "label": "Bharuch, Gulf of Khambhat, western coast",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, where the Narmada meets the roaring sea, Barygaza's wharves glowed with cotton bales, sesame oil jars, and the hard shine of silver.",
+            "hi": "यहाँ, जहाँ नर्मदा गरजते समुद्र से मिलती है, बैरिगाज़ा के घाट सूती गठरों, तिल के तेल के मटकों और चाँदी की चमक से दमक रहे थे।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/intro/map_en.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 413.0
+              },
+              {
+                "w": "where",
+                "t": 770.0,
+                "d": 413.0
+              },
+              {
+                "w": "the",
+                "t": 1183.0,
+                "d": 183.0
+              },
+              {
+                "w": "Narmada",
+                "t": 1367.0,
+                "d": 321.0
+              },
+              {
+                "w": "meets",
+                "t": 1689.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 2057.0,
+                "d": 137.0
+              },
+              {
+                "w": "roaring",
+                "t": 2195.0,
+                "d": 413.0
+              },
+              {
+                "w": "sea",
+                "t": 2609.0,
+                "d": 367.0
+              },
+              {
+                "w": "Barygaza's",
+                "t": 3389.0,
+                "d": 1057.0
+              },
+              {
+                "w": "wharves",
+                "t": 4447.0,
+                "d": 506.0
+              },
+              {
+                "w": "glowed",
+                "t": 4954.0,
+                "d": 459.0
+              },
+              {
+                "w": "with",
+                "t": 5413.0,
+                "d": 275.0
+              },
+              {
+                "w": "cotton",
+                "t": 5689.0,
+                "d": 413.0
+              },
+              {
+                "w": "bales",
+                "t": 6103.0,
+                "d": 735.0
+              },
+              {
+                "w": "sesame",
+                "t": 7022.0,
+                "d": 643.0
+              },
+              {
+                "w": "oil",
+                "t": 7666.0,
+                "d": 229.0
+              },
+              {
+                "w": "jars",
+                "t": 7896.0,
+                "d": 781.0
+              },
+              {
+                "w": "and",
+                "t": 8770.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 9000.0,
+                "d": 183.0
+              },
+              {
+                "w": "hard",
+                "t": 9183.0,
+                "d": 366.0
+              },
+              {
+                "w": "shine",
+                "t": 9550.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 9918.0,
+                "d": 91.0
+              },
+              {
+                "w": "silver",
+                "t": 10010.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/barygaza_the_silver_port/img/cover.png",
+      "shot": "sweeping aerial over a crowded ancient port at dusk",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Nahapana's time, at Barygaza on the roaring gulf, Saka satraps, inland roads and foreign winds met in silver, cotton and risk.",
+            "hi": "नहपान के ज़माने में, गरजती खाड़ी पर बारिगज़ा में साका शासक, ज़मीनी राहें और पराए बयार चाँदी, सूती कपड़े और ख़तरे में मिलते थे।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/cover_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 137.0
+              },
+              {
+                "w": "Nahapana's",
+                "t": 218.0,
+                "d": 827.0
+              },
+              {
+                "w": "time",
+                "t": 1045.0,
+                "d": 597.0
+              },
+              {
+                "w": "at",
+                "t": 1643.0,
+                "d": 321.0
+              },
+              {
+                "w": "Barygaza",
+                "t": 1965.0,
+                "d": 643.0
+              },
+              {
+                "w": "on",
+                "t": 2609.0,
+                "d": 182.0
+              },
+              {
+                "w": "the",
+                "t": 2791.0,
+                "d": 139.0
+              },
+              {
+                "w": "roaring",
+                "t": 2931.0,
+                "d": 412.0
+              },
+              {
+                "w": "gulf",
+                "t": 3343.0,
+                "d": 782.0
+              },
+              {
+                "w": "Saka",
+                "t": 4172.0,
+                "d": 505.0
+              },
+              {
+                "w": "satraps",
+                "t": 4678.0,
+                "d": 965.0
+              },
+              {
+                "w": "inland",
+                "t": 5735.0,
+                "d": 551.0
+              },
+              {
+                "w": "roads",
+                "t": 6287.0,
+                "d": 643.0
+              },
+              {
+                "w": "and",
+                "t": 6977.0,
+                "d": 367.0
+              },
+              {
+                "w": "foreign",
+                "t": 7344.0,
+                "d": 413.0
+              },
+              {
+                "w": "winds",
+                "t": 7758.0,
+                "d": 367.0
+              },
+              {
+                "w": "met",
+                "t": 8126.0,
+                "d": 275.0
+              },
+              {
+                "w": "in",
+                "t": 8402.0,
+                "d": 137.0
+              },
+              {
+                "w": "silver",
+                "t": 8540.0,
+                "d": 826.0
+              },
+              {
+                "w": "cotton",
+                "t": 9412.0,
+                "d": 644.0
+              },
+              {
+                "w": "and",
+                "t": 10057.0,
+                "d": 275.0
+              },
+              {
+                "w": "risk",
+                "t": 10333.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/barygaza_the_silver_port/img/p01.png",
+      "shot": "low, wide shot from ship’s prow entering estuary",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Periplus begins with a warning: the approach to Barygaza is perilous, its tides swift, its shoals treacherous, and only local pilots know the safe path upriver.",
+            "hi": "पेरिप्लस चेतावनी से शुरू होता है: बारिगज़ा की राह ख़तरनाक है, ज्वार तेज़, रेतीले टीलों में धोखा, और सिर्फ़ स्थानीय नाविक ही नदी की सुरक्षित राह जानते हैं।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p01_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Periplus",
+                "t": 287.0,
+                "d": 510.0
+              },
+              {
+                "w": "begins",
+                "t": 797.0,
+                "d": 382.0
+              },
+              {
+                "w": "with",
+                "t": 1180.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 1351.0,
+                "d": 85.0
+              },
+              {
+                "w": "warning",
+                "t": 1436.0,
+                "d": 1276.0
+              },
+              {
+                "w": "the",
+                "t": 2712.0,
+                "d": 212.0
+              },
+              {
+                "w": "approach",
+                "t": 2925.0,
+                "d": 425.0
+              },
+              {
+                "w": "to",
+                "t": 3351.0,
+                "d": 127.0
+              },
+              {
+                "w": "Barygaza",
+                "t": 3478.0,
+                "d": 679.0
+              },
+              {
+                "w": "is",
+                "t": 4158.0,
+                "d": 256.0
+              },
+              {
+                "w": "perilous",
+                "t": 4414.0,
+                "d": 765.0
+              },
+              {
+                "w": "its",
+                "t": 5521.0,
+                "d": 297.0
+              },
+              {
+                "w": "tides",
+                "t": 5819.0,
+                "d": 340.0
+              },
+              {
+                "w": "swift",
+                "t": 6159.0,
+                "d": 808.0
+              },
+              {
+                "w": "its",
+                "t": 7180.0,
+                "d": 255.0
+              },
+              {
+                "w": "shoals",
+                "t": 7436.0,
+                "d": 425.0
+              },
+              {
+                "w": "treacherous",
+                "t": 7861.0,
+                "d": 892.0
+              },
+              {
+                "w": "and",
+                "t": 9009.0,
+                "d": 341.0
+              },
+              {
+                "w": "only",
+                "t": 9351.0,
+                "d": 381.0
+              },
+              {
+                "w": "local",
+                "t": 9732.0,
+                "d": 425.0
+              },
+              {
+                "w": "pilots",
+                "t": 10158.0,
+                "d": 469.0
+              },
+              {
+                "w": "know",
+                "t": 10627.0,
+                "d": 169.0
+              },
+              {
+                "w": "the",
+                "t": 10796.0,
+                "d": 128.0
+              },
+              {
+                "w": "safe",
+                "t": 10925.0,
+                "d": 381.0
+              },
+              {
+                "w": "path",
+                "t": 11307.0,
+                "d": 298.0
+              },
+              {
+                "w": "upriver",
+                "t": 11606.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/barygaza_the_silver_port/img/p02.png",
+      "shot": "medium close-up on Merchant of Barygaza, wind in his hair",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Steady your hands. This river has drowned men who thought coin could tame it.",
+            "hi": "हाथ सधे रखो। इस नदी ने उन लोगों को भी डुबोया है जो सिक्कों से इसे वश में समझ बैठे।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p02_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Steady",
+                "t": 49.0,
+                "d": 379.9
+              },
+              {
+                "w": "your",
+                "t": 428.9,
+                "d": 294.1
+              },
+              {
+                "w": "hands",
+                "t": 723.0,
+                "d": 465.7
+              },
+              {
+                "w": "This",
+                "t": 2046.6,
+                "d": 257.3
+              },
+              {
+                "w": "river",
+                "t": 2303.9,
+                "d": 343.1
+              },
+              {
+                "w": "has",
+                "t": 2647.0,
+                "d": 306.4
+              },
+              {
+                "w": "drowned",
+                "t": 2953.4,
+                "d": 343.1
+              },
+              {
+                "w": "men",
+                "t": 3296.6,
+                "d": 355.4
+              },
+              {
+                "w": "who",
+                "t": 3664.2,
+                "d": 208.3
+              },
+              {
+                "w": "thought",
+                "t": 3872.5,
+                "d": 343.1
+              },
+              {
+                "w": "coin",
+                "t": 4240.2,
+                "d": 269.6
+              },
+              {
+                "w": "could",
+                "t": 4546.6,
+                "d": 208.3
+              },
+              {
+                "w": "tame",
+                "t": 4779.4,
+                "d": 318.6
+              },
+              {
+                "w": "it",
+                "t": 5098.0,
+                "d": 220.6
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/barygaza_the_silver_port/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/barygaza_the_silver_port/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As the bore surges upriver, he rides the rush, steering strangers through currents only his people truly know.",
+            "hi": "ज्वार की लहर चढ़ते ही वो उस पर सवार, अनजान नावों को उन धाराओं से पार लगाता है जिन्हें सच में सिर्फ उसके लोग जानते हैं।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/action/action_auto_en.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 402.0,
+                "d": 137.0
+              },
+              {
+                "w": "bore",
+                "t": 540.0,
+                "d": 275.0
+              },
+              {
+                "w": "surges",
+                "t": 816.0,
+                "d": 459.0
+              },
+              {
+                "w": "upriver",
+                "t": 1275.0,
+                "d": 827.0
+              },
+              {
+                "w": "he",
+                "t": 2287.0,
+                "d": 366.0
+              },
+              {
+                "w": "rides",
+                "t": 2654.0,
+                "d": 368.0
+              },
+              {
+                "w": "the",
+                "t": 3022.0,
+                "d": 137.0
+              },
+              {
+                "w": "rush",
+                "t": 3160.0,
+                "d": 1057.0
+              },
+              {
+                "w": "steering",
+                "t": 4264.0,
+                "d": 551.0
+              },
+              {
+                "w": "strangers",
+                "t": 4816.0,
+                "d": 781.0
+              },
+              {
+                "w": "through",
+                "t": 5597.0,
+                "d": 367.0
+              },
+              {
+                "w": "currents",
+                "t": 5965.0,
+                "d": 551.0
+              },
+              {
+                "w": "only",
+                "t": 6517.0,
+                "d": 413.0
+              },
+              {
+                "w": "his",
+                "t": 6931.0,
+                "d": 229.0
+              },
+              {
+                "w": "people",
+                "t": 7160.0,
+                "d": 597.0
+              },
+              {
+                "w": "truly",
+                "t": 7758.0,
+                "d": 321.0
+              },
+              {
+                "w": "know",
+                "t": 8080.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/barygaza_the_silver_port/img/p03.png",
+      "shot": "wide establishing shot of Bharuch from the river",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Beyond the tides lies Bharukaccha, Barygaza, a port of the Western Kshatrapas under the Saka satrap Nahapana, where sea routes end and caravan roads begin.",
+            "hi": "ज्वार के पार है भरुकच्छ, बारिगज़ा – साका शासक नहपान के अधीन पश्चिमी क्षत्रपों का बंदरगाह, जहाँ समुद्री राहें खत्म होती हैं और कारवाँ के रास्ते शुरू।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p03_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Beyond",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 542.0,
+                "d": 170.0
+              },
+              {
+                "w": "tides",
+                "t": 712.0,
+                "d": 425.0
+              },
+              {
+                "w": "lies",
+                "t": 1138.0,
+                "d": 340.0
+              },
+              {
+                "w": "Bharukaccha",
+                "t": 1478.0,
+                "d": 808.0
+              },
+              {
+                "w": "Barygaza",
+                "t": 2456.0,
+                "d": 1191.0
+              },
+              {
+                "w": "a",
+                "t": 3734.0,
+                "d": 296.0
+              },
+              {
+                "w": "port",
+                "t": 4030.0,
+                "d": 256.0
+              },
+              {
+                "w": "of",
+                "t": 4287.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 4414.0,
+                "d": 170.0
+              },
+              {
+                "w": "Western",
+                "t": 4585.0,
+                "d": 468.0
+              },
+              {
+                "w": "Kshatrapas",
+                "t": 5053.0,
+                "d": 680.0
+              },
+              {
+                "w": "under",
+                "t": 5776.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 6031.0,
+                "d": 127.0
+              },
+              {
+                "w": "Saka",
+                "t": 6159.0,
+                "d": 425.0
+              },
+              {
+                "w": "satrap",
+                "t": 6585.0,
+                "d": 510.0
+              },
+              {
+                "w": "Nahapana",
+                "t": 7095.0,
+                "d": 936.0
+              },
+              {
+                "w": "where",
+                "t": 8159.0,
+                "d": 297.0
+              },
+              {
+                "w": "sea",
+                "t": 8457.0,
+                "d": 211.0
+              },
+              {
+                "w": "routes",
+                "t": 8669.0,
+                "d": 384.0
+              },
+              {
+                "w": "end",
+                "t": 9053.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 9563.0,
+                "d": 339.0
+              },
+              {
+                "w": "caravan",
+                "t": 9903.0,
+                "d": 511.0
+              },
+              {
+                "w": "roads",
+                "t": 10414.0,
+                "d": 340.0
+              },
+              {
+                "w": "begin",
+                "t": 10755.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/barygaza_the_silver_port/img/p04.png",
+      "shot": "interior wide of a bustling warehouse by the river",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Periplus lists the port's wealth: cotton cloth from the Deccan, rice from fertile fields, sesame oil and ghee, indigo, onyx and other stones, all gathered in warehouse shade.",
+            "hi": "पेरिप्लस बंदरगाह की दौलत गिनता है: दक्खन का सूती कपड़ा, उपजाऊ खेतों का चावल, तिल का तेल और घी, नील, ओनेक्स और दूसरी मणियाँ – सब गोदामों की छाँव में जमा।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p04_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Periplus",
+                "t": 287.0,
+                "d": 595.0
+              },
+              {
+                "w": "lists",
+                "t": 882.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 1308.0,
+                "d": 170.0
+              },
+              {
+                "w": "port's",
+                "t": 1478.0,
+                "d": 340.0
+              },
+              {
+                "w": "wealth",
+                "t": 1819.0,
+                "d": 510.0
+              },
+              {
+                "w": "cotton",
+                "t": 3052.0,
+                "d": 384.0
+              },
+              {
+                "w": "cloth",
+                "t": 3436.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 3819.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 4030.0,
+                "d": 127.0
+              },
+              {
+                "w": "Deccan",
+                "t": 4158.0,
+                "d": 681.0
+              },
+              {
+                "w": "rice",
+                "t": 5095.0,
+                "d": 425.0
+              },
+              {
+                "w": "from",
+                "t": 5521.0,
+                "d": 255.0
+              },
+              {
+                "w": "fertile",
+                "t": 5776.0,
+                "d": 425.0
+              },
+              {
+                "w": "fields",
+                "t": 6202.0,
+                "d": 723.0
+              },
+              {
+                "w": "sesame",
+                "t": 7053.0,
+                "d": 553.0
+              },
+              {
+                "w": "oil",
+                "t": 7606.0,
+                "d": 255.0
+              },
+              {
+                "w": "and",
+                "t": 7861.0,
+                "d": 170.0
+              },
+              {
+                "w": "ghee",
+                "t": 8031.0,
+                "d": 425.0
+              },
+              {
+                "w": "indigo",
+                "t": 8711.0,
+                "d": 809.0
+              },
+              {
+                "w": "onyx",
+                "t": 9563.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 10287.0,
+                "d": 340.0
+              },
+              {
+                "w": "other",
+                "t": 10670.0,
+                "d": 255.0
+              },
+              {
+                "w": "stones",
+                "t": 10925.0,
+                "d": 723.0
+              },
+              {
+                "w": "all",
+                "t": 11989.0,
+                "d": 381.0
+              },
+              {
+                "w": "gathered",
+                "t": 12371.0,
+                "d": 511.0
+              },
+              {
+                "w": "in",
+                "t": 12924.0,
+                "d": 170.0
+              },
+              {
+                "w": "warehouse",
+                "t": 13094.0,
+                "d": 554.0
+              },
+              {
+                "w": "shade",
+                "t": 13648.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/barygaza_the_silver_port/img/p05.png",
+      "shot": "close-up on hands sorting goods",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "Each bale is a promise, from farmer to weaver to sea and back.",
+            "hi": "हर गठरी एक वादा है – किसान से जुलाहे तक, समुंदर तक, फिर वापस।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p05_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Each",
+                "t": 49.0,
+                "d": 257.3
+              },
+              {
+                "w": "bale",
+                "t": 306.4,
+                "d": 343.1
+              },
+              {
+                "w": "is",
+                "t": 710.8,
+                "d": 147.0
+              },
+              {
+                "w": "a",
+                "t": 870.1,
+                "d": 61.3
+              },
+              {
+                "w": "promise",
+                "t": 931.4,
+                "d": 514.7
+              },
+              {
+                "w": "from",
+                "t": 1691.2,
+                "d": 294.1
+              },
+              {
+                "w": "farmer",
+                "t": 1985.3,
+                "d": 465.7
+              },
+              {
+                "w": "to",
+                "t": 2451.0,
+                "d": 147.0
+              },
+              {
+                "w": "weaver",
+                "t": 2598.0,
+                "d": 441.2
+              },
+              {
+                "w": "to",
+                "t": 3039.2,
+                "d": 134.8
+              },
+              {
+                "w": "sea",
+                "t": 3174.0,
+                "d": 306.4
+              },
+              {
+                "w": "and",
+                "t": 3553.9,
+                "d": 257.3
+              },
+              {
+                "w": "back",
+                "t": 3811.3,
+                "d": 355.4
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/barygaza_the_silver_port/img/p06.png",
+      "shot": "medium shot of foreign traders entering warehouse",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From the Red Sea came traders the Periplus calls Yavana, bringing wine in amphorae, copper, tin, lead, coral, and above all gold and silver coin to exchange.",
+            "hi": "लाल सागर से आते थे व्यापारी, जिन्हें पेरिप्लस ‘यवन’ कहता है, वे लाते थे घड़ों में शराब, तांबा, राँगा, सीसा, मूँगा, और सबसे बढ़कर सोने-चाँदी के सिक्के सौदे के लिए।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p06_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 372.0,
+                "d": 127.0
+              },
+              {
+                "w": "Red",
+                "t": 500.0,
+                "d": 212.0
+              },
+              {
+                "w": "Sea",
+                "t": 712.0,
+                "d": 297.0
+              },
+              {
+                "w": "came",
+                "t": 1010.0,
+                "d": 340.0
+              },
+              {
+                "w": "traders",
+                "t": 1351.0,
+                "d": 510.0
+              },
+              {
+                "w": "the",
+                "t": 1861.0,
+                "d": 212.0
+              },
+              {
+                "w": "Periplus",
+                "t": 2074.0,
+                "d": 552.0
+              },
+              {
+                "w": "calls",
+                "t": 2626.0,
+                "d": 340.0
+              },
+              {
+                "w": "Yavana",
+                "t": 2967.0,
+                "d": 680.0
+              },
+              {
+                "w": "bringing",
+                "t": 4115.0,
+                "d": 554.0
+              },
+              {
+                "w": "wine",
+                "t": 4670.0,
+                "d": 468.0
+              },
+              {
+                "w": "in",
+                "t": 5138.0,
+                "d": 212.0
+              },
+              {
+                "w": "amphorae",
+                "t": 5351.0,
+                "d": 680.0
+              },
+              {
+                "w": "copper",
+                "t": 6117.0,
+                "d": 680.0
+              },
+              {
+                "w": "tin",
+                "t": 6925.0,
+                "d": 553.0
+              },
+              {
+                "w": "lead",
+                "t": 7521.0,
+                "d": 638.0
+              },
+              {
+                "w": "coral",
+                "t": 8202.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 9053.0,
+                "d": 255.0
+              },
+              {
+                "w": "above",
+                "t": 9308.0,
+                "d": 339.0
+              },
+              {
+                "w": "all",
+                "t": 9691.0,
+                "d": 340.0
+              },
+              {
+                "w": "gold",
+                "t": 10031.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 10372.0,
+                "d": 212.0
+              },
+              {
+                "w": "silver",
+                "t": 10585.0,
+                "d": 381.0
+              },
+              {
+                "w": "coin",
+                "t": 10967.0,
+                "d": 298.0
+              },
+              {
+                "w": "to",
+                "t": 11265.0,
+                "d": 212.0
+              },
+              {
+                "w": "exchange",
+                "t": 11478.0,
+                "d": 851.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/barygaza_the_silver_port/img/p07.png",
+      "shot": "close-up on a spread of coins and goods on a low table",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Your coin buys cloth, oil and colour. But our trust weighs more than metal.",
+            "hi": "तुम्हारा सिक्का कपड़ा, तेल और रंग खरीदता है। हमारा भरोसा धातु से भारी है।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p07_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Your",
+                "t": 49.0,
+                "d": 245.1
+              },
+              {
+                "w": "coin",
+                "t": 294.1,
+                "d": 318.6
+              },
+              {
+                "w": "buys",
+                "t": 612.8,
+                "d": 379.9
+              },
+              {
+                "w": "cloth",
+                "t": 992.7,
+                "d": 441.2
+              },
+              {
+                "w": "oil",
+                "t": 1703.4,
+                "d": 343.1
+              },
+              {
+                "w": "and",
+                "t": 2095.6,
+                "d": 257.3
+              },
+              {
+                "w": "colour",
+                "t": 2353.0,
+                "d": 416.7
+              },
+              {
+                "w": "But",
+                "t": 3652.0,
+                "d": 208.3
+              },
+              {
+                "w": "our",
+                "t": 3933.8,
+                "d": 220.6
+              },
+              {
+                "w": "trust",
+                "t": 4166.7,
+                "d": 379.9
+              },
+              {
+                "w": "weighs",
+                "t": 4571.1,
+                "d": 379.9
+              },
+              {
+                "w": "more",
+                "t": 4951.0,
+                "d": 318.6
+              },
+              {
+                "w": "than",
+                "t": 5269.6,
+                "d": 269.6
+              },
+              {
+                "w": "metal",
+                "t": 5539.2,
+                "d": 441.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/barygaza_the_silver_port/img/p08.png",
+      "shot": "wide shot of caravans forming outside city gate",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Barygaza is not only a harbour. It is a hinge. From here, caravans roll inland toward markets and cities whose precise lines the earth has blurred.",
+            "hi": "बारिगज़ा सिर्फ़ लंगरगाह नहीं। ये जोड़ है। यहीं से कारवाँ उन अंडराहों की तरफ़ चलते हैं, जिन बाज़ारों और नगरों की रूपरेखाएँ धरती ने धुंधली कर दी हैं।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p08_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Barygaza",
+                "t": 74.0,
+                "d": 851.0
+              },
+              {
+                "w": "is",
+                "t": 925.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 1095.0,
+                "d": 255.0
+              },
+              {
+                "w": "only",
+                "t": 1351.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 1648.0,
+                "d": 42.0
+              },
+              {
+                "w": "harbour",
+                "t": 1691.0,
+                "d": 510.0
+              },
+              {
+                "w": "It",
+                "t": 2498.0,
+                "d": 256.0
+              },
+              {
+                "w": "is",
+                "t": 2755.0,
+                "d": 85.0
+              },
+              {
+                "w": "a",
+                "t": 2840.0,
+                "d": 126.0
+              },
+              {
+                "w": "hinge",
+                "t": 2967.0,
+                "d": 595.0
+              },
+              {
+                "w": "From",
+                "t": 4457.0,
+                "d": 297.0
+              },
+              {
+                "w": "here",
+                "t": 4755.0,
+                "d": 680.0
+              },
+              {
+                "w": "caravans",
+                "t": 5436.0,
+                "d": 638.0
+              },
+              {
+                "w": "roll",
+                "t": 6074.0,
+                "d": 297.0
+              },
+              {
+                "w": "inland",
+                "t": 6414.0,
+                "d": 425.0
+              },
+              {
+                "w": "toward",
+                "t": 6840.0,
+                "d": 340.0
+              },
+              {
+                "w": "markets",
+                "t": 7180.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 7776.0,
+                "d": 255.0
+              },
+              {
+                "w": "cities",
+                "t": 8031.0,
+                "d": 679.0
+              },
+              {
+                "w": "whose",
+                "t": 8924.0,
+                "d": 298.0
+              },
+              {
+                "w": "precise",
+                "t": 9223.0,
+                "d": 553.0
+              },
+              {
+                "w": "lines",
+                "t": 9776.0,
+                "d": 381.0
+              },
+              {
+                "w": "the",
+                "t": 10158.0,
+                "d": 170.0
+              },
+              {
+                "w": "earth",
+                "t": 10328.0,
+                "d": 382.0
+              },
+              {
+                "w": "has",
+                "t": 10711.0,
+                "d": 255.0
+              },
+              {
+                "w": "blurred",
+                "t": 10967.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/barygaza_the_silver_port/img/p09.png",
+      "shot": "stylised map-like overhead showing sea and inland routes",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Periplus names inland centres like Minnagara, their exact locations now debated, reminding us how even trade giants can fade into the mist of argument and guesswork.",
+            "hi": "पेरिप्लस अंदरूनी नगरों जैसे मिननगर का नाम लेता है; उनकी सही जगह पर आज बहस है – याद दिलाते कि कभी विशाल मंडियाँ भी बहस और अंदाज़े की धुंध में गुम हो सकती हैं।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p09_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Periplus",
+                "t": 287.0,
+                "d": 510.0
+              },
+              {
+                "w": "names",
+                "t": 797.0,
+                "d": 425.0
+              },
+              {
+                "w": "inland",
+                "t": 1223.0,
+                "d": 425.0
+              },
+              {
+                "w": "centres",
+                "t": 1648.0,
+                "d": 509.0
+              },
+              {
+                "w": "like",
+                "t": 2158.0,
+                "d": 256.0
+              },
+              {
+                "w": "Minnagara",
+                "t": 2414.0,
+                "d": 764.0
+              },
+              {
+                "w": "their",
+                "t": 3690.0,
+                "d": 256.0
+              },
+              {
+                "w": "exact",
+                "t": 3946.0,
+                "d": 510.0
+              },
+              {
+                "w": "locations",
+                "t": 4457.0,
+                "d": 638.0
+              },
+              {
+                "w": "now",
+                "t": 5095.0,
+                "d": 255.0
+              },
+              {
+                "w": "debated",
+                "t": 5351.0,
+                "d": 936.0
+              },
+              {
+                "w": "reminding",
+                "t": 6542.0,
+                "d": 553.0
+              },
+              {
+                "w": "us",
+                "t": 7095.0,
+                "d": 170.0
+              },
+              {
+                "w": "how",
+                "t": 7265.0,
+                "d": 297.0
+              },
+              {
+                "w": "even",
+                "t": 7563.0,
+                "d": 382.0
+              },
+              {
+                "w": "trade",
+                "t": 7946.0,
+                "d": 340.0
+              },
+              {
+                "w": "giants",
+                "t": 8287.0,
+                "d": 510.0
+              },
+              {
+                "w": "can",
+                "t": 8797.0,
+                "d": 211.0
+              },
+              {
+                "w": "fade",
+                "t": 9009.0,
+                "d": 384.0
+              },
+              {
+                "w": "into",
+                "t": 9393.0,
+                "d": 254.0
+              },
+              {
+                "w": "the",
+                "t": 9647.0,
+                "d": 128.0
+              },
+              {
+                "w": "mist",
+                "t": 9776.0,
+                "d": 296.0
+              },
+              {
+                "w": "of",
+                "t": 10073.0,
+                "d": 213.0
+              },
+              {
+                "w": "argument",
+                "t": 10287.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 11095.0,
+                "d": 340.0
+              },
+              {
+                "w": "guesswork",
+                "t": 11436.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/barygaza_the_silver_port/img/p10.png",
+      "shot": "low-angle shot of a Saka official at a road post",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On land, inscriptions of Nahapana's son-in-law Ushavadata speak of rest-houses, cisterns and gifts along the very routes that feed Barygaza, tying satrap power to merchant roads.",
+            "hi": "धरती पर, नहपान के दामाद ऊषवदत्त के लेखों में सराय, पानी के कुंड और दान का ज़िक्र है, इन्हीं राहों पर जो बारिगज़ा को खिलाती हैं, और शासकों की ताकत को व्यापारी मार्गों से बाँधती हैं।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p10_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "land",
+                "t": 329.0,
+                "d": 510.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 882.0,
+                "d": 680.0
+              },
+              {
+                "w": "of",
+                "t": 1563.0,
+                "d": 170.0
+              },
+              {
+                "w": "Nahapana's",
+                "t": 1734.0,
+                "d": 680.0
+              },
+              {
+                "w": "son-in-law",
+                "t": 2414.0,
+                "d": 637.0
+              },
+              {
+                "w": "Ushavadata",
+                "t": 3052.0,
+                "d": 638.0
+              },
+              {
+                "w": "speak",
+                "t": 3690.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 4030.0,
+                "d": 127.0
+              },
+              {
+                "w": "rest-houses",
+                "t": 4158.0,
+                "d": 639.0
+              },
+              {
+                "w": "cisterns",
+                "t": 4797.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 5478.0,
+                "d": 553.0
+              },
+              {
+                "w": "gifts",
+                "t": 6031.0,
+                "d": 382.0
+              },
+              {
+                "w": "along",
+                "t": 6414.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 6712.0,
+                "d": 127.0
+              },
+              {
+                "w": "very",
+                "t": 6840.0,
+                "d": 340.0
+              },
+              {
+                "w": "routes",
+                "t": 7180.0,
+                "d": 382.0
+              },
+              {
+                "w": "that",
+                "t": 7563.0,
+                "d": 212.0
+              },
+              {
+                "w": "feed",
+                "t": 7776.0,
+                "d": 255.0
+              },
+              {
+                "w": "Barygaza",
+                "t": 8031.0,
+                "d": 977.0
+              },
+              {
+                "w": "tying",
+                "t": 9053.0,
+                "d": 382.0
+              },
+              {
+                "w": "satrap",
+                "t": 9436.0,
+                "d": 467.0
+              },
+              {
+                "w": "power",
+                "t": 9903.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 10243.0,
+                "d": 128.0
+              },
+              {
+                "w": "merchant",
+                "t": 10372.0,
+                "d": 468.0
+              },
+              {
+                "w": "roads",
+                "t": 10840.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/barygaza_the_silver_port/img/p11.png",
+      "shot": "medium shot focused on a stone cistern by the roadside",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "A full cistern and a shaded bench add more to trade than a drawn sword.",
+            "hi": "भरा हुआ कुंड और छायादार चौकी तलवार से ज़्यादा व्यापार बढ़ाते हैं।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p11_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "A",
+                "t": 46.3,
+                "d": 46.3
+              },
+              {
+                "w": "full",
+                "t": 92.6,
+                "d": 289.3
+              },
+              {
+                "w": "cistern",
+                "t": 382.0,
+                "d": 590.3
+              },
+              {
+                "w": "and",
+                "t": 1053.2,
+                "d": 196.8
+              },
+              {
+                "w": "a",
+                "t": 1250.0,
+                "d": 46.3
+              },
+              {
+                "w": "shaded",
+                "t": 1296.3,
+                "d": 428.2
+              },
+              {
+                "w": "bench",
+                "t": 1724.5,
+                "d": 347.2
+              },
+              {
+                "w": "add",
+                "t": 2129.6,
+                "d": 208.3
+              },
+              {
+                "w": "more",
+                "t": 2338.0,
+                "d": 335.7
+              },
+              {
+                "w": "to",
+                "t": 2673.6,
+                "d": 150.5
+              },
+              {
+                "w": "trade",
+                "t": 2835.7,
+                "d": 358.8
+              },
+              {
+                "w": "than",
+                "t": 3206.0,
+                "d": 289.3
+              },
+              {
+                "w": "a",
+                "t": 3495.4,
+                "d": 57.9
+              },
+              {
+                "w": "drawn",
+                "t": 3564.8,
+                "d": 324.0
+              },
+              {
+                "w": "sword",
+                "t": 3888.9,
+                "d": 451.4
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/barygaza_the_silver_port/img/p12.png",
+      "shot": "interior wide shot of a rock-cut cave monastery",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Cave inscriptions at places like Nasik record donations from satrap families and merchants, showing how the same wealth that moved along roads also carved stone refuges for the renunciants.",
+            "hi": "नासिक जैसे स्थानों की गुफ़ाओं के लेखों में क्षत्रप कुलों और व्यापारियों के दान दर्ज हैं – दिखाते कि इन्हीं राहों से बहता धन सन्यासियों के लिए पत्थर की शरण भी तराशता था।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p12_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Cave",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 329.0,
+                "d": 638.0
+              },
+              {
+                "w": "at",
+                "t": 968.0,
+                "d": 127.0
+              },
+              {
+                "w": "places",
+                "t": 1095.0,
+                "d": 468.0
+              },
+              {
+                "w": "like",
+                "t": 1563.0,
+                "d": 255.0
+              },
+              {
+                "w": "Nasik",
+                "t": 1819.0,
+                "d": 382.0
+              },
+              {
+                "w": "record",
+                "t": 2202.0,
+                "d": 381.0
+              },
+              {
+                "w": "donations",
+                "t": 2584.0,
+                "d": 681.0
+              },
+              {
+                "w": "from",
+                "t": 3265.0,
+                "d": 296.0
+              },
+              {
+                "w": "satrap",
+                "t": 3562.0,
+                "d": 510.0
+              },
+              {
+                "w": "families",
+                "t": 4073.0,
+                "d": 681.0
+              },
+              {
+                "w": "and",
+                "t": 4755.0,
+                "d": 255.0
+              },
+              {
+                "w": "merchants",
+                "t": 5010.0,
+                "d": 765.0
+              },
+              {
+                "w": "showing",
+                "t": 5861.0,
+                "d": 468.0
+              },
+              {
+                "w": "how",
+                "t": 6329.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 6500.0,
+                "d": 127.0
+              },
+              {
+                "w": "same",
+                "t": 6627.0,
+                "d": 382.0
+              },
+              {
+                "w": "wealth",
+                "t": 7010.0,
+                "d": 425.0
+              },
+              {
+                "w": "that",
+                "t": 7436.0,
+                "d": 255.0
+              },
+              {
+                "w": "moved",
+                "t": 7691.0,
+                "d": 297.0
+              },
+              {
+                "w": "along",
+                "t": 7989.0,
+                "d": 297.0
+              },
+              {
+                "w": "roads",
+                "t": 8287.0,
+                "d": 510.0
+              },
+              {
+                "w": "also",
+                "t": 8924.0,
+                "d": 511.0
+              },
+              {
+                "w": "carved",
+                "t": 9436.0,
+                "d": 296.0
+              },
+              {
+                "w": "stone",
+                "t": 9732.0,
+                "d": 384.0
+              },
+              {
+                "w": "refuges",
+                "t": 10117.0,
+                "d": 638.0
+              },
+              {
+                "w": "for",
+                "t": 10755.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 10881.0,
+                "d": 128.0
+              },
+              {
+                "w": "renunciants",
+                "t": 11010.0,
+                "d": 850.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/barygaza_the_silver_port/img/p13.png",
+      "shot": "close-up on carved inscription being traced by fingers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "Stone keeps names longer than ledgers. But names too can sink.",
+            "hi": "पथ्थर नामों को खातों से ज़्यादा देर थामता है। पर नाम भी डूब सकते हैं।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p13_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Stone",
+                "t": 49.0,
+                "d": 379.9
+              },
+              {
+                "w": "keeps",
+                "t": 453.4,
+                "d": 367.7
+              },
+              {
+                "w": "names",
+                "t": 857.8,
+                "d": 441.2
+              },
+              {
+                "w": "longer",
+                "t": 1348.0,
+                "d": 453.4
+              },
+              {
+                "w": "than",
+                "t": 1801.5,
+                "d": 318.6
+              },
+              {
+                "w": "ledgers",
+                "t": 2120.1,
+                "d": 551.5
+              },
+              {
+                "w": "But",
+                "t": 3517.2,
+                "d": 232.8
+              },
+              {
+                "w": "names",
+                "t": 3762.2,
+                "d": 416.7
+              },
+              {
+                "w": "too",
+                "t": 4191.2,
+                "d": 122.5
+              },
+              {
+                "w": "can",
+                "t": 4313.7,
+                "d": 294.1
+              },
+              {
+                "w": "sink",
+                "t": 4607.8,
+                "d": 392.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/barygaza_the_silver_port/img/p14.png",
+      "shot": "busy street-level shot inside Bharuch’s bazaar",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Himanshu Prabha Ray sees in such ports a web: maritime links, road-side shrines, cave monasteries, all threaded together by merchants who live between wind, tax and trust.",
+            "hi": "हिमांशु प्रभा रे ऐसे बंदरगाहों में एक जाल देखती हैं: समुद्री कड़ियाँ, राह किनारे देवालय, गुफ़ा-विहार – सबको जोड़ते व्यापारी, जो हवा, कर और भरोसे के बीच जीते हैं।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p14_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Himanshu",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "Prabha",
+                "t": 670.0,
+                "d": 340.0
+              },
+              {
+                "w": "Ray",
+                "t": 1010.0,
+                "d": 170.0
+              },
+              {
+                "w": "sees",
+                "t": 1180.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 1521.0,
+                "d": 127.0
+              },
+              {
+                "w": "such",
+                "t": 1648.0,
+                "d": 382.0
+              },
+              {
+                "w": "ports",
+                "t": 2031.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 2456.0,
+                "d": 170.0
+              },
+              {
+                "w": "web",
+                "t": 2626.0,
+                "d": 767.0
+              },
+              {
+                "w": "maritime",
+                "t": 3478.0,
+                "d": 679.0
+              },
+              {
+                "w": "links",
+                "t": 4158.0,
+                "d": 724.0
+              },
+              {
+                "w": "road-side",
+                "t": 4968.0,
+                "d": 680.0
+              },
+              {
+                "w": "shrines",
+                "t": 5648.0,
+                "d": 808.0
+              },
+              {
+                "w": "cave",
+                "t": 6627.0,
+                "d": 340.0
+              },
+              {
+                "w": "monasteries",
+                "t": 6968.0,
+                "d": 978.0
+              },
+              {
+                "w": "all",
+                "t": 8159.0,
+                "d": 381.0
+              },
+              {
+                "w": "threaded",
+                "t": 8541.0,
+                "d": 426.0
+              },
+              {
+                "w": "together",
+                "t": 8968.0,
+                "d": 468.0
+              },
+              {
+                "w": "by",
+                "t": 9436.0,
+                "d": 211.0
+              },
+              {
+                "w": "merchants",
+                "t": 9647.0,
+                "d": 724.0
+              },
+              {
+                "w": "who",
+                "t": 10372.0,
+                "d": 212.0
+              },
+              {
+                "w": "live",
+                "t": 10585.0,
+                "d": 296.0
+              },
+              {
+                "w": "between",
+                "t": 10881.0,
+                "d": 384.0
+              },
+              {
+                "w": "wind",
+                "t": 11265.0,
+                "d": 764.0
+              },
+              {
+                "w": "tax",
+                "t": 12030.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 12456.0,
+                "d": 256.0
+              },
+              {
+                "w": "trust",
+                "t": 12712.0,
+                "d": 637.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/barygaza_the_silver_port/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/barygaza_the_silver_port/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He threads caravans and creditors through dust and danger, guarding profit and reputation with every shouted command.",
+            "hi": "वो धूल‑धक्कड़ में काफ़िलों और सूदखोरों को साधे रखता है, हर हुंकार से अपना मुनाफ़ा और इज़्ज़त बचाता है।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/action/action_auto2_en.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "threads",
+                "t": 350.0,
+                "d": 320.0
+              },
+              {
+                "w": "caravans",
+                "t": 670.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 1430.0,
+                "d": 200.0
+              },
+              {
+                "w": "creditors",
+                "t": 1630.0,
+                "d": 600.0
+              },
+              {
+                "w": "through",
+                "t": 2230.0,
+                "d": 320.0
+              },
+              {
+                "w": "dust",
+                "t": 2550.0,
+                "d": 319.0
+              },
+              {
+                "w": "and",
+                "t": 2869.0,
+                "d": 281.0
+              },
+              {
+                "w": "danger",
+                "t": 3150.0,
+                "d": 560.0
+              },
+              {
+                "w": "guarding",
+                "t": 4190.0,
+                "d": 520.0
+              },
+              {
+                "w": "profit",
+                "t": 4710.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 5270.0,
+                "d": 240.0
+              },
+              {
+                "w": "reputation",
+                "t": 5510.0,
+                "d": 760.0
+              },
+              {
+                "w": "with",
+                "t": 6270.0,
+                "d": 360.0
+              },
+              {
+                "w": "every",
+                "t": 6670.0,
+                "d": 400.0
+              },
+              {
+                "w": "shouted",
+                "t": 7070.0,
+                "d": 480.0
+              },
+              {
+                "w": "command",
+                "t": 7550.0,
+                "d": 599.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/barygaza_the_silver_port/img/p15.png",
+      "shot": "evening wide shot on the riverfront with ships at anchor",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As the tide turns gentle and masts darken against the sky, the Periplus notes that this difficult harbour rewards patience, and that satrap rule has made its roads secure enough for risk to seem worth it.",
+            "hi": "जब ज्वार नरम पड़ता है और मस्तूलों की परछाइयाँ आसमान पर गहरी होती हैं, पेरिप्लस लिखता है कि यह कठिन बंदरगाह सब्र का फल देता है, और क्षत्रप शासन ने राहें इतना सुरक्षित कर दी हैं कि जोखिम भी क़ीमत के काबिल लगे।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p15_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 372.0,
+                "d": 170.0
+              },
+              {
+                "w": "tide",
+                "t": 542.0,
+                "d": 297.0
+              },
+              {
+                "w": "turns",
+                "t": 840.0,
+                "d": 382.0
+              },
+              {
+                "w": "gentle",
+                "t": 1223.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 1819.0,
+                "d": 255.0
+              },
+              {
+                "w": "masts",
+                "t": 2074.0,
+                "d": 680.0
+              },
+              {
+                "w": "darken",
+                "t": 2755.0,
+                "d": 468.0
+              },
+              {
+                "w": "against",
+                "t": 3223.0,
+                "d": 381.0
+              },
+              {
+                "w": "the",
+                "t": 3605.0,
+                "d": 128.0
+              },
+              {
+                "w": "sky",
+                "t": 3734.0,
+                "d": 808.0
+              },
+              {
+                "w": "the",
+                "t": 4627.0,
+                "d": 255.0
+              },
+              {
+                "w": "Periplus",
+                "t": 4882.0,
+                "d": 510.0
+              },
+              {
+                "w": "notes",
+                "t": 5393.0,
+                "d": 425.0
+              },
+              {
+                "w": "that",
+                "t": 5819.0,
+                "d": 212.0
+              },
+              {
+                "w": "this",
+                "t": 6031.0,
+                "d": 255.0
+              },
+              {
+                "w": "difficult",
+                "t": 6287.0,
+                "d": 468.0
+              },
+              {
+                "w": "harbour",
+                "t": 6755.0,
+                "d": 425.0
+              },
+              {
+                "w": "rewards",
+                "t": 7180.0,
+                "d": 425.0
+              },
+              {
+                "w": "patience",
+                "t": 7606.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 8669.0,
+                "d": 255.0
+              },
+              {
+                "w": "that",
+                "t": 8924.0,
+                "d": 170.0
+              },
+              {
+                "w": "satrap",
+                "t": 9094.0,
+                "d": 511.0
+              },
+              {
+                "w": "rule",
+                "t": 9606.0,
+                "d": 340.0
+              },
+              {
+                "w": "has",
+                "t": 9946.0,
+                "d": 211.0
+              },
+              {
+                "w": "made",
+                "t": 10158.0,
+                "d": 298.0
+              },
+              {
+                "w": "its",
+                "t": 10457.0,
+                "d": 170.0
+              },
+              {
+                "w": "roads",
+                "t": 10627.0,
+                "d": 509.0
+              },
+              {
+                "w": "secure",
+                "t": 11222.0,
+                "d": 553.0
+              },
+              {
+                "w": "enough",
+                "t": 11775.0,
+                "d": 340.0
+              },
+              {
+                "w": "for",
+                "t": 12115.0,
+                "d": 213.0
+              },
+              {
+                "w": "risk",
+                "t": 12329.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 12585.0,
+                "d": 170.0
+              },
+              {
+                "w": "seem",
+                "t": 12755.0,
+                "d": 339.0
+              },
+              {
+                "w": "worth",
+                "t": 13094.0,
+                "d": 384.0
+              },
+              {
+                "w": "it",
+                "t": 13478.0,
+                "d": 297.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/barygaza_the_silver_port/img/p16.png",
+      "shot": "close-up on Merchant of Barygaza holding coins and a ledger",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Today's silver may come from far seas. Tomorrow's trust must be earned here.",
+            "hi": "आज की चाँदी दूर समुंदरों से आएगी। कल का भरोसा यहीं कमा कर दिखाना होगा।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p16_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today's",
+                "t": 49.0,
+                "d": 416.7
+              },
+              {
+                "w": "silver",
+                "t": 502.5,
+                "d": 428.9
+              },
+              {
+                "w": "may",
+                "t": 931.4,
+                "d": 232.8
+              },
+              {
+                "w": "come",
+                "t": 1164.2,
+                "d": 306.4
+              },
+              {
+                "w": "from",
+                "t": 1470.6,
+                "d": 343.1
+              },
+              {
+                "w": "far",
+                "t": 1813.7,
+                "d": 294.1
+              },
+              {
+                "w": "seas",
+                "t": 2107.8,
+                "d": 478.0
+              },
+              {
+                "w": "Tomorrow's",
+                "t": 3455.9,
+                "d": 539.2
+              },
+              {
+                "w": "trust",
+                "t": 3995.1,
+                "d": 367.7
+              },
+              {
+                "w": "must",
+                "t": 4411.8,
+                "d": 343.1
+              },
+              {
+                "w": "be",
+                "t": 4754.9,
+                "d": 208.3
+              },
+              {
+                "w": "earned",
+                "t": 5012.2,
+                "d": 294.1
+              },
+              {
+                "w": "here",
+                "t": 5306.4,
+                "d": 355.4
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/barygaza_the_silver_port/split_auto/s0.png",
+          "slogan": {
+            "en": "Tides carry our name forward",
+            "hi": "लहरें हमारा नाम आगे लें"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/barygaza_the_silver_port/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/barygaza_the_silver_port/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across sea, stone and script, his wagers bind Nahapana's frontier to far harbours, every coin a promise carved in tide and rock.",
+            "hi": "समुद्र, पत्थर और लिपि के पार, उसकी बाज़ियाँ नहपान की सीमा को दूर बंदरगाहों से बाँधती हैं, हर सिक्का ज्वार और चट्टान पर खुदा वादा है।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/split/split_auto_en.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 72.0,
+                "d": 458.0
+              },
+              {
+                "w": "sea",
+                "t": 531.0,
+                "d": 375.0
+              },
+              {
+                "w": "stone",
+                "t": 1031.0,
+                "d": 583.0
+              },
+              {
+                "w": "and",
+                "t": 1614.0,
+                "d": 208.0
+              },
+              {
+                "w": "script",
+                "t": 1822.0,
+                "d": 707.0
+              },
+              {
+                "w": "his",
+                "t": 2781.0,
+                "d": 332.0
+              },
+              {
+                "w": "wagers",
+                "t": 3113.0,
+                "d": 500.0
+              },
+              {
+                "w": "bind",
+                "t": 3613.0,
+                "d": 375.0
+              },
+              {
+                "w": "Nahapana's",
+                "t": 3988.0,
+                "d": 751.0
+              },
+              {
+                "w": "frontier",
+                "t": 4739.0,
+                "d": 541.0
+              },
+              {
+                "w": "to",
+                "t": 5281.0,
+                "d": 125.0
+              },
+              {
+                "w": "far",
+                "t": 5406.0,
+                "d": 333.0
+              },
+              {
+                "w": "harbours",
+                "t": 5739.0,
+                "d": 708.0
+              },
+              {
+                "w": "every",
+                "t": 6864.0,
+                "d": 458.0
+              },
+              {
+                "w": "coin",
+                "t": 7322.0,
+                "d": 375.0
+              },
+              {
+                "w": "a",
+                "t": 7697.0,
+                "d": 166.0
+              },
+              {
+                "w": "promise",
+                "t": 7864.0,
+                "d": 416.0
+              },
+              {
+                "w": "carved",
+                "t": 8281.0,
+                "d": 373.0
+              },
+              {
+                "w": "in",
+                "t": 8655.0,
+                "d": 166.0
+              },
+              {
+                "w": "tide",
+                "t": 8821.0,
+                "d": 501.0
+              },
+              {
+                "w": "and",
+                "t": 9364.0,
+                "d": 291.0
+              },
+              {
+                "w": "rock",
+                "t": 9656.0,
+                "d": 500.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/barygaza_the_silver_port/img/p17.png",
+      "shot": "high, contemplative shot of the port fading into mist over time",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today the exact paths to places like Minnagara are disputed, yet the record of Barygaza remains: a port where Saka satraps, river pilots and merchants together turned dangerous tides into lasting routes.",
+            "hi": "आज मिननगर जैसे नगरों की सही राहों पर झगड़ा है, पर बारिगज़ा का लेखा बचा है – वह बंदरगाह जहाँ साका शासक, नदी के मल्लाह और व्यापारी मिलकर ख़तरनाक ज्वार को स्थायी राहों में बदलते थे।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p17_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 414.0,
+                "d": 170.0
+              },
+              {
+                "w": "exact",
+                "t": 585.0,
+                "d": 638.0
+              },
+              {
+                "w": "paths",
+                "t": 1223.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 1606.0,
+                "d": 127.0
+              },
+              {
+                "w": "places",
+                "t": 1734.0,
+                "d": 468.0
+              },
+              {
+                "w": "like",
+                "t": 2202.0,
+                "d": 254.0
+              },
+              {
+                "w": "Minnagara",
+                "t": 2456.0,
+                "d": 510.0
+              },
+              {
+                "w": "are",
+                "t": 2967.0,
+                "d": 256.0
+              },
+              {
+                "w": "disputed",
+                "t": 3223.0,
+                "d": 850.0
+              },
+              {
+                "w": "yet",
+                "t": 4287.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 4585.0,
+                "d": 127.0
+              },
+              {
+                "w": "record",
+                "t": 4712.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 5138.0,
+                "d": 170.0
+              },
+              {
+                "w": "Barygaza",
+                "t": 5308.0,
+                "d": 595.0
+              },
+              {
+                "w": "remains",
+                "t": 5904.0,
+                "d": 680.0
+              },
+              {
+                "w": "a",
+                "t": 6797.0,
+                "d": 255.0
+              },
+              {
+                "w": "port",
+                "t": 7053.0,
+                "d": 553.0
+              },
+              {
+                "w": "where",
+                "t": 7691.0,
+                "d": 255.0
+              },
+              {
+                "w": "Saka",
+                "t": 7946.0,
+                "d": 340.0
+              },
+              {
+                "w": "satraps",
+                "t": 8287.0,
+                "d": 851.0
+              },
+              {
+                "w": "river",
+                "t": 9223.0,
+                "d": 424.0
+              },
+              {
+                "w": "pilots",
+                "t": 9647.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 10542.0,
+                "d": 297.0
+              },
+              {
+                "w": "merchants",
+                "t": 10840.0,
+                "d": 467.0
+              },
+              {
+                "w": "together",
+                "t": 11307.0,
+                "d": 937.0
+              },
+              {
+                "w": "turned",
+                "t": 12244.0,
+                "d": 425.0
+              },
+              {
+                "w": "dangerous",
+                "t": 12670.0,
+                "d": 509.0
+              },
+              {
+                "w": "tides",
+                "t": 13179.0,
+                "d": 426.0
+              },
+              {
+                "w": "into",
+                "t": 13606.0,
+                "d": 255.0
+              },
+              {
+                "w": "lasting",
+                "t": 13861.0,
+                "d": 467.0
+              },
+              {
+                "w": "routes",
+                "t": 14328.0,
+                "d": 596.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/barygaza_the_silver_port/img/p18.png",
+      "shot": "final medium shot of Merchant of Barygaza on the quay at dawn",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the story of Barygaza, we see that trade endures where rulers guard routes, merchants keep faith across cultures, and the hardest currents are faced together, not alone.",
+            "hi": "बारिगज़ा की कहानी दिखाती है कि व्यापार वहीं टिकता है जहाँ शासक राहें बचाते हैं, व्यापारी संस्कृतियों के पार विश्वास निभाते हैं, और सबसे तेज़ बहाव अकेले नहीं, मिलकर झेले जाते हैं।"
+          },
+          "audio": {
+            "en": "assets/barygaza_the_silver_port/audio/en/p18_0.mp3",
+            "hi": "assets/barygaza_the_silver_port/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "story",
+                "t": 414.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 712.0,
+                "d": 170.0
+              },
+              {
+                "w": "Barygaza",
+                "t": 882.0,
+                "d": 1021.0
+              },
+              {
+                "w": "we",
+                "t": 2202.0,
+                "d": 254.0
+              },
+              {
+                "w": "see",
+                "t": 2456.0,
+                "d": 170.0
+              },
+              {
+                "w": "that",
+                "t": 2626.0,
+                "d": 171.0
+              },
+              {
+                "w": "trade",
+                "t": 2797.0,
+                "d": 468.0
+              },
+              {
+                "w": "endures",
+                "t": 3265.0,
+                "d": 638.0
+              },
+              {
+                "w": "where",
+                "t": 3904.0,
+                "d": 211.0
+              },
+              {
+                "w": "rulers",
+                "t": 4115.0,
+                "d": 511.0
+              },
+              {
+                "w": "guard",
+                "t": 4627.0,
+                "d": 297.0
+              },
+              {
+                "w": "routes",
+                "t": 4925.0,
+                "d": 680.0
+              },
+              {
+                "w": "merchants",
+                "t": 6031.0,
+                "d": 638.0
+              },
+              {
+                "w": "keep",
+                "t": 6670.0,
+                "d": 297.0
+              },
+              {
+                "w": "faith",
+                "t": 6968.0,
+                "d": 340.0
+              },
+              {
+                "w": "across",
+                "t": 7308.0,
+                "d": 468.0
+              },
+              {
+                "w": "cultures",
+                "t": 7776.0,
+                "d": 850.0
+              },
+              {
+                "w": "and",
+                "t": 8839.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 9009.0,
+                "d": 128.0
+              },
+              {
+                "w": "hardest",
+                "t": 9138.0,
+                "d": 468.0
+              },
+              {
+                "w": "currents",
+                "t": 9606.0,
+                "d": 340.0
+              },
+              {
+                "w": "are",
+                "t": 9946.0,
+                "d": 126.0
+              },
+              {
+                "w": "faced",
+                "t": 10073.0,
+                "d": 341.0
+              },
+              {
+                "w": "together",
+                "t": 10414.0,
+                "d": 807.0
+              },
+              {
+                "w": "not",
+                "t": 11222.0,
+                "d": 384.0
+              },
+              {
+                "w": "alone",
+                "t": 11606.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Merchant of Barygaza",
+    "epithets": [
+      "Masters of Barygaza",
+      "Sailors of the Silver Port",
+      "Caravan Kings of the Gulf",
+      "Guardians of the Trade Winds"
+    ],
+    "legend": "Where silver flowed, they sold trust more than goods."
+  }
+}
