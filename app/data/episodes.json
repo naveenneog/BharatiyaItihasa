@@ -1,5 +1,5 @@
 {
-  "built": 805,
+  "built": 812,
   "chapters": [
     {
       "chapter": "The Indus Valley Civilisation",
@@ -7486,7 +7486,7 @@
     {
       "chapter": "The Gurjara-Pratiharas of Kannauj",
       "blurb": "",
-      "built": 0,
+      "built": 3,
       "total": 13,
       "sort_year": 805,
       "range": "700 CE – 910 CE",
@@ -7500,18 +7500,24 @@
               "title": "Who Were the Pratiharas?",
               "era": "Early Gurjara-Pratihara formation, c. 725-756 CE",
               "series": "Ancient & Medieval India",
-              "built": false,
+              "built": true,
               "flagship": false,
               "chapter": "The Gurjara-Pratiharas of Kannauj",
               "chapter_part": "I. The Frontier Lords",
               "chapter_order": 1,
               "year": 725,
               "year_label": "725 CE",
-              "legend": "A frontier dynasty rose from contested borderlands and used stone, Sanskrit and memory to explain who could guard the north.",
-              "epithets": [],
-              "scenes": 0,
-              "langs": [],
-              "thumb": ""
+              "legend": "He turned a raided border into a shield for the north.",
+              "epithets": [
+                "Founder of the Gurjara-Pratihara dynasty",
+                "Defender of Western India"
+              ],
+              "scenes": 23,
+              "langs": [
+                "en",
+                "hi"
+              ],
+              "thumb": "assets/who_were_the_pratiharas/intro/hero.png"
             },
             {
               "id": "nagabhata_at_the_edge_of_empires",
@@ -7519,18 +7525,24 @@
               "title": "Nagabhata at the Edge of Empires",
               "era": "Arab-Sindh frontier wars, c. 730-756 CE",
               "series": "Ancient & Medieval India",
-              "built": false,
+              "built": true,
               "flagship": false,
               "chapter": "The Gurjara-Pratiharas of Kannauj",
               "chapter_part": "I. The Frontier Lords",
               "chapter_order": 2,
               "year": 730,
               "year_label": "730 CE",
-              "legend": "When Arab governors from Sindh probed into Rajasthan and Gujarat, Nagabhata joined a frontier coalition in a hard political struggle between expanding powers.",
-              "epithets": [],
-              "scenes": 0,
-              "langs": [],
-              "thumb": ""
+              "legend": "On India’s desert rim, he stopped an empire’s westward storm.",
+              "epithets": [
+                "Founder of the Pratihara dynasty",
+                "Defender of western India"
+              ],
+              "scenes": 23,
+              "langs": [
+                "en",
+                "hi"
+              ],
+              "thumb": "assets/nagabhata_at_the_edge_of_empires/intro/hero.png"
             },
             {
               "id": "vatsaraja_dreams_of_two_seas",
@@ -7538,18 +7550,24 @@
               "title": "Vatsaraja Dreams of Two Seas",
               "era": "First imperial expansion, c. 778-800 CE",
               "series": "Ancient & Medieval India",
-              "built": false,
+              "built": true,
               "flagship": false,
               "chapter": "The Gurjara-Pratiharas of Kannauj",
               "chapter_part": "I. The Frontier Lords",
               "chapter_order": 3,
               "year": 778,
               "year_label": "778 CE",
-              "legend": "Vatsaraja turned a frontier kingdom toward all-India ambition, humbled Dharmapala for a moment, and then learned how fast a Deccan emperor could reverse fortune.",
-              "epithets": [],
-              "scenes": 0,
-              "langs": [],
-              "thumb": ""
+              "legend": "From desert frontier, he reached for two seas and fell back.",
+              "epithets": [
+                "Gurjara-Pratihara emperor",
+                "Conqueror of Kannauj"
+              ],
+              "scenes": 23,
+              "langs": [
+                "en",
+                "hi"
+              ],
+              "thumb": "assets/vatsaraja_dreams_of_two_seas/intro/hero.png"
             }
           ]
         },
@@ -22531,9 +22549,84 @@
       "label": "Medieval India",
       "blurb": "Kingdoms, faith, sea-power and swaraj",
       "hint": "~700 - 1750 CE",
-      "range": "1550 CE - 1666 CE",
-      "count": 2,
+      "range": "711 CE - 1666 CE",
+      "count": 6,
       "episodes": [
+        {
+          "id": "rawar_and_the_new_province_on_the_indus",
+          "figure": "Raja Dahir and Muhammad ibn Qasim",
+          "title": "Rawar and the New Province on the Indus",
+          "era": "Umayyad conquest of Sindh, 711-712 CE",
+          "series": "Ancient & Medieval India",
+          "built": true,
+          "flagship": false,
+          "chapter": "",
+          "chapter_part": "",
+          "chapter_order": 999,
+          "year": 711,
+          "year_label": "711 CE",
+          "legend": "At Rawar, one king fell and a new frontier was born.",
+          "epithets": [
+            "Raja Dahir, last Brahmin king of Sindh",
+            "Muhammad ibn Qasim, youth general of the Umayyads"
+          ],
+          "scenes": 22,
+          "langs": [
+            "en",
+            "hi"
+          ],
+          "thumb": "assets/rawar_and_the_new_province_on_the_indus/intro/hero.png"
+        },
+        {
+          "id": "the_copper_plate_that_checked_the_arab_advance",
+          "figure": "Nagabhata I and Avanijanashraya Pulakeshin",
+          "title": "The Copper Plate That Checked the Arab Advance",
+          "era": "Arab frontier raids and Gurjara-Pratihara rise, c. 724-743 CE",
+          "series": "Ancient & Medieval India",
+          "built": true,
+          "flagship": false,
+          "chapter": "",
+          "chapter_part": "",
+          "chapter_order": 999,
+          "year": 724,
+          "year_label": "724 CE",
+          "legend": "Two frontier kings, one copper plate, and a halted empire.",
+          "epithets": [
+            "Nagabhata I, founder of the Gurjara-Pratiharas",
+            "Avanijanashraya Pulakeshin, saviour of Navsari"
+          ],
+          "scenes": 25,
+          "langs": [
+            "en",
+            "hi"
+          ],
+          "thumb": "assets/the_copper_plate_that_checked_the_arab_advance/intro/hero.png"
+        },
+        {
+          "id": "chandawar_and_the_fall_of_the_eastern_plain",
+          "figure": "Jayachandra of the Gahadavala dynasty",
+          "title": "Chandawar and the Fall of the Eastern Plain",
+          "era": "Ghurid consolidation of north India, 1194 CE",
+          "series": "Ancient & Medieval India",
+          "built": true,
+          "flagship": false,
+          "chapter": "",
+          "chapter_part": "",
+          "chapter_order": 999,
+          "year": 1194,
+          "year_label": "1194 CE",
+          "legend": "One clash on the Yamuna broke the backbone of a kingdom.",
+          "epithets": [
+            "Jayachandra of Kannauj",
+            "Gahadavala Jayachandra"
+          ],
+          "scenes": 24,
+          "langs": [
+            "en",
+            "hi"
+          ],
+          "thumb": "assets/chandawar_and_the_fall_of_the_eastern_plain/intro/hero.png"
+        },
         {
           "id": "abbakka_s_refusal_at_ullal",
           "figure": "Rani Abbakka Chowta",
@@ -22558,6 +22651,31 @@
             "hi"
           ],
           "thumb": "assets/abbakka_s_refusal_at_ullal/intro/hero.png"
+        },
+        {
+          "id": "bahraich_and_the_battle_made_of_memory",
+          "figure": "Suheldev and Salar Masud",
+          "title": "Bahraich and the Battle Made of Memory",
+          "era": "Legend of a battle c. 1033 CE, recorded mainly in the 17th century",
+          "series": "Ancient & Medieval India",
+          "built": true,
+          "flagship": false,
+          "chapter": "",
+          "chapter_part": "",
+          "chapter_order": 999,
+          "year": 1650,
+          "year_label": "1650 CE",
+          "legend": "Two rival heroes, one battle, a town that remembers both.",
+          "epithets": [
+            "Raja Suheldev of Shravasti",
+            "Ghaazi Miyan (Salar Masud)"
+          ],
+          "scenes": 24,
+          "langs": [
+            "en",
+            "hi"
+          ],
+          "thumb": "assets/bahraich_and_the_battle_made_of_memory/intro/hero.png"
         },
         {
           "id": "shivaji_s_quiet_escape_from_agra",
