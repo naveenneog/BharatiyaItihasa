@@ -96,6 +96,13 @@
   .tcard:hover{transform:translateY(-2px);border-color:rgba(232,182,74,.5)}
   .tthumb{flex:none;width:150px;aspect-ratio:16/11}.tthumb img{width:100%;height:100%;object-fit:cover;object-position:50% 30%}
   .tinfo{flex:1;min-width:0;padding:11px 13px}.tfig{font-size:16px;font-weight:800}.tera{font-size:11px;color:var(--gold);margin:2px 0 5px}
+  /* search */
+  .searchwrap{margin:16px auto 2px;max-width:540px;padding:0 18px}
+  #q{width:100%;padding:12px 18px;border-radius:26px;border:1px solid var(--line);
+     background:rgba(20,15,8,.6);color:var(--ink);font-size:14.5px;outline:none;transition:.16s}
+  #q:focus{border-color:rgba(232,182,74,.55);box-shadow:0 0 0 3px rgba(232,182,74,.12)}
+  #q::placeholder{color:var(--dim)}
+  #nores{text-align:center;color:var(--dim);padding:44px 20px;display:none}
   footer{text-align:center;color:var(--dim);font-size:12px;padding:0 20px 40px}
   @media(max-width:600px){.tcard{flex-direction:column}.tthumb{width:100%}.entry{grid-template-columns:56px 1fr}}
 </style>
@@ -107,8 +114,11 @@
   <p class="sub">Not half-told textbook footnotes — deep, voiced, animated chapters. We take one era
      or empire at a time and build its whole saga: rise, heroes, wars, craft, innovations and legacy.</p>
   <div class="count" id="count"></div>
+  <div class="searchwrap"><input id="q" type="search" autocomplete="off" spellcheck="false"
+     placeholder="Search 800+ stories — a person, empire, era or theme…"></div>
 </header>
 <main id="main"><p style="text-align:center;color:var(--dim);padding:50px">Loading…</p></main>
+<p id="nores">No stories match your search. Try a name, empire, era or theme — e.g. <i>Ashoka</i>, <i>Chola</i>, <i>Ajanta</i>, <i>battle</i>.</p>
 <footer>Each chapter is built story by story — ▶ plays a voiced motion-comic; “coming soon” cards are being written now. Refresh to watch a chapter fill in.</footer>
 
 <script>
@@ -180,6 +190,40 @@ fetch("data/episodes.json?v="+Date.now()).then(r=>r.json()).then(data=>{
       main.appendChild(sec);
     });
   }
+
+  // --- live client-side search over all rendered chapters + timelines (no backend) ---
+  const q=document.getElementById("q"), nores=document.getElementById("nores");
+  function applyFilter(){
+    const term=q.value.trim().toLowerCase(); let total=0;
+    document.querySelectorAll("#main .chapter").forEach(ch=>{
+      const name=(ch.querySelector(".cname")?.textContent||"").toLowerCase();
+      const nameHit=!!term&&name.includes(term); let vis=0;
+      ch.querySelectorAll(".part").forEach(part=>{
+        let pv=0;
+        part.querySelectorAll(".story").forEach(card=>{
+          const hit=!term||nameHit||card.textContent.toLowerCase().includes(term);
+          card.style.display=hit?"":"none"; if(hit)pv++;
+        });
+        part.style.display=pv?"":"none"; vis+=pv;
+      });
+      ch.style.display=(vis||nameHit)?"":"none";
+      if(term&&(vis||nameHit))ch.classList.add("open");
+      total+=vis;
+    });
+    document.querySelectorAll("#main .period").forEach(pd=>{
+      let pv=0;
+      pd.querySelectorAll(".entry").forEach(en=>{
+        const hit=!term||en.textContent.toLowerCase().includes(term);
+        en.style.display=hit?"":"none"; if(hit)pv++;
+      });
+      pd.style.display=pv?"":"none";
+      if(term&&pv)pd.classList.add("open");
+      total+=pv;
+    });
+    document.querySelectorAll("#main .shead").forEach(h=>{h.style.display=term?"none":"";});
+    nores.style.display=(term&&total===0)?"block":"none";
+  }
+  q.addEventListener("input",applyFilter);
 }).catch(()=>{document.getElementById("main").innerHTML='<p style="text-align:center;color:var(--dim);padding:50px">Could not load episodes.json — run <code>python tools/gallery.py</code>.</p>';});
 </script>
 </body>
