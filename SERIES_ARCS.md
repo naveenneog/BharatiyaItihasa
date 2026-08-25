@@ -442,6 +442,32 @@ Karnataka's first native ruling house — a family of Brahmin-warriors who made 
 12. **The Agrahara Village Machine** ✅ — Mayurasharma's brahmadeya land-grants as an administrative machine binding land, learning and power. *(social / economic innovation)*
 13. **Between Shiva and the Jina** ✅ — Kadamba patronage of Shaiva temples and Jain basadis together, refusing a single-creed story. *(religious pluralism)*
 
+## 🎨 The Vakatakas and the Ajanta Caves  *(Ancient — c. 250–470 CE, the Deccan)*  — **✅ CHAPTER COMPLETE (13/13)**
+The Deccan house that were the Guptas' marriage-allies and the patrons of Ajanta's second great phase — a dynasty with no surviving chronicle, reconstructed from copperplate land-grants, the Ajanta donor-inscriptions and the paintings themselves. Told with the record's own thinness kept in view: the early kings are honestly "a figure in fog," the golden age is dated by the donors named on the cave walls, and the 1819 "discovery" is un-whitewashed.
+
+**I. A Deccan Power Rises**
+1. **Vindhyashakti Raises the Vakataka Banner** ✅ — the founder glimpsed only in the Puranas and a single Ajanta verse; a warlord shown as "a shadow in stone," not invented. *(origins)*
+2. **Pravarasena I Becomes Samrat of the South** ✅ — the one Vakataka to claim *Samrat*, his four Ashvamedhas read from the inscriptions as ideology as much as conquest. *(imperial ambition)*
+3. **Prabhavatigupta Rules from the Vakataka Throne** ✅ — Chandragupta II's daughter governing the Vakataka realm as regent-queen, dating her own grants by her natal Gupta line. *(a woman's sovereignty)*
+
+**II. Courts, Capitals and Letters**
+4. **Pravarasena II Builds Pravarapura** ✅ — the king who founded a new capital and ran a state through copperplate charters. *(statecraft)*
+5. **The King Who Sang the Setubandha** ✅ — Pravarasena II credited with the *Setubandha* (*Ravanavaho*), a Maharashtri-Prakrit court epic: a king as poet. *(literary innovation)*
+
+**III. Harishena's Ambition**
+6. **Harishena and the Twenty-Year Miracle of Ajanta** ✅ — the last great Vakataka and the compressed golden age of the caves, dated by the donor-record. *(golden age)*
+7. **Varahadeva Carves a Mountain of Merit** ✅ — Harishena's minister, patron of Cave 16, named in the cave's own inscription. *(patronage)*
+8. **Empire at Dusk: Harishena's Wars and Fall** ✅ — the abrupt collapse and Ajanta's abandonment mid-carving, shown in the unfinished caves rather than smoothed over. *(decline)*
+
+**IV. The Ajanta Workshop**
+9. **Who Paid for Ajanta's Caves** ✅ — Upendragupta the local king and the tangle of donors behind the second phase. *(economics of patronage)*
+10. **Painting in the Dark at Ajanta** ✅ — the master painters and the tempera technique worked by lamplight on living rock. *(artistic technique)*
+11. **Engineers of the Rock-Cut Monastery** ✅ — the top-down excavation where "one wrong stroke shatters a pillar." *(engineering innovation)*
+
+**V. Rule, Memory and Afterlives**
+12. **The Copperplate State of the Vakatakas** ✅ — a whole administration recovered from land-grant plates that "survived where market ledgers did not." *(administrative record)*
+13. **Ajanta Lost, Found and Scarred** ✅ — the 1819 encounter by John Smith of the 28th Madras Cavalry, told against the discovery-myth: the caves were never lost to the villagers, are noted by Xuanzang and the *Ain-i-Akbari*, and the graffiti-scar is named even as it re-anchored Ajanta. *(memory & historiography)*
+
 ## 🐘 The Wodeyars of Mysore  *(Late medieval–modern — c. 1399–1950, Karnataka)*  — **✅ CHAPTER COMPLETE (13/13)**
 The house that ruled Mysore for five and a half centuries — from a semi-legendary 1399 founding under Vijayanagara, through the Hyder Ali–Tipu Sultan interregnum, to signing away its own crown into the Indian Republic in 1947 — and turned a princely state into a laboratory of modern India: hydro-power, a dam, a university, industry, caste reservations and aircraft, told with source-criticism and non-communal balance.
 
