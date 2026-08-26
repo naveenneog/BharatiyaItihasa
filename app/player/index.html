@@ -32,10 +32,15 @@
 
   <div class="overlay hidden" id="endCard">
     <div class="epic-moral" id="endMoral"></div>
-    <button class="play-btn" id="replayBtn">↻ Replay</button>
+    <div class="endnav">
+      <button class="play-btn ghost" id="replayBtn">↻ Replay</button>
+      <a class="play-btn hidden" id="nextBtn" href="#">▶ Next</a>
+    </div>
+    <a class="endhome" id="homeLink" href="../index.html">⌂ All chapters</a>
   </div>
 
   <div class="controls" id="controls">
+    <button data-act="home" title="All chapters">⌂</button>
     <button data-act="prev" title="Previous scene">⏮</button>
     <button data-act="toggle" id="toggleBtn" title="Play / Pause">⏸</button>
     <button data-act="next" title="Next scene">⏭</button>

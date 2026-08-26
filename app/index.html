@@ -25,7 +25,7 @@
   .shead .t{font-size:13px;color:var(--dim)}
 
   /* chapter */
-  .chapter{border:1px solid var(--line);border-radius:18px;margin:16px 0;overflow:hidden;
+  .chapter{border:1px solid var(--line);border-radius:18px;margin:16px 0;overflow:hidden;scroll-margin-top:14px;
      background:linear-gradient(180deg,rgba(30,22,10,.8),rgba(13,11,9,.4))}
   .chead{display:flex;align-items:center;gap:18px;width:100%;border:0;cursor:pointer;padding:22px 24px;
      background:transparent;color:var(--ink);text-align:left}
@@ -103,6 +103,11 @@
   #q:focus{border-color:rgba(232,182,74,.55);box-shadow:0 0 0 3px rgba(232,182,74,.12)}
   #q::placeholder{color:var(--dim)}
   #nores{text-align:center;color:var(--dim);padding:44px 20px;display:none}
+  .tools{display:flex;flex-wrap:wrap;gap:9px;justify-content:center;align-items:center;margin:12px auto 0;max-width:760px;padding:0 18px}
+  .tools button,.tools select{background:rgba(20,15,8,.6);color:var(--ink);border:1px solid var(--line);
+     border-radius:22px;padding:8px 15px;font-size:12.5px;cursor:pointer;transition:.16s;font-family:inherit}
+  .tools button:hover,.tools select:hover{border-color:rgba(232,182,74,.55);color:var(--gold)}
+  .tools select{max-width:280px}
   footer{text-align:center;color:var(--dim);font-size:12px;padding:0 20px 40px}
   @media(max-width:600px){.tcard{flex-direction:column}.tthumb{width:100%}.entry{grid-template-columns:56px 1fr}}
 </style>
@@ -116,6 +121,11 @@
   <div class="count" id="count"></div>
   <div class="searchwrap"><input id="q" type="search" autocomplete="off" spellcheck="false"
      placeholder="Search 800+ stories — a person, empire, era or theme…"></div>
+  <div class="tools" id="tools" hidden>
+    <button id="collapseAll" type="button">▾ Collapse all</button>
+    <button id="expandAll" type="button">▸ Expand all</button>
+    <select id="jump" aria-label="Jump to chapter"><option value="">Jump to chapter…</option></select>
+  </div>
 </header>
 <main id="main"><p style="text-align:center;color:var(--dim);padding:50px">Loading…</p></main>
 <p id="nores">No stories match your search. Try a name, empire, era or theme — e.g. <i>Ashoka</i>, <i>Chola</i>, <i>Ajanta</i>, <i>battle</i>.</p>
@@ -150,9 +160,9 @@ fetch("data/episodes.json?v="+Date.now()).then(r=>r.json()).then(data=>{
     const h=document.createElement("div"); h.className="shead";
     h.innerHTML='<span class="k">Chapters</span><span class="t">complete, grouped sagas — built story by story</span>';
     main.appendChild(h);
-    data.chapters.forEach(c=>{
+    data.chapters.forEach((c,idx)=>{
       const pct=c.total?Math.round(100*c.built/c.total):0;
-      const sec=document.createElement("section"); sec.className="chapter open";
+      const sec=document.createElement("section"); sec.className="chapter open"; sec.id="ch-"+idx;
       const parts=c.parts.map(p=>`
         <div class="part"><div class="ptitle">${esc(p.part)}</div>
           <div class="stories">${p.episodes.map(storyCard).join("")}</div></div>`).join("");
@@ -164,6 +174,16 @@ fetch("data/episodes.json?v="+Date.now()).then(r=>r.json()).then(data=>{
       sec.querySelector(".chead").addEventListener("click",()=>sec.classList.toggle("open"));
       main.appendChild(sec);
     });
+
+    // chapter navigation: collapse / expand all + jump-to-chapter
+    const tools=document.getElementById("tools"), jump=document.getElementById("jump");
+    if(tools){
+      data.chapters.forEach((c,idx)=>{const o=document.createElement("option");o.value="ch-"+idx;o.textContent=c.chapter;jump.appendChild(o);});
+      document.getElementById("collapseAll").onclick=()=>document.querySelectorAll("#main .chapter").forEach(s=>s.classList.remove("open"));
+      document.getElementById("expandAll").onclick=()=>document.querySelectorAll("#main .chapter").forEach(s=>s.classList.add("open"));
+      jump.onchange=()=>{const id=jump.value;if(!id)return;const el=document.getElementById(id);if(el){el.classList.add("open");el.scrollIntoView({behavior:"smooth",block:"start"});}jump.value="";};
+      tools.hidden=false;
+    }
   }
 
   const tl=(data.periods||[]).filter(p=>p.count>0);

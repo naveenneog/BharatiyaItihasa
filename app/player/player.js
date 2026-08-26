@@ -10,15 +10,31 @@ const CB = qs.get("v") || Date.now();   // cache-bust manifest + audio so re-voi
 const NATIVE = { en: "English", hi: "हिन्दी", kn: "ಕನ್ನಡ", ta: "தமிழ்", te: "తెలుగు", de: "Deutsch" };
 
 let M = null, scene = 0, runId = 0, paused = false, muted = false, musicOn = true;
+let NEXT = null, neighborsP = null;
 const audio = new Audio(); audio.preload = "auto";
 const bgs = [$("#bgA"), $("#bgB")]; let bgCur = 0, kbN = 0;
 
 async function boot() {
   if (!EP) { document.body.innerHTML = "<p style='color:#eee;padding:24px;font:16px sans-serif'>Add <b>?ep=&lt;episode-id&gt;</b> to the URL.</p>"; return; }
   M = await fetch(`${BASE}data/${EP}.player.json?v=${CB}`).then(r => r.json());
+  document.title = ((M.title_i18n && M.title_i18n[LANG]) || M.title || "Itihāsa") + " · Bhāratīya Itihāsa";
   $("#startTitle").textContent = (M.title_i18n && M.title_i18n[LANG]) || M.title;
   $("#startSub").textContent = [M.figure, M.era].filter(Boolean).join(" · ");
+  loadNeighbors();
   buildLangSel(); buildProgress(); wireControls();
+}
+
+// Fetch the gallery manifest once (non-blocking) so the end card can offer the
+// next story in reading order — turning the collection into a bingeable series.
+function loadNeighbors() {
+  neighborsP = fetch(`${BASE}data/episodes.json?v=${CB}`).then(r => r.json()).then(data => {
+    const flat = [];
+    (data.chapters || []).forEach(c => (c.parts || []).forEach(p => (p.episodes || []).forEach(e => { if (e.built) flat.push(e); })));
+    (data.periods || []).forEach(p => (p.episodes || []).forEach(e => { if (e.built) flat.push(e); }));
+    const i = flat.findIndex(e => e.id === EP);
+    NEXT = (i >= 0 && i + 1 < flat.length) ? flat[i + 1] : null;
+    return NEXT;
+  }).catch(() => { NEXT = null; });
 }
 
 function buildLangSel() {
@@ -28,7 +44,7 @@ function buildLangSel() {
     o.value = lg; o.textContent = NATIVE[lg] || lg; if (lg === LANG) o.selected = true;
     sel.appendChild(o);
   });
-  sel.onchange = () => { LANG = sel.value; $("#startTitle").textContent = (M.title_i18n && M.title_i18n[LANG]) || M.title; play(scene); };
+  sel.onchange = () => { LANG = sel.value; const t = (M.title_i18n && M.title_i18n[LANG]) || M.title; $("#startTitle").textContent = t; document.title = t + " · Bhāratīya Itihāsa"; play(scene); };
 }
 
 function buildProgress() {
@@ -51,6 +67,7 @@ function wireControls() {
     if (act === "prev") nav(-1);
     else if (act === "next") nav(1);
     else if (act === "toggle") togglePause();
+    else if (act === "home") location.href = "../index.html";
     else if (act === "mute") { muted = !muted; audio.muted = muted; $("#muteBtn").textContent = muted ? "🔇" : "🔊"; }
     else if (act === "music") { musicOn = !musicOn; if (window.Music) Music.setEnabled(musicOn); $("#musicBtn").classList.toggle("off", !musicOn); }
   });
@@ -83,11 +100,20 @@ async function play(from = 0) {
   showEnd();
 }
 
-function showEnd() {
+async function showEnd() {
   $("#layer").innerHTML = "";
   $("#endMoral").textContent = M.moral || "";
-  show("#endCard", true);
   audio.pause();
+  show("#endCard", true);
+  try { if (neighborsP) await neighborsP; } catch (e) {}
+  const nb = $("#nextBtn");
+  if (NEXT) {
+    nb.textContent = "▶ Next: " + (NEXT.figure || NEXT.title || "Next story");
+    nb.href = `index.html?ep=${NEXT.id}&lang=${LANG}`;
+    nb.classList.remove("hidden");
+  } else {
+    nb.classList.add("hidden");
+  }
 }
 
 function setBg(art, my) {
