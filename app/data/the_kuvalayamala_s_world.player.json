@@ -1,0 +1,3377 @@
+{
+  "id": "the_kuvalayamala_s_world",
+  "title": "The Kuvalayamala's World",
+  "title_i18n": {
+    "en": "The Kuvalayamala's World",
+    "hi": "कुवलयमाला की दुनिया"
+  },
+  "figure": "Uddyotana Suri",
+  "era": "Jalor social and commercial life, 778 CE",
+  "moral": "The everyday world becomes history when someone looks closely.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_kuvalayamala_s_world/intro/hero.png",
+      "name": "Uddyotana Suri",
+      "epithets": [
+        "Jain monk of Jalor",
+        "Author of Kuvalayamala",
+        "Polyglot storyteller",
+        "Observer of everyday life"
+      ],
+      "legend": "He turned forgotten everyday people into living history on palm leaves.",
+      "era": "Jalor social and commercial life, 778 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "A quiet Jain monk sits with traders, students, and teachers, and writes their lives in three tongues. Centuries of royal pride fall silent; his ink saves the people kings ignore.",
+            "hi": "शांत जैन भिक्षु व्यापारी, छात्र और गुरुओं संग बैठकर उनकी कहानियाँ तीन भाषाओं में लिखता है। सदियों की राजसी शान थम जाती है; उसकी स्याही उन लोगों को बचाती है जिन्हें राजा भूल जाते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/intro/hero_en.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "A",
+                "t": 72.0,
+                "d": 208.0
+              },
+              {
+                "w": "quiet",
+                "t": 322.0,
+                "d": 250.0
+              },
+              {
+                "w": "Jain",
+                "t": 572.0,
+                "d": 333.0
+              },
+              {
+                "w": "monk",
+                "t": 906.0,
+                "d": 291.0
+              },
+              {
+                "w": "sits",
+                "t": 1197.0,
+                "d": 333.0
+              },
+              {
+                "w": "with",
+                "t": 1531.0,
+                "d": 208.0
+              },
+              {
+                "w": "traders",
+                "t": 1739.0,
+                "d": 541.0
+              },
+              {
+                "w": "students",
+                "t": 2281.0,
+                "d": 916.0
+              },
+              {
+                "w": "and",
+                "t": 3197.0,
+                "d": 290.0
+              },
+              {
+                "w": "teachers",
+                "t": 3488.0,
+                "d": 834.0
+              },
+              {
+                "w": "and",
+                "t": 4489.0,
+                "d": 250.0
+              },
+              {
+                "w": "writes",
+                "t": 4739.0,
+                "d": 333.0
+              },
+              {
+                "w": "their",
+                "t": 5072.0,
+                "d": 208.0
+              },
+              {
+                "w": "lives",
+                "t": 5281.0,
+                "d": 375.0
+              },
+              {
+                "w": "in",
+                "t": 5656.0,
+                "d": 166.0
+              },
+              {
+                "w": "three",
+                "t": 5822.0,
+                "d": 291.0
+              },
+              {
+                "w": "tongues",
+                "t": 6114.0,
+                "d": 1541.0
+              },
+              {
+                "w": "Centuries",
+                "t": 7656.0,
+                "d": 500.0
+              },
+              {
+                "w": "of",
+                "t": 8156.0,
+                "d": 166.0
+              },
+              {
+                "w": "royal",
+                "t": 8322.0,
+                "d": 332.0
+              },
+              {
+                "w": "pride",
+                "t": 8655.0,
+                "d": 376.0
+              },
+              {
+                "w": "fall",
+                "t": 9031.0,
+                "d": 250.0
+              },
+              {
+                "w": "silent",
+                "t": 9281.0,
+                "d": 665.0
+              },
+              {
+                "w": "his",
+                "t": 10322.0,
+                "d": 332.0
+              },
+              {
+                "w": "ink",
+                "t": 10655.0,
+                "d": 292.0
+              },
+              {
+                "w": "saves",
+                "t": 10947.0,
+                "d": 375.0
+              },
+              {
+                "w": "the",
+                "t": 11322.0,
+                "d": 125.0
+              },
+              {
+                "w": "people",
+                "t": 11447.0,
+                "d": 332.0
+              },
+              {
+                "w": "kings",
+                "t": 11780.0,
+                "d": 376.0
+              },
+              {
+                "w": "ignore",
+                "t": 12196.0,
+                "d": 708.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_kuvalayamala_s_world/intro/map.png",
+      "x": 0.19,
+      "y": 0.33,
+      "label": "Jalor & Osian, western Rajasthan",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In these dusty market towns, camel caravans, school halls, and temple courts weave the busy world Uddyotana Suri listens to and writes down.",
+            "hi": "इन्हीं धूल भरे कस्बों में ऊँट काफिले, स्कूल हॉल और मंदिर चौबारों से गूंजती दुनिया को उद्योतन सूरी सुनकर लिखते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/intro/map_en.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "these",
+                "t": 310.0,
+                "d": 275.0
+              },
+              {
+                "w": "dusty",
+                "t": 586.0,
+                "d": 367.0
+              },
+              {
+                "w": "market",
+                "t": 954.0,
+                "d": 413.0
+              },
+              {
+                "w": "towns",
+                "t": 1367.0,
+                "d": 643.0
+              },
+              {
+                "w": "camel",
+                "t": 2287.0,
+                "d": 412.0
+              },
+              {
+                "w": "caravans",
+                "t": 2700.0,
+                "d": 782.0
+              },
+              {
+                "w": "school",
+                "t": 3620.0,
+                "d": 459.0
+              },
+              {
+                "w": "halls",
+                "t": 4080.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 4678.0,
+                "d": 413.0
+              },
+              {
+                "w": "temple",
+                "t": 5091.0,
+                "d": 367.0
+              },
+              {
+                "w": "courts",
+                "t": 5459.0,
+                "d": 689.0
+              },
+              {
+                "w": "weave",
+                "t": 6379.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 6747.0,
+                "d": 183.0
+              },
+              {
+                "w": "busy",
+                "t": 6931.0,
+                "d": 367.0
+              },
+              {
+                "w": "world",
+                "t": 7298.0,
+                "d": 367.0
+              },
+              {
+                "w": "Uddyotana",
+                "t": 7666.0,
+                "d": 689.0
+              },
+              {
+                "w": "Suri",
+                "t": 8356.0,
+                "d": 367.0
+              },
+              {
+                "w": "listens",
+                "t": 8724.0,
+                "d": 459.0
+              },
+              {
+                "w": "to",
+                "t": 9183.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 9642.0,
+                "d": 275.0
+              },
+              {
+                "w": "writes",
+                "t": 9918.0,
+                "d": 368.0
+              },
+              {
+                "w": "down",
+                "t": 10287.0,
+                "d": 412.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_kuvalayamala_s_world/img/cover.png",
+      "shot": "low-angle interior wide of a monk at a writing desk framed by bustling town life beyond a stone lattice",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In seven seventy-eight CE, a Jain monk named Uddyotana Suri wrote the Kuvalayamala, and quietly turned merchants, students and travelers of Jalor into history.",
+            "hi": "७७८ ई. में उद्योतनसूरी नामक जैन साधु ने कुवलयमाला लिखी—और चुपचाप जालोर के व्यापारी, विद्यार्थी और मुसाफिरों को इतिहास बना दिया।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/cover_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "seven",
+                "t": 329.0,
+                "d": 382.0
+              },
+              {
+                "w": "seventy-eight",
+                "t": 712.0,
+                "d": 638.0
+              },
+              {
+                "w": "CE",
+                "t": 1351.0,
+                "d": 595.0
+              },
+              {
+                "w": "a",
+                "t": 2202.0,
+                "d": 212.0
+              },
+              {
+                "w": "Jain",
+                "t": 2414.0,
+                "d": 340.0
+              },
+              {
+                "w": "monk",
+                "t": 2755.0,
+                "d": 424.0
+              },
+              {
+                "w": "named",
+                "t": 3223.0,
+                "d": 381.0
+              },
+              {
+                "w": "Uddyotana",
+                "t": 3605.0,
+                "d": 595.0
+              },
+              {
+                "w": "Suri",
+                "t": 4201.0,
+                "d": 511.0
+              },
+              {
+                "w": "wrote",
+                "t": 4797.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 5095.0,
+                "d": 170.0
+              },
+              {
+                "w": "Kuvalayamala",
+                "t": 5265.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 6159.0,
+                "d": 425.0
+              },
+              {
+                "w": "quietly",
+                "t": 6585.0,
+                "d": 553.0
+              },
+              {
+                "w": "turned",
+                "t": 7138.0,
+                "d": 297.0
+              },
+              {
+                "w": "merchants",
+                "t": 7436.0,
+                "d": 553.0
+              },
+              {
+                "w": "students",
+                "t": 7989.0,
+                "d": 1063.0
+              },
+              {
+                "w": "and",
+                "t": 9094.0,
+                "d": 256.0
+              },
+              {
+                "w": "travelers",
+                "t": 9351.0,
+                "d": 467.0
+              },
+              {
+                "w": "of",
+                "t": 9818.0,
+                "d": 128.0
+              },
+              {
+                "w": "Jalor",
+                "t": 9946.0,
+                "d": 510.0
+              },
+              {
+                "w": "into",
+                "t": 10457.0,
+                "d": 297.0
+              },
+              {
+                "w": "history",
+                "t": 10755.0,
+                "d": 637.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_kuvalayamala_s_world/img/p01.png",
+      "shot": "slow push-in from a map-like aerial of western India to a closer bird’s-eye over Jalor fort and town",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Under Gurjara-Pratihara suzerainty, Jalor sat on the dry edge of Rajasthan, where routes from Sindh, Gujarat, the Deccan and Bengal crossed in dust and trade.",
+            "hi": "गुर्जर-प्रतिहार अधिकार में, जालोर राजस्थान के सूखे किनारे पर था, जहाँ सिंध, गुजरात, दक्कन और बंगाल की राहें धूल और सौदे में मिलती थीं।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p01_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Under",
+                "t": 117.0,
+                "d": 340.0
+              },
+              {
+                "w": "Gurjara-Pratihara",
+                "t": 457.0,
+                "d": 936.0
+              },
+              {
+                "w": "suzerainty",
+                "t": 1478.0,
+                "d": 723.0
+              },
+              {
+                "w": "Jalor",
+                "t": 2498.0,
+                "d": 426.0
+              },
+              {
+                "w": "sat",
+                "t": 2925.0,
+                "d": 340.0
+              },
+              {
+                "w": "on",
+                "t": 3265.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 3351.0,
+                "d": 169.0
+              },
+              {
+                "w": "dry",
+                "t": 3520.0,
+                "d": 298.0
+              },
+              {
+                "w": "edge",
+                "t": 3819.0,
+                "d": 211.0
+              },
+              {
+                "w": "of",
+                "t": 4030.0,
+                "d": 170.0
+              },
+              {
+                "w": "Rajasthan",
+                "t": 4201.0,
+                "d": 809.0
+              },
+              {
+                "w": "where",
+                "t": 5351.0,
+                "d": 297.0
+              },
+              {
+                "w": "routes",
+                "t": 5648.0,
+                "d": 255.0
+              },
+              {
+                "w": "from",
+                "t": 5904.0,
+                "d": 212.0
+              },
+              {
+                "w": "Sindh",
+                "t": 6117.0,
+                "d": 425.0
+              },
+              {
+                "w": "Gujarat",
+                "t": 6797.0,
+                "d": 765.0
+              },
+              {
+                "w": "the",
+                "t": 7819.0,
+                "d": 170.0
+              },
+              {
+                "w": "Deccan",
+                "t": 7989.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 8329.0,
+                "d": 170.0
+              },
+              {
+                "w": "Bengal",
+                "t": 8500.0,
+                "d": 382.0
+              },
+              {
+                "w": "crossed",
+                "t": 8882.0,
+                "d": 381.0
+              },
+              {
+                "w": "in",
+                "t": 9264.0,
+                "d": 171.0
+              },
+              {
+                "w": "dust",
+                "t": 9436.0,
+                "d": 467.0
+              },
+              {
+                "w": "and",
+                "t": 9946.0,
+                "d": 255.0
+              },
+              {
+                "w": "trade",
+                "t": 10202.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_kuvalayamala_s_world/img/p02.png",
+      "shot": "medium street-level shot, eye-level, showing everyday bustle",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Royal inscriptions spoke of kings and conquests. The streets spoke of weighing scales, ledgers, grammars and medicines, but they left no voice of their own.",
+            "hi": "ताम्रपत्रों में राजाओं और विजयों की बातें थीं। गलियों में तराजू, बही-खाते, व्याकरण और दवा की—पर उनकी अपनी आवाज कहीं दर्ज न हुई।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p02_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Royal",
+                "t": 74.0,
+                "d": 425.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 500.0,
+                "d": 638.0
+              },
+              {
+                "w": "spoke",
+                "t": 1138.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 1521.0,
+                "d": 170.0
+              },
+              {
+                "w": "kings",
+                "t": 1691.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 2117.0,
+                "d": 212.0
+              },
+              {
+                "w": "conquests",
+                "t": 2329.0,
+                "d": 1404.0
+              },
+              {
+                "w": "The",
+                "t": 3861.0,
+                "d": 211.0
+              },
+              {
+                "w": "streets",
+                "t": 4073.0,
+                "d": 384.0
+              },
+              {
+                "w": "spoke",
+                "t": 4457.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 4797.0,
+                "d": 85.0
+              },
+              {
+                "w": "weighing",
+                "t": 4882.0,
+                "d": 340.0
+              },
+              {
+                "w": "scales",
+                "t": 5223.0,
+                "d": 765.0
+              },
+              {
+                "w": "ledgers",
+                "t": 6117.0,
+                "d": 893.0
+              },
+              {
+                "w": "grammars",
+                "t": 7138.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 7734.0,
+                "d": 170.0
+              },
+              {
+                "w": "medicines",
+                "t": 7904.0,
+                "d": 807.0
+              },
+              {
+                "w": "but",
+                "t": 9223.0,
+                "d": 212.0
+              },
+              {
+                "w": "they",
+                "t": 9436.0,
+                "d": 170.0
+              },
+              {
+                "w": "left",
+                "t": 9606.0,
+                "d": 255.0
+              },
+              {
+                "w": "no",
+                "t": 9861.0,
+                "d": 85.0
+              },
+              {
+                "w": "voice",
+                "t": 9946.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 10414.0,
+                "d": 127.0
+              },
+              {
+                "w": "their",
+                "t": 10542.0,
+                "d": 212.0
+              },
+              {
+                "w": "own",
+                "t": 10755.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_kuvalayamala_s_world/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_kuvalayamala_s_world/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From quiet cells, his insight surveys Jalor's crowded streets, weighing every voice in its lived commerce.",
+            "hi": "शांत कोशिकाओं से वह जलौर की भीड़भरी गलियों को देखता है, हर आवाज़ को उसके रोज़मर्रा के सौदे में तौलता है।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "quiet",
+                "t": 448.0,
+                "d": 413.0
+              },
+              {
+                "w": "cells",
+                "t": 862.0,
+                "d": 643.0
+              },
+              {
+                "w": "his",
+                "t": 1551.0,
+                "d": 321.0
+              },
+              {
+                "w": "insight",
+                "t": 1873.0,
+                "d": 505.0
+              },
+              {
+                "w": "surveys",
+                "t": 2379.0,
+                "d": 643.0
+              },
+              {
+                "w": "Jalor's",
+                "t": 3022.0,
+                "d": 597.0
+              },
+              {
+                "w": "crowded",
+                "t": 3620.0,
+                "d": 459.0
+              },
+              {
+                "w": "streets",
+                "t": 4080.0,
+                "d": 781.0
+              },
+              {
+                "w": "weighing",
+                "t": 5045.0,
+                "d": 551.0
+              },
+              {
+                "w": "every",
+                "t": 5597.0,
+                "d": 505.0
+              },
+              {
+                "w": "voice",
+                "t": 6103.0,
+                "d": 413.0
+              },
+              {
+                "w": "in",
+                "t": 6517.0,
+                "d": 137.0
+              },
+              {
+                "w": "its",
+                "t": 6655.0,
+                "d": 229.0
+              },
+              {
+                "w": "lived",
+                "t": 6885.0,
+                "d": 321.0
+              },
+              {
+                "w": "commerce",
+                "t": 7206.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_kuvalayamala_s_world/img/p03.png",
+      "shot": "intimate interior medium shot inside a Jain upashraya",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In such halls, the upashrayas of Jain monks, merchants and students gathered. Here, trust moved alongside doctrine, contracts, letters and knowledge bound a scattered community.",
+            "hi": "ऐसी ही जगहों, जैन उपाश्रयों में साधु, व्यापारी और विद्यार्थी जुटते थे। यहाँ भरोसा सिद्धांत के साथ चलता था—करार, खत और ज्ञान बिखरी बिरादरी को जोड़े रखते थे।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p03_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "such",
+                "t": 329.0,
+                "d": 297.0
+              },
+              {
+                "w": "halls",
+                "t": 627.0,
+                "d": 595.0
+              },
+              {
+                "w": "the",
+                "t": 1351.0,
+                "d": 255.0
+              },
+              {
+                "w": "upashrayas",
+                "t": 1606.0,
+                "d": 765.0
+              },
+              {
+                "w": "of",
+                "t": 2372.0,
+                "d": 254.0
+              },
+              {
+                "w": "Jain",
+                "t": 2626.0,
+                "d": 340.0
+              },
+              {
+                "w": "monks",
+                "t": 2967.0,
+                "d": 595.0
+              },
+              {
+                "w": "merchants",
+                "t": 3734.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 4500.0,
+                "d": 212.0
+              },
+              {
+                "w": "students",
+                "t": 4712.0,
+                "d": 468.0
+              },
+              {
+                "w": "gathered",
+                "t": 5180.0,
+                "d": 765.0
+              },
+              {
+                "w": "Here",
+                "t": 6287.0,
+                "d": 808.0
+              },
+              {
+                "w": "trust",
+                "t": 7138.0,
+                "d": 382.0
+              },
+              {
+                "w": "moved",
+                "t": 7521.0,
+                "d": 382.0
+              },
+              {
+                "w": "alongside",
+                "t": 7904.0,
+                "d": 637.0
+              },
+              {
+                "w": "doctrine",
+                "t": 8541.0,
+                "d": 596.0
+              },
+              {
+                "w": "contracts",
+                "t": 9436.0,
+                "d": 892.0
+              },
+              {
+                "w": "letters",
+                "t": 10372.0,
+                "d": 764.0
+              },
+              {
+                "w": "and",
+                "t": 11222.0,
+                "d": 298.0
+              },
+              {
+                "w": "knowledge",
+                "t": 11521.0,
+                "d": 468.0
+              },
+              {
+                "w": "bound",
+                "t": 11989.0,
+                "d": 381.0
+              },
+              {
+                "w": "a",
+                "t": 12414.0,
+                "d": 85.0
+              },
+              {
+                "w": "scattered",
+                "t": 12500.0,
+                "d": 594.0
+              },
+              {
+                "w": "community",
+                "t": 13094.0,
+                "d": 767.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_kuvalayamala_s_world/img/p04.png",
+      "shot": "over-the-shoulder close-up of writing on palm leaf",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Uddyotana Suri's Kuvalayamala flowed across Prakrit, Apabhramsha and Sanskrit. His story itself became a bridge between learned courts and speaking streets.",
+            "hi": "उद्योतनसूरी की कुवलयमाला प्राकृत, अपभ्रंश और संस्कृत में बहती है। उसकी कथा खुद ही विद्वान दरबारों और बोलती सड़कों के बीच पुल बन जाती है।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p04_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Uddyotana",
+                "t": 117.0,
+                "d": 638.0
+              },
+              {
+                "w": "Suri's",
+                "t": 755.0,
+                "d": 510.0
+              },
+              {
+                "w": "Kuvalayamala",
+                "t": 1308.0,
+                "d": 850.0
+              },
+              {
+                "w": "flowed",
+                "t": 2158.0,
+                "d": 382.0
+              },
+              {
+                "w": "across",
+                "t": 2541.0,
+                "d": 510.0
+              },
+              {
+                "w": "Prakrit",
+                "t": 3052.0,
+                "d": 553.0
+              },
+              {
+                "w": "Apabhramsha",
+                "t": 3776.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 4542.0,
+                "d": 425.0
+              },
+              {
+                "w": "Sanskrit",
+                "t": 4968.0,
+                "d": 680.0
+              },
+              {
+                "w": "His",
+                "t": 6202.0,
+                "d": 340.0
+              },
+              {
+                "w": "story",
+                "t": 6542.0,
+                "d": 425.0
+              },
+              {
+                "w": "itself",
+                "t": 6968.0,
+                "d": 468.0
+              },
+              {
+                "w": "became",
+                "t": 7436.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 7819.0,
+                "d": 85.0
+              },
+              {
+                "w": "bridge",
+                "t": 7904.0,
+                "d": 382.0
+              },
+              {
+                "w": "between",
+                "t": 8287.0,
+                "d": 381.0
+              },
+              {
+                "w": "learned",
+                "t": 8669.0,
+                "d": 340.0
+              },
+              {
+                "w": "courts",
+                "t": 9009.0,
+                "d": 426.0
+              },
+              {
+                "w": "and",
+                "t": 9436.0,
+                "d": 211.0
+              },
+              {
+                "w": "speaking",
+                "t": 9647.0,
+                "d": 384.0
+              },
+              {
+                "w": "streets",
+                "t": 10031.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_kuvalayamala_s_world/img/p05.png",
+      "shot": "slow pan across students in the upashraya",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Within his tale, he sketched schools where grammar, medicine, mathematics and commerce were taught. Monastic space doubled as classroom and counting-house.",
+            "hi": "उसकी कहानी में वह ऐसे पाठशालाएँ रचता है जहाँ व्याकरण, आयुर्वेद, गणित और व्यापार पढ़ाया जाता है। मठ का आँगन ही पाठशाला और गिनतीघर बन जाता है।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p05_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Within",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "his",
+                "t": 457.0,
+                "d": 212.0
+              },
+              {
+                "w": "tale",
+                "t": 670.0,
+                "d": 510.0
+              },
+              {
+                "w": "he",
+                "t": 1223.0,
+                "d": 297.0
+              },
+              {
+                "w": "sketched",
+                "t": 1521.0,
+                "d": 468.0
+              },
+              {
+                "w": "schools",
+                "t": 1989.0,
+                "d": 467.0
+              },
+              {
+                "w": "where",
+                "t": 2456.0,
+                "d": 213.0
+              },
+              {
+                "w": "grammar",
+                "t": 2670.0,
+                "d": 553.0
+              },
+              {
+                "w": "medicine",
+                "t": 3265.0,
+                "d": 764.0
+              },
+              {
+                "w": "mathematics",
+                "t": 4243.0,
+                "d": 809.0
+              },
+              {
+                "w": "and",
+                "t": 5053.0,
+                "d": 255.0
+              },
+              {
+                "w": "commerce",
+                "t": 5308.0,
+                "d": 425.0
+              },
+              {
+                "w": "were",
+                "t": 5734.0,
+                "d": 170.0
+              },
+              {
+                "w": "taught",
+                "t": 5904.0,
+                "d": 638.0
+              },
+              {
+                "w": "Monastic",
+                "t": 7308.0,
+                "d": 595.0
+              },
+              {
+                "w": "space",
+                "t": 7904.0,
+                "d": 382.0
+              },
+              {
+                "w": "doubled",
+                "t": 8287.0,
+                "d": 339.0
+              },
+              {
+                "w": "as",
+                "t": 8626.0,
+                "d": 171.0
+              },
+              {
+                "w": "classroom",
+                "t": 8797.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 9478.0,
+                "d": 212.0
+              },
+              {
+                "w": "counting-house",
+                "t": 9691.0,
+                "d": 851.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_kuvalayamala_s_world/img/p06.png",
+      "shot": "medium shot of merchant audience listening to the monk",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Your paths run to Sindh, to Gujarat, to distant Bengal. Let your vows run with them.",
+            "hi": "तुम्हारी राहें सिंध, गुजरात, दूर के बंगाल तक जाती हैं। तुम्हारी प्रतिज्ञाएँ भी उन्हीं राहों पर चलें।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p06_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Your",
+                "t": 49.0,
+                "d": 281.9
+              },
+              {
+                "w": "paths",
+                "t": 330.9,
+                "d": 465.7
+              },
+              {
+                "w": "run",
+                "t": 857.8,
+                "d": 306.4
+              },
+              {
+                "w": "to",
+                "t": 1164.2,
+                "d": 110.3
+              },
+              {
+                "w": "Sindh",
+                "t": 1274.5,
+                "d": 343.1
+              },
+              {
+                "w": "to",
+                "t": 1875.0,
+                "d": 61.3
+              },
+              {
+                "w": "Gujarat",
+                "t": 1936.3,
+                "d": 563.7
+              },
+              {
+                "w": "to",
+                "t": 2696.1,
+                "d": 73.5
+              },
+              {
+                "w": "distant",
+                "t": 2781.9,
+                "d": 416.7
+              },
+              {
+                "w": "Bengal",
+                "t": 3198.5,
+                "d": 563.7
+              },
+              {
+                "w": "Let",
+                "t": 4595.6,
+                "d": 245.1
+              },
+              {
+                "w": "your",
+                "t": 4853.0,
+                "d": 281.8
+              },
+              {
+                "w": "vows",
+                "t": 5134.8,
+                "d": 404.4
+              },
+              {
+                "w": "run",
+                "t": 5551.5,
+                "d": 294.1
+              },
+              {
+                "w": "with",
+                "t": 5845.6,
+                "d": 245.1
+              },
+              {
+                "w": "them",
+                "t": 6090.7,
+                "d": 392.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_kuvalayamala_s_world/img/p07.png",
+      "shot": "stylized map montage, routes glowing across the subcontinent",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Kuvalayamala's travelers move between Sindh's ports, Gujarat's towns, Rajasthan's forts, Bengal's riverine markets and the Deccan's plateaus, a web of journeys more often lost in silence.",
+            "hi": "कुवलयमाला के मुसाफिर सिंध के बंदरगाहों, गुजरात के नगरों, राजस्थान के किलों, बंगाल के नदी-बाजारों और दक्कन की मेड़ानियों में घूमते हैं—यात्राओं का जाल जो अक्सर चुप्पी में गुम हो जाता है।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p07_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "Kuvalayamala's",
+                "t": 356.0,
+                "d": 827.0
+              },
+              {
+                "w": "travelers",
+                "t": 1183.0,
+                "d": 643.0
+              },
+              {
+                "w": "move",
+                "t": 1827.0,
+                "d": 367.0
+              },
+              {
+                "w": "between",
+                "t": 2195.0,
+                "d": 413.0
+              },
+              {
+                "w": "Sindh's",
+                "t": 2609.0,
+                "d": 505.0
+              },
+              {
+                "w": "ports",
+                "t": 3114.0,
+                "d": 597.0
+              },
+              {
+                "w": "Gujarat's",
+                "t": 3758.0,
+                "d": 734.0
+              },
+              {
+                "w": "towns",
+                "t": 4493.0,
+                "d": 644.0
+              },
+              {
+                "w": "Rajasthan's",
+                "t": 5183.0,
+                "d": 873.0
+              },
+              {
+                "w": "forts",
+                "t": 6057.0,
+                "d": 689.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 6977.0,
+                "d": 735.0
+              },
+              {
+                "w": "riverine",
+                "t": 7712.0,
+                "d": 505.0
+              },
+              {
+                "w": "markets",
+                "t": 8218.0,
+                "d": 689.0
+              },
+              {
+                "w": "and",
+                "t": 8908.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 9183.0,
+                "d": 136.0
+              },
+              {
+                "w": "Deccan's",
+                "t": 9320.0,
+                "d": 460.0
+              },
+              {
+                "w": "plateaus",
+                "t": 9781.0,
+                "d": 826.0
+              },
+              {
+                "w": "a",
+                "t": 10975.0,
+                "d": 231.0
+              },
+              {
+                "w": "web",
+                "t": 11206.0,
+                "d": 275.0
+              },
+              {
+                "w": "of",
+                "t": 11482.0,
+                "d": 182.0
+              },
+              {
+                "w": "journeys",
+                "t": 11665.0,
+                "d": 506.0
+              },
+              {
+                "w": "more",
+                "t": 12172.0,
+                "d": 321.0
+              },
+              {
+                "w": "often",
+                "t": 12494.0,
+                "d": 367.0
+              },
+              {
+                "w": "lost",
+                "t": 12862.0,
+                "d": 412.0
+              },
+              {
+                "w": "in",
+                "t": 13274.0,
+                "d": 139.0
+              },
+              {
+                "w": "silence",
+                "t": 13413.0,
+                "d": 873.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_kuvalayamala_s_world/img/p08.png",
+      "shot": "wide desert caravan shot, slightly low angle",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Jain commercial communities traveled these roads as kin-networks and credit chains. Reputation and shared practice were their armor more than soldiers or royal grants.",
+            "hi": "जैन व्यापारी समाज इन रास्तों पर रिश्तों की जाल और उधार की कड़ियों बनकर चलता था। नाम और साझा रीति ही उनकी ढाल थी, न कि सिपाही या राजाज्ञा।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p08_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Jain",
+                "t": 74.0,
+                "d": 425.0
+              },
+              {
+                "w": "commercial",
+                "t": 500.0,
+                "d": 510.0
+              },
+              {
+                "w": "communities",
+                "t": 1010.0,
+                "d": 765.0
+              },
+              {
+                "w": "traveled",
+                "t": 1776.0,
+                "d": 381.0
+              },
+              {
+                "w": "these",
+                "t": 2158.0,
+                "d": 256.0
+              },
+              {
+                "w": "roads",
+                "t": 2414.0,
+                "d": 340.0
+              },
+              {
+                "w": "as",
+                "t": 2755.0,
+                "d": 254.0
+              },
+              {
+                "w": "kin-networks",
+                "t": 3009.0,
+                "d": 724.0
+              },
+              {
+                "w": "and",
+                "t": 3734.0,
+                "d": 296.0
+              },
+              {
+                "w": "credit",
+                "t": 4030.0,
+                "d": 298.0
+              },
+              {
+                "w": "chains",
+                "t": 4329.0,
+                "d": 765.0
+              },
+              {
+                "w": "Reputation",
+                "t": 5648.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 6500.0,
+                "d": 212.0
+              },
+              {
+                "w": "shared",
+                "t": 6712.0,
+                "d": 382.0
+              },
+              {
+                "w": "practice",
+                "t": 7095.0,
+                "d": 680.0
+              },
+              {
+                "w": "were",
+                "t": 7946.0,
+                "d": 212.0
+              },
+              {
+                "w": "their",
+                "t": 8159.0,
+                "d": 212.0
+              },
+              {
+                "w": "armor",
+                "t": 8372.0,
+                "d": 467.0
+              },
+              {
+                "w": "more",
+                "t": 8839.0,
+                "d": 213.0
+              },
+              {
+                "w": "than",
+                "t": 9053.0,
+                "d": 211.0
+              },
+              {
+                "w": "soldiers",
+                "t": 9264.0,
+                "d": 723.0
+              },
+              {
+                "w": "or",
+                "t": 9988.0,
+                "d": 213.0
+              },
+              {
+                "w": "royal",
+                "t": 10202.0,
+                "d": 297.0
+              },
+              {
+                "w": "grants",
+                "t": 10500.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_kuvalayamala_s_world/img/p09.png",
+      "shot": "moody interior of a royal court, medium-wide",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Gurjara-Pratihara line in Kannauj projected Vaishnava kingship. Evidence for direct Jain royal patronage is thin; urban prosperity rested more on feudatories, merchants and plural town life.",
+            "hi": "कन्नौज की गुर्जर-प्रतिहार वंशरेखा वैष्णव राजत्व दिखाती थी। जैन राजपोषण के सीधे प्रमाण कम हैं; नगरों की रौनक ज़्यादा फौजदारों, व्यापारियों और बहुधर्मी शहर-ज़िंदगी पर टिकी थी।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p09_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Gurjara-Pratihara",
+                "t": 287.0,
+                "d": 1106.0
+              },
+              {
+                "w": "line",
+                "t": 1393.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 1904.0,
+                "d": 170.0
+              },
+              {
+                "w": "Kannauj",
+                "t": 2074.0,
+                "d": 467.0
+              },
+              {
+                "w": "projected",
+                "t": 2584.0,
+                "d": 681.0
+              },
+              {
+                "w": "Vaishnava",
+                "t": 3265.0,
+                "d": 553.0
+              },
+              {
+                "w": "kingship",
+                "t": 3819.0,
+                "d": 978.0
+              },
+              {
+                "w": "Evidence",
+                "t": 4840.0,
+                "d": 553.0
+              },
+              {
+                "w": "for",
+                "t": 5393.0,
+                "d": 170.0
+              },
+              {
+                "w": "direct",
+                "t": 5563.0,
+                "d": 382.0
+              },
+              {
+                "w": "Jain",
+                "t": 5946.0,
+                "d": 340.0
+              },
+              {
+                "w": "royal",
+                "t": 6287.0,
+                "d": 255.0
+              },
+              {
+                "w": "patronage",
+                "t": 6542.0,
+                "d": 680.0
+              },
+              {
+                "w": "is",
+                "t": 7223.0,
+                "d": 170.0
+              },
+              {
+                "w": "thin",
+                "t": 7393.0,
+                "d": 765.0
+              },
+              {
+                "w": "urban",
+                "t": 8500.0,
+                "d": 424.0
+              },
+              {
+                "w": "prosperity",
+                "t": 8924.0,
+                "d": 723.0
+              },
+              {
+                "w": "rested",
+                "t": 9647.0,
+                "d": 469.0
+              },
+              {
+                "w": "more",
+                "t": 10117.0,
+                "d": 340.0
+              },
+              {
+                "w": "on",
+                "t": 10457.0,
+                "d": 170.0
+              },
+              {
+                "w": "feudatories",
+                "t": 10627.0,
+                "d": 1021.0
+              },
+              {
+                "w": "merchants",
+                "t": 11691.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 12585.0,
+                "d": 339.0
+              },
+              {
+                "w": "plural",
+                "t": 12924.0,
+                "d": 384.0
+              },
+              {
+                "w": "town",
+                "t": 13308.0,
+                "d": 297.0
+              },
+              {
+                "w": "life",
+                "t": 13606.0,
+                "d": 467.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_kuvalayamala_s_world/img/p10.png",
+      "shot": "architectural hero shot of Osian Mahavira temple, low-angle wide",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Osian and other sites, Jain temples like Mahavira's stand as stone proof of lay prosperity within Pratihara domains, built by merchant wealth, not by a Jain royal dynasty.",
+            "hi": "ओसियाँ और दूसरी जगहों पर महावीर जैसे जैन मंदिर प्रतिहार क्षेत्र में स्तंभ बनकर खड़े हैं—धार्मिक जनसमृद्धि के पत्थर सबूत, जो व्यापारी धन से उठे, न किसी जैन राजवंश से।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p10_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "Osian",
+                "t": 287.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 797.0,
+                "d": 127.0
+              },
+              {
+                "w": "other",
+                "t": 925.0,
+                "d": 212.0
+              },
+              {
+                "w": "sites",
+                "t": 1138.0,
+                "d": 595.0
+              },
+              {
+                "w": "Jain",
+                "t": 1861.0,
+                "d": 468.0
+              },
+              {
+                "w": "temples",
+                "t": 2329.0,
+                "d": 553.0
+              },
+              {
+                "w": "like",
+                "t": 2882.0,
+                "d": 254.0
+              },
+              {
+                "w": "Mahavira's",
+                "t": 3137.0,
+                "d": 553.0
+              },
+              {
+                "w": "stand",
+                "t": 3690.0,
+                "d": 382.0
+              },
+              {
+                "w": "as",
+                "t": 4073.0,
+                "d": 127.0
+              },
+              {
+                "w": "stone",
+                "t": 4201.0,
+                "d": 426.0
+              },
+              {
+                "w": "proof",
+                "t": 4627.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 5010.0,
+                "d": 170.0
+              },
+              {
+                "w": "lay",
+                "t": 5180.0,
+                "d": 255.0
+              },
+              {
+                "w": "prosperity",
+                "t": 5436.0,
+                "d": 1021.0
+              },
+              {
+                "w": "within",
+                "t": 6500.0,
+                "d": 382.0
+              },
+              {
+                "w": "Pratihara",
+                "t": 6882.0,
+                "d": 553.0
+              },
+              {
+                "w": "domains",
+                "t": 7436.0,
+                "d": 680.0
+              },
+              {
+                "w": "built",
+                "t": 8500.0,
+                "d": 382.0
+              },
+              {
+                "w": "by",
+                "t": 8882.0,
+                "d": 211.0
+              },
+              {
+                "w": "merchant",
+                "t": 9094.0,
+                "d": 426.0
+              },
+              {
+                "w": "wealth",
+                "t": 9521.0,
+                "d": 552.0
+              },
+              {
+                "w": "not",
+                "t": 10414.0,
+                "d": 381.0
+              },
+              {
+                "w": "by",
+                "t": 10796.0,
+                "d": 213.0
+              },
+              {
+                "w": "a",
+                "t": 11010.0,
+                "d": 126.0
+              },
+              {
+                "w": "Jain",
+                "t": 11137.0,
+                "d": 384.0
+              },
+              {
+                "w": "royal",
+                "t": 11521.0,
+                "d": 254.0
+              },
+              {
+                "w": "dynasty",
+                "t": 11775.0,
+                "d": 724.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "triumph",
+      "bg": "assets/the_kuvalayamala_s_world/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_kuvalayamala_s_world/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across shrines and sands he resolves to bind distant routes, rulers and markets into a single woven tale.",
+            "hi": "मंदिरों और रेगिस्तानों के पार, वो दूर के रास्तों, राजाओं और बाज़ारों को एक ही कहानी में बुनने निकल पड़ा है।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 114.0,
+                "d": 458.0
+              },
+              {
+                "w": "shrines",
+                "t": 572.0,
+                "d": 416.0
+              },
+              {
+                "w": "and",
+                "t": 989.0,
+                "d": 166.0
+              },
+              {
+                "w": "sands",
+                "t": 1156.0,
+                "d": 625.0
+              },
+              {
+                "w": "he",
+                "t": 1989.0,
+                "d": 166.0
+              },
+              {
+                "w": "resolves",
+                "t": 2156.0,
+                "d": 500.0
+              },
+              {
+                "w": "to",
+                "t": 2656.0,
+                "d": 125.0
+              },
+              {
+                "w": "bind",
+                "t": 2781.0,
+                "d": 332.0
+              },
+              {
+                "w": "distant",
+                "t": 3113.0,
+                "d": 500.0
+              },
+              {
+                "w": "routes",
+                "t": 3613.0,
+                "d": 709.0
+              },
+              {
+                "w": "rulers",
+                "t": 4364.0,
+                "d": 666.0
+              },
+              {
+                "w": "and",
+                "t": 5031.0,
+                "d": 250.0
+              },
+              {
+                "w": "markets",
+                "t": 5281.0,
+                "d": 708.0
+              },
+              {
+                "w": "into",
+                "t": 6156.0,
+                "d": 333.0
+              },
+              {
+                "w": "a",
+                "t": 6489.0,
+                "d": 41.0
+              },
+              {
+                "w": "single",
+                "t": 6531.0,
+                "d": 541.0
+              },
+              {
+                "w": "woven",
+                "t": 7072.0,
+                "d": 416.0
+              },
+              {
+                "w": "tale",
+                "t": 7489.0,
+                "d": 458.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_kuvalayamala_s_world/img/p11.png",
+      "shot": "quiet interior medium shot of a merchant seeking counsel from the monk",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Texts like the Kuvalayamala show monks as more than ascetics. They were teachers, counselors, witnesses to agreements, anchors for trust where formal law was fragmentary.",
+            "hi": "कुवलयमाला जैसे ग्रंथ दिखाते हैं कि साधु सिर्फ तपस्वी नहीं थे। वे गुरु, सलाहकार, साक्षी—जहाँ कानून टुकड़ों में था, वहाँ भरोसे के सहारे-स्तंभ थे।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p11_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Texts",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "like",
+                "t": 372.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 542.0,
+                "d": 170.0
+              },
+              {
+                "w": "Kuvalayamala",
+                "t": 712.0,
+                "d": 723.0
+              },
+              {
+                "w": "show",
+                "t": 1436.0,
+                "d": 212.0
+              },
+              {
+                "w": "monks",
+                "t": 1648.0,
+                "d": 425.0
+              },
+              {
+                "w": "as",
+                "t": 2117.0,
+                "d": 212.0
+              },
+              {
+                "w": "more",
+                "t": 2329.0,
+                "d": 211.0
+              },
+              {
+                "w": "than",
+                "t": 2541.0,
+                "d": 171.0
+              },
+              {
+                "w": "ascetics",
+                "t": 2712.0,
+                "d": 765.0
+              },
+              {
+                "w": "They",
+                "t": 3819.0,
+                "d": 254.0
+              },
+              {
+                "w": "were",
+                "t": 4073.0,
+                "d": 170.0
+              },
+              {
+                "w": "teachers",
+                "t": 4243.0,
+                "d": 852.0
+              },
+              {
+                "w": "counselors",
+                "t": 5223.0,
+                "d": 1021.0
+              },
+              {
+                "w": "witnesses",
+                "t": 6457.0,
+                "d": 595.0
+              },
+              {
+                "w": "to",
+                "t": 7053.0,
+                "d": 127.0
+              },
+              {
+                "w": "agreements",
+                "t": 7180.0,
+                "d": 978.0
+              },
+              {
+                "w": "anchors",
+                "t": 8372.0,
+                "d": 467.0
+              },
+              {
+                "w": "for",
+                "t": 8839.0,
+                "d": 170.0
+              },
+              {
+                "w": "trust",
+                "t": 9009.0,
+                "d": 426.0
+              },
+              {
+                "w": "where",
+                "t": 9436.0,
+                "d": 255.0
+              },
+              {
+                "w": "formal",
+                "t": 9691.0,
+                "d": 340.0
+              },
+              {
+                "w": "law",
+                "t": 10031.0,
+                "d": 211.0
+              },
+              {
+                "w": "was",
+                "t": 10243.0,
+                "d": 256.0
+              },
+              {
+                "w": "fragmentary",
+                "t": 10500.0,
+                "d": 807.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_kuvalayamala_s_world/img/p12.png",
+      "shot": "close-up on Uddyotana’s face, soft light, contemplative",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Yet Uddyotana did not write a manual of law. He wrapped schools, traders and travelers inside a romance, because narrative could carry social detail where bare lists could not.",
+            "hi": "फिर भी उद्योतन ने कानून की किताब नहीं लिखी। उसने पाठशाला, बनिया और मुसाफिरों को प्रेमकथा में लपेटा—क्योंकि कथा रोजमर्रा की बारीकियाँ उठा सकती थी, जहाँ सूखी सूचियाँ नहीं पहुँचतीं।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p12_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Yet",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "Uddyotana",
+                "t": 414.0,
+                "d": 680.0
+              },
+              {
+                "w": "did",
+                "t": 1095.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 1308.0,
+                "d": 297.0
+              },
+              {
+                "w": "write",
+                "t": 1606.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 1904.0,
+                "d": 42.0
+              },
+              {
+                "w": "manual",
+                "t": 1946.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 2372.0,
+                "d": 169.0
+              },
+              {
+                "w": "law",
+                "t": 2541.0,
+                "d": 510.0
+              },
+              {
+                "w": "He",
+                "t": 3393.0,
+                "d": 254.0
+              },
+              {
+                "w": "wrapped",
+                "t": 3647.0,
+                "d": 298.0
+              },
+              {
+                "w": "schools",
+                "t": 3946.0,
+                "d": 765.0
+              },
+              {
+                "w": "traders",
+                "t": 4755.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 5563.0,
+                "d": 382.0
+              },
+              {
+                "w": "travelers",
+                "t": 5946.0,
+                "d": 510.0
+              },
+              {
+                "w": "inside",
+                "t": 6457.0,
+                "d": 510.0
+              },
+              {
+                "w": "a",
+                "t": 6968.0,
+                "d": 42.0
+              },
+              {
+                "w": "romance",
+                "t": 7010.0,
+                "d": 680.0
+              },
+              {
+                "w": "because",
+                "t": 8117.0,
+                "d": 382.0
+              },
+              {
+                "w": "narrative",
+                "t": 8500.0,
+                "d": 553.0
+              },
+              {
+                "w": "could",
+                "t": 9053.0,
+                "d": 211.0
+              },
+              {
+                "w": "carry",
+                "t": 9264.0,
+                "d": 341.0
+              },
+              {
+                "w": "social",
+                "t": 9606.0,
+                "d": 467.0
+              },
+              {
+                "w": "detail",
+                "t": 10073.0,
+                "d": 681.0
+              },
+              {
+                "w": "where",
+                "t": 10755.0,
+                "d": 296.0
+              },
+              {
+                "w": "bare",
+                "t": 11052.0,
+                "d": 298.0
+              },
+              {
+                "w": "lists",
+                "t": 11351.0,
+                "d": 382.0
+              },
+              {
+                "w": "could",
+                "t": 11734.0,
+                "d": 255.0
+              },
+              {
+                "w": "not",
+                "t": 11989.0,
+                "d": 381.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_kuvalayamala_s_world/img/p13.png",
+      "shot": "dynamic montage: manuscript alongside scenes it describes",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Modern historians read his story against stone and inscription, turning its side-glances into evidence for curriculum, trade circuits, town networks and everyday expectations.",
+            "hi": "आज के इतिहासकार उसकी कथा को पत्थर और लेख के साथ मिलाकर पढ़ते हैं, उसके आड़े-तिरछे इशारों से पाठ्यक्रम, व्यापार-मार्ग, नगर-जाल और रोजमर्रा की उम्मीदें तलाशते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p13_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Modern",
+                "t": 70.0,
+                "d": 440.0
+              },
+              {
+                "w": "historians",
+                "t": 510.0,
+                "d": 640.0
+              },
+              {
+                "w": "read",
+                "t": 1150.0,
+                "d": 240.0
+              },
+              {
+                "w": "his",
+                "t": 1390.0,
+                "d": 160.0
+              },
+              {
+                "w": "story",
+                "t": 1550.0,
+                "d": 440.0
+              },
+              {
+                "w": "against",
+                "t": 1990.0,
+                "d": 479.0
+              },
+              {
+                "w": "stone",
+                "t": 2469.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 2989.0,
+                "d": 201.0
+              },
+              {
+                "w": "inscription",
+                "t": 3190.0,
+                "d": 1040.0
+              },
+              {
+                "w": "turning",
+                "t": 4430.0,
+                "d": 320.0
+              },
+              {
+                "w": "its",
+                "t": 4750.0,
+                "d": 160.0
+              },
+              {
+                "w": "side-glances",
+                "t": 4910.0,
+                "d": 640.0
+              },
+              {
+                "w": "into",
+                "t": 5550.0,
+                "d": 360.0
+              },
+              {
+                "w": "evidence",
+                "t": 5910.0,
+                "d": 480.0
+              },
+              {
+                "w": "for",
+                "t": 6390.0,
+                "d": 160.0
+              },
+              {
+                "w": "curriculum",
+                "t": 6550.0,
+                "d": 920.0
+              },
+              {
+                "w": "trade",
+                "t": 7510.0,
+                "d": 360.0
+              },
+              {
+                "w": "circuits",
+                "t": 7870.0,
+                "d": 720.0
+              },
+              {
+                "w": "town",
+                "t": 8670.0,
+                "d": 320.0
+              },
+              {
+                "w": "networks",
+                "t": 8990.0,
+                "d": 600.0
+              },
+              {
+                "w": "and",
+                "t": 9590.0,
+                "d": 280.0
+              },
+              {
+                "w": "everyday",
+                "t": 9910.0,
+                "d": 520.0
+              },
+              {
+                "w": "expectations",
+                "t": 10430.0,
+                "d": 1000.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_kuvalayamala_s_world/img/p14.png",
+      "shot": "academic-style overlay: inscription wall contrasted with bustling town scene",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Inscribed walls remember donors and kings. Texts like Kuvalayamala remember who studied, traded, healed, traveled, and how diverse religious worlds coexisted under shared urban roofs.",
+            "hi": "शिला-लेख दानियों और राजाओं को याद रखते हैं। कुवलयमाला जैसे ग्रंथ याद रखते हैं किसने पढ़ा, सौदा किया, इलाज किया, यात्रा की—और कैसे अलग-अलग धर्म-जगत एक ही शहर की छतों तले साथ रहे।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p14_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Inscribed",
+                "t": 74.0,
+                "d": 723.0
+              },
+              {
+                "w": "walls",
+                "t": 797.0,
+                "d": 808.0
+              },
+              {
+                "w": "remember",
+                "t": 1691.0,
+                "d": 510.0
+              },
+              {
+                "w": "donors",
+                "t": 2202.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 2797.0,
+                "d": 339.0
+              },
+              {
+                "w": "kings",
+                "t": 3137.0,
+                "d": 1277.0
+              },
+              {
+                "w": "Texts",
+                "t": 4542.0,
+                "d": 382.0
+              },
+              {
+                "w": "like",
+                "t": 4925.0,
+                "d": 297.0
+              },
+              {
+                "w": "Kuvalayamala",
+                "t": 5223.0,
+                "d": 680.0
+              },
+              {
+                "w": "remember",
+                "t": 5904.0,
+                "d": 680.0
+              },
+              {
+                "w": "who",
+                "t": 6585.0,
+                "d": 212.0
+              },
+              {
+                "w": "studied",
+                "t": 6797.0,
+                "d": 851.0
+              },
+              {
+                "w": "traded",
+                "t": 7648.0,
+                "d": 765.0
+              },
+              {
+                "w": "healed",
+                "t": 8414.0,
+                "d": 850.0
+              },
+              {
+                "w": "traveled",
+                "t": 9264.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 10202.0,
+                "d": 340.0
+              },
+              {
+                "w": "how",
+                "t": 10542.0,
+                "d": 297.0
+              },
+              {
+                "w": "diverse",
+                "t": 10840.0,
+                "d": 552.0
+              },
+              {
+                "w": "religious",
+                "t": 11392.0,
+                "d": 553.0
+              },
+              {
+                "w": "worlds",
+                "t": 11945.0,
+                "d": 554.0
+              },
+              {
+                "w": "coexisted",
+                "t": 12542.0,
+                "d": 936.0
+              },
+              {
+                "w": "under",
+                "t": 13478.0,
+                "d": 340.0
+              },
+              {
+                "w": "shared",
+                "t": 13819.0,
+                "d": 509.0
+              },
+              {
+                "w": "urban",
+                "t": 14372.0,
+                "d": 382.0
+              },
+              {
+                "w": "roofs",
+                "t": 14755.0,
+                "d": 722.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_kuvalayamala_s_world/img/p15.png",
+      "shot": "evening interior wide, monk finishing a manuscript as lamps are lit",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Kings may be sung in copper-plates. Let these leaves remember the rest.",
+            "hi": "राजाओं के नाम तो ताम्रपत्रों में गाए जाएँ। ये पत्ते बाकी सबको याद रखें।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p15_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kings",
+                "t": 49.0,
+                "d": 306.4
+              },
+              {
+                "w": "may",
+                "t": 355.4,
+                "d": 245.1
+              },
+              {
+                "w": "be",
+                "t": 600.5,
+                "d": 196.1
+              },
+              {
+                "w": "sung",
+                "t": 796.6,
+                "d": 330.9
+              },
+              {
+                "w": "in",
+                "t": 1201.0,
+                "d": 147.0
+              },
+              {
+                "w": "copper-plates",
+                "t": 1409.3,
+                "d": 772.0
+              },
+              {
+                "w": "Let",
+                "t": 3039.2,
+                "d": 257.3
+              },
+              {
+                "w": "these",
+                "t": 3345.6,
+                "d": 355.4
+              },
+              {
+                "w": "leaves",
+                "t": 3701.0,
+                "d": 392.2
+              },
+              {
+                "w": "remember",
+                "t": 4142.2,
+                "d": 514.7
+              },
+              {
+                "w": "the",
+                "t": 4656.9,
+                "d": 134.8
+              },
+              {
+                "w": "rest",
+                "t": 4791.7,
+                "d": 379.9
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_kuvalayamala_s_world/split_auto/s0.png",
+          "slogan": {
+            "en": "Let truth cross every frontier",
+            "hi": "सत्य हर सीमा पार करे"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_kuvalayamala_s_world/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_kuvalayamala_s_world/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With Kuvalayamala complete, his vision leaps beyond Jalor's walls, threading kingdoms, caravans and classrooms into one enduring memory.",
+            "hi": "कुवलयमाला पूरी होते ही, उसकी नज़र जलोर की दीवारों से आगे कूदती है, रियासतों, कारवाँ और पाठशालाओं को एक अमर याद में पिरोती हुई।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 72.0,
+                "d": 333.0
+              },
+              {
+                "w": "Kuvalayamala",
+                "t": 406.0,
+                "d": 750.0
+              },
+              {
+                "w": "complete",
+                "t": 1197.0,
+                "d": 750.0
+              },
+              {
+                "w": "his",
+                "t": 2322.0,
+                "d": 248.0
+              },
+              {
+                "w": "vision",
+                "t": 2571.0,
+                "d": 416.0
+              },
+              {
+                "w": "leaps",
+                "t": 2988.0,
+                "d": 417.0
+              },
+              {
+                "w": "beyond",
+                "t": 3406.0,
+                "d": 416.0
+              },
+              {
+                "w": "Jalor's",
+                "t": 3822.0,
+                "d": 541.0
+              },
+              {
+                "w": "walls",
+                "t": 4364.0,
+                "d": 750.0
+              },
+              {
+                "w": "threading",
+                "t": 5364.0,
+                "d": 416.0
+              },
+              {
+                "w": "kingdoms",
+                "t": 5781.0,
+                "d": 875.0
+              },
+              {
+                "w": "caravans",
+                "t": 6822.0,
+                "d": 916.0
+              },
+              {
+                "w": "and",
+                "t": 7781.0,
+                "d": 333.0
+              },
+              {
+                "w": "classrooms",
+                "t": 8114.0,
+                "d": 1000.0
+              },
+              {
+                "w": "into",
+                "t": 9114.0,
+                "d": 332.0
+              },
+              {
+                "w": "one",
+                "t": 9446.0,
+                "d": 376.0
+              },
+              {
+                "w": "enduring",
+                "t": 9822.0,
+                "d": 583.0
+              },
+              {
+                "w": "memory",
+                "t": 10406.0,
+                "d": 541.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_kuvalayamala_s_world/img/p16.png",
+      "shot": "time-lapse style wide shot of Jalor through centuries",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Centuries blurred kings and fortresses. But a monk's layered tale preserved the feel of Jalor's social and commercial life at one moment in seven seventy-eight CE.",
+            "hi": "सदियाँ बीतते-बीतते राजा और किले धुँधला गए। पर एक साधु की परतदार कथा ने ७७८ ई. के उस पल में जालोर की सामाजिक और व्यापारिक धड़कन बचा ली।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p16_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Centuries",
+                "t": 126.0,
+                "d": 735.0
+              },
+              {
+                "w": "blurred",
+                "t": 862.0,
+                "d": 413.0
+              },
+              {
+                "w": "kings",
+                "t": 1275.0,
+                "d": 505.0
+              },
+              {
+                "w": "and",
+                "t": 1781.0,
+                "d": 183.0
+              },
+              {
+                "w": "fortresses",
+                "t": 1965.0,
+                "d": 1332.0
+              },
+              {
+                "w": "But",
+                "t": 3482.0,
+                "d": 275.0
+              },
+              {
+                "w": "a",
+                "t": 3758.0,
+                "d": 90.0
+              },
+              {
+                "w": "monk's",
+                "t": 3849.0,
+                "d": 414.0
+              },
+              {
+                "w": "layered",
+                "t": 4264.0,
+                "d": 367.0
+              },
+              {
+                "w": "tale",
+                "t": 4632.0,
+                "d": 413.0
+              },
+              {
+                "w": "preserved",
+                "t": 5045.0,
+                "d": 551.0
+              },
+              {
+                "w": "the",
+                "t": 5597.0,
+                "d": 137.0
+              },
+              {
+                "w": "feel",
+                "t": 5735.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 6149.0,
+                "d": 229.0
+              },
+              {
+                "w": "Jalor's",
+                "t": 6379.0,
+                "d": 643.0
+              },
+              {
+                "w": "social",
+                "t": 7022.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 7620.0,
+                "d": 229.0
+              },
+              {
+                "w": "commercial",
+                "t": 7850.0,
+                "d": 505.0
+              },
+              {
+                "w": "life",
+                "t": 8356.0,
+                "d": 735.0
+              },
+              {
+                "w": "at",
+                "t": 9091.0,
+                "d": 320.0
+              },
+              {
+                "w": "one",
+                "t": 9412.0,
+                "d": 277.0
+              },
+              {
+                "w": "moment",
+                "t": 9689.0,
+                "d": 505.0
+              },
+              {
+                "w": "in",
+                "t": 10195.0,
+                "d": 228.0
+              },
+              {
+                "w": "seven",
+                "t": 10424.0,
+                "d": 414.0
+              },
+              {
+                "w": "seventy-eight",
+                "t": 10839.0,
+                "d": 689.0
+              },
+              {
+                "w": "CE",
+                "t": 11528.0,
+                "d": 504.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_kuvalayamala_s_world/img/p17.png",
+      "shot": "final contemplative close-up of the manuscript resting on a table, monk’s hand nearby",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Uddyotana Suri shows that history is not only kings and wars, it is the everyday world of learning and trade, made visible when someone chooses to look closely and to write it down.",
+            "hi": "उद्योतनसूरी दिखाते हैं कि इतिहास सिर्फ राजा और जंग नहीं होता—वह सीखने और सौदे की रोजमर्रा दुनिया भी है, जो तभी दिखती है जब कोई उसे गौर से देखकर लिख दे।"
+          },
+          "audio": {
+            "en": "assets/the_kuvalayamala_s_world/audio/en/p17_0.mp3",
+            "hi": "assets/the_kuvalayamala_s_world/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Uddyotana",
+                "t": 202.0,
+                "d": 510.0
+              },
+              {
+                "w": "Suri",
+                "t": 712.0,
+                "d": 382.0
+              },
+              {
+                "w": "shows",
+                "t": 1095.0,
+                "d": 425.0
+              },
+              {
+                "w": "that",
+                "t": 1521.0,
+                "d": 212.0
+              },
+              {
+                "w": "history",
+                "t": 1734.0,
+                "d": 553.0
+              },
+              {
+                "w": "is",
+                "t": 2287.0,
+                "d": 169.0
+              },
+              {
+                "w": "not",
+                "t": 2456.0,
+                "d": 256.0
+              },
+              {
+                "w": "only",
+                "t": 2712.0,
+                "d": 296.0
+              },
+              {
+                "w": "kings",
+                "t": 3009.0,
+                "d": 384.0
+              },
+              {
+                "w": "and",
+                "t": 3393.0,
+                "d": 126.0
+              },
+              {
+                "w": "wars",
+                "t": 3520.0,
+                "d": 767.0
+              },
+              {
+                "w": "it",
+                "t": 4414.0,
+                "d": 170.0
+              },
+              {
+                "w": "is",
+                "t": 4585.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 4712.0,
+                "d": 127.0
+              },
+              {
+                "w": "everyday",
+                "t": 4840.0,
+                "d": 638.0
+              },
+              {
+                "w": "world",
+                "t": 5478.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 5946.0,
+                "d": 255.0
+              },
+              {
+                "w": "learning",
+                "t": 6202.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 6755.0,
+                "d": 255.0
+              },
+              {
+                "w": "trade",
+                "t": 7010.0,
+                "d": 595.0
+              },
+              {
+                "w": "made",
+                "t": 8117.0,
+                "d": 382.0
+              },
+              {
+                "w": "visible",
+                "t": 8500.0,
+                "d": 679.0
+              },
+              {
+                "w": "when",
+                "t": 9351.0,
+                "d": 255.0
+              },
+              {
+                "w": "someone",
+                "t": 9606.0,
+                "d": 467.0
+              },
+              {
+                "w": "chooses",
+                "t": 10073.0,
+                "d": 426.0
+              },
+              {
+                "w": "to",
+                "t": 10500.0,
+                "d": 127.0
+              },
+              {
+                "w": "look",
+                "t": 10627.0,
+                "d": 297.0
+              },
+              {
+                "w": "closely",
+                "t": 10925.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 11734.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 11989.0,
+                "d": 126.0
+              },
+              {
+                "w": "write",
+                "t": 12115.0,
+                "d": 255.0
+              },
+              {
+                "w": "it",
+                "t": 12371.0,
+                "d": 85.0
+              },
+              {
+                "w": "down",
+                "t": 12456.0,
+                "d": 511.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Uddyotana Suri",
+    "epithets": [
+      "Jain monk of Jalor",
+      "Author of Kuvalayamala",
+      "Polyglot storyteller",
+      "Observer of everyday life"
+    ],
+    "legend": "He turned forgotten everyday people into living history on palm leaves."
+  }
+}
