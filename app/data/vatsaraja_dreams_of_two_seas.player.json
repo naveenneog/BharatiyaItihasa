@@ -801,6 +801,139 @@
       ]
     },
     {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/vatsaraja_dreams_of_two_seas/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/vatsaraja_dreams_of_two_seas/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From quiet maps and lamplit councils, the young Pratihara lord tests his resolve upon the waking stones of Rajasthan.",
+            "hi": "शांत नक्शों और दीयों वाली बैठकों से निकलकर युवा प्रतिहार राजकुमार अपनी हिम्मत राजस्थान की जागती चट्टानों पर आज़माता है।"
+          },
+          "audio": {
+            "en": "assets/vatsaraja_dreams_of_two_seas/audio/action/action_auto_en.mp3",
+            "hi": "assets/vatsaraja_dreams_of_two_seas/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Steel",
+                "t": 70.0,
+                "d": 400.0
+              },
+              {
+                "w": "flashes",
+                "t": 470.0,
+                "d": 400.0
+              },
+              {
+                "w": "and",
+                "t": 870.0,
+                "d": 120.0
+              },
+              {
+                "w": "hooves",
+                "t": 990.0,
+                "d": 360.0
+              },
+              {
+                "w": "drum",
+                "t": 1350.0,
+                "d": 360.0
+              },
+              {
+                "w": "as",
+                "t": 1710.0,
+                "d": 280.0
+              },
+              {
+                "w": "Vatsaraja",
+                "t": 1990.0,
+                "d": 799.0
+              },
+              {
+                "w": "urges",
+                "t": 2789.0,
+                "d": 361.0
+              },
+              {
+                "w": "his",
+                "t": 3150.0,
+                "d": 159.0
+              },
+              {
+                "w": "riders",
+                "t": 3309.0,
+                "d": 480.0
+              },
+              {
+                "w": "across",
+                "t": 3789.0,
+                "d": 441.0
+              },
+              {
+                "w": "Malwa's",
+                "t": 4230.0,
+                "d": 520.0
+              },
+              {
+                "w": "waters",
+                "t": 4750.0,
+                "d": 680.0
+              },
+              {
+                "w": "toward",
+                "t": 5470.0,
+                "d": 360.0
+              },
+              {
+                "w": "the",
+                "t": 5830.0,
+                "d": 160.0
+              },
+              {
+                "w": "open",
+                "t": 5990.0,
+                "d": 400.0
+              },
+              {
+                "w": "eastern",
+                "t": 6390.0,
+                "d": 400.0
+              },
+              {
+                "w": "plains",
+                "t": 6790.0,
+                "d": 640.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "p03",
       "art": "assets/vatsaraja_dreams_of_two_seas/img/p03.png",
       "shot": "transition montage wide, overlaying textless Jain manuscript imagery with a riding column",
@@ -1563,139 +1696,6 @@
                 "w": "Bengal",
                 "t": 12430.0,
                 "d": 600.0
-              }
-            ],
-            "hi": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "action_auto",
-      "type": "action",
-      "mood": "battle",
-      "bg": "assets/vatsaraja_dreams_of_two_seas/action_auto/bg.png",
-      "chars": [
-        {
-          "img": "assets/vatsaraja_dreams_of_two_seas/action_auto/char0.png",
-          "motion": {
-            "fromX": -40,
-            "toX": -10,
-            "fromScale": 0.82,
-            "toScale": 1.03,
-            "rot": -2,
-            "dur": 7200
-          }
-        }
-      ],
-      "motion": {
-        "bgZoom": 1.12,
-        "bgPan": -6,
-        "dur": 7200
-      },
-      "lines": [
-        {
-          "type": "narration",
-          "role": "narrator",
-          "text": {
-            "en": "Steel flashes and hooves drum as Vatsaraja urges his riders across Malwa's waters toward the open eastern plains.",
-            "hi": "चमकती तलवारें, गूंजते खुर — वत्सराज अपने सवारों को मलवा की नदियाँ पार कर खुले पूरबी मैदानों की ओर हाँकता है।"
-          },
-          "audio": {
-            "en": "assets/vatsaraja_dreams_of_two_seas/audio/action/action_auto_en.mp3",
-            "hi": "assets/vatsaraja_dreams_of_two_seas/audio/action/action_auto_hi.mp3"
-          },
-          "words": {
-            "en": [
-              {
-                "w": "Steel",
-                "t": 70.0,
-                "d": 400.0
-              },
-              {
-                "w": "flashes",
-                "t": 470.0,
-                "d": 400.0
-              },
-              {
-                "w": "and",
-                "t": 870.0,
-                "d": 120.0
-              },
-              {
-                "w": "hooves",
-                "t": 990.0,
-                "d": 360.0
-              },
-              {
-                "w": "drum",
-                "t": 1350.0,
-                "d": 360.0
-              },
-              {
-                "w": "as",
-                "t": 1710.0,
-                "d": 280.0
-              },
-              {
-                "w": "Vatsaraja",
-                "t": 1990.0,
-                "d": 799.0
-              },
-              {
-                "w": "urges",
-                "t": 2789.0,
-                "d": 361.0
-              },
-              {
-                "w": "his",
-                "t": 3150.0,
-                "d": 159.0
-              },
-              {
-                "w": "riders",
-                "t": 3309.0,
-                "d": 480.0
-              },
-              {
-                "w": "across",
-                "t": 3789.0,
-                "d": 441.0
-              },
-              {
-                "w": "Malwa's",
-                "t": 4230.0,
-                "d": 520.0
-              },
-              {
-                "w": "waters",
-                "t": 4750.0,
-                "d": 680.0
-              },
-              {
-                "w": "toward",
-                "t": 5470.0,
-                "d": 360.0
-              },
-              {
-                "w": "the",
-                "t": 5830.0,
-                "d": 160.0
-              },
-              {
-                "w": "open",
-                "t": 5990.0,
-                "d": 400.0
-              },
-              {
-                "w": "eastern",
-                "t": 6390.0,
-                "d": 400.0
-              },
-              {
-                "w": "plains",
-                "t": 6790.0,
-                "d": 640.0
               }
             ],
             "hi": []
@@ -2926,8 +2926,8 @@
           "type": "narration",
           "role": "narrator",
           "text": {
-            "en": "Amid dust and clash, Vatsaraja anchors his wavering flank, his stance alone holding the Pratihara line together.",
-            "hi": "धूल और टकराव के बीच, वत्सराज डगमगाती फौज जमाए, अकेली अड़ा दे गुर्जर प्रतिहारों की पंक्ति।"
+            "en": "Amid Rashtrakuta steel and thunder, Vatsaraja anchors his faltering wings, carving order from the storm of clashing empires.",
+            "hi": "राष्ट्रकूटों की लोहे-सी गरज के बीच, वत्सराज अपनी डगमगाती उड़ान संभालता है, टकराती सल्तनतों के तूफ़ान में राह बनाता है।"
           },
           "audio": {
             "en": "assets/vatsaraja_dreams_of_two_seas/audio/action/action_auto2_en.mp3",
@@ -3514,6 +3514,138 @@
                 "w": "victory",
                 "t": 3020.8,
                 "d": 463.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/vatsaraja_dreams_of_two_seas/split_auto/s0.png",
+          "slogan": {
+            "en": "Stand firm, guard the frontier",
+            "hi": "सीमा पर अडिग खड़े रहो"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/vatsaraja_dreams_of_two_seas/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/vatsaraja_dreams_of_two_seas/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From desert ramparts his legacy stretches east and south, a hard-won frontier shaping the struggle of future kings.",
+            "hi": "रेगिस्तानी दुर्गों से उसकी विरासत दूर पूरब–दक्षिण तक फैली, वही कठिन सरहद आगे के राजाओं की जंग तय करेगी।"
+          },
+          "audio": {
+            "en": "assets/vatsaraja_dreams_of_two_seas/audio/split/split_auto_en.mp3",
+            "hi": "assets/vatsaraja_dreams_of_two_seas/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 333.0
+              },
+              {
+                "w": "desert",
+                "t": 406.0,
+                "d": 416.0
+              },
+              {
+                "w": "ramparts",
+                "t": 822.0,
+                "d": 791.0
+              },
+              {
+                "w": "his",
+                "t": 1656.0,
+                "d": 250.0
+              },
+              {
+                "w": "legacy",
+                "t": 1906.0,
+                "d": 458.0
+              },
+              {
+                "w": "stretches",
+                "t": 2364.0,
+                "d": 623.0
+              },
+              {
+                "w": "east",
+                "t": 2988.0,
+                "d": 417.0
+              },
+              {
+                "w": "and",
+                "t": 3406.0,
+                "d": 250.0
+              },
+              {
+                "w": "south",
+                "t": 3656.0,
+                "d": 541.0
+              },
+              {
+                "w": "a",
+                "t": 4739.0,
+                "d": 166.0
+              },
+              {
+                "w": "hard-won",
+                "t": 4906.0,
+                "d": 458.0
+              },
+              {
+                "w": "frontier",
+                "t": 5364.0,
+                "d": 500.0
+              },
+              {
+                "w": "shaping",
+                "t": 5864.0,
+                "d": 458.0
+              },
+              {
+                "w": "the",
+                "t": 6322.0,
+                "d": 125.0
+              },
+              {
+                "w": "struggle",
+                "t": 6447.0,
+                "d": 458.0
+              },
+              {
+                "w": "of",
+                "t": 6906.0,
+                "d": 83.0
+              },
+              {
+                "w": "future",
+                "t": 6989.0,
+                "d": 416.0
+              },
+              {
+                "w": "kings",
+                "t": 7406.0,
+                "d": 625.0
               }
             ],
             "hi": []
