@@ -1457,6 +1457,33 @@ The great northern imperial house of the "tripartite struggle" — the *pratihā
 12. **Mahipala and the Cracking Samanta Web** ✅ — Kannauj retaken after Indra III's sack, but the feudatory web begins to pull itself apart. *(decline; structure)*
 13. **Rajyapala's Flight and the Fall of Kannauj** ✅ — Ghazni's 1018 raid stated plainly (Utbi flagged), yet Rajyapala killed by the Hindu Chandela Vidyadhara; fracture, not one invasion. *(fall; hard truth, non-communal)*
 
+## 🏝️ The Maitrakas of Vallabhi  *(c. 475–776 CE — the Saurashtra sea-kingdom of scholars and merchants)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The Maitraka house of Vallabhi — a Saurashtra kingdom founded by a *senapati* of the falling Guptas that became one of early-medieval India's great centres of trade and learning — reconstructed almost entirely from its own copper-plate charters, the pilgrim-records of Xuanzang and Yijing, and outside chronicles, with the project's source-critical spine: royal titles read as claims, achievement neither inflated nor invented, the sea-borne Arab raids stated as fact yet answered by a documented Indian victory, and the dynasty's end left honestly unscripted where the evidence stops.
+
+**Foundations & the royal title**
+1. **The Senapati Who Did Not Bow** ✅ — Bhatarka, a Gupta general, turns a frontier command into a kingdom as the empire recedes; power built, not proclaimed. *(origins)*
+2. **Dronasimha Writes Maharaja in Copper** ✅ — the first Maitraka to take the Maharaja title, read from the copper-plate charters that are the dynasty's real archive. *(source-criticism)*
+
+**A capital of learning**
+3. **Sthiramati Builds a Monastery of the Mind** ✅ — the Yogachara Buddhist philosopher and Vallabhi's rise as a western rival to Nalanda. *(scholarship)*
+4. **Vallabhi, the University of the Western Sea** ✅ — the great learning centre through Xuanzang & Yijing, with the archaeological gap honestly admitted. *(scholarship; historiography)*
+5. **Bhatti Turns Grammar into an Epic** ✅ — the *Bhattikavya* that teaches Panini's grammar by retelling the Ramayana; patron-uncertainty stated. *(innovation — literature)*
+6. **Devarddhigani Saves the Agamas in Ink** ✅ — the Vallabhi Jain council that first wrote down the oral Svetambara Agamas; the Kalpasutra tradition cross-read with modern scholars. *(innovation — textual preservation)*
+
+**Kings, alliances & the world**
+7. **Siladitya the Compassionate King** ✅ — Siladitya I Dharmaditya; the grants read as royal patronage, NOT as a modern "policy of tolerance." *(source-criticism; anti-anachronism)*
+8. **Dhruvasena Marries into Harsha's World** ✅ — the c. 641 CE Harsha alliance framed as statecraft not romance, a "subordinate partner, not a dispossessed prince." *(politics)*
+
+**The innovation of commerce & number**
+9. **Silver Drachms on the Gulf of Cambay** ✅ — the Maitraka mint-masters and the Bharuch–Cambay trade; a portrait-and-trident drachm read with Andre Wink & Georges Ifrah. *(innovation — numismatics/economy)*
+10. **The Merchants Who Paid for Monasteries** ✅ — merchant endowments that funded Vallabhi's university; cites D.C. Sircar, Hartmut Scharfe, Yijing; evidence-gaps admitted. *(innovation — social/economic)*
+11. **The Numerals in Vallabhi's Ledgers** ✅ — the anonymous accountants and the evolving Indian numerals; cites Kim Plofker & Ifrah to REFUSE the "invented zero" myth — Vallabhi one node in a multi-regional chain. *(innovation — mathematics; exemplary honesty)*
+
+**The sea-frontier & the silence**
+12. **The Sea Brings the First Arab Raids** ✅ — Siladitya IV and governor Junayd; the Umayyad raids (al-Baladhuri) and the decisive c. 739 CE Chalukya victory at Navsari (Navsari grant + Blankinship), the two never meeting in a recorded battle. *(resistance; hard truth)*
+13. **The Last Copper Plate of Vallabhi** ✅ — Siladitya VI's last dated grant (c. 776 CE) "records a grant, not a siege"; the Arab-destruction narrative attributed to later Jain/folk tradition — "honesty begins where evidence ends." *(historiography capstone)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
