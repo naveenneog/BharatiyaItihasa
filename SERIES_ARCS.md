@@ -1436,6 +1436,27 @@ Thirteen era-defining battles that formed or ended dynasties — built as source
 12. **The Legend at the Dargah** ✅ — Suheldev vs Salar Masud at Bahraich, a contested legend and its shrine (Mirat-i-Masudi, six centuries later).
 13. **The Last King on the Yamuna** ✅ — Jaichand vs Muhammad of Ghor at Chandawar, Hasan Nizami's record (incl. the Kashi temple destruction) vs the Gahadavala silence.
 
+## 🐗 The Gurjara-Pratiharas of Kannauj  *(Early medieval — c. 725–1036 CE, Rajasthan-Malwa to the Kannauj throne-city)*  — **✅ CHAPTER COMPLETE (13/13)**
+The great northern imperial house of the "tripartite struggle" — the *pratihāra* ("doorkeepers") who rose from a contested frontier to hold Kannauj, told from panegyric prashastis cross-read against coins, inscriptions, Arab travellers and their own Sanskrit letters. Every story is ≥15 scenes, voiced en+हिंदी with emotion, hero+map intro, animated action beats + a 3-band montage — and every claim is weighed, with the fall of Kannauj framed non-communally.
+**Origins & the frontier**
+1. **Who Were the Pratiharas?** ✅ — a frontier dynasty explains itself in stone and Sanskrit; the Ramayana-descent read as legitimation, the Jalor-Bhinmal vs Ujjain origin debate left open. *(origins; source-criticism)*
+2. **Nagabhata at the Edge of Empires** ✅ — the Arab-Sindh frontier wars as imperial politics, not a civilisational war; no "saved India." *(frontier; historiography)*
+**Imperial ambition**
+3. **Vatsaraja Dreams of Two Seas** ✅ — the first all-India ambition, a momentary humbling of Dharmapala, then Rashtrakuta Dhruva's hard reversal. *(expansion)*
+4. **Three Kings, One City** ✅ — Pratiharas, Palas and Rashtrakutas chase Kannauj; the "tripartite struggle" read across three self-praising archives. *(wars; source-criticism)*
+5. **Nagabhata II Rebuilds the Western Watch** ✅ — recovery after defeat, the Somanatha restoration two centuries before 1025, temple-and-route legitimacy. *(recovery; rule)*
+**The zenith**
+6. **Mihira Bhoja the Adivaraha Emperor** ✅ — the ~50-year reign seen even from across the sea (Sulaiman al-Tajir), with the c. 880 Rashtrakuta setback kept in. *(zenith)*
+7. **The Boar on the Coin** ✅ — the billon Adivaraha drammas as economy + political theology at once (Deyell's silver-shortage world). *(innovation — coinage/economy)*
+**A court of letters & stone**
+8. **Rajashekhara and Avantisundari at Kannauj** ✅ — a court of poetry and theory that named a woman, Avantisundari, a learned equal. *(court; women)*
+9. **Teli-ka-Mandir Breaks the Rules** ✅ — Gwalior builders fuse Nagara tower + Valabhi vault; the unnamed *sthapatis* credited, Bateshwar's ASI reassembly logged. *(innovation — architecture; labour)*
+10. **The Kuvalayamala's World** ✅ — a trilingual Jain narrative preserves merchants, schools and trust-networks the inscriptions leave invisible. *(innovation — social/economic)*
+11. **Kavyamimamsa Builds an Empire of Words** ✅ — Rajashekhara turns poetics into a science of culture; borrowing-as-theory (not copyright), a court mapping its reach. *(innovation — scholarship)*
+**The long fracture**
+12. **Mahipala and the Cracking Samanta Web** ✅ — Kannauj retaken after Indra III's sack, but the feudatory web begins to pull itself apart. *(decline; structure)*
+13. **Rajyapala's Flight and the Fall of Kannauj** ✅ — Ghazni's 1018 raid stated plainly (Utbi flagged), yet Rajyapala killed by the Hindu Chandela Vidyadhara; fracture, not one invasion. *(fall; hard truth, non-communal)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
