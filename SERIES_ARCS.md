@@ -1509,6 +1509,31 @@ The long-lived Karnataka house that ruled Gangavadi from Talakad on the Kaveri a
 12. **Ranna Finds a Kannada Voice** ✅ — Ranna, one of the "three gems" of Kannada (with Pampa & Ponna), *Ajita Purana* & *Sahasa Bhima Vijaya* — with the honest note that the three served different courts, not one Ganga patron. *(innovation — literature)*
 13. **The Gavundas Keep the Fields** ✅ — the anonymous *gavunda* village-headmen who actually held Gangavadi's land, tanks and law, from hero-stones & land-grants (Noboru Karashima, S. Settar); eulogistic stone-praise read as hiding "every fear." *(social history; exemplary honesty)*
 
+## ⚔️ The Chahamanas and Prithviraj Chauhan  *(Early medieval — c. 6th c.–1192 CE, Shakambhari/Sambhar → Ajmer, eastern Rajasthan)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The Rajasthan house that rose from Pratihara feudatories at the Sambhar salt lake to the Ajmer kingdom of Prithviraj III, who met Muhammad of Ghor at Tarain — reconstructed with the project's sharpest source-critical care, because this is its most myth-encrusted episode. The two battles of Tarain are held apart, Prithviraj is captured (not martyred), the *Prithviraj Raso*'s revenge-legend is debunked, temple-desecration at Ajmer is stated plainly and attributed to the named Persian chronicle, and "last Hindu emperor" is named a modern construction — with two full stories devoted to how the evidence itself is weighed.
+
+**Foundations at the Salt Lake**
+1. **Vasudeva and the Salt Lake Kingdom** ✅ — the legendary founder Vasudeva and the Sambhar (Shakambhari) origin; the origin-story kept as legend, not dated fact. *(origins; source-criticism)*
+2. **Simharaja Takes the Title of Kings** ✅ — Simharaja, the first Chahamana to assume a sovereign royal title as Pratihara overlordship weakened; subordinate-to-independent transition told plainly. *(rule; hard truth)*
+3. **Ajayaraja Founds the Hill of Ajmer** ✅ — Ajayaraja II founds Ajayameru (Ajmer, early 12th c.); his queen **Somalekha named on the silver *Ajayaraja dramma*** — a woman on the coinage. *(foundation; economy/gender)*
+4. **Arnoraja and the Lake of Ana Sagar** ✅ — Arnoraja raises the Ana Sagar lake at Ajmer and fights the Chaulukyas of Gujarat; wars with a neighbouring *Hindu* power told without spin. *(rule; waterworks)*
+
+**The poet-king & the realm's wealth**
+5. **Vigraharaja the Poet-King in Stone** ✅ — Vigraharaja IV Visaladeva and his Sanskrit drama *Harakeli-Nataka* carved onto Ajmer stone (later built into the Adhai-din-ka-Jhonpra); a king who was a playwright. *(innovation — literature)*
+6. **Vigraharaja Wins Delhi and the Pillar Edict** ✅ — Vigraharaja IV's conquests and the Delhi–Topra pillar inscription (1163 CE); his descent fixed as the **son (not grandson) of Arnoraja** in a mid-chapter QA correction. *(rule; accuracy fix)*
+7. **The Salt of Sambhar and the Silver Dramma** ✅ — the Sambhar salt-lake economy and the bull-and-horseman silver *dramma* as the material base of Chahamana power. *(innovation — economy)*
+8. **The Cliff of Bijolia and the Temples of Ajmer** ✅ — the Chahamana **queens as patrons** (Somalekha's stepwell, Rudrani's Pushkar lingams per the *Prithviraja-Vijaya*) and multi-faith Shaiva/Vaishnava/Jain endowment as statecraft; the Bijolia rock inscription (1170 CE) as record. *(social/gender history; architecture)*
+
+**Prithviraj III**
+9. **The Boy-King and His Regents** ✅ — Prithviraj III's minority under regents Karpuradevi & Kadambavasa (Madanpur inscription); the Jejakabhukti campaign called a **raid, not a conquest**, and the Alha-Udal cycle flagged as later folk-epic. *(rule; source-criticism)*
+10. **Tarain and the Fate of the Last Chahamana** ✅ — the **First Battle of Tarain (1191)**, Ghori wounded by the Tomara vassal Govind Rai, and the **Second (1192)**, where Prithviraj is **captured alive and later executed** — the Persian and Sanskrit accounts left in honest tension, martyr-legend refused. *(battle; hard truth)*
+11. **The Fall of Ajmer and the Last Resistance** ✅ — the **son Govindaraja installed as a Ghurid vassal** (collaboration stated) set against the **brother Hariraja's revolt**; temple-desecration and the Adhai-din-ka-Jhonpra told plainly from the named *Taj-ul-Maasir*, with ASI-documented reused Sanskrit slabs cited. *(resistance; hard truth, non-communal)*
+
+**How we know — the sources themselves**
+12. **How the Prithviraj Raso Grew** ✅ — the *Prithviraj Raso* traced from its earliest manuscript (c. 1610) through accreted romance; the *Raso* revenge-tale debunked (Ghori died 1206) and "last Hindu emperor" named a **modern print-era construction**. *(historiography; exemplary honesty)*
+13. **Jayanaka and the Sources We Trust** ✅ — Jayanaka's *Prithviraja-Vijaya* (c. 1191) set against the Persian *Taj-ul-Maasir* — the same envoy villain in one tongue, courtly in another — and the whole evidence-base ranked by Cynthia Talbot's method; "honesty begins where the evidence runs out." *(historiography; the mandate at its purest)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
