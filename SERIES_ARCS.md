@@ -1484,6 +1484,31 @@ The Maitraka house of Vallabhi — a Saurashtra kingdom founded by a *senapati* 
 12. **The Sea Brings the First Arab Raids** ✅ — Siladitya IV and governor Junayd; the Umayyad raids (al-Baladhuri) and the decisive c. 739 CE Chalukya victory at Navsari (Navsari grant + Blankinship), the two never meeting in a recorded battle. *(resistance; hard truth)*
 13. **The Last Copper Plate of Vallabhi** ✅ — Siladitya VI's last dated grant (c. 776 CE) "records a grant, not a siege"; the Arab-destruction narrative attributed to later Jain/folk tradition — "honesty begins where evidence ends." *(historiography capstone)*
 
+## 🧘 The Western Ganga Dynasty and Shravanabelagola  *(Ancient → early medieval — c. 350–1004 CE, Gangavadi-96000 & southern Karnataka)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The long-lived Karnataka house that ruled Gangavadi from Talakad on the Kaveri and made Shravanabelagola a capital of Jain art and letters — reconstructed from its own copper-plates, hero-stones and *nishidhi* memorials, honest at every step about the gap between inscriptional panegyric and record. Long spells as a Rashtrakuta feudatory are stated plainly, the innovation of mathematics/Kannada prose/monolithic sculpture is weighed equally with rule, and the fall to the Cholas is told from the sources with the victor's eulogies flagged as such.
+
+**Foundations & the Gangavadi realm**
+1. **Konganivarman Claims Gangavadi** ✅ — the founder Konganivarman Madhava (c. 350 CE) carving a realm from the post-Kadamba Deccan; the origin-story kept as legend, not dated fact. *(origins; source-criticism)*
+2. **Talakad on the Kaveri Sand** ✅ — the Ganga capital told through its *court* as a collective figure, NOT an invented ruler (an earlier hallucinated king was caught and replaced in QA). *(capital; historiographical honesty)*
+
+**The scholar-kings**
+3. **Durvinita Reads the Great Poets** ✅ — Durvinita (r. c. 529–579), the warrior-grammarian king and patron of Sanskrit letters. *(scholarship; rule)*
+4. **Sripurusha and the Elephant Science** ✅ — Sripurusha (r. c. 726–788, *Permanadi*) and the Ganga *Gajashastra*, elephant-lore as statecraft and science. *(innovation — zoology/warcraft)*
+5. **Shivamara Writes from Captivity** ✅ — Shivamara II composing on elephant-management (the *Gajashtaka* tradition) through Rashtrakuta captivity; subordination told plainly. *(innovation; hard truth)*
+
+**War, subordination & the end**
+6. **Butuga Strikes at Takkolam** ✅ — Butuga II kills the Chola crown-prince Rajaditya at Takkolam (949) with an **arrow**, from the Atakur victory-inscription; the weapon corrected from an earlier "spear" error per the sources. *(battle; accuracy fix)*
+7. **Marasimha's Last Fast** ✅ — Marasimha II Satyavakya (r. c. 963–975), Rashtrakuta feudatory-general, ending his life by *sallekhana* at Bankapura (975), handled as documented Jain ritual with the modern debate surfaced. *(source-criticism; faith)*
+8. **Rajaraja Takes Talakad** ✅ — Rajaraja Chola I's conquest of Gangavadi (c. 1004) and the last strong king Rakkasa Ganga; the Tamil *meikkīrti* eulogies flagged as the victor's propaganda (Burton Stein). *(fall; hard truth)*
+
+**Faith in stone & the Kannada voice**
+9. **Chavundaraya Raises Bahubali** ✅ — the general-minister Chavundaraya and the 57-foot Gommateshwara monolith at Shravanabelagola (c. 981); grandeur described without myth-making, cites S. Settar & Julia Hegewald. *(art; achievement)*
+10. **Chavundaraya Writes the Purana** ✅ — the *Chavundaraya Purana* (c. 978) as a landmark of early Kannada prose; credits the contemporary Nemichandra & the *Gommatasara*, weighs authorship with T.V. Venkatachala Sastry & Sheldon Pollock. *(innovation — literature)*
+11. **Mahavira Makes Numbers Practical** ✅ — Mahaviracharya's *Ganita-Sara-Sangraha* (c. 850, under Amoghavarsha I): combinatorics, geometry and zero, one voice that Bhaskara II later cites and corrects. *(innovation — mathematics)*
+12. **Ranna Finds a Kannada Voice** ✅ — Ranna, one of the "three gems" of Kannada (with Pampa & Ponna), *Ajita Purana* & *Sahasa Bhima Vijaya* — with the honest note that the three served different courts, not one Ganga patron. *(innovation — literature)*
+13. **The Gavundas Keep the Fields** ✅ — the anonymous *gavunda* village-headmen who actually held Gangavadi's land, tanks and law, from hero-stones & land-grants (Noboru Karashima, S. Settar); eulogistic stone-praise read as hiding "every fear." *(social history; exemplary honesty)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
