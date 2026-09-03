@@ -24,18 +24,36 @@ CHAPTER_BLURB = {"The Chola Empire": "A Tamil empire of temples, bronze, trade a
 
 
 def parse_year(era):
+    """Approximate a sortable year from a free-text era string.
+
+    Understands single or plural 'century'/'centuries', BCE/CE markers, decade
+    notation (e.g. '1420s') and ranges (e.g. '6th-4th centuries BCE',
+    'c. 1420s-1440s CE', 'c. 40-70 CE'). For a range the EARLIEST bound is used so
+    a story sorts by when its era begins. Returns a signed year (BCE negative), or
+    None when the text carries no usable date.
+    """
     if not era:
         return None
-    m = re.search(r'(\d+)\s*(?:st|nd|rd|th)?\s*century\s*(?:BCE|BC)\b', era, re.I)
+    _dash = r'[-\u2013\u2014]'
+    # Century, BCE — singular or plural, optional range (keep the earliest century).
+    m = re.search(r'(\d+)\s*(?:st|nd|rd|th)?\s*(?:' + _dash + r'\s*\d+\s*(?:st|nd|rd|th)?\s*)?centur(?:y|ies)\s*(?:BCE|BC)\b', era, re.I)
     if m:
         return -((int(m.group(1)) - 1) * 100 + 50)
+    # Plain BCE year.
     m = re.search(r'(\d+)\s*(?:BCE|BC)\b', era, re.I)
     if m:
         return -int(m.group(1))
-    m = re.search(r'(\d+)\s*(?:st|nd|rd|th)\s*century\b', era, re.I)
+    # Century, CE or unmarked — singular or plural, optional range (keep the earliest).
+    m = re.search(r'(\d+)\s*(?:st|nd|rd|th)?\s*(?:' + _dash + r'\s*\d+\s*(?:st|nd|rd|th)?\s*)?centur(?:y|ies)\b', era, re.I)
     if m:
         return (int(m.group(1)) - 1) * 100 + 50
-    m = re.search(r'\b(\d{3,4})\b', era)
+    # Explicit CE year — allows a decade suffix ('1420s') or range ('40-70 CE');
+    # keep the earliest bound.
+    m = re.search(r'\b(\d{2,4})s?\s*(?:' + _dash + r'\s*\d{2,4}s?\s*)?CE\b', era, re.I)
+    if m:
+        return int(m.group(1))
+    # Bare year, optionally a decade ('1420s'); 3-4 digits to avoid stray small numbers.
+    m = re.search(r'\b(\d{3,4})s?\b', era)
     return int(m.group(1)) if m else None
 
 
