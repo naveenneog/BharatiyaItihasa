@@ -1,0 +1,4112 @@
+{
+  "id": "budshah_reclaims_the_mountains",
+  "title": "Budshah Reclaims the Mountains",
+  "title_i18n": {
+    "en": "Budshah Reclaims the Mountains",
+    "hi": "बदशाह ने पहाड़ वापस लिए"
+  },
+  "figure": "Zain-ul-Abidin",
+  "era": "Military consolidation of Kashmir, c. 1420s-1440s CE",
+  "moral": "Peace often rests on secured frontiers.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/budshah_reclaims_the_mountains/intro/hero.png",
+      "name": "Zain-ul-Abidin (Shahi Khan)",
+      "epithets": [
+        "Budshah",
+        "Zain-ul-Abidin",
+        "The Just Sultan of Kashmir",
+        "Friend of the Mountains"
+      ],
+      "legend": "The king of peace first fought for the mountain roads.",
+      "era": "Military consolidation of Kashmir, c. 1420s-1440s CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He's the gentle Budshah who banned cruelty and loved learning, yet now he must hurl armies into ice-dark passes, or lose Kashmir's lifeblood trade to Kashgar's shadow.",
+            "hi": "वो नरमदिल बडशाह है, जिसने जुल्म रोका और इल्म से प्यार किया… पर अब उसे बर्फीले काले दरों में फौजें झोंकनी होंगी, वरना कश्मीर की सांसें काशगर की परछाईं में दम तोड़ देंगी।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/intro/hero_en.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He's",
+                "t": 72.0,
+                "d": 333.0
+              },
+              {
+                "w": "the",
+                "t": 406.0,
+                "d": 125.0
+              },
+              {
+                "w": "gentle",
+                "t": 531.0,
+                "d": 458.0
+              },
+              {
+                "w": "Budshah",
+                "t": 989.0,
+                "d": 458.0
+              },
+              {
+                "w": "who",
+                "t": 1447.0,
+                "d": 291.0
+              },
+              {
+                "w": "banned",
+                "t": 1739.0,
+                "d": 373.0
+              },
+              {
+                "w": "cruelty",
+                "t": 2113.0,
+                "d": 791.0
+              },
+              {
+                "w": "and",
+                "t": 2946.0,
+                "d": 251.0
+              },
+              {
+                "w": "loved",
+                "t": 3197.0,
+                "d": 332.0
+              },
+              {
+                "w": "learning",
+                "t": 3530.0,
+                "d": 959.0
+              },
+              {
+                "w": "yet",
+                "t": 4531.0,
+                "d": 333.0
+              },
+              {
+                "w": "now",
+                "t": 4864.0,
+                "d": 541.0
+              },
+              {
+                "w": "he",
+                "t": 5406.0,
+                "d": 291.0
+              },
+              {
+                "w": "must",
+                "t": 5697.0,
+                "d": 250.0
+              },
+              {
+                "w": "hurl",
+                "t": 5947.0,
+                "d": 291.0
+              },
+              {
+                "w": "armies",
+                "t": 6239.0,
+                "d": 416.0
+              },
+              {
+                "w": "into",
+                "t": 6656.0,
+                "d": 333.0
+              },
+              {
+                "w": "ice-dark",
+                "t": 6989.0,
+                "d": 541.0
+              },
+              {
+                "w": "passes",
+                "t": 7531.0,
+                "d": 791.0
+              },
+              {
+                "w": "or",
+                "t": 8488.0,
+                "d": 250.0
+              },
+              {
+                "w": "lose",
+                "t": 8738.0,
+                "d": 333.0
+              },
+              {
+                "w": "Kashmir's",
+                "t": 9071.0,
+                "d": 501.0
+              },
+              {
+                "w": "lifeblood",
+                "t": 9572.0,
+                "d": 583.0
+              },
+              {
+                "w": "trade",
+                "t": 10156.0,
+                "d": 332.0
+              },
+              {
+                "w": "to",
+                "t": 10488.0,
+                "d": 209.0
+              },
+              {
+                "w": "Kashgar's",
+                "t": 10697.0,
+                "d": 583.0
+              },
+              {
+                "w": "shadow",
+                "t": 11281.0,
+                "d": 958.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/budshah_reclaims_the_mountains/intro/map.png",
+      "x": 0.27,
+      "y": 0.22,
+      "label": "Kashmir & Mountain Frontiers: Ladakh, Baltistan, Gilgit, Swat",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "High passes and roaring rivers guard Kashmir, where Budshah fights so that merchants, pilgrims, and shepherds can walk in peace.",
+            "hi": "ऊँचे दर्रे और गरजती नदियाँ कश्मीर की रखवाली करती हैं, जहाँ बडशाह लड़ता है ताकि व्यापारी, यात्री और चरवाहे चैन से चल सकें।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/intro/map_en.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "High",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "passes",
+                "t": 356.0,
+                "d": 505.0
+              },
+              {
+                "w": "and",
+                "t": 862.0,
+                "d": 183.0
+              },
+              {
+                "w": "roaring",
+                "t": 1045.0,
+                "d": 321.0
+              },
+              {
+                "w": "rivers",
+                "t": 1367.0,
+                "d": 367.0
+              },
+              {
+                "w": "guard",
+                "t": 1735.0,
+                "d": 321.0
+              },
+              {
+                "w": "Kashmir",
+                "t": 2057.0,
+                "d": 688.0
+              },
+              {
+                "w": "where",
+                "t": 2837.0,
+                "d": 322.0
+              },
+              {
+                "w": "Budshah",
+                "t": 3160.0,
+                "d": 413.0
+              },
+              {
+                "w": "fights",
+                "t": 3574.0,
+                "d": 643.0
+              },
+              {
+                "w": "so",
+                "t": 4264.0,
+                "d": 182.0
+              },
+              {
+                "w": "that",
+                "t": 4447.0,
+                "d": 231.0
+              },
+              {
+                "w": "merchants",
+                "t": 4678.0,
+                "d": 873.0
+              },
+              {
+                "w": "pilgrims",
+                "t": 5643.0,
+                "d": 965.0
+              },
+              {
+                "w": "and",
+                "t": 6609.0,
+                "d": 367.0
+              },
+              {
+                "w": "shepherds",
+                "t": 6977.0,
+                "d": 597.0
+              },
+              {
+                "w": "can",
+                "t": 7574.0,
+                "d": 229.0
+              },
+              {
+                "w": "walk",
+                "t": 7804.0,
+                "d": 321.0
+              },
+              {
+                "w": "in",
+                "t": 8126.0,
+                "d": 137.0
+              },
+              {
+                "w": "peace",
+                "t": 8264.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/budshah_reclaims_the_mountains/img/cover.png",
+      "shot": "epic wide of jagged snow peaks looming over a mounted king on a ridge",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Before Zain-ul-Abidin could be Budshah the benefactor, he had to be Budshah of the mountains, reclaiming Ladakh, Baltistan and Ohind, and turning back a threat from Kashgar that reached for Kashmir's very trade roads.",
+            "hi": "ज़ैनुलआबिदीन को रहमत का बदशाह बनने से पहले पहाड़ों का बदशाह बनना था—लद्दाख, बाल्तिस्तान और ओहिंद वापस लेना, और काशगर से आई धमकी को रोकना जो सीधे कश्मीर की रेशमी राहों तक बढ़ आई थी।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/cover_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Before",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "Zain-ul-Abidin",
+                "t": 542.0,
+                "d": 808.0
+              },
+              {
+                "w": "could",
+                "t": 1351.0,
+                "d": 255.0
+              },
+              {
+                "w": "be",
+                "t": 1606.0,
+                "d": 127.0
+              },
+              {
+                "w": "Budshah",
+                "t": 1734.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 2202.0,
+                "d": 127.0
+              },
+              {
+                "w": "benefactor",
+                "t": 2329.0,
+                "d": 850.0
+              },
+              {
+                "w": "he",
+                "t": 3520.0,
+                "d": 298.0
+              },
+              {
+                "w": "had",
+                "t": 3819.0,
+                "d": 211.0
+              },
+              {
+                "w": "to",
+                "t": 4030.0,
+                "d": 127.0
+              },
+              {
+                "w": "be",
+                "t": 4158.0,
+                "d": 128.0
+              },
+              {
+                "w": "Budshah",
+                "t": 4287.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 4797.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 4925.0,
+                "d": 127.0
+              },
+              {
+                "w": "mountains",
+                "t": 5053.0,
+                "d": 851.0
+              },
+              {
+                "w": "reclaiming",
+                "t": 6117.0,
+                "d": 595.0
+              },
+              {
+                "w": "Ladakh",
+                "t": 6712.0,
+                "d": 595.0
+              },
+              {
+                "w": "Baltistan",
+                "t": 7521.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 8372.0,
+                "d": 211.0
+              },
+              {
+                "w": "Ohind",
+                "t": 8584.0,
+                "d": 937.0
+              },
+              {
+                "w": "and",
+                "t": 9521.0,
+                "d": 425.0
+              },
+              {
+                "w": "turning",
+                "t": 9946.0,
+                "d": 381.0
+              },
+              {
+                "w": "back",
+                "t": 10328.0,
+                "d": 298.0
+              },
+              {
+                "w": "a",
+                "t": 10627.0,
+                "d": 84.0
+              },
+              {
+                "w": "threat",
+                "t": 10711.0,
+                "d": 340.0
+              },
+              {
+                "w": "from",
+                "t": 11052.0,
+                "d": 255.0
+              },
+              {
+                "w": "Kashgar",
+                "t": 11307.0,
+                "d": 937.0
+              },
+              {
+                "w": "that",
+                "t": 12244.0,
+                "d": 297.0
+              },
+              {
+                "w": "reached",
+                "t": 12542.0,
+                "d": 381.0
+              },
+              {
+                "w": "for",
+                "t": 12924.0,
+                "d": 213.0
+              },
+              {
+                "w": "Kashmir's",
+                "t": 13138.0,
+                "d": 595.0
+              },
+              {
+                "w": "very",
+                "t": 13776.0,
+                "d": 552.0
+              },
+              {
+                "w": "trade",
+                "t": 14328.0,
+                "d": 341.0
+              },
+              {
+                "w": "roads",
+                "t": 14670.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/budshah_reclaims_the_mountains/img/p01.png",
+      "shot": "slow push-in from valley to palace terrace above Srinagar",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Jonaraja's chronicle opens this phase with a troubled land: civil war, burned villages, broken nobles. Zain-ul-Abidin inherits a Kashmir whose old mountain frontiers have slipped from the Sultan's hand.",
+            "hi": "जोनराजा की तवारीख इस दौर की शुरुआत एक जख्मी सूबे से करती है: खून-खराबा, जली हुई बस्तियाँ, टूटी हुई अमीरों की ताकत। ज़ैनुलआबिदीन को ऐसा कश्मीर मिलता है, जिसकी पुरानी पहाड़ी सरहदें सुल्तान के हाथ से फिसल चुकी हैं।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p01_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Jonaraja's",
+                "t": 110.0,
+                "d": 760.0
+              },
+              {
+                "w": "chronicle",
+                "t": 950.0,
+                "d": 440.0
+              },
+              {
+                "w": "opens",
+                "t": 1390.0,
+                "d": 400.0
+              },
+              {
+                "w": "this",
+                "t": 1790.0,
+                "d": 239.0
+              },
+              {
+                "w": "phase",
+                "t": 2029.0,
+                "d": 440.0
+              },
+              {
+                "w": "with",
+                "t": 2550.0,
+                "d": 239.0
+              },
+              {
+                "w": "a",
+                "t": 2789.0,
+                "d": 40.0
+              },
+              {
+                "w": "troubled",
+                "t": 2829.0,
+                "d": 441.0
+              },
+              {
+                "w": "land",
+                "t": 3270.0,
+                "d": 679.0
+              },
+              {
+                "w": "civil",
+                "t": 4150.0,
+                "d": 360.0
+              },
+              {
+                "w": "war",
+                "t": 4510.0,
+                "d": 600.0
+              },
+              {
+                "w": "burned",
+                "t": 5110.0,
+                "d": 400.0
+              },
+              {
+                "w": "villages",
+                "t": 5510.0,
+                "d": 720.0
+              },
+              {
+                "w": "broken",
+                "t": 6310.0,
+                "d": 440.0
+              },
+              {
+                "w": "nobles",
+                "t": 6750.0,
+                "d": 760.0
+              },
+              {
+                "w": "Zain-ul-Abidin",
+                "t": 8389.0,
+                "d": 881.0
+              },
+              {
+                "w": "inherits",
+                "t": 9270.0,
+                "d": 560.0
+              },
+              {
+                "w": "a",
+                "t": 9830.0,
+                "d": 160.0
+              },
+              {
+                "w": "Kashmir",
+                "t": 9990.0,
+                "d": 600.0
+              },
+              {
+                "w": "whose",
+                "t": 10590.0,
+                "d": 280.0
+              },
+              {
+                "w": "old",
+                "t": 10870.0,
+                "d": 359.0
+              },
+              {
+                "w": "mountain",
+                "t": 11229.0,
+                "d": 441.0
+              },
+              {
+                "w": "frontiers",
+                "t": 11670.0,
+                "d": 760.0
+              },
+              {
+                "w": "have",
+                "t": 12469.0,
+                "d": 281.0
+              },
+              {
+                "w": "slipped",
+                "t": 12750.0,
+                "d": 319.0
+              },
+              {
+                "w": "from",
+                "t": 13069.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 13229.0,
+                "d": 121.0
+              },
+              {
+                "w": "Sultan's",
+                "t": 13350.0,
+                "d": 520.0
+              },
+              {
+                "w": "hand",
+                "t": 13870.0,
+                "d": 480.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/budshah_reclaims_the_mountains/img/p02.png",
+      "shot": "medium interior shot, low-angle, in a dim hall",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Memories of Shihab-ud-Din's earlier conquests hang in the air, Pakhli, Swat, Gilgit, the old roads to Tibet and beyond. Those gains had frayed. Now traders whisper of raids and lost caravans.",
+            "hi": "शिहाबुद्दीन की पुरानी फतहों की यादें हवा में तैरती हैं—पखली, स्वात, गिलगित, तिब्बत और आगे जाने वाली राहें। वो जीतें ढीली पड़ चुकी थीं। अब सौदागर हमलावरों और खोए कारवाँ की सरगोशियाँ करते हैं।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p02_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Memories",
+                "t": 70.0,
+                "d": 560.0
+              },
+              {
+                "w": "of",
+                "t": 630.0,
+                "d": 120.0
+              },
+              {
+                "w": "Shihab-ud-Din's",
+                "t": 750.0,
+                "d": 800.0
+              },
+              {
+                "w": "earlier",
+                "t": 1590.0,
+                "d": 360.0
+              },
+              {
+                "w": "conquests",
+                "t": 1950.0,
+                "d": 600.0
+              },
+              {
+                "w": "hang",
+                "t": 2550.0,
+                "d": 279.0
+              },
+              {
+                "w": "in",
+                "t": 2829.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 2909.0,
+                "d": 841.0
+              },
+              {
+                "w": "air",
+                "t": 3750.0,
+                "d": 119.0
+              },
+              {
+                "w": "Pakhli",
+                "t": 3869.0,
+                "d": 481.0
+              },
+              {
+                "w": "Swat",
+                "t": 4510.0,
+                "d": 840.0
+              },
+              {
+                "w": "Gilgit",
+                "t": 5390.0,
+                "d": 480.0
+              },
+              {
+                "w": "the",
+                "t": 5870.0,
+                "d": 680.0
+              },
+              {
+                "w": "old",
+                "t": 6550.0,
+                "d": 320.0
+              },
+              {
+                "w": "roads",
+                "t": 6870.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 7190.0,
+                "d": 160.0
+              },
+              {
+                "w": "Tibet",
+                "t": 7350.0,
+                "d": 480.0
+              },
+              {
+                "w": "and",
+                "t": 7830.0,
+                "d": 239.0
+              },
+              {
+                "w": "beyond",
+                "t": 8069.0,
+                "d": 521.0
+              },
+              {
+                "w": "Those",
+                "t": 9389.0,
+                "d": 320.0
+              },
+              {
+                "w": "gains",
+                "t": 9709.0,
+                "d": 360.0
+              },
+              {
+                "w": "had",
+                "t": 10069.0,
+                "d": 160.0
+              },
+              {
+                "w": "frayed",
+                "t": 10229.0,
+                "d": 561.0
+              },
+              {
+                "w": "Now",
+                "t": 11389.0,
+                "d": 281.0
+              },
+              {
+                "w": "traders",
+                "t": 11670.0,
+                "d": 479.0
+              },
+              {
+                "w": "whisper",
+                "t": 12149.0,
+                "d": 400.0
+              },
+              {
+                "w": "of",
+                "t": 12549.0,
+                "d": 160.0
+              },
+              {
+                "w": "raids",
+                "t": 12709.0,
+                "d": 561.0
+              },
+              {
+                "w": "and",
+                "t": 13309.0,
+                "d": 240.0
+              },
+              {
+                "w": "lost",
+                "t": 13549.0,
+                "d": 401.0
+              },
+              {
+                "w": "caravans",
+                "t": 13950.0,
+                "d": 840.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/budshah_reclaims_the_mountains/img/p03.png",
+      "shot": "sweeping bird’s-eye of mountain caravan trail",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Ladakh and Baltistan are not just barren heights. They are the corridors through which salt, shawl wool, and news from Tibet and Central Asia enter the valley. Without them, Kashmir is a bowl with a broken rim.",
+            "hi": "लद्दाख और बाल्तिस्तान सिर्फ सूखी चट्टानें नहीं हैं। वहीं से नमक, पश्मीना ऊन और तिब्बत व मध्य एशिया की खबरें घाटी में उतरती हैं। इनके बिना कश्मीर एक कटोरा है, जिसका किनारा टूटा हुआ है।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p03_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Ladakh",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 542.0,
+                "d": 170.0
+              },
+              {
+                "w": "Baltistan",
+                "t": 712.0,
+                "d": 723.0
+              },
+              {
+                "w": "are",
+                "t": 1436.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 1648.0,
+                "d": 340.0
+              },
+              {
+                "w": "just",
+                "t": 1989.0,
+                "d": 255.0
+              },
+              {
+                "w": "barren",
+                "t": 2244.0,
+                "d": 381.0
+              },
+              {
+                "w": "heights",
+                "t": 2626.0,
+                "d": 767.0
+              },
+              {
+                "w": "They",
+                "t": 3562.0,
+                "d": 298.0
+              },
+              {
+                "w": "are",
+                "t": 3861.0,
+                "d": 211.0
+              },
+              {
+                "w": "the",
+                "t": 4158.0,
+                "d": 128.0
+              },
+              {
+                "w": "corridors",
+                "t": 4287.0,
+                "d": 1106.0
+              },
+              {
+                "w": "through",
+                "t": 5393.0,
+                "d": 297.0
+              },
+              {
+                "w": "which",
+                "t": 5691.0,
+                "d": 212.0
+              },
+              {
+                "w": "salt",
+                "t": 5904.0,
+                "d": 255.0
+              },
+              {
+                "w": "shawl",
+                "t": 6159.0,
+                "d": 425.0
+              },
+              {
+                "w": "wool",
+                "t": 6585.0,
+                "d": 170.0
+              },
+              {
+                "w": "and",
+                "t": 6755.0,
+                "d": 297.0
+              },
+              {
+                "w": "news",
+                "t": 7053.0,
+                "d": 340.0
+              },
+              {
+                "w": "from",
+                "t": 7393.0,
+                "d": 255.0
+              },
+              {
+                "w": "Tibet",
+                "t": 7648.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 8202.0,
+                "d": 339.0
+              },
+              {
+                "w": "Central",
+                "t": 8541.0,
+                "d": 426.0
+              },
+              {
+                "w": "Asia",
+                "t": 8968.0,
+                "d": 595.0
+              },
+              {
+                "w": "enter",
+                "t": 9563.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 9776.0,
+                "d": 126.0
+              },
+              {
+                "w": "valley",
+                "t": 9903.0,
+                "d": 978.0
+              },
+              {
+                "w": "Without",
+                "t": 10967.0,
+                "d": 425.0
+              },
+              {
+                "w": "them",
+                "t": 11392.0,
+                "d": 511.0
+              },
+              {
+                "w": "Kashmir",
+                "t": 12030.0,
+                "d": 554.0
+              },
+              {
+                "w": "is",
+                "t": 12585.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 12712.0,
+                "d": 126.0
+              },
+              {
+                "w": "bowl",
+                "t": 12839.0,
+                "d": 384.0
+              },
+              {
+                "w": "with",
+                "t": 13223.0,
+                "d": 211.0
+              },
+              {
+                "w": "a",
+                "t": 13435.0,
+                "d": 85.0
+              },
+              {
+                "w": "broken",
+                "t": 13520.0,
+                "d": 426.0
+              },
+              {
+                "w": "rim",
+                "t": 13946.0,
+                "d": 340.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/budshah_reclaims_the_mountains/img/p04.png",
+      "shot": "low-angle council chamber shot",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "\"Budshah, the chiefs beyond Zoji La do not obey Srinagar. They bargain with your enemies.\"",
+            "hi": "“बदशाह, ज़ोजि ला के उस पार के सरदार श्रीनगर की नहीं सुनते। वे आपके दुश्मनों से सौदे कर रहे हैं।”"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p04_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "\"Budshah",
+                "t": 49.0,
+                "d": 563.7
+              },
+              {
+                "w": "the",
+                "t": 857.8,
+                "d": 110.3
+              },
+              {
+                "w": "chiefs",
+                "t": 968.1,
+                "d": 428.9
+              },
+              {
+                "w": "beyond",
+                "t": 1397.0,
+                "d": 465.7
+              },
+              {
+                "w": "Zoji",
+                "t": 1887.2,
+                "d": 465.7
+              },
+              {
+                "w": "La",
+                "t": 2377.5,
+                "d": 208.3
+              },
+              {
+                "w": "do",
+                "t": 2598.0,
+                "d": 159.3
+              },
+              {
+                "w": "not",
+                "t": 2769.6,
+                "d": 318.6
+              },
+              {
+                "w": "obey",
+                "t": 3149.5,
+                "d": 269.6
+              },
+              {
+                "w": "Srinagar",
+                "t": 3480.4,
+                "d": 478.0
+              },
+              {
+                "w": "They",
+                "t": 4816.2,
+                "d": 159.3
+              },
+              {
+                "w": "bargain",
+                "t": 5012.2,
+                "d": 588.2
+              },
+              {
+                "w": "with",
+                "t": 5600.5,
+                "d": 245.1
+              },
+              {
+                "w": "your",
+                "t": 5857.8,
+                "d": 269.6
+              },
+              {
+                "w": "enemies",
+                "t": 6213.2,
+                "d": 576.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/budshah_reclaims_the_mountains/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/budshah_reclaims_the_mountains/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He claims the valley not by words alone, but by steering its rivers, roads, and restless clans toward one purpose.",
+            "hi": "वो घाटी को बातों से नहीं, उसकी नदियाँ, रास्ते और बेक़रार क़बीलों को एक मंज़िल पर मोड़कर अपना बनाता है।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/action/action_auto_en.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "claims",
+                "t": 356.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 724.0,
+                "d": 183.0
+              },
+              {
+                "w": "valley",
+                "t": 908.0,
+                "d": 459.0
+              },
+              {
+                "w": "not",
+                "t": 1367.0,
+                "d": 367.0
+              },
+              {
+                "w": "by",
+                "t": 1735.0,
+                "d": 229.0
+              },
+              {
+                "w": "words",
+                "t": 1965.0,
+                "d": 413.0
+              },
+              {
+                "w": "alone",
+                "t": 2379.0,
+                "d": 826.0
+              },
+              {
+                "w": "but",
+                "t": 3389.0,
+                "d": 277.0
+              },
+              {
+                "w": "by",
+                "t": 3666.0,
+                "d": 182.0
+              },
+              {
+                "w": "steering",
+                "t": 3849.0,
+                "d": 505.0
+              },
+              {
+                "w": "its",
+                "t": 4355.0,
+                "d": 183.0
+              },
+              {
+                "w": "rivers",
+                "t": 4539.0,
+                "d": 782.0
+              },
+              {
+                "w": "roads",
+                "t": 5413.0,
+                "d": 827.0
+              },
+              {
+                "w": "and",
+                "t": 6287.0,
+                "d": 367.0
+              },
+              {
+                "w": "restless",
+                "t": 6655.0,
+                "d": 551.0
+              },
+              {
+                "w": "clans",
+                "t": 7206.0,
+                "d": 505.0
+              },
+              {
+                "w": "toward",
+                "t": 7712.0,
+                "d": 367.0
+              },
+              {
+                "w": "one",
+                "t": 8080.0,
+                "d": 367.0
+              },
+              {
+                "w": "purpose",
+                "t": 8448.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/budshah_reclaims_the_mountains/img/p05.png",
+      "shot": "tight close-up on Zain-ul-Abidin’s calm but firm profile",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Jonaraja notes Zain-ul-Abidin's resolve to restore what had been lost. He does not begin with sermons or schools. He begins with the passes, the high forts, the loyalty of mountain men.",
+            "hi": "जोनराजा लिखते हैं कि ज़ैनुलआबिदीन ने खोया हुआ सब कुछ लौटाने की ठान ली। वह न तो ख़ुत्बों से शुरू करते हैं, न मदरसों से। शुरुआत करते हैं दर्रों से, ऊँचे किलों से, और पहाड़ी मर्दों की वफ़ादारी से।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p05_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Jonaraja",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "notes",
+                "t": 840.0,
+                "d": 382.0
+              },
+              {
+                "w": "Zain-ul-Abidin's",
+                "t": 1223.0,
+                "d": 893.0
+              },
+              {
+                "w": "resolve",
+                "t": 2117.0,
+                "d": 509.0
+              },
+              {
+                "w": "to",
+                "t": 2626.0,
+                "d": 128.0
+              },
+              {
+                "w": "restore",
+                "t": 2755.0,
+                "d": 510.0
+              },
+              {
+                "w": "what",
+                "t": 3265.0,
+                "d": 296.0
+              },
+              {
+                "w": "had",
+                "t": 3562.0,
+                "d": 171.0
+              },
+              {
+                "w": "been",
+                "t": 3734.0,
+                "d": 170.0
+              },
+              {
+                "w": "lost",
+                "t": 3904.0,
+                "d": 851.0
+              },
+              {
+                "w": "He",
+                "t": 4840.0,
+                "d": 340.0
+              },
+              {
+                "w": "does",
+                "t": 5180.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 5393.0,
+                "d": 212.0
+              },
+              {
+                "w": "begin",
+                "t": 5606.0,
+                "d": 340.0
+              },
+              {
+                "w": "with",
+                "t": 5946.0,
+                "d": 170.0
+              },
+              {
+                "w": "sermons",
+                "t": 6117.0,
+                "d": 553.0
+              },
+              {
+                "w": "or",
+                "t": 6670.0,
+                "d": 170.0
+              },
+              {
+                "w": "schools",
+                "t": 6840.0,
+                "d": 723.0
+              },
+              {
+                "w": "He",
+                "t": 7946.0,
+                "d": 297.0
+              },
+              {
+                "w": "begins",
+                "t": 8244.0,
+                "d": 339.0
+              },
+              {
+                "w": "with",
+                "t": 8584.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 8754.0,
+                "d": 128.0
+              },
+              {
+                "w": "passes",
+                "t": 8882.0,
+                "d": 764.0
+              },
+              {
+                "w": "the",
+                "t": 9691.0,
+                "d": 211.0
+              },
+              {
+                "w": "high",
+                "t": 9903.0,
+                "d": 213.0
+              },
+              {
+                "w": "forts",
+                "t": 10117.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 10881.0,
+                "d": 170.0
+              },
+              {
+                "w": "loyalty",
+                "t": 11052.0,
+                "d": 426.0
+              },
+              {
+                "w": "of",
+                "t": 11478.0,
+                "d": 127.0
+              },
+              {
+                "w": "mountain",
+                "t": 11606.0,
+                "d": 424.0
+              },
+              {
+                "w": "men",
+                "t": 12030.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/budshah_reclaims_the_mountains/img/p06.png",
+      "shot": "heroic wide shot of army departing Srinagar",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With the valley pacified, the Budshah turns north. Ladakh, Baltistan, Ohind, names of cold and height. But each holds men, grain, paths and tolls that must return to the Sultan's fold.",
+            "hi": "घाटी को शांत कर के बदशाह उत्तर की ओर बढ़ता है। लद्दाख, बाल्तिस्तान, ओहिंद—ठंड और ऊँचाई के नाम। पर हर जगह आदमी हैं, अनाज है, रास्ते और महसूल हैं जिन्हें फिर से सुल्तान के हाथ में लौटना है।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p06_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "valley",
+                "t": 414.0,
+                "d": 382.0
+              },
+              {
+                "w": "pacified",
+                "t": 797.0,
+                "d": 978.0
+              },
+              {
+                "w": "the",
+                "t": 1989.0,
+                "d": 212.0
+              },
+              {
+                "w": "Budshah",
+                "t": 2202.0,
+                "d": 381.0
+              },
+              {
+                "w": "turns",
+                "t": 2584.0,
+                "d": 382.0
+              },
+              {
+                "w": "north",
+                "t": 2967.0,
+                "d": 638.0
+              },
+              {
+                "w": "Ladakh",
+                "t": 4243.0,
+                "d": 724.0
+              },
+              {
+                "w": "Baltistan",
+                "t": 5351.0,
+                "d": 1106.0
+              },
+              {
+                "w": "Ohind",
+                "t": 6500.0,
+                "d": 978.0
+              },
+              {
+                "w": "names",
+                "t": 7648.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 8074.0,
+                "d": 212.0
+              },
+              {
+                "w": "cold",
+                "t": 8287.0,
+                "d": 424.0
+              },
+              {
+                "w": "and",
+                "t": 8711.0,
+                "d": 212.0
+              },
+              {
+                "w": "height",
+                "t": 8924.0,
+                "d": 723.0
+              },
+              {
+                "w": "But",
+                "t": 10073.0,
+                "d": 255.0
+              },
+              {
+                "w": "each",
+                "t": 10328.0,
+                "d": 341.0
+              },
+              {
+                "w": "holds",
+                "t": 10670.0,
+                "d": 296.0
+              },
+              {
+                "w": "men",
+                "t": 10967.0,
+                "d": 596.0
+              },
+              {
+                "w": "grain",
+                "t": 11606.0,
+                "d": 764.0
+              },
+              {
+                "w": "paths",
+                "t": 12670.0,
+                "d": 424.0
+              },
+              {
+                "w": "and",
+                "t": 13094.0,
+                "d": 298.0
+              },
+              {
+                "w": "tolls",
+                "t": 13393.0,
+                "d": 638.0
+              },
+              {
+                "w": "that",
+                "t": 14243.0,
+                "d": 255.0
+              },
+              {
+                "w": "must",
+                "t": 14498.0,
+                "d": 298.0
+              },
+              {
+                "w": "return",
+                "t": 14797.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 15180.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 15307.0,
+                "d": 128.0
+              },
+              {
+                "w": "Sultan's",
+                "t": 15436.0,
+                "d": 808.0
+              },
+              {
+                "w": "fold",
+                "t": 16244.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/budshah_reclaims_the_mountains/img/p07.png",
+      "shot": "harsh mid-shot in windblown pass",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The sources do not linger on each skirmish. They tell of campaigns that brought Ladakh and Baltistan once more under Kashmiri authority, by arms, by negotiated allegiance, by the weight of a resurgent Sultanate.",
+            "hi": "तवारीख हर छोटी झड़प पर नहीं रुकतीं। वे बस इतना बताती हैं कि लद्दाख और बाल्तिस्तान फिर से कश्मीरी हुकूमत में आए—तलवार से, समझौते से, और उभरती हुई सल्तनत की हैसियत से।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p07_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 127.0
+              },
+              {
+                "w": "sources",
+                "t": 202.0,
+                "d": 468.0
+              },
+              {
+                "w": "do",
+                "t": 670.0,
+                "d": 127.0
+              },
+              {
+                "w": "not",
+                "t": 797.0,
+                "d": 255.0
+              },
+              {
+                "w": "linger",
+                "t": 1053.0,
+                "d": 340.0
+              },
+              {
+                "w": "on",
+                "t": 1393.0,
+                "d": 212.0
+              },
+              {
+                "w": "each",
+                "t": 1648.0,
+                "d": 212.0
+              },
+              {
+                "w": "skirmish",
+                "t": 1861.0,
+                "d": 1190.0
+              },
+              {
+                "w": "They",
+                "t": 3094.0,
+                "d": 213.0
+              },
+              {
+                "w": "tell",
+                "t": 3308.0,
+                "d": 211.0
+              },
+              {
+                "w": "of",
+                "t": 3520.0,
+                "d": 127.0
+              },
+              {
+                "w": "campaigns",
+                "t": 3647.0,
+                "d": 510.0
+              },
+              {
+                "w": "that",
+                "t": 4158.0,
+                "d": 213.0
+              },
+              {
+                "w": "brought",
+                "t": 4372.0,
+                "d": 425.0
+              },
+              {
+                "w": "Ladakh",
+                "t": 4797.0,
+                "d": 297.0
+              },
+              {
+                "w": "and",
+                "t": 5095.0,
+                "d": 255.0
+              },
+              {
+                "w": "Baltistan",
+                "t": 5351.0,
+                "d": 680.0
+              },
+              {
+                "w": "once",
+                "t": 6031.0,
+                "d": 340.0
+              },
+              {
+                "w": "more",
+                "t": 6372.0,
+                "d": 255.0
+              },
+              {
+                "w": "under",
+                "t": 6627.0,
+                "d": 382.0
+              },
+              {
+                "w": "Kashmiri",
+                "t": 7010.0,
+                "d": 510.0
+              },
+              {
+                "w": "authority",
+                "t": 7521.0,
+                "d": 978.0
+              },
+              {
+                "w": "by",
+                "t": 8584.0,
+                "d": 298.0
+              },
+              {
+                "w": "arms",
+                "t": 8882.0,
+                "d": 764.0
+              },
+              {
+                "w": "by",
+                "t": 9818.0,
+                "d": 213.0
+              },
+              {
+                "w": "negotiated",
+                "t": 10031.0,
+                "d": 723.0
+              },
+              {
+                "w": "allegiance",
+                "t": 10755.0,
+                "d": 723.0
+              },
+              {
+                "w": "by",
+                "t": 11819.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 12074.0,
+                "d": 170.0
+              },
+              {
+                "w": "weight",
+                "t": 12244.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 12500.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 12627.0,
+                "d": 42.0
+              },
+              {
+                "w": "resurgent",
+                "t": 12670.0,
+                "d": 679.0
+              },
+              {
+                "w": "Sultanate",
+                "t": 13393.0,
+                "d": 978.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/budshah_reclaims_the_mountains/img/p08.png",
+      "shot": "medium shot of a parley outside a hill fort",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "\"Keep your customs. But recognise Srinagar's seal. Protect these roads, and prosper with us.\"",
+            "hi": "“अपनी रस्में रखो, मगर श्रीनगर की मुहर मानो। इन राहों की हिफ़ाज़त करो, और हमारे साथ खुशहाली बाँटो।”"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p08_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "\"Keep",
+                "t": 49.0,
+                "d": 245.1
+              },
+              {
+                "w": "your",
+                "t": 294.1,
+                "d": 269.6
+              },
+              {
+                "w": "customs",
+                "t": 563.7,
+                "d": 612.8
+              },
+              {
+                "w": "But",
+                "t": 2022.0,
+                "d": 208.3
+              },
+              {
+                "w": "recognise",
+                "t": 2279.4,
+                "d": 735.3
+              },
+              {
+                "w": "Srinagar's",
+                "t": 3063.7,
+                "d": 514.7
+              },
+              {
+                "w": "seal",
+                "t": 3590.7,
+                "d": 392.2
+              },
+              {
+                "w": "Protect",
+                "t": 4828.4,
+                "d": 392.2
+              },
+              {
+                "w": "these",
+                "t": 5281.9,
+                "d": 343.1
+              },
+              {
+                "w": "roads",
+                "t": 5625.0,
+                "d": 465.7
+              },
+              {
+                "w": "and",
+                "t": 6286.8,
+                "d": 183.8
+              },
+              {
+                "w": "prosper",
+                "t": 6470.6,
+                "d": 551.5
+              },
+              {
+                "w": "with",
+                "t": 7022.0,
+                "d": 232.8
+              },
+              {
+                "w": "us",
+                "t": 7254.9,
+                "d": 318.6
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/budshah_reclaims_the_mountains/img/p09.png",
+      "shot": "wide shot of rivers and valleys merging into a map overlay",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Modern historians, reading Jonaraja and later accounts, see a pattern: Zain-ul-Abidin restores Shihab-ud-Din's northern reach, Pakhli, Swat, Gilgit, strengthening Kashmir's hold on the routes into the Hindu Kush and beyond.",
+            "hi": "आज के मुहद्दिस, जोनराजा और बाद की किताबें पढ़कर एक नक्शा देखते हैं: ज़ैनुलआबिदीन, शिहाबुद्दीन की उत्तरी पहुँच—पखली, स्वात, गिलगित—को फिर से जोड़ देता है, हिंदू-कुश और आगे जाने वाली राहों पर कश्मीर की पकड़ मजबूत करता है।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p09_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Modern",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "historians",
+                "t": 542.0,
+                "d": 1063.0
+              },
+              {
+                "w": "reading",
+                "t": 1691.0,
+                "d": 510.0
+              },
+              {
+                "w": "Jonaraja",
+                "t": 2202.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 2840.0,
+                "d": 339.0
+              },
+              {
+                "w": "later",
+                "t": 3179.0,
+                "d": 340.0
+              },
+              {
+                "w": "accounts",
+                "t": 3520.0,
+                "d": 723.0
+              },
+              {
+                "w": "see",
+                "t": 4329.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 4670.0,
+                "d": 42.0
+              },
+              {
+                "w": "pattern",
+                "t": 4712.0,
+                "d": 1021.0
+              },
+              {
+                "w": "Zain-ul-Abidin",
+                "t": 6117.0,
+                "d": 936.0
+              },
+              {
+                "w": "restores",
+                "t": 7053.0,
+                "d": 595.0
+              },
+              {
+                "w": "Shihab-ud-Din's",
+                "t": 7648.0,
+                "d": 1445.0
+              },
+              {
+                "w": "northern",
+                "t": 9094.0,
+                "d": 511.0
+              },
+              {
+                "w": "reach",
+                "t": 9606.0,
+                "d": 510.0
+              },
+              {
+                "w": "Pakhli",
+                "t": 10585.0,
+                "d": 552.0
+              },
+              {
+                "w": "Swat",
+                "t": 11392.0,
+                "d": 852.0
+              },
+              {
+                "w": "Gilgit",
+                "t": 12329.0,
+                "d": 850.0
+              },
+              {
+                "w": "strengthening",
+                "t": 13435.0,
+                "d": 808.0
+              },
+              {
+                "w": "Kashmir's",
+                "t": 14243.0,
+                "d": 469.0
+              },
+              {
+                "w": "hold",
+                "t": 14712.0,
+                "d": 339.0
+              },
+              {
+                "w": "on",
+                "t": 15052.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 15222.0,
+                "d": 170.0
+              },
+              {
+                "w": "routes",
+                "t": 15392.0,
+                "d": 426.0
+              },
+              {
+                "w": "into",
+                "t": 15819.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 16074.0,
+                "d": 170.0
+              },
+              {
+                "w": "Hindu",
+                "t": 16244.0,
+                "d": 340.0
+              },
+              {
+                "w": "Kush",
+                "t": 16585.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 17180.0,
+                "d": 382.0
+              },
+              {
+                "w": "beyond",
+                "t": 17563.0,
+                "d": 680.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/budshah_reclaims_the_mountains/img/p10.png",
+      "shot": "dim interior shot of scholars and envoys around Budshah",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Only after this tightening of frontiers does diplomacy bloom. Letters and gifts move between Kashmir and Bengal, Gujarat, Sindh, Khorasan, Egypt, Tibet, Gilan. The valley now stands on a firm military base.",
+            "hi": "सरहदें कस जाने के बाद ही सियासत फूलती है। ख़त और तोहफ़े कश्मीर से बंगाल, गुजरात, सिंध, ख़ुरासान, मिस्र, तिब्बत, गीलान तक चलते हैं। अब घाटी की नींव मज़बूत फौजी ताकत पर टिकती है।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p10_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Only",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "after",
+                "t": 457.0,
+                "d": 297.0
+              },
+              {
+                "w": "this",
+                "t": 755.0,
+                "d": 212.0
+              },
+              {
+                "w": "tightening",
+                "t": 968.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 1436.0,
+                "d": 127.0
+              },
+              {
+                "w": "frontiers",
+                "t": 1563.0,
+                "d": 892.0
+              },
+              {
+                "w": "does",
+                "t": 2498.0,
+                "d": 384.0
+              },
+              {
+                "w": "diplomacy",
+                "t": 2882.0,
+                "d": 595.0
+              },
+              {
+                "w": "bloom",
+                "t": 3478.0,
+                "d": 679.0
+              },
+              {
+                "w": "Letters",
+                "t": 4755.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 5308.0,
+                "d": 212.0
+              },
+              {
+                "w": "gifts",
+                "t": 5521.0,
+                "d": 425.0
+              },
+              {
+                "w": "move",
+                "t": 5946.0,
+                "d": 340.0
+              },
+              {
+                "w": "between",
+                "t": 6287.0,
+                "d": 382.0
+              },
+              {
+                "w": "Kashmir",
+                "t": 6670.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 7180.0,
+                "d": 255.0
+              },
+              {
+                "w": "Bengal",
+                "t": 7436.0,
+                "d": 680.0
+              },
+              {
+                "w": "Gujarat",
+                "t": 8372.0,
+                "d": 807.0
+              },
+              {
+                "w": "Sindh",
+                "t": 9223.0,
+                "d": 468.0
+              },
+              {
+                "w": "Khorasan",
+                "t": 10073.0,
+                "d": 808.0
+              },
+              {
+                "w": "Egypt",
+                "t": 11180.0,
+                "d": 679.0
+              },
+              {
+                "w": "Tibet",
+                "t": 12030.0,
+                "d": 681.0
+              },
+              {
+                "w": "Gilan",
+                "t": 12755.0,
+                "d": 723.0
+              },
+              {
+                "w": "The",
+                "t": 14117.0,
+                "d": 211.0
+              },
+              {
+                "w": "valley",
+                "t": 14328.0,
+                "d": 384.0
+              },
+              {
+                "w": "now",
+                "t": 14712.0,
+                "d": 254.0
+              },
+              {
+                "w": "stands",
+                "t": 14967.0,
+                "d": 425.0
+              },
+              {
+                "w": "on",
+                "t": 15392.0,
+                "d": 128.0
+              },
+              {
+                "w": "a",
+                "t": 15521.0,
+                "d": 85.0
+              },
+              {
+                "w": "firm",
+                "t": 15606.0,
+                "d": 340.0
+              },
+              {
+                "w": "military",
+                "t": 15946.0,
+                "d": 509.0
+              },
+              {
+                "w": "base",
+                "t": 16456.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/budshah_reclaims_the_mountains/img/p11.png",
+      "shot": "ominous wide shot of distant steppe riders on a ridge",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "But peace never rests only on ink and gifts. Muhammad Azam Didamari's Waqiat-i-Kashmir tells of a new danger from Kashgar, Central Asian riders probing the same routes that now feed Budshah's prosperity.",
+            "hi": "लेकिन अमन सिर्फ स्याही और तोहफों पर नहीं ठहरता। मुहम्मद आज़म दिदामरी की ‘वाक़िआत-ए-कश्मीर’ काशगर की नई आफ़त का ज़िक्र करती है—मध्य एशियाई सवार वही राहें टटोलते हैं, जो अब बदशाह की दौलत को खुराक दे रही हैं।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p11_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "But",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "peace",
+                "t": 372.0,
+                "d": 297.0
+              },
+              {
+                "w": "never",
+                "t": 670.0,
+                "d": 297.0
+              },
+              {
+                "w": "rests",
+                "t": 968.0,
+                "d": 468.0
+              },
+              {
+                "w": "only",
+                "t": 1478.0,
+                "d": 468.0
+              },
+              {
+                "w": "on",
+                "t": 1946.0,
+                "d": 340.0
+              },
+              {
+                "w": "ink",
+                "t": 2287.0,
+                "d": 339.0
+              },
+              {
+                "w": "and",
+                "t": 2626.0,
+                "d": 298.0
+              },
+              {
+                "w": "gifts",
+                "t": 2925.0,
+                "d": 851.0
+              },
+              {
+                "w": "Muhammad",
+                "t": 4158.0,
+                "d": 511.0
+              },
+              {
+                "w": "Azam",
+                "t": 4670.0,
+                "d": 468.0
+              },
+              {
+                "w": "Didamari's",
+                "t": 5138.0,
+                "d": 638.0
+              },
+              {
+                "w": "Waqiat-i-Kashmir",
+                "t": 5776.0,
+                "d": 1276.0
+              },
+              {
+                "w": "tells",
+                "t": 7478.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 7776.0,
+                "d": 127.0
+              },
+              {
+                "w": "a",
+                "t": 7904.0,
+                "d": 42.0
+              },
+              {
+                "w": "new",
+                "t": 7946.0,
+                "d": 340.0
+              },
+              {
+                "w": "danger",
+                "t": 8287.0,
+                "d": 381.0
+              },
+              {
+                "w": "from",
+                "t": 8669.0,
+                "d": 298.0
+              },
+              {
+                "w": "Kashgar",
+                "t": 8968.0,
+                "d": 893.0
+              },
+              {
+                "w": "Central",
+                "t": 9903.0,
+                "d": 596.0
+              },
+              {
+                "w": "Asian",
+                "t": 10500.0,
+                "d": 340.0
+              },
+              {
+                "w": "riders",
+                "t": 10840.0,
+                "d": 467.0
+              },
+              {
+                "w": "probing",
+                "t": 11307.0,
+                "d": 384.0
+              },
+              {
+                "w": "the",
+                "t": 11691.0,
+                "d": 127.0
+              },
+              {
+                "w": "same",
+                "t": 11819.0,
+                "d": 340.0
+              },
+              {
+                "w": "routes",
+                "t": 12159.0,
+                "d": 382.0
+              },
+              {
+                "w": "that",
+                "t": 12542.0,
+                "d": 255.0
+              },
+              {
+                "w": "now",
+                "t": 12797.0,
+                "d": 340.0
+              },
+              {
+                "w": "feed",
+                "t": 13138.0,
+                "d": 553.0
+              },
+              {
+                "w": "Budshah's",
+                "t": 13734.0,
+                "d": 764.0
+              },
+              {
+                "w": "prosperity",
+                "t": 14498.0,
+                "d": 937.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/budshah_reclaims_the_mountains/img/p12.png",
+      "shot": "dramatic throne room shot with a breathless messenger",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "\"From the north, my lord. Riders from Kashgar. They test your mountain gates.\"",
+            "hi": "“उत्तरी तरफ़ से, आका। काशगर के सवार हैं। वे आपकी पहाड़ी चौकियाँ परख रहे हैं।”"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p12_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "\"From",
+                "t": 49.0,
+                "d": 281.9
+              },
+              {
+                "w": "the",
+                "t": 330.9,
+                "d": 98.0
+              },
+              {
+                "w": "north",
+                "t": 428.9,
+                "d": 416.7
+              },
+              {
+                "w": "my",
+                "t": 1029.4,
+                "d": 245.1
+              },
+              {
+                "w": "lord",
+                "t": 1274.5,
+                "d": 428.9
+              },
+              {
+                "w": "Riders",
+                "t": 2585.8,
+                "d": 539.2
+              },
+              {
+                "w": "from",
+                "t": 3137.2,
+                "d": 281.9
+              },
+              {
+                "w": "Kashgar",
+                "t": 3419.1,
+                "d": 539.2
+              },
+              {
+                "w": "They",
+                "t": 4816.2,
+                "d": 183.8
+              },
+              {
+                "w": "test",
+                "t": 5024.5,
+                "d": 355.4
+              },
+              {
+                "w": "your",
+                "t": 5428.9,
+                "d": 294.1
+              },
+              {
+                "w": "mountain",
+                "t": 5723.0,
+                "d": 551.5
+              },
+              {
+                "w": "gates",
+                "t": 6286.8,
+                "d": 465.7
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/budshah_reclaims_the_mountains/img/p13.png",
+      "shot": "low-angle shot of Budshah rising from throne",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Didamari, writing later in Persian, speaks of vast numbers, twenty thousand cavalry, a hundred thousand foot, marching under Budshah to face this threat. The figures are likely exaggerated, but they mark the scale he wished to show.",
+            "hi": "दिदामरी, जो बाद में फ़ारसी में लिखते हैं, बड़े-बड़े आंकड़ों का ज़िक्र करते हैं—बीस हज़ार घुड़सवार, एक लाख पैदल—जो बदशाह के साथ इस ख़तरे के सामने चलते हैं। गिनतियाँ बढ़ा-चढ़ाकर होंगी, मगर वे उस पैमाने को दिखाती हैं जो वह बताना चाहते थे।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p13_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Didamari",
+                "t": 110.0,
+                "d": 720.0
+              },
+              {
+                "w": "writing",
+                "t": 830.0,
+                "d": 440.0
+              },
+              {
+                "w": "later",
+                "t": 1270.0,
+                "d": 360.0
+              },
+              {
+                "w": "in",
+                "t": 1630.0,
+                "d": 200.0
+              },
+              {
+                "w": "Persian",
+                "t": 1830.0,
+                "d": 720.0
+              },
+              {
+                "w": "speaks",
+                "t": 2630.0,
+                "d": 520.0
+              },
+              {
+                "w": "of",
+                "t": 3150.0,
+                "d": 120.0
+              },
+              {
+                "w": "vast",
+                "t": 3270.0,
+                "d": 400.0
+              },
+              {
+                "w": "numbers",
+                "t": 3670.0,
+                "d": 760.0
+              },
+              {
+                "w": "twenty",
+                "t": 4510.0,
+                "d": 480.0
+              },
+              {
+                "w": "thousand",
+                "t": 4990.0,
+                "d": 440.0
+              },
+              {
+                "w": "cavalry",
+                "t": 5430.0,
+                "d": 840.0
+              },
+              {
+                "w": "a",
+                "t": 6350.0,
+                "d": 120.0
+              },
+              {
+                "w": "hundred",
+                "t": 6470.0,
+                "d": 400.0
+              },
+              {
+                "w": "thousand",
+                "t": 6870.0,
+                "d": 400.0
+              },
+              {
+                "w": "foot",
+                "t": 7270.0,
+                "d": 520.0
+              },
+              {
+                "w": "marching",
+                "t": 8029.0,
+                "d": 520.0
+              },
+              {
+                "w": "under",
+                "t": 8549.0,
+                "d": 281.0
+              },
+              {
+                "w": "Budshah",
+                "t": 8830.0,
+                "d": 479.0
+              },
+              {
+                "w": "to",
+                "t": 9389.0,
+                "d": 121.0
+              },
+              {
+                "w": "face",
+                "t": 9510.0,
+                "d": 360.0
+              },
+              {
+                "w": "this",
+                "t": 9870.0,
+                "d": 199.0
+              },
+              {
+                "w": "threat",
+                "t": 10069.0,
+                "d": 601.0
+              },
+              {
+                "w": "The",
+                "t": 11430.0,
+                "d": 199.0
+              },
+              {
+                "w": "figures",
+                "t": 11629.0,
+                "d": 440.0
+              },
+              {
+                "w": "are",
+                "t": 12069.0,
+                "d": 201.0
+              },
+              {
+                "w": "likely",
+                "t": 12270.0,
+                "d": 400.0
+              },
+              {
+                "w": "exaggerated",
+                "t": 12670.0,
+                "d": 1080.0
+              },
+              {
+                "w": "but",
+                "t": 13950.0,
+                "d": 240.0
+              },
+              {
+                "w": "they",
+                "t": 14190.0,
+                "d": 160.0
+              },
+              {
+                "w": "mark",
+                "t": 14350.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 14590.0,
+                "d": 119.0
+              },
+              {
+                "w": "scale",
+                "t": 14709.0,
+                "d": 360.0
+              },
+              {
+                "w": "he",
+                "t": 15069.0,
+                "d": 160.0
+              },
+              {
+                "w": "wished",
+                "t": 15229.0,
+                "d": 240.0
+              },
+              {
+                "w": "to",
+                "t": 15469.0,
+                "d": 121.0
+              },
+              {
+                "w": "show",
+                "t": 15590.0,
+                "d": 400.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/budshah_reclaims_the_mountains/img/p14.png",
+      "shot": "epic wide shot of assembled army in foothills",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Behind the numbers lies a clear truth: Kashmir can now field a disciplined, sizeable army. The frontier is no longer a loose edge; it is a defended line where Budshah chooses the ground of meeting.",
+            "hi": "इन गिनतियों के पीछे एक साफ़ बात छुपी है: अब कश्मीर के पास एक अनुशासित, बड़ी फौज है। सरहद अब ढीला किनारा नहीं रही; वह मज़बूत रेखा है, जहाँ बदशाह खुद जंग की ज़मीन चुनता है।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p14_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Behind",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 457.0,
+                "d": 127.0
+              },
+              {
+                "w": "numbers",
+                "t": 585.0,
+                "d": 425.0
+              },
+              {
+                "w": "lies",
+                "t": 1010.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 1308.0,
+                "d": 127.0
+              },
+              {
+                "w": "clear",
+                "t": 1436.0,
+                "d": 297.0
+              },
+              {
+                "w": "truth",
+                "t": 1734.0,
+                "d": 510.0
+              },
+              {
+                "w": "Kashmir",
+                "t": 2925.0,
+                "d": 468.0
+              },
+              {
+                "w": "can",
+                "t": 3393.0,
+                "d": 169.0
+              },
+              {
+                "w": "now",
+                "t": 3562.0,
+                "d": 298.0
+              },
+              {
+                "w": "field",
+                "t": 3861.0,
+                "d": 296.0
+              },
+              {
+                "w": "a",
+                "t": 4158.0,
+                "d": 42.0
+              },
+              {
+                "w": "disciplined",
+                "t": 4201.0,
+                "d": 1022.0
+              },
+              {
+                "w": "sizeable",
+                "t": 5265.0,
+                "d": 680.0
+              },
+              {
+                "w": "army",
+                "t": 5946.0,
+                "d": 425.0
+              },
+              {
+                "w": "The",
+                "t": 7138.0,
+                "d": 255.0
+              },
+              {
+                "w": "frontier",
+                "t": 7393.0,
+                "d": 510.0
+              },
+              {
+                "w": "is",
+                "t": 7904.0,
+                "d": 170.0
+              },
+              {
+                "w": "no",
+                "t": 8074.0,
+                "d": 170.0
+              },
+              {
+                "w": "longer",
+                "t": 8244.0,
+                "d": 381.0
+              },
+              {
+                "w": "a",
+                "t": 8626.0,
+                "d": 85.0
+              },
+              {
+                "w": "loose",
+                "t": 8711.0,
+                "d": 382.0
+              },
+              {
+                "w": "edge",
+                "t": 9094.0,
+                "d": 681.0
+              },
+              {
+                "w": "it",
+                "t": 10117.0,
+                "d": 211.0
+              },
+              {
+                "w": "is",
+                "t": 10328.0,
+                "d": 128.0
+              },
+              {
+                "w": "a",
+                "t": 10457.0,
+                "d": 127.0
+              },
+              {
+                "w": "defended",
+                "t": 10585.0,
+                "d": 552.0
+              },
+              {
+                "w": "line",
+                "t": 11137.0,
+                "d": 554.0
+              },
+              {
+                "w": "where",
+                "t": 11691.0,
+                "d": 297.0
+              },
+              {
+                "w": "Budshah",
+                "t": 11989.0,
+                "d": 467.0
+              },
+              {
+                "w": "chooses",
+                "t": 12456.0,
+                "d": 426.0
+              },
+              {
+                "w": "the",
+                "t": 12882.0,
+                "d": 126.0
+              },
+              {
+                "w": "ground",
+                "t": 13009.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 13350.0,
+                "d": 170.0
+              },
+              {
+                "w": "meeting",
+                "t": 13520.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/budshah_reclaims_the_mountains/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/budshah_reclaims_the_mountains/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As rival standards loom, he carves order from chaos, his voice binding scattered banners into one determined front.",
+            "hi": "जब झंडे आमने-सामने हों, वो अफरातफरी में भी क़ायदा गढ़ दे, उसकी आवाज़ बिखरे निशानियों को एक मज़बूत मोर्चे में जोड़ दे।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/action/action_auto2_en.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 70.0,
+                "d": 320.0
+              },
+              {
+                "w": "rival",
+                "t": 390.0,
+                "d": 320.0
+              },
+              {
+                "w": "standards",
+                "t": 710.0,
+                "d": 560.0
+              },
+              {
+                "w": "loom",
+                "t": 1270.0,
+                "d": 200.0
+              },
+              {
+                "w": "he",
+                "t": 1470.0,
+                "d": 680.0
+              },
+              {
+                "w": "carves",
+                "t": 2150.0,
+                "d": 360.0
+              },
+              {
+                "w": "order",
+                "t": 2510.0,
+                "d": 359.0
+              },
+              {
+                "w": "from",
+                "t": 2869.0,
+                "d": 241.0
+              },
+              {
+                "w": "chaos",
+                "t": 3110.0,
+                "d": 640.0
+              },
+              {
+                "w": "his",
+                "t": 3909.0,
+                "d": 281.0
+              },
+              {
+                "w": "voice",
+                "t": 4190.0,
+                "d": 360.0
+              },
+              {
+                "w": "binding",
+                "t": 4550.0,
+                "d": 440.0
+              },
+              {
+                "w": "scattered",
+                "t": 4990.0,
+                "d": 480.0
+              },
+              {
+                "w": "banners",
+                "t": 5470.0,
+                "d": 440.0
+              },
+              {
+                "w": "into",
+                "t": 5910.0,
+                "d": 240.0
+              },
+              {
+                "w": "one",
+                "t": 6150.0,
+                "d": 360.0
+              },
+              {
+                "w": "determined",
+                "t": 6510.0,
+                "d": 480.0
+              },
+              {
+                "w": "front",
+                "t": 6990.0,
+                "d": 520.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/budshah_reclaims_the_mountains/img/p15.png",
+      "shot": "tense mid-shot on a mountain ridge facing distant enemy",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The sources do not paint the battle in detail. They record the essential outcome: the Kashgar force is checked and beaten, its advance turned back into the high country, leaving the roads beneath Kashmir's watch.",
+            "hi": "तवारीख जंग की तस्वीर बारीकी से नहीं बनातीं। वे बस नतीजा दर्ज करती हैं: काशगर की फौज रोकी और हराई जाती है, उसका कूच ऊँचे पहाड़ों की तरफ़ लौटा दिया जाता है, और रास्ते फिर कश्मीर की निगरानी में रहते हैं।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p15_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "sources",
+                "t": 270.0,
+                "d": 440.0
+              },
+              {
+                "w": "do",
+                "t": 710.0,
+                "d": 120.0
+              },
+              {
+                "w": "not",
+                "t": 830.0,
+                "d": 240.0
+              },
+              {
+                "w": "paint",
+                "t": 1070.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 1310.0,
+                "d": 120.0
+              },
+              {
+                "w": "battle",
+                "t": 1430.0,
+                "d": 400.0
+              },
+              {
+                "w": "in",
+                "t": 1830.0,
+                "d": 199.0
+              },
+              {
+                "w": "detail",
+                "t": 2029.0,
+                "d": 1161.0
+              },
+              {
+                "w": "They",
+                "t": 3190.0,
+                "d": 239.0
+              },
+              {
+                "w": "record",
+                "t": 3429.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 3829.0,
+                "d": 120.0
+              },
+              {
+                "w": "essential",
+                "t": 3949.0,
+                "d": 441.0
+              },
+              {
+                "w": "outcome",
+                "t": 4390.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 5430.0,
+                "d": 160.0
+              },
+              {
+                "w": "Kashgar",
+                "t": 5590.0,
+                "d": 440.0
+              },
+              {
+                "w": "force",
+                "t": 6030.0,
+                "d": 320.0
+              },
+              {
+                "w": "is",
+                "t": 6350.0,
+                "d": 160.0
+              },
+              {
+                "w": "checked",
+                "t": 6510.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 6870.0,
+                "d": 120.0
+              },
+              {
+                "w": "beaten",
+                "t": 6990.0,
+                "d": 1000.0
+              },
+              {
+                "w": "its",
+                "t": 7990.0,
+                "d": 239.0
+              },
+              {
+                "w": "advance",
+                "t": 8229.0,
+                "d": 521.0
+              },
+              {
+                "w": "turned",
+                "t": 8750.0,
+                "d": 319.0
+              },
+              {
+                "w": "back",
+                "t": 9069.0,
+                "d": 281.0
+              },
+              {
+                "w": "into",
+                "t": 9350.0,
+                "d": 199.0
+              },
+              {
+                "w": "the",
+                "t": 9549.0,
+                "d": 121.0
+              },
+              {
+                "w": "high",
+                "t": 9670.0,
+                "d": 200.0
+              },
+              {
+                "w": "country",
+                "t": 9870.0,
+                "d": 800.0
+              },
+              {
+                "w": "leaving",
+                "t": 10870.0,
+                "d": 359.0
+              },
+              {
+                "w": "the",
+                "t": 11229.0,
+                "d": 121.0
+              },
+              {
+                "w": "roads",
+                "t": 11350.0,
+                "d": 359.0
+              },
+              {
+                "w": "beneath",
+                "t": 11709.0,
+                "d": 401.0
+              },
+              {
+                "w": "Kashmir's",
+                "t": 12110.0,
+                "d": 439.0
+              },
+              {
+                "w": "watch",
+                "t": 12549.0,
+                "d": 641.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/budshah_reclaims_the_mountains/img/p16.png",
+      "shot": "restrained aftermath wide shot",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "No triumphal slaughter fills the chronicle pages. They move on with a simple note: Budshah's army returns; the mountain approaches remain Kashmir's; caravans keep moving; diplomacy with distant courts continues on a safer foundation.",
+            "hi": "किसी शान-ओ-शौकत वाले कत्लेआम का ज़िक्र नहीं मिलता। तवारीख बस इतना कहकर आगे बढ़ जाती हैं: बदशाह की फौज लौटती है; पहाड़ी रास्ते कश्मीर के हाथ में रहते हैं; कारवाँ चलते रहते हैं; दूर दरबारों से सियासी राब्ते अब ज़्यादा सुरक्षित नींव पर कायम रहते हैं।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p16_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "No",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "triumphal",
+                "t": 457.0,
+                "d": 553.0
+              },
+              {
+                "w": "slaughter",
+                "t": 1010.0,
+                "d": 553.0
+              },
+              {
+                "w": "fills",
+                "t": 1563.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 1904.0,
+                "d": 170.0
+              },
+              {
+                "w": "chronicle",
+                "t": 2074.0,
+                "d": 509.0
+              },
+              {
+                "w": "pages",
+                "t": 2584.0,
+                "d": 1150.0
+              },
+              {
+                "w": "They",
+                "t": 3734.0,
+                "d": 296.0
+              },
+              {
+                "w": "move",
+                "t": 4030.0,
+                "d": 298.0
+              },
+              {
+                "w": "on",
+                "t": 4329.0,
+                "d": 170.0
+              },
+              {
+                "w": "with",
+                "t": 4500.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 4670.0,
+                "d": 42.0
+              },
+              {
+                "w": "simple",
+                "t": 4712.0,
+                "d": 468.0
+              },
+              {
+                "w": "note",
+                "t": 5180.0,
+                "d": 468.0
+              },
+              {
+                "w": "Budshah's",
+                "t": 6244.0,
+                "d": 723.0
+              },
+              {
+                "w": "army",
+                "t": 6968.0,
+                "d": 382.0
+              },
+              {
+                "w": "returns",
+                "t": 7351.0,
+                "d": 765.0
+              },
+              {
+                "w": "the",
+                "t": 8500.0,
+                "d": 169.0
+              },
+              {
+                "w": "mountain",
+                "t": 8669.0,
+                "d": 425.0
+              },
+              {
+                "w": "approaches",
+                "t": 9094.0,
+                "d": 553.0
+              },
+              {
+                "w": "remain",
+                "t": 9647.0,
+                "d": 384.0
+              },
+              {
+                "w": "Kashmir's",
+                "t": 10031.0,
+                "d": 1190.0
+              },
+              {
+                "w": "caravans",
+                "t": 11307.0,
+                "d": 553.0
+              },
+              {
+                "w": "keep",
+                "t": 11860.0,
+                "d": 255.0
+              },
+              {
+                "w": "moving",
+                "t": 12115.0,
+                "d": 978.0
+              },
+              {
+                "w": "diplomacy",
+                "t": 13223.0,
+                "d": 764.0
+              },
+              {
+                "w": "with",
+                "t": 13988.0,
+                "d": 213.0
+              },
+              {
+                "w": "distant",
+                "t": 14202.0,
+                "d": 468.0
+              },
+              {
+                "w": "courts",
+                "t": 14670.0,
+                "d": 381.0
+              },
+              {
+                "w": "continues",
+                "t": 15052.0,
+                "d": 681.0
+              },
+              {
+                "w": "on",
+                "t": 15734.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 15946.0,
+                "d": 42.0
+              },
+              {
+                "w": "safer",
+                "t": 15989.0,
+                "d": 467.0
+              },
+              {
+                "w": "foundation",
+                "t": 16456.0,
+                "d": 894.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/budshah_reclaims_the_mountains/split_auto/s0.png",
+          "slogan": {
+            "en": "For Kashmir, we stand united",
+            "hi": "कश्मीर के लिए हम एक हैं"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/budshah_reclaims_the_mountains/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/budshah_reclaims_the_mountains/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From bloodied passes to bustling bazaars, his will forges Kashmir's mountains and markets into a single guarded realm.",
+            "hi": "खून से भीगे दर्रों से लेकर चहल-पहल भरे बाज़ारों तक, उसकी लौह इच्छा ने कश्मीर की चोटियों और मंडियों को एक किले-जैसा राज्य बना दिया।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/split/split_auto_en.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 333.0
+              },
+              {
+                "w": "bloodied",
+                "t": 406.0,
+                "d": 416.0
+              },
+              {
+                "w": "passes",
+                "t": 822.0,
+                "d": 500.0
+              },
+              {
+                "w": "to",
+                "t": 1322.0,
+                "d": 166.0
+              },
+              {
+                "w": "bustling",
+                "t": 1489.0,
+                "d": 500.0
+              },
+              {
+                "w": "bazaars",
+                "t": 1989.0,
+                "d": 791.0
+              },
+              {
+                "w": "his",
+                "t": 2988.0,
+                "d": 334.0
+              },
+              {
+                "w": "will",
+                "t": 3322.0,
+                "d": 207.0
+              },
+              {
+                "w": "forges",
+                "t": 3530.0,
+                "d": 500.0
+              },
+              {
+                "w": "Kashmir's",
+                "t": 4030.0,
+                "d": 459.0
+              },
+              {
+                "w": "mountains",
+                "t": 4489.0,
+                "d": 750.0
+              },
+              {
+                "w": "and",
+                "t": 5281.0,
+                "d": 208.0
+              },
+              {
+                "w": "markets",
+                "t": 5489.0,
+                "d": 500.0
+              },
+              {
+                "w": "into",
+                "t": 5989.0,
+                "d": 291.0
+              },
+              {
+                "w": "a",
+                "t": 6281.0,
+                "d": 41.0
+              },
+              {
+                "w": "single",
+                "t": 6322.0,
+                "d": 583.0
+              },
+              {
+                "w": "guarded",
+                "t": 6906.0,
+                "d": 458.0
+              },
+              {
+                "w": "realm",
+                "t": 7364.0,
+                "d": 500.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/budshah_reclaims_the_mountains/img/p17.png",
+      "shot": "serene wide shot of bustling bazaar in Srinagar",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When later generations praise Budshah for art, learning and tolerance, this is the ground beneath their words: secured frontiers, restored northern routes, and a Sultan who understood that peace in the valley depends on strength in the passes.",
+            "hi": "जब बाद की नस्लें बदशाह की कला, इल्म और रूहनियत की तारीफ करती हैं, तो उनके अल्फ़ाज़ के नीचे यही ज़मीन बिछी होती है: महफ़ूज़ सरहदें, बहाल की गई उत्तरी राहें, और वो सुल्तान जो समझता था कि घाटी का सुकून दर्रों की ताकत पर टिका है।"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p17_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "later",
+                "t": 372.0,
+                "d": 425.0
+              },
+              {
+                "w": "generations",
+                "t": 797.0,
+                "d": 851.0
+              },
+              {
+                "w": "praise",
+                "t": 1648.0,
+                "d": 382.0
+              },
+              {
+                "w": "Budshah",
+                "t": 2031.0,
+                "d": 509.0
+              },
+              {
+                "w": "for",
+                "t": 2541.0,
+                "d": 341.0
+              },
+              {
+                "w": "art",
+                "t": 2882.0,
+                "d": 510.0
+              },
+              {
+                "w": "learning",
+                "t": 3605.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 4243.0,
+                "d": 298.0
+              },
+              {
+                "w": "tolerance",
+                "t": 4542.0,
+                "d": 553.0
+              },
+              {
+                "w": "this",
+                "t": 5095.0,
+                "d": 297.0
+              },
+              {
+                "w": "is",
+                "t": 5904.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 6202.0,
+                "d": 127.0
+              },
+              {
+                "w": "ground",
+                "t": 6329.0,
+                "d": 382.0
+              },
+              {
+                "w": "beneath",
+                "t": 6712.0,
+                "d": 297.0
+              },
+              {
+                "w": "their",
+                "t": 7010.0,
+                "d": 255.0
+              },
+              {
+                "w": "words",
+                "t": 7265.0,
+                "d": 680.0
+              },
+              {
+                "w": "secured",
+                "t": 8202.0,
+                "d": 637.0
+              },
+              {
+                "w": "frontiers",
+                "t": 8839.0,
+                "d": 893.0
+              },
+              {
+                "w": "restored",
+                "t": 9903.0,
+                "d": 596.0
+              },
+              {
+                "w": "northern",
+                "t": 10500.0,
+                "d": 425.0
+              },
+              {
+                "w": "routes",
+                "t": 10925.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 11648.0,
+                "d": 296.0
+              },
+              {
+                "w": "a",
+                "t": 11945.0,
+                "d": 43.0
+              },
+              {
+                "w": "Sultan",
+                "t": 11989.0,
+                "d": 638.0
+              },
+              {
+                "w": "who",
+                "t": 12627.0,
+                "d": 211.0
+              },
+              {
+                "w": "understood",
+                "t": 12839.0,
+                "d": 595.0
+              },
+              {
+                "w": "that",
+                "t": 13435.0,
+                "d": 298.0
+              },
+              {
+                "w": "peace",
+                "t": 13734.0,
+                "d": 468.0
+              },
+              {
+                "w": "in",
+                "t": 14202.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 14328.0,
+                "d": 128.0
+              },
+              {
+                "w": "valley",
+                "t": 14457.0,
+                "d": 723.0
+              },
+              {
+                "w": "depends",
+                "t": 15265.0,
+                "d": 468.0
+              },
+              {
+                "w": "on",
+                "t": 15734.0,
+                "d": 170.0
+              },
+              {
+                "w": "strength",
+                "t": 15904.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 16456.0,
+                "d": 128.0
+              },
+              {
+                "w": "the",
+                "t": 16585.0,
+                "d": 126.0
+              },
+              {
+                "w": "passes",
+                "t": 16711.0,
+                "d": 767.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/budshah_reclaims_the_mountains/img/p18.png",
+      "shot": "final contemplative shot of Budshah on a mountain overlook at sunset",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Zain-ul-Abidin's golden age is remembered for gentleness, but its roots lie in hard stone and cold wind. His story asks a quiet question that still endures: how often is lasting peace built on unseen, disciplined strength at the frontier?",
+            "hi": "ज़ैनुलआबिदीन का सुनहरा दौर नरमी के लिए याद किया जाता है, लेकिन उसकी जड़ें सख्त पत्थर और ठंडी हवाओं में हैं। उसकी कहानी आज भी एक हल्का सा सवाल छोड़ती है: टिकाऊ अमन कितनी बार ऐसी अनदेखी, पाबंद सरहदी ताकत पर खड़ा होता है?"
+          },
+          "audio": {
+            "en": "assets/budshah_reclaims_the_mountains/audio/en/p18_0.mp3",
+            "hi": "assets/budshah_reclaims_the_mountains/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Zain-ul-Abidin's",
+                "t": 117.0,
+                "d": 893.0
+              },
+              {
+                "w": "golden",
+                "t": 1010.0,
+                "d": 425.0
+              },
+              {
+                "w": "age",
+                "t": 1436.0,
+                "d": 340.0
+              },
+              {
+                "w": "is",
+                "t": 1819.0,
+                "d": 170.0
+              },
+              {
+                "w": "remembered",
+                "t": 1989.0,
+                "d": 552.0
+              },
+              {
+                "w": "for",
+                "t": 2541.0,
+                "d": 171.0
+              },
+              {
+                "w": "gentleness",
+                "t": 2712.0,
+                "d": 1021.0
+              },
+              {
+                "w": "but",
+                "t": 3946.0,
+                "d": 211.0
+              },
+              {
+                "w": "its",
+                "t": 4158.0,
+                "d": 171.0
+              },
+              {
+                "w": "roots",
+                "t": 4329.0,
+                "d": 297.0
+              },
+              {
+                "w": "lie",
+                "t": 4627.0,
+                "d": 255.0
+              },
+              {
+                "w": "in",
+                "t": 4882.0,
+                "d": 127.0
+              },
+              {
+                "w": "hard",
+                "t": 5010.0,
+                "d": 297.0
+              },
+              {
+                "w": "stone",
+                "t": 5308.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 5734.0,
+                "d": 255.0
+              },
+              {
+                "w": "cold",
+                "t": 5989.0,
+                "d": 340.0
+              },
+              {
+                "w": "wind",
+                "t": 6329.0,
+                "d": 425.0
+              },
+              {
+                "w": "His",
+                "t": 7478.0,
+                "d": 170.0
+              },
+              {
+                "w": "story",
+                "t": 7648.0,
+                "d": 382.0
+              },
+              {
+                "w": "asks",
+                "t": 8031.0,
+                "d": 468.0
+              },
+              {
+                "w": "a",
+                "t": 8500.0,
+                "d": 169.0
+              },
+              {
+                "w": "quiet",
+                "t": 8669.0,
+                "d": 384.0
+              },
+              {
+                "w": "question",
+                "t": 9053.0,
+                "d": 638.0
+              },
+              {
+                "w": "that",
+                "t": 9732.0,
+                "d": 170.0
+              },
+              {
+                "w": "still",
+                "t": 9903.0,
+                "d": 298.0
+              },
+              {
+                "w": "endures",
+                "t": 10202.0,
+                "d": 808.0
+              },
+              {
+                "w": "how",
+                "t": 11563.0,
+                "d": 340.0
+              },
+              {
+                "w": "often",
+                "t": 11904.0,
+                "d": 340.0
+              },
+              {
+                "w": "is",
+                "t": 12244.0,
+                "d": 126.0
+              },
+              {
+                "w": "lasting",
+                "t": 12371.0,
+                "d": 553.0
+              },
+              {
+                "w": "peace",
+                "t": 12924.0,
+                "d": 298.0
+              },
+              {
+                "w": "built",
+                "t": 13223.0,
+                "d": 296.0
+              },
+              {
+                "w": "on",
+                "t": 13520.0,
+                "d": 213.0
+              },
+              {
+                "w": "unseen",
+                "t": 13734.0,
+                "d": 679.0
+              },
+              {
+                "w": "disciplined",
+                "t": 14797.0,
+                "d": 638.0
+              },
+              {
+                "w": "strength",
+                "t": 15436.0,
+                "d": 425.0
+              },
+              {
+                "w": "at",
+                "t": 15861.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 15989.0,
+                "d": 126.0
+              },
+              {
+                "w": "frontier",
+                "t": 16115.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Zain-ul-Abidin (Shahi Khan)",
+    "epithets": [
+      "Budshah",
+      "Zain-ul-Abidin",
+      "The Just Sultan of Kashmir",
+      "Friend of the Mountains"
+    ],
+    "legend": "The king of peace first fought for the mountain roads."
+  }
+}
