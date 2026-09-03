@@ -1,0 +1,3642 @@
+{
+  "id": "the_boy_prince_of_samarkand",
+  "title": "The Boy Prince of Samarkand",
+  "title_i18n": {
+    "en": "The Boy Prince of Samarkand",
+    "hi": "समरकंद का बाल राजकुमार"
+  },
+  "figure": "Zain-ul-Abidin",
+  "era": "Youth, regency and accession of Budshah, c. 1405-1420 CE",
+  "moral": "A ruler's formation begins before the crown.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_boy_prince_of_samarkand/intro/hero.png",
+      "name": "Zain-ul-Abidin (Shahi Khan)",
+      "epithets": [
+        "Budshah of Kashmir",
+        "Zain-ul-Abidin",
+        "The Just Sultan of Kashmir",
+        "Friend of Hindus and Muslims"
+      ],
+      "legend": "The boy who fled bloodshed to rule Kashmir with rare mercy.",
+      "era": "Youth, regency and accession of Budshah, c. 1405-1420 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "A young prince escapes Timurid Samarkand, carrying secrets of power and fear. As daggers flash in Kashmir's courts, will exile's scars turn him cruel, or forge a gentle Budshah?",
+            "hi": "एक नाजुक शाहज़ादा तैमूरी समरक़ंद से भागता है, ताक़त और ख़ौफ़ के राज़ साथ लिए। जब कश्मीर की दर्बारों में खंजर चमकते हैं, क्या जला-वतन के ज़ख्म उसे जालिम बनाएंगे… या गढ़ेंगे एक नरम दिल बूढ़शाह?"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/intro/hero_en.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "A",
+                "t": 114.0,
+                "d": 166.0
+              },
+              {
+                "w": "young",
+                "t": 281.0,
+                "d": 291.0
+              },
+              {
+                "w": "prince",
+                "t": 572.0,
+                "d": 333.0
+              },
+              {
+                "w": "escapes",
+                "t": 906.0,
+                "d": 583.0
+              },
+              {
+                "w": "Timurid",
+                "t": 1489.0,
+                "d": 458.0
+              },
+              {
+                "w": "Samarkand",
+                "t": 1947.0,
+                "d": 1040.0
+              },
+              {
+                "w": "carrying",
+                "t": 3030.0,
+                "d": 376.0
+              },
+              {
+                "w": "secrets",
+                "t": 3406.0,
+                "d": 540.0
+              },
+              {
+                "w": "of",
+                "t": 3946.0,
+                "d": 251.0
+              },
+              {
+                "w": "power",
+                "t": 4197.0,
+                "d": 541.0
+              },
+              {
+                "w": "and",
+                "t": 4739.0,
+                "d": 291.0
+              },
+              {
+                "w": "fear",
+                "t": 5031.0,
+                "d": 458.0
+              },
+              {
+                "w": "As",
+                "t": 6239.0,
+                "d": 416.0
+              },
+              {
+                "w": "daggers",
+                "t": 6656.0,
+                "d": 458.0
+              },
+              {
+                "w": "flash",
+                "t": 7114.0,
+                "d": 333.0
+              },
+              {
+                "w": "in",
+                "t": 7447.0,
+                "d": 125.0
+              },
+              {
+                "w": "Kashmir's",
+                "t": 7572.0,
+                "d": 458.0
+              },
+              {
+                "w": "courts",
+                "t": 8031.0,
+                "d": 540.0
+              },
+              {
+                "w": "will",
+                "t": 8738.0,
+                "d": 333.0
+              },
+              {
+                "w": "exile's",
+                "t": 9071.0,
+                "d": 541.0
+              },
+              {
+                "w": "scars",
+                "t": 9613.0,
+                "d": 416.0
+              },
+              {
+                "w": "turn",
+                "t": 10030.0,
+                "d": 209.0
+              },
+              {
+                "w": "him",
+                "t": 10239.0,
+                "d": 208.0
+              },
+              {
+                "w": "cruel",
+                "t": 10447.0,
+                "d": 666.0
+              },
+              {
+                "w": "or",
+                "t": 11155.0,
+                "d": 251.0
+              },
+              {
+                "w": "forge",
+                "t": 11406.0,
+                "d": 416.0
+              },
+              {
+                "w": "a",
+                "t": 11822.0,
+                "d": 123.0
+              },
+              {
+                "w": "gentle",
+                "t": 11946.0,
+                "d": 376.0
+              },
+              {
+                "w": "Budshah",
+                "t": 12322.0,
+                "d": 541.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_boy_prince_of_samarkand/intro/map.png",
+      "x": 0.6,
+      "y": 0.25,
+      "label": "Samarkand to Sialkot, Uri & Srinagar, Kashmir",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From far Samarkand to the green valley of Kashmir, a hunted boy walks toward a throne that may cost him his soul.",
+            "hi": "दूर समरकंद से हरी कश्मीर घाटी तक, शिकार बना लड़का उस सिंहासन की तरफ बढ़ रहा है जो उसकी रूह निगल सकता है।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/intro/map_en.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "far",
+                "t": 402.0,
+                "d": 367.0
+              },
+              {
+                "w": "Samarkand",
+                "t": 770.0,
+                "d": 919.0
+              },
+              {
+                "w": "to",
+                "t": 1735.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 1873.0,
+                "d": 137.0
+              },
+              {
+                "w": "green",
+                "t": 2011.0,
+                "d": 413.0
+              },
+              {
+                "w": "valley",
+                "t": 2425.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 2745.0,
+                "d": 185.0
+              },
+              {
+                "w": "Kashmir",
+                "t": 2931.0,
+                "d": 689.0
+              },
+              {
+                "w": "a",
+                "t": 4034.0,
+                "d": 137.0
+              },
+              {
+                "w": "hunted",
+                "t": 4172.0,
+                "d": 505.0
+              },
+              {
+                "w": "boy",
+                "t": 4678.0,
+                "d": 321.0
+              },
+              {
+                "w": "walks",
+                "t": 5000.0,
+                "d": 735.0
+              },
+              {
+                "w": "toward",
+                "t": 5781.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 6103.0,
+                "d": 137.0
+              },
+              {
+                "w": "throne",
+                "t": 6241.0,
+                "d": 367.0
+              },
+              {
+                "w": "that",
+                "t": 6609.0,
+                "d": 229.0
+              },
+              {
+                "w": "may",
+                "t": 6839.0,
+                "d": 183.0
+              },
+              {
+                "w": "cost",
+                "t": 7022.0,
+                "d": 367.0
+              },
+              {
+                "w": "him",
+                "t": 7390.0,
+                "d": 137.0
+              },
+              {
+                "w": "his",
+                "t": 7528.0,
+                "d": 183.0
+              },
+              {
+                "w": "soul",
+                "t": 7712.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_boy_prince_of_samarkand/img/cover.png",
+      "shot": "epic wide with a young prince silhouetted between snowy mountains and the domes of a distant city",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Before he was Budshah of Kashmir, Shahi Khan walked in Timurid Samarkand, survived court blood on Eid, and rode civil war to a throne that would shape a valley's fate.",
+            "hi": "कश्मीर का बुदशाह बनने से पहले, शाही ख़ान तैमूरी समरकंद में चला, ईद पर दरबार की ख़ूनी साज़िश से बचा, और गृहयुद्ध पर सवार होकर उस तख़्त तक पहुँचा जिसने वादी की किस्मत मोड़ दी।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/cover_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Before",
+                "t": 110.0,
+                "d": 360.0
+              },
+              {
+                "w": "he",
+                "t": 470.0,
+                "d": 80.0
+              },
+              {
+                "w": "was",
+                "t": 550.0,
+                "d": 200.0
+              },
+              {
+                "w": "Budshah",
+                "t": 750.0,
+                "d": 520.0
+              },
+              {
+                "w": "of",
+                "t": 1270.0,
+                "d": 80.0
+              },
+              {
+                "w": "Kashmir",
+                "t": 1350.0,
+                "d": 600.0
+              },
+              {
+                "w": "Shahi",
+                "t": 2230.0,
+                "d": 880.0
+              },
+              {
+                "w": "Khan",
+                "t": 3110.0,
+                "d": 359.0
+              },
+              {
+                "w": "walked",
+                "t": 3469.0,
+                "d": 480.0
+              },
+              {
+                "w": "in",
+                "t": 3949.0,
+                "d": 81.0
+              },
+              {
+                "w": "Timurid",
+                "t": 4030.0,
+                "d": 600.0
+              },
+              {
+                "w": "Samarkand",
+                "t": 4990.0,
+                "d": 480.0
+              },
+              {
+                "w": "survived",
+                "t": 5470.0,
+                "d": 360.0
+              },
+              {
+                "w": "court",
+                "t": 5830.0,
+                "d": 200.0
+              },
+              {
+                "w": "blood",
+                "t": 6030.0,
+                "d": 200.0
+              },
+              {
+                "w": "on",
+                "t": 6230.0,
+                "d": 80.0
+              },
+              {
+                "w": "Eid",
+                "t": 6310.0,
+                "d": 240.0
+              },
+              {
+                "w": "and",
+                "t": 6790.0,
+                "d": 360.0
+              },
+              {
+                "w": "rode",
+                "t": 7150.0,
+                "d": 240.0
+              },
+              {
+                "w": "civil",
+                "t": 7390.0,
+                "d": 280.0
+              },
+              {
+                "w": "war",
+                "t": 7670.0,
+                "d": 280.0
+              },
+              {
+                "w": "to",
+                "t": 7950.0,
+                "d": 159.0
+              },
+              {
+                "w": "a",
+                "t": 8109.0,
+                "d": 40.0
+              },
+              {
+                "w": "throne",
+                "t": 8149.0,
+                "d": 480.0
+              },
+              {
+                "w": "that",
+                "t": 8629.0,
+                "d": 161.0
+              },
+              {
+                "w": "would",
+                "t": 8790.0,
+                "d": 200.0
+              },
+              {
+                "w": "shape",
+                "t": 8990.0,
+                "d": 319.0
+              },
+              {
+                "w": "a",
+                "t": 9309.0,
+                "d": 80.0
+              },
+              {
+                "w": "valley's",
+                "t": 9389.0,
+                "d": 441.0
+              },
+              {
+                "w": "fate",
+                "t": 9830.0,
+                "d": 440.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_boy_prince_of_samarkand/img/p01.png",
+      "shot": "intimate interior wide of a frontier household, warm lamplight on a boy among elders",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Born Shahi Khan, his mother's blood tied him to the Shahi chief of Ohind, where frontier winds carried talk of Kashmir's sultans, Punjab chiefs and the far courts of Transoxiana.",
+            "hi": "शाही ख़ान जन्मा, माँ की नस्ल ने उसे ओहिंद के शाही सरदार से जोड़ा, जहाँ सरहदी हवाएँ कश्मीर के सुल्तानों, पंजाब के सरदारों और दूर तूरान के दरबारों की बातें लाती थीं।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p01_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Born",
+                "t": 117.0,
+                "d": 382.0
+              },
+              {
+                "w": "Shahi",
+                "t": 500.0,
+                "d": 340.0
+              },
+              {
+                "w": "Khan",
+                "t": 840.0,
+                "d": 425.0
+              },
+              {
+                "w": "his",
+                "t": 1393.0,
+                "d": 340.0
+              },
+              {
+                "w": "mother's",
+                "t": 1734.0,
+                "d": 424.0
+              },
+              {
+                "w": "blood",
+                "t": 2158.0,
+                "d": 297.0
+              },
+              {
+                "w": "tied",
+                "t": 2456.0,
+                "d": 298.0
+              },
+              {
+                "w": "him",
+                "t": 2755.0,
+                "d": 170.0
+              },
+              {
+                "w": "to",
+                "t": 2925.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 3052.0,
+                "d": 127.0
+              },
+              {
+                "w": "Shahi",
+                "t": 3179.0,
+                "d": 425.0
+              },
+              {
+                "w": "chief",
+                "t": 3605.0,
+                "d": 256.0
+              },
+              {
+                "w": "of",
+                "t": 3861.0,
+                "d": 169.0
+              },
+              {
+                "w": "Ohind",
+                "t": 4030.0,
+                "d": 894.0
+              },
+              {
+                "w": "where",
+                "t": 5053.0,
+                "d": 255.0
+              },
+              {
+                "w": "frontier",
+                "t": 5308.0,
+                "d": 510.0
+              },
+              {
+                "w": "winds",
+                "t": 5819.0,
+                "d": 425.0
+              },
+              {
+                "w": "carried",
+                "t": 6244.0,
+                "d": 382.0
+              },
+              {
+                "w": "talk",
+                "t": 6627.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 6968.0,
+                "d": 170.0
+              },
+              {
+                "w": "Kashmir's",
+                "t": 7138.0,
+                "d": 468.0
+              },
+              {
+                "w": "sultans",
+                "t": 7606.0,
+                "d": 893.0
+              },
+              {
+                "w": "Punjab",
+                "t": 8882.0,
+                "d": 425.0
+              },
+              {
+                "w": "chiefs",
+                "t": 9308.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 9861.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 10117.0,
+                "d": 126.0
+              },
+              {
+                "w": "far",
+                "t": 10243.0,
+                "d": 384.0
+              },
+              {
+                "w": "courts",
+                "t": 10627.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 10925.0,
+                "d": 170.0
+              },
+              {
+                "w": "Transoxiana",
+                "t": 11095.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_boy_prince_of_samarkand/img/p02.png",
+      "shot": "slow push-in on teacher and pupil in a simple study room",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Under the liberal Maulana Kabir, Shahi Khan's youth was shaped by letters and law, learning Persian courts and Kashmiri Sanskrit tales side by side.",
+            "hi": "उदार मौलाना कबीर के साए में, शाही ख़ान की जवानी किताबों और क़ानून से ढली, फ़ारसी दरबार और कश्मीरी संस्कृत कथाएँ साथ‑साथ पढ़ी गईं।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p02_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Under",
+                "t": 117.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 414.0,
+                "d": 127.0
+              },
+              {
+                "w": "liberal",
+                "t": 542.0,
+                "d": 510.0
+              },
+              {
+                "w": "Maulana",
+                "t": 1095.0,
+                "d": 510.0
+              },
+              {
+                "w": "Kabir",
+                "t": 1648.0,
+                "d": 425.0
+              },
+              {
+                "w": "Shahi",
+                "t": 2456.0,
+                "d": 426.0
+              },
+              {
+                "w": "Khan's",
+                "t": 2882.0,
+                "d": 382.0
+              },
+              {
+                "w": "youth",
+                "t": 3265.0,
+                "d": 296.0
+              },
+              {
+                "w": "was",
+                "t": 3562.0,
+                "d": 171.0
+              },
+              {
+                "w": "shaped",
+                "t": 3734.0,
+                "d": 381.0
+              },
+              {
+                "w": "by",
+                "t": 4115.0,
+                "d": 213.0
+              },
+              {
+                "w": "letters",
+                "t": 4329.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 4755.0,
+                "d": 170.0
+              },
+              {
+                "w": "law",
+                "t": 4925.0,
+                "d": 595.0
+              },
+              {
+                "w": "learning",
+                "t": 5776.0,
+                "d": 425.0
+              },
+              {
+                "w": "Persian",
+                "t": 6202.0,
+                "d": 425.0
+              },
+              {
+                "w": "courts",
+                "t": 6627.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 7308.0,
+                "d": 340.0
+              },
+              {
+                "w": "Kashmiri",
+                "t": 7648.0,
+                "d": 468.0
+              },
+              {
+                "w": "Sanskrit",
+                "t": 8117.0,
+                "d": 509.0
+              },
+              {
+                "w": "tales",
+                "t": 8626.0,
+                "d": 382.0
+              },
+              {
+                "w": "side",
+                "t": 9009.0,
+                "d": 255.0
+              },
+              {
+                "w": "by",
+                "t": 9264.0,
+                "d": 171.0
+              },
+              {
+                "w": "side",
+                "t": 9436.0,
+                "d": 467.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_boy_prince_of_samarkand/img/p03.png",
+      "shot": "sweeping bird’s-eye over caravan moving through Central Asian landscape",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In his formative years, Srivara's Budshah walked the streets of Timurid Samarkand, where Ulugh Beg's scholars and Timur's generals shared space with merchants and artisans.",
+            "hi": "इन शुरुआती बरसों में श्रीवरा का बुदशाह तैमूरी समरकंद की गलियों में चलता रहा, जहाँ उलूग़ बेग के उलेमा और तैमूर के सरदार, सौदागरों और कारीगरों के साथ रहते थे।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p03_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 127.0
+              },
+              {
+                "w": "his",
+                "t": 202.0,
+                "d": 170.0
+              },
+              {
+                "w": "formative",
+                "t": 372.0,
+                "d": 510.0
+              },
+              {
+                "w": "years",
+                "t": 882.0,
+                "d": 638.0
+              },
+              {
+                "w": "Srivara's",
+                "t": 1734.0,
+                "d": 722.0
+              },
+              {
+                "w": "Budshah",
+                "t": 2456.0,
+                "d": 469.0
+              },
+              {
+                "w": "walked",
+                "t": 2925.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 3308.0,
+                "d": 127.0
+              },
+              {
+                "w": "streets",
+                "t": 3436.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 3819.0,
+                "d": 127.0
+              },
+              {
+                "w": "Timurid",
+                "t": 3946.0,
+                "d": 468.0
+              },
+              {
+                "w": "Samarkand",
+                "t": 4414.0,
+                "d": 851.0
+              },
+              {
+                "w": "where",
+                "t": 5648.0,
+                "d": 340.0
+              },
+              {
+                "w": "Ulugh",
+                "t": 5989.0,
+                "d": 340.0
+              },
+              {
+                "w": "Beg's",
+                "t": 6329.0,
+                "d": 297.0
+              },
+              {
+                "w": "scholars",
+                "t": 6627.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 7478.0,
+                "d": 340.0
+              },
+              {
+                "w": "Timur's",
+                "t": 7819.0,
+                "d": 425.0
+              },
+              {
+                "w": "generals",
+                "t": 8244.0,
+                "d": 553.0
+              },
+              {
+                "w": "shared",
+                "t": 8797.0,
+                "d": 467.0
+              },
+              {
+                "w": "space",
+                "t": 9264.0,
+                "d": 426.0
+              },
+              {
+                "w": "with",
+                "t": 9691.0,
+                "d": 211.0
+              },
+              {
+                "w": "merchants",
+                "t": 9903.0,
+                "d": 596.0
+              },
+              {
+                "w": "and",
+                "t": 10500.0,
+                "d": 255.0
+              },
+              {
+                "w": "artisans",
+                "t": 10755.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_boy_prince_of_samarkand/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_boy_prince_of_samarkand/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Shahi Khan feels the chill winds of Kashmir as a summons, every step binding his fate to the mountain kingdom.",
+            "hi": "शाही ख़ान कश्मीर की ठंडी हवा को बुलावा समझकर चलता है, हर क़दम उसकी किस्मत को पहाड़ों से बाँधता है।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Shahi",
+                "t": 80.0,
+                "d": 459.0
+              },
+              {
+                "w": "Khan",
+                "t": 540.0,
+                "d": 321.0
+              },
+              {
+                "w": "feels",
+                "t": 862.0,
+                "d": 413.0
+              },
+              {
+                "w": "the",
+                "t": 1275.0,
+                "d": 183.0
+              },
+              {
+                "w": "chill",
+                "t": 1459.0,
+                "d": 413.0
+              },
+              {
+                "w": "winds",
+                "t": 1873.0,
+                "d": 458.0
+              },
+              {
+                "w": "of",
+                "t": 2332.0,
+                "d": 185.0
+              },
+              {
+                "w": "Kashmir",
+                "t": 2517.0,
+                "d": 551.0
+              },
+              {
+                "w": "as",
+                "t": 3068.0,
+                "d": 274.0
+              },
+              {
+                "w": "a",
+                "t": 3343.0,
+                "d": 91.0
+              },
+              {
+                "w": "summons",
+                "t": 3435.0,
+                "d": 919.0
+              },
+              {
+                "w": "every",
+                "t": 4862.0,
+                "d": 459.0
+              },
+              {
+                "w": "step",
+                "t": 5321.0,
+                "d": 275.0
+              },
+              {
+                "w": "binding",
+                "t": 5597.0,
+                "d": 597.0
+              },
+              {
+                "w": "his",
+                "t": 6195.0,
+                "d": 229.0
+              },
+              {
+                "w": "fate",
+                "t": 6425.0,
+                "d": 321.0
+              },
+              {
+                "w": "to",
+                "t": 6747.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 7114.0,
+                "d": 137.0
+              },
+              {
+                "w": "mountain",
+                "t": 7252.0,
+                "d": 551.0
+              },
+              {
+                "w": "kingdom",
+                "t": 7804.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_boy_prince_of_samarkand/img/p04.png",
+      "shot": "low-angle interior wide of Samarkand workshop",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From that world he absorbed more than court manners: the craft of paper-making, bookbinding, saddle-work and carpet weaving that he would later call into Kashmir's valleys.",
+            "hi": "उसी दुनिया से उसने सिर्फ़ दरबारी तौर‑तरीके नहीं, काग़ज़ बनाना, किताब बाँधना, ज़ीन का काम और कालीन बुनने की हुनर सीखी, जिन्हें बाद में वह कश्मीर की वादियों तक बुलाएगा।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p04_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "that",
+                "t": 329.0,
+                "d": 255.0
+              },
+              {
+                "w": "world",
+                "t": 585.0,
+                "d": 638.0
+              },
+              {
+                "w": "he",
+                "t": 1351.0,
+                "d": 255.0
+              },
+              {
+                "w": "absorbed",
+                "t": 1606.0,
+                "d": 552.0
+              },
+              {
+                "w": "more",
+                "t": 2158.0,
+                "d": 213.0
+              },
+              {
+                "w": "than",
+                "t": 2372.0,
+                "d": 254.0
+              },
+              {
+                "w": "court",
+                "t": 2626.0,
+                "d": 298.0
+              },
+              {
+                "w": "manners",
+                "t": 2925.0,
+                "d": 637.0
+              },
+              {
+                "w": "the",
+                "t": 3904.0,
+                "d": 169.0
+              },
+              {
+                "w": "craft",
+                "t": 4073.0,
+                "d": 384.0
+              },
+              {
+                "w": "of",
+                "t": 4457.0,
+                "d": 170.0
+              },
+              {
+                "w": "paper-making",
+                "t": 4627.0,
+                "d": 808.0
+              },
+              {
+                "w": "bookbinding",
+                "t": 5776.0,
+                "d": 1191.0
+              },
+              {
+                "w": "saddle-work",
+                "t": 7010.0,
+                "d": 936.0
+              },
+              {
+                "w": "and",
+                "t": 8031.0,
+                "d": 382.0
+              },
+              {
+                "w": "carpet",
+                "t": 8414.0,
+                "d": 424.0
+              },
+              {
+                "w": "weaving",
+                "t": 8839.0,
+                "d": 724.0
+              },
+              {
+                "w": "that",
+                "t": 9606.0,
+                "d": 255.0
+              },
+              {
+                "w": "he",
+                "t": 9861.0,
+                "d": 85.0
+              },
+              {
+                "w": "would",
+                "t": 9946.0,
+                "d": 211.0
+              },
+              {
+                "w": "later",
+                "t": 10158.0,
+                "d": 298.0
+              },
+              {
+                "w": "call",
+                "t": 10457.0,
+                "d": 254.0
+              },
+              {
+                "w": "into",
+                "t": 10711.0,
+                "d": 255.0
+              },
+              {
+                "w": "Kashmir's",
+                "t": 10967.0,
+                "d": 469.0
+              },
+              {
+                "w": "valleys",
+                "t": 11436.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_boy_prince_of_samarkand/img/p05.png",
+      "shot": "medium shot in a Timurid court hall",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Timurid halls he saw how empires balanced scholars and soldiers, how princes smiled at poets in the morning and sent armies out by dusk.",
+            "hi": "तैमूरी महलों में उसने देखा, सल्तनतें आलिम और सिपाही कैसे तौलती हैं, सुबह शहज़ादे शायरों पर मुस्कुराते हैं और शाम को फ़ौजें रवाना कर देते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p05_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 110.0,
+                "d": 200.0
+              },
+              {
+                "w": "Timurid",
+                "t": 310.0,
+                "d": 440.0
+              },
+              {
+                "w": "halls",
+                "t": 750.0,
+                "d": 400.0
+              },
+              {
+                "w": "he",
+                "t": 1150.0,
+                "d": 200.0
+              },
+              {
+                "w": "saw",
+                "t": 1350.0,
+                "d": 200.0
+              },
+              {
+                "w": "how",
+                "t": 1550.0,
+                "d": 240.0
+              },
+              {
+                "w": "empires",
+                "t": 1790.0,
+                "d": 599.0
+              },
+              {
+                "w": "balanced",
+                "t": 2389.0,
+                "d": 440.0
+              },
+              {
+                "w": "scholars",
+                "t": 2829.0,
+                "d": 361.0
+              },
+              {
+                "w": "and",
+                "t": 3190.0,
+                "d": 119.0
+              },
+              {
+                "w": "soldiers",
+                "t": 3309.0,
+                "d": 680.0
+              },
+              {
+                "w": "how",
+                "t": 4190.0,
+                "d": 320.0
+              },
+              {
+                "w": "princes",
+                "t": 4510.0,
+                "d": 360.0
+              },
+              {
+                "w": "smiled",
+                "t": 4870.0,
+                "d": 400.0
+              },
+              {
+                "w": "at",
+                "t": 5270.0,
+                "d": 160.0
+              },
+              {
+                "w": "poets",
+                "t": 5430.0,
+                "d": 360.0
+              },
+              {
+                "w": "in",
+                "t": 5790.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 5870.0,
+                "d": 120.0
+              },
+              {
+                "w": "morning",
+                "t": 5990.0,
+                "d": 560.0
+              },
+              {
+                "w": "and",
+                "t": 6550.0,
+                "d": 320.0
+              },
+              {
+                "w": "sent",
+                "t": 6870.0,
+                "d": 200.0
+              },
+              {
+                "w": "armies",
+                "t": 7070.0,
+                "d": 480.0
+              },
+              {
+                "w": "out",
+                "t": 7550.0,
+                "d": 200.0
+              },
+              {
+                "w": "by",
+                "t": 7750.0,
+                "d": 200.0
+              },
+              {
+                "w": "dusk",
+                "t": 7950.0,
+                "d": 599.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_boy_prince_of_samarkand/img/p06.png",
+      "shot": "transition wide of caravan descending from passes toward lush valley",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When he returned towards Kashmir, the boy of Samarkand carried a wider world in his mind, into a valley already strained by faction, fear and ambition.",
+            "hi": "जब वह कश्मीर की ओर लौटा, समरकंद का यह लड़का अपने मन में बड़ा जहाँ लेकर आया, ऐसी वादी में जो पहले ही गुटों, ख़ौफ़ और लालच से तनी हुई थी।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p06_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "he",
+                "t": 356.0,
+                "d": 91.0
+              },
+              {
+                "w": "returned",
+                "t": 448.0,
+                "d": 505.0
+              },
+              {
+                "w": "towards",
+                "t": 954.0,
+                "d": 505.0
+              },
+              {
+                "w": "Kashmir",
+                "t": 1459.0,
+                "d": 413.0
+              },
+              {
+                "w": "the",
+                "t": 1873.0,
+                "d": 689.0
+              },
+              {
+                "w": "boy",
+                "t": 2745.0,
+                "d": 414.0
+              },
+              {
+                "w": "of",
+                "t": 3160.0,
+                "d": 182.0
+              },
+              {
+                "w": "Samarkand",
+                "t": 3343.0,
+                "d": 736.0
+              },
+              {
+                "w": "carried",
+                "t": 4080.0,
+                "d": 504.0
+              },
+              {
+                "w": "a",
+                "t": 4585.0,
+                "d": 231.0
+              },
+              {
+                "w": "wider",
+                "t": 4816.0,
+                "d": 459.0
+              },
+              {
+                "w": "world",
+                "t": 5275.0,
+                "d": 459.0
+              },
+              {
+                "w": "in",
+                "t": 5735.0,
+                "d": 183.0
+              },
+              {
+                "w": "his",
+                "t": 5919.0,
+                "d": 183.0
+              },
+              {
+                "w": "mind",
+                "t": 6103.0,
+                "d": 689.0
+              },
+              {
+                "w": "into",
+                "t": 6977.0,
+                "d": 459.0
+              },
+              {
+                "w": "a",
+                "t": 7436.0,
+                "d": 91.0
+              },
+              {
+                "w": "valley",
+                "t": 7528.0,
+                "d": 505.0
+              },
+              {
+                "w": "already",
+                "t": 8034.0,
+                "d": 597.0
+              },
+              {
+                "w": "strained",
+                "t": 8632.0,
+                "d": 505.0
+              },
+              {
+                "w": "by",
+                "t": 9137.0,
+                "d": 228.0
+              },
+              {
+                "w": "faction",
+                "t": 9366.0,
+                "d": 782.0
+              },
+              {
+                "w": "fear",
+                "t": 10195.0,
+                "d": 596.0
+              },
+              {
+                "w": "and",
+                "t": 10839.0,
+                "d": 228.0
+              },
+              {
+                "w": "ambition",
+                "t": 11067.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_boy_prince_of_samarkand/img/p07.png",
+      "shot": "somber interior wide of a Kashmiri court with tense factions",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Srivara's Kashmir was no quiet kingdom. Intrigue swirled in the court, rival factions sought the ear of the Sultan, and every prince was both ornament and potential threat.",
+            "hi": "श्रीवरा का कश्मीर कोई शांत सल्तनत नहीं था। दरबार में साज़िशों के भँवर थे, हर गुट सुलतान के कान तक पहुँचना चाहता था, और हर शहज़ादा गहना भी था, ख़तरा भी।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p07_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Srivara's",
+                "t": 80.0,
+                "d": 735.0
+              },
+              {
+                "w": "Kashmir",
+                "t": 816.0,
+                "d": 551.0
+              },
+              {
+                "w": "was",
+                "t": 1367.0,
+                "d": 229.0
+              },
+              {
+                "w": "no",
+                "t": 1597.0,
+                "d": 459.0
+              },
+              {
+                "w": "quiet",
+                "t": 2149.0,
+                "d": 367.0
+              },
+              {
+                "w": "kingdom",
+                "t": 2517.0,
+                "d": 1149.0
+              },
+              {
+                "w": "Intrigue",
+                "t": 3803.0,
+                "d": 551.0
+              },
+              {
+                "w": "swirled",
+                "t": 4355.0,
+                "d": 506.0
+              },
+              {
+                "w": "in",
+                "t": 4862.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 4954.0,
+                "d": 183.0
+              },
+              {
+                "w": "court",
+                "t": 5137.0,
+                "d": 551.0
+              },
+              {
+                "w": "rival",
+                "t": 6241.0,
+                "d": 505.0
+              },
+              {
+                "w": "factions",
+                "t": 6747.0,
+                "d": 551.0
+              },
+              {
+                "w": "sought",
+                "t": 7298.0,
+                "d": 413.0
+              },
+              {
+                "w": "the",
+                "t": 7712.0,
+                "d": 137.0
+              },
+              {
+                "w": "ear",
+                "t": 7850.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 8264.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 8402.0,
+                "d": 137.0
+              },
+              {
+                "w": "Sultan",
+                "t": 8540.0,
+                "d": 780.0
+              },
+              {
+                "w": "and",
+                "t": 9597.0,
+                "d": 459.0
+              },
+              {
+                "w": "every",
+                "t": 10103.0,
+                "d": 504.0
+              },
+              {
+                "w": "prince",
+                "t": 10608.0,
+                "d": 414.0
+              },
+              {
+                "w": "was",
+                "t": 11022.0,
+                "d": 367.0
+              },
+              {
+                "w": "both",
+                "t": 11390.0,
+                "d": 366.0
+              },
+              {
+                "w": "ornament",
+                "t": 11849.0,
+                "d": 782.0
+              },
+              {
+                "w": "and",
+                "t": 12678.0,
+                "d": 367.0
+              },
+              {
+                "w": "potential",
+                "t": 13045.0,
+                "d": 551.0
+              },
+              {
+                "w": "threat",
+                "t": 13597.0,
+                "d": 458.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_boy_prince_of_samarkand/img/p08.png",
+      "shot": "close-up on Shahi Khan’s face half in lamplight, half in shadow",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The chronicles do not paint him as a gentle saint in silk. They show a cultured prince who knew that knowledge alone would not keep him alive in the storm.",
+            "hi": "तवारीख़ उसे रेशम में लिपटे नरम फ़क़ीर सा नहीं दिखातीं। वे एक तहज़ीबदार शहज़ादा दिखाती हैं जो जानता था कि अकेली इल्म से वह तूफ़ान में ज़िंदा नहीं बचेगा।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p08_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "chronicles",
+                "t": 270.0,
+                "d": 520.0
+              },
+              {
+                "w": "do",
+                "t": 790.0,
+                "d": 120.0
+              },
+              {
+                "w": "not",
+                "t": 910.0,
+                "d": 320.0
+              },
+              {
+                "w": "paint",
+                "t": 1230.0,
+                "d": 320.0
+              },
+              {
+                "w": "him",
+                "t": 1550.0,
+                "d": 160.0
+              },
+              {
+                "w": "as",
+                "t": 1710.0,
+                "d": 200.0
+              },
+              {
+                "w": "a",
+                "t": 1910.0,
+                "d": 119.0
+              },
+              {
+                "w": "gentle",
+                "t": 2029.0,
+                "d": 400.0
+              },
+              {
+                "w": "saint",
+                "t": 2429.0,
+                "d": 360.0
+              },
+              {
+                "w": "in",
+                "t": 2789.0,
+                "d": 160.0
+              },
+              {
+                "w": "silk",
+                "t": 2949.0,
+                "d": 681.0
+              },
+              {
+                "w": "They",
+                "t": 4470.0,
+                "d": 200.0
+              },
+              {
+                "w": "show",
+                "t": 4670.0,
+                "d": 240.0
+              },
+              {
+                "w": "a",
+                "t": 4910.0,
+                "d": 40.0
+              },
+              {
+                "w": "cultured",
+                "t": 4950.0,
+                "d": 520.0
+              },
+              {
+                "w": "prince",
+                "t": 5470.0,
+                "d": 360.0
+              },
+              {
+                "w": "who",
+                "t": 5830.0,
+                "d": 200.0
+              },
+              {
+                "w": "knew",
+                "t": 6030.0,
+                "d": 280.0
+              },
+              {
+                "w": "that",
+                "t": 6310.0,
+                "d": 200.0
+              },
+              {
+                "w": "knowledge",
+                "t": 6510.0,
+                "d": 440.0
+              },
+              {
+                "w": "alone",
+                "t": 6950.0,
+                "d": 720.0
+              },
+              {
+                "w": "would",
+                "t": 7750.0,
+                "d": 240.0
+              },
+              {
+                "w": "not",
+                "t": 7990.0,
+                "d": 319.0
+              },
+              {
+                "w": "keep",
+                "t": 8309.0,
+                "d": 240.0
+              },
+              {
+                "w": "him",
+                "t": 8549.0,
+                "d": 160.0
+              },
+              {
+                "w": "alive",
+                "t": 8709.0,
+                "d": 401.0
+              },
+              {
+                "w": "in",
+                "t": 9110.0,
+                "d": 80.0
+              },
+              {
+                "w": "the",
+                "t": 9190.0,
+                "d": 119.0
+              },
+              {
+                "w": "storm",
+                "t": 9309.0,
+                "d": 400.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_boy_prince_of_samarkand/img/p09.png",
+      "shot": "dramatic interior wide of Eid gathering in court courtyard",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On Eid al-Adha in fourteen sixteen, Srivara records, Shahi Khan struck first. The rebel wazir Hamsabhatta fell by his hand, and the festival became a pivot in Kashmir's politics.",
+            "hi": "१४१६ की ईदु‑ल‑अज़हा पर, श्रीवरा लिखता है, शाही ख़ान ने पहले वार किया। बाग़ी वज़ीर हमसब्हट्टा उसकी तलवार से गिरा, और त्योहार कश्मीर की सियासत का मोड़ बन गया।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p09_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "Eid",
+                "t": 356.0,
+                "d": 321.0
+              },
+              {
+                "w": "al-Adha",
+                "t": 678.0,
+                "d": 505.0
+              },
+              {
+                "w": "in",
+                "t": 1367.0,
+                "d": 183.0
+              },
+              {
+                "w": "fourteen",
+                "t": 1551.0,
+                "d": 459.0
+              },
+              {
+                "w": "sixteen",
+                "t": 2011.0,
+                "d": 780.0
+              },
+              {
+                "w": "Srivara",
+                "t": 3022.0,
+                "d": 643.0
+              },
+              {
+                "w": "records",
+                "t": 3666.0,
+                "d": 872.0
+              },
+              {
+                "w": "Shahi",
+                "t": 4770.0,
+                "d": 505.0
+              },
+              {
+                "w": "Khan",
+                "t": 5275.0,
+                "d": 321.0
+              },
+              {
+                "w": "struck",
+                "t": 5597.0,
+                "d": 413.0
+              },
+              {
+                "w": "first",
+                "t": 6011.0,
+                "d": 1011.0
+              },
+              {
+                "w": "The",
+                "t": 7436.0,
+                "d": 275.0
+              },
+              {
+                "w": "rebel",
+                "t": 7712.0,
+                "d": 321.0
+              },
+              {
+                "w": "wazir",
+                "t": 8034.0,
+                "d": 413.0
+              },
+              {
+                "w": "Hamsabhatta",
+                "t": 8448.0,
+                "d": 964.0
+              },
+              {
+                "w": "fell",
+                "t": 9505.0,
+                "d": 320.0
+              },
+              {
+                "w": "by",
+                "t": 9826.0,
+                "d": 183.0
+              },
+              {
+                "w": "his",
+                "t": 10010.0,
+                "d": 185.0
+              },
+              {
+                "w": "hand",
+                "t": 10195.0,
+                "d": 688.0
+              },
+              {
+                "w": "and",
+                "t": 10883.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 11159.0,
+                "d": 139.0
+              },
+              {
+                "w": "festival",
+                "t": 11298.0,
+                "d": 505.0
+              },
+              {
+                "w": "became",
+                "t": 11804.0,
+                "d": 412.0
+              },
+              {
+                "w": "a",
+                "t": 12217.0,
+                "d": 91.0
+              },
+              {
+                "w": "pivot",
+                "t": 12309.0,
+                "d": 460.0
+              },
+              {
+                "w": "in",
+                "t": 12814.0,
+                "d": 231.0
+              },
+              {
+                "w": "Kashmir's",
+                "t": 13045.0,
+                "d": 505.0
+              },
+              {
+                "w": "politics",
+                "t": 13551.0,
+                "d": 919.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_boy_prince_of_samarkand/img/p10.png",
+      "shot": "low-angle medium shot of Shahi Khan after the deed, court in shocked motion behind",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "\"Better one stroke now than a kingdom eaten slowly,\"",
+            "hi": "“अब एक वार बेहतर, बनिस्बत सल्तनत को धीरे‑धीरे खाए जाने देना।”"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p10_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "\"Better",
+                "t": 49.0,
+                "d": 355.4
+              },
+              {
+                "w": "one",
+                "t": 404.4,
+                "d": 306.4
+              },
+              {
+                "w": "stroke",
+                "t": 710.8,
+                "d": 428.9
+              },
+              {
+                "w": "now",
+                "t": 1188.7,
+                "d": 306.4
+              },
+              {
+                "w": "than",
+                "t": 1495.1,
+                "d": 294.1
+              },
+              {
+                "w": "a",
+                "t": 1850.5,
+                "d": 73.5
+              },
+              {
+                "w": "kingdom",
+                "t": 1924.0,
+                "d": 478.0
+              },
+              {
+                "w": "eaten",
+                "t": 2463.2,
+                "d": 306.4
+              },
+              {
+                "w": "slowly",
+                "t": 2769.6,
+                "d": 478.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_boy_prince_of_samarkand/img/p11.png",
+      "shot": "wide shot of camp council in rugged countryside",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "To oppose Ali Shah, he did not stand alone. Chronicles show him drawing on Jammu's strength and Khokhar war-bands, forging alliances beyond the valley to win the struggle.",
+            "hi": "अली शाह के मुक़ाबले वह अकेला नहीं खड़ा हुआ। तवारीख़ दिखाती हैं कि उसने जम्मू की ताक़त और खोखर जंगी टोलियों को साथ जोड़ा, वादी से बाहर की दोस्तियाँ गढ़कर जंग जीती।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p11_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "To",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "oppose",
+                "t": 230.0,
+                "d": 440.0
+              },
+              {
+                "w": "Ali",
+                "t": 710.0,
+                "d": 240.0
+              },
+              {
+                "w": "Shah",
+                "t": 950.0,
+                "d": 400.0
+              },
+              {
+                "w": "he",
+                "t": 1590.0,
+                "d": 240.0
+              },
+              {
+                "w": "did",
+                "t": 1830.0,
+                "d": 160.0
+              },
+              {
+                "w": "not",
+                "t": 1990.0,
+                "d": 200.0
+              },
+              {
+                "w": "stand",
+                "t": 2190.0,
+                "d": 320.0
+              },
+              {
+                "w": "alone",
+                "t": 2510.0,
+                "d": 1000.0
+              },
+              {
+                "w": "Chronicles",
+                "t": 3630.0,
+                "d": 600.0
+              },
+              {
+                "w": "show",
+                "t": 4230.0,
+                "d": 200.0
+              },
+              {
+                "w": "him",
+                "t": 4430.0,
+                "d": 200.0
+              },
+              {
+                "w": "drawing",
+                "t": 4630.0,
+                "d": 440.0
+              },
+              {
+                "w": "on",
+                "t": 5070.0,
+                "d": 200.0
+              },
+              {
+                "w": "Jammu's",
+                "t": 5270.0,
+                "d": 400.0
+              },
+              {
+                "w": "strength",
+                "t": 5670.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 6230.0,
+                "d": 280.0
+              },
+              {
+                "w": "Khokhar",
+                "t": 6510.0,
+                "d": 440.0
+              },
+              {
+                "w": "war-bands",
+                "t": 6950.0,
+                "d": 680.0
+              },
+              {
+                "w": "forging",
+                "t": 8069.0,
+                "d": 560.0
+              },
+              {
+                "w": "alliances",
+                "t": 8629.0,
+                "d": 641.0
+              },
+              {
+                "w": "beyond",
+                "t": 9270.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 9670.0,
+                "d": 120.0
+              },
+              {
+                "w": "valley",
+                "t": 9790.0,
+                "d": 560.0
+              },
+              {
+                "w": "to",
+                "t": 10389.0,
+                "d": 160.0
+              },
+              {
+                "w": "win",
+                "t": 10549.0,
+                "d": 201.0
+              },
+              {
+                "w": "the",
+                "t": 10750.0,
+                "d": 120.0
+              },
+              {
+                "w": "struggle",
+                "t": 10870.0,
+                "d": 599.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_boy_prince_of_samarkand/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_boy_prince_of_samarkand/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "With allies sworn and blades drawn, Shahi Khan steels himself to cross from negotiation into open contest for Kashmir's throne.",
+            "hi": "साथी कसम खाकर, तलवारें निकल चुकी हैं—शाही ख़ान अब बातचीत छोड़ सीधे कश्मीर के तख़्त की जंग में उतरता है।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "With",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "allies",
+                "t": 350.0,
+                "d": 400.0
+              },
+              {
+                "w": "sworn",
+                "t": 750.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 1110.0,
+                "d": 200.0
+              },
+              {
+                "w": "blades",
+                "t": 1310.0,
+                "d": 320.0
+              },
+              {
+                "w": "drawn",
+                "t": 1630.0,
+                "d": 560.0
+              },
+              {
+                "w": "Shahi",
+                "t": 2349.0,
+                "d": 600.0
+              },
+              {
+                "w": "Khan",
+                "t": 2949.0,
+                "d": 161.0
+              },
+              {
+                "w": "steels",
+                "t": 3110.0,
+                "d": 319.0
+              },
+              {
+                "w": "himself",
+                "t": 3429.0,
+                "d": 480.0
+              },
+              {
+                "w": "to",
+                "t": 3909.0,
+                "d": 121.0
+              },
+              {
+                "w": "cross",
+                "t": 4030.0,
+                "d": 360.0
+              },
+              {
+                "w": "from",
+                "t": 4390.0,
+                "d": 160.0
+              },
+              {
+                "w": "negotiation",
+                "t": 4550.0,
+                "d": 800.0
+              },
+              {
+                "w": "into",
+                "t": 5350.0,
+                "d": 240.0
+              },
+              {
+                "w": "open",
+                "t": 5590.0,
+                "d": 400.0
+              },
+              {
+                "w": "contest",
+                "t": 5990.0,
+                "d": 480.0
+              },
+              {
+                "w": "for",
+                "t": 6470.0,
+                "d": 160.0
+              },
+              {
+                "w": "Kashmir's",
+                "t": 6630.0,
+                "d": 440.0
+              },
+              {
+                "w": "throne",
+                "t": 7070.0,
+                "d": 520.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_boy_prince_of_samarkand/img/p12.png",
+      "shot": "dynamic wide of two forces facing off in Kashmiri plains",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Civil war scarred the land. Horse-hooves tore fields, soldiers moved through villages, and the question hung between both hosts: whose rule would bind Kashmir now?",
+            "hi": "गृहयुद्ध ने ज़मीन को जख़्मी कर दिया। घोड़ों ने खेत रौंद दिए, फ़ौजें गाँवों से गुज़रीं, और दोनों लश्करों के बीच एक सवाल झूलता रहा: अब कश्मीर पर किसका राज चलेगा?"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p12_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Civil",
+                "t": 110.0,
+                "d": 400.0
+              },
+              {
+                "w": "war",
+                "t": 510.0,
+                "d": 280.0
+              },
+              {
+                "w": "scarred",
+                "t": 790.0,
+                "d": 360.0
+              },
+              {
+                "w": "the",
+                "t": 1150.0,
+                "d": 120.0
+              },
+              {
+                "w": "land",
+                "t": 1270.0,
+                "d": 640.0
+              },
+              {
+                "w": "Horse-hooves",
+                "t": 2590.0,
+                "d": 680.0
+              },
+              {
+                "w": "tore",
+                "t": 3270.0,
+                "d": 280.0
+              },
+              {
+                "w": "fields",
+                "t": 3550.0,
+                "d": 680.0
+              },
+              {
+                "w": "soldiers",
+                "t": 4390.0,
+                "d": 600.0
+              },
+              {
+                "w": "moved",
+                "t": 4990.0,
+                "d": 320.0
+              },
+              {
+                "w": "through",
+                "t": 5310.0,
+                "d": 520.0
+              },
+              {
+                "w": "villages",
+                "t": 5830.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 6430.0,
+                "d": 280.0
+              },
+              {
+                "w": "the",
+                "t": 6710.0,
+                "d": 120.0
+              },
+              {
+                "w": "question",
+                "t": 6830.0,
+                "d": 480.0
+              },
+              {
+                "w": "hung",
+                "t": 7310.0,
+                "d": 200.0
+              },
+              {
+                "w": "between",
+                "t": 7510.0,
+                "d": 360.0
+              },
+              {
+                "w": "both",
+                "t": 7870.0,
+                "d": 319.0
+              },
+              {
+                "w": "hosts",
+                "t": 8189.0,
+                "d": 601.0
+              },
+              {
+                "w": "whose",
+                "t": 9590.0,
+                "d": 320.0
+              },
+              {
+                "w": "rule",
+                "t": 9910.0,
+                "d": 239.0
+              },
+              {
+                "w": "would",
+                "t": 10149.0,
+                "d": 201.0
+              },
+              {
+                "w": "bind",
+                "t": 10350.0,
+                "d": 359.0
+              },
+              {
+                "w": "Kashmir",
+                "t": 10709.0,
+                "d": 481.0
+              },
+              {
+                "w": "now",
+                "t": 11190.0,
+                "d": 400.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_boy_prince_of_samarkand/split_auto/s0.png",
+          "slogan": {
+            "en": "For just rule in Kashmir",
+            "hi": "कश्मीर में न्यायपूर्ण शासन"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_boy_prince_of_samarkand/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_boy_prince_of_samarkand/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As battle smoke thins, Shahi Khan's resolve hardens into the just authority that will shape Kashmir's destiny.",
+            "hi": "जब जंग का धुआँ छँटता है, शाहि ख़ान का इरादा मज़बूत होकर उस न्यायी हुकूमत में बदलता है जो कश्मीर की तक़दीर लिखेगी।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "battle",
+                "t": 364.0,
+                "d": 416.0
+              },
+              {
+                "w": "smoke",
+                "t": 781.0,
+                "d": 375.0
+              },
+              {
+                "w": "thins",
+                "t": 1156.0,
+                "d": 666.0
+              },
+              {
+                "w": "Shahi",
+                "t": 1989.0,
+                "d": 457.0
+              },
+              {
+                "w": "Khan's",
+                "t": 2446.0,
+                "d": 376.0
+              },
+              {
+                "w": "resolve",
+                "t": 2822.0,
+                "d": 458.0
+              },
+              {
+                "w": "hardens",
+                "t": 3281.0,
+                "d": 500.0
+              },
+              {
+                "w": "into",
+                "t": 3781.0,
+                "d": 248.0
+              },
+              {
+                "w": "the",
+                "t": 4030.0,
+                "d": 209.0
+              },
+              {
+                "w": "just",
+                "t": 4239.0,
+                "d": 416.0
+              },
+              {
+                "w": "authority",
+                "t": 4656.0,
+                "d": 666.0
+              },
+              {
+                "w": "that",
+                "t": 5322.0,
+                "d": 166.0
+              },
+              {
+                "w": "will",
+                "t": 5489.0,
+                "d": 166.0
+              },
+              {
+                "w": "shape",
+                "t": 5656.0,
+                "d": 333.0
+              },
+              {
+                "w": "Kashmir's",
+                "t": 5989.0,
+                "d": 500.0
+              },
+              {
+                "w": "destiny",
+                "t": 6489.0,
+                "d": 708.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_boy_prince_of_samarkand/img/p13.png",
+      "shot": "medium shot of Shahi Khan conferring with a Jammu commander after battle",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Through those alliances and campaigns, Shahi Khan prevailed over Ali Shah. The path to the throne ran through dust, negotiation and steel, not through quiet abdication.",
+            "hi": "इन्हीं यारियों और मुहिमों से, शाही ख़ान अली शाह पर भारी पड़ा। तख़्त तक रास्ता धूल, सौदेबाज़ी और इस्पात से होकर गया, न कि शांत ताजपोशी से।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p13_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Through",
+                "t": 110.0,
+                "d": 520.0
+              },
+              {
+                "w": "those",
+                "t": 630.0,
+                "d": 360.0
+              },
+              {
+                "w": "alliances",
+                "t": 990.0,
+                "d": 760.0
+              },
+              {
+                "w": "and",
+                "t": 1750.0,
+                "d": 200.0
+              },
+              {
+                "w": "campaigns",
+                "t": 1990.0,
+                "d": 359.0
+              },
+              {
+                "w": "Shahi",
+                "t": 2349.0,
+                "d": 520.0
+              },
+              {
+                "w": "Khan",
+                "t": 2869.0,
+                "d": 241.0
+              },
+              {
+                "w": "prevailed",
+                "t": 3110.0,
+                "d": 520.0
+              },
+              {
+                "w": "over",
+                "t": 3630.0,
+                "d": 359.0
+              },
+              {
+                "w": "Ali",
+                "t": 3989.0,
+                "d": 241.0
+              },
+              {
+                "w": "Shah",
+                "t": 4270.0,
+                "d": 280.0
+              },
+              {
+                "w": "The",
+                "t": 5510.0,
+                "d": 240.0
+              },
+              {
+                "w": "path",
+                "t": 5750.0,
+                "d": 280.0
+              },
+              {
+                "w": "to",
+                "t": 6030.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 6190.0,
+                "d": 160.0
+              },
+              {
+                "w": "throne",
+                "t": 6350.0,
+                "d": 480.0
+              },
+              {
+                "w": "ran",
+                "t": 6870.0,
+                "d": 280.0
+              },
+              {
+                "w": "through",
+                "t": 7150.0,
+                "d": 280.0
+              },
+              {
+                "w": "dust",
+                "t": 7430.0,
+                "d": 679.0
+              },
+              {
+                "w": "negotiation",
+                "t": 8309.0,
+                "d": 961.0
+              },
+              {
+                "w": "and",
+                "t": 9270.0,
+                "d": 199.0
+              },
+              {
+                "w": "steel",
+                "t": 9469.0,
+                "d": 561.0
+              },
+              {
+                "w": "not",
+                "t": 10389.0,
+                "d": 361.0
+              },
+              {
+                "w": "through",
+                "t": 10750.0,
+                "d": 360.0
+              },
+              {
+                "w": "quiet",
+                "t": 11110.0,
+                "d": 320.0
+              },
+              {
+                "w": "abdication",
+                "t": 11430.0,
+                "d": 760.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_boy_prince_of_samarkand/img/p14.png",
+      "shot": "ceremonial interior wide of coronation in Srinagar",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Srivara's Jaina-Rajatarangini places his accession in fourteen twenty. Abul Fazl's Ain-i-Akbari gives fourteen twenty-two. Between them, the image is clear: by the early fourteen twenties, Budshah reigned in Kashmir.",
+            "hi": "श्रीवरा की जैन राजतरंगिणी उसकी गद्दीनिशी १४२० में रखती है। अबुल फ़ज़्ल की आइने अकबरी १४२२ कहती है। दोनों के बीच तस्वीर साफ़ है: १४२० के शुरुआती बरसों में बुदशाह कश्मीर पर राज कर रहा था।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p14_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Srivara's",
+                "t": 74.0,
+                "d": 680.0
+              },
+              {
+                "w": "Jaina-Rajatarangini",
+                "t": 755.0,
+                "d": 1191.0
+              },
+              {
+                "w": "places",
+                "t": 1989.0,
+                "d": 425.0
+              },
+              {
+                "w": "his",
+                "t": 2414.0,
+                "d": 169.0
+              },
+              {
+                "w": "accession",
+                "t": 2584.0,
+                "d": 595.0
+              },
+              {
+                "w": "in",
+                "t": 3179.0,
+                "d": 213.0
+              },
+              {
+                "w": "fourteen",
+                "t": 3393.0,
+                "d": 510.0
+              },
+              {
+                "w": "twenty",
+                "t": 3904.0,
+                "d": 936.0
+              },
+              {
+                "w": "Abul",
+                "t": 5095.0,
+                "d": 340.0
+              },
+              {
+                "w": "Fazl's",
+                "t": 5436.0,
+                "d": 595.0
+              },
+              {
+                "w": "Ain-i-Akbari",
+                "t": 6074.0,
+                "d": 680.0
+              },
+              {
+                "w": "gives",
+                "t": 6755.0,
+                "d": 297.0
+              },
+              {
+                "w": "fourteen",
+                "t": 7053.0,
+                "d": 468.0
+              },
+              {
+                "w": "twenty-two",
+                "t": 7521.0,
+                "d": 510.0
+              },
+              {
+                "w": "Between",
+                "t": 8839.0,
+                "d": 469.0
+              },
+              {
+                "w": "them",
+                "t": 9308.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 9776.0,
+                "d": 296.0
+              },
+              {
+                "w": "image",
+                "t": 10073.0,
+                "d": 426.0
+              },
+              {
+                "w": "is",
+                "t": 10500.0,
+                "d": 170.0
+              },
+              {
+                "w": "clear",
+                "t": 10670.0,
+                "d": 1234.0
+              },
+              {
+                "w": "by",
+                "t": 11989.0,
+                "d": 296.0
+              },
+              {
+                "w": "the",
+                "t": 12286.0,
+                "d": 128.0
+              },
+              {
+                "w": "early",
+                "t": 12414.0,
+                "d": 468.0
+              },
+              {
+                "w": "fourteen",
+                "t": 12882.0,
+                "d": 425.0
+              },
+              {
+                "w": "twenties",
+                "t": 13308.0,
+                "d": 764.0
+              },
+              {
+                "w": "Budshah",
+                "t": 14372.0,
+                "d": 553.0
+              },
+              {
+                "w": "reigned",
+                "t": 14925.0,
+                "d": 381.0
+              },
+              {
+                "w": "in",
+                "t": 15307.0,
+                "d": 170.0
+              },
+              {
+                "w": "Kashmir",
+                "t": 15477.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_boy_prince_of_samarkand/img/p15.png",
+      "shot": "medium shot of the new Sultan watching artisans arriving",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Samarkand's memory he drew men of craft. Paper-makers, bookbinders, saddle-makers, carpet weavers found in Kashmir a new patron and a valley that would carry their work for generations.",
+            "hi": "समरकंद की यादों से उसने हुनरमंद लोग बुलाए। काग़ज़ी, मुजिल्द, ज़ीनसाज़, कालीन बुनकरों को कश्मीर में नया सहारा मिला और ऐसी वादी, जो पीढ़ियों तक उनकी कारीगरी ढोएगी।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p15_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 80.0,
+                "d": 321.0
+              },
+              {
+                "w": "Samarkand's",
+                "t": 402.0,
+                "d": 689.0
+              },
+              {
+                "w": "memory",
+                "t": 1091.0,
+                "d": 459.0
+              },
+              {
+                "w": "he",
+                "t": 1551.0,
+                "d": 183.0
+              },
+              {
+                "w": "drew",
+                "t": 1735.0,
+                "d": 275.0
+              },
+              {
+                "w": "men",
+                "t": 2011.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 2332.0,
+                "d": 185.0
+              },
+              {
+                "w": "craft",
+                "t": 2517.0,
+                "d": 780.0
+              },
+              {
+                "w": "Paper-makers",
+                "t": 3758.0,
+                "d": 1011.0
+              },
+              {
+                "w": "bookbinders",
+                "t": 5091.0,
+                "d": 965.0
+              },
+              {
+                "w": "saddle-makers",
+                "t": 6057.0,
+                "d": 1563.0
+              },
+              {
+                "w": "carpet",
+                "t": 7896.0,
+                "d": 505.0
+              },
+              {
+                "w": "weavers",
+                "t": 8402.0,
+                "d": 459.0
+              },
+              {
+                "w": "found",
+                "t": 8862.0,
+                "d": 321.0
+              },
+              {
+                "w": "in",
+                "t": 9183.0,
+                "d": 136.0
+              },
+              {
+                "w": "Kashmir",
+                "t": 9320.0,
+                "d": 736.0
+              },
+              {
+                "w": "a",
+                "t": 10241.0,
+                "d": 182.0
+              },
+              {
+                "w": "new",
+                "t": 10424.0,
+                "d": 322.0
+              },
+              {
+                "w": "patron",
+                "t": 10747.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 11206.0,
+                "d": 183.0
+              },
+              {
+                "w": "a",
+                "t": 11390.0,
+                "d": 91.0
+              },
+              {
+                "w": "valley",
+                "t": 11482.0,
+                "d": 734.0
+              },
+              {
+                "w": "that",
+                "t": 12217.0,
+                "d": 231.0
+              },
+              {
+                "w": "would",
+                "t": 12448.0,
+                "d": 229.0
+              },
+              {
+                "w": "carry",
+                "t": 12678.0,
+                "d": 367.0
+              },
+              {
+                "w": "their",
+                "t": 13045.0,
+                "d": 228.0
+              },
+              {
+                "w": "work",
+                "t": 13274.0,
+                "d": 322.0
+              },
+              {
+                "w": "for",
+                "t": 13597.0,
+                "d": 183.0
+              },
+              {
+                "w": "generations",
+                "t": 13781.0,
+                "d": 1103.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_boy_prince_of_samarkand/img/p16.png",
+      "shot": "close-up of Zain-ul-Abidin reading a manuscript while a sword rests nearby",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Later ages would remember Budshah as a just, cultured ruler, yet his crown rested on choices made in youth: whom to study with, which city to watch, when to strike and when to bind others.",
+            "hi": "बाद की नस्लें बुदशाह को न्यायप्रिय, सलीक़ामंद बादशाह मानेंगी, मगर उसका ताज उन जवानी की चोनों पर टिका था: किससे पढ़ना, किस शहर को देखना, कब वार करना, कब दूसरों को बाँधना।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p16_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Later",
+                "t": 70.0,
+                "d": 440.0
+              },
+              {
+                "w": "ages",
+                "t": 510.0,
+                "d": 440.0
+              },
+              {
+                "w": "would",
+                "t": 950.0,
+                "d": 200.0
+              },
+              {
+                "w": "remember",
+                "t": 1150.0,
+                "d": 440.0
+              },
+              {
+                "w": "Budshah",
+                "t": 1590.0,
+                "d": 480.0
+              },
+              {
+                "w": "as",
+                "t": 2070.0,
+                "d": 200.0
+              },
+              {
+                "w": "a",
+                "t": 2270.0,
+                "d": 119.0
+              },
+              {
+                "w": "just",
+                "t": 2389.0,
+                "d": 681.0
+              },
+              {
+                "w": "cultured",
+                "t": 3150.0,
+                "d": 520.0
+              },
+              {
+                "w": "ruler",
+                "t": 3670.0,
+                "d": 600.0
+              },
+              {
+                "w": "yet",
+                "t": 4430.0,
+                "d": 320.0
+              },
+              {
+                "w": "his",
+                "t": 4750.0,
+                "d": 160.0
+              },
+              {
+                "w": "crown",
+                "t": 4910.0,
+                "d": 360.0
+              },
+              {
+                "w": "rested",
+                "t": 5270.0,
+                "d": 400.0
+              },
+              {
+                "w": "on",
+                "t": 5670.0,
+                "d": 160.0
+              },
+              {
+                "w": "choices",
+                "t": 5830.0,
+                "d": 480.0
+              },
+              {
+                "w": "made",
+                "t": 6310.0,
+                "d": 320.0
+              },
+              {
+                "w": "in",
+                "t": 6630.0,
+                "d": 160.0
+              },
+              {
+                "w": "youth",
+                "t": 6790.0,
+                "d": 480.0
+              },
+              {
+                "w": "whom",
+                "t": 7750.0,
+                "d": 319.0
+              },
+              {
+                "w": "to",
+                "t": 8069.0,
+                "d": 120.0
+              },
+              {
+                "w": "study",
+                "t": 8189.0,
+                "d": 360.0
+              },
+              {
+                "w": "with",
+                "t": 8549.0,
+                "d": 520.0
+              },
+              {
+                "w": "which",
+                "t": 9149.0,
+                "d": 320.0
+              },
+              {
+                "w": "city",
+                "t": 9469.0,
+                "d": 321.0
+              },
+              {
+                "w": "to",
+                "t": 9790.0,
+                "d": 160.0
+              },
+              {
+                "w": "watch",
+                "t": 9950.0,
+                "d": 800.0
+              },
+              {
+                "w": "when",
+                "t": 10750.0,
+                "d": 280.0
+              },
+              {
+                "w": "to",
+                "t": 11030.0,
+                "d": 119.0
+              },
+              {
+                "w": "strike",
+                "t": 11149.0,
+                "d": 801.0
+              },
+              {
+                "w": "and",
+                "t": 11950.0,
+                "d": 359.0
+              },
+              {
+                "w": "when",
+                "t": 12309.0,
+                "d": 240.0
+              },
+              {
+                "w": "to",
+                "t": 12549.0,
+                "d": 121.0
+              },
+              {
+                "w": "bind",
+                "t": 12670.0,
+                "d": 280.0
+              },
+              {
+                "w": "others",
+                "t": 12950.0,
+                "d": 640.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_boy_prince_of_samarkand/img/p17.png",
+      "shot": "wide evening shot over Srinagar with the Sultan silhouetted on a terrace",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "A ruler's formation begins long before the throne. In Shahi Khan's journey from Ohind to Samarkand to Srinagar, the valley's later grace was seeded in hard lessons of knowledge, craft and contested power.",
+            "hi": "शाह का बनना तख़्त से बहुत पहले शुरू हो जाता है। ओहिंद से समरकंद से श्रीनगर तक शाही ख़ान की राह में, वादी की बाद की नर्मी ज्ञान, हुनर और उलझी हुई ताक़त के सख़्त सबक़ों से अंकुरित हुई।"
+          },
+          "audio": {
+            "en": "assets/the_boy_prince_of_samarkand/audio/en/p17_0.mp3",
+            "hi": "assets/the_boy_prince_of_samarkand/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "A",
+                "t": 74.0,
+                "d": 42.0
+              },
+              {
+                "w": "ruler's",
+                "t": 117.0,
+                "d": 553.0
+              },
+              {
+                "w": "formation",
+                "t": 670.0,
+                "d": 595.0
+              },
+              {
+                "w": "begins",
+                "t": 1265.0,
+                "d": 468.0
+              },
+              {
+                "w": "long",
+                "t": 1734.0,
+                "d": 553.0
+              },
+              {
+                "w": "before",
+                "t": 2287.0,
+                "d": 339.0
+              },
+              {
+                "w": "the",
+                "t": 2626.0,
+                "d": 128.0
+              },
+              {
+                "w": "throne",
+                "t": 2755.0,
+                "d": 1318.0
+              },
+              {
+                "w": "In",
+                "t": 4073.0,
+                "d": 256.0
+              },
+              {
+                "w": "Shahi",
+                "t": 4329.0,
+                "d": 382.0
+              },
+              {
+                "w": "Khan's",
+                "t": 4712.0,
+                "d": 382.0
+              },
+              {
+                "w": "journey",
+                "t": 5095.0,
+                "d": 425.0
+              },
+              {
+                "w": "from",
+                "t": 5521.0,
+                "d": 297.0
+              },
+              {
+                "w": "Ohind",
+                "t": 5819.0,
+                "d": 851.0
+              },
+              {
+                "w": "to",
+                "t": 6712.0,
+                "d": 170.0
+              },
+              {
+                "w": "Samarkand",
+                "t": 6882.0,
+                "d": 680.0
+              },
+              {
+                "w": "to",
+                "t": 7563.0,
+                "d": 170.0
+              },
+              {
+                "w": "Srinagar",
+                "t": 7734.0,
+                "d": 977.0
+              },
+              {
+                "w": "the",
+                "t": 8882.0,
+                "d": 211.0
+              },
+              {
+                "w": "valley's",
+                "t": 9094.0,
+                "d": 511.0
+              },
+              {
+                "w": "later",
+                "t": 9606.0,
+                "d": 381.0
+              },
+              {
+                "w": "grace",
+                "t": 9988.0,
+                "d": 511.0
+              },
+              {
+                "w": "was",
+                "t": 10542.0,
+                "d": 212.0
+              },
+              {
+                "w": "seeded",
+                "t": 10755.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 11307.0,
+                "d": 171.0
+              },
+              {
+                "w": "hard",
+                "t": 11478.0,
+                "d": 425.0
+              },
+              {
+                "w": "lessons",
+                "t": 11904.0,
+                "d": 381.0
+              },
+              {
+                "w": "of",
+                "t": 12286.0,
+                "d": 170.0
+              },
+              {
+                "w": "knowledge",
+                "t": 12456.0,
+                "d": 893.0
+              },
+              {
+                "w": "craft",
+                "t": 13435.0,
+                "d": 681.0
+              },
+              {
+                "w": "and",
+                "t": 14117.0,
+                "d": 340.0
+              },
+              {
+                "w": "contested",
+                "t": 14457.0,
+                "d": 638.0
+              },
+              {
+                "w": "power",
+                "t": 15095.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Zain-ul-Abidin (Shahi Khan)",
+    "epithets": [
+      "Budshah of Kashmir",
+      "Zain-ul-Abidin",
+      "The Just Sultan of Kashmir",
+      "Friend of Hindus and Muslims"
+    ],
+    "legend": "The boy who fled bloodshed to rule Kashmir with rare mercy."
+  }
+}
