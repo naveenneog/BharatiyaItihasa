@@ -1559,6 +1559,33 @@ The revived Chalukya house that overthrew the Rashtrakutas and ruled the Deccan 
 12. **Bijjala Takes Kalyani** ✅ — the Kalachuri feudatory **Bijjala II** seizes Kalyani (~1157); the **Basava/Lingayat (Virashaiva) *vachana* movement** presented factually, and the later "villain-toppled-by-a-saint" tale flagged as **hagiography, not chronicle**. *(usurpation; source-criticism, religiously sensitive)*
 13. **Vassals Become Kingdoms** ✅ — the dissolution of Kalyani into its successors — **Hoysalas (Dwarasamudra), Seuna-Yadavas (Devagiri), Kakatiyas (Warangal)** — read as the making of regional states, a long uneven shift, not one battle (Sastri, Gopal, Chattopadhyaya). *(fragmentation; hard truth)*
 
+## 🕊️ The Kashmir Sultanate and Zain-ul-Abidin  *(Medieval — c. 1320–1470 CE, the Kashmir Valley: Srinagar, Naushahr & the Jhelum)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The Shah Mir century of Kashmir — from Rinchan's conversion and Kota Rani's last stand, through **Sikandar "Butshikan's"** iconoclasm, to the long golden reign of **Zain-ul-Abidin, "Budshah," the Great King** — reconstructed from Srivara's and Jonaraja's Sanskrit *Rajatarangini* continuations, the Persian *Tarikh-i-Rashidi* and *Tarikh-i-Kashmir*, surviving *sasnu* coinage and modern historians (Mohibbul Hasan, Majumdar, Mahajan, Sufi, M.I. Khan, Lawrence). The series' most religiously sensitive chapter, held to the balance mandate at its sharpest: **persecution and reconciliation both stated as fact, neither whitewashed nor lensed**, with the innovation spine — water-works, coinage, craft *karkhanas* and a translation bureau — foregrounded.
+
+**I. Roots in a Shaken Valley**
+1. **The King Who Crossed Faiths** ✅ — the Ladakhi Buddhist prince **Rinchan**'s conversion and accession (1320); the turn of the valley toward a new faith told as documented politics, not miracle. *(rise)*
+2. **The Last Queen of Kashmir** ✅ — **Kota Rani**'s defence of Kashmir as the old order slips away; her agency recovered without inflating the sources. *(social/gender history)*
+3. **Hamadani Comes to the Jhelum** ✅ — the Sufi **Sayyid Ali Hamadani** and the craft-transmission (shawls, paper) that crossed mountains and caste lines. *(craft; cross-cultural)*
+
+**II. The Shadow and the Heir**
+4. **Sikandar and the Broken Temples** ✅ — **Sultan Sikandar "Butshikan"**: temple-destruction and *jizya* stated **plainly as documented fact**, attributed to the chronicles — no euphemism, no denial. *(hard truth; religiously sensitive)*
+5. **The Boy Prince of Samarkand** ✅ — the young **Zain-ul-Abidin** who fled bloodshed and returned to rule Kashmir with rare mercy. *(rise)*
+
+**III. War, Law and Return**
+6. **Budshah Reclaims the Mountains** ✅ — the king of peace first securing the mountain roads; martial restraint mirrored in the art (no triumphal slaughter). *(rule)*
+7. **Budshah Recalls the Exiles** ✅ — the reversal of his father's edicts — *jizya* abolished, **Brahmins and fled Hindu families recalled**, temples rebuilt — both communities drawn in dignity, the wounds **not erased**. *(reconciliation; the mandate)*
+
+**IV. Workshops, Water and Coin**
+8. **Paper Pen Cases and Paradise Carpets** ✅ — the state *karkhanas*: rag-paper, papier-mâché *qalamdan*, *taleem*-coded carpet looms, shawls and saffron, as skilled livelihoods. *(innovation — craft/economy)*
+9. **The Island Raised from Wular** ✅ — Budshah's **hydraulic public works**: the artificial island **Zaynalank**, the **Zaina Kadal** bridge, the Sopore–Safapur embankments and canals (Srivara, Lawrence). *(innovation — engineering)*
+10. **The Silver Sasnu of Kashmir** ✅ — the **standardised silver coinage and fiscal reform** on the physical AH 842/1438 CE coin; opens *against* the "gentle Budshah" legend to show the **hard administrative edge**. *(innovation — economy; anti-whitewashing)*
+
+**V. The Rule of Mind and Memory**
+11. **The University of Naushahr** ✅ — the scholar **Maulana Kabir** and the **Dar-ul-Ulum / Dar-ul-Tarjuma** that carried Kalhana's *Rajatarangini* into Persian (*Bahr-ul-Asmar*) and began a Persian *Mahabharata* — "not a university in our modern sense, but a residential school and bureau." *(innovation — scholarship)*
+12. **The Poet Sultan Called Qutb** ✅ — Budshah's Persian verse under the pen-name **Qutb**, musicians recalled, the Sanskrit chronicler **Srivara** and the saints **Lal Ded & Sheikh Nooruddin** honoured; M.I. Khan's caution on the **silences in elite chronicles** stated openly. *(arts; source-criticism)*
+13. **Budshah's Last Friday** ✅ — no saintly sunset: fear of poison, the sons' rivalries, and the decline through Haidar and Hasan Shah to the Chaks and the **Mughal annexation of 1586** — "even a just reign cannot outlive an unsettled succession." *(hard truth; the reign's end)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
