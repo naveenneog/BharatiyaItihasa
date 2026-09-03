@@ -1,0 +1,3617 @@
+{
+  "id": "vassals_become_kingdoms",
+  "title": "Vassals Become Kingdoms",
+  "title_i18n": {
+    "en": "Vassals Become Kingdoms",
+    "hi": "जागीरें बनें रियासतें"
+  },
+  "figure": "The Hoysala Seuna and Kakatiya Chiefs",
+  "era": "End of Western Chalukya power, c. 1138-1189 CE",
+  "moral": "An empire's ending can be the beginning of many histories.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/vassals_become_kingdoms/intro/hero.png",
+      "name": "Western Chalukya Commander of Kalyani",
+      "epithets": [
+        "Hoysala Chiefs of Dwarasamudra",
+        "Seuna Yadava Rulers of Devagiri",
+        "Kakatiya Warriors of Warangal",
+        "Chalukya Vassals of the Deccan"
+      ],
+      "legend": "From loyal vassals, they rise to carve new Deccan kingdoms.",
+      "era": "End of Western Chalukya power, c. 1138-1189 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "For years they bowed to Kalyani's throne. Now, as Western Chalukya power cracks, the Hoysala, Seuna and Kakatiya chiefs must choose: die as servants, or risk everything to rule.",
+            "hi": "सालों से वे कल्याणी के तख़्त पर झुके रहे… अब जब पश्चिमी चालुक्यों की ताक़त टूट रही है, होयसला, सेउना और काकतीय सरदारों को चुनना होगा: नौकर बनकर मरना, या सब दाँव पर लगा कर राज करना।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/intro/hero_en.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "For",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "years",
+                "t": 364.0,
+                "d": 500.0
+              },
+              {
+                "w": "they",
+                "t": 864.0,
+                "d": 166.0
+              },
+              {
+                "w": "bowed",
+                "t": 1031.0,
+                "d": 291.0
+              },
+              {
+                "w": "to",
+                "t": 1322.0,
+                "d": 125.0
+              },
+              {
+                "w": "Kalyani's",
+                "t": 1447.0,
+                "d": 500.0
+              },
+              {
+                "w": "throne",
+                "t": 1947.0,
+                "d": 1250.0
+              },
+              {
+                "w": "Now",
+                "t": 3239.0,
+                "d": 416.0
+              },
+              {
+                "w": "as",
+                "t": 3656.0,
+                "d": 250.0
+              },
+              {
+                "w": "Western",
+                "t": 3906.0,
+                "d": 500.0
+              },
+              {
+                "w": "Chalukya",
+                "t": 4406.0,
+                "d": 500.0
+              },
+              {
+                "w": "power",
+                "t": 4906.0,
+                "d": 291.0
+              },
+              {
+                "w": "cracks",
+                "t": 5197.0,
+                "d": 625.0
+              },
+              {
+                "w": "the",
+                "t": 6114.0,
+                "d": 291.0
+              },
+              {
+                "w": "Hoysala",
+                "t": 6406.0,
+                "d": 708.0
+              },
+              {
+                "w": "Seuna",
+                "t": 7322.0,
+                "d": 500.0
+              },
+              {
+                "w": "and",
+                "t": 7822.0,
+                "d": 623.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 8446.0,
+                "d": 501.0
+              },
+              {
+                "w": "chiefs",
+                "t": 8947.0,
+                "d": 333.0
+              },
+              {
+                "w": "must",
+                "t": 9281.0,
+                "d": 248.0
+              },
+              {
+                "w": "choose",
+                "t": 9530.0,
+                "d": 667.0
+              },
+              {
+                "w": "die",
+                "t": 10406.0,
+                "d": 665.0
+              },
+              {
+                "w": "as",
+                "t": 11155.0,
+                "d": 167.0
+              },
+              {
+                "w": "servants",
+                "t": 11322.0,
+                "d": 750.0
+              },
+              {
+                "w": "or",
+                "t": 12239.0,
+                "d": 208.0
+              },
+              {
+                "w": "risk",
+                "t": 12447.0,
+                "d": 333.0
+              },
+              {
+                "w": "everything",
+                "t": 12781.0,
+                "d": 500.0
+              },
+              {
+                "w": "to",
+                "t": 13281.0,
+                "d": 125.0
+              },
+              {
+                "w": "rule",
+                "t": 13406.0,
+                "d": 500.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/vassals_become_kingdoms/intro/map.png",
+      "x": 0.55,
+      "y": 0.55,
+      "label": "Kalyani, Dwarasamudra, Devagiri & Warangal, Deccan plateau",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On the hot stone plains of the Deccan, old Chalukya power fades and three restless border chiefs feel their chance burning closer.",
+            "hi": "दक्खिन की तपती पत्थर ज़मीन पर चालुक्य सत्ता ढल रही है, और तीन बेसब्र सरहदी सरदारों को मौका करीब दिख रहा है।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/intro/map_en.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "the",
+                "t": 310.0,
+                "d": 137.0
+              },
+              {
+                "w": "hot",
+                "t": 448.0,
+                "d": 229.0
+              },
+              {
+                "w": "stone",
+                "t": 678.0,
+                "d": 367.0
+              },
+              {
+                "w": "plains",
+                "t": 1045.0,
+                "d": 321.0
+              },
+              {
+                "w": "of",
+                "t": 1367.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 1505.0,
+                "d": 137.0
+              },
+              {
+                "w": "Deccan",
+                "t": 1643.0,
+                "d": 688.0
+              },
+              {
+                "w": "old",
+                "t": 2471.0,
+                "d": 505.0
+              },
+              {
+                "w": "Chalukya",
+                "t": 2977.0,
+                "d": 597.0
+              },
+              {
+                "w": "power",
+                "t": 3574.0,
+                "d": 320.0
+              },
+              {
+                "w": "fades",
+                "t": 3895.0,
+                "d": 689.0
+              },
+              {
+                "w": "and",
+                "t": 4724.0,
+                "d": 275.0
+              },
+              {
+                "w": "three",
+                "t": 5000.0,
+                "d": 275.0
+              },
+              {
+                "w": "restless",
+                "t": 5275.0,
+                "d": 597.0
+              },
+              {
+                "w": "border",
+                "t": 5873.0,
+                "d": 413.0
+              },
+              {
+                "w": "chiefs",
+                "t": 6287.0,
+                "d": 413.0
+              },
+              {
+                "w": "feel",
+                "t": 6701.0,
+                "d": 275.0
+              },
+              {
+                "w": "their",
+                "t": 6977.0,
+                "d": 229.0
+              },
+              {
+                "w": "chance",
+                "t": 7206.0,
+                "d": 597.0
+              },
+              {
+                "w": "burning",
+                "t": 7850.0,
+                "d": 597.0
+              },
+              {
+                "w": "closer",
+                "t": 8448.0,
+                "d": 643.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/vassals_become_kingdoms/img/cover.png",
+      "shot": "epic wide of the Deccan plateau with multiple forts glowing at dusk",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As Western Chalukya Kalyani fades in the late 12th century, Hoysala, Seuna and Kakatiya chiefs turn from loyal vassals into kings, reshaping the very map of the Deccan.",
+            "hi": "बारहवीं सदी के अंत तक कल्याणी चालुक्य ढलते हैं, और होयसला, सेना, काकतीय सरदार वफ़ादार जागीरदार से राजा बनकर पूरे दक्कन का नक्शा बदल देते हैं।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/cover_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "Western",
+                "t": 356.0,
+                "d": 505.0
+              },
+              {
+                "w": "Chalukya",
+                "t": 862.0,
+                "d": 597.0
+              },
+              {
+                "w": "Kalyani",
+                "t": 1459.0,
+                "d": 551.0
+              },
+              {
+                "w": "fades",
+                "t": 2011.0,
+                "d": 459.0
+              },
+              {
+                "w": "in",
+                "t": 2471.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 2609.0,
+                "d": 136.0
+              },
+              {
+                "w": "late",
+                "t": 2745.0,
+                "d": 368.0
+              },
+              {
+                "w": "12th",
+                "t": 3114.0,
+                "d": 413.0
+              },
+              {
+                "w": "century",
+                "t": 3528.0,
+                "d": 872.0
+              },
+              {
+                "w": "Hoysala",
+                "t": 4447.0,
+                "d": 874.0
+              },
+              {
+                "w": "Seuna",
+                "t": 5367.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 5919.0,
+                "d": 735.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 6655.0,
+                "d": 505.0
+              },
+              {
+                "w": "chiefs",
+                "t": 7160.0,
+                "d": 459.0
+              },
+              {
+                "w": "turn",
+                "t": 7620.0,
+                "d": 321.0
+              },
+              {
+                "w": "from",
+                "t": 7942.0,
+                "d": 321.0
+              },
+              {
+                "w": "loyal",
+                "t": 8264.0,
+                "d": 367.0
+              },
+              {
+                "w": "vassals",
+                "t": 8632.0,
+                "d": 505.0
+              },
+              {
+                "w": "into",
+                "t": 9137.0,
+                "d": 274.0
+              },
+              {
+                "w": "kings",
+                "t": 9412.0,
+                "d": 736.0
+              },
+              {
+                "w": "reshaping",
+                "t": 10379.0,
+                "d": 780.0
+              },
+              {
+                "w": "the",
+                "t": 11159.0,
+                "d": 139.0
+              },
+              {
+                "w": "very",
+                "t": 11298.0,
+                "d": 366.0
+              },
+              {
+                "w": "map",
+                "t": 11665.0,
+                "d": 322.0
+              },
+              {
+                "w": "of",
+                "t": 11988.0,
+                "d": 136.0
+              },
+              {
+                "w": "the",
+                "t": 12125.0,
+                "d": 139.0
+              },
+              {
+                "w": "Deccan",
+                "t": 12264.0,
+                "d": 550.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/vassals_become_kingdoms/img/p01.png",
+      "shot": "slow push-in from the bustling court of Kalyani towards the commander’s thoughtful face",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kalyani was once the proud centre of Western Chalukya power, binding chiefs across the Deccan. By c.eleven thirty-eight CE, the bindings were fraying, even as the royal court tried to act unchanged.",
+            "hi": "कल्याणी कभी पश्चिमी चालुक्य ताकत का गर्वीला केंद्र था, जो दक्कन के सरदारों को बाँधता था। पर लगभग 1138 ई. तक ये बंधन ढीले पड़ने लगे, भले ही दरबार पुराने ढंग से ही खेलने की कोशिश करता रहा।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p01_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kalyani",
+                "t": 110.0,
+                "d": 440.0
+              },
+              {
+                "w": "was",
+                "t": 550.0,
+                "d": 200.0
+              },
+              {
+                "w": "once",
+                "t": 750.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 1070.0,
+                "d": 160.0
+              },
+              {
+                "w": "proud",
+                "t": 1230.0,
+                "d": 360.0
+              },
+              {
+                "w": "centre",
+                "t": 1590.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 1910.0,
+                "d": 160.0
+              },
+              {
+                "w": "Western",
+                "t": 2070.0,
+                "d": 480.0
+              },
+              {
+                "w": "Chalukya",
+                "t": 2550.0,
+                "d": 520.0
+              },
+              {
+                "w": "power",
+                "t": 3070.0,
+                "d": 520.0
+              },
+              {
+                "w": "binding",
+                "t": 3630.0,
+                "d": 560.0
+              },
+              {
+                "w": "chiefs",
+                "t": 4190.0,
+                "d": 360.0
+              },
+              {
+                "w": "across",
+                "t": 4550.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 4950.0,
+                "d": 120.0
+              },
+              {
+                "w": "Deccan",
+                "t": 5070.0,
+                "d": 680.0
+              },
+              {
+                "w": "By",
+                "t": 5750.0,
+                "d": 360.0
+              },
+              {
+                "w": "c",
+                "t": 6110.0,
+                "d": 200.0
+              },
+              {
+                "w": ".",
+                "t": 6310.0,
+                "d": 0.0
+              },
+              {
+                "w": "eleven",
+                "t": 6310.0,
+                "d": 640.0
+              },
+              {
+                "w": "thirty-eight",
+                "t": 6950.0,
+                "d": 440.0
+              },
+              {
+                "w": "CE",
+                "t": 7390.0,
+                "d": 560.0
+              },
+              {
+                "w": "the",
+                "t": 8189.0,
+                "d": 200.0
+              },
+              {
+                "w": "bindings",
+                "t": 8389.0,
+                "d": 481.0
+              },
+              {
+                "w": "were",
+                "t": 8870.0,
+                "d": 160.0
+              },
+              {
+                "w": "fraying",
+                "t": 9030.0,
+                "d": 760.0
+              },
+              {
+                "w": "even",
+                "t": 9910.0,
+                "d": 319.0
+              },
+              {
+                "w": "as",
+                "t": 10229.0,
+                "d": 121.0
+              },
+              {
+                "w": "the",
+                "t": 10350.0,
+                "d": 119.0
+              },
+              {
+                "w": "royal",
+                "t": 10469.0,
+                "d": 321.0
+              },
+              {
+                "w": "court",
+                "t": 10790.0,
+                "d": 519.0
+              },
+              {
+                "w": "tried",
+                "t": 11389.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 11709.0,
+                "d": 121.0
+              },
+              {
+                "w": "act",
+                "t": 11870.0,
+                "d": 279.0
+              },
+              {
+                "w": "unchanged",
+                "t": 12149.0,
+                "d": 801.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/vassals_become_kingdoms/img/p02.png",
+      "shot": "bird’s-eye over a map-table showing routes from Kalyani to Dwarasamudra, Devagiri and Warangal",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Kalyani, orders once ran to Dwarasamudra, Devagiri and Warangal. But roads that carried tribute and troops now carried questions: how long would these chiefs bow to a weakening centre?",
+            "hi": "कल्याणी से कभी आदेश द्वारसमुद्र, देवगिरि और वारंगल तक दौड़ते थे। पर जिन सड़कों से कभी नज़राना और सेना जाती थी, अब सवाल जाते हैं: कमज़ोर होते केंद्र को ये सरदार कब तक झुकते रहेंगे?"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p02_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 70.0,
+                "d": 360.0
+              },
+              {
+                "w": "Kalyani",
+                "t": 430.0,
+                "d": 600.0
+              },
+              {
+                "w": "orders",
+                "t": 1310.0,
+                "d": 440.0
+              },
+              {
+                "w": "once",
+                "t": 1750.0,
+                "d": 279.0
+              },
+              {
+                "w": "ran",
+                "t": 2029.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 2349.0,
+                "d": 201.0
+              },
+              {
+                "w": "Dwarasamudra",
+                "t": 2550.0,
+                "d": 879.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 3550.0,
+                "d": 720.0
+              },
+              {
+                "w": "and",
+                "t": 4310.0,
+                "d": 200.0
+              },
+              {
+                "w": "Warangal",
+                "t": 4510.0,
+                "d": 760.0
+              },
+              {
+                "w": "But",
+                "t": 5830.0,
+                "d": 320.0
+              },
+              {
+                "w": "roads",
+                "t": 6150.0,
+                "d": 320.0
+              },
+              {
+                "w": "that",
+                "t": 6470.0,
+                "d": 200.0
+              },
+              {
+                "w": "carried",
+                "t": 6670.0,
+                "d": 400.0
+              },
+              {
+                "w": "tribute",
+                "t": 7070.0,
+                "d": 560.0
+              },
+              {
+                "w": "and",
+                "t": 7710.0,
+                "d": 319.0
+              },
+              {
+                "w": "troops",
+                "t": 8029.0,
+                "d": 321.0
+              },
+              {
+                "w": "now",
+                "t": 8350.0,
+                "d": 440.0
+              },
+              {
+                "w": "carried",
+                "t": 8830.0,
+                "d": 319.0
+              },
+              {
+                "w": "questions",
+                "t": 9149.0,
+                "d": 801.0
+              },
+              {
+                "w": "how",
+                "t": 10549.0,
+                "d": 281.0
+              },
+              {
+                "w": "long",
+                "t": 10830.0,
+                "d": 319.0
+              },
+              {
+                "w": "would",
+                "t": 11149.0,
+                "d": 201.0
+              },
+              {
+                "w": "these",
+                "t": 11350.0,
+                "d": 199.0
+              },
+              {
+                "w": "chiefs",
+                "t": 11549.0,
+                "d": 441.0
+              },
+              {
+                "w": "bow",
+                "t": 11990.0,
+                "d": 399.0
+              },
+              {
+                "w": "to",
+                "t": 12430.0,
+                "d": 240.0
+              },
+              {
+                "w": "a",
+                "t": 12670.0,
+                "d": 39.0
+              },
+              {
+                "w": "weakening",
+                "t": 12709.0,
+                "d": 481.0
+              },
+              {
+                "w": "centre",
+                "t": 13190.0,
+                "d": 439.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/vassals_become_kingdoms/img/p03.png",
+      "shot": "close-up on the commander’s hand receiving a palm-leaf inscription record",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Inscriptions begin to tell the story. Hoysala, Seuna-Yadava and Kakatiya records stretch their chiefs' titles, claiming glory not just as feudatories, but as lords in their own right.",
+            "hi": "अब कहानी शिलालेखों में खुलती है। होयसला, सेना-यादव और काकतीय अभिलेख अपने सरदारों की पदवियाँ लंबी कर देते हैं—अब सिर्फ जागीरदार नहीं, खुद के अधिकार के स्वामी घोषित होते हैं।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p03_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Inscriptions",
+                "t": 74.0,
+                "d": 723.0
+              },
+              {
+                "w": "begin",
+                "t": 797.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 1095.0,
+                "d": 127.0
+              },
+              {
+                "w": "tell",
+                "t": 1223.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 1478.0,
+                "d": 127.0
+              },
+              {
+                "w": "story",
+                "t": 1606.0,
+                "d": 765.0
+              },
+              {
+                "w": "Hoysala",
+                "t": 2372.0,
+                "d": 807.0
+              },
+              {
+                "w": "Seuna-Yadava",
+                "t": 3223.0,
+                "d": 850.0
+              },
+              {
+                "w": "and",
+                "t": 4073.0,
+                "d": 341.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 4414.0,
+                "d": 510.0
+              },
+              {
+                "w": "records",
+                "t": 4925.0,
+                "d": 468.0
+              },
+              {
+                "w": "stretch",
+                "t": 5393.0,
+                "d": 425.0
+              },
+              {
+                "w": "their",
+                "t": 5819.0,
+                "d": 255.0
+              },
+              {
+                "w": "chiefs'",
+                "t": 6074.0,
+                "d": 382.0
+              },
+              {
+                "w": "titles",
+                "t": 6457.0,
+                "d": 808.0
+              },
+              {
+                "w": "claiming",
+                "t": 7521.0,
+                "d": 510.0
+              },
+              {
+                "w": "glory",
+                "t": 8031.0,
+                "d": 425.0
+              },
+              {
+                "w": "not",
+                "t": 8457.0,
+                "d": 296.0
+              },
+              {
+                "w": "just",
+                "t": 8754.0,
+                "d": 298.0
+              },
+              {
+                "w": "as",
+                "t": 9053.0,
+                "d": 126.0
+              },
+              {
+                "w": "feudatories",
+                "t": 9179.0,
+                "d": 1022.0
+              },
+              {
+                "w": "but",
+                "t": 10328.0,
+                "d": 256.0
+              },
+              {
+                "w": "as",
+                "t": 10585.0,
+                "d": 211.0
+              },
+              {
+                "w": "lords",
+                "t": 10796.0,
+                "d": 469.0
+              },
+              {
+                "w": "in",
+                "t": 11265.0,
+                "d": 170.0
+              },
+              {
+                "w": "their",
+                "t": 11436.0,
+                "d": 212.0
+              },
+              {
+                "w": "own",
+                "t": 11648.0,
+                "d": 296.0
+              },
+              {
+                "w": "right",
+                "t": 11945.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/vassals_become_kingdoms/img/p04.png",
+      "shot": "imagined cutaway: inscription carved on stone, commander observing in the background",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Where once Chalukya emperors were named first, new stones place regional chiefs at the centre. The language of loyalty slowly shifts to the language of sovereignty.",
+            "hi": "जहाँ कभी पहले चालुक्य सम्राटों का नाम उभरता था, नई शिलाएँ क्षेत्रीय सरदारों को केंद्र में रखती हैं। वफ़ादारी की भाषा धीरे-धीरे हक और हुकूमत की भाषा बन जाती है।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p04_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Where",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "once",
+                "t": 414.0,
+                "d": 382.0
+              },
+              {
+                "w": "Chalukya",
+                "t": 797.0,
+                "d": 680.0
+              },
+              {
+                "w": "emperors",
+                "t": 1478.0,
+                "d": 468.0
+              },
+              {
+                "w": "were",
+                "t": 1946.0,
+                "d": 170.0
+              },
+              {
+                "w": "named",
+                "t": 2117.0,
+                "d": 339.0
+              },
+              {
+                "w": "first",
+                "t": 2456.0,
+                "d": 937.0
+              },
+              {
+                "w": "new",
+                "t": 3520.0,
+                "d": 341.0
+              },
+              {
+                "w": "stones",
+                "t": 3861.0,
+                "d": 425.0
+              },
+              {
+                "w": "place",
+                "t": 4287.0,
+                "d": 340.0
+              },
+              {
+                "w": "regional",
+                "t": 4627.0,
+                "d": 510.0
+              },
+              {
+                "w": "chiefs",
+                "t": 5138.0,
+                "d": 425.0
+              },
+              {
+                "w": "at",
+                "t": 5563.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 5776.0,
+                "d": 127.0
+              },
+              {
+                "w": "centre",
+                "t": 5904.0,
+                "d": 425.0
+              },
+              {
+                "w": "The",
+                "t": 7138.0,
+                "d": 170.0
+              },
+              {
+                "w": "language",
+                "t": 7308.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 7819.0,
+                "d": 170.0
+              },
+              {
+                "w": "loyalty",
+                "t": 7989.0,
+                "d": 594.0
+              },
+              {
+                "w": "slowly",
+                "t": 8584.0,
+                "d": 425.0
+              },
+              {
+                "w": "shifts",
+                "t": 9009.0,
+                "d": 341.0
+              },
+              {
+                "w": "to",
+                "t": 9351.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 9478.0,
+                "d": 127.0
+              },
+              {
+                "w": "language",
+                "t": 9606.0,
+                "d": 467.0
+              },
+              {
+                "w": "of",
+                "t": 10073.0,
+                "d": 128.0
+              },
+              {
+                "w": "sovereignty",
+                "t": 10202.0,
+                "d": 850.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/vassals_become_kingdoms/img/p05.png",
+      "shot": "medium shot in council chamber with commander debating with other officers",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Late Western Chalukya and Kalachuri records speak of shrinking revenue and contested rights. Political strain and fiscal weakness loosen the net that once held the Deccan together.",
+            "hi": "देर के चालुक्य और कालचुरी अभिलेख घटती आमदनी और झगड़ालू अधिकारों की बात करते हैं। राजनीतिक तनाव और माली कमज़ोरी उस जाल को ढीला कर देती है जो कभी पूरे दक्कन को एक साथ बाँधता था।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p05_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Late",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "Western",
+                "t": 457.0,
+                "d": 510.0
+              },
+              {
+                "w": "Chalukya",
+                "t": 968.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 1521.0,
+                "d": 425.0
+              },
+              {
+                "w": "Kalachuri",
+                "t": 1946.0,
+                "d": 468.0
+              },
+              {
+                "w": "records",
+                "t": 2414.0,
+                "d": 510.0
+              },
+              {
+                "w": "speak",
+                "t": 2925.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 3351.0,
+                "d": 169.0
+              },
+              {
+                "w": "shrinking",
+                "t": 3520.0,
+                "d": 510.0
+              },
+              {
+                "w": "revenue",
+                "t": 4030.0,
+                "d": 639.0
+              },
+              {
+                "w": "and",
+                "t": 4712.0,
+                "d": 255.0
+              },
+              {
+                "w": "contested",
+                "t": 4968.0,
+                "d": 595.0
+              },
+              {
+                "w": "rights",
+                "t": 5563.0,
+                "d": 638.0
+              },
+              {
+                "w": "Political",
+                "t": 6670.0,
+                "d": 510.0
+              },
+              {
+                "w": "strain",
+                "t": 7180.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 7648.0,
+                "d": 255.0
+              },
+              {
+                "w": "fiscal",
+                "t": 7904.0,
+                "d": 468.0
+              },
+              {
+                "w": "weakness",
+                "t": 8372.0,
+                "d": 807.0
+              },
+              {
+                "w": "loosen",
+                "t": 9223.0,
+                "d": 509.0
+              },
+              {
+                "w": "the",
+                "t": 9732.0,
+                "d": 170.0
+              },
+              {
+                "w": "net",
+                "t": 9903.0,
+                "d": 170.0
+              },
+              {
+                "w": "that",
+                "t": 10073.0,
+                "d": 596.0
+              },
+              {
+                "w": "once",
+                "t": 10670.0,
+                "d": 340.0
+              },
+              {
+                "w": "held",
+                "t": 11010.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 11265.0,
+                "d": 126.0
+              },
+              {
+                "w": "Deccan",
+                "t": 11392.0,
+                "d": 341.0
+              },
+              {
+                "w": "together",
+                "t": 11734.0,
+                "d": 637.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/vassals_become_kingdoms/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/vassals_become_kingdoms/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hemmed by faltering tribute, he tests steel and courage, measuring how long Kalyani's walls can resist ambitious southern chiefs.",
+            "hi": "कमज़ोर नज़राने में घिरा वो लोहे और जिगर को आज़माता है, देखता है कल्याणी की दीवारें कब तक दक्षिण के लालची सरदारों को झेलेंगी।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/action/action_auto_en.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hemmed",
+                "t": 70.0,
+                "d": 360.0
+              },
+              {
+                "w": "by",
+                "t": 430.0,
+                "d": 240.0
+              },
+              {
+                "w": "faltering",
+                "t": 670.0,
+                "d": 440.0
+              },
+              {
+                "w": "tribute",
+                "t": 1110.0,
+                "d": 680.0
+              },
+              {
+                "w": "he",
+                "t": 1830.0,
+                "d": 280.0
+              },
+              {
+                "w": "tests",
+                "t": 2110.0,
+                "d": 440.0
+              },
+              {
+                "w": "steel",
+                "t": 2550.0,
+                "d": 439.0
+              },
+              {
+                "w": "and",
+                "t": 3030.0,
+                "d": 200.0
+              },
+              {
+                "w": "courage",
+                "t": 3230.0,
+                "d": 679.0
+              },
+              {
+                "w": "measuring",
+                "t": 4190.0,
+                "d": 560.0
+              },
+              {
+                "w": "how",
+                "t": 4750.0,
+                "d": 160.0
+              },
+              {
+                "w": "long",
+                "t": 4910.0,
+                "d": 240.0
+              },
+              {
+                "w": "Kalyani's",
+                "t": 5150.0,
+                "d": 520.0
+              },
+              {
+                "w": "walls",
+                "t": 5670.0,
+                "d": 360.0
+              },
+              {
+                "w": "can",
+                "t": 6030.0,
+                "d": 160.0
+              },
+              {
+                "w": "resist",
+                "t": 6190.0,
+                "d": 440.0
+              },
+              {
+                "w": "ambitious",
+                "t": 6630.0,
+                "d": 560.0
+              },
+              {
+                "w": "southern",
+                "t": 7190.0,
+                "d": 440.0
+              },
+              {
+                "w": "chiefs",
+                "t": 7630.0,
+                "d": 599.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/vassals_become_kingdoms/img/p06.png",
+      "shot": "low-angle of commander on ramparts of Kalyani, looking toward the horizon",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By the mid-12th century, Western Chalukya authority becomes a loose framework. Powerful feudatories learn they can stand inside it when useful, and step outside it when it binds too tight.",
+            "hi": "बारहवीं सदी के बीच आते-आते पश्चिमी चालुक्य हुकूमत बस एक ढीला ढाँचा रह जाती है। ताकतवर जागीरदार सीख जाते हैं कि काम पड़े तो भीतर रहें, और ज़्यादा कसने लगे तो बाहर निकल जाएँ।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p06_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 372.0,
+                "d": 127.0
+              },
+              {
+                "w": "mid-12th",
+                "t": 500.0,
+                "d": 1020.0
+              },
+              {
+                "w": "century",
+                "t": 1521.0,
+                "d": 851.0
+              },
+              {
+                "w": "Western",
+                "t": 2456.0,
+                "d": 553.0
+              },
+              {
+                "w": "Chalukya",
+                "t": 3009.0,
+                "d": 553.0
+              },
+              {
+                "w": "authority",
+                "t": 3562.0,
+                "d": 638.0
+              },
+              {
+                "w": "becomes",
+                "t": 4201.0,
+                "d": 511.0
+              },
+              {
+                "w": "a",
+                "t": 4712.0,
+                "d": 127.0
+              },
+              {
+                "w": "loose",
+                "t": 4840.0,
+                "d": 340.0
+              },
+              {
+                "w": "framework",
+                "t": 5180.0,
+                "d": 1276.0
+              },
+              {
+                "w": "Powerful",
+                "t": 6627.0,
+                "d": 510.0
+              },
+              {
+                "w": "feudatories",
+                "t": 7138.0,
+                "d": 723.0
+              },
+              {
+                "w": "learn",
+                "t": 7861.0,
+                "d": 255.0
+              },
+              {
+                "w": "they",
+                "t": 8117.0,
+                "d": 170.0
+              },
+              {
+                "w": "can",
+                "t": 8287.0,
+                "d": 127.0
+              },
+              {
+                "w": "stand",
+                "t": 8414.0,
+                "d": 382.0
+              },
+              {
+                "w": "inside",
+                "t": 8797.0,
+                "d": 425.0
+              },
+              {
+                "w": "it",
+                "t": 9223.0,
+                "d": 255.0
+              },
+              {
+                "w": "when",
+                "t": 9478.0,
+                "d": 212.0
+              },
+              {
+                "w": "useful",
+                "t": 9691.0,
+                "d": 851.0
+              },
+              {
+                "w": "and",
+                "t": 10542.0,
+                "d": 254.0
+              },
+              {
+                "w": "step",
+                "t": 10796.0,
+                "d": 298.0
+              },
+              {
+                "w": "outside",
+                "t": 11095.0,
+                "d": 510.0
+              },
+              {
+                "w": "it",
+                "t": 11606.0,
+                "d": 254.0
+              },
+              {
+                "w": "when",
+                "t": 11989.0,
+                "d": 170.0
+              },
+              {
+                "w": "it",
+                "t": 12159.0,
+                "d": 126.0
+              },
+              {
+                "w": "binds",
+                "t": 12286.0,
+                "d": 384.0
+              },
+              {
+                "w": "too",
+                "t": 12670.0,
+                "d": 212.0
+              },
+              {
+                "w": "tight",
+                "t": 12882.0,
+                "d": 467.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/vassals_become_kingdoms/img/p07.png",
+      "shot": "montage-style wide showing three distant courts simultaneously",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Karnataka, at Dwarasamudra, Hoysala rulers claim wider command. At Devagiri, Seuna-Yadavas speak as masters of their plateau. At Warangal, Kakatiyas build power in Telingana.",
+            "hi": "कर्नाटक के द्वारसमुद्र में होयसला राजाओं की दावेदारी फैलती है। देवगिरि पर सेना-यादव खुद को पठार के मालिक बताते हैं। वारंगल में काकतीय तेलिंगाना में अपनी शक्ति गढ़ते हैं।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p07_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Karnataka",
+                "t": 329.0,
+                "d": 553.0
+              },
+              {
+                "w": "at",
+                "t": 882.0,
+                "d": 425.0
+              },
+              {
+                "w": "Dwarasamudra",
+                "t": 1308.0,
+                "d": 893.0
+              },
+              {
+                "w": "Hoysala",
+                "t": 2498.0,
+                "d": 553.0
+              },
+              {
+                "w": "rulers",
+                "t": 3052.0,
+                "d": 468.0
+              },
+              {
+                "w": "claim",
+                "t": 3520.0,
+                "d": 384.0
+              },
+              {
+                "w": "wider",
+                "t": 3946.0,
+                "d": 340.0
+              },
+              {
+                "w": "command",
+                "t": 4287.0,
+                "d": 638.0
+              },
+              {
+                "w": "At",
+                "t": 5521.0,
+                "d": 297.0
+              },
+              {
+                "w": "Devagiri",
+                "t": 5819.0,
+                "d": 638.0
+              },
+              {
+                "w": "Seuna-Yadavas",
+                "t": 6585.0,
+                "d": 978.0
+              },
+              {
+                "w": "speak",
+                "t": 7563.0,
+                "d": 468.0
+              },
+              {
+                "w": "as",
+                "t": 8031.0,
+                "d": 255.0
+              },
+              {
+                "w": "masters",
+                "t": 8287.0,
+                "d": 552.0
+              },
+              {
+                "w": "of",
+                "t": 8839.0,
+                "d": 128.0
+              },
+              {
+                "w": "their",
+                "t": 8968.0,
+                "d": 211.0
+              },
+              {
+                "w": "plateau",
+                "t": 9179.0,
+                "d": 384.0
+              },
+              {
+                "w": "At",
+                "t": 10202.0,
+                "d": 297.0
+              },
+              {
+                "w": "Warangal",
+                "t": 10500.0,
+                "d": 851.0
+              },
+              {
+                "w": "Kakatiyas",
+                "t": 11521.0,
+                "d": 553.0
+              },
+              {
+                "w": "build",
+                "t": 12074.0,
+                "d": 255.0
+              },
+              {
+                "w": "power",
+                "t": 12329.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 12755.0,
+                "d": 169.0
+              },
+              {
+                "w": "Telingana",
+                "t": 12924.0,
+                "d": 809.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/vassals_become_kingdoms/img/p08.png",
+      "shot": "close-up of commander reading an inscription praising a regional chief as ‘maharaja’",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Inscriptional titles grow higher: 'maharaja', 'ruler of many countries'. These chiefs no longer describe themselves as mere servants of Kalyani, even when they still nod to Chalukya suzerainty.",
+            "hi": "शिलालेखों की पदवियाँ ऊँची होती जाती हैं: ‘महाराज’, ‘अनेकों देशों का स्वामी’। ये सरदार अब खुद को सिर्फ कल्याणी के नौकर नहीं कहते, भले चालुक्य अधिपत्य को औपचारिक सलाम अभी भी कर दें।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p08_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Inscriptional",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "titles",
+                "t": 840.0,
+                "d": 510.0
+              },
+              {
+                "w": "grow",
+                "t": 1351.0,
+                "d": 255.0
+              },
+              {
+                "w": "higher",
+                "t": 1606.0,
+                "d": 552.0
+              },
+              {
+                "w": "maharaja",
+                "t": 2840.0,
+                "d": 850.0
+              },
+              {
+                "w": "ruler",
+                "t": 4073.0,
+                "d": 469.0
+              },
+              {
+                "w": "of",
+                "t": 4542.0,
+                "d": 212.0
+              },
+              {
+                "w": "many",
+                "t": 4755.0,
+                "d": 340.0
+              },
+              {
+                "w": "countries'",
+                "t": 5095.0,
+                "d": 638.0
+              },
+              {
+                "w": "These",
+                "t": 6840.0,
+                "d": 382.0
+              },
+              {
+                "w": "chiefs",
+                "t": 7223.0,
+                "d": 382.0
+              },
+              {
+                "w": "no",
+                "t": 7606.0,
+                "d": 212.0
+              },
+              {
+                "w": "longer",
+                "t": 7819.0,
+                "d": 297.0
+              },
+              {
+                "w": "describe",
+                "t": 8117.0,
+                "d": 509.0
+              },
+              {
+                "w": "themselves",
+                "t": 8626.0,
+                "d": 553.0
+              },
+              {
+                "w": "as",
+                "t": 9179.0,
+                "d": 256.0
+              },
+              {
+                "w": "mere",
+                "t": 9436.0,
+                "d": 255.0
+              },
+              {
+                "w": "servants",
+                "t": 9691.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 10202.0,
+                "d": 126.0
+              },
+              {
+                "w": "Kalyani",
+                "t": 10328.0,
+                "d": 638.0
+              },
+              {
+                "w": "even",
+                "t": 11521.0,
+                "d": 254.0
+              },
+              {
+                "w": "when",
+                "t": 11775.0,
+                "d": 170.0
+              },
+              {
+                "w": "they",
+                "t": 11945.0,
+                "d": 170.0
+              },
+              {
+                "w": "still",
+                "t": 12115.0,
+                "d": 298.0
+              },
+              {
+                "w": "nod",
+                "t": 12414.0,
+                "d": 468.0
+              },
+              {
+                "w": "to",
+                "t": 12882.0,
+                "d": 170.0
+              },
+              {
+                "w": "Chalukya",
+                "t": 13053.0,
+                "d": 510.0
+              },
+              {
+                "w": "suzerainty",
+                "t": 13563.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/vassals_become_kingdoms/img/p09.png",
+      "shot": "dynamic medium shot of commander receiving messengers from three directions",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Messages bring mixed answers: help offered when it suits, delay or refusal when it does not. The network turns from straight lines of command into a web of bargaining and selective support.",
+            "hi": "संदेशों के जवाब भी मिले-जुले हैं: काम पड़े तो मदद, न सूट करे तो टालना या इन्कार। सीधी आज्ञा-रेखाएँ अब सौदेबाज़ी और चुनिंदा सहारे का उलझा हुआ जाल बन जाती हैं।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p09_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Messages",
+                "t": 74.0,
+                "d": 553.0
+              },
+              {
+                "w": "bring",
+                "t": 627.0,
+                "d": 297.0
+              },
+              {
+                "w": "mixed",
+                "t": 925.0,
+                "d": 297.0
+              },
+              {
+                "w": "answers",
+                "t": 1223.0,
+                "d": 808.0
+              },
+              {
+                "w": "help",
+                "t": 2158.0,
+                "d": 382.0
+              },
+              {
+                "w": "offered",
+                "t": 2541.0,
+                "d": 384.0
+              },
+              {
+                "w": "when",
+                "t": 2925.0,
+                "d": 169.0
+              },
+              {
+                "w": "it",
+                "t": 3094.0,
+                "d": 128.0
+              },
+              {
+                "w": "suits",
+                "t": 3223.0,
+                "d": 638.0
+              },
+              {
+                "w": "delay",
+                "t": 3946.0,
+                "d": 680.0
+              },
+              {
+                "w": "or",
+                "t": 4670.0,
+                "d": 212.0
+              },
+              {
+                "w": "refusal",
+                "t": 4882.0,
+                "d": 595.0
+              },
+              {
+                "w": "when",
+                "t": 5478.0,
+                "d": 170.0
+              },
+              {
+                "w": "it",
+                "t": 5648.0,
+                "d": 127.0
+              },
+              {
+                "w": "does",
+                "t": 5776.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 5946.0,
+                "d": 170.0
+              },
+              {
+                "w": "The",
+                "t": 6117.0,
+                "d": 1191.0
+              },
+              {
+                "w": "network",
+                "t": 7308.0,
+                "d": 468.0
+              },
+              {
+                "w": "turns",
+                "t": 7776.0,
+                "d": 297.0
+              },
+              {
+                "w": "from",
+                "t": 8074.0,
+                "d": 212.0
+              },
+              {
+                "w": "straight",
+                "t": 8287.0,
+                "d": 467.0
+              },
+              {
+                "w": "lines",
+                "t": 8754.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 9053.0,
+                "d": 170.0
+              },
+              {
+                "w": "command",
+                "t": 9223.0,
+                "d": 638.0
+              },
+              {
+                "w": "into",
+                "t": 9861.0,
+                "d": 425.0
+              },
+              {
+                "w": "a",
+                "t": 10287.0,
+                "d": 41.0
+              },
+              {
+                "w": "web",
+                "t": 10328.0,
+                "d": 213.0
+              },
+              {
+                "w": "of",
+                "t": 10542.0,
+                "d": 212.0
+              },
+              {
+                "w": "bargaining",
+                "t": 10755.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 11351.0,
+                "d": 212.0
+              },
+              {
+                "w": "selective",
+                "t": 11563.0,
+                "d": 510.0
+              },
+              {
+                "w": "support",
+                "t": 12074.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/vassals_become_kingdoms/img/p10.png",
+      "shot": "tense close-up on commander’s face lit by flickering torchlight",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "This was not one sudden defeat, nor a single battle that toppled an empire. It was a long, uneven shift, as regional houses quietly build their own bases and symbols of rule.",
+            "hi": "ये कोई एक ही हार नहीं थी, न एक ही जंग जिसने साम्राज्य गिरा दिया। ये लंबा, टेढ़ा बदलाव था, जिसमें क्षेत्रीय घराने चुपचाप अपनी ही नींव और राजचिह्न गढ़ते रहे।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p10_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "This",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "was",
+                "t": 350.0,
+                "d": 160.0
+              },
+              {
+                "w": "not",
+                "t": 510.0,
+                "d": 280.0
+              },
+              {
+                "w": "one",
+                "t": 790.0,
+                "d": 320.0
+              },
+              {
+                "w": "sudden",
+                "t": 1110.0,
+                "d": 360.0
+              },
+              {
+                "w": "defeat",
+                "t": 1470.0,
+                "d": 600.0
+              },
+              {
+                "w": "nor",
+                "t": 2429.0,
+                "d": 360.0
+              },
+              {
+                "w": "a",
+                "t": 2789.0,
+                "d": 80.0
+              },
+              {
+                "w": "single",
+                "t": 2869.0,
+                "d": 440.0
+              },
+              {
+                "w": "battle",
+                "t": 3309.0,
+                "d": 441.0
+              },
+              {
+                "w": "that",
+                "t": 3750.0,
+                "d": 159.0
+              },
+              {
+                "w": "toppled",
+                "t": 3909.0,
+                "d": 481.0
+              },
+              {
+                "w": "an",
+                "t": 4390.0,
+                "d": 120.0
+              },
+              {
+                "w": "empire",
+                "t": 4510.0,
+                "d": 960.0
+              },
+              {
+                "w": "It",
+                "t": 5750.0,
+                "d": 200.0
+              },
+              {
+                "w": "was",
+                "t": 5950.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 6110.0,
+                "d": 80.0
+              },
+              {
+                "w": "long",
+                "t": 6190.0,
+                "d": 720.0
+              },
+              {
+                "w": "uneven",
+                "t": 6950.0,
+                "d": 480.0
+              },
+              {
+                "w": "shift",
+                "t": 7430.0,
+                "d": 719.0
+              },
+              {
+                "w": "as",
+                "t": 8309.0,
+                "d": 320.0
+              },
+              {
+                "w": "regional",
+                "t": 8629.0,
+                "d": 401.0
+              },
+              {
+                "w": "houses",
+                "t": 9030.0,
+                "d": 439.0
+              },
+              {
+                "w": "quietly",
+                "t": 9469.0,
+                "d": 561.0
+              },
+              {
+                "w": "build",
+                "t": 10030.0,
+                "d": 199.0
+              },
+              {
+                "w": "their",
+                "t": 10229.0,
+                "d": 201.0
+              },
+              {
+                "w": "own",
+                "t": 10430.0,
+                "d": 199.0
+              },
+              {
+                "w": "bases",
+                "t": 10629.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 11350.0,
+                "d": 359.0
+              },
+              {
+                "w": "symbols",
+                "t": 11709.0,
+                "d": 481.0
+              },
+              {
+                "w": "of",
+                "t": 12190.0,
+                "d": 199.0
+              },
+              {
+                "w": "rule",
+                "t": 12389.0,
+                "d": 441.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/vassals_become_kingdoms/img/p11.png",
+      "shot": "wide shot of Kalyani court being ignored while regional courts celebrate",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Scholars like Nilakanta Sastri, B.R. Gopal and B.D. Chattopadhyaya read these traces as the making of regional states. The Chalukya frame weakens; new centres of loyalty and identity grow.",
+            "hi": "नीलकंठ शास्त्री, बी.आर. गोपाल, बी.डी. चट्टोपाध्याय जैसे विद्वान इन निशानों में क्षेत्रीय राज्यों की बनावट पढ़ते हैं। चालुक्य ढाँचा ढीला पड़ता है; वफ़ादारी और पहचान के नए केंद्र उगते हैं।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p11_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Scholars",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "like",
+                "t": 670.0,
+                "d": 212.0
+              },
+              {
+                "w": "Nilakanta",
+                "t": 882.0,
+                "d": 595.0
+              },
+              {
+                "w": "Sastri",
+                "t": 1478.0,
+                "d": 723.0
+              },
+              {
+                "w": "B.R.",
+                "t": 2498.0,
+                "d": 468.0
+              },
+              {
+                "w": "Gopal",
+                "t": 2967.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 3690.0,
+                "d": 256.0
+              },
+              {
+                "w": "B.D.",
+                "t": 3946.0,
+                "d": 169.0
+              },
+              {
+                "w": "Chattopadhyaya",
+                "t": 4201.0,
+                "d": 894.0
+              },
+              {
+                "w": "read",
+                "t": 5436.0,
+                "d": 340.0
+              },
+              {
+                "w": "these",
+                "t": 5776.0,
+                "d": 255.0
+              },
+              {
+                "w": "traces",
+                "t": 6031.0,
+                "d": 680.0
+              },
+              {
+                "w": "as",
+                "t": 6797.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 7095.0,
+                "d": 127.0
+              },
+              {
+                "w": "making",
+                "t": 7223.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 7691.0,
+                "d": 255.0
+              },
+              {
+                "w": "regional",
+                "t": 7946.0,
+                "d": 382.0
+              },
+              {
+                "w": "states",
+                "t": 8329.0,
+                "d": 1191.0
+              },
+              {
+                "w": "The",
+                "t": 9647.0,
+                "d": 255.0
+              },
+              {
+                "w": "Chalukya",
+                "t": 9903.0,
+                "d": 511.0
+              },
+              {
+                "w": "frame",
+                "t": 10414.0,
+                "d": 296.0
+              },
+              {
+                "w": "weakens",
+                "t": 10711.0,
+                "d": 767.0
+              },
+              {
+                "w": "new",
+                "t": 11648.0,
+                "d": 340.0
+              },
+              {
+                "w": "centres",
+                "t": 11989.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 12414.0,
+                "d": 170.0
+              },
+              {
+                "w": "loyalty",
+                "t": 12585.0,
+                "d": 679.0
+              },
+              {
+                "w": "and",
+                "t": 13264.0,
+                "d": 255.0
+              },
+              {
+                "w": "identity",
+                "t": 13520.0,
+                "d": 681.0
+              },
+              {
+                "w": "grow",
+                "t": 14202.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/vassals_become_kingdoms/img/p12.png",
+      "shot": "medium shot in war council, commander pointing at map fragments",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "We no longer command an empire; we negotiate among rising kingdoms.",
+            "hi": "अब हम साम्राज्य नहीं चलाते; उभरती रियासतों के बीच सौदे करते हैं।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p12_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "We",
+                "t": 46.3,
+                "d": 173.6
+              },
+              {
+                "w": "no",
+                "t": 219.9,
+                "d": 185.2
+              },
+              {
+                "w": "longer",
+                "t": 451.4,
+                "d": 370.4
+              },
+              {
+                "w": "command",
+                "t": 821.8,
+                "d": 474.5
+              },
+              {
+                "w": "an",
+                "t": 1365.8,
+                "d": 185.2
+              },
+              {
+                "w": "empire",
+                "t": 1608.8,
+                "d": 590.3
+              },
+              {
+                "w": "we",
+                "t": 2534.7,
+                "d": 173.6
+              },
+              {
+                "w": "negotiate",
+                "t": 2708.3,
+                "d": 636.6
+              },
+              {
+                "w": "among",
+                "t": 3402.8,
+                "d": 324.0
+              },
+              {
+                "w": "rising",
+                "t": 3726.8,
+                "d": 416.7
+              },
+              {
+                "w": "kingdoms",
+                "t": 4166.7,
+                "d": 544.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/vassals_become_kingdoms/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/vassals_become_kingdoms/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Seeing the Deccan split by rising powers, he braces to maneuver between Hoysala, Seuna, and Kakatiya blades without losing his own head.",
+            "hi": "दक्खन में नई ताकतें उठती देख, वह होयसला, सियुना और काकतीय तलवारों के बीच से अपना सिर बचाते निकलने को तैयार हो जाता है।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/action/action_auto2_en.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Seeing",
+                "t": 80.0,
+                "d": 459.0
+              },
+              {
+                "w": "the",
+                "t": 540.0,
+                "d": 137.0
+              },
+              {
+                "w": "Deccan",
+                "t": 678.0,
+                "d": 321.0
+              },
+              {
+                "w": "split",
+                "t": 1000.0,
+                "d": 413.0
+              },
+              {
+                "w": "by",
+                "t": 1413.0,
+                "d": 229.0
+              },
+              {
+                "w": "rising",
+                "t": 1643.0,
+                "d": 505.0
+              },
+              {
+                "w": "powers",
+                "t": 2149.0,
+                "d": 781.0
+              },
+              {
+                "w": "he",
+                "t": 2977.0,
+                "d": 366.0
+              },
+              {
+                "w": "braces",
+                "t": 3343.0,
+                "d": 459.0
+              },
+              {
+                "w": "to",
+                "t": 3803.0,
+                "d": 137.0
+              },
+              {
+                "w": "maneuver",
+                "t": 3941.0,
+                "d": 551.0
+              },
+              {
+                "w": "between",
+                "t": 4493.0,
+                "d": 414.0
+              },
+              {
+                "w": "Hoysala",
+                "t": 4908.0,
+                "d": 781.0
+              },
+              {
+                "w": "Seuna",
+                "t": 5919.0,
+                "d": 505.0
+              },
+              {
+                "w": "and",
+                "t": 6425.0,
+                "d": 735.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 7160.0,
+                "d": 551.0
+              },
+              {
+                "w": "blades",
+                "t": 7712.0,
+                "d": 643.0
+              },
+              {
+                "w": "without",
+                "t": 8540.0,
+                "d": 459.0
+              },
+              {
+                "w": "losing",
+                "t": 9000.0,
+                "d": 412.0
+              },
+              {
+                "w": "his",
+                "t": 9412.0,
+                "d": 185.0
+              },
+              {
+                "w": "own",
+                "t": 9597.0,
+                "d": 320.0
+              },
+              {
+                "w": "head",
+                "t": 9918.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/vassals_become_kingdoms/img/p13.png",
+      "shot": "slow pull-back from Kalyani fort to reveal surrounding territories beyond its reach",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Western Chalukya and Kalachuri records from Kalyani show shrinking reach. What was once imperial command becomes local control, surrounded by ambitious neighbors shaped by its own old system.",
+            "hi": "कल्याणी से मिले चालुक्य और कालचुरी अभिलेख घटती पहुँच दिखाते हैं। कभी जो आदेश साम्राज्य भर में गूंजते थे, वे अब स्थानीय हुक्म बन जाते हैं—चारों ओर वही महत्वाकांक्षी पड़ोसी, जिन्हें पुराना ढाँचा ही गढ़ता था।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p13_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Western",
+                "t": 80.0,
+                "d": 643.0
+              },
+              {
+                "w": "Chalukya",
+                "t": 724.0,
+                "d": 643.0
+              },
+              {
+                "w": "and",
+                "t": 1367.0,
+                "d": 321.0
+              },
+              {
+                "w": "Kalachuri",
+                "t": 1689.0,
+                "d": 505.0
+              },
+              {
+                "w": "records",
+                "t": 2195.0,
+                "d": 550.0
+              },
+              {
+                "w": "from",
+                "t": 2745.0,
+                "d": 277.0
+              },
+              {
+                "w": "Kalyani",
+                "t": 3022.0,
+                "d": 689.0
+              },
+              {
+                "w": "show",
+                "t": 3987.0,
+                "d": 277.0
+              },
+              {
+                "w": "shrinking",
+                "t": 4264.0,
+                "d": 643.0
+              },
+              {
+                "w": "reach",
+                "t": 4908.0,
+                "d": 735.0
+              },
+              {
+                "w": "What",
+                "t": 6287.0,
+                "d": 367.0
+              },
+              {
+                "w": "was",
+                "t": 6655.0,
+                "d": 183.0
+              },
+              {
+                "w": "once",
+                "t": 6839.0,
+                "d": 367.0
+              },
+              {
+                "w": "imperial",
+                "t": 7206.0,
+                "d": 643.0
+              },
+              {
+                "w": "command",
+                "t": 7850.0,
+                "d": 413.0
+              },
+              {
+                "w": "becomes",
+                "t": 8264.0,
+                "d": 459.0
+              },
+              {
+                "w": "local",
+                "t": 8724.0,
+                "d": 413.0
+              },
+              {
+                "w": "control",
+                "t": 9137.0,
+                "d": 643.0
+              },
+              {
+                "w": "surrounded",
+                "t": 10010.0,
+                "d": 689.0
+              },
+              {
+                "w": "by",
+                "t": 10700.0,
+                "d": 231.0
+              },
+              {
+                "w": "ambitious",
+                "t": 10931.0,
+                "d": 689.0
+              },
+              {
+                "w": "neighbors",
+                "t": 11620.0,
+                "d": 504.0
+              },
+              {
+                "w": "shaped",
+                "t": 12125.0,
+                "d": 828.0
+              },
+              {
+                "w": "by",
+                "t": 12954.0,
+                "d": 228.0
+              },
+              {
+                "w": "its",
+                "t": 13182.0,
+                "d": 231.0
+              },
+              {
+                "w": "own",
+                "t": 13458.0,
+                "d": 368.0
+              },
+              {
+                "w": "old",
+                "t": 13827.0,
+                "d": 275.0
+              },
+              {
+                "w": "system",
+                "t": 14103.0,
+                "d": 735.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/vassals_become_kingdoms/img/p14.png",
+      "shot": "poetic wide of Deccan plateau at dawn with multiple banners on the horizon",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The fall of Kalyani is not an empty ending. It is the opening for Hoysala, Seuna-Yadava and Kakatiya stories to unfold as full kingdoms, each carrying pieces of Chalukya legacy in new forms.",
+            "hi": "कल्याणी का पतन खाली अंत नहीं है। ये मौका है कि होयसला, सेना-यादव और काकतीय की कहानियाँ पूरे राज्य बनकर फैले, हर एक में चालुक्य विरासत के टुकड़े नए रूपों में चले आएँ।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p14_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "fall",
+                "t": 244.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 500.0,
+                "d": 85.0
+              },
+              {
+                "w": "Kalyani",
+                "t": 585.0,
+                "d": 510.0
+              },
+              {
+                "w": "is",
+                "t": 1095.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 1265.0,
+                "d": 255.0
+              },
+              {
+                "w": "an",
+                "t": 1521.0,
+                "d": 170.0
+              },
+              {
+                "w": "empty",
+                "t": 1691.0,
+                "d": 340.0
+              },
+              {
+                "w": "ending",
+                "t": 2031.0,
+                "d": 808.0
+              },
+              {
+                "w": "It",
+                "t": 2882.0,
+                "d": 254.0
+              },
+              {
+                "w": "is",
+                "t": 3137.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 3351.0,
+                "d": 169.0
+              },
+              {
+                "w": "opening",
+                "t": 3520.0,
+                "d": 553.0
+              },
+              {
+                "w": "for",
+                "t": 4073.0,
+                "d": 170.0
+              },
+              {
+                "w": "Hoysala",
+                "t": 4243.0,
+                "d": 767.0
+              },
+              {
+                "w": "Seuna-Yadava",
+                "t": 5138.0,
+                "d": 893.0
+              },
+              {
+                "w": "and",
+                "t": 6031.0,
+                "d": 510.0
+              },
+              {
+                "w": "Kakatiya",
+                "t": 6542.0,
+                "d": 553.0
+              },
+              {
+                "w": "stories",
+                "t": 7095.0,
+                "d": 468.0
+              },
+              {
+                "w": "to",
+                "t": 7563.0,
+                "d": 170.0
+              },
+              {
+                "w": "unfold",
+                "t": 7734.0,
+                "d": 595.0
+              },
+              {
+                "w": "as",
+                "t": 8329.0,
+                "d": 254.0
+              },
+              {
+                "w": "full",
+                "t": 8584.0,
+                "d": 340.0
+              },
+              {
+                "w": "kingdoms",
+                "t": 8924.0,
+                "d": 937.0
+              },
+              {
+                "w": "each",
+                "t": 9946.0,
+                "d": 425.0
+              },
+              {
+                "w": "carrying",
+                "t": 10372.0,
+                "d": 424.0
+              },
+              {
+                "w": "pieces",
+                "t": 10796.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 11137.0,
+                "d": 128.0
+              },
+              {
+                "w": "Chalukya",
+                "t": 11265.0,
+                "d": 594.0
+              },
+              {
+                "w": "legacy",
+                "t": 11860.0,
+                "d": 554.0
+              },
+              {
+                "w": "in",
+                "t": 12414.0,
+                "d": 170.0
+              },
+              {
+                "w": "new",
+                "t": 12585.0,
+                "d": 297.0
+              },
+              {
+                "w": "forms",
+                "t": 12882.0,
+                "d": 637.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/vassals_become_kingdoms/split_auto/s0.png",
+          "slogan": {
+            "en": "Deccan will remember this stand",
+            "hi": "दक्कन इस संघर्ष को याद रखेगा"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/vassals_become_kingdoms/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/vassals_become_kingdoms/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As new standards pierce the dawn, Western Chalukya glory thins, yet his choice will shape the Deccan's next warring century.",
+            "hi": "नई सुबह में नए मानक चमके, पश्चिमी चालुक्य की शान घटने लगी, पर उसकी पसंद दक्कन की अगली खूँखार सदी लिखेगी।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/split/split_auto_en.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "new",
+                "t": 364.0,
+                "d": 208.0
+              },
+              {
+                "w": "standards",
+                "t": 572.0,
+                "d": 666.0
+              },
+              {
+                "w": "pierce",
+                "t": 1239.0,
+                "d": 375.0
+              },
+              {
+                "w": "the",
+                "t": 1614.0,
+                "d": 166.0
+              },
+              {
+                "w": "dawn",
+                "t": 1781.0,
+                "d": 583.0
+              },
+              {
+                "w": "Western",
+                "t": 2697.0,
+                "d": 583.0
+              },
+              {
+                "w": "Chalukya",
+                "t": 3281.0,
+                "d": 583.0
+              },
+              {
+                "w": "glory",
+                "t": 3864.0,
+                "d": 375.0
+              },
+              {
+                "w": "thins",
+                "t": 4239.0,
+                "d": 708.0
+              },
+              {
+                "w": "yet",
+                "t": 5239.0,
+                "d": 333.0
+              },
+              {
+                "w": "his",
+                "t": 5572.0,
+                "d": 250.0
+              },
+              {
+                "w": "choice",
+                "t": 5822.0,
+                "d": 458.0
+              },
+              {
+                "w": "will",
+                "t": 6281.0,
+                "d": 166.0
+              },
+              {
+                "w": "shape",
+                "t": 6447.0,
+                "d": 375.0
+              },
+              {
+                "w": "the",
+                "t": 6822.0,
+                "d": 166.0
+              },
+              {
+                "w": "Deccan's",
+                "t": 6989.0,
+                "d": 416.0
+              },
+              {
+                "w": "next",
+                "t": 7406.0,
+                "d": 333.0
+              },
+              {
+                "w": "warring",
+                "t": 7739.0,
+                "d": 375.0
+              },
+              {
+                "w": "century",
+                "t": 8114.0,
+                "d": 623.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/vassals_become_kingdoms/img/p15.png",
+      "shot": "close-up of commander placing the old Chalukya seal beside new regional emblems",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Inscription by inscription, coin by coin, title by title, an empire's authority dissolves into many centres. The record shows not collapse into chaos, but reordering into layered regional powers.",
+            "hi": "शिलालेख दर शिलालेख, सिक्का दर सिक्का, पदवी दर पदवी साम्राज्य की सत्ता कई केंद्रों में घुल जाती है। रिकॉर्ड दिखाता है गिरती अराजकता नहीं, बल्कि परतदार क्षेत्रीय ताकतों में नई जमावट।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p15_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Inscription",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "by",
+                "t": 840.0,
+                "d": 85.0
+              },
+              {
+                "w": "inscription",
+                "t": 925.0,
+                "d": 978.0
+              },
+              {
+                "w": "coin",
+                "t": 2117.0,
+                "d": 339.0
+              },
+              {
+                "w": "by",
+                "t": 2456.0,
+                "d": 213.0
+              },
+              {
+                "w": "coin",
+                "t": 2670.0,
+                "d": 509.0
+              },
+              {
+                "w": "title",
+                "t": 3393.0,
+                "d": 425.0
+              },
+              {
+                "w": "by",
+                "t": 3819.0,
+                "d": 211.0
+              },
+              {
+                "w": "title",
+                "t": 4030.0,
+                "d": 596.0
+              },
+              {
+                "w": "an",
+                "t": 4968.0,
+                "d": 340.0
+              },
+              {
+                "w": "empire's",
+                "t": 5308.0,
+                "d": 595.0
+              },
+              {
+                "w": "authority",
+                "t": 5904.0,
+                "d": 595.0
+              },
+              {
+                "w": "dissolves",
+                "t": 6500.0,
+                "d": 638.0
+              },
+              {
+                "w": "into",
+                "t": 7138.0,
+                "d": 340.0
+              },
+              {
+                "w": "many",
+                "t": 7478.0,
+                "d": 382.0
+              },
+              {
+                "w": "centres",
+                "t": 7861.0,
+                "d": 1021.0
+              },
+              {
+                "w": "The",
+                "t": 9478.0,
+                "d": 212.0
+              },
+              {
+                "w": "record",
+                "t": 9691.0,
+                "d": 425.0
+              },
+              {
+                "w": "shows",
+                "t": 10117.0,
+                "d": 425.0
+              },
+              {
+                "w": "not",
+                "t": 10542.0,
+                "d": 382.0
+              },
+              {
+                "w": "collapse",
+                "t": 10925.0,
+                "d": 425.0
+              },
+              {
+                "w": "into",
+                "t": 11351.0,
+                "d": 340.0
+              },
+              {
+                "w": "chaos",
+                "t": 11691.0,
+                "d": 808.0
+              },
+              {
+                "w": "but",
+                "t": 12627.0,
+                "d": 381.0
+              },
+              {
+                "w": "reordering",
+                "t": 13009.0,
+                "d": 724.0
+              },
+              {
+                "w": "into",
+                "t": 13734.0,
+                "d": 339.0
+              },
+              {
+                "w": "layered",
+                "t": 14073.0,
+                "d": 384.0
+              },
+              {
+                "w": "regional",
+                "t": 14457.0,
+                "d": 468.0
+              },
+              {
+                "w": "powers",
+                "t": 14925.0,
+                "d": 722.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/vassals_become_kingdoms/img/p16.png",
+      "shot": "final wide shot of Deccan with layered timelines subtly suggested in the landscape",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "An empire's ending can be the beginning of many histories; in the late 12th-century Deccan, the weakening of Kalyani becomes the bridge by which vassals step into the long, crowded road of kings.",
+            "hi": "किसी साम्राज्य का अंत कई इतिहासों की शुरुआत हो सकता है; बारहवीं सदी के अंत के दक्कन में कल्याणी की कमज़ोरी वही पुल बनती है, जिससे जागीरदार राजाओं की लंबी, भीड़भाड़ भरी राह पर कदम रखते हैं।"
+          },
+          "audio": {
+            "en": "assets/vassals_become_kingdoms/audio/en/p16_0.mp3",
+            "hi": "assets/vassals_become_kingdoms/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "An",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "empire's",
+                "t": 287.0,
+                "d": 595.0
+              },
+              {
+                "w": "ending",
+                "t": 882.0,
+                "d": 510.0
+              },
+              {
+                "w": "can",
+                "t": 1393.0,
+                "d": 170.0
+              },
+              {
+                "w": "be",
+                "t": 1563.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 1691.0,
+                "d": 170.0
+              },
+              {
+                "w": "beginning",
+                "t": 1861.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 2372.0,
+                "d": 254.0
+              },
+              {
+                "w": "many",
+                "t": 2626.0,
+                "d": 382.0
+              },
+              {
+                "w": "histories",
+                "t": 3009.0,
+                "d": 809.0
+              },
+              {
+                "w": "in",
+                "t": 4030.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 4201.0,
+                "d": 128.0
+              },
+              {
+                "w": "late",
+                "t": 4329.0,
+                "d": 340.0
+              },
+              {
+                "w": "12th-century",
+                "t": 4670.0,
+                "d": 893.0
+              },
+              {
+                "w": "Deccan",
+                "t": 5563.0,
+                "d": 723.0
+              },
+              {
+                "w": "the",
+                "t": 6457.0,
+                "d": 255.0
+              },
+              {
+                "w": "weakening",
+                "t": 6712.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 7180.0,
+                "d": 170.0
+              },
+              {
+                "w": "Kalyani",
+                "t": 7351.0,
+                "d": 510.0
+              },
+              {
+                "w": "becomes",
+                "t": 7861.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 8287.0,
+                "d": 212.0
+              },
+              {
+                "w": "bridge",
+                "t": 8500.0,
+                "d": 638.0
+              },
+              {
+                "w": "by",
+                "t": 9179.0,
+                "d": 256.0
+              },
+              {
+                "w": "which",
+                "t": 9436.0,
+                "d": 296.0
+              },
+              {
+                "w": "vassals",
+                "t": 9732.0,
+                "d": 469.0
+              },
+              {
+                "w": "step",
+                "t": 10202.0,
+                "d": 382.0
+              },
+              {
+                "w": "into",
+                "t": 10585.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 10840.0,
+                "d": 170.0
+              },
+              {
+                "w": "long",
+                "t": 11010.0,
+                "d": 893.0
+              },
+              {
+                "w": "crowded",
+                "t": 11945.0,
+                "d": 596.0
+              },
+              {
+                "w": "road",
+                "t": 12542.0,
+                "d": 296.0
+              },
+              {
+                "w": "of",
+                "t": 12839.0,
+                "d": 255.0
+              },
+              {
+                "w": "kings",
+                "t": 13094.0,
+                "d": 724.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Western Chalukya Commander of Kalyani",
+    "epithets": [
+      "Hoysala Chiefs of Dwarasamudra",
+      "Seuna Yadava Rulers of Devagiri",
+      "Kakatiya Warriors of Warangal",
+      "Chalukya Vassals of the Deccan"
+    ],
+    "legend": "From loyal vassals, they rise to carve new Deccan kingdoms."
+  }
+}
