@@ -1,0 +1,3767 @@
+{
+  "id": "the_adina_wonder",
+  "title": "The Adina Wonder",
+  "title_i18n": {
+    "en": "The Adina Wonder",
+    "hi": "अदिना का करिश्मा"
+  },
+  "figure": "Sikandar Shah",
+  "era": "Construction of the Adina Mosque, c. 1364-1374 CE",
+  "moral": "Great monuments reveal power, skill and memory at once.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_adina_wonder/intro/hero.png",
+      "name": "Sikandar Shah (Sikandar But-Shikan)",
+      "epithets": [
+        "Sikandar Shah of Bengal",
+        "Sultan of the Delta Empire",
+        "Builder of the Adina Mosque",
+        "Huzur-i-Ala of Pandua"
+      ],
+      "legend": "He turned a river kingdom into stone, brick and prayer.",
+      "era": "Construction of the Adina Mosque, c. 1364-1374 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Amid Bengal's floods and shifting rivers, Sikandar Shah dares to carve the subcontinent's largest mosque from broken temples and raw brick. If Adina fails, his young empire looks small forever.",
+            "hi": "बंगाल की बाढ़ और बदलती नदियों के बीच, सिकंदर शाह टूटी मंदिरों और कच्ची ईंटों से उपमहाद्वीप की सबसे बड़ी मस्जिद गढ़ने की जुर्रत करता है। अगर आदिना हार गया, तो उसका नया साम्राज्य हमेशा छोटा ही दिखेगा।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/intro/hero_en.mp3",
+            "hi": "assets/the_adina_wonder/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Amid",
+                "t": 72.0,
+                "d": 333.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 406.0,
+                "d": 500.0
+              },
+              {
+                "w": "floods",
+                "t": 906.0,
+                "d": 708.0
+              },
+              {
+                "w": "and",
+                "t": 1656.0,
+                "d": 250.0
+              },
+              {
+                "w": "shifting",
+                "t": 1906.0,
+                "d": 375.0
+              },
+              {
+                "w": "rivers",
+                "t": 2281.0,
+                "d": 665.0
+              },
+              {
+                "w": "Sikandar",
+                "t": 3030.0,
+                "d": 626.0
+              },
+              {
+                "w": "Shah",
+                "t": 3656.0,
+                "d": 250.0
+              },
+              {
+                "w": "dares",
+                "t": 3906.0,
+                "d": 375.0
+              },
+              {
+                "w": "to",
+                "t": 4281.0,
+                "d": 166.0
+              },
+              {
+                "w": "carve",
+                "t": 4447.0,
+                "d": 291.0
+              },
+              {
+                "w": "the",
+                "t": 4739.0,
+                "d": 125.0
+              },
+              {
+                "w": "subcontinent's",
+                "t": 4864.0,
+                "d": 833.0
+              },
+              {
+                "w": "largest",
+                "t": 5697.0,
+                "d": 500.0
+              },
+              {
+                "w": "mosque",
+                "t": 6197.0,
+                "d": 416.0
+              },
+              {
+                "w": "from",
+                "t": 6614.0,
+                "d": 208.0
+              },
+              {
+                "w": "broken",
+                "t": 6822.0,
+                "d": 375.0
+              },
+              {
+                "w": "temples",
+                "t": 7197.0,
+                "d": 625.0
+              },
+              {
+                "w": "and",
+                "t": 7864.0,
+                "d": 208.0
+              },
+              {
+                "w": "raw",
+                "t": 8072.0,
+                "d": 166.0
+              },
+              {
+                "w": "brick",
+                "t": 8239.0,
+                "d": 375.0
+              },
+              {
+                "w": "If",
+                "t": 9114.0,
+                "d": 291.0
+              },
+              {
+                "w": "Adina",
+                "t": 9406.0,
+                "d": 373.0
+              },
+              {
+                "w": "fails",
+                "t": 9780.0,
+                "d": 626.0
+              },
+              {
+                "w": "his",
+                "t": 10531.0,
+                "d": 333.0
+              },
+              {
+                "w": "young",
+                "t": 10864.0,
+                "d": 290.0
+              },
+              {
+                "w": "empire",
+                "t": 11155.0,
+                "d": 458.0
+              },
+              {
+                "w": "looks",
+                "t": 11613.0,
+                "d": 292.0
+              },
+              {
+                "w": "small",
+                "t": 11906.0,
+                "d": 583.0
+              },
+              {
+                "w": "forever",
+                "t": 12489.0,
+                "d": 791.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_adina_wonder/intro/map.png",
+      "x": 0.75,
+      "y": 0.33,
+      "label": "Pandua, Malda district, Bengal",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the green, river-cut plains of Bengal, Pandua rises with Adina's vast arches over mud villages and old Hindu stone.",
+            "hi": "हरियाली नदी के मैदानों में, पांडुआ उठता है — अदीना की विशाल मेहराबें, कीचड़ गाँवों और पुराने हिन्दू पत्थरों पर।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/intro/map_en.mp3",
+            "hi": "assets/the_adina_wonder/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "the",
+                "t": 356.0,
+                "d": 137.0
+              },
+              {
+                "w": "green",
+                "t": 494.0,
+                "d": 551.0
+              },
+              {
+                "w": "river-cut",
+                "t": 1321.0,
+                "d": 689.0
+              },
+              {
+                "w": "plains",
+                "t": 2011.0,
+                "d": 367.0
+              },
+              {
+                "w": "of",
+                "t": 2379.0,
+                "d": 183.0
+              },
+              {
+                "w": "Bengal",
+                "t": 2563.0,
+                "d": 1103.0
+              },
+              {
+                "w": "Pandua",
+                "t": 3712.0,
+                "d": 551.0
+              },
+              {
+                "w": "rises",
+                "t": 4264.0,
+                "d": 689.0
+              },
+              {
+                "w": "with",
+                "t": 4954.0,
+                "d": 275.0
+              },
+              {
+                "w": "Adina's",
+                "t": 5275.0,
+                "d": 597.0
+              },
+              {
+                "w": "vast",
+                "t": 5873.0,
+                "d": 551.0
+              },
+              {
+                "w": "arches",
+                "t": 6471.0,
+                "d": 781.0
+              },
+              {
+                "w": "over",
+                "t": 7344.0,
+                "d": 367.0
+              },
+              {
+                "w": "mud",
+                "t": 7712.0,
+                "d": 321.0
+              },
+              {
+                "w": "villages",
+                "t": 8034.0,
+                "d": 827.0
+              },
+              {
+                "w": "and",
+                "t": 8908.0,
+                "d": 412.0
+              },
+              {
+                "w": "old",
+                "t": 9320.0,
+                "d": 368.0
+              },
+              {
+                "w": "Hindu",
+                "t": 9689.0,
+                "d": 367.0
+              },
+              {
+                "w": "stone",
+                "t": 10057.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_adina_wonder/img/cover.png",
+      "shot": "epic low-angle wide of ruined Adina Mosque silhouetted against stormy Bengal sky",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Pandua's river plains, Sikandar Shah raised Adina, the largest mosque of its age in India, brick, vault and reused stone fused into one vast sign of Bengal's new power.",
+            "hi": "पांडुआ की नदी-घाटी में सिकंदर शाह ने अदिना उठाई — अपने समय की भारत की सबसे बड़ी मस्जिद, ईंट, मेहराब और जड़ी पत्थर से गढ़ा बंगाल की नई ताकत का निशान।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/cover_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 70.0,
+                "d": 80.0
+              },
+              {
+                "w": "Pandua's",
+                "t": 150.0,
+                "d": 680.0
+              },
+              {
+                "w": "river",
+                "t": 830.0,
+                "d": 320.0
+              },
+              {
+                "w": "plains",
+                "t": 1150.0,
+                "d": 320.0
+              },
+              {
+                "w": "Sikandar",
+                "t": 1470.0,
+                "d": 999.0
+              },
+              {
+                "w": "Shah",
+                "t": 2469.0,
+                "d": 281.0
+              },
+              {
+                "w": "raised",
+                "t": 2750.0,
+                "d": 360.0
+              },
+              {
+                "w": "Adina",
+                "t": 3110.0,
+                "d": 679.0
+              },
+              {
+                "w": "the",
+                "t": 4070.0,
+                "d": 200.0
+              },
+              {
+                "w": "largest",
+                "t": 4270.0,
+                "d": 440.0
+              },
+              {
+                "w": "mosque",
+                "t": 4710.0,
+                "d": 440.0
+              },
+              {
+                "w": "of",
+                "t": 5150.0,
+                "d": 80.0
+              },
+              {
+                "w": "its",
+                "t": 5230.0,
+                "d": 200.0
+              },
+              {
+                "w": "age",
+                "t": 5430.0,
+                "d": 320.0
+              },
+              {
+                "w": "in",
+                "t": 5790.0,
+                "d": 120.0
+              },
+              {
+                "w": "India",
+                "t": 5910.0,
+                "d": 640.0
+              },
+              {
+                "w": "brick",
+                "t": 6750.0,
+                "d": 440.0
+              },
+              {
+                "w": "vault",
+                "t": 7190.0,
+                "d": 600.0
+              },
+              {
+                "w": "and",
+                "t": 7790.0,
+                "d": 399.0
+              },
+              {
+                "w": "reused",
+                "t": 8189.0,
+                "d": 360.0
+              },
+              {
+                "w": "stone",
+                "t": 8549.0,
+                "d": 680.0
+              },
+              {
+                "w": "fused",
+                "t": 9309.0,
+                "d": 521.0
+              },
+              {
+                "w": "into",
+                "t": 9830.0,
+                "d": 200.0
+              },
+              {
+                "w": "one",
+                "t": 10030.0,
+                "d": 400.0
+              },
+              {
+                "w": "vast",
+                "t": 10430.0,
+                "d": 480.0
+              },
+              {
+                "w": "sign",
+                "t": 10910.0,
+                "d": 280.0
+              },
+              {
+                "w": "of",
+                "t": 11190.0,
+                "d": 119.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 11309.0,
+                "d": 561.0
+              },
+              {
+                "w": "new",
+                "t": 11870.0,
+                "d": 199.0
+              },
+              {
+                "w": "power",
+                "t": 12069.0,
+                "d": 480.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_adina_wonder/img/p01.png",
+      "shot": "slow push-in from aerial view of Bengal delta to city of Pandua",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the mid-fourteenth century, the Bengal delta shook off Delhi's grip. At Pandua, a frontier city of clay and trade, a sultan dreamed in brick of an empire that would stand on its own.",
+            "hi": "चौदहवीं सदी के बीच में, बंगाल डेल्टा ने दिल्ली की पकड़ झटक दी। मिट्टी और सौदे की सरहद-नगरी पांडुआ में, एक सुल्तान ने ईंटों में ऐसा ख्वाब बुना कि उसकी सल्तनत अपने पैरों पर खड़ी हो सके।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p01_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "mid-fourteenth",
+                "t": 414.0,
+                "d": 595.0
+              },
+              {
+                "w": "century",
+                "t": 1010.0,
+                "d": 808.0
+              },
+              {
+                "w": "the",
+                "t": 1904.0,
+                "d": 212.0
+              },
+              {
+                "w": "Bengal",
+                "t": 2117.0,
+                "d": 424.0
+              },
+              {
+                "w": "delta",
+                "t": 2541.0,
+                "d": 384.0
+              },
+              {
+                "w": "shook",
+                "t": 2925.0,
+                "d": 297.0
+              },
+              {
+                "w": "off",
+                "t": 3223.0,
+                "d": 255.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 3478.0,
+                "d": 425.0
+              },
+              {
+                "w": "grip",
+                "t": 3904.0,
+                "d": 851.0
+              },
+              {
+                "w": "At",
+                "t": 5010.0,
+                "d": 297.0
+              },
+              {
+                "w": "Pandua",
+                "t": 5308.0,
+                "d": 765.0
+              },
+              {
+                "w": "a",
+                "t": 6117.0,
+                "d": 212.0
+              },
+              {
+                "w": "frontier",
+                "t": 6329.0,
+                "d": 510.0
+              },
+              {
+                "w": "city",
+                "t": 6840.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 7223.0,
+                "d": 170.0
+              },
+              {
+                "w": "clay",
+                "t": 7393.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 7734.0,
+                "d": 212.0
+              },
+              {
+                "w": "trade",
+                "t": 7946.0,
+                "d": 594.0
+              },
+              {
+                "w": "a",
+                "t": 8711.0,
+                "d": 171.0
+              },
+              {
+                "w": "sultan",
+                "t": 8882.0,
+                "d": 553.0
+              },
+              {
+                "w": "dreamed",
+                "t": 9436.0,
+                "d": 381.0
+              },
+              {
+                "w": "in",
+                "t": 9818.0,
+                "d": 170.0
+              },
+              {
+                "w": "brick",
+                "t": 9988.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 10287.0,
+                "d": 127.0
+              },
+              {
+                "w": "an",
+                "t": 10414.0,
+                "d": 127.0
+              },
+              {
+                "w": "empire",
+                "t": 10542.0,
+                "d": 808.0
+              },
+              {
+                "w": "that",
+                "t": 11436.0,
+                "d": 255.0
+              },
+              {
+                "w": "would",
+                "t": 11691.0,
+                "d": 212.0
+              },
+              {
+                "w": "stand",
+                "t": 11904.0,
+                "d": 340.0
+              },
+              {
+                "w": "on",
+                "t": 12244.0,
+                "d": 126.0
+              },
+              {
+                "w": "its",
+                "t": 12371.0,
+                "d": 171.0
+              },
+              {
+                "w": "own",
+                "t": 12542.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_adina_wonder/img/p02.png",
+      "shot": "medium interior shot of court hall, slight low angle on Sikandar Shah on his throne",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Sikandar Shah, second sultan of independent Bengal, ruled from Pandua. To mark his throne, he ordered a congregational mosque so immense that its Friday crowd would feel like an army before God.",
+            "hi": "ख़ुदमुख़्तार बंगाल के दूसरे सुल्तान सिकंदर शाह की गद्दी पांडुआ में थी। तख्त को दर्ज करने को उसने ऐसी जामा मस्जिद बनवाने का हुक्म दिया कि जुमे की भीड़ खुदा के सामने सेना लगे।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p02_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Sikandar",
+                "t": 74.0,
+                "d": 553.0
+              },
+              {
+                "w": "Shah",
+                "t": 627.0,
+                "d": 340.0
+              },
+              {
+                "w": "second",
+                "t": 1180.0,
+                "d": 468.0
+              },
+              {
+                "w": "sultan",
+                "t": 1648.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 2117.0,
+                "d": 127.0
+              },
+              {
+                "w": "independent",
+                "t": 2244.0,
+                "d": 553.0
+              },
+              {
+                "w": "Bengal",
+                "t": 2797.0,
+                "d": 595.0
+              },
+              {
+                "w": "ruled",
+                "t": 3436.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 3819.0,
+                "d": 296.0
+              },
+              {
+                "w": "Pandua",
+                "t": 4115.0,
+                "d": 767.0
+              },
+              {
+                "w": "To",
+                "t": 5436.0,
+                "d": 170.0
+              },
+              {
+                "w": "mark",
+                "t": 5606.0,
+                "d": 255.0
+              },
+              {
+                "w": "his",
+                "t": 5861.0,
+                "d": 212.0
+              },
+              {
+                "w": "throne",
+                "t": 6074.0,
+                "d": 553.0
+              },
+              {
+                "w": "he",
+                "t": 6797.0,
+                "d": 297.0
+              },
+              {
+                "w": "ordered",
+                "t": 7095.0,
+                "d": 425.0
+              },
+              {
+                "w": "a",
+                "t": 7521.0,
+                "d": 212.0
+              },
+              {
+                "w": "congregational",
+                "t": 7734.0,
+                "d": 765.0
+              },
+              {
+                "w": "mosque",
+                "t": 8500.0,
+                "d": 509.0
+              },
+              {
+                "w": "so",
+                "t": 9308.0,
+                "d": 339.0
+              },
+              {
+                "w": "immense",
+                "t": 9647.0,
+                "d": 469.0
+              },
+              {
+                "w": "that",
+                "t": 10117.0,
+                "d": 170.0
+              },
+              {
+                "w": "its",
+                "t": 10287.0,
+                "d": 170.0
+              },
+              {
+                "w": "Friday",
+                "t": 10457.0,
+                "d": 468.0
+              },
+              {
+                "w": "crowd",
+                "t": 10925.0,
+                "d": 296.0
+              },
+              {
+                "w": "would",
+                "t": 11222.0,
+                "d": 213.0
+              },
+              {
+                "w": "feel",
+                "t": 11436.0,
+                "d": 255.0
+              },
+              {
+                "w": "like",
+                "t": 11691.0,
+                "d": 212.0
+              },
+              {
+                "w": "an",
+                "t": 11904.0,
+                "d": 126.0
+              },
+              {
+                "w": "army",
+                "t": 12030.0,
+                "d": 384.0
+              },
+              {
+                "w": "before",
+                "t": 12414.0,
+                "d": 340.0
+              },
+              {
+                "w": "God",
+                "t": 12755.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_adina_wonder/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_adina_wonder/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Sikandar claims the bare plain, envisioning a brick forest of prayer halls rising from Bengal's soaked earth.",
+            "hi": "सिकंदर सूनी ज़मीन पर दावा करता है, बंगाल की भीगी मिट्टी से उठते नमाज़ के हॉलों का ईंटों का जंगल देखता है।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_adina_wonder/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Sikandar",
+                "t": 70.0,
+                "d": 640.0
+              },
+              {
+                "w": "claims",
+                "t": 710.0,
+                "d": 440.0
+              },
+              {
+                "w": "the",
+                "t": 1150.0,
+                "d": 120.0
+              },
+              {
+                "w": "bare",
+                "t": 1270.0,
+                "d": 320.0
+              },
+              {
+                "w": "plain",
+                "t": 1590.0,
+                "d": 439.0
+              },
+              {
+                "w": "envisioning",
+                "t": 2349.0,
+                "d": 600.0
+              },
+              {
+                "w": "a",
+                "t": 2949.0,
+                "d": 121.0
+              },
+              {
+                "w": "brick",
+                "t": 3070.0,
+                "d": 279.0
+              },
+              {
+                "w": "forest",
+                "t": 3349.0,
+                "d": 440.0
+              },
+              {
+                "w": "of",
+                "t": 3789.0,
+                "d": 160.0
+              },
+              {
+                "w": "prayer",
+                "t": 3949.0,
+                "d": 321.0
+              },
+              {
+                "w": "halls",
+                "t": 4270.0,
+                "d": 480.0
+              },
+              {
+                "w": "rising",
+                "t": 4870.0,
+                "d": 600.0
+              },
+              {
+                "w": "from",
+                "t": 5470.0,
+                "d": 240.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 5710.0,
+                "d": 760.0
+              },
+              {
+                "w": "soaked",
+                "t": 6510.0,
+                "d": 520.0
+              },
+              {
+                "w": "earth",
+                "t": 7110.0,
+                "d": 440.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_adina_wonder/img/p03.png",
+      "shot": "wide shot of muddy construction site with foundations being laid, Sikandar overseeing",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Delhi's great mosques were cut from stone. Bengal's ground was clay. Sikandar's builders had to imagine imperial space out of fired brick, lime mortar and the arts the delta already knew.",
+            "hi": "दिल्ली की बड़ी मस्जिदें पत्थर से तराशी जाती थीं। बंगाल की ज़मीन मिट्टी थी। सिकंदर के बनवटिए कोहले की ईंट, चुने की गारा और डेल्टा की पुरानी कलाओं से ही बादशाही फज़ा गढ़नी थी।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p03_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Delhi's",
+                "t": 117.0,
+                "d": 425.0
+              },
+              {
+                "w": "great",
+                "t": 542.0,
+                "d": 340.0
+              },
+              {
+                "w": "mosques",
+                "t": 882.0,
+                "d": 510.0
+              },
+              {
+                "w": "were",
+                "t": 1393.0,
+                "d": 212.0
+              },
+              {
+                "w": "cut",
+                "t": 1606.0,
+                "d": 255.0
+              },
+              {
+                "w": "from",
+                "t": 1861.0,
+                "d": 212.0
+              },
+              {
+                "w": "stone",
+                "t": 2074.0,
+                "d": 1319.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 3436.0,
+                "d": 510.0
+              },
+              {
+                "w": "ground",
+                "t": 3946.0,
+                "d": 382.0
+              },
+              {
+                "w": "was",
+                "t": 4329.0,
+                "d": 212.0
+              },
+              {
+                "w": "clay",
+                "t": 4542.0,
+                "d": 723.0
+              },
+              {
+                "w": "Sikandar's",
+                "t": 5308.0,
+                "d": 765.0
+              },
+              {
+                "w": "builders",
+                "t": 6074.0,
+                "d": 468.0
+              },
+              {
+                "w": "had",
+                "t": 6542.0,
+                "d": 170.0
+              },
+              {
+                "w": "to",
+                "t": 6712.0,
+                "d": 170.0
+              },
+              {
+                "w": "imagine",
+                "t": 6882.0,
+                "d": 510.0
+              },
+              {
+                "w": "imperial",
+                "t": 7393.0,
+                "d": 510.0
+              },
+              {
+                "w": "space",
+                "t": 7904.0,
+                "d": 425.0
+              },
+              {
+                "w": "out",
+                "t": 8329.0,
+                "d": 211.0
+              },
+              {
+                "w": "of",
+                "t": 8541.0,
+                "d": 85.0
+              },
+              {
+                "w": "fired",
+                "t": 8626.0,
+                "d": 426.0
+              },
+              {
+                "w": "brick",
+                "t": 9053.0,
+                "d": 638.0
+              },
+              {
+                "w": "lime",
+                "t": 10031.0,
+                "d": 382.0
+              },
+              {
+                "w": "mortar",
+                "t": 10414.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 11010.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 11436.0,
+                "d": 170.0
+              },
+              {
+                "w": "arts",
+                "t": 11606.0,
+                "d": 339.0
+              },
+              {
+                "w": "the",
+                "t": 11945.0,
+                "d": 170.0
+              },
+              {
+                "w": "delta",
+                "t": 12115.0,
+                "d": 340.0
+              },
+              {
+                "w": "already",
+                "t": 12456.0,
+                "d": 553.0
+              },
+              {
+                "w": "knew",
+                "t": 13009.0,
+                "d": 384.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_adina_wonder/img/p04.png",
+      "shot": "architectural close-up of brick kilns blazing, workers molding bricks and terracotta",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Kilns flared across Pandua's outskirts. Brick was cheap, light and plentiful. With it, Bengal's masons and potters began to scale up their craft from courtyard shrines to a monument for a delta kingdom.",
+            "hi": "भट्टियाँ पांडुआ की सरहदों पर धधक उठीं। ईंट सस्ती, हल्की और ढेरों थी। इन्हीं से बंगाल के राजमिस्त्री और कुम्हार आंगन के देवालयों से बढ़कर एक डेल्टा राज की निशानी बनाने को अपनी कला फैलाने लगे।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p04_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Kilns",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "flared",
+                "t": 457.0,
+                "d": 382.0
+              },
+              {
+                "w": "across",
+                "t": 840.0,
+                "d": 510.0
+              },
+              {
+                "w": "Pandua's",
+                "t": 1351.0,
+                "d": 638.0
+              },
+              {
+                "w": "outskirts",
+                "t": 1989.0,
+                "d": 1404.0
+              },
+              {
+                "w": "Brick",
+                "t": 3647.0,
+                "d": 382.0
+              },
+              {
+                "w": "was",
+                "t": 4030.0,
+                "d": 256.0
+              },
+              {
+                "w": "cheap",
+                "t": 4287.0,
+                "d": 808.0
+              },
+              {
+                "w": "light",
+                "t": 5138.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 5819.0,
+                "d": 340.0
+              },
+              {
+                "w": "plentiful",
+                "t": 6159.0,
+                "d": 1319.0
+              },
+              {
+                "w": "With",
+                "t": 7606.0,
+                "d": 340.0
+              },
+              {
+                "w": "it",
+                "t": 7946.0,
+                "d": 468.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 8457.0,
+                "d": 595.0
+              },
+              {
+                "w": "masons",
+                "t": 9053.0,
+                "d": 594.0
+              },
+              {
+                "w": "and",
+                "t": 9647.0,
+                "d": 255.0
+              },
+              {
+                "w": "potters",
+                "t": 9903.0,
+                "d": 469.0
+              },
+              {
+                "w": "began",
+                "t": 10372.0,
+                "d": 339.0
+              },
+              {
+                "w": "to",
+                "t": 10711.0,
+                "d": 128.0
+              },
+              {
+                "w": "scale",
+                "t": 10840.0,
+                "d": 381.0
+              },
+              {
+                "w": "up",
+                "t": 11222.0,
+                "d": 85.0
+              },
+              {
+                "w": "their",
+                "t": 11307.0,
+                "d": 213.0
+              },
+              {
+                "w": "craft",
+                "t": 11521.0,
+                "d": 509.0
+              },
+              {
+                "w": "from",
+                "t": 12074.0,
+                "d": 296.0
+              },
+              {
+                "w": "courtyard",
+                "t": 12371.0,
+                "d": 468.0
+              },
+              {
+                "w": "shrines",
+                "t": 12839.0,
+                "d": 680.0
+              },
+              {
+                "w": "to",
+                "t": 13606.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 13776.0,
+                "d": 42.0
+              },
+              {
+                "w": "monument",
+                "t": 13819.0,
+                "d": 553.0
+              },
+              {
+                "w": "for",
+                "t": 14372.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 14627.0,
+                "d": 42.0
+              },
+              {
+                "w": "delta",
+                "t": 14670.0,
+                "d": 381.0
+              },
+              {
+                "w": "kingdom",
+                "t": 15052.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_adina_wonder/img/p05.png",
+      "shot": "overhead plan-view morphing into rising forest of pillars",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Adina's heart was a hypostyle hall: hundreds of brick piers, a forest of arches. It echoed the Great Mosque of Damascus and distant Sasanian halls, yet settled into Bengal's damp soil and monsoon light.",
+            "hi": "अदिना का दिल था खंबों का सागर — सैकड़ों ईंटी खंभे, मेहराबों का जंगल। इसमें दमिश्क की बड़ी मस्जिद और दूर के सासानी महलों की गूँज थी, पर यह बंगाल की भीगी मिट्टी और मानसून की रोशनी में जमकर बैठ गई।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p05_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Adina's",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "heart",
+                "t": 670.0,
+                "d": 340.0
+              },
+              {
+                "w": "was",
+                "t": 1010.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 1180.0,
+                "d": 85.0
+              },
+              {
+                "w": "hypostyle",
+                "t": 1265.0,
+                "d": 680.0
+              },
+              {
+                "w": "hall",
+                "t": 1946.0,
+                "d": 425.0
+              },
+              {
+                "w": "hundreds",
+                "t": 2840.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 3351.0,
+                "d": 127.0
+              },
+              {
+                "w": "brick",
+                "t": 3478.0,
+                "d": 297.0
+              },
+              {
+                "w": "piers",
+                "t": 3776.0,
+                "d": 595.0
+              },
+              {
+                "w": "a",
+                "t": 4457.0,
+                "d": 212.0
+              },
+              {
+                "w": "forest",
+                "t": 4670.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 5095.0,
+                "d": 170.0
+              },
+              {
+                "w": "arches",
+                "t": 5265.0,
+                "d": 765.0
+              },
+              {
+                "w": "It",
+                "t": 6457.0,
+                "d": 212.0
+              },
+              {
+                "w": "echoed",
+                "t": 6670.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 6968.0,
+                "d": 170.0
+              },
+              {
+                "w": "Great",
+                "t": 7138.0,
+                "d": 297.0
+              },
+              {
+                "w": "Mosque",
+                "t": 7436.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 7819.0,
+                "d": 85.0
+              },
+              {
+                "w": "Damascus",
+                "t": 7904.0,
+                "d": 679.0
+              },
+              {
+                "w": "and",
+                "t": 8584.0,
+                "d": 213.0
+              },
+              {
+                "w": "distant",
+                "t": 8797.0,
+                "d": 425.0
+              },
+              {
+                "w": "Sasanian",
+                "t": 9223.0,
+                "d": 553.0
+              },
+              {
+                "w": "halls",
+                "t": 9776.0,
+                "d": 765.0
+              },
+              {
+                "w": "yet",
+                "t": 10755.0,
+                "d": 296.0
+              },
+              {
+                "w": "settled",
+                "t": 11052.0,
+                "d": 384.0
+              },
+              {
+                "w": "into",
+                "t": 11436.0,
+                "d": 255.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 11691.0,
+                "d": 594.0
+              },
+              {
+                "w": "damp",
+                "t": 12286.0,
+                "d": 256.0
+              },
+              {
+                "w": "soil",
+                "t": 12542.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 12968.0,
+                "d": 211.0
+              },
+              {
+                "w": "monsoon",
+                "t": 13179.0,
+                "d": 426.0
+              },
+              {
+                "w": "light",
+                "t": 13606.0,
+                "d": 510.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_adina_wonder/img/p06.png",
+      "shot": "dramatic interior low-angle on construction of huge barrel vault at western end",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On the western side, they dared something new. A great barrel vault of brick would crown the prayer niche, importing Persian forms into a land where even royal palaces were mostly earth and timber.",
+            "hi": "पश्चिमी तरफ़ उन्होंने नया दांव खेला। ईंटों का एक बड़ा सुराही जैसा मेहराबी गुम्बद नमाज़ की जगह पर तना, फ़ारसी शैलियाँ उस भू-भाग में उतरीं जहाँ बादशाही महल भी ज़्यादातर मिट्टी और लकड़ी से सधे थे।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p06_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "western",
+                "t": 414.0,
+                "d": 382.0
+              },
+              {
+                "w": "side",
+                "t": 797.0,
+                "d": 723.0
+              },
+              {
+                "w": "they",
+                "t": 1648.0,
+                "d": 255.0
+              },
+              {
+                "w": "dared",
+                "t": 1904.0,
+                "d": 297.0
+              },
+              {
+                "w": "something",
+                "t": 2202.0,
+                "d": 424.0
+              },
+              {
+                "w": "new",
+                "t": 2626.0,
+                "d": 767.0
+              },
+              {
+                "w": "A",
+                "t": 3734.0,
+                "d": 170.0
+              },
+              {
+                "w": "great",
+                "t": 3904.0,
+                "d": 339.0
+              },
+              {
+                "w": "barrel",
+                "t": 4243.0,
+                "d": 426.0
+              },
+              {
+                "w": "vault",
+                "t": 4670.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 4968.0,
+                "d": 127.0
+              },
+              {
+                "w": "brick",
+                "t": 5095.0,
+                "d": 638.0
+              },
+              {
+                "w": "would",
+                "t": 5819.0,
+                "d": 212.0
+              },
+              {
+                "w": "crown",
+                "t": 6031.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 6414.0,
+                "d": 127.0
+              },
+              {
+                "w": "prayer",
+                "t": 6542.0,
+                "d": 765.0
+              },
+              {
+                "w": "niche",
+                "t": 7351.0,
+                "d": 212.0
+              },
+              {
+                "w": "importing",
+                "t": 7819.0,
+                "d": 638.0
+              },
+              {
+                "w": "Persian",
+                "t": 8457.0,
+                "d": 425.0
+              },
+              {
+                "w": "forms",
+                "t": 8882.0,
+                "d": 510.0
+              },
+              {
+                "w": "into",
+                "t": 9436.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 9691.0,
+                "d": 85.0
+              },
+              {
+                "w": "land",
+                "t": 9776.0,
+                "d": 638.0
+              },
+              {
+                "w": "where",
+                "t": 10500.0,
+                "d": 255.0
+              },
+              {
+                "w": "even",
+                "t": 10755.0,
+                "d": 296.0
+              },
+              {
+                "w": "royal",
+                "t": 11052.0,
+                "d": 340.0
+              },
+              {
+                "w": "palaces",
+                "t": 11392.0,
+                "d": 852.0
+              },
+              {
+                "w": "were",
+                "t": 12329.0,
+                "d": 170.0
+              },
+              {
+                "w": "mostly",
+                "t": 12500.0,
+                "d": 638.0
+              },
+              {
+                "w": "earth",
+                "t": 13179.0,
+                "d": 384.0
+              },
+              {
+                "w": "and",
+                "t": 13606.0,
+                "d": 255.0
+              },
+              {
+                "w": "timber",
+                "t": 13861.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_adina_wonder/img/p07.png",
+      "shot": "close-up on masons fitting carved stone fragments with elephants into brick walls",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Not all of Adina was new. Stone was scarce, but nearby temples held carved blocks. Some were taken and reset in the mosque's walls, their elephants and dancers now framing a different space.",
+            "hi": "अदिना का सब कुछ नया नहीं था। पत्थर कम था, पर आसपास के मंदिरों में नक्काशीदार शिलाएँ थीं। कुछ निकाली गईं और मस्जिद की दीवारों में जड़ीं — हाथी और नर्तक अब नई जगह की चौखट बने।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p07_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Not",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "all",
+                "t": 414.0,
+                "d": 297.0
+              },
+              {
+                "w": "of",
+                "t": 712.0,
+                "d": 127.0
+              },
+              {
+                "w": "Adina",
+                "t": 840.0,
+                "d": 340.0
+              },
+              {
+                "w": "was",
+                "t": 1180.0,
+                "d": 255.0
+              },
+              {
+                "w": "new",
+                "t": 1436.0,
+                "d": 722.0
+              },
+              {
+                "w": "Stone",
+                "t": 2372.0,
+                "d": 425.0
+              },
+              {
+                "w": "was",
+                "t": 2797.0,
+                "d": 169.0
+              },
+              {
+                "w": "scarce",
+                "t": 2967.0,
+                "d": 638.0
+              },
+              {
+                "w": "but",
+                "t": 3946.0,
+                "d": 254.0
+              },
+              {
+                "w": "nearby",
+                "t": 4201.0,
+                "d": 384.0
+              },
+              {
+                "w": "temples",
+                "t": 4585.0,
+                "d": 510.0
+              },
+              {
+                "w": "held",
+                "t": 5095.0,
+                "d": 297.0
+              },
+              {
+                "w": "carved",
+                "t": 5393.0,
+                "d": 425.0
+              },
+              {
+                "w": "blocks",
+                "t": 5819.0,
+                "d": 638.0
+              },
+              {
+                "w": "Some",
+                "t": 6925.0,
+                "d": 340.0
+              },
+              {
+                "w": "were",
+                "t": 7265.0,
+                "d": 170.0
+              },
+              {
+                "w": "taken",
+                "t": 7436.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 7989.0,
+                "d": 255.0
+              },
+              {
+                "w": "reset",
+                "t": 8244.0,
+                "d": 467.0
+              },
+              {
+                "w": "in",
+                "t": 8711.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 8839.0,
+                "d": 128.0
+              },
+              {
+                "w": "mosque's",
+                "t": 8968.0,
+                "d": 425.0
+              },
+              {
+                "w": "walls",
+                "t": 9393.0,
+                "d": 594.0
+              },
+              {
+                "w": "their",
+                "t": 10117.0,
+                "d": 297.0
+              },
+              {
+                "w": "elephants",
+                "t": 10414.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 11010.0,
+                "d": 211.0
+              },
+              {
+                "w": "dancers",
+                "t": 11222.0,
+                "d": 852.0
+              },
+              {
+                "w": "now",
+                "t": 12159.0,
+                "d": 340.0
+              },
+              {
+                "w": "framing",
+                "t": 12500.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 12882.0,
+                "d": 85.0
+              },
+              {
+                "w": "different",
+                "t": 12968.0,
+                "d": 425.0
+              },
+              {
+                "w": "space",
+                "t": 13393.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_adina_wonder/img/p08.png",
+      "shot": "medium shot of artisans studying old stone carvings and sketching terracotta designs",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Perween Hasan and other scholars read Adina's skin closely. They see synthesis: Sasanian vaults, Damascene colonnades and Bengali terracotta, with local motifs reborn in fired clay rather than erased.",
+            "hi": "परवीन हसन और दूसरे विद्वान अदिना के बदन को बारीकी से पढ़ते हैं। उन्हें मेलजोल दिखता है — सासानी मेहराबें, दमिश्की स्तंभ-गलियारे और बंगाली टेराकोटा, जहां देसी रूपांकनों को मिटा नहीं, पकाई हुई मिट्टी में फिर से जन्म दिया गया।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p08_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Perween",
+                "t": 117.0,
+                "d": 425.0
+              },
+              {
+                "w": "Hasan",
+                "t": 542.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 1010.0,
+                "d": 255.0
+              },
+              {
+                "w": "other",
+                "t": 1265.0,
+                "d": 255.0
+              },
+              {
+                "w": "scholars",
+                "t": 1521.0,
+                "d": 510.0
+              },
+              {
+                "w": "read",
+                "t": 2031.0,
+                "d": 297.0
+              },
+              {
+                "w": "Adina's",
+                "t": 2329.0,
+                "d": 553.0
+              },
+              {
+                "w": "skin",
+                "t": 2882.0,
+                "d": 296.0
+              },
+              {
+                "w": "closely",
+                "t": 3179.0,
+                "d": 1150.0
+              },
+              {
+                "w": "They",
+                "t": 4414.0,
+                "d": 255.0
+              },
+              {
+                "w": "see",
+                "t": 4670.0,
+                "d": 212.0
+              },
+              {
+                "w": "synthesis",
+                "t": 4882.0,
+                "d": 893.0
+              },
+              {
+                "w": "Sasanian",
+                "t": 5946.0,
+                "d": 723.0
+              },
+              {
+                "w": "vaults",
+                "t": 6670.0,
+                "d": 595.0
+              },
+              {
+                "w": "Damascene",
+                "t": 7308.0,
+                "d": 595.0
+              },
+              {
+                "w": "colonnades",
+                "t": 7904.0,
+                "d": 722.0
+              },
+              {
+                "w": "and",
+                "t": 8669.0,
+                "d": 340.0
+              },
+              {
+                "w": "Bengali",
+                "t": 9009.0,
+                "d": 469.0
+              },
+              {
+                "w": "terracotta",
+                "t": 9478.0,
+                "d": 1063.0
+              },
+              {
+                "w": "with",
+                "t": 10542.0,
+                "d": 297.0
+              },
+              {
+                "w": "local",
+                "t": 10840.0,
+                "d": 381.0
+              },
+              {
+                "w": "motifs",
+                "t": 11222.0,
+                "d": 469.0
+              },
+              {
+                "w": "reborn",
+                "t": 11691.0,
+                "d": 679.0
+              },
+              {
+                "w": "in",
+                "t": 12371.0,
+                "d": 171.0
+              },
+              {
+                "w": "fired",
+                "t": 12542.0,
+                "d": 467.0
+              },
+              {
+                "w": "clay",
+                "t": 13009.0,
+                "d": 554.0
+              },
+              {
+                "w": "rather",
+                "t": 13606.0,
+                "d": 381.0
+              },
+              {
+                "w": "than",
+                "t": 13988.0,
+                "d": 255.0
+              },
+              {
+                "w": "erased",
+                "t": 14287.0,
+                "d": 764.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_adina_wonder/img/p09.png",
+      "shot": "wide shot of nearly completed mosque with multiple courtyards and arcades",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When its walls rose, Adina sprawled larger than any other mosque then standing in the subcontinent. Hypostyle halls, courtyards and domes made Pandua look, for a moment, like a capital of worlds.",
+            "hi": "दीवारें उठीं तो अदिना फैलाव में उस समय पूरे उपमहाद्वीप की हर मस्जिद से बड़ी थी। खंबों वाले हॉल, आंगन और गुम्बदों ने कुछ पल को पांडुआ को जैसे कई दुनिया की राजधानी बना दिया।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p09_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "its",
+                "t": 356.0,
+                "d": 183.0
+              },
+              {
+                "w": "walls",
+                "t": 540.0,
+                "d": 413.0
+              },
+              {
+                "w": "rose",
+                "t": 954.0,
+                "d": 229.0
+              },
+              {
+                "w": "Adina",
+                "t": 1183.0,
+                "d": 229.0
+              },
+              {
+                "w": "sprawled",
+                "t": 1413.0,
+                "d": 1057.0
+              },
+              {
+                "w": "larger",
+                "t": 2517.0,
+                "d": 918.0
+              },
+              {
+                "w": "than",
+                "t": 3435.0,
+                "d": 277.0
+              },
+              {
+                "w": "any",
+                "t": 3712.0,
+                "d": 367.0
+              },
+              {
+                "w": "other",
+                "t": 4080.0,
+                "d": 229.0
+              },
+              {
+                "w": "mosque",
+                "t": 4310.0,
+                "d": 551.0
+              },
+              {
+                "w": "then",
+                "t": 5229.0,
+                "d": 321.0
+              },
+              {
+                "w": "standing",
+                "t": 5551.0,
+                "d": 505.0
+              },
+              {
+                "w": "in",
+                "t": 6057.0,
+                "d": 91.0
+              },
+              {
+                "w": "the",
+                "t": 6149.0,
+                "d": 137.0
+              },
+              {
+                "w": "subcontinent",
+                "t": 6287.0,
+                "d": 1057.0
+              },
+              {
+                "w": "Hypostyle",
+                "t": 8080.0,
+                "d": 781.0
+              },
+              {
+                "w": "halls",
+                "t": 8862.0,
+                "d": 643.0
+              },
+              {
+                "w": "courtyards",
+                "t": 9642.0,
+                "d": 965.0
+              },
+              {
+                "w": "and",
+                "t": 10700.0,
+                "d": 367.0
+              },
+              {
+                "w": "domes",
+                "t": 11067.0,
+                "d": 505.0
+              },
+              {
+                "w": "made",
+                "t": 11573.0,
+                "d": 367.0
+              },
+              {
+                "w": "Pandua",
+                "t": 11941.0,
+                "d": 506.0
+              },
+              {
+                "w": "look",
+                "t": 12448.0,
+                "d": 781.0
+              },
+              {
+                "w": "for",
+                "t": 13229.0,
+                "d": 275.0
+              },
+              {
+                "w": "a",
+                "t": 13505.0,
+                "d": 45.0
+              },
+              {
+                "w": "moment",
+                "t": 13551.0,
+                "d": 780.0
+              },
+              {
+                "w": "like",
+                "t": 14379.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 14701.0,
+                "d": 91.0
+              },
+              {
+                "w": "capital",
+                "t": 14793.0,
+                "d": 459.0
+              },
+              {
+                "w": "of",
+                "t": 15252.0,
+                "d": 183.0
+              },
+              {
+                "w": "worlds",
+                "t": 15436.0,
+                "d": 781.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_adina_wonder/img/p10.png",
+      "shot": "solemn interior wide of packed Friday congregation under arches",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On Fridays, the hall filled with merchants, soldiers, villagers and scholars. The architecture turned their gathering into a spectacle of unity, making Bengal's patchwork subjects feel part of one order.",
+            "hi": "जुमे के दिन हॉल सौदागर, सिपाही, गाँव वाले और आलिमों से भर उठता। इमारत उनकी भीड़ को एक तमाशा-ए-वحدत बनाती, बंगाल के टुकड़ों में बँटे रैयत को एक ही निज़ाम का हिस्सा महसूस कराती।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p10_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Fridays",
+                "t": 329.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 1053.0,
+                "d": 255.0
+              },
+              {
+                "w": "hall",
+                "t": 1308.0,
+                "d": 255.0
+              },
+              {
+                "w": "filled",
+                "t": 1563.0,
+                "d": 340.0
+              },
+              {
+                "w": "with",
+                "t": 1904.0,
+                "d": 170.0
+              },
+              {
+                "w": "merchants",
+                "t": 2074.0,
+                "d": 552.0
+              },
+              {
+                "w": "soldiers",
+                "t": 2626.0,
+                "d": 1107.0
+              },
+              {
+                "w": "villagers",
+                "t": 3861.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 4585.0,
+                "d": 255.0
+              },
+              {
+                "w": "scholars",
+                "t": 4840.0,
+                "d": 765.0
+              },
+              {
+                "w": "The",
+                "t": 6329.0,
+                "d": 212.0
+              },
+              {
+                "w": "architecture",
+                "t": 6542.0,
+                "d": 680.0
+              },
+              {
+                "w": "turned",
+                "t": 7223.0,
+                "d": 340.0
+              },
+              {
+                "w": "their",
+                "t": 7563.0,
+                "d": 212.0
+              },
+              {
+                "w": "gathering",
+                "t": 7776.0,
+                "d": 510.0
+              },
+              {
+                "w": "into",
+                "t": 8287.0,
+                "d": 254.0
+              },
+              {
+                "w": "a",
+                "t": 8541.0,
+                "d": 42.0
+              },
+              {
+                "w": "spectacle",
+                "t": 8584.0,
+                "d": 639.0
+              },
+              {
+                "w": "of",
+                "t": 9223.0,
+                "d": 127.0
+              },
+              {
+                "w": "unity",
+                "t": 9351.0,
+                "d": 1021.0
+              },
+              {
+                "w": "making",
+                "t": 10542.0,
+                "d": 468.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 11010.0,
+                "d": 595.0
+              },
+              {
+                "w": "patchwork",
+                "t": 11606.0,
+                "d": 468.0
+              },
+              {
+                "w": "subjects",
+                "t": 12074.0,
+                "d": 595.0
+              },
+              {
+                "w": "feel",
+                "t": 12670.0,
+                "d": 297.0
+              },
+              {
+                "w": "part",
+                "t": 12968.0,
+                "d": 296.0
+              },
+              {
+                "w": "of",
+                "t": 13264.0,
+                "d": 170.0
+              },
+              {
+                "w": "one",
+                "t": 13435.0,
+                "d": 213.0
+              },
+              {
+                "w": "order",
+                "t": 13648.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_adina_wonder/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_adina_wonder/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Hearing distant unrest, Sikandar vows to guard this sanctuary of brick and faith against turmoil beyond its walls.",
+            "hi": "दूर का हंगामा सुनकर सिकंदर कसम खाता है, ईंटों और ईमान की इस पनाह को बाहर के तूफ़ान से बचाएगा।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_adina_wonder/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hearing",
+                "t": 80.0,
+                "d": 551.0
+              },
+              {
+                "w": "distant",
+                "t": 632.0,
+                "d": 505.0
+              },
+              {
+                "w": "unrest",
+                "t": 1137.0,
+                "d": 1057.0
+              },
+              {
+                "w": "Sikandar",
+                "t": 2241.0,
+                "d": 689.0
+              },
+              {
+                "w": "vows",
+                "t": 2931.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 3251.0,
+                "d": 183.0
+              },
+              {
+                "w": "guard",
+                "t": 3435.0,
+                "d": 367.0
+              },
+              {
+                "w": "this",
+                "t": 3803.0,
+                "d": 183.0
+              },
+              {
+                "w": "sanctuary",
+                "t": 3987.0,
+                "d": 644.0
+              },
+              {
+                "w": "of",
+                "t": 4632.0,
+                "d": 183.0
+              },
+              {
+                "w": "brick",
+                "t": 4816.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 5229.0,
+                "d": 229.0
+              },
+              {
+                "w": "faith",
+                "t": 5459.0,
+                "d": 413.0
+              },
+              {
+                "w": "against",
+                "t": 5919.0,
+                "d": 505.0
+              },
+              {
+                "w": "turmoil",
+                "t": 6425.0,
+                "d": 735.0
+              },
+              {
+                "w": "beyond",
+                "t": 7390.0,
+                "d": 597.0
+              },
+              {
+                "w": "its",
+                "t": 7988.0,
+                "d": 183.0
+              },
+              {
+                "w": "walls",
+                "t": 8172.0,
+                "d": 689.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_adina_wonder/img/p11.png",
+      "shot": "medium shot of Sikandar Shah walking along colonnade, hand brushing brick pier",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "\"Let them know,\" he murmurs, \"that Bengal needs no borrowed throne.\"",
+            "hi": "“उन्हें समझा दो,” वह धीमे कहता है, “कि बंगाल को उधार की गद्दी नहीं चाहिए।”"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p11_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "\"Let",
+                "t": 49.0,
+                "d": 269.6
+              },
+              {
+                "w": "them",
+                "t": 355.4,
+                "d": 318.6
+              },
+              {
+                "w": "know",
+                "t": 674.0,
+                "d": 294.1
+              },
+              {
+                "w": "\" he",
+                "t": 1237.8,
+                "d": 159.3
+              },
+              {
+                "w": "murmurs",
+                "t": 1421.6,
+                "d": 576.0
+              },
+              {
+                "w": "\"that",
+                "t": 2218.1,
+                "d": 281.9
+              },
+              {
+                "w": "Bengal",
+                "t": 2500.0,
+                "d": 502.5
+              },
+              {
+                "w": "needs",
+                "t": 3002.5,
+                "d": 416.7
+              },
+              {
+                "w": "no",
+                "t": 3468.1,
+                "d": 257.3
+              },
+              {
+                "w": "borrowed",
+                "t": 3737.8,
+                "d": 465.7
+              },
+              {
+                "w": "throne",
+                "t": 4264.7,
+                "d": 478.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_adina_wonder/split_auto/s0.png",
+          "slogan": {
+            "en": "Brick by brick, we endure",
+            "hi": "ईंट दर ईंट, हम कायम हैं"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_adina_wonder/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_adina_wonder/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As arches bloom from earth, Sikandar's vision for Adina binds conquest, craft, and devotion into a single brick empire.",
+            "hi": "धरती से उठती मेहराबें, सिकंदर की अदिना की सोच—फतह, हुनर और भक्ति से बनी एक ईंटों की सल्तनत।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_adina_wonder/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "arches",
+                "t": 364.0,
+                "d": 541.0
+              },
+              {
+                "w": "bloom",
+                "t": 906.0,
+                "d": 333.0
+              },
+              {
+                "w": "from",
+                "t": 1239.0,
+                "d": 416.0
+              },
+              {
+                "w": "earth",
+                "t": 1656.0,
+                "d": 416.0
+              },
+              {
+                "w": "Sikandar's",
+                "t": 2446.0,
+                "d": 751.0
+              },
+              {
+                "w": "vision",
+                "t": 3197.0,
+                "d": 332.0
+              },
+              {
+                "w": "for",
+                "t": 3530.0,
+                "d": 251.0
+              },
+              {
+                "w": "Adina",
+                "t": 3781.0,
+                "d": 416.0
+              },
+              {
+                "w": "binds",
+                "t": 4197.0,
+                "d": 375.0
+              },
+              {
+                "w": "conquest",
+                "t": 4572.0,
+                "d": 875.0
+              },
+              {
+                "w": "craft",
+                "t": 5489.0,
+                "d": 708.0
+              },
+              {
+                "w": "and",
+                "t": 6322.0,
+                "d": 208.0
+              },
+              {
+                "w": "devotion",
+                "t": 6531.0,
+                "d": 625.0
+              },
+              {
+                "w": "into",
+                "t": 7156.0,
+                "d": 291.0
+              },
+              {
+                "w": "a",
+                "t": 7447.0,
+                "d": 41.0
+              },
+              {
+                "w": "single",
+                "t": 7489.0,
+                "d": 541.0
+              },
+              {
+                "w": "brick",
+                "t": 8031.0,
+                "d": 291.0
+              },
+              {
+                "w": "empire",
+                "t": 8322.0,
+                "d": 791.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_adina_wonder/img/p12.png",
+      "shot": "time-lapse style wide as seasons change around the mosque",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Seasons moved around Adina. Its brick was vulnerable to monsoon and time, yet the mosque anchored Pandua's landscape, drawing caravans, chroniclers and, later, foreign eyes to Bengal's sultans.",
+            "hi": "मौसम अदिना के चारों ओर घूमते रहे। ईंटें मानसून और वक्त से कमजोर थीं, पर मस्जिद ने पांडुआ की ज़मीन को थाम लिया, क़ाफ़िलों, इतिहास-निगारों और बाद में दूर देशों की नज़रें बंगाल के सुल्तानों पर खींच लाई।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p12_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Seasons",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "moved",
+                "t": 670.0,
+                "d": 425.0
+              },
+              {
+                "w": "around",
+                "t": 1095.0,
+                "d": 382.0
+              },
+              {
+                "w": "Adina",
+                "t": 1478.0,
+                "d": 723.0
+              },
+              {
+                "w": "Its",
+                "t": 2882.0,
+                "d": 340.0
+              },
+              {
+                "w": "brick",
+                "t": 3223.0,
+                "d": 255.0
+              },
+              {
+                "w": "was",
+                "t": 3478.0,
+                "d": 169.0
+              },
+              {
+                "w": "vulnerable",
+                "t": 3647.0,
+                "d": 553.0
+              },
+              {
+                "w": "to",
+                "t": 4201.0,
+                "d": 128.0
+              },
+              {
+                "w": "monsoon",
+                "t": 4329.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 4797.0,
+                "d": 255.0
+              },
+              {
+                "w": "time",
+                "t": 5053.0,
+                "d": 723.0
+              },
+              {
+                "w": "yet",
+                "t": 5904.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 6202.0,
+                "d": 127.0
+              },
+              {
+                "w": "mosque",
+                "t": 6329.0,
+                "d": 468.0
+              },
+              {
+                "w": "anchored",
+                "t": 6797.0,
+                "d": 553.0
+              },
+              {
+                "w": "Pandua's",
+                "t": 7351.0,
+                "d": 468.0
+              },
+              {
+                "w": "landscape",
+                "t": 7819.0,
+                "d": 935.0
+              },
+              {
+                "w": "drawing",
+                "t": 8839.0,
+                "d": 469.0
+              },
+              {
+                "w": "caravans",
+                "t": 9308.0,
+                "d": 893.0
+              },
+              {
+                "w": "chroniclers",
+                "t": 10202.0,
+                "d": 893.0
+              },
+              {
+                "w": "and",
+                "t": 11095.0,
+                "d": 255.0
+              },
+              {
+                "w": "later",
+                "t": 11351.0,
+                "d": 723.0
+              },
+              {
+                "w": "foreign",
+                "t": 12115.0,
+                "d": 511.0
+              },
+              {
+                "w": "eyes",
+                "t": 12627.0,
+                "d": 211.0
+              },
+              {
+                "w": "to",
+                "t": 12839.0,
+                "d": 170.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 13009.0,
+                "d": 554.0
+              },
+              {
+                "w": "sultans",
+                "t": 13563.0,
+                "d": 1106.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_adina_wonder/img/p13.png",
+      "shot": "evocative shot of Chinese envoy Ma Huan gazing at Bengal cityscape from a boat",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the fifteenth century, Ma Huan sailed with the Ming fleets. He wrote of Bengal's cities, mosques and markets, proof that structures like Adina helped pull delta towns into larger ocean circuits.",
+            "hi": "पंद्रहवीं सदी में मा ह्वान मिंग जहाज़ बेड़े के साथ चला। उसने बंगाल की नगरियों, मस्जिदों और बाज़ारों का हाल लिखा — सबूत कि अदिना जैसी इमारतें डेल्टा कस्बों को समंदर के बड़े धागों में पिरोने लगीं।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p13_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 264.0,
+                "d": 137.0
+              },
+              {
+                "w": "fifteenth",
+                "t": 402.0,
+                "d": 505.0
+              },
+              {
+                "w": "century",
+                "t": 908.0,
+                "d": 919.0
+              },
+              {
+                "w": "Ma",
+                "t": 1827.0,
+                "d": 275.0
+              },
+              {
+                "w": "Huan",
+                "t": 2103.0,
+                "d": 505.0
+              },
+              {
+                "w": "sailed",
+                "t": 2609.0,
+                "d": 459.0
+              },
+              {
+                "w": "with",
+                "t": 3068.0,
+                "d": 182.0
+              },
+              {
+                "w": "the",
+                "t": 3251.0,
+                "d": 137.0
+              },
+              {
+                "w": "Ming",
+                "t": 3389.0,
+                "d": 277.0
+              },
+              {
+                "w": "fleets",
+                "t": 3666.0,
+                "d": 734.0
+              },
+              {
+                "w": "He",
+                "t": 4954.0,
+                "d": 275.0
+              },
+              {
+                "w": "wrote",
+                "t": 5229.0,
+                "d": 229.0
+              },
+              {
+                "w": "of",
+                "t": 5459.0,
+                "d": 137.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 5597.0,
+                "d": 597.0
+              },
+              {
+                "w": "cities",
+                "t": 6195.0,
+                "d": 781.0
+              },
+              {
+                "w": "mosques",
+                "t": 7068.0,
+                "d": 735.0
+              },
+              {
+                "w": "and",
+                "t": 7804.0,
+                "d": 229.0
+              },
+              {
+                "w": "markets",
+                "t": 8034.0,
+                "d": 1149.0
+              },
+              {
+                "w": "proof",
+                "t": 9412.0,
+                "d": 413.0
+              },
+              {
+                "w": "that",
+                "t": 9826.0,
+                "d": 183.0
+              },
+              {
+                "w": "structures",
+                "t": 10010.0,
+                "d": 689.0
+              },
+              {
+                "w": "like",
+                "t": 10700.0,
+                "d": 275.0
+              },
+              {
+                "w": "Adina",
+                "t": 10975.0,
+                "d": 781.0
+              },
+              {
+                "w": "helped",
+                "t": 11804.0,
+                "d": 551.0
+              },
+              {
+                "w": "pull",
+                "t": 12356.0,
+                "d": 275.0
+              },
+              {
+                "w": "delta",
+                "t": 12632.0,
+                "d": 413.0
+              },
+              {
+                "w": "towns",
+                "t": 13045.0,
+                "d": 459.0
+              },
+              {
+                "w": "into",
+                "t": 13505.0,
+                "d": 275.0
+              },
+              {
+                "w": "larger",
+                "t": 13781.0,
+                "d": 550.0
+              },
+              {
+                "w": "ocean",
+                "t": 14379.0,
+                "d": 413.0
+              },
+              {
+                "w": "circuits",
+                "t": 14793.0,
+                "d": 827.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_adina_wonder/img/p14.png",
+      "shot": "wide shot of later decay, collapsed roofs, trees among the ruins",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Dynasties shifted, capitals moved from Pandua to Gaur and beyond. Roofs fell, walls cracked, bricks were taken. The Adina wonder slowly turned from royal stage into a haunting ruin in the fields.",
+            "hi": "खानदान बदले, रियासतों की राजधानियाँ पांडुआ से गौड़ और आगे सरकती रहीं। छतें गिरीं, दीवारें चिरीं, ईंटें उखाड़ी गईं। अदिना का करिश्मा धीरे-धीरे शाही रंगमंच से खेतों की डरावनी खंडहर में बदल गया।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p14_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Dynasties",
+                "t": 80.0,
+                "d": 597.0
+              },
+              {
+                "w": "shifted",
+                "t": 816.0,
+                "d": 919.0
+              },
+              {
+                "w": "capitals",
+                "t": 2379.0,
+                "d": 643.0
+              },
+              {
+                "w": "moved",
+                "t": 3022.0,
+                "d": 412.0
+              },
+              {
+                "w": "from",
+                "t": 3435.0,
+                "d": 322.0
+              },
+              {
+                "w": "Pandua",
+                "t": 3758.0,
+                "d": 505.0
+              },
+              {
+                "w": "to",
+                "t": 4264.0,
+                "d": 182.0
+              },
+              {
+                "w": "Gaur",
+                "t": 4447.0,
+                "d": 598.0
+              },
+              {
+                "w": "and",
+                "t": 5091.0,
+                "d": 229.0
+              },
+              {
+                "w": "beyond",
+                "t": 5321.0,
+                "d": 1287.0
+              },
+              {
+                "w": "Roofs",
+                "t": 7068.0,
+                "d": 597.0
+              },
+              {
+                "w": "fell",
+                "t": 7666.0,
+                "d": 643.0
+              },
+              {
+                "w": "walls",
+                "t": 8678.0,
+                "d": 596.0
+              },
+              {
+                "w": "cracked",
+                "t": 9274.0,
+                "d": 598.0
+              },
+              {
+                "w": "bricks",
+                "t": 10471.0,
+                "d": 551.0
+              },
+              {
+                "w": "were",
+                "t": 11022.0,
+                "d": 229.0
+              },
+              {
+                "w": "taken",
+                "t": 11252.0,
+                "d": 1609.0
+              },
+              {
+                "w": "The",
+                "t": 13045.0,
+                "d": 275.0
+              },
+              {
+                "w": "Adina",
+                "t": 13321.0,
+                "d": 459.0
+              },
+              {
+                "w": "wonder",
+                "t": 13781.0,
+                "d": 458.0
+              },
+              {
+                "w": "slowly",
+                "t": 14240.0,
+                "d": 920.0
+              },
+              {
+                "w": "turned",
+                "t": 15252.0,
+                "d": 459.0
+              },
+              {
+                "w": "from",
+                "t": 15712.0,
+                "d": 275.0
+              },
+              {
+                "w": "royal",
+                "t": 15988.0,
+                "d": 321.0
+              },
+              {
+                "w": "stage",
+                "t": 16310.0,
+                "d": 643.0
+              },
+              {
+                "w": "into",
+                "t": 17000.0,
+                "d": 275.0
+              },
+              {
+                "w": "a",
+                "t": 17275.0,
+                "d": 91.0
+              },
+              {
+                "w": "haunting",
+                "t": 17367.0,
+                "d": 596.0
+              },
+              {
+                "w": "ruin",
+                "t": 17964.0,
+                "d": 414.0
+              },
+              {
+                "w": "in",
+                "t": 18379.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 18517.0,
+                "d": 137.0
+              },
+              {
+                "w": "fields",
+                "t": 18655.0,
+                "d": 735.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_adina_wonder/img/p15.png",
+      "shot": "modern archaeological-style shot of researchers measuring and photographing carvings",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Today, archaeologists read Adina's fragments: its brick techniques, vaulting, inscriptions, reused stones carved with animals and people. Each detail is a clue to how empire, craft and memory met in Bengal.",
+            "hi": "आज पुरातत्वविद अदिना के टुकड़ों को पढ़ते हैं — ईंट लगाने की तकनीकें, मेहराब-बंदी, लिखावटें, दोबारा जड़ी पत्थर की तख्तियाँ जिन पर जानवर और इंसान उकेरे हैं। हर बारीकी इस बात की कड़ी है कि बंगाल में सल्तनत, शिल्प और यादें कैसे मिलीं।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p15_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Today",
+                "t": 74.0,
+                "d": 765.0
+              },
+              {
+                "w": "archaeologists",
+                "t": 925.0,
+                "d": 851.0
+              },
+              {
+                "w": "read",
+                "t": 1776.0,
+                "d": 255.0
+              },
+              {
+                "w": "Adina's",
+                "t": 2031.0,
+                "d": 467.0
+              },
+              {
+                "w": "fragments",
+                "t": 2498.0,
+                "d": 809.0
+              },
+              {
+                "w": "its",
+                "t": 3734.0,
+                "d": 255.0
+              },
+              {
+                "w": "brick",
+                "t": 3989.0,
+                "d": 254.0
+              },
+              {
+                "w": "techniques",
+                "t": 4243.0,
+                "d": 852.0
+              },
+              {
+                "w": "vaulting",
+                "t": 5223.0,
+                "d": 808.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 6031.0,
+                "d": 1063.0
+              },
+              {
+                "w": "reused",
+                "t": 7265.0,
+                "d": 638.0
+              },
+              {
+                "w": "stones",
+                "t": 7904.0,
+                "d": 553.0
+              },
+              {
+                "w": "carved",
+                "t": 8457.0,
+                "d": 296.0
+              },
+              {
+                "w": "with",
+                "t": 8754.0,
+                "d": 213.0
+              },
+              {
+                "w": "animals",
+                "t": 8968.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 9478.0,
+                "d": 212.0
+              },
+              {
+                "w": "people",
+                "t": 9691.0,
+                "d": 893.0
+              },
+              {
+                "w": "Each",
+                "t": 10881.0,
+                "d": 384.0
+              },
+              {
+                "w": "detail",
+                "t": 11265.0,
+                "d": 425.0
+              },
+              {
+                "w": "is",
+                "t": 11691.0,
+                "d": 84.0
+              },
+              {
+                "w": "a",
+                "t": 11775.0,
+                "d": 128.0
+              },
+              {
+                "w": "clue",
+                "t": 11904.0,
+                "d": 296.0
+              },
+              {
+                "w": "to",
+                "t": 12201.0,
+                "d": 128.0
+              },
+              {
+                "w": "how",
+                "t": 12329.0,
+                "d": 297.0
+              },
+              {
+                "w": "empire",
+                "t": 12627.0,
+                "d": 892.0
+              },
+              {
+                "w": "craft",
+                "t": 13606.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 14287.0,
+                "d": 296.0
+              },
+              {
+                "w": "memory",
+                "t": 14584.0,
+                "d": 382.0
+              },
+              {
+                "w": "met",
+                "t": 14967.0,
+                "d": 255.0
+              },
+              {
+                "w": "in",
+                "t": 15222.0,
+                "d": 128.0
+              },
+              {
+                "w": "Bengal",
+                "t": 15351.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_adina_wonder/img/p16.png",
+      "shot": "contemplative medium shot of a lone visitor standing in the ruined hypostyle hall",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Adina does not speak with one voice. It shows ambition and adaptation, reuse and loss. In its bricks and borrowed stones, we see how monuments bind power, skill and the layered memories of a place.",
+            "hi": "अदिना एक ही आवाज़ में बात नहीं करती। इसमें चाहत भी है और ढलना भी, दोबारा इस्तेमाल भी और नुक़सान भी। इसकी ईंटों और उधार की पत्थरों में हम देखते हैं कि कैसे यादगार इमारतें ताकत, हुनर और किसी जगह की परतदार यादों को एक साथ बाँध देती हैं।"
+          },
+          "audio": {
+            "en": "assets/the_adina_wonder/audio/en/p16_0.mp3",
+            "hi": "assets/the_adina_wonder/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Adina",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "does",
+                "t": 585.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 755.0,
+                "d": 212.0
+              },
+              {
+                "w": "speak",
+                "t": 968.0,
+                "d": 382.0
+              },
+              {
+                "w": "with",
+                "t": 1351.0,
+                "d": 170.0
+              },
+              {
+                "w": "one",
+                "t": 1521.0,
+                "d": 255.0
+              },
+              {
+                "w": "voice",
+                "t": 1776.0,
+                "d": 936.0
+              },
+              {
+                "w": "It",
+                "t": 2755.0,
+                "d": 211.0
+              },
+              {
+                "w": "shows",
+                "t": 2967.0,
+                "d": 298.0
+              },
+              {
+                "w": "ambition",
+                "t": 3265.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 3946.0,
+                "d": 254.0
+              },
+              {
+                "w": "adaptation",
+                "t": 4201.0,
+                "d": 1235.0
+              },
+              {
+                "w": "reuse",
+                "t": 5436.0,
+                "d": 808.0
+              },
+              {
+                "w": "and",
+                "t": 6287.0,
+                "d": 255.0
+              },
+              {
+                "w": "loss",
+                "t": 6542.0,
+                "d": 595.0
+              },
+              {
+                "w": "In",
+                "t": 7776.0,
+                "d": 170.0
+              },
+              {
+                "w": "its",
+                "t": 7946.0,
+                "d": 170.0
+              },
+              {
+                "w": "bricks",
+                "t": 8117.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 8500.0,
+                "d": 254.0
+              },
+              {
+                "w": "borrowed",
+                "t": 8754.0,
+                "d": 384.0
+              },
+              {
+                "w": "stones",
+                "t": 9138.0,
+                "d": 679.0
+              },
+              {
+                "w": "we",
+                "t": 10073.0,
+                "d": 255.0
+              },
+              {
+                "w": "see",
+                "t": 10328.0,
+                "d": 213.0
+              },
+              {
+                "w": "how",
+                "t": 10542.0,
+                "d": 169.0
+              },
+              {
+                "w": "monuments",
+                "t": 10711.0,
+                "d": 510.0
+              },
+              {
+                "w": "bind",
+                "t": 11222.0,
+                "d": 341.0
+              },
+              {
+                "w": "power",
+                "t": 11563.0,
+                "d": 595.0
+              },
+              {
+                "w": "skill",
+                "t": 12159.0,
+                "d": 764.0
+              },
+              {
+                "w": "and",
+                "t": 13009.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 13350.0,
+                "d": 128.0
+              },
+              {
+                "w": "layered",
+                "t": 13478.0,
+                "d": 297.0
+              },
+              {
+                "w": "memories",
+                "t": 13776.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 14287.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 14457.0,
+                "d": 41.0
+              },
+              {
+                "w": "place",
+                "t": 14498.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Sikandar Shah (Sikandar But-Shikan)",
+    "epithets": [
+      "Sikandar Shah of Bengal",
+      "Sultan of the Delta Empire",
+      "Builder of the Adina Mosque",
+      "Huzur-i-Ala of Pandua"
+    ],
+    "legend": "He turned a river kingdom into stone, brick and prayer."
+  }
+}
