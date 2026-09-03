@@ -1,0 +1,3737 @@
+{
+  "id": "the_island_fort_of_ekdala",
+  "title": "The Island Fort of Ekdala",
+  "title_i18n": {
+    "en": "The Island Fort of Ekdala",
+    "hi": "एकदला का द्वीप किला"
+  },
+  "figure": "Sikandar Shah and Firuz Shah Tughluq",
+  "era": "The Ekdala wars and recognition of Bengal independence, 1353-1359 CE",
+  "moral": "A land defended on its own terms is hard to conquer.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_island_fort_of_ekdala/intro/hero.png",
+      "name": "Sikandar Shah of Bengal",
+      "epithets": [
+        "Sultan of Delhi",
+        "Builder of Forts and Canals",
+        "Sultan of Bengal",
+        "Lord of Ekdala"
+      ],
+      "legend": "Mud walls and marsh water break the road from Delhi.",
+      "era": "The Ekdala wars and recognition of Bengal independence, 1353-1359 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Firuz Shah marches east to bend Bengal to Delhi's will. Sikandar Shah waits inside a flooded island fort, where mud, monsoon and wounded pride threaten two sultanates at once.",
+            "hi": "फ़िरोज़ शाह पूर्व की ओर बढ़ता है, बंगाल को दिल्ली के आगे झुकाने। अंदर डूबे द्वीप क़िले में सिकंदर शाह घात लगाए बैठा है, जहाँ कीचड़, मानसून और घायल अभिमान दोनों सल्तनतों को डुबोने पर आमादा हैं।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/intro/hero_en.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Firuz",
+                "t": 72.0,
+                "d": 333.0
+              },
+              {
+                "w": "Shah",
+                "t": 406.0,
+                "d": 291.0
+              },
+              {
+                "w": "marches",
+                "t": 697.0,
+                "d": 500.0
+              },
+              {
+                "w": "east",
+                "t": 1197.0,
+                "d": 333.0
+              },
+              {
+                "w": "to",
+                "t": 1531.0,
+                "d": 166.0
+              },
+              {
+                "w": "bend",
+                "t": 1697.0,
+                "d": 250.0
+              },
+              {
+                "w": "Bengal",
+                "t": 1947.0,
+                "d": 498.0
+              },
+              {
+                "w": "to",
+                "t": 2446.0,
+                "d": 167.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 2614.0,
+                "d": 415.0
+              },
+              {
+                "w": "will",
+                "t": 3030.0,
+                "d": 626.0
+              },
+              {
+                "w": "Sikandar",
+                "t": 3946.0,
+                "d": 584.0
+              },
+              {
+                "w": "Shah",
+                "t": 4531.0,
+                "d": 208.0
+              },
+              {
+                "w": "waits",
+                "t": 4739.0,
+                "d": 375.0
+              },
+              {
+                "w": "inside",
+                "t": 5114.0,
+                "d": 416.0
+              },
+              {
+                "w": "a",
+                "t": 5531.0,
+                "d": 83.0
+              },
+              {
+                "w": "flooded",
+                "t": 5614.0,
+                "d": 458.0
+              },
+              {
+                "w": "island",
+                "t": 6072.0,
+                "d": 333.0
+              },
+              {
+                "w": "fort",
+                "t": 6406.0,
+                "d": 708.0
+              },
+              {
+                "w": "where",
+                "t": 7156.0,
+                "d": 291.0
+              },
+              {
+                "w": "mud",
+                "t": 7447.0,
+                "d": 375.0
+              },
+              {
+                "w": "monsoon",
+                "t": 7864.0,
+                "d": 623.0
+              },
+              {
+                "w": "and",
+                "t": 8488.0,
+                "d": 250.0
+              },
+              {
+                "w": "wounded",
+                "t": 8738.0,
+                "d": 459.0
+              },
+              {
+                "w": "pride",
+                "t": 9197.0,
+                "d": 582.0
+              },
+              {
+                "w": "threaten",
+                "t": 9822.0,
+                "d": 416.0
+              },
+              {
+                "w": "two",
+                "t": 10239.0,
+                "d": 125.0
+              },
+              {
+                "w": "sultanates",
+                "t": 10364.0,
+                "d": 623.0
+              },
+              {
+                "w": "at",
+                "t": 10988.0,
+                "d": 209.0
+              },
+              {
+                "w": "once",
+                "t": 11197.0,
+                "d": 625.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_island_fort_of_ekdala/intro/map.png",
+      "x": 0.85,
+      "y": 0.55,
+      "label": "Ekdala & Pandua, wetland marches of Bengal",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here rivers spread like broken mirrors, and a low island fort teaches great empires to fear ankle‐deep mud.",
+            "hi": "यहाँ नदियाँ टूटे आईने-सी फैली हैं, और एक नीचा टापू किला महा साम्राज्यों को टखने भर कीचड़ से डरना सिखाता है।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/intro/map_en.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "rivers",
+                "t": 448.0,
+                "d": 367.0
+              },
+              {
+                "w": "spread",
+                "t": 816.0,
+                "d": 459.0
+              },
+              {
+                "w": "like",
+                "t": 1275.0,
+                "d": 275.0
+              },
+              {
+                "w": "broken",
+                "t": 1551.0,
+                "d": 459.0
+              },
+              {
+                "w": "mirrors",
+                "t": 2011.0,
+                "d": 919.0
+              },
+              {
+                "w": "and",
+                "t": 3022.0,
+                "d": 274.0
+              },
+              {
+                "w": "a",
+                "t": 3297.0,
+                "d": 91.0
+              },
+              {
+                "w": "low",
+                "t": 3389.0,
+                "d": 368.0
+              },
+              {
+                "w": "island",
+                "t": 3758.0,
+                "d": 413.0
+              },
+              {
+                "w": "fort",
+                "t": 4172.0,
+                "d": 320.0
+              },
+              {
+                "w": "teaches",
+                "t": 4493.0,
+                "d": 506.0
+              },
+              {
+                "w": "great",
+                "t": 5000.0,
+                "d": 367.0
+              },
+              {
+                "w": "empires",
+                "t": 5367.0,
+                "d": 689.0
+              },
+              {
+                "w": "to",
+                "t": 6057.0,
+                "d": 183.0
+              },
+              {
+                "w": "fear",
+                "t": 6241.0,
+                "d": 367.0
+              },
+              {
+                "w": "ankle‐deep",
+                "t": 6655.0,
+                "d": 689.0
+              },
+              {
+                "w": "mud",
+                "t": 7344.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_island_fort_of_ekdala/img/cover.png",
+      "shot": "epic bird's-eye over a lonely island fort ringed by flooded plains and dark monsoon clouds",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the thirteen fifties, Delhi's armies reached Bengal's heart. But at Ekdala, Sikandar Shah and the monsoon marshes together forced even Firuz Shah Tughluq to turn back.",
+            "hi": "1350 के दशक में दिल्ली की सेनाएँ बंगाल के दिल तक पहुंचीं। पर एकदला पर सिकंदर शाह और मानसूनी दलदल ने खुद फ़िरोज़ शाह तुग़लक़ को भी लौटने पर मजबूर कर दिया।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/cover_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 127.0
+              },
+              {
+                "w": "thirteen",
+                "t": 414.0,
+                "d": 425.0
+              },
+              {
+                "w": "fifties",
+                "t": 840.0,
+                "d": 808.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 1819.0,
+                "d": 553.0
+              },
+              {
+                "w": "armies",
+                "t": 2414.0,
+                "d": 468.0
+              },
+              {
+                "w": "reached",
+                "t": 2882.0,
+                "d": 425.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 3308.0,
+                "d": 510.0
+              },
+              {
+                "w": "heart",
+                "t": 3819.0,
+                "d": 936.0
+              },
+              {
+                "w": "But",
+                "t": 4968.0,
+                "d": 340.0
+              },
+              {
+                "w": "at",
+                "t": 5308.0,
+                "d": 212.0
+              },
+              {
+                "w": "Ekdala",
+                "t": 5521.0,
+                "d": 723.0
+              },
+              {
+                "w": "Sikandar",
+                "t": 6500.0,
+                "d": 595.0
+              },
+              {
+                "w": "Shah",
+                "t": 7095.0,
+                "d": 212.0
+              },
+              {
+                "w": "and",
+                "t": 7308.0,
+                "d": 425.0
+              },
+              {
+                "w": "the",
+                "t": 7734.0,
+                "d": 127.0
+              },
+              {
+                "w": "monsoon",
+                "t": 7861.0,
+                "d": 425.0
+              },
+              {
+                "w": "marshes",
+                "t": 8287.0,
+                "d": 381.0
+              },
+              {
+                "w": "together",
+                "t": 8669.0,
+                "d": 852.0
+              },
+              {
+                "w": "forced",
+                "t": 9563.0,
+                "d": 553.0
+              },
+              {
+                "w": "even",
+                "t": 10117.0,
+                "d": 297.0
+              },
+              {
+                "w": "Firuz",
+                "t": 10414.0,
+                "d": 340.0
+              },
+              {
+                "w": "Shah",
+                "t": 10755.0,
+                "d": 296.0
+              },
+              {
+                "w": "Tughluq",
+                "t": 11052.0,
+                "d": 384.0
+              },
+              {
+                "w": "to",
+                "t": 11436.0,
+                "d": 170.0
+              },
+              {
+                "w": "turn",
+                "t": 11606.0,
+                "d": 297.0
+              },
+              {
+                "w": "back",
+                "t": 11904.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_island_fort_of_ekdala/img/p01.png",
+      "shot": "slow push-in across a parchment map of northern India and Bengal, rivers like veins spilling into a tangled delta",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Delhi's dry plains to Bengal's wet edge, power flowed along rivers and roads. Yet beyond the Ganga, the land itself began to resist empire.",
+            "hi": "दिल्ली के सूखे मैदानों से बंगाल की भीगी सरहद तक ताकत नदियों और सड़कों से बहती थी। पर गंगा के पार, ज़मीन ही साम्राज्य के खिलाफ खड़ी होने लगी।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p01_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 457.0,
+                "d": 382.0
+              },
+              {
+                "w": "dry",
+                "t": 840.0,
+                "d": 297.0
+              },
+              {
+                "w": "plains",
+                "t": 1138.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 1478.0,
+                "d": 170.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 1648.0,
+                "d": 509.0
+              },
+              {
+                "w": "wet",
+                "t": 2158.0,
+                "d": 213.0
+              },
+              {
+                "w": "edge",
+                "t": 2372.0,
+                "d": 594.0
+              },
+              {
+                "w": "power",
+                "t": 3308.0,
+                "d": 339.0
+              },
+              {
+                "w": "flowed",
+                "t": 3647.0,
+                "d": 341.0
+              },
+              {
+                "w": "along",
+                "t": 3989.0,
+                "d": 340.0
+              },
+              {
+                "w": "rivers",
+                "t": 4329.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 4840.0,
+                "d": 255.0
+              },
+              {
+                "w": "roads",
+                "t": 5095.0,
+                "d": 638.0
+              },
+              {
+                "w": "Yet",
+                "t": 6287.0,
+                "d": 382.0
+              },
+              {
+                "w": "beyond",
+                "t": 6670.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 7053.0,
+                "d": 170.0
+              },
+              {
+                "w": "Ganga",
+                "t": 7223.0,
+                "d": 680.0
+              },
+              {
+                "w": "the",
+                "t": 8202.0,
+                "d": 255.0
+              },
+              {
+                "w": "land",
+                "t": 8457.0,
+                "d": 425.0
+              },
+              {
+                "w": "itself",
+                "t": 8882.0,
+                "d": 381.0
+              },
+              {
+                "w": "began",
+                "t": 9264.0,
+                "d": 382.0
+              },
+              {
+                "w": "to",
+                "t": 9647.0,
+                "d": 170.0
+              },
+              {
+                "w": "resist",
+                "t": 9818.0,
+                "d": 469.0
+              },
+              {
+                "w": "empire",
+                "t": 10287.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_island_fort_of_ekdala/img/p02.png",
+      "shot": "medium-wide of Firuz Shah Tughluq’s court in Delhi, nobles gathered around a large campaign map",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "When Firuz Shah Tughluq took Delhi's throne in thirteen fifty-one, he inherited a memory: Bengal had slipped from Delhi's grip. Chronicles say he vowed to restore that reach.",
+            "hi": "1351 में फ़िरोज़ शाह तुग़लक़ दिल्ली की गद्दी पर बैठा तो उसे एक याद विरासत में मिली: बंगाल दिल्ली के हाथ से फिसल चुका था। लिखतों में है, उसने वो पकड़ फिर पाने की कसम खाई।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p02_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "When",
+                "t": 74.0,
+                "d": 340.0
+              },
+              {
+                "w": "Firuz",
+                "t": 414.0,
+                "d": 255.0
+              },
+              {
+                "w": "Shah",
+                "t": 670.0,
+                "d": 340.0
+              },
+              {
+                "w": "Tughluq",
+                "t": 1010.0,
+                "d": 425.0
+              },
+              {
+                "w": "took",
+                "t": 1436.0,
+                "d": 255.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 1691.0,
+                "d": 382.0
+              },
+              {
+                "w": "throne",
+                "t": 2074.0,
+                "d": 340.0
+              },
+              {
+                "w": "in",
+                "t": 2414.0,
+                "d": 126.0
+              },
+              {
+                "w": "thirteen",
+                "t": 2541.0,
+                "d": 468.0
+              },
+              {
+                "w": "fifty-one",
+                "t": 3009.0,
+                "d": 469.0
+              },
+              {
+                "w": "he",
+                "t": 3478.0,
+                "d": 169.0
+              },
+              {
+                "w": "inherited",
+                "t": 4115.0,
+                "d": 767.0
+              },
+              {
+                "w": "a",
+                "t": 4882.0,
+                "d": 42.0
+              },
+              {
+                "w": "memory",
+                "t": 4925.0,
+                "d": 851.0
+              },
+              {
+                "w": "Bengal",
+                "t": 6202.0,
+                "d": 553.0
+              },
+              {
+                "w": "had",
+                "t": 6755.0,
+                "d": 170.0
+              },
+              {
+                "w": "slipped",
+                "t": 6925.0,
+                "d": 382.0
+              },
+              {
+                "w": "from",
+                "t": 7308.0,
+                "d": 170.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 7478.0,
+                "d": 425.0
+              },
+              {
+                "w": "grip",
+                "t": 7904.0,
+                "d": 807.0
+              },
+              {
+                "w": "Chronicles",
+                "t": 9009.0,
+                "d": 596.0
+              },
+              {
+                "w": "say",
+                "t": 9606.0,
+                "d": 211.0
+              },
+              {
+                "w": "he",
+                "t": 9818.0,
+                "d": 213.0
+              },
+              {
+                "w": "vowed",
+                "t": 10031.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 10372.0,
+                "d": 127.0
+              },
+              {
+                "w": "restore",
+                "t": 10500.0,
+                "d": 425.0
+              },
+              {
+                "w": "that",
+                "t": 10925.0,
+                "d": 255.0
+              },
+              {
+                "w": "reach",
+                "t": 11180.0,
+                "d": 425.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_island_fort_of_ekdala/img/p03.png",
+      "shot": "wide shot of a marching army leaving Delhi, dust behind them, distant rivers ahead",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Yahya Sirhindi records Firuz's march east. Horses, elephants, siege trains, Delhi's weight of steel rolled towards the fertile lowlands of Lakhnauti and Pandua.",
+            "hi": "याह्या सिरहिन्दी फ़िरोज़ की पूरब की चढ़ाई दर्ज करता है। घोड़े, हाथी, घेराबंदी के सामान—दिल्ली का लोहे का भार लखनौती और पंडुआ की उपजाऊ नीची ज़मीनों की तरफ़ लुढ़क पड़ा।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p03_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Yahya",
+                "t": 70.0,
+                "d": 440.0
+              },
+              {
+                "w": "Sirhindi",
+                "t": 510.0,
+                "d": 520.0
+              },
+              {
+                "w": "records",
+                "t": 1030.0,
+                "d": 480.0
+              },
+              {
+                "w": "Firuz's",
+                "t": 1510.0,
+                "d": 519.0
+              },
+              {
+                "w": "march",
+                "t": 2029.0,
+                "d": 400.0
+              },
+              {
+                "w": "east",
+                "t": 2429.0,
+                "d": 761.0
+              },
+              {
+                "w": "Horses",
+                "t": 3349.0,
+                "d": 801.0
+              },
+              {
+                "w": "elephants",
+                "t": 4230.0,
+                "d": 840.0
+              },
+              {
+                "w": "siege",
+                "t": 5190.0,
+                "d": 520.0
+              },
+              {
+                "w": "trains",
+                "t": 5710.0,
+                "d": 680.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 6830.0,
+                "d": 440.0
+              },
+              {
+                "w": "weight",
+                "t": 7270.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 7590.0,
+                "d": 80.0
+              },
+              {
+                "w": "steel",
+                "t": 7670.0,
+                "d": 359.0
+              },
+              {
+                "w": "rolled",
+                "t": 8029.0,
+                "d": 321.0
+              },
+              {
+                "w": "towards",
+                "t": 8350.0,
+                "d": 400.0
+              },
+              {
+                "w": "the",
+                "t": 8750.0,
+                "d": 120.0
+              },
+              {
+                "w": "fertile",
+                "t": 8870.0,
+                "d": 480.0
+              },
+              {
+                "w": "lowlands",
+                "t": 9350.0,
+                "d": 359.0
+              },
+              {
+                "w": "of",
+                "t": 9709.0,
+                "d": 161.0
+              },
+              {
+                "w": "Lakhnauti",
+                "t": 9870.0,
+                "d": 599.0
+              },
+              {
+                "w": "and",
+                "t": 10510.0,
+                "d": 199.0
+              },
+              {
+                "w": "Pandua",
+                "t": 10709.0,
+                "d": 641.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_island_fort_of_ekdala/img/p04.png",
+      "shot": "contrast shot: Delhi cavalry bogged in shallow water, boots and hooves splashing, monsoon clouds above",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "But Bengal was not like the Doab. Jheels, chars, channels that moved every season, what Eaton later calls 'deltaic ecology', turned every march into a gamble against water and time.",
+            "hi": "पर बंगाल दोआब जैसा नहीं था। झीलें, चर, हर मौसम में बदलते बहाव—जिसे ईटन बाद में ‘डेल्टा की बनावट’ कहता है—हर कूच को पानी और वक्त के साथ जुआ बना देती थी।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p04_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "But",
+                "t": 70.0,
+                "d": 240.0
+              },
+              {
+                "w": "Bengal",
+                "t": 310.0,
+                "d": 440.0
+              },
+              {
+                "w": "was",
+                "t": 750.0,
+                "d": 200.0
+              },
+              {
+                "w": "not",
+                "t": 950.0,
+                "d": 320.0
+              },
+              {
+                "w": "like",
+                "t": 1270.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 1470.0,
+                "d": 120.0
+              },
+              {
+                "w": "Doab",
+                "t": 1590.0,
+                "d": 719.0
+              },
+              {
+                "w": "Jheels",
+                "t": 2630.0,
+                "d": 880.0
+              },
+              {
+                "w": "chars",
+                "t": 3550.0,
+                "d": 760.0
+              },
+              {
+                "w": "channels",
+                "t": 4350.0,
+                "d": 600.0
+              },
+              {
+                "w": "that",
+                "t": 4950.0,
+                "d": 240.0
+              },
+              {
+                "w": "moved",
+                "t": 5190.0,
+                "d": 440.0
+              },
+              {
+                "w": "every",
+                "t": 5670.0,
+                "d": 400.0
+              },
+              {
+                "w": "season",
+                "t": 6070.0,
+                "d": 760.0
+              },
+              {
+                "w": "what",
+                "t": 7270.0,
+                "d": 320.0
+              },
+              {
+                "w": "Eaton",
+                "t": 7630.0,
+                "d": 360.0
+              },
+              {
+                "w": "later",
+                "t": 7990.0,
+                "d": 440.0
+              },
+              {
+                "w": "calls",
+                "t": 8430.0,
+                "d": 440.0
+              },
+              {
+                "w": "deltaic",
+                "t": 8870.0,
+                "d": 519.0
+              },
+              {
+                "w": "ecology",
+                "t": 9389.0,
+                "d": 1000.0
+              },
+              {
+                "w": "turned",
+                "t": 10590.0,
+                "d": 360.0
+              },
+              {
+                "w": "every",
+                "t": 10990.0,
+                "d": 440.0
+              },
+              {
+                "w": "march",
+                "t": 11430.0,
+                "d": 400.0
+              },
+              {
+                "w": "into",
+                "t": 11830.0,
+                "d": 280.0
+              },
+              {
+                "w": "a",
+                "t": 12110.0,
+                "d": 119.0
+              },
+              {
+                "w": "gamble",
+                "t": 12229.0,
+                "d": 441.0
+              },
+              {
+                "w": "against",
+                "t": 12670.0,
+                "d": 479.0
+              },
+              {
+                "w": "water",
+                "t": 13149.0,
+                "d": 480.0
+              },
+              {
+                "w": "and",
+                "t": 13629.0,
+                "d": 201.0
+              },
+              {
+                "w": "time",
+                "t": 13830.0,
+                "d": 520.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_island_fort_of_ekdala/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_island_fort_of_ekdala/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across the drowning fields, Sikandar measures Delhi's struggle, reading the waterlogged land as his strongest ally.",
+            "hi": "डूबते खेतों पर नज़र डालता सिकंदर, पानी भरी ज़मीन को अपनी सबसे बड़ी ताकत मानता है।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 80.0,
+                "d": 505.0
+              },
+              {
+                "w": "the",
+                "t": 586.0,
+                "d": 137.0
+              },
+              {
+                "w": "drowning",
+                "t": 724.0,
+                "d": 505.0
+              },
+              {
+                "w": "fields",
+                "t": 1229.0,
+                "d": 735.0
+              },
+              {
+                "w": "Sikandar",
+                "t": 2057.0,
+                "d": 734.0
+              },
+              {
+                "w": "measures",
+                "t": 2791.0,
+                "d": 505.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 3297.0,
+                "d": 368.0
+              },
+              {
+                "w": "struggle",
+                "t": 3666.0,
+                "d": 872.0
+              },
+              {
+                "w": "reading",
+                "t": 4816.0,
+                "d": 505.0
+              },
+              {
+                "w": "the",
+                "t": 5321.0,
+                "d": 137.0
+              },
+              {
+                "w": "waterlogged",
+                "t": 5459.0,
+                "d": 689.0
+              },
+              {
+                "w": "land",
+                "t": 6149.0,
+                "d": 551.0
+              },
+              {
+                "w": "as",
+                "t": 6701.0,
+                "d": 367.0
+              },
+              {
+                "w": "his",
+                "t": 7068.0,
+                "d": 183.0
+              },
+              {
+                "w": "strongest",
+                "t": 7252.0,
+                "d": 735.0
+              },
+              {
+                "w": "ally",
+                "t": 7988.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_island_fort_of_ekdala/img/p05.png",
+      "shot": "low-angle of Sikandar Shah in Bengal’s capital region, conferring with sardars against a backdrop of wetlands",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Pandua, Bengal's sultan Sikandar Shah watched Delhi's advance. His strength was not vast plains, but men and forts woven into riverbanks, embankments and marshy islands.",
+            "hi": "पंडुआ में बंगाल के सुल्तान सिकंदर शाह दिल्ली की बढ़त देख रहा था। उसकी ताकत खुले मैदान नहीं, बल्कि नदी किनारों, तटबंधों और दलदली टापुओं में बुने किले और लोग थे।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p05_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 91.0
+              },
+              {
+                "w": "Pandua",
+                "t": 172.0,
+                "d": 459.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 770.0,
+                "d": 367.0
+              },
+              {
+                "w": "sultan",
+                "t": 1643.0,
+                "d": 781.0
+              },
+              {
+                "w": "Sikandar",
+                "t": 2425.0,
+                "d": 551.0
+              },
+              {
+                "w": "Shah",
+                "t": 2977.0,
+                "d": 228.0
+              },
+              {
+                "w": "watched",
+                "t": 3205.0,
+                "d": 552.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 3758.0,
+                "d": 367.0
+              },
+              {
+                "w": "advance",
+                "t": 4126.0,
+                "d": 505.0
+              },
+              {
+                "w": "His",
+                "t": 4632.0,
+                "d": 321.0
+              },
+              {
+                "w": "strength",
+                "t": 5413.0,
+                "d": 459.0
+              },
+              {
+                "w": "was",
+                "t": 5873.0,
+                "d": 183.0
+              },
+              {
+                "w": "not",
+                "t": 6057.0,
+                "d": 321.0
+              },
+              {
+                "w": "vast",
+                "t": 6379.0,
+                "d": 367.0
+              },
+              {
+                "w": "plains",
+                "t": 6747.0,
+                "d": 781.0
+              },
+              {
+                "w": "but",
+                "t": 7804.0,
+                "d": 321.0
+              },
+              {
+                "w": "men",
+                "t": 8126.0,
+                "d": 275.0
+              },
+              {
+                "w": "and",
+                "t": 8402.0,
+                "d": 137.0
+              },
+              {
+                "w": "forts",
+                "t": 8540.0,
+                "d": 413.0
+              },
+              {
+                "w": "woven",
+                "t": 8954.0,
+                "d": 412.0
+              },
+              {
+                "w": "into",
+                "t": 9366.0,
+                "d": 275.0
+              },
+              {
+                "w": "riverbanks",
+                "t": 9642.0,
+                "d": 965.0
+              },
+              {
+                "w": "embankments",
+                "t": 10791.0,
+                "d": 1104.0
+              },
+              {
+                "w": "and",
+                "t": 11941.0,
+                "d": 275.0
+              },
+              {
+                "w": "marshy",
+                "t": 12217.0,
+                "d": 414.0
+              },
+              {
+                "w": "islands",
+                "t": 12632.0,
+                "d": 734.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_island_fort_of_ekdala/img/p06.png",
+      "shot": "medium-wide of Ekdala: an island fort ringed by a broad wet moat and reeds",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Among these was Ekdala, a fort on an island of raised earth. Chronicles remember its moats and marshy approaches; open fields gave way to water and mud that blunted heavy siege craft.",
+            "hi": "इनमें था एकदला—ऊँची ज़मीन पर बना टापू किला। लिखतें उसकी खाइयों और दलदली रास्तों को याद रखती हैं; खुले खेत पानी और कीचड़ में बदल जाते थे, जो भारी घेराबंदी को सुस्त कर देते थे।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p06_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Among",
+                "t": 70.0,
+                "d": 400.0
+              },
+              {
+                "w": "these",
+                "t": 470.0,
+                "d": 240.0
+              },
+              {
+                "w": "was",
+                "t": 710.0,
+                "d": 320.0
+              },
+              {
+                "w": "Ekdala",
+                "t": 1070.0,
+                "d": 640.0
+              },
+              {
+                "w": "a",
+                "t": 2150.0,
+                "d": 80.0
+              },
+              {
+                "w": "fort",
+                "t": 2230.0,
+                "d": 440.0
+              },
+              {
+                "w": "on",
+                "t": 2670.0,
+                "d": 159.0
+              },
+              {
+                "w": "an",
+                "t": 2829.0,
+                "d": 120.0
+              },
+              {
+                "w": "island",
+                "t": 2949.0,
+                "d": 480.0
+              },
+              {
+                "w": "of",
+                "t": 3429.0,
+                "d": 241.0
+              },
+              {
+                "w": "raised",
+                "t": 3670.0,
+                "d": 319.0
+              },
+              {
+                "w": "earth",
+                "t": 3989.0,
+                "d": 401.0
+              },
+              {
+                "w": "Chronicles",
+                "t": 5230.0,
+                "d": 600.0
+              },
+              {
+                "w": "remember",
+                "t": 5830.0,
+                "d": 400.0
+              },
+              {
+                "w": "its",
+                "t": 6230.0,
+                "d": 200.0
+              },
+              {
+                "w": "moats",
+                "t": 6430.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 6790.0,
+                "d": 240.0
+              },
+              {
+                "w": "marshy",
+                "t": 7030.0,
+                "d": 360.0
+              },
+              {
+                "w": "approaches",
+                "t": 7390.0,
+                "d": 919.0
+              },
+              {
+                "w": "open",
+                "t": 8549.0,
+                "d": 441.0
+              },
+              {
+                "w": "fields",
+                "t": 8990.0,
+                "d": 399.0
+              },
+              {
+                "w": "gave",
+                "t": 9389.0,
+                "d": 281.0
+              },
+              {
+                "w": "way",
+                "t": 9670.0,
+                "d": 240.0
+              },
+              {
+                "w": "to",
+                "t": 9910.0,
+                "d": 120.0
+              },
+              {
+                "w": "water",
+                "t": 10030.0,
+                "d": 439.0
+              },
+              {
+                "w": "and",
+                "t": 10469.0,
+                "d": 240.0
+              },
+              {
+                "w": "mud",
+                "t": 10709.0,
+                "d": 481.0
+              },
+              {
+                "w": "that",
+                "t": 11229.0,
+                "d": 281.0
+              },
+              {
+                "w": "blunted",
+                "t": 11510.0,
+                "d": 480.0
+              },
+              {
+                "w": "heavy",
+                "t": 11990.0,
+                "d": 319.0
+              },
+              {
+                "w": "siege",
+                "t": 12309.0,
+                "d": 361.0
+              },
+              {
+                "w": "craft",
+                "t": 12670.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_island_fort_of_ekdala/img/p07.png",
+      "shot": "dynamic wide shot of Delhi’s army approaching Ekdala, elephants halted at the water’s edge",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Sirhindi tells of Delhi's host reaching Bengal and pressing its forts. Open ground could be overrun. At Ekdala, however, the wet ring around its walls turned advance into deadlock.",
+            "hi": "सिरहिन्दी बताता है कैसे दिल्ली की फौज बंगाल पहुंचकर किलों पर चढ़ बैठी। खुला मैदान रौंदा जा सकता था। पर एकदला पर उसकी दीवारों की गीली घेराबंदी बढ़त को ठहराव में बदल देती थी।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p07_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Sirhindi",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "tells",
+                "t": 670.0,
+                "d": 382.0
+              },
+              {
+                "w": "of",
+                "t": 1053.0,
+                "d": 170.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 1223.0,
+                "d": 425.0
+              },
+              {
+                "w": "host",
+                "t": 1648.0,
+                "d": 425.0
+              },
+              {
+                "w": "reaching",
+                "t": 2074.0,
+                "d": 381.0
+              },
+              {
+                "w": "Bengal",
+                "t": 2456.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 3265.0,
+                "d": 296.0
+              },
+              {
+                "w": "pressing",
+                "t": 3562.0,
+                "d": 384.0
+              },
+              {
+                "w": "its",
+                "t": 3946.0,
+                "d": 169.0
+              },
+              {
+                "w": "forts",
+                "t": 4115.0,
+                "d": 596.0
+              },
+              {
+                "w": "Open",
+                "t": 5308.0,
+                "d": 425.0
+              },
+              {
+                "w": "ground",
+                "t": 5734.0,
+                "d": 340.0
+              },
+              {
+                "w": "could",
+                "t": 6074.0,
+                "d": 255.0
+              },
+              {
+                "w": "be",
+                "t": 6329.0,
+                "d": 170.0
+              },
+              {
+                "w": "overrun",
+                "t": 6542.0,
+                "d": 723.0
+              },
+              {
+                "w": "At",
+                "t": 7819.0,
+                "d": 297.0
+              },
+              {
+                "w": "Ekdala",
+                "t": 8117.0,
+                "d": 680.0
+              },
+              {
+                "w": "however",
+                "t": 8797.0,
+                "d": 850.0
+              },
+              {
+                "w": "the",
+                "t": 9691.0,
+                "d": 255.0
+              },
+              {
+                "w": "wet",
+                "t": 9946.0,
+                "d": 255.0
+              },
+              {
+                "w": "ring",
+                "t": 10202.0,
+                "d": 212.0
+              },
+              {
+                "w": "around",
+                "t": 10414.0,
+                "d": 340.0
+              },
+              {
+                "w": "its",
+                "t": 10755.0,
+                "d": 170.0
+              },
+              {
+                "w": "walls",
+                "t": 10925.0,
+                "d": 553.0
+              },
+              {
+                "w": "turned",
+                "t": 11478.0,
+                "d": 296.0
+              },
+              {
+                "w": "advance",
+                "t": 11775.0,
+                "d": 639.0
+              },
+              {
+                "w": "into",
+                "t": 12414.0,
+                "d": 340.0
+              },
+              {
+                "w": "deadlock",
+                "t": 12755.0,
+                "d": 764.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_island_fort_of_ekdala/img/p08.png",
+      "shot": "close-up on Sikandar Shah atop Ekdala’s rampart, rain beginning to fall",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Let them come. Here, the river fights for us.",
+            "hi": "आने दो उन्हें। यहाँ नदी हमारी तरफ़ से लड़ती है।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p08_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Let",
+                "t": 46.3,
+                "d": 231.5
+              },
+              {
+                "w": "them",
+                "t": 289.3,
+                "d": 289.3
+              },
+              {
+                "w": "come",
+                "t": 590.3,
+                "d": 324.0
+              },
+              {
+                "w": "Here",
+                "t": 1701.4,
+                "d": 300.9
+              },
+              {
+                "w": "the",
+                "t": 2175.9,
+                "d": 115.8
+              },
+              {
+                "w": "river",
+                "t": 2291.7,
+                "d": 312.5
+              },
+              {
+                "w": "fights",
+                "t": 2604.2,
+                "d": 405.1
+              },
+              {
+                "w": "for",
+                "t": 3009.2,
+                "d": 185.2
+              },
+              {
+                "w": "us",
+                "t": 3194.5,
+                "d": 289.3
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_island_fort_of_ekdala/img/p09.png",
+      "shot": "montage wide: skirmish arrows, men in boats, Delhi troops struggling with makeshift rafts",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The chronicles do not linger on tactics, but the setting speaks: archery over water, raids by boat, Delhi's forces improvising crossings while monsoon soaked men, beasts and powder.",
+            "hi": "लिखतें जंग की बारीकियों पर नहीं अटकीं, पर मैदान खुद बोलता है: पानी के पार तीरंदाज़ी, नाव से छापेमारी, दिल्ली की फौजें टापू पार करने की जुगत में, और मानसून में भीगते आदमी, जानवर, बारूद।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p09_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "chronicles",
+                "t": 230.0,
+                "d": 520.0
+              },
+              {
+                "w": "do",
+                "t": 750.0,
+                "d": 80.0
+              },
+              {
+                "w": "not",
+                "t": 830.0,
+                "d": 240.0
+              },
+              {
+                "w": "linger",
+                "t": 1070.0,
+                "d": 280.0
+              },
+              {
+                "w": "on",
+                "t": 1350.0,
+                "d": 120.0
+              },
+              {
+                "w": "tactics",
+                "t": 1470.0,
+                "d": 760.0
+              },
+              {
+                "w": "but",
+                "t": 2270.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 2510.0,
+                "d": 120.0
+              },
+              {
+                "w": "setting",
+                "t": 2630.0,
+                "d": 359.0
+              },
+              {
+                "w": "speaks",
+                "t": 2989.0,
+                "d": 681.0
+              },
+              {
+                "w": "archery",
+                "t": 4070.0,
+                "d": 480.0
+              },
+              {
+                "w": "over",
+                "t": 4550.0,
+                "d": 240.0
+              },
+              {
+                "w": "water",
+                "t": 4790.0,
+                "d": 800.0
+              },
+              {
+                "w": "raids",
+                "t": 5630.0,
+                "d": 400.0
+              },
+              {
+                "w": "by",
+                "t": 6030.0,
+                "d": 200.0
+              },
+              {
+                "w": "boat",
+                "t": 6230.0,
+                "d": 480.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 6990.0,
+                "d": 440.0
+              },
+              {
+                "w": "forces",
+                "t": 7430.0,
+                "d": 400.0
+              },
+              {
+                "w": "improvising",
+                "t": 7830.0,
+                "d": 600.0
+              },
+              {
+                "w": "crossings",
+                "t": 8430.0,
+                "d": 480.0
+              },
+              {
+                "w": "while",
+                "t": 8910.0,
+                "d": 200.0
+              },
+              {
+                "w": "monsoon",
+                "t": 9110.0,
+                "d": 439.0
+              },
+              {
+                "w": "soaked",
+                "t": 9549.0,
+                "d": 361.0
+              },
+              {
+                "w": "men",
+                "t": 9910.0,
+                "d": 520.0
+              },
+              {
+                "w": "beasts",
+                "t": 10549.0,
+                "d": 641.0
+              },
+              {
+                "w": "and",
+                "t": 11229.0,
+                "d": 281.0
+              },
+              {
+                "w": "powder",
+                "t": 11510.0,
+                "d": 520.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_island_fort_of_ekdala/img/p10.png",
+      "shot": "medium shot in Delhi camp, Firuz Shah conferring with weary generals, canvas sagging with rain",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "What Sirhindi and later Firishta agree on is the outcome: Delhi could camp near Pandua, even occupy it, yet Ekdala held. Without that fort, Bengal was not truly subdued.",
+            "hi": "सिरहिन्दी और बाद में फ़िरिश्ता जिस बात पर सहमत हैं, वो नतीजा है: दिल्ली पंडुआ के पास डेरा डाल सकती थी, उसे घेर भी सकती थी, पर एकदला टिका रहा। उस किले के बिना बंगाल सच में काबू में नहीं था।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p10_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "What",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "Sirhindi",
+                "t": 372.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 1010.0,
+                "d": 212.0
+              },
+              {
+                "w": "later",
+                "t": 1223.0,
+                "d": 340.0
+              },
+              {
+                "w": "Firishta",
+                "t": 1563.0,
+                "d": 510.0
+              },
+              {
+                "w": "agree",
+                "t": 2074.0,
+                "d": 467.0
+              },
+              {
+                "w": "on",
+                "t": 2541.0,
+                "d": 298.0
+              },
+              {
+                "w": "is",
+                "t": 2882.0,
+                "d": 169.0
+              },
+              {
+                "w": "the",
+                "t": 3052.0,
+                "d": 127.0
+              },
+              {
+                "w": "outcome",
+                "t": 3179.0,
+                "d": 554.0
+              },
+              {
+                "w": "Delhi",
+                "t": 4243.0,
+                "d": 469.0
+              },
+              {
+                "w": "could",
+                "t": 4712.0,
+                "d": 212.0
+              },
+              {
+                "w": "camp",
+                "t": 4925.0,
+                "d": 382.0
+              },
+              {
+                "w": "near",
+                "t": 5308.0,
+                "d": 297.0
+              },
+              {
+                "w": "Pandua",
+                "t": 5606.0,
+                "d": 680.0
+              },
+              {
+                "w": "even",
+                "t": 6500.0,
+                "d": 297.0
+              },
+              {
+                "w": "occupy",
+                "t": 6797.0,
+                "d": 468.0
+              },
+              {
+                "w": "it",
+                "t": 7265.0,
+                "d": 425.0
+              },
+              {
+                "w": "yet",
+                "t": 7734.0,
+                "d": 425.0
+              },
+              {
+                "w": "Ekdala",
+                "t": 8202.0,
+                "d": 552.0
+              },
+              {
+                "w": "held",
+                "t": 8754.0,
+                "d": 596.0
+              },
+              {
+                "w": "Without",
+                "t": 9946.0,
+                "d": 381.0
+              },
+              {
+                "w": "that",
+                "t": 10328.0,
+                "d": 213.0
+              },
+              {
+                "w": "fort",
+                "t": 10542.0,
+                "d": 509.0
+              },
+              {
+                "w": "Bengal",
+                "t": 11180.0,
+                "d": 510.0
+              },
+              {
+                "w": "was",
+                "t": 11691.0,
+                "d": 254.0
+              },
+              {
+                "w": "not",
+                "t": 11945.0,
+                "d": 298.0
+              },
+              {
+                "w": "truly",
+                "t": 12244.0,
+                "d": 382.0
+              },
+              {
+                "w": "subdued",
+                "t": 12627.0,
+                "d": 722.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_island_fort_of_ekdala/img/p11.png",
+      "shot": "wide shot of Delhi’s army slowly withdrawing through wet fields, fort of Ekdala distant but intact",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The first confrontation ended not in a storming of Ekdala, but in withdrawal. The cost of fighting land and lord together proved higher than Firuz chose to pay that season.",
+            "hi": "पहला टकराव एकदला पर धावा बोलने से नहीं, बल्कि पीछे हटने पर खत्म हुआ। ज़मीन और उसके मालिक दोनों से लड़ने की कीमत उस मौसम में फ़िरोज़ के लिए ज़्यादा साबित हुई।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p11_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "first",
+                "t": 270.0,
+                "d": 240.0
+              },
+              {
+                "w": "confrontation",
+                "t": 510.0,
+                "d": 760.0
+              },
+              {
+                "w": "ended",
+                "t": 1310.0,
+                "d": 400.0
+              },
+              {
+                "w": "not",
+                "t": 1710.0,
+                "d": 360.0
+              },
+              {
+                "w": "in",
+                "t": 2070.0,
+                "d": 80.0
+              },
+              {
+                "w": "a",
+                "t": 2150.0,
+                "d": 80.0
+              },
+              {
+                "w": "storming",
+                "t": 2230.0,
+                "d": 440.0
+              },
+              {
+                "w": "of",
+                "t": 2670.0,
+                "d": 199.0
+              },
+              {
+                "w": "Ekdala",
+                "t": 2869.0,
+                "d": 560.0
+              },
+              {
+                "w": "but",
+                "t": 3630.0,
+                "d": 319.0
+              },
+              {
+                "w": "in",
+                "t": 3949.0,
+                "d": 161.0
+              },
+              {
+                "w": "withdrawal",
+                "t": 4110.0,
+                "d": 800.0
+              },
+              {
+                "w": "The",
+                "t": 5270.0,
+                "d": 240.0
+              },
+              {
+                "w": "cost",
+                "t": 5510.0,
+                "d": 320.0
+              },
+              {
+                "w": "of",
+                "t": 5830.0,
+                "d": 120.0
+              },
+              {
+                "w": "fighting",
+                "t": 5950.0,
+                "d": 400.0
+              },
+              {
+                "w": "land",
+                "t": 6350.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 6710.0,
+                "d": 280.0
+              },
+              {
+                "w": "lord",
+                "t": 6990.0,
+                "d": 280.0
+              },
+              {
+                "w": "together",
+                "t": 7270.0,
+                "d": 720.0
+              },
+              {
+                "w": "proved",
+                "t": 7990.0,
+                "d": 399.0
+              },
+              {
+                "w": "higher",
+                "t": 8389.0,
+                "d": 320.0
+              },
+              {
+                "w": "than",
+                "t": 8709.0,
+                "d": 201.0
+              },
+              {
+                "w": "Firuz",
+                "t": 8910.0,
+                "d": 319.0
+              },
+              {
+                "w": "chose",
+                "t": 9229.0,
+                "d": 361.0
+              },
+              {
+                "w": "to",
+                "t": 9590.0,
+                "d": 200.0
+              },
+              {
+                "w": "pay",
+                "t": 9790.0,
+                "d": 240.0
+              },
+              {
+                "w": "that",
+                "t": 10030.0,
+                "d": 199.0
+              },
+              {
+                "w": "season",
+                "t": 10229.0,
+                "d": 561.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_island_fort_of_ekdala/img/p12.png",
+      "shot": "time-lapse style shot of changing skies over Ekdala: clear to stormy to clear again",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Years passed. Bengal's independence in practice continued. Firishta preserves memory of a second great effort, when Firuz again moved against Sikandar and Ekdala.",
+            "hi": "साल बीतते गए। बंगाल की ज़मीनी आज़ादी चलती रही। फ़िरिश्ता दूसरी बड़ी मुहिम की याद बचाता है—जब फ़िरोज़ फिर सिकंदर और एकदला पर चढ़ आया।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p12_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Years",
+                "t": 70.0,
+                "d": 560.0
+              },
+              {
+                "w": "passed",
+                "t": 630.0,
+                "d": 600.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 2029.0,
+                "d": 681.0
+              },
+              {
+                "w": "independence",
+                "t": 2710.0,
+                "d": 719.0
+              },
+              {
+                "w": "in",
+                "t": 3429.0,
+                "d": 161.0
+              },
+              {
+                "w": "practice",
+                "t": 3590.0,
+                "d": 520.0
+              },
+              {
+                "w": "continued",
+                "t": 4110.0,
+                "d": 1320.0
+              },
+              {
+                "w": "Firishta",
+                "t": 5830.0,
+                "d": 520.0
+              },
+              {
+                "w": "preserves",
+                "t": 6350.0,
+                "d": 520.0
+              },
+              {
+                "w": "memory",
+                "t": 6870.0,
+                "d": 520.0
+              },
+              {
+                "w": "of",
+                "t": 7390.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 7550.0,
+                "d": 40.0
+              },
+              {
+                "w": "second",
+                "t": 7590.0,
+                "d": 479.0
+              },
+              {
+                "w": "great",
+                "t": 8069.0,
+                "d": 320.0
+              },
+              {
+                "w": "effort",
+                "t": 8389.0,
+                "d": 881.0
+              },
+              {
+                "w": "when",
+                "t": 9430.0,
+                "d": 320.0
+              },
+              {
+                "w": "Firuz",
+                "t": 9750.0,
+                "d": 319.0
+              },
+              {
+                "w": "again",
+                "t": 10190.0,
+                "d": 359.0
+              },
+              {
+                "w": "moved",
+                "t": 10549.0,
+                "d": 401.0
+              },
+              {
+                "w": "against",
+                "t": 10990.0,
+                "d": 520.0
+              },
+              {
+                "w": "Sikandar",
+                "t": 11510.0,
+                "d": 760.0
+              },
+              {
+                "w": "and",
+                "t": 12309.0,
+                "d": 240.0
+              },
+              {
+                "w": "Ekdala",
+                "t": 12549.0,
+                "d": 760.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_island_fort_of_ekdala/img/p13.png",
+      "shot": "epic wide of the second campaign: larger Delhi host at the edge of the wetland, sky clearer but land still soft",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The second time, Delhi came with experience and intent. Yet the basic facts had not changed: rivers braided, channels shifted, and Ekdala's moat still turned heavy power into clumsy reach.",
+            "hi": "दूसरी बार दिल्ली तजुर्बे और इरादे के साथ आई। पर बुनियादी बात नहीं बदली: नदियाँ आपस में गुँथीं, धारे खिसकते रहे, और एकदला की खाई अब भी भारी ताकत को भद्दी पहुँच में बदल देती थी।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p13_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "second",
+                "t": 244.0,
+                "d": 382.0
+              },
+              {
+                "w": "time",
+                "t": 627.0,
+                "d": 595.0
+              },
+              {
+                "w": "Delhi",
+                "t": 1351.0,
+                "d": 425.0
+              },
+              {
+                "w": "came",
+                "t": 1776.0,
+                "d": 255.0
+              },
+              {
+                "w": "with",
+                "t": 2031.0,
+                "d": 170.0
+              },
+              {
+                "w": "experience",
+                "t": 2202.0,
+                "d": 935.0
+              },
+              {
+                "w": "and",
+                "t": 3137.0,
+                "d": 256.0
+              },
+              {
+                "w": "intent",
+                "t": 3393.0,
+                "d": 807.0
+              },
+              {
+                "w": "Yet",
+                "t": 4755.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 5010.0,
+                "d": 127.0
+              },
+              {
+                "w": "basic",
+                "t": 5138.0,
+                "d": 425.0
+              },
+              {
+                "w": "facts",
+                "t": 5563.0,
+                "d": 468.0
+              },
+              {
+                "w": "had",
+                "t": 6031.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 6244.0,
+                "d": 255.0
+              },
+              {
+                "w": "changed",
+                "t": 6500.0,
+                "d": 765.0
+              },
+              {
+                "w": "rivers",
+                "t": 7606.0,
+                "d": 468.0
+              },
+              {
+                "w": "braided",
+                "t": 8074.0,
+                "d": 893.0
+              },
+              {
+                "w": "channels",
+                "t": 9009.0,
+                "d": 511.0
+              },
+              {
+                "w": "shifted",
+                "t": 9521.0,
+                "d": 893.0
+              },
+              {
+                "w": "and",
+                "t": 10542.0,
+                "d": 339.0
+              },
+              {
+                "w": "Ekdala's",
+                "t": 10881.0,
+                "d": 681.0
+              },
+              {
+                "w": "moat",
+                "t": 11563.0,
+                "d": 340.0
+              },
+              {
+                "w": "still",
+                "t": 11904.0,
+                "d": 381.0
+              },
+              {
+                "w": "turned",
+                "t": 12286.0,
+                "d": 341.0
+              },
+              {
+                "w": "heavy",
+                "t": 12627.0,
+                "d": 381.0
+              },
+              {
+                "w": "power",
+                "t": 13009.0,
+                "d": 510.0
+              },
+              {
+                "w": "into",
+                "t": 13563.0,
+                "d": 339.0
+              },
+              {
+                "w": "clumsy",
+                "t": 13903.0,
+                "d": 724.0
+              },
+              {
+                "w": "reach",
+                "t": 14627.0,
+                "d": 424.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_island_fort_of_ekdala/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_island_fort_of_ekdala/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Firuz studies the stubborn waters, ordering a second advance to bend Bengal's marshy frontier to Delhi's will.",
+            "hi": "फ़िरोज़ जिद्दी पानी को ताकता है, दूसरी चढ़ाई का हुक्म देकर बंगाल की दलदली सरहद को दिल्ली के आगे झुकाने निकल पड़ता है।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Firuz",
+                "t": 70.0,
+                "d": 360.0
+              },
+              {
+                "w": "studies",
+                "t": 430.0,
+                "d": 520.0
+              },
+              {
+                "w": "the",
+                "t": 950.0,
+                "d": 120.0
+              },
+              {
+                "w": "stubborn",
+                "t": 1070.0,
+                "d": 400.0
+              },
+              {
+                "w": "waters",
+                "t": 1470.0,
+                "d": 760.0
+              },
+              {
+                "w": "ordering",
+                "t": 2349.0,
+                "d": 480.0
+              },
+              {
+                "w": "a",
+                "t": 2829.0,
+                "d": 40.0
+              },
+              {
+                "w": "second",
+                "t": 2869.0,
+                "d": 361.0
+              },
+              {
+                "w": "advance",
+                "t": 3230.0,
+                "d": 440.0
+              },
+              {
+                "w": "to",
+                "t": 3670.0,
+                "d": 199.0
+              },
+              {
+                "w": "bend",
+                "t": 3869.0,
+                "d": 321.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 4190.0,
+                "d": 600.0
+              },
+              {
+                "w": "marshy",
+                "t": 4790.0,
+                "d": 400.0
+              },
+              {
+                "w": "frontier",
+                "t": 5190.0,
+                "d": 440.0
+              },
+              {
+                "w": "to",
+                "t": 5630.0,
+                "d": 200.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 5830.0,
+                "d": 440.0
+              },
+              {
+                "w": "will",
+                "t": 6270.0,
+                "d": 360.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_island_fort_of_ekdala/img/p14.png",
+      "shot": "medium shot of emissaries in simple boats moving between Delhi camp and Ekdala, flags lowered",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Neither chronicle describes a dramatic last assault. Instead, they recall parley. Envoys crossed water, words travelled faster than siege engines, and bargaining replaced the push of ladders.",
+            "hi": "कोई भी लिखत आख़िरी धमाकेदार हमले का ज़िक्र नहीं करती। वे सुलह से याद करती हैं: दूत पानी पार करते हैं, शब्द सीढ़ियों से तेज चलते हैं, और bargaining सीढ़ी धकेलने की जगह ले लेती है।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p14_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Neither",
+                "t": 110.0,
+                "d": 480.0
+              },
+              {
+                "w": "chronicle",
+                "t": 590.0,
+                "d": 480.0
+              },
+              {
+                "w": "describes",
+                "t": 1070.0,
+                "d": 600.0
+              },
+              {
+                "w": "a",
+                "t": 1670.0,
+                "d": 160.0
+              },
+              {
+                "w": "dramatic",
+                "t": 1830.0,
+                "d": 559.0
+              },
+              {
+                "w": "last",
+                "t": 2389.0,
+                "d": 321.0
+              },
+              {
+                "w": "assault",
+                "t": 2710.0,
+                "d": 679.0
+              },
+              {
+                "w": "Instead",
+                "t": 3670.0,
+                "d": 800.0
+              },
+              {
+                "w": "they",
+                "t": 4510.0,
+                "d": 280.0
+              },
+              {
+                "w": "recall",
+                "t": 4790.0,
+                "d": 360.0
+              },
+              {
+                "w": "parley",
+                "t": 5150.0,
+                "d": 800.0
+              },
+              {
+                "w": "Envoys",
+                "t": 6470.0,
+                "d": 440.0
+              },
+              {
+                "w": "crossed",
+                "t": 6910.0,
+                "d": 360.0
+              },
+              {
+                "w": "water",
+                "t": 7270.0,
+                "d": 720.0
+              },
+              {
+                "w": "words",
+                "t": 8149.0,
+                "d": 521.0
+              },
+              {
+                "w": "travelled",
+                "t": 8670.0,
+                "d": 440.0
+              },
+              {
+                "w": "faster",
+                "t": 9110.0,
+                "d": 400.0
+              },
+              {
+                "w": "than",
+                "t": 9510.0,
+                "d": 199.0
+              },
+              {
+                "w": "siege",
+                "t": 9709.0,
+                "d": 321.0
+              },
+              {
+                "w": "engines",
+                "t": 10030.0,
+                "d": 840.0
+              },
+              {
+                "w": "and",
+                "t": 11069.0,
+                "d": 281.0
+              },
+              {
+                "w": "bargaining",
+                "t": 11350.0,
+                "d": 560.0
+              },
+              {
+                "w": "replaced",
+                "t": 11910.0,
+                "d": 479.0
+              },
+              {
+                "w": "the",
+                "t": 12389.0,
+                "d": 121.0
+              },
+              {
+                "w": "push",
+                "t": 12510.0,
+                "d": 280.0
+              },
+              {
+                "w": "of",
+                "t": 12790.0,
+                "d": 120.0
+              },
+              {
+                "w": "ladders",
+                "t": 12910.0,
+                "d": 799.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_island_fort_of_ekdala/img/p15.png",
+      "shot": "intimate indoor shot: Firuz Shah and Sikandar Shah seated facing each other, attendants at a respectful distance",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Later tradition, in Firishta's telling, remembers a settlement sealed with costly gifts, a crown among them. Not sentiment, but message: Delhi recognized Bengal's ruler to secure peace.",
+            "hi": "फ़िरिश्ता की रिवायत बाद की याद में एक समझौता दिखाती है, जो महँगे तोहफ़ों से पक्का हुआ—एक ताज भी उनमें। यह न एहसान था न मोहब्बत, बल्कि पैग़ाम: शांति के लिए दिल्ली ने बंगाल के मालिक को मान लिया।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p15_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Later",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "tradition",
+                "t": 542.0,
+                "d": 936.0
+              },
+              {
+                "w": "in",
+                "t": 1521.0,
+                "d": 212.0
+              },
+              {
+                "w": "Firishta's",
+                "t": 1734.0,
+                "d": 638.0
+              },
+              {
+                "w": "telling",
+                "t": 2372.0,
+                "d": 679.0
+              },
+              {
+                "w": "remembers",
+                "t": 3094.0,
+                "d": 553.0
+              },
+              {
+                "w": "a",
+                "t": 3647.0,
+                "d": 86.0
+              },
+              {
+                "w": "settlement",
+                "t": 3734.0,
+                "d": 553.0
+              },
+              {
+                "w": "sealed",
+                "t": 4287.0,
+                "d": 425.0
+              },
+              {
+                "w": "with",
+                "t": 4712.0,
+                "d": 212.0
+              },
+              {
+                "w": "costly",
+                "t": 4925.0,
+                "d": 468.0
+              },
+              {
+                "w": "gifts",
+                "t": 5393.0,
+                "d": 723.0
+              },
+              {
+                "w": "a",
+                "t": 6159.0,
+                "d": 212.0
+              },
+              {
+                "w": "crown",
+                "t": 6372.0,
+                "d": 340.0
+              },
+              {
+                "w": "among",
+                "t": 6712.0,
+                "d": 297.0
+              },
+              {
+                "w": "them",
+                "t": 7010.0,
+                "d": 1191.0
+              },
+              {
+                "w": "Not",
+                "t": 8202.0,
+                "d": 381.0
+              },
+              {
+                "w": "sentiment",
+                "t": 8584.0,
+                "d": 767.0
+              },
+              {
+                "w": "but",
+                "t": 9521.0,
+                "d": 211.0
+              },
+              {
+                "w": "message",
+                "t": 9732.0,
+                "d": 767.0
+              },
+              {
+                "w": "Delhi",
+                "t": 11307.0,
+                "d": 341.0
+              },
+              {
+                "w": "recognized",
+                "t": 11648.0,
+                "d": 637.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 12286.0,
+                "d": 553.0
+              },
+              {
+                "w": "ruler",
+                "t": 12839.0,
+                "d": 340.0
+              },
+              {
+                "w": "to",
+                "t": 13179.0,
+                "d": 128.0
+              },
+              {
+                "w": "secure",
+                "t": 13308.0,
+                "d": 510.0
+              },
+              {
+                "w": "peace",
+                "t": 13819.0,
+                "d": 638.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_island_fort_of_ekdala/img/p16.png",
+      "shot": "close-up of a jeweled crown being presented, hands offering and receiving, background neutral",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The crown did not make Bengal an equal partner in Delhi's eyes; it marked a pragmatic recognition. Conquest in the delta was too costly. A stable frontier suited both thrones.",
+            "hi": "ताज ने दिल्ली की नज़र में बंगाल को बराबर साझेदार नहीं बनाया; उसने व्यावहारिक मान्यता की मुहर लगाई। डेल्टा में फतह बहुत महँगी थी। टिकाऊ सरहद दोनों तख़्तों को सूट करती थी।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p16_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "crown",
+                "t": 244.0,
+                "d": 297.0
+              },
+              {
+                "w": "did",
+                "t": 542.0,
+                "d": 170.0
+              },
+              {
+                "w": "not",
+                "t": 712.0,
+                "d": 255.0
+              },
+              {
+                "w": "make",
+                "t": 968.0,
+                "d": 212.0
+              },
+              {
+                "w": "Bengal",
+                "t": 1180.0,
+                "d": 425.0
+              },
+              {
+                "w": "an",
+                "t": 1606.0,
+                "d": 170.0
+              },
+              {
+                "w": "equal",
+                "t": 1776.0,
+                "d": 425.0
+              },
+              {
+                "w": "partner",
+                "t": 2202.0,
+                "d": 424.0
+              },
+              {
+                "w": "in",
+                "t": 2626.0,
+                "d": 128.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 2755.0,
+                "d": 723.0
+              },
+              {
+                "w": "eyes",
+                "t": 3478.0,
+                "d": 340.0
+              },
+              {
+                "w": "it",
+                "t": 3946.0,
+                "d": 296.0
+              },
+              {
+                "w": "marked",
+                "t": 4243.0,
+                "d": 298.0
+              },
+              {
+                "w": "a",
+                "t": 4542.0,
+                "d": 127.0
+              },
+              {
+                "w": "pragmatic",
+                "t": 4670.0,
+                "d": 638.0
+              },
+              {
+                "w": "recognition",
+                "t": 5308.0,
+                "d": 1531.0
+              },
+              {
+                "w": "Conquest",
+                "t": 7010.0,
+                "d": 595.0
+              },
+              {
+                "w": "in",
+                "t": 7606.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 7691.0,
+                "d": 127.0
+              },
+              {
+                "w": "delta",
+                "t": 7819.0,
+                "d": 340.0
+              },
+              {
+                "w": "was",
+                "t": 8159.0,
+                "d": 297.0
+              },
+              {
+                "w": "too",
+                "t": 8457.0,
+                "d": 211.0
+              },
+              {
+                "w": "costly",
+                "t": 8669.0,
+                "d": 852.0
+              },
+              {
+                "w": "A",
+                "t": 9647.0,
+                "d": 170.0
+              },
+              {
+                "w": "stable",
+                "t": 9818.0,
+                "d": 384.0
+              },
+              {
+                "w": "frontier",
+                "t": 10202.0,
+                "d": 468.0
+              },
+              {
+                "w": "suited",
+                "t": 10670.0,
+                "d": 467.0
+              },
+              {
+                "w": "both",
+                "t": 11137.0,
+                "d": 213.0
+              },
+              {
+                "w": "thrones",
+                "t": 11351.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_island_fort_of_ekdala/split_auto/s0.png",
+          "slogan": {
+            "en": "By marsh and mind, we stand",
+            "hi": "दलदल और बुद्धि से, हम अडिग"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_island_fort_of_ekdala/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_island_fort_of_ekdala/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Steel and swamp yield to treaty; Ekdala's drenched defiance becomes Bengal's crowned independence.",
+            "hi": "इस्पात और दलदल झुकते हैं समझौते पर; भीगी ऐकडाला अब बनती है बंगाल की ताजपोश आज़ादी।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Steel",
+                "t": 72.0,
+                "d": 458.0
+              },
+              {
+                "w": "and",
+                "t": 531.0,
+                "d": 166.0
+              },
+              {
+                "w": "swamp",
+                "t": 697.0,
+                "d": 458.0
+              },
+              {
+                "w": "yield",
+                "t": 1156.0,
+                "d": 416.0
+              },
+              {
+                "w": "to",
+                "t": 1572.0,
+                "d": 125.0
+              },
+              {
+                "w": "treaty",
+                "t": 1697.0,
+                "d": 958.0
+              },
+              {
+                "w": "Ekdala's",
+                "t": 2905.0,
+                "d": 666.0
+              },
+              {
+                "w": "drenched",
+                "t": 3571.0,
+                "d": 458.0
+              },
+              {
+                "w": "defiance",
+                "t": 4030.0,
+                "d": 792.0
+              },
+              {
+                "w": "becomes",
+                "t": 4989.0,
+                "d": 500.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 5489.0,
+                "d": 625.0
+              },
+              {
+                "w": "crowned",
+                "t": 6114.0,
+                "d": 416.0
+              },
+              {
+                "w": "independence",
+                "t": 6531.0,
+                "d": 916.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_island_fort_of_ekdala/img/p17.png",
+      "shot": "wide shot of Ekdala and surrounding villages in peace, boats, farmers, fort in the background",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "After the second Ekdala war, Bengal's autonomy hardened into a fact on the ground. Delhi's banners no longer tried to root themselves in these jheels and embankments.",
+            "hi": "दूसरी एकदला जंग के बाद बंगाल की अपने-आप की हुकूमत ज़मीनी सच बन गई। दिल्ली के झंडे अब इन झीलों और तटबंधों में जड़ें जमाने की कोशिश नहीं करते थे।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p17_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "After",
+                "t": 70.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 390.0,
+                "d": 120.0
+              },
+              {
+                "w": "second",
+                "t": 510.0,
+                "d": 440.0
+              },
+              {
+                "w": "Ekdala",
+                "t": 990.0,
+                "d": 440.0
+              },
+              {
+                "w": "war",
+                "t": 1430.0,
+                "d": 640.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 2150.0,
+                "d": 520.0
+              },
+              {
+                "w": "autonomy",
+                "t": 2670.0,
+                "d": 639.0
+              },
+              {
+                "w": "hardened",
+                "t": 3309.0,
+                "d": 480.0
+              },
+              {
+                "w": "into",
+                "t": 3789.0,
+                "d": 321.0
+              },
+              {
+                "w": "a",
+                "t": 4110.0,
+                "d": 40.0
+              },
+              {
+                "w": "fact",
+                "t": 4150.0,
+                "d": 360.0
+              },
+              {
+                "w": "on",
+                "t": 4510.0,
+                "d": 120.0
+              },
+              {
+                "w": "the",
+                "t": 4630.0,
+                "d": 120.0
+              },
+              {
+                "w": "ground",
+                "t": 4750.0,
+                "d": 480.0
+              },
+              {
+                "w": "Delhi's",
+                "t": 5790.0,
+                "d": 360.0
+              },
+              {
+                "w": "banners",
+                "t": 6150.0,
+                "d": 440.0
+              },
+              {
+                "w": "no",
+                "t": 6590.0,
+                "d": 200.0
+              },
+              {
+                "w": "longer",
+                "t": 6790.0,
+                "d": 320.0
+              },
+              {
+                "w": "tried",
+                "t": 7110.0,
+                "d": 280.0
+              },
+              {
+                "w": "to",
+                "t": 7390.0,
+                "d": 120.0
+              },
+              {
+                "w": "root",
+                "t": 7510.0,
+                "d": 240.0
+              },
+              {
+                "w": "themselves",
+                "t": 7750.0,
+                "d": 559.0
+              },
+              {
+                "w": "in",
+                "t": 8309.0,
+                "d": 121.0
+              },
+              {
+                "w": "these",
+                "t": 8430.0,
+                "d": 320.0
+              },
+              {
+                "w": "jheels",
+                "t": 8750.0,
+                "d": 600.0
+              },
+              {
+                "w": "and",
+                "t": 9430.0,
+                "d": 279.0
+              },
+              {
+                "w": "embankments",
+                "t": 9709.0,
+                "d": 840.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/the_island_fort_of_ekdala/img/p18.png",
+      "shot": "bird’s-eye over the entire Bengal delta, rivers branching toward the sea, Ekdala a small mark within it",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Ekdala reminds us that power is never only about armies. When a land is defended on its own terms, by river, marsh and season, it can turn a small island into a lasting line of sovereignty.",
+            "hi": "एकदला याद दिलाता है कि ताकत सिर्फ़ फौजों से नहीं बनती। जब ज़मीन अपनी शर्तों पर—नदी, दलदल और मौसम के सहारे—बचाव करे, तो एक छोटा टापू भी हक़-ए-हकूमत की लकीर बन सकता है।"
+          },
+          "audio": {
+            "en": "assets/the_island_fort_of_ekdala/audio/en/p18_0.mp3",
+            "hi": "assets/the_island_fort_of_ekdala/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Ekdala",
+                "t": 74.0,
+                "d": 468.0
+              },
+              {
+                "w": "reminds",
+                "t": 542.0,
+                "d": 510.0
+              },
+              {
+                "w": "us",
+                "t": 1053.0,
+                "d": 212.0
+              },
+              {
+                "w": "that",
+                "t": 1265.0,
+                "d": 255.0
+              },
+              {
+                "w": "power",
+                "t": 1521.0,
+                "d": 510.0
+              },
+              {
+                "w": "is",
+                "t": 2031.0,
+                "d": 212.0
+              },
+              {
+                "w": "never",
+                "t": 2244.0,
+                "d": 425.0
+              },
+              {
+                "w": "only",
+                "t": 2670.0,
+                "d": 381.0
+              },
+              {
+                "w": "about",
+                "t": 3052.0,
+                "d": 384.0
+              },
+              {
+                "w": "armies",
+                "t": 3436.0,
+                "d": 637.0
+              },
+              {
+                "w": "When",
+                "t": 4542.0,
+                "d": 255.0
+              },
+              {
+                "w": "a",
+                "t": 4797.0,
+                "d": 85.0
+              },
+              {
+                "w": "land",
+                "t": 4882.0,
+                "d": 297.0
+              },
+              {
+                "w": "is",
+                "t": 5180.0,
+                "d": 127.0
+              },
+              {
+                "w": "defended",
+                "t": 5308.0,
+                "d": 595.0
+              },
+              {
+                "w": "on",
+                "t": 5904.0,
+                "d": 212.0
+              },
+              {
+                "w": "its",
+                "t": 6117.0,
+                "d": 170.0
+              },
+              {
+                "w": "own",
+                "t": 6287.0,
+                "d": 297.0
+              },
+              {
+                "w": "terms",
+                "t": 6585.0,
+                "d": 680.0
+              },
+              {
+                "w": "by",
+                "t": 7478.0,
+                "d": 297.0
+              },
+              {
+                "w": "river",
+                "t": 7776.0,
+                "d": 723.0
+              },
+              {
+                "w": "marsh",
+                "t": 8669.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 9179.0,
+                "d": 256.0
+              },
+              {
+                "w": "season",
+                "t": 9436.0,
+                "d": 680.0
+              },
+              {
+                "w": "it",
+                "t": 10243.0,
+                "d": 298.0
+              },
+              {
+                "w": "can",
+                "t": 10542.0,
+                "d": 212.0
+              },
+              {
+                "w": "turn",
+                "t": 10755.0,
+                "d": 296.0
+              },
+              {
+                "w": "a",
+                "t": 11052.0,
+                "d": 85.0
+              },
+              {
+                "w": "small",
+                "t": 11137.0,
+                "d": 511.0
+              },
+              {
+                "w": "island",
+                "t": 11648.0,
+                "d": 595.0
+              },
+              {
+                "w": "into",
+                "t": 12329.0,
+                "d": 340.0
+              },
+              {
+                "w": "a",
+                "t": 12670.0,
+                "d": 42.0
+              },
+              {
+                "w": "lasting",
+                "t": 12712.0,
+                "d": 510.0
+              },
+              {
+                "w": "line",
+                "t": 13223.0,
+                "d": 255.0
+              },
+              {
+                "w": "of",
+                "t": 13478.0,
+                "d": 85.0
+              },
+              {
+                "w": "sovereignty",
+                "t": 13563.0,
+                "d": 850.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Sikandar Shah of Bengal",
+    "epithets": [
+      "Sultan of Delhi",
+      "Builder of Forts and Canals",
+      "Sultan of Bengal",
+      "Lord of Ekdala"
+    ],
+    "legend": "Mud walls and marsh water break the road from Delhi."
+  }
+}
