@@ -1534,6 +1534,31 @@ The Rajasthan house that rose from Pratihara feudatories at the Sambhar salt lak
 12. **How the Prithviraj Raso Grew** ✅ — the *Prithviraj Raso* traced from its earliest manuscript (c. 1610) through accreted romance; the *Raso* revenge-tale debunked (Ghori died 1206) and "last Hindu emperor" named a **modern print-era construction**. *(historiography; exemplary honesty)*
 13. **Jayanaka and the Sources We Trust** ✅ — Jayanaka's *Prithviraja-Vijaya* (c. 1191) set against the Persian *Taj-ul-Maasir* — the same envoy villain in one tongue, courtly in another — and the whole evidence-base ranked by Cynthia Talbot's method; "honesty begins where the evidence runs out." *(historiography; the mandate at its purest)*
 
+## 🏵️ The Later Chalukyas of Kalyani and the Mitakshara  *(Early medieval — c. 973–1189 CE, Kalyani/Basavakalyan & the Karnataka Deccan)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The revived Chalukya house that overthrew the Rashtrakutas and ruled the Deccan from Kalyani for two centuries — and shaped India far more by **books and stone than by conquest**: Vijnaneshwara's *Mitakshara*, the most-cited Hindu inheritance-law commentary in the subcontinent's history; the soapstone temple revolution that fed the Hoysala style; Someshvara III's *Manasollasa* encyclopedia; the mercantile world of Lakkundi; and women who governed by inscription — reconstructed from Chalukya, Kalachuri and successor stones with the project's source-critical spine, the contested Battle of Koppam read stone-against-stone and the Basava/Lingayat tradition held fact-before-legend.
+
+**Founding & the capital**
+1. **Tailapa Breaks the Rashtrakuta Crown** ✅ — Tailapa II overthrows the Rashtrakutas (973 CE) and revives the Chalukya line; dynastic restoration told from inscriptions, not dynastic myth. *(rise)*
+2. **Someshvara Raises Kalyani** ✅ — Someshvara I founds the new capital Kalyani (modern Basavakalyan) as the imperial centre of the Deccan. *(foundation)*
+
+**The imperial century — Vikramaditya VI & the court of letters**
+3. **Vikramaditya Starts a New Era** ✅ — Vikramaditya VI's long reign and his own **Chalukya-Vikrama calendar era** replacing the Saka reckoning; regnal self-fashioning read critically. *(rule)*
+4. **Bilhana Crosses India for a King** ✅ — the Kashmiri poet Bilhana and his *Vikramankadevacharita*, weighed **as court praise-poetry, not chronicle**. *(literature; source-criticism)*
+5. **Vijnaneshwara Writes the Mitakshara** ✅ — the jurist composes the ***Mitakshara*** at Vikramaditya VI's court — the commentary on the *Yajnavalkya Smriti* that became the most influential Hindu inheritance-law text, cited in Indian courts to this day. *(innovation — law)*
+6. **Koppam and the War for Vengi** ✅ — the **Battle of Koppam (~1054)** against the Cholas: Rajadhiraja Chola killed on his elephant, both sides claiming victory in their own stones, read stone-against-stone (Nilakanta Sastri vs B.R. Gopal). *(battle; source-criticism)*
+
+**The age of innovation — stone, knowledge, trade & the women of the court**
+7. **Annigeri Teaches Stone to Bloom** ✅ — the turn to **soapstone (chloritic schist)** at Annigeri's Amrtesvara temple (~1050), the material revolution behind fine Deccan carving and the later Hoysala style; credited to artisans, not just the king. *(innovation — architecture/materials)*
+8. **Itagi Becomes the Emperor of Temples** ✅ — the commander Mahadeva's **Itagi Mahadeva temple (~1112)**, whose inscription calls it "emperor among temples"; mature Vesara architecture, the anonymous architect left un-invented. *(innovation — architecture)*
+9. **Lakkundi Counts Guilds, Wells and Coins** ✅ — the inscription-rich trade town — *mahajana* assembly, guilds, stepwells, a royal mint, Shaiva & Jain patronage — with the honest corrective that these guilds were **not free republics** but worked inside royal and temple hierarchies. *(innovation — economy/society)*
+10. **Someshvara III Opens the Manasollasa** ✅ — the scholar-king and his 1129 CE ***Manasollasa*** (Abhilasitartha-Chintamani) encyclopedia — statecraft, medicine, cuisine, music, games — read as an **idealized court's prescription**, not a mirror of daily life. *(innovation — knowledge)*
+11. **Queens Govern Siruguppa and Naregal** ✅ — the inscriptional women administrators **Kethala Devi and Savala Devi** under Vikramaditya VI; their real administrative agency recovered **without inflating a handful of elite women into a picture of full equality** (B.R. Gopal, Cynthia Talbot). *(social/gender history; the mandate)*
+
+**The unravelling**
+12. **Bijjala Takes Kalyani** ✅ — the Kalachuri feudatory **Bijjala II** seizes Kalyani (~1157); the **Basava/Lingayat (Virashaiva) *vachana* movement** presented factually, and the later "villain-toppled-by-a-saint" tale flagged as **hagiography, not chronicle**. *(usurpation; source-criticism, religiously sensitive)*
+13. **Vassals Become Kingdoms** ✅ — the dissolution of Kalyani into its successors — **Hoysalas (Dwarasamudra), Seuna-Yadavas (Devagiri), Kakatiyas (Warangal)** — read as the making of regional states, a long uneven shift, not one battle (Sastri, Gopal, Chattopadhyaya). *(fragmentation; hard truth)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
