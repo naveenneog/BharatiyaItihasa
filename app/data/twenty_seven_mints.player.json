@@ -1,0 +1,3962 @@
+{
+  "id": "twenty_seven_mints",
+  "title": "Twenty Seven Mints",
+  "title_i18n": {
+    "en": "Twenty Seven Mints",
+    "hi": "सत्ताईस टकसाल"
+  },
+  "figure": "The Sultans of Bengal",
+  "era": "The silver taka economy, c. 1338-1538 CE",
+  "moral": "A state becomes real when its money is trusted.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/twenty_seven_mints/intro/hero.png",
+      "name": "Bengal Sultanate Tanka Master",
+      "epithets": [
+        "Sultans of Bengal",
+        "Lords of the Delta",
+        "Builders of the Silver Taka",
+        "Rulers of Pandua and Gaur"
+      ],
+      "legend": "They stamped Bengal’s silver so every trade carried their name.",
+      "era": "The silver taka economy, c. 1338-1538 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From river ports to far frontier bazaars, Bengal's sultans forge silver that binds a wild delta together. But if trust in their coins breaks, the whole kingdom can crack overnight.",
+            "hi": "नदी किनारे बंदरगाहों से दूर सरहद के बाज़ारों तक, बंगाल के सुल्तान चाँदी गढ़ते हैं जो इस जंगली डेल्टा को जोड़ती है। पर अगर सिक्कों पर भरोसा टूटे, तो पूरा सल्तनत रातों-रात बिखर सकता है।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/intro/hero_en.mp3",
+            "hi": "assets/twenty_seven_mints/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 291.0
+              },
+              {
+                "w": "river",
+                "t": 364.0,
+                "d": 291.0
+              },
+              {
+                "w": "ports",
+                "t": 656.0,
+                "d": 375.0
+              },
+              {
+                "w": "to",
+                "t": 1031.0,
+                "d": 166.0
+              },
+              {
+                "w": "far",
+                "t": 1197.0,
+                "d": 375.0
+              },
+              {
+                "w": "frontier",
+                "t": 1572.0,
+                "d": 416.0
+              },
+              {
+                "w": "bazaars",
+                "t": 1989.0,
+                "d": 708.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 2864.0,
+                "d": 623.0
+              },
+              {
+                "w": "sultans",
+                "t": 3488.0,
+                "d": 583.0
+              },
+              {
+                "w": "forge",
+                "t": 4071.0,
+                "d": 334.0
+              },
+              {
+                "w": "silver",
+                "t": 4406.0,
+                "d": 666.0
+              },
+              {
+                "w": "that",
+                "t": 5114.0,
+                "d": 291.0
+              },
+              {
+                "w": "binds",
+                "t": 5406.0,
+                "d": 333.0
+              },
+              {
+                "w": "a",
+                "t": 5739.0,
+                "d": 125.0
+              },
+              {
+                "w": "wild",
+                "t": 5864.0,
+                "d": 375.0
+              },
+              {
+                "w": "delta",
+                "t": 6239.0,
+                "d": 291.0
+              },
+              {
+                "w": "together",
+                "t": 6531.0,
+                "d": 833.0
+              },
+              {
+                "w": "But",
+                "t": 7864.0,
+                "d": 208.0
+              },
+              {
+                "w": "if",
+                "t": 8072.0,
+                "d": 125.0
+              },
+              {
+                "w": "trust",
+                "t": 8197.0,
+                "d": 332.0
+              },
+              {
+                "w": "in",
+                "t": 8530.0,
+                "d": 125.0
+              },
+              {
+                "w": "their",
+                "t": 8655.0,
+                "d": 209.0
+              },
+              {
+                "w": "coins",
+                "t": 8864.0,
+                "d": 333.0
+              },
+              {
+                "w": "breaks",
+                "t": 9197.0,
+                "d": 625.0
+              },
+              {
+                "w": "the",
+                "t": 9989.0,
+                "d": 250.0
+              },
+              {
+                "w": "whole",
+                "t": 10239.0,
+                "d": 291.0
+              },
+              {
+                "w": "kingdom",
+                "t": 10531.0,
+                "d": 583.0
+              },
+              {
+                "w": "can",
+                "t": 11155.0,
+                "d": 292.0
+              },
+              {
+                "w": "crack",
+                "t": 11447.0,
+                "d": 375.0
+              },
+              {
+                "w": "overnight",
+                "t": 11822.0,
+                "d": 708.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/twenty_seven_mints/intro/map.png",
+      "x": 0.83,
+      "y": 0.44,
+      "label": "Pandua, Gaur & coastal Bengal delta",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here the rivers split and spread, and every busy market weighs silver that ties far villages to the sultan's court.",
+            "hi": "यहीं नदियाँ बँट कर फैलती हैं, और हर चहल-पहल वाला बाज़ार वही चाँदी तोलता है जो दूर के गाँवों को सुल्तान की दरबार से जोड़ती है।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/intro/map_en.mp3",
+            "hi": "assets/twenty_seven_mints/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 448.0,
+                "d": 137.0
+              },
+              {
+                "w": "rivers",
+                "t": 586.0,
+                "d": 459.0
+              },
+              {
+                "w": "split",
+                "t": 1045.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 1597.0,
+                "d": 275.0
+              },
+              {
+                "w": "spread",
+                "t": 1873.0,
+                "d": 826.0
+              },
+              {
+                "w": "and",
+                "t": 3114.0,
+                "d": 367.0
+              },
+              {
+                "w": "every",
+                "t": 3482.0,
+                "d": 504.0
+              },
+              {
+                "w": "busy",
+                "t": 3987.0,
+                "d": 367.0
+              },
+              {
+                "w": "market",
+                "t": 4355.0,
+                "d": 414.0
+              },
+              {
+                "w": "weighs",
+                "t": 4770.0,
+                "d": 321.0
+              },
+              {
+                "w": "silver",
+                "t": 5091.0,
+                "d": 781.0
+              },
+              {
+                "w": "that",
+                "t": 5873.0,
+                "d": 321.0
+              },
+              {
+                "w": "ties",
+                "t": 6195.0,
+                "d": 413.0
+              },
+              {
+                "w": "far",
+                "t": 6609.0,
+                "d": 367.0
+              },
+              {
+                "w": "villages",
+                "t": 6977.0,
+                "d": 551.0
+              },
+              {
+                "w": "to",
+                "t": 7528.0,
+                "d": 137.0
+              },
+              {
+                "w": "the",
+                "t": 7666.0,
+                "d": 137.0
+              },
+              {
+                "w": "sultan's",
+                "t": 7804.0,
+                "d": 643.0
+              },
+              {
+                "w": "court",
+                "t": 8448.0,
+                "d": 551.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/twenty_seven_mints/img/cover.png",
+      "shot": "dramatic low-angle close-up of a silver tanka held between finger and thumb against the hazy outline of Bengal’s rivers and ports",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Pandua to Chittagong, twenty-seven-plus mints struck silver tankas, each coin a tiny decree: the Sultans of Bengal exist, and their name must pass through every hand.",
+            "hi": "पांडुआ से चिटगाँव तक, सत्ताईस से ज़्यादा टकसालों ने चाँदी के टंका ढाले—हर सिक्का एक छोटा हुक्म: बंगाल के सुल्तान हैं, और उनका नाम हर हाथ से गुज़रेगा।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/cover_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "Pandua",
+                "t": 457.0,
+                "d": 510.0
+              },
+              {
+                "w": "to",
+                "t": 968.0,
+                "d": 170.0
+              },
+              {
+                "w": "Chittagong",
+                "t": 1138.0,
+                "d": 1234.0
+              },
+              {
+                "w": "twenty-seven-plus",
+                "t": 2498.0,
+                "d": 1106.0
+              },
+              {
+                "w": "mints",
+                "t": 3605.0,
+                "d": 468.0
+              },
+              {
+                "w": "struck",
+                "t": 4115.0,
+                "d": 469.0
+              },
+              {
+                "w": "silver",
+                "t": 4585.0,
+                "d": 425.0
+              },
+              {
+                "w": "tankas",
+                "t": 5010.0,
+                "d": 893.0
+              },
+              {
+                "w": "each",
+                "t": 6287.0,
+                "d": 382.0
+              },
+              {
+                "w": "coin",
+                "t": 6670.0,
+                "d": 553.0
+              },
+              {
+                "w": "a",
+                "t": 7265.0,
+                "d": 255.0
+              },
+              {
+                "w": "tiny",
+                "t": 7521.0,
+                "d": 340.0
+              },
+              {
+                "w": "decree",
+                "t": 7861.0,
+                "d": 553.0
+              },
+              {
+                "w": "the",
+                "t": 9563.0,
+                "d": 212.0
+              },
+              {
+                "w": "Sultans",
+                "t": 9776.0,
+                "d": 552.0
+              },
+              {
+                "w": "of",
+                "t": 10328.0,
+                "d": 128.0
+              },
+              {
+                "w": "Bengal",
+                "t": 10457.0,
+                "d": 424.0
+              },
+              {
+                "w": "exist",
+                "t": 10881.0,
+                "d": 852.0
+              },
+              {
+                "w": "and",
+                "t": 11989.0,
+                "d": 255.0
+              },
+              {
+                "w": "their",
+                "t": 12244.0,
+                "d": 211.0
+              },
+              {
+                "w": "name",
+                "t": 12456.0,
+                "d": 468.0
+              },
+              {
+                "w": "must",
+                "t": 12968.0,
+                "d": 467.0
+              },
+              {
+                "w": "pass",
+                "t": 13435.0,
+                "d": 298.0
+              },
+              {
+                "w": "through",
+                "t": 13734.0,
+                "d": 339.0
+              },
+              {
+                "w": "every",
+                "t": 14073.0,
+                "d": 384.0
+              },
+              {
+                "w": "hand",
+                "t": 14457.0,
+                "d": 594.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/twenty_seven_mints/img/p01.png",
+      "shot": "slow push-in on a tabletop scattered with silver tankas from different mints, each partially visible with varying inscriptions",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The chronicles speak of kings and battles. The coins of Bengal speak of something else: cities, ports, titles and years punched into silver from at least twenty-seven mints.",
+            "hi": "इतिहास में बादशाहों और जंगों की बातें हैं। बंगाल के सिक्के और कुछ कहते हैं: शहर, बंदरगाह, किताबें और साल, कम से कम सत्ताईस टकसालों से चाँदी पर ठोंके गए।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p01_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "chronicles",
+                "t": 270.0,
+                "d": 480.0
+              },
+              {
+                "w": "speak",
+                "t": 750.0,
+                "d": 360.0
+              },
+              {
+                "w": "of",
+                "t": 1110.0,
+                "d": 200.0
+              },
+              {
+                "w": "kings",
+                "t": 1310.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 1670.0,
+                "d": 160.0
+              },
+              {
+                "w": "battles",
+                "t": 1830.0,
+                "d": 680.0
+              },
+              {
+                "w": "The",
+                "t": 2869.0,
+                "d": 161.0
+              },
+              {
+                "w": "coins",
+                "t": 3030.0,
+                "d": 359.0
+              },
+              {
+                "w": "of",
+                "t": 3389.0,
+                "d": 161.0
+              },
+              {
+                "w": "Bengal",
+                "t": 3550.0,
+                "d": 439.0
+              },
+              {
+                "w": "speak",
+                "t": 3989.0,
+                "d": 441.0
+              },
+              {
+                "w": "of",
+                "t": 4430.0,
+                "d": 120.0
+              },
+              {
+                "w": "something",
+                "t": 4550.0,
+                "d": 480.0
+              },
+              {
+                "w": "else",
+                "t": 5030.0,
+                "d": 160.0
+              },
+              {
+                "w": "cities",
+                "t": 5190.0,
+                "d": 360.0
+              },
+              {
+                "w": "ports",
+                "t": 5790.0,
+                "d": 280.0
+              },
+              {
+                "w": "titles",
+                "t": 6070.0,
+                "d": 2720.0
+              },
+              {
+                "w": "and",
+                "t": 8990.0,
+                "d": 319.0
+              },
+              {
+                "w": "years",
+                "t": 9309.0,
+                "d": 400.0
+              },
+              {
+                "w": "punched",
+                "t": 9709.0,
+                "d": 321.0
+              },
+              {
+                "w": "into",
+                "t": 10030.0,
+                "d": 240.0
+              },
+              {
+                "w": "silver",
+                "t": 10270.0,
+                "d": 400.0
+              },
+              {
+                "w": "from",
+                "t": 10670.0,
+                "d": 360.0
+              },
+              {
+                "w": "at",
+                "t": 11030.0,
+                "d": 160.0
+              },
+              {
+                "w": "least",
+                "t": 11190.0,
+                "d": 279.0
+              },
+              {
+                "w": "twenty-seven",
+                "t": 11469.0,
+                "d": 641.0
+              },
+              {
+                "w": "mints",
+                "t": 12110.0,
+                "d": 599.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/twenty_seven_mints/img/p02.png",
+      "shot": "wide aerial view of the Bengal delta, braided rivers glinting, dots of towns and ports along the waterways",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, in the flooded world of the Ganga-Brahmaputra delta, power could not cling to one hilltop. It had to float, to travel, to reach every river bend where merchants counted their gains.",
+            "hi": "गंगा-ब्रह्मपुत्र डेल्टा की डूबती दुनिया में ताकत एक टीले पर नहीं टिकती। उसे तैरना होता है, चलना होता है, हर मोड़ तक पहुँचना होता है जहाँ सौदागर हिसाब गिनते हैं।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p02_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "in",
+                "t": 882.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 1053.0,
+                "d": 127.0
+              },
+              {
+                "w": "flooded",
+                "t": 1180.0,
+                "d": 425.0
+              },
+              {
+                "w": "world",
+                "t": 1606.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 1946.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 2074.0,
+                "d": 127.0
+              },
+              {
+                "w": "Ganga-Brahmaputra",
+                "t": 2202.0,
+                "d": 1106.0
+              },
+              {
+                "w": "delta",
+                "t": 3308.0,
+                "d": 680.0
+              },
+              {
+                "w": "power",
+                "t": 4372.0,
+                "d": 297.0
+              },
+              {
+                "w": "could",
+                "t": 4670.0,
+                "d": 212.0
+              },
+              {
+                "w": "not",
+                "t": 4882.0,
+                "d": 297.0
+              },
+              {
+                "w": "cling",
+                "t": 5180.0,
+                "d": 212.0
+              },
+              {
+                "w": "to",
+                "t": 5393.0,
+                "d": 127.0
+              },
+              {
+                "w": "one",
+                "t": 5521.0,
+                "d": 255.0
+              },
+              {
+                "w": "hilltop",
+                "t": 5776.0,
+                "d": 1148.0
+              },
+              {
+                "w": "It",
+                "t": 7010.0,
+                "d": 170.0
+              },
+              {
+                "w": "had",
+                "t": 7180.0,
+                "d": 170.0
+              },
+              {
+                "w": "to",
+                "t": 7351.0,
+                "d": 127.0
+              },
+              {
+                "w": "float",
+                "t": 7478.0,
+                "d": 553.0
+              },
+              {
+                "w": "to",
+                "t": 8159.0,
+                "d": 212.0
+              },
+              {
+                "w": "travel",
+                "t": 8372.0,
+                "d": 722.0
+              },
+              {
+                "w": "to",
+                "t": 9308.0,
+                "d": 170.0
+              },
+              {
+                "w": "reach",
+                "t": 9478.0,
+                "d": 254.0
+              },
+              {
+                "w": "every",
+                "t": 9732.0,
+                "d": 510.0
+              },
+              {
+                "w": "river",
+                "t": 10243.0,
+                "d": 298.0
+              },
+              {
+                "w": "bend",
+                "t": 10542.0,
+                "d": 468.0
+              },
+              {
+                "w": "where",
+                "t": 11095.0,
+                "d": 296.0
+              },
+              {
+                "w": "merchants",
+                "t": 11392.0,
+                "d": 511.0
+              },
+              {
+                "w": "counted",
+                "t": 11904.0,
+                "d": 425.0
+              },
+              {
+                "w": "their",
+                "t": 12329.0,
+                "d": 212.0
+              },
+              {
+                "w": "gains",
+                "t": 12542.0,
+                "d": 637.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/twenty_seven_mints/img/p03.png",
+      "shot": "medium shot inside a bustling Sonargaon bazaar, with stalls, weavers, and traders exchanging coins by hand",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By the time Ibn Battuta reached Bengal around thirteen thirty-eight, silver tankas already rang through market stalls. His travelogue hints at a moneyed land, where coins smoothed trade across water and mud.",
+            "hi": "जब इब्न बतूता तेरह सौ अड़तीस के आस-पास बंगाल पहुँचे, चाँदी के टंका बाज़ारों में झनक रहे थे। उनकी सफ़रनामा एक दौलतमंद ज़मीन का इशारा देता है, जहाँ सिक्के पानी और कीचड़ पर सौदा आसान करते थे।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p03_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 117.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 170.0
+              },
+              {
+                "w": "time",
+                "t": 500.0,
+                "d": 340.0
+              },
+              {
+                "w": "Ibn",
+                "t": 882.0,
+                "d": 510.0
+              },
+              {
+                "w": "Battuta",
+                "t": 1393.0,
+                "d": 425.0
+              },
+              {
+                "w": "reached",
+                "t": 1819.0,
+                "d": 553.0
+              },
+              {
+                "w": "Bengal",
+                "t": 2372.0,
+                "d": 594.0
+              },
+              {
+                "w": "around",
+                "t": 2967.0,
+                "d": 341.0
+              },
+              {
+                "w": "thirteen",
+                "t": 3308.0,
+                "d": 510.0
+              },
+              {
+                "w": "thirty-eight",
+                "t": 3819.0,
+                "d": 680.0
+              },
+              {
+                "w": "silver",
+                "t": 4585.0,
+                "d": 468.0
+              },
+              {
+                "w": "tankas",
+                "t": 5053.0,
+                "d": 553.0
+              },
+              {
+                "w": "already",
+                "t": 5648.0,
+                "d": 468.0
+              },
+              {
+                "w": "rang",
+                "t": 6117.0,
+                "d": 382.0
+              },
+              {
+                "w": "through",
+                "t": 6500.0,
+                "d": 297.0
+              },
+              {
+                "w": "market",
+                "t": 6797.0,
+                "d": 297.0
+              },
+              {
+                "w": "stalls",
+                "t": 7095.0,
+                "d": 680.0
+              },
+              {
+                "w": "His",
+                "t": 8159.0,
+                "d": 297.0
+              },
+              {
+                "w": "travelogue",
+                "t": 8457.0,
+                "d": 552.0
+              },
+              {
+                "w": "hints",
+                "t": 9009.0,
+                "d": 341.0
+              },
+              {
+                "w": "at",
+                "t": 9351.0,
+                "d": 212.0
+              },
+              {
+                "w": "a",
+                "t": 9563.0,
+                "d": 42.0
+              },
+              {
+                "w": "moneyed",
+                "t": 9606.0,
+                "d": 425.0
+              },
+              {
+                "w": "land",
+                "t": 10031.0,
+                "d": 595.0
+              },
+              {
+                "w": "where",
+                "t": 10627.0,
+                "d": 339.0
+              },
+              {
+                "w": "coins",
+                "t": 10967.0,
+                "d": 298.0
+              },
+              {
+                "w": "smoothed",
+                "t": 11265.0,
+                "d": 509.0
+              },
+              {
+                "w": "trade",
+                "t": 11775.0,
+                "d": 425.0
+              },
+              {
+                "w": "across",
+                "t": 12244.0,
+                "d": 425.0
+              },
+              {
+                "w": "water",
+                "t": 12670.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 13264.0,
+                "d": 213.0
+              },
+              {
+                "w": "mud",
+                "t": 13478.0,
+                "d": 382.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/twenty_seven_mints/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/twenty_seven_mints/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across Sonargaon, his silver standard slices through chaos, forcing merchants to trust weight, script and mint alike.",
+            "hi": "सोनारगाँव भर में उसकी चाँदी की मुहर उथल-पुथल चीरती है, सौदागरों को वज़न, लिखावट और टकसाल पर भरोसा करने पर मजबूर करती है।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/action/action_auto_en.mp3",
+            "hi": "assets/twenty_seven_mints/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 70.0,
+                "d": 560.0
+              },
+              {
+                "w": "Sonargaon",
+                "t": 630.0,
+                "d": 600.0
+              },
+              {
+                "w": "his",
+                "t": 1630.0,
+                "d": 240.0
+              },
+              {
+                "w": "silver",
+                "t": 1870.0,
+                "d": 360.0
+              },
+              {
+                "w": "standard",
+                "t": 2230.0,
+                "d": 480.0
+              },
+              {
+                "w": "slices",
+                "t": 2710.0,
+                "d": 480.0
+              },
+              {
+                "w": "through",
+                "t": 3190.0,
+                "d": 279.0
+              },
+              {
+                "w": "chaos",
+                "t": 3469.0,
+                "d": 561.0
+              },
+              {
+                "w": "forcing",
+                "t": 4470.0,
+                "d": 480.0
+              },
+              {
+                "w": "merchants",
+                "t": 4950.0,
+                "d": 480.0
+              },
+              {
+                "w": "to",
+                "t": 5430.0,
+                "d": 160.0
+              },
+              {
+                "w": "trust",
+                "t": 5590.0,
+                "d": 360.0
+              },
+              {
+                "w": "weight",
+                "t": 5950.0,
+                "d": 560.0
+              },
+              {
+                "w": "script",
+                "t": 6590.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 7390.0,
+                "d": 280.0
+              },
+              {
+                "w": "mint",
+                "t": 7670.0,
+                "d": 280.0
+              },
+              {
+                "w": "alike",
+                "t": 7950.0,
+                "d": 599.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/twenty_seven_mints/img/p04.png",
+      "shot": "close-up of a single tanka being examined under lamplight, inscriptions just legible: sultan’s name, mint, AH date",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Name, title, city, year, this is how a realm speaks without raising its voice.",
+            "hi": "नाम, ख़िताब, शहर, साल—यही है कि सल्तनत बिना चीखे कैसे बोलती है।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p04_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Name",
+                "t": 49.0,
+                "d": 367.7
+              },
+              {
+                "w": "title",
+                "t": 514.7,
+                "d": 514.7
+              },
+              {
+                "w": "city",
+                "t": 1225.5,
+                "d": 441.2
+              },
+              {
+                "w": "year",
+                "t": 1887.2,
+                "d": 367.7
+              },
+              {
+                "w": "this",
+                "t": 2573.5,
+                "d": 232.8
+              },
+              {
+                "w": "is",
+                "t": 2806.4,
+                "d": 147.0
+              },
+              {
+                "w": "how",
+                "t": 2953.4,
+                "d": 257.3
+              },
+              {
+                "w": "a",
+                "t": 3284.3,
+                "d": 73.5
+              },
+              {
+                "w": "realm",
+                "t": 3382.3,
+                "d": 379.9
+              },
+              {
+                "w": "speaks",
+                "t": 3762.2,
+                "d": 465.7
+              },
+              {
+                "w": "without",
+                "t": 4289.2,
+                "d": 465.7
+              },
+              {
+                "w": "raising",
+                "t": 4816.2,
+                "d": 453.4
+              },
+              {
+                "w": "its",
+                "t": 5294.1,
+                "d": 245.1
+              },
+              {
+                "w": "voice",
+                "t": 5539.2,
+                "d": 441.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/twenty_seven_mints/img/p05.png",
+      "shot": "diagrammatic-style wide shot of Bengal with lines radiating from multiple key mints to hinterland markets",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Numismatists like Nicholas Rhodes read these inscriptions as a network. Gaur, Pandua, Sonargaon, Satgaon, Chittagong, Khalifatabad, each mint tied its region's trade to the sultan's silver promise.",
+            "hi": "निकोलस रोड्स जैसे सिक्का-विद इन लिखावटों को जाल जैसा पढ़ते हैं। गौर, पांडुआ, सोनारगाँव, सातगाँव, चिटगाँव, ख़लिफ़ताबाद—हर टकसाल अपने इलाक़े के सौदे को सुल्तान की चाँदी की ज़मानत से बाँधता है।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p05_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Numismatists",
+                "t": 74.0,
+                "d": 1021.0
+              },
+              {
+                "w": "like",
+                "t": 1095.0,
+                "d": 297.0
+              },
+              {
+                "w": "Nicholas",
+                "t": 1393.0,
+                "d": 468.0
+              },
+              {
+                "w": "Rhodes",
+                "t": 1861.0,
+                "d": 510.0
+              },
+              {
+                "w": "read",
+                "t": 2372.0,
+                "d": 340.0
+              },
+              {
+                "w": "these",
+                "t": 2712.0,
+                "d": 254.0
+              },
+              {
+                "w": "inscriptions",
+                "t": 2967.0,
+                "d": 723.0
+              },
+              {
+                "w": "as",
+                "t": 3690.0,
+                "d": 256.0
+              },
+              {
+                "w": "a",
+                "t": 3946.0,
+                "d": 84.0
+              },
+              {
+                "w": "network",
+                "t": 4030.0,
+                "d": 1064.0
+              },
+              {
+                "w": "Gaur",
+                "t": 5180.0,
+                "d": 680.0
+              },
+              {
+                "w": "Pandua",
+                "t": 6074.0,
+                "d": 680.0
+              },
+              {
+                "w": "Sonargaon",
+                "t": 6797.0,
+                "d": 808.0
+              },
+              {
+                "w": "Satgaon",
+                "t": 8031.0,
+                "d": 637.0
+              },
+              {
+                "w": "Chittagong",
+                "t": 9094.0,
+                "d": 1107.0
+              },
+              {
+                "w": "Khalifatabad",
+                "t": 10328.0,
+                "d": 1107.0
+              },
+              {
+                "w": "each",
+                "t": 11734.0,
+                "d": 381.0
+              },
+              {
+                "w": "mint",
+                "t": 12115.0,
+                "d": 255.0
+              },
+              {
+                "w": "tied",
+                "t": 12371.0,
+                "d": 341.0
+              },
+              {
+                "w": "its",
+                "t": 12712.0,
+                "d": 211.0
+              },
+              {
+                "w": "region's",
+                "t": 12924.0,
+                "d": 510.0
+              },
+              {
+                "w": "trade",
+                "t": 13435.0,
+                "d": 384.0
+              },
+              {
+                "w": "to",
+                "t": 13819.0,
+                "d": 84.0
+              },
+              {
+                "w": "the",
+                "t": 13903.0,
+                "d": 170.0
+              },
+              {
+                "w": "sultan's",
+                "t": 14073.0,
+                "d": 554.0
+              },
+              {
+                "w": "silver",
+                "t": 14627.0,
+                "d": 339.0
+              },
+              {
+                "w": "promise",
+                "t": 14967.0,
+                "d": 554.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/twenty_seven_mints/img/p06.png",
+      "shot": "interior of a mint at Pandua, busy but orderly, with furnaces, dies, and workers striking coins on anvils",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "A mint was part workshop, part chancery. Here, scribes chose titles, die-cutters carved letters, and hammer-men beat the royal message into metal, hundreds of times a day.",
+            "hi": "टकसाल आधी कार्यशाला, आधी दफ़्तर थी। यहाँ क़लमची ख़िताब चुनते, नक्काश अक्षर काटते, और हथौड़े वाले रोज़ सैकड़ों बार बादशाह का पैग़ाम धातु में ठोकते।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p06_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "A",
+                "t": 74.0,
+                "d": 170.0
+              },
+              {
+                "w": "mint",
+                "t": 244.0,
+                "d": 297.0
+              },
+              {
+                "w": "was",
+                "t": 542.0,
+                "d": 255.0
+              },
+              {
+                "w": "part",
+                "t": 797.0,
+                "d": 297.0
+              },
+              {
+                "w": "workshop",
+                "t": 1095.0,
+                "d": 1106.0
+              },
+              {
+                "w": "part",
+                "t": 2287.0,
+                "d": 296.0
+              },
+              {
+                "w": "chancery",
+                "t": 2584.0,
+                "d": 809.0
+              },
+              {
+                "w": "Here",
+                "t": 3819.0,
+                "d": 765.0
+              },
+              {
+                "w": "scribes",
+                "t": 4585.0,
+                "d": 638.0
+              },
+              {
+                "w": "chose",
+                "t": 5223.0,
+                "d": 382.0
+              },
+              {
+                "w": "titles",
+                "t": 5606.0,
+                "d": 808.0
+              },
+              {
+                "w": "die-cutters",
+                "t": 6712.0,
+                "d": 765.0
+              },
+              {
+                "w": "carved",
+                "t": 7478.0,
+                "d": 468.0
+              },
+              {
+                "w": "letters",
+                "t": 7946.0,
+                "d": 764.0
+              },
+              {
+                "w": "and",
+                "t": 8797.0,
+                "d": 340.0
+              },
+              {
+                "w": "hammer-men",
+                "t": 9138.0,
+                "d": 553.0
+              },
+              {
+                "w": "beat",
+                "t": 9691.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 10031.0,
+                "d": 126.0
+              },
+              {
+                "w": "royal",
+                "t": 10158.0,
+                "d": 341.0
+              },
+              {
+                "w": "message",
+                "t": 10500.0,
+                "d": 467.0
+              },
+              {
+                "w": "into",
+                "t": 10967.0,
+                "d": 298.0
+              },
+              {
+                "w": "metal",
+                "t": 11265.0,
+                "d": 638.0
+              },
+              {
+                "w": "hundreds",
+                "t": 12030.0,
+                "d": 596.0
+              },
+              {
+                "w": "of",
+                "t": 12627.0,
+                "d": 170.0
+              },
+              {
+                "w": "times",
+                "t": 12797.0,
+                "d": 296.0
+              },
+              {
+                "w": "a",
+                "t": 13094.0,
+                "d": 128.0
+              },
+              {
+                "w": "day",
+                "t": 13223.0,
+                "d": 382.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/twenty_seven_mints/img/p07.png",
+      "shot": "close-up montage of different tankas showing varying titulature, some emphasizing piety, others conquest",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Titles shifted with politics. Some issues praised God and justice; others boasted of conquests. Husain Shah's coins trumpet victories, yet their silver still had to be trusted in the smallest village stall.",
+            "hi": "सियासत के साथ ख़िताब बदलते रहे। कुछ सिक्के ख़ुदा और इंसाफ की बातें करते, कुछ फ़तहें जताते। हुसैन शाह के सिक्के जीतें पुकारते हैं, पर उनकी चाँदी को सबसे छोटे देहाती ठेले पर भी यक़ीन की ज़रूरत थी।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p07_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Titles",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "shifted",
+                "t": 585.0,
+                "d": 553.0
+              },
+              {
+                "w": "with",
+                "t": 1138.0,
+                "d": 170.0
+              },
+              {
+                "w": "politics",
+                "t": 1308.0,
+                "d": 850.0
+              },
+              {
+                "w": "Some",
+                "t": 2372.0,
+                "d": 340.0
+              },
+              {
+                "w": "issues",
+                "t": 2712.0,
+                "d": 424.0
+              },
+              {
+                "w": "praised",
+                "t": 3137.0,
+                "d": 382.0
+              },
+              {
+                "w": "God",
+                "t": 3520.0,
+                "d": 341.0
+              },
+              {
+                "w": "and",
+                "t": 3861.0,
+                "d": 127.0
+              },
+              {
+                "w": "justice",
+                "t": 3989.0,
+                "d": 680.0
+              },
+              {
+                "w": "others",
+                "t": 5010.0,
+                "d": 468.0
+              },
+              {
+                "w": "boasted",
+                "t": 5478.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 5946.0,
+                "d": 127.0
+              },
+              {
+                "w": "conquests",
+                "t": 6074.0,
+                "d": 1404.0
+              },
+              {
+                "w": "Husain",
+                "t": 7606.0,
+                "d": 468.0
+              },
+              {
+                "w": "Shah's",
+                "t": 8074.0,
+                "d": 340.0
+              },
+              {
+                "w": "coins",
+                "t": 8414.0,
+                "d": 382.0
+              },
+              {
+                "w": "trumpet",
+                "t": 8797.0,
+                "d": 467.0
+              },
+              {
+                "w": "victories",
+                "t": 9264.0,
+                "d": 767.0
+              },
+              {
+                "w": "yet",
+                "t": 10457.0,
+                "d": 297.0
+              },
+              {
+                "w": "their",
+                "t": 10755.0,
+                "d": 255.0
+              },
+              {
+                "w": "silver",
+                "t": 11010.0,
+                "d": 510.0
+              },
+              {
+                "w": "still",
+                "t": 11521.0,
+                "d": 382.0
+              },
+              {
+                "w": "had",
+                "t": 11904.0,
+                "d": 126.0
+              },
+              {
+                "w": "to",
+                "t": 12030.0,
+                "d": 128.0
+              },
+              {
+                "w": "be",
+                "t": 12159.0,
+                "d": 170.0
+              },
+              {
+                "w": "trusted",
+                "t": 12329.0,
+                "d": 509.0
+              },
+              {
+                "w": "in",
+                "t": 12839.0,
+                "d": 128.0
+              },
+              {
+                "w": "the",
+                "t": 12968.0,
+                "d": 126.0
+              },
+              {
+                "w": "smallest",
+                "t": 13094.0,
+                "d": 554.0
+              },
+              {
+                "w": "village",
+                "t": 13648.0,
+                "d": 297.0
+              },
+              {
+                "w": "stall",
+                "t": 13946.0,
+                "d": 552.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/twenty_seven_mints/img/p08.png",
+      "shot": "port wide shot at Satgaon, ships from inland rivers and sea converging, sailors and brokers trading bales and coins",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Satgaon and Sonargaon fed the sea routes. A merchant stepping off his ship needed one thing: a coin whose weight and inscription he could trust. Bengal's silver tankas made inland produce speak a global language.",
+            "hi": "सातगाँव और सोनारगाँव समुद्री रस्तों को खिलाते थे। जहाज़ से उतरते व्यापारी को बस एक चीज़ चाहिए थी: ऐसा सिक्का जिसका वज़न और लिखावट भरोसेमंद हो। बंगाल के चाँदी टंका ने अंदरूनी माल को दुनिया की भाषा दे दी।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p08_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Satgaon",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 712.0,
+                "d": 127.0
+              },
+              {
+                "w": "Sonargaon",
+                "t": 840.0,
+                "d": 553.0
+              },
+              {
+                "w": "fed",
+                "t": 1393.0,
+                "d": 340.0
+              },
+              {
+                "w": "the",
+                "t": 1734.0,
+                "d": 127.0
+              },
+              {
+                "w": "sea",
+                "t": 1861.0,
+                "d": 212.0
+              },
+              {
+                "w": "routes",
+                "t": 2074.0,
+                "d": 638.0
+              },
+              {
+                "w": "A",
+                "t": 3094.0,
+                "d": 171.0
+              },
+              {
+                "w": "merchant",
+                "t": 3265.0,
+                "d": 468.0
+              },
+              {
+                "w": "stepping",
+                "t": 3734.0,
+                "d": 381.0
+              },
+              {
+                "w": "off",
+                "t": 4115.0,
+                "d": 171.0
+              },
+              {
+                "w": "his",
+                "t": 4287.0,
+                "d": 170.0
+              },
+              {
+                "w": "ship",
+                "t": 4457.0,
+                "d": 297.0
+              },
+              {
+                "w": "needed",
+                "t": 4755.0,
+                "d": 340.0
+              },
+              {
+                "w": "one",
+                "t": 5095.0,
+                "d": 212.0
+              },
+              {
+                "w": "thing",
+                "t": 5308.0,
+                "d": 638.0
+              },
+              {
+                "w": "a",
+                "t": 5989.0,
+                "d": 212.0
+              },
+              {
+                "w": "coin",
+                "t": 6202.0,
+                "d": 510.0
+              },
+              {
+                "w": "whose",
+                "t": 6882.0,
+                "d": 340.0
+              },
+              {
+                "w": "weight",
+                "t": 7223.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 7606.0,
+                "d": 212.0
+              },
+              {
+                "w": "inscription",
+                "t": 7819.0,
+                "d": 638.0
+              },
+              {
+                "w": "he",
+                "t": 8457.0,
+                "d": 169.0
+              },
+              {
+                "w": "could",
+                "t": 8626.0,
+                "d": 212.0
+              },
+              {
+                "w": "trust",
+                "t": 8839.0,
+                "d": 681.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 10117.0,
+                "d": 594.0
+              },
+              {
+                "w": "silver",
+                "t": 10711.0,
+                "d": 298.0
+              },
+              {
+                "w": "tankas",
+                "t": 11010.0,
+                "d": 510.0
+              },
+              {
+                "w": "made",
+                "t": 11521.0,
+                "d": 297.0
+              },
+              {
+                "w": "inland",
+                "t": 11819.0,
+                "d": 340.0
+              },
+              {
+                "w": "produce",
+                "t": 12159.0,
+                "d": 468.0
+              },
+              {
+                "w": "speak",
+                "t": 12627.0,
+                "d": 722.0
+              },
+              {
+                "w": "a",
+                "t": 13350.0,
+                "d": 85.0
+              },
+              {
+                "w": "global",
+                "t": 13435.0,
+                "d": 341.0
+              },
+              {
+                "w": "language",
+                "t": 13776.0,
+                "d": 722.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/twenty_seven_mints/img/p09.png",
+      "shot": "medium shot of a rural market deep in the delta, a local elder weighing a tanka on a small scale",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The innovation lay in reach. Decentralized mints meant that even a flooded backwater could see fresh royal coin. Money knit places together that the court's cavalry could never visit in a year.",
+            "hi": "असली नयी बात पहुँच में थी। बिखरी हुई टकसालों का मतलब था कि डूबा हुआ पिछड़ा इलाक़ा भी ताज़ा शाही सिक्का देख सकता था। पैसा उन जगहों को जोड़ता रहा जहाँ दरबार की फ़ौज साल भर में भी नहीं पहुँच पाती।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p09_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "innovation",
+                "t": 270.0,
+                "d": 720.0
+              },
+              {
+                "w": "lay",
+                "t": 990.0,
+                "d": 360.0
+              },
+              {
+                "w": "in",
+                "t": 1350.0,
+                "d": 200.0
+              },
+              {
+                "w": "reach",
+                "t": 1550.0,
+                "d": 680.0
+              },
+              {
+                "w": "Decentralized",
+                "t": 2750.0,
+                "d": 880.0
+              },
+              {
+                "w": "mints",
+                "t": 3630.0,
+                "d": 520.0
+              },
+              {
+                "w": "meant",
+                "t": 4190.0,
+                "d": 320.0
+              },
+              {
+                "w": "that",
+                "t": 4510.0,
+                "d": 240.0
+              },
+              {
+                "w": "even",
+                "t": 4790.0,
+                "d": 280.0
+              },
+              {
+                "w": "a",
+                "t": 5070.0,
+                "d": 80.0
+              },
+              {
+                "w": "flooded",
+                "t": 5150.0,
+                "d": 480.0
+              },
+              {
+                "w": "backwater",
+                "t": 5630.0,
+                "d": 640.0
+              },
+              {
+                "w": "could",
+                "t": 6270.0,
+                "d": 240.0
+              },
+              {
+                "w": "see",
+                "t": 6510.0,
+                "d": 160.0
+              },
+              {
+                "w": "fresh",
+                "t": 6670.0,
+                "d": 400.0
+              },
+              {
+                "w": "royal",
+                "t": 7070.0,
+                "d": 280.0
+              },
+              {
+                "w": "coin",
+                "t": 7350.0,
+                "d": 480.0
+              },
+              {
+                "w": "Money",
+                "t": 8389.0,
+                "d": 401.0
+              },
+              {
+                "w": "knit",
+                "t": 8790.0,
+                "d": 200.0
+              },
+              {
+                "w": "places",
+                "t": 8990.0,
+                "d": 399.0
+              },
+              {
+                "w": "together",
+                "t": 9389.0,
+                "d": 641.0
+              },
+              {
+                "w": "that",
+                "t": 10069.0,
+                "d": 201.0
+              },
+              {
+                "w": "the",
+                "t": 10270.0,
+                "d": 119.0
+              },
+              {
+                "w": "court's",
+                "t": 10389.0,
+                "d": 361.0
+              },
+              {
+                "w": "cavalry",
+                "t": 10750.0,
+                "d": 520.0
+              },
+              {
+                "w": "could",
+                "t": 11270.0,
+                "d": 199.0
+              },
+              {
+                "w": "never",
+                "t": 11469.0,
+                "d": 281.0
+              },
+              {
+                "w": "visit",
+                "t": 11750.0,
+                "d": 360.0
+              },
+              {
+                "w": "in",
+                "t": 12149.0,
+                "d": 121.0
+              },
+              {
+                "w": "a",
+                "t": 12270.0,
+                "d": 119.0
+              },
+              {
+                "w": "year",
+                "t": 12389.0,
+                "d": 361.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/twenty_seven_mints/img/p10.png",
+      "shot": "medium shot of the Tanka Master comparing two coins, one from Gaur and one from Chittagong, thoughtful expression",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "For historians today, these coins correct the written record. Hijri dates and mint names can be firmer than later chronicles, which remember stories but blur years and distances.",
+            "hi": "आज के इतिहासकारों के लिए ये सिक्के लिखे रिकॉर्ड को दुरुस्त करते हैं। हिजरी तारीखें और टकसाल के नाम अक्सर बाद की किताबों से ज़्यादा ठोस होते हैं, जो किस्से तो याद रखती हैं पर साल और दूरियाँ धुंधला देती हैं।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p10_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "For",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "historians",
+                "t": 287.0,
+                "d": 510.0
+              },
+              {
+                "w": "today",
+                "t": 797.0,
+                "d": 680.0
+              },
+              {
+                "w": "these",
+                "t": 1521.0,
+                "d": 425.0
+              },
+              {
+                "w": "coins",
+                "t": 1946.0,
+                "d": 425.0
+              },
+              {
+                "w": "correct",
+                "t": 2372.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 2670.0,
+                "d": 170.0
+              },
+              {
+                "w": "written",
+                "t": 2840.0,
+                "d": 296.0
+              },
+              {
+                "w": "record",
+                "t": 3137.0,
+                "d": 681.0
+              },
+              {
+                "w": "Hijri",
+                "t": 4201.0,
+                "d": 511.0
+              },
+              {
+                "w": "dates",
+                "t": 4712.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 5053.0,
+                "d": 127.0
+              },
+              {
+                "w": "mint",
+                "t": 5180.0,
+                "d": 297.0
+              },
+              {
+                "w": "names",
+                "t": 5478.0,
+                "d": 553.0
+              },
+              {
+                "w": "can",
+                "t": 6031.0,
+                "d": 297.0
+              },
+              {
+                "w": "be",
+                "t": 6329.0,
+                "d": 127.0
+              },
+              {
+                "w": "firmer",
+                "t": 6457.0,
+                "d": 425.0
+              },
+              {
+                "w": "than",
+                "t": 6882.0,
+                "d": 212.0
+              },
+              {
+                "w": "later",
+                "t": 7095.0,
+                "d": 297.0
+              },
+              {
+                "w": "chronicles",
+                "t": 7393.0,
+                "d": 893.0
+              },
+              {
+                "w": "which",
+                "t": 8372.0,
+                "d": 254.0
+              },
+              {
+                "w": "remember",
+                "t": 8626.0,
+                "d": 426.0
+              },
+              {
+                "w": "stories",
+                "t": 9053.0,
+                "d": 764.0
+              },
+              {
+                "w": "but",
+                "t": 9903.0,
+                "d": 298.0
+              },
+              {
+                "w": "blur",
+                "t": 10202.0,
+                "d": 255.0
+              },
+              {
+                "w": "years",
+                "t": 10457.0,
+                "d": 424.0
+              },
+              {
+                "w": "and",
+                "t": 10881.0,
+                "d": 255.0
+              },
+              {
+                "w": "distances",
+                "t": 11137.0,
+                "d": 937.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/twenty_seven_mints/img/p11.png",
+      "shot": "slow push-in on the Tanka Master pointing to a coin inscription that lists a distant region among the sultan’s titles",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Yet coin boasts have limits. A tanka may claim a province in its royal style, but without other evidence, scholars hesitate to treat every word as proof of permanent control on the ground.",
+            "hi": "पर सिक्कों की शान की भी हद होती है। एक टंका अपने ख़िताब में किसी सूबे पर दावा कर सकता है, मगर बिना दूसरे सबूत के, विद्वान ज़मीन पर हमेशा की पकड़ मानने से हिचकते हैं।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p11_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Yet",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "coin",
+                "t": 627.0,
+                "d": 340.0
+              },
+              {
+                "w": "boasts",
+                "t": 968.0,
+                "d": 553.0
+              },
+              {
+                "w": "have",
+                "t": 1521.0,
+                "d": 297.0
+              },
+              {
+                "w": "limits",
+                "t": 1819.0,
+                "d": 637.0
+              },
+              {
+                "w": "A",
+                "t": 3052.0,
+                "d": 213.0
+              },
+              {
+                "w": "tanka",
+                "t": 3265.0,
+                "d": 381.0
+              },
+              {
+                "w": "may",
+                "t": 3647.0,
+                "d": 213.0
+              },
+              {
+                "w": "claim",
+                "t": 3861.0,
+                "d": 254.0
+              },
+              {
+                "w": "a",
+                "t": 4115.0,
+                "d": 127.0
+              },
+              {
+                "w": "province",
+                "t": 4243.0,
+                "d": 469.0
+              },
+              {
+                "w": "in",
+                "t": 4712.0,
+                "d": 85.0
+              },
+              {
+                "w": "its",
+                "t": 4797.0,
+                "d": 170.0
+              },
+              {
+                "w": "royal",
+                "t": 4968.0,
+                "d": 297.0
+              },
+              {
+                "w": "style",
+                "t": 5265.0,
+                "d": 638.0
+              },
+              {
+                "w": "but",
+                "t": 6159.0,
+                "d": 255.0
+              },
+              {
+                "w": "without",
+                "t": 6414.0,
+                "d": 382.0
+              },
+              {
+                "w": "other",
+                "t": 6840.0,
+                "d": 340.0
+              },
+              {
+                "w": "evidence",
+                "t": 7180.0,
+                "d": 510.0
+              },
+              {
+                "w": "scholars",
+                "t": 7691.0,
+                "d": 1147.0
+              },
+              {
+                "w": "hesitate",
+                "t": 8839.0,
+                "d": 469.0
+              },
+              {
+                "w": "to",
+                "t": 9308.0,
+                "d": 170.0
+              },
+              {
+                "w": "treat",
+                "t": 9478.0,
+                "d": 382.0
+              },
+              {
+                "w": "every",
+                "t": 9903.0,
+                "d": 425.0
+              },
+              {
+                "w": "word",
+                "t": 10328.0,
+                "d": 638.0
+              },
+              {
+                "w": "as",
+                "t": 11010.0,
+                "d": 340.0
+              },
+              {
+                "w": "proof",
+                "t": 11351.0,
+                "d": 340.0
+              },
+              {
+                "w": "of",
+                "t": 11691.0,
+                "d": 254.0
+              },
+              {
+                "w": "permanent",
+                "t": 11945.0,
+                "d": 425.0
+              },
+              {
+                "w": "control",
+                "t": 12371.0,
+                "d": 511.0
+              },
+              {
+                "w": "on",
+                "t": 12882.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 13053.0,
+                "d": 126.0
+              },
+              {
+                "w": "ground",
+                "t": 13179.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/twenty_seven_mints/img/p12.png",
+      "shot": "wide shot of Chittagong harbor with ships leaving, a money-changer’s table in foreground stacked with different regional coins",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Chittagong's mints supplied this frontier to the ocean. Here, Bengal's money met coins from elsewhere, converted, measured, judged, its reputation tested with every exchange across the water.",
+            "hi": "चिटगाँव की टकसालों ने इस सरहद को समंदर तक रसद दी। यहाँ बंगाल का पैसा दूसरे इलाकों के सिक्कों से मिला, बदला गया, तौला गया, परखा गया—हर पार के सौदे पर उसकी शोहरत की जाँच हुई।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p12_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Chittagong's",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "mints",
+                "t": 712.0,
+                "d": 297.0
+              },
+              {
+                "w": "supplied",
+                "t": 1010.0,
+                "d": 468.0
+              },
+              {
+                "w": "this",
+                "t": 1478.0,
+                "d": 212.0
+              },
+              {
+                "w": "frontier",
+                "t": 1691.0,
+                "d": 467.0
+              },
+              {
+                "w": "to",
+                "t": 2158.0,
+                "d": 128.0
+              },
+              {
+                "w": "the",
+                "t": 2287.0,
+                "d": 169.0
+              },
+              {
+                "w": "ocean",
+                "t": 2456.0,
+                "d": 937.0
+              },
+              {
+                "w": "Here",
+                "t": 3436.0,
+                "d": 807.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 4243.0,
+                "d": 554.0
+              },
+              {
+                "w": "money",
+                "t": 4797.0,
+                "d": 340.0
+              },
+              {
+                "w": "met",
+                "t": 5138.0,
+                "d": 255.0
+              },
+              {
+                "w": "coins",
+                "t": 5393.0,
+                "d": 340.0
+              },
+              {
+                "w": "from",
+                "t": 5734.0,
+                "d": 255.0
+              },
+              {
+                "w": "elsewhere",
+                "t": 5989.0,
+                "d": 595.0
+              },
+              {
+                "w": "converted",
+                "t": 6670.0,
+                "d": 936.0
+              },
+              {
+                "w": "measured",
+                "t": 7606.0,
+                "d": 893.0
+              },
+              {
+                "w": "judged",
+                "t": 8500.0,
+                "d": 851.0
+              },
+              {
+                "w": "its",
+                "t": 9521.0,
+                "d": 296.0
+              },
+              {
+                "w": "reputation",
+                "t": 9818.0,
+                "d": 724.0
+              },
+              {
+                "w": "tested",
+                "t": 10542.0,
+                "d": 468.0
+              },
+              {
+                "w": "with",
+                "t": 11010.0,
+                "d": 381.0
+              },
+              {
+                "w": "every",
+                "t": 11436.0,
+                "d": 468.0
+              },
+              {
+                "w": "exchange",
+                "t": 11904.0,
+                "d": 638.0
+              },
+              {
+                "w": "across",
+                "t": 12542.0,
+                "d": 381.0
+              },
+              {
+                "w": "the",
+                "t": 12924.0,
+                "d": 170.0
+              },
+              {
+                "w": "water",
+                "t": 13094.0,
+                "d": 469.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/twenty_seven_mints/img/p13.png",
+      "shot": "interior of Khalifatabad mint, more modest, with a qadi overseeing, hinting at local religious authority tied to coinage",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Mints also carried faith and law. In places like Khalifatabad, the coinage linked local judges and mosque communities to the distant sultan. The tanka became proof that his authority reached their streets.",
+            "hi": "टकसालें ईमान और क़ानून भी ढोती थीं। ख़लिफ़ताबाद जैसे इलाक़ों में सिक्का स्थानीय क़ाज़ियों और मस्जिद के लोगों को दूर बैठे सुल्तान से जोड़ता था। टंका सबूत बन जाता था कि उसका हुक्म उनकी गलियों तक पहुँचता है।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p13_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Mints",
+                "t": 74.0,
+                "d": 382.0
+              },
+              {
+                "w": "also",
+                "t": 457.0,
+                "d": 340.0
+              },
+              {
+                "w": "carried",
+                "t": 797.0,
+                "d": 425.0
+              },
+              {
+                "w": "faith",
+                "t": 1223.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 1563.0,
+                "d": 127.0
+              },
+              {
+                "w": "law",
+                "t": 1691.0,
+                "d": 680.0
+              },
+              {
+                "w": "In",
+                "t": 2670.0,
+                "d": 255.0
+              },
+              {
+                "w": "places",
+                "t": 2925.0,
+                "d": 382.0
+              },
+              {
+                "w": "like",
+                "t": 3308.0,
+                "d": 211.0
+              },
+              {
+                "w": "Khalifatabad",
+                "t": 3520.0,
+                "d": 1107.0
+              },
+              {
+                "w": "the",
+                "t": 4712.0,
+                "d": 212.0
+              },
+              {
+                "w": "coinage",
+                "t": 4925.0,
+                "d": 510.0
+              },
+              {
+                "w": "linked",
+                "t": 5436.0,
+                "d": 297.0
+              },
+              {
+                "w": "local",
+                "t": 5734.0,
+                "d": 382.0
+              },
+              {
+                "w": "judges",
+                "t": 6117.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 6627.0,
+                "d": 255.0
+              },
+              {
+                "w": "mosque",
+                "t": 6882.0,
+                "d": 468.0
+              },
+              {
+                "w": "communities",
+                "t": 7351.0,
+                "d": 765.0
+              },
+              {
+                "w": "to",
+                "t": 8202.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 8329.0,
+                "d": 170.0
+              },
+              {
+                "w": "distant",
+                "t": 8500.0,
+                "d": 424.0
+              },
+              {
+                "w": "sultan",
+                "t": 8924.0,
+                "d": 384.0
+              },
+              {
+                "w": "The",
+                "t": 9308.0,
+                "d": 893.0
+              },
+              {
+                "w": "tanka",
+                "t": 10372.0,
+                "d": 679.0
+              },
+              {
+                "w": "became",
+                "t": 11052.0,
+                "d": 340.0
+              },
+              {
+                "w": "proof",
+                "t": 11392.0,
+                "d": 341.0
+              },
+              {
+                "w": "that",
+                "t": 11734.0,
+                "d": 170.0
+              },
+              {
+                "w": "his",
+                "t": 11904.0,
+                "d": 170.0
+              },
+              {
+                "w": "authority",
+                "t": 12074.0,
+                "d": 764.0
+              },
+              {
+                "w": "reached",
+                "t": 12924.0,
+                "d": 340.0
+              },
+              {
+                "w": "their",
+                "t": 13264.0,
+                "d": 213.0
+              },
+              {
+                "w": "streets",
+                "t": 13478.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/twenty_seven_mints/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/twenty_seven_mints/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Between rival mints and distant ports, he stands guard, defending Bengal's silver flow from fraud and discord.",
+            "hi": "विरोधी टकसालों और दूर के बंदरों के बीच, वो पहरेदार है, बंगाल की चाँदी की धारा को धोखे और फूट से बचाता है।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/action/action_auto2_en.mp3",
+            "hi": "assets/twenty_seven_mints/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Between",
+                "t": 80.0,
+                "d": 551.0
+              },
+              {
+                "w": "rival",
+                "t": 632.0,
+                "d": 413.0
+              },
+              {
+                "w": "mints",
+                "t": 1045.0,
+                "d": 367.0
+              },
+              {
+                "w": "and",
+                "t": 1413.0,
+                "d": 229.0
+              },
+              {
+                "w": "distant",
+                "t": 1643.0,
+                "d": 505.0
+              },
+              {
+                "w": "ports",
+                "t": 2149.0,
+                "d": 781.0
+              },
+              {
+                "w": "he",
+                "t": 3068.0,
+                "d": 320.0
+              },
+              {
+                "w": "stands",
+                "t": 3389.0,
+                "d": 459.0
+              },
+              {
+                "w": "guard",
+                "t": 3849.0,
+                "d": 920.0
+              },
+              {
+                "w": "defending",
+                "t": 5091.0,
+                "d": 643.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 5735.0,
+                "d": 689.0
+              },
+              {
+                "w": "silver",
+                "t": 6471.0,
+                "d": 505.0
+              },
+              {
+                "w": "flow",
+                "t": 6977.0,
+                "d": 275.0
+              },
+              {
+                "w": "from",
+                "t": 7252.0,
+                "d": 321.0
+              },
+              {
+                "w": "fraud",
+                "t": 7574.0,
+                "d": 735.0
+              },
+              {
+                "w": "and",
+                "t": 8356.0,
+                "d": 229.0
+              },
+              {
+                "w": "discord",
+                "t": 8586.0,
+                "d": 642.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/twenty_seven_mints/img/p14.png",
+      "shot": "low-angle shot in a royal audience hall, Tanka Master presenting new coin designs to a silhouetted sultan on the throne",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Your reign will be read not only in ink, Majesty, but in silver.",
+            "hi": "आपका दौर सिर्फ़ स्याही में नहीं पढ़ा जाएगा, जहांपनाह, चाँदी में भी।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p14_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Your",
+                "t": 49.0,
+                "d": 294.1
+              },
+              {
+                "w": "reign",
+                "t": 343.1,
+                "d": 367.7
+              },
+              {
+                "w": "will",
+                "t": 710.8,
+                "d": 220.6
+              },
+              {
+                "w": "be",
+                "t": 931.4,
+                "d": 183.8
+              },
+              {
+                "w": "read",
+                "t": 1115.2,
+                "d": 245.1
+              },
+              {
+                "w": "not",
+                "t": 1397.0,
+                "d": 330.9
+              },
+              {
+                "w": "only",
+                "t": 1789.2,
+                "d": 367.7
+              },
+              {
+                "w": "in",
+                "t": 2218.1,
+                "d": 171.6
+              },
+              {
+                "w": "ink",
+                "t": 2438.7,
+                "d": 281.9
+              },
+              {
+                "w": "Majesty",
+                "t": 2928.9,
+                "d": 637.2
+              },
+              {
+                "w": "but",
+                "t": 3872.5,
+                "d": 245.1
+              },
+              {
+                "w": "in",
+                "t": 4178.9,
+                "d": 159.3
+              },
+              {
+                "w": "silver",
+                "t": 4350.5,
+                "d": 453.4
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/twenty_seven_mints/img/p15.png",
+      "shot": "montage showing coins traveling: in a merchant’s pouch on a boat, in a tax collector’s chest, buried in a hoard underground",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Over decades, silver flowed out as pay and tax, and back again as hoards and revenue. Long after a sultan died, his name still rested in soil and chests, stamped on coins that refused to vanish.",
+            "hi": "बरसों तक चाँदी मज़दूरी और लगान बनकर बाहर निकली, और ख़ज़ाने व माल-ए-मुक़र्रर बनकर वापस आई। सुल्तान के मरने के बहुत बाद भी उसका नाम मिट्टी और संदूकों में पड़ा रहता, उन सिक्कों पर जो मिटने से इनकार करते।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p15_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Over",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "decades",
+                "t": 329.0,
+                "d": 553.0
+              },
+              {
+                "w": "silver",
+                "t": 882.0,
+                "d": 893.0
+              },
+              {
+                "w": "flowed",
+                "t": 1776.0,
+                "d": 381.0
+              },
+              {
+                "w": "out",
+                "t": 2158.0,
+                "d": 213.0
+              },
+              {
+                "w": "as",
+                "t": 2372.0,
+                "d": 340.0
+              },
+              {
+                "w": "pay",
+                "t": 2712.0,
+                "d": 170.0
+              },
+              {
+                "w": "and",
+                "t": 2882.0,
+                "d": 169.0
+              },
+              {
+                "w": "tax",
+                "t": 3052.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 3861.0,
+                "d": 296.0
+              },
+              {
+                "w": "back",
+                "t": 4158.0,
+                "d": 256.0
+              },
+              {
+                "w": "again",
+                "t": 4414.0,
+                "d": 382.0
+              },
+              {
+                "w": "as",
+                "t": 4797.0,
+                "d": 425.0
+              },
+              {
+                "w": "hoards",
+                "t": 5223.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 5776.0,
+                "d": 212.0
+              },
+              {
+                "w": "revenue",
+                "t": 5989.0,
+                "d": 1148.0
+              },
+              {
+                "w": "Long",
+                "t": 7563.0,
+                "d": 425.0
+              },
+              {
+                "w": "after",
+                "t": 7989.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 8287.0,
+                "d": 42.0
+              },
+              {
+                "w": "sultan",
+                "t": 8329.0,
+                "d": 509.0
+              },
+              {
+                "w": "died",
+                "t": 8839.0,
+                "d": 639.0
+              },
+              {
+                "w": "his",
+                "t": 9521.0,
+                "d": 296.0
+              },
+              {
+                "w": "name",
+                "t": 9818.0,
+                "d": 255.0
+              },
+              {
+                "w": "still",
+                "t": 10073.0,
+                "d": 255.0
+              },
+              {
+                "w": "rested",
+                "t": 10328.0,
+                "d": 468.0
+              },
+              {
+                "w": "in",
+                "t": 10796.0,
+                "d": 85.0
+              },
+              {
+                "w": "soil",
+                "t": 10881.0,
+                "d": 384.0
+              },
+              {
+                "w": "and",
+                "t": 11265.0,
+                "d": 170.0
+              },
+              {
+                "w": "chests",
+                "t": 11436.0,
+                "d": 468.0
+              },
+              {
+                "w": "stamped",
+                "t": 11904.0,
+                "d": 893.0
+              },
+              {
+                "w": "on",
+                "t": 12797.0,
+                "d": 211.0
+              },
+              {
+                "w": "coins",
+                "t": 13009.0,
+                "d": 469.0
+              },
+              {
+                "w": "that",
+                "t": 13478.0,
+                "d": 212.0
+              },
+              {
+                "w": "refused",
+                "t": 13691.0,
+                "d": 467.0
+              },
+              {
+                "w": "to",
+                "t": 14158.0,
+                "d": 170.0
+              },
+              {
+                "w": "vanish",
+                "t": 14328.0,
+                "d": 723.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/twenty_seven_mints/img/p16.png",
+      "shot": "time-lapse style wide shot of the capital shifting from Pandua to Gaur, coins from both mints shown overlapping in foreground",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Capitals moved, from Pandua to Gaur, but the coin system endured. Mints rose and fell, yet the habit remained: to make power tangible as weight and purity that could survive political turns.",
+            "hi": "राजधानियाँ बदलीं—पांडुआ से गौर तक—पर सिक्का तंत्र चला रहा। टकसालें उठीं, गिरीं, पर आदत क़ायम रही: ताकत को वज़न और ख़ालिसियत में बदलना जो सियासी पलटनों के बाद भी बची रह सके।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p16_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Capitals",
+                "t": 80.0,
+                "d": 597.0
+              },
+              {
+                "w": "moved",
+                "t": 678.0,
+                "d": 735.0
+              },
+              {
+                "w": "from",
+                "t": 1459.0,
+                "d": 367.0
+              },
+              {
+                "w": "Pandua",
+                "t": 1827.0,
+                "d": 551.0
+              },
+              {
+                "w": "to",
+                "t": 2379.0,
+                "d": 183.0
+              },
+              {
+                "w": "Gaur",
+                "t": 2563.0,
+                "d": 1103.0
+              },
+              {
+                "w": "but",
+                "t": 3712.0,
+                "d": 182.0
+              },
+              {
+                "w": "the",
+                "t": 3895.0,
+                "d": 185.0
+              },
+              {
+                "w": "coin",
+                "t": 4080.0,
+                "d": 320.0
+              },
+              {
+                "w": "system",
+                "t": 4401.0,
+                "d": 552.0
+              },
+              {
+                "w": "endured",
+                "t": 4954.0,
+                "d": 1287.0
+              },
+              {
+                "w": "Mints",
+                "t": 6241.0,
+                "d": 459.0
+              },
+              {
+                "w": "rose",
+                "t": 6701.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 7114.0,
+                "d": 275.0
+              },
+              {
+                "w": "fell",
+                "t": 7390.0,
+                "d": 689.0
+              },
+              {
+                "w": "yet",
+                "t": 8264.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 8586.0,
+                "d": 183.0
+              },
+              {
+                "w": "habit",
+                "t": 8770.0,
+                "d": 367.0
+              },
+              {
+                "w": "remained",
+                "t": 9137.0,
+                "d": 735.0
+              },
+              {
+                "w": "to",
+                "t": 10333.0,
+                "d": 229.0
+              },
+              {
+                "w": "make",
+                "t": 10563.0,
+                "d": 275.0
+              },
+              {
+                "w": "power",
+                "t": 10839.0,
+                "d": 320.0
+              },
+              {
+                "w": "tangible",
+                "t": 11159.0,
+                "d": 644.0
+              },
+              {
+                "w": "as",
+                "t": 11804.0,
+                "d": 228.0
+              },
+              {
+                "w": "weight",
+                "t": 12033.0,
+                "d": 414.0
+              },
+              {
+                "w": "and",
+                "t": 12448.0,
+                "d": 321.0
+              },
+              {
+                "w": "purity",
+                "t": 12770.0,
+                "d": 919.0
+              },
+              {
+                "w": "that",
+                "t": 13735.0,
+                "d": 275.0
+              },
+              {
+                "w": "could",
+                "t": 14011.0,
+                "d": 228.0
+              },
+              {
+                "w": "survive",
+                "t": 14240.0,
+                "d": 506.0
+              },
+              {
+                "w": "political",
+                "t": 14747.0,
+                "d": 597.0
+              },
+              {
+                "w": "turns",
+                "t": 15344.0,
+                "d": 781.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/twenty_seven_mints/split_auto/s0.png",
+          "slogan": {
+            "en": "By silver, Bengal stands united",
+            "hi": "चाँदी से बंगाल एकजुट है"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/twenty_seven_mints/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/twenty_seven_mints/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As capitals rise and fade, his silver truth endures, stitching Bengal's delta into one relentless current of exchange.",
+            "hi": "राजधानियाँ बदलती रहीं, उसकी चाँदी सी सच्चाई कायम रही, बंगाल के डेल्टा को एक बेहिसाब धारा में जोड़ती रही।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/split/split_auto_en.mp3",
+            "hi": "assets/twenty_seven_mints/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 114.0,
+                "d": 291.0
+              },
+              {
+                "w": "capitals",
+                "t": 406.0,
+                "d": 541.0
+              },
+              {
+                "w": "rise",
+                "t": 947.0,
+                "d": 291.0
+              },
+              {
+                "w": "and",
+                "t": 1239.0,
+                "d": 166.0
+              },
+              {
+                "w": "fade",
+                "t": 1406.0,
+                "d": 458.0
+              },
+              {
+                "w": "his",
+                "t": 2113.0,
+                "d": 291.0
+              },
+              {
+                "w": "silver",
+                "t": 2405.0,
+                "d": 417.0
+              },
+              {
+                "w": "truth",
+                "t": 2822.0,
+                "d": 290.0
+              },
+              {
+                "w": "endures",
+                "t": 3113.0,
+                "d": 792.0
+              },
+              {
+                "w": "stitching",
+                "t": 4030.0,
+                "d": 584.0
+              },
+              {
+                "w": "Bengal's",
+                "t": 4614.0,
+                "d": 541.0
+              },
+              {
+                "w": "delta",
+                "t": 5156.0,
+                "d": 500.0
+              },
+              {
+                "w": "into",
+                "t": 5656.0,
+                "d": 208.0
+              },
+              {
+                "w": "one",
+                "t": 5864.0,
+                "d": 458.0
+              },
+              {
+                "w": "relentless",
+                "t": 6322.0,
+                "d": 666.0
+              },
+              {
+                "w": "current",
+                "t": 6989.0,
+                "d": 333.0
+              },
+              {
+                "w": "of",
+                "t": 7322.0,
+                "d": 125.0
+              },
+              {
+                "w": "exchange",
+                "t": 7447.0,
+                "d": 875.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/twenty_seven_mints/img/p17.png",
+      "shot": "modern-style excavation scene, archaeologists dusting off a hoard of Bengal tankas in a trench",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Centuries later, buried hoards and museum trays let scholars reconstruct this monetary architecture. The coins speak calmly, showing dates, mints and shifts in style that chronicles barely remember.",
+            "hi": "सदियों बाद, गड़े ख़ज़ाने और अजीब-अजीब संग्रहों की तश्तरियाँ विद्वानों को इस नक़दी के ढाँचे को फिर जोड़ने देती हैं। सिक्के ठंडे अंदाज़ में बोलते हैं, तारीखें, टकसालें और अंदाज के बदलाव दिखाते हैं जिन्हें किताबें मुश्किल से याद रखती हैं।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p17_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Centuries",
+                "t": 117.0,
+                "d": 638.0
+              },
+              {
+                "w": "later",
+                "t": 755.0,
+                "d": 765.0
+              },
+              {
+                "w": "buried",
+                "t": 1606.0,
+                "d": 552.0
+              },
+              {
+                "w": "hoards",
+                "t": 2158.0,
+                "d": 468.0
+              },
+              {
+                "w": "and",
+                "t": 2626.0,
+                "d": 256.0
+              },
+              {
+                "w": "museum",
+                "t": 2882.0,
+                "d": 510.0
+              },
+              {
+                "w": "trays",
+                "t": 3393.0,
+                "d": 595.0
+              },
+              {
+                "w": "let",
+                "t": 4201.0,
+                "d": 341.0
+              },
+              {
+                "w": "scholars",
+                "t": 4542.0,
+                "d": 553.0
+              },
+              {
+                "w": "reconstruct",
+                "t": 5095.0,
+                "d": 765.0
+              },
+              {
+                "w": "this",
+                "t": 5861.0,
+                "d": 255.0
+              },
+              {
+                "w": "monetary",
+                "t": 6117.0,
+                "d": 553.0
+              },
+              {
+                "w": "architecture",
+                "t": 6670.0,
+                "d": 1531.0
+              },
+              {
+                "w": "The",
+                "t": 8287.0,
+                "d": 212.0
+              },
+              {
+                "w": "coins",
+                "t": 8500.0,
+                "d": 339.0
+              },
+              {
+                "w": "speak",
+                "t": 8839.0,
+                "d": 384.0
+              },
+              {
+                "w": "calmly",
+                "t": 9223.0,
+                "d": 764.0
+              },
+              {
+                "w": "showing",
+                "t": 9988.0,
+                "d": 554.0
+              },
+              {
+                "w": "dates",
+                "t": 10542.0,
+                "d": 679.0
+              },
+              {
+                "w": "mints",
+                "t": 11521.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 12074.0,
+                "d": 255.0
+              },
+              {
+                "w": "shifts",
+                "t": 12329.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 12712.0,
+                "d": 126.0
+              },
+              {
+                "w": "style",
+                "t": 12839.0,
+                "d": 384.0
+              },
+              {
+                "w": "that",
+                "t": 13223.0,
+                "d": 211.0
+              },
+              {
+                "w": "chronicles",
+                "t": 13435.0,
+                "d": 638.0
+              },
+              {
+                "w": "barely",
+                "t": 14073.0,
+                "d": 510.0
+              },
+              {
+                "w": "remember",
+                "t": 14584.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/twenty_seven_mints/img/p18.png",
+      "shot": "extreme close-up of the Tanka Master’s hand releasing a tanka into another outstretched palm, background fading to abstract river patterns",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In the end, a state in Bengal became real not through fort walls alone, but when its silver was trusted. Each tanka closed a deal, settled a tax, and quietly affirmed that the sultan's word still held.",
+            "hi": "आखिर में, बंगाल की सल्तनत सिर्फ़ क़िले की दीवारों से नहीं, तब हक़ीक़ी बनी जब उसकी चाँदी पर यक़ीन हुआ। हर टंका सौदा पक्का करता, लगान चुकाता, और चुपचाप ये यक़ीन दिलाता कि सुल्तान का शब्द अभी भी चलता है।"
+          },
+          "audio": {
+            "en": "assets/twenty_seven_mints/audio/en/p18_0.mp3",
+            "hi": "assets/twenty_seven_mints/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 202.0,
+                "d": 127.0
+              },
+              {
+                "w": "end",
+                "t": 329.0,
+                "d": 595.0
+              },
+              {
+                "w": "a",
+                "t": 1010.0,
+                "d": 127.0
+              },
+              {
+                "w": "state",
+                "t": 1138.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 1563.0,
+                "d": 212.0
+              },
+              {
+                "w": "Bengal",
+                "t": 1776.0,
+                "d": 638.0
+              },
+              {
+                "w": "became",
+                "t": 2414.0,
+                "d": 468.0
+              },
+              {
+                "w": "real",
+                "t": 2882.0,
+                "d": 679.0
+              },
+              {
+                "w": "not",
+                "t": 3562.0,
+                "d": 638.0
+              },
+              {
+                "w": "through",
+                "t": 4329.0,
+                "d": 297.0
+              },
+              {
+                "w": "fort",
+                "t": 4627.0,
+                "d": 170.0
+              },
+              {
+                "w": "walls",
+                "t": 4797.0,
+                "d": 212.0
+              },
+              {
+                "w": "alone",
+                "t": 5010.0,
+                "d": 765.0
+              },
+              {
+                "w": "but",
+                "t": 5904.0,
+                "d": 255.0
+              },
+              {
+                "w": "when",
+                "t": 6159.0,
+                "d": 170.0
+              },
+              {
+                "w": "its",
+                "t": 6329.0,
+                "d": 170.0
+              },
+              {
+                "w": "silver",
+                "t": 6500.0,
+                "d": 425.0
+              },
+              {
+                "w": "was",
+                "t": 6925.0,
+                "d": 212.0
+              },
+              {
+                "w": "trusted",
+                "t": 7138.0,
+                "d": 1361.0
+              },
+              {
+                "w": "Each",
+                "t": 8669.0,
+                "d": 425.0
+              },
+              {
+                "w": "tanka",
+                "t": 9094.0,
+                "d": 469.0
+              },
+              {
+                "w": "closed",
+                "t": 9563.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 9946.0,
+                "d": 85.0
+              },
+              {
+                "w": "deal",
+                "t": 10031.0,
+                "d": 850.0
+              },
+              {
+                "w": "settled",
+                "t": 11052.0,
+                "d": 469.0
+              },
+              {
+                "w": "a",
+                "t": 11521.0,
+                "d": 42.0
+              },
+              {
+                "w": "tax",
+                "t": 11563.0,
+                "d": 807.0
+              },
+              {
+                "w": "and",
+                "t": 12585.0,
+                "d": 339.0
+              },
+              {
+                "w": "quietly",
+                "t": 12924.0,
+                "d": 469.0
+              },
+              {
+                "w": "affirmed",
+                "t": 13393.0,
+                "d": 764.0
+              },
+              {
+                "w": "that",
+                "t": 14158.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 14413.0,
+                "d": 128.0
+              },
+              {
+                "w": "sultan's",
+                "t": 14542.0,
+                "d": 594.0
+              },
+              {
+                "w": "word",
+                "t": 15137.0,
+                "d": 340.0
+              },
+              {
+                "w": "still",
+                "t": 15477.0,
+                "d": 384.0
+              },
+              {
+                "w": "held",
+                "t": 15861.0,
+                "d": 509.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Bengal Sultanate Tanka Master",
+    "epithets": [
+      "Sultans of Bengal",
+      "Lords of the Delta",
+      "Builders of the Silver Taka",
+      "Rulers of Pandua and Gaur"
+    ],
+    "legend": "They stamped Bengal’s silver so every trade carried their name."
+  }
+}
