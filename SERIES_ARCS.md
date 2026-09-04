@@ -1586,6 +1586,33 @@ The Shah Mir century of Kashmir — from Rinchan's conversion and Kota Rani's la
 12. **The Poet Sultan Called Qutb** ✅ — Budshah's Persian verse under the pen-name **Qutb**, musicians recalled, the Sanskrit chronicler **Srivara** and the saints **Lal Ded & Sheikh Nooruddin** honoured; M.I. Khan's caution on the **silences in elite chronicles** stated openly. *(arts; source-criticism)*
 13. **Budshah's Last Friday** ✅ — no saintly sunset: fear of poison, the sons' rivalries, and the decline through Haidar and Hasan Shah to the Chaks and the **Mughal annexation of 1586** — "even a just reign cannot outlive an unsettled succession." *(hard truth; the reign's end)*
 
+## 🪙 The Bengal Sultanate of Gaur and Pandua  *(Medieval — c. 1338–1576 CE, the Bengal delta: Lakhnauti/Gaur, Pandua, Sonargaon & the Sundarbans)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The independent Indo-Bengali sultanate that distance and the rivers cut loose from Delhi — from **Shamsuddin Ilyas Shah's** unification (1342) to the death of **Gaur** and the Mughal conquest of 1576 — reconstructed from Ma Huan's *Yingya Shenglan*, Ibn Battuta's *Rihla*, the Persian *Riyaz-us-Salatin* and Firishta, Tome Pires, the *Baburnama*, Portuguese accounts, surviving *taka* coinage and the Adina/Eklakhi/Sixty-Dome monuments, and modern historians (Eaton, Majumdar, Abdul Karim, Nicholas Rhodes). Its innovation heart is a truth the textbooks skip: **a Persianate Muslim court made *Bengali* a literary language and bankrolled Hindu poets Englishing the epics into it** — held beside a brick-and-terracotta architecture, a 27-mint silver economy, giraffe-diplomacy with Ming China, and the balance mandate at its sharpest on Raja Ganesha and Husain Shah.
+
+**I. Delta Sovereignty**
+1. **Shah of All Bengal** ✅ — **Shamsuddin Ilyas Shah** welds Lakhnauti, Satgaon and Sonargaon into one sultanate and takes the title *Shah-i-Bangaliyan*, forging a Bengali political identity. *(foundation; rise)*
+2. **The Island Fort of Ekdala** ✅ — **Sikandar Shah** and the Ilyas Shahi defence of the Ekdala river-fort against **Firuz Shah Tughluq's** Delhi invasions; independence held by mud, water and monsoon. *(resistance; battle)*
+
+**II. Brick, Stone and Frontier Cities**
+3. **The Adina Wonder** ✅ — **Sikandar Shah's Adina Masjid at Pandua** (c. 1373), among the subcontinent's largest mosques, raised in **fired brick and reused temple basalt** in a stoneless delta; the spolia stated plainly. *(innovation — architecture)*
+4. **The Eklakhi Mausoleum** ✅ — the square brick tomb of Pandua attributed to **Jalaluddin Muhammad Shah**, seed of the mature Bengal terracotta style. *(architecture)*
+5. **Khalifatabad in the Mangroves** ✅ — the saint-administrator **Khan Jahan Ali** reclaims the Sundarbans, raising **Bagerhat / the Shat Gambuj (Sixty-Dome) Mosque** (a UNESCO site) with tanks and roads. *(craft; settlement)*
+
+**III. Courts of Language and Learning**
+6. **The Sultans and Bengali Poetry** ✅ — sultanate patronage of **Krittibas Ojha's Bengali *Ramayana*** and **Maladhar Basu's *Sri Krishna Vijaya*** (the title *Gunaraja Khan* conferred by the sultan): a Muslim court elevating a Hindu-epic vernacular. *(innovation — literature; cross-faith)*
+7. **The Sultan Who Wrote to Hafez** ✅ — **Ghiyasuddin Azam Shah's** famed correspondence with **Hafez of Shiraz**; a Persian-lettered court that nonetheless seeded a Bengali canon. *(arts; diplomacy of letters)*
+8. **A General's Bengali Mahabharata** ✅ — the commander **Paragal Khan** (*Lord of Fatehabad*) commissions **Kavindra Parameshwar's Bengali *Mahabharata*** ("Parageli Mahabharata") under Husain Shah. *(innovation — literature; patronage)*
+
+**IV. Silver, Ships and World Diplomacy**
+9. **The Bengal Giraffe** ✅ — the **1414 embassy that carried an East-African giraffe — re-gifted through Bengal — to the Ming Yongle court**, received as an auspicious *qilin* and recorded by the eyewitness **Ma Huan** in the *Yingya Shenglan*; Bengal honestly the entrepôt, not the origin. *(diplomacy; global connections)*
+10. **Twenty-Seven Mints** ✅ — the **silver *taka* struck across 27+ mints from Pandua to Chittagong** and plugged into the Indian Ocean (Nicholas Rhodes' numismatics), with the caveat that "coin boasts have limits." *(innovation — economy)*
+
+**V. Throne, Campaigns and the Dying City**
+11. **Raja Ganesha's Dangerous Throne** ✅ — the **Hindu noble Raja Ganesha's seizure of the throne (c. 1414) and his son's conversion as Jalaluddin Muhammad Shah**; the hostile "usurper/persecutor" *and* "forced-conversion" narratives attributed to the later chronicles that carry them (Firishta, *Riyaz-us-Salatin*, Wise), modern caution flagged **both** directions, anchored in coins. *(religiously sensitive; source-criticism)*
+12. **Husain Shah's Hundred Campaigns** ✅ — **Alauddin Husain Shah** not whitewashed either way: the **destruction of Kamatapur and the Orissa/Puri raids stated plainly** beside his integration of Hindus into the administration and his Bengali-letters patronage (Eaton, Majumdar, Tome Pires). *(hard truth; culture; the mandate)*
+13. **The City That Died Three Times** ✅ — the fall of **Gaur** across Nasrat Shah, Babur's 1529 Ghaghra victory, Humayun's 1538 *Jannatabad*, Sher Shah's displacement of him and the 1576 Mughal conquest — then the **environmental death** the textbooks skip: the **Ganges shifting away**, the port silting, and a Portuguese-reported **epidemic** whose pathogen the story declines to name. *(hard truth; environmental history)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
