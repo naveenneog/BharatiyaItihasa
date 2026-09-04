@@ -1613,6 +1613,33 @@ The independent Indo-Bengali sultanate that distance and the rivers cut loose fr
 12. **Husain Shah's Hundred Campaigns** ✅ — **Alauddin Husain Shah** not whitewashed either way: the **destruction of Kamatapur and the Orissa/Puri raids stated plainly** beside his integration of Hindus into the administration and his Bengali-letters patronage (Eaton, Majumdar, Tome Pires). *(hard truth; culture; the mandate)*
 13. **The City That Died Three Times** ✅ — the fall of **Gaur** across Nasrat Shah, Babur's 1529 Ghaghra victory, Humayun's 1538 *Jannatabad*, Sher Shah's displacement of him and the 1576 Mughal conquest — then the **environmental death** the textbooks skip: the **Ganges shifting away**, the port silting, and a Portuguese-reported **epidemic** whose pathogen the story declines to name. *(hard truth; environmental history)*
 
+## ⛓️ Malik Ambar and the Siddis of the Deccan  *(Early modern — c. 1548–1626 CE, the Ahmadnagar Deccan: Khadki/Aurangabad, the Balaghat & the Konkan coast)*  — **✅ CHAPTER COMPLETE (13/13)**
+
+The Ethiopian boy **Chapu of Harar**, enslaved and sold across the Indian Ocean, who rose to become **Malik Ambar**, regent-*Peshwa* of the Ahmadnagar Sultanate — the man who held the Mughal Empire out of the Deccan for a generation with **guerrilla light-cavalry**, engineered the water and the revenue of a new capital at **Khadki** (later Aurangabad), and whose **Habshi/Siddi** heirs carried an African-Indian memory from the sea-fort of **Janjira** to the 1947 accession and into living communities today. Reconstructed from the *Tuzuk-i-Jahangiri*, the *Maasir-i-Alamgiri*, Firishta, English Company factory records, Pietro della Valle and the Chester Beatty paintings, with modern historians (Radhey Shyam, Eaton, Wink, Guha, Basu, Obeng). The balance mandate held hard on the series' most racially-charged figure: **slavery and the Mughal court's anti-Black contempt stated as plain, attributed fact — and Ambar himself denied a flawless-hero halo.**
+
+**I. Across the Black Water**
+1. **From Harar to the Deccan** ✅ — the boy **Chapu**, born in **Harar** in the Horn of Africa, enslaved and sold across the Red Sea and Indian Ocean into Deccan service; slavery stated plainly, not softened. *(origin; hard truth)*
+2. **The Habshi Courts of the Deccan** ✅ — the real **Habshi (Abyssinian) military-slave communities** that manned and sometimes ruled the Deccan sultanates, the world that made Ambar's rise possible. *(context; social history)*
+
+**II. The King-Maker of Ahmadnagar**
+3. **The Freed Man Becomes Regent** ✅ — the manumitted slave rises to *Peshwa* and king-maker of **Ahmadnagar**, ruling in the name of puppet sultans. *(rise; rule)*
+4. **Maratha Horsemen Under Ambar** ✅ — his **recruitment of Maratha light cavalry**, a documented precursor to later Deccan warfare — credited without inflating him into "Shivaji's teacher." *(innovation — military; source-criticism)*
+
+**III. Wars of Dust and Monsoon**
+5. **Guerrilla King of the Hills** ✅ — the **light-cavalry raiding (bargi-giri) and scorched-monsoon tactics** that denied the Mughals a settled conquest of the Deccan. *(resistance; military)*
+6. **Bhatvadi Before the Flood** ✅ — his greatest victory, the **1624 Battle of Bhatvadi**, breaking a dam to trap a combined Mughal–Bijapur army in the monsoon mud. *(battle)*
+7. **Janjira the Sea Fort** ✅ — the impregnable island fortress of **Janjira** and the rise of **Siddi** naval power on the Konkan coast. *(fortress; naval)*
+
+**IV. The Builder's Innovations**
+8. **The River He Bent to Khadki** ✅ — the **water-engineering — channels and an underground supply** — that let Ambar found a capital on a dry plateau. *(innovation — hydraulic engineering)*
+9. **Counting Every Grain** ✅ — his **kankut land-revenue assessment** treated as real reform, without whitewashing the **peasant burden** it could impose or flattening him into the "father of ryotwari" (Wink, Guha). *(innovation — administration; the mandate)*
+10. **Khadki the City from Stone** ✅ — the planned city of **Khadki, renamed Aurangabad by Aurangzeb in 1653**, with the honest caveat against folding all later Mughal building into Ambar's account. *(craft; urbanism)*
+
+**V. Rule, Memory and Ocean Heirs**
+11. **The Court of a Freed Slave** ✅ — Ambar ruling from a **multi-ethnic court (Habshi, Deccani, Maratha, Persian)** — refused the saint's halo, his state stated to "rest on coercion and extraction," and he himself: "I, too, command chains." *(rule; anti-hagiography)*
+12. **Jahangir Shoots a Painted Enemy** ✅ — the **c. 1616 Chester Beatty allegory (Abul Hasan) of Jahangir shooting Malik Ambar's severed head**, read as **allegory and wish-fulfillment, not real execution**, beside the openly racist invective of the *Tuzuk-i-Jahangiri* stated as fact. *(racially/religiously sensitive; source-criticism)*
+13. **The Siddis After Janjira** ✅ — the Habshi legacy past Ambar's death: **Siddi Yaqut Khan** as Aurangzeb's admiral, the princely state that **acceded to India in 1947**, and the **living Siddi communities of Karnataka, Gujarat and Maharashtra** with their **Goma/Dhamal** music — memory "layered," not "a single, unbroken warrior tradition." *(afterlife; living history)*
+
 ## ⚔️ Rajput Valour  *(Medieval)*
 - **Prithviraj at Tarain** ⏳ · **Maharana Pratap Keeps the Hills Free** ⏳ ·
   **Rana Kumbha Raises Kumbhalgarh** ⏳ · **Warangal's Stone Gateways (Kakatiya)** ⏳.
