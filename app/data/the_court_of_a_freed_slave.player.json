@@ -1,0 +1,3542 @@
+{
+  "id": "the_court_of_a_freed_slave",
+  "title": "The Court of a Freed Slave",
+  "title_i18n": {
+    "en": "The Court of a Freed Slave",
+    "hi": "मुक्त दास का दरबार"
+  },
+  "figure": "Malik Ambar",
+  "era": "Khadki court and Nizam Shahi administration, c. 1608-1626 CE",
+  "moral": "Dignity grows when talent is allowed to govern.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/the_court_of_a_freed_slave/intro/hero.png",
+      "name": "Malik Ambar",
+      "epithets": [
+        "Malik Ambar",
+        "Abyssinian Regent of the Deccan",
+        "Slave-turned-Statesman",
+        "Defender of Ahmadnagar"
+      ],
+      "legend": "A freed slave who taught emperors fear and farmers hope.",
+      "era": "Khadki court and Nizam Shahi administration, c. 1608-1626 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Sold as a boy from Ethiopia, he rises to rule the Deccan. Now his sharp mind and fair tax deals must hold back the Mughal empire and save his fragile court.",
+            "hi": "इथियोपिया से बाल गुलाम बना, अब वो दक्कन का शासक है। उसकी तेज़ अक्ल और न्यायी कर व्यवस्था ही मुग़ल सल्तनत को रोककर उसकी नाज़ुक अदालत बचा सकती है।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/intro/hero_en.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Sold",
+                "t": 72.0,
+                "d": 541.0
+              },
+              {
+                "w": "as",
+                "t": 614.0,
+                "d": 208.0
+              },
+              {
+                "w": "a",
+                "t": 822.0,
+                "d": 125.0
+              },
+              {
+                "w": "boy",
+                "t": 947.0,
+                "d": 333.0
+              },
+              {
+                "w": "from",
+                "t": 1281.0,
+                "d": 250.0
+              },
+              {
+                "w": "Ethiopia",
+                "t": 1531.0,
+                "d": 915.0
+              },
+              {
+                "w": "he",
+                "t": 2697.0,
+                "d": 373.0
+              },
+              {
+                "w": "rises",
+                "t": 3071.0,
+                "d": 541.0
+              },
+              {
+                "w": "to",
+                "t": 3613.0,
+                "d": 126.0
+              },
+              {
+                "w": "rule",
+                "t": 3739.0,
+                "d": 332.0
+              },
+              {
+                "w": "the",
+                "t": 4071.0,
+                "d": 167.0
+              },
+              {
+                "w": "Deccan",
+                "t": 4239.0,
+                "d": 541.0
+              },
+              {
+                "w": "Now",
+                "t": 5531.0,
+                "d": 291.0
+              },
+              {
+                "w": "his",
+                "t": 5822.0,
+                "d": 125.0
+              },
+              {
+                "w": "sharp",
+                "t": 5947.0,
+                "d": 375.0
+              },
+              {
+                "w": "mind",
+                "t": 6322.0,
+                "d": 500.0
+              },
+              {
+                "w": "and",
+                "t": 6906.0,
+                "d": 250.0
+              },
+              {
+                "w": "fair",
+                "t": 7156.0,
+                "d": 250.0
+              },
+              {
+                "w": "tax",
+                "t": 7406.0,
+                "d": 291.0
+              },
+              {
+                "w": "deals",
+                "t": 7697.0,
+                "d": 541.0
+              },
+              {
+                "w": "must",
+                "t": 8363.0,
+                "d": 334.0
+              },
+              {
+                "w": "hold",
+                "t": 8697.0,
+                "d": 290.0
+              },
+              {
+                "w": "back",
+                "t": 8988.0,
+                "d": 251.0
+              },
+              {
+                "w": "the",
+                "t": 9239.0,
+                "d": 125.0
+              },
+              {
+                "w": "Mughal",
+                "t": 9364.0,
+                "d": 332.0
+              },
+              {
+                "w": "empire",
+                "t": 9696.0,
+                "d": 626.0
+              },
+              {
+                "w": "and",
+                "t": 10322.0,
+                "d": 498.0
+              },
+              {
+                "w": "save",
+                "t": 10821.0,
+                "d": 292.0
+              },
+              {
+                "w": "his",
+                "t": 11114.0,
+                "d": 208.0
+              },
+              {
+                "w": "fragile",
+                "t": 11322.0,
+                "d": 500.0
+              },
+              {
+                "w": "court",
+                "t": 11822.0,
+                "d": 458.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/the_court_of_a_freed_slave/intro/map.png",
+      "x": 0.55,
+      "y": 0.6,
+      "label": "Khadki & Ahmadnagar, Deccan",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In these dry hills and crowded bazaars, a former slave builds a careful power that Mogul cannons cannot easily break.",
+            "hi": "इन सूखी पहाड़ियों और भीड़ भरे बाज़ारों में, एक पूर्व दास ऐसी ताकत खड़ी कर रहा है जिसे मुग़ल तोपें भी नहीं तोड़ पातीं।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/intro/map_en.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "these",
+                "t": 310.0,
+                "d": 321.0
+              },
+              {
+                "w": "dry",
+                "t": 632.0,
+                "d": 321.0
+              },
+              {
+                "w": "hills",
+                "t": 954.0,
+                "d": 459.0
+              },
+              {
+                "w": "and",
+                "t": 1413.0,
+                "d": 275.0
+              },
+              {
+                "w": "crowded",
+                "t": 1689.0,
+                "d": 459.0
+              },
+              {
+                "w": "bazaars",
+                "t": 2149.0,
+                "d": 781.0
+              },
+              {
+                "w": "a",
+                "t": 3160.0,
+                "d": 228.0
+              },
+              {
+                "w": "former",
+                "t": 3389.0,
+                "d": 413.0
+              },
+              {
+                "w": "slave",
+                "t": 3803.0,
+                "d": 460.0
+              },
+              {
+                "w": "builds",
+                "t": 4264.0,
+                "d": 367.0
+              },
+              {
+                "w": "a",
+                "t": 4632.0,
+                "d": 229.0
+              },
+              {
+                "w": "careful",
+                "t": 4862.0,
+                "d": 505.0
+              },
+              {
+                "w": "power",
+                "t": 5367.0,
+                "d": 321.0
+              },
+              {
+                "w": "that",
+                "t": 5689.0,
+                "d": 229.0
+              },
+              {
+                "w": "Mogul",
+                "t": 5919.0,
+                "d": 413.0
+              },
+              {
+                "w": "cannons",
+                "t": 6333.0,
+                "d": 551.0
+              },
+              {
+                "w": "cannot",
+                "t": 6885.0,
+                "d": 459.0
+              },
+              {
+                "w": "easily",
+                "t": 7390.0,
+                "d": 551.0
+              },
+              {
+                "w": "break",
+                "t": 7942.0,
+                "d": 597.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/the_court_of_a_freed_slave/img/cover.png",
+      "shot": "sweeping low-angle hero wide inside a bustling Deccan court",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In Khadki's crowded court, a man once sold as a slave rules as Peshwa, Malik Ambar, the Habshi whose Persian letters teach princes the grammar of kingship in a fractured Deccan.",
+            "hi": "खड़की के भीड़ भरे दरबार में, कभी बिक चुका आदमी पेशवा बनकर राज करता है—मलिक अम्बर, वो हब्शी जिसकी फ़ारसी चिट्ठियाँ राजकुमारों को बादशाही का व्याकरण सिखाती हैं टूटे-फूटे दकन में।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/cover_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "Khadki's",
+                "t": 329.0,
+                "d": 510.0
+              },
+              {
+                "w": "crowded",
+                "t": 840.0,
+                "d": 468.0
+              },
+              {
+                "w": "court",
+                "t": 1308.0,
+                "d": 638.0
+              },
+              {
+                "w": "a",
+                "t": 2158.0,
+                "d": 128.0
+              },
+              {
+                "w": "man",
+                "t": 2287.0,
+                "d": 296.0
+              },
+              {
+                "w": "once",
+                "t": 2584.0,
+                "d": 298.0
+              },
+              {
+                "w": "sold",
+                "t": 2882.0,
+                "d": 425.0
+              },
+              {
+                "w": "as",
+                "t": 3308.0,
+                "d": 211.0
+              },
+              {
+                "w": "a",
+                "t": 3520.0,
+                "d": 42.0
+              },
+              {
+                "w": "slave",
+                "t": 3562.0,
+                "d": 468.0
+              },
+              {
+                "w": "rules",
+                "t": 4030.0,
+                "d": 426.0
+              },
+              {
+                "w": "as",
+                "t": 4457.0,
+                "d": 340.0
+              },
+              {
+                "w": "Peshwa",
+                "t": 4797.0,
+                "d": 595.0
+              },
+              {
+                "w": "Malik",
+                "t": 5776.0,
+                "d": 382.0
+              },
+              {
+                "w": "Ambar",
+                "t": 6159.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 7010.0,
+                "d": 212.0
+              },
+              {
+                "w": "Habshi",
+                "t": 7223.0,
+                "d": 382.0
+              },
+              {
+                "w": "whose",
+                "t": 7606.0,
+                "d": 297.0
+              },
+              {
+                "w": "Persian",
+                "t": 7904.0,
+                "d": 382.0
+              },
+              {
+                "w": "letters",
+                "t": 8287.0,
+                "d": 467.0
+              },
+              {
+                "w": "teach",
+                "t": 8754.0,
+                "d": 340.0
+              },
+              {
+                "w": "princes",
+                "t": 9094.0,
+                "d": 469.0
+              },
+              {
+                "w": "the",
+                "t": 9563.0,
+                "d": 169.0
+              },
+              {
+                "w": "grammar",
+                "t": 9732.0,
+                "d": 384.0
+              },
+              {
+                "w": "of",
+                "t": 10117.0,
+                "d": 170.0
+              },
+              {
+                "w": "kingship",
+                "t": 10287.0,
+                "d": 679.0
+              },
+              {
+                "w": "in",
+                "t": 11010.0,
+                "d": 211.0
+              },
+              {
+                "w": "a",
+                "t": 11222.0,
+                "d": 85.0
+              },
+              {
+                "w": "fractured",
+                "t": 11307.0,
+                "d": 553.0
+              },
+              {
+                "w": "Deccan",
+                "t": 11860.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/the_court_of_a_freed_slave/img/p01.png",
+      "shot": "slow push-in from above onto the growing town of Khadki",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By sixteen oh eight, Khadki swells from a small settlement into a humming capital. At its center stands Malik Ambar, former Habshi slave, now de facto ruler of Ahmadnagar's shattered kingdom.",
+            "hi": "१६०८ तक आते‑आते खड़की एक छोटी बसाहट से गूंजती राजधानी बन जाती है। उसके बीचोंबीच मलिक अम्बर खड़ा है—पूर्व हब्शी ग़ुलाम, अब अहमदनगर की टूटी हुई रियासत का असल हाकिम।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p01_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "sixteen",
+                "t": 287.0,
+                "d": 425.0
+              },
+              {
+                "w": "oh",
+                "t": 712.0,
+                "d": 170.0
+              },
+              {
+                "w": "eight",
+                "t": 882.0,
+                "d": 638.0
+              },
+              {
+                "w": "Khadki",
+                "t": 1691.0,
+                "d": 425.0
+              },
+              {
+                "w": "swells",
+                "t": 2117.0,
+                "d": 339.0
+              },
+              {
+                "w": "from",
+                "t": 2456.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 2626.0,
+                "d": 43.0
+              },
+              {
+                "w": "small",
+                "t": 2670.0,
+                "d": 467.0
+              },
+              {
+                "w": "settlement",
+                "t": 3137.0,
+                "d": 596.0
+              },
+              {
+                "w": "into",
+                "t": 3734.0,
+                "d": 296.0
+              },
+              {
+                "w": "a",
+                "t": 4030.0,
+                "d": 85.0
+              },
+              {
+                "w": "humming",
+                "t": 4115.0,
+                "d": 384.0
+              },
+              {
+                "w": "capital",
+                "t": 4500.0,
+                "d": 723.0
+              },
+              {
+                "w": "At",
+                "t": 5648.0,
+                "d": 212.0
+              },
+              {
+                "w": "its",
+                "t": 5861.0,
+                "d": 212.0
+              },
+              {
+                "w": "center",
+                "t": 6074.0,
+                "d": 553.0
+              },
+              {
+                "w": "stands",
+                "t": 6670.0,
+                "d": 468.0
+              },
+              {
+                "w": "Malik",
+                "t": 7138.0,
+                "d": 382.0
+              },
+              {
+                "w": "Ambar",
+                "t": 7563.0,
+                "d": 680.0
+              },
+              {
+                "w": "former",
+                "t": 8287.0,
+                "d": 467.0
+              },
+              {
+                "w": "Habshi",
+                "t": 8754.0,
+                "d": 384.0
+              },
+              {
+                "w": "slave",
+                "t": 9138.0,
+                "d": 808.0
+              },
+              {
+                "w": "now",
+                "t": 9988.0,
+                "d": 298.0
+              },
+              {
+                "w": "de",
+                "t": 10287.0,
+                "d": 127.0
+              },
+              {
+                "w": "facto",
+                "t": 10414.0,
+                "d": 425.0
+              },
+              {
+                "w": "ruler",
+                "t": 10840.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 11265.0,
+                "d": 212.0
+              },
+              {
+                "w": "Ahmadnagar's",
+                "t": 11478.0,
+                "d": 765.0
+              },
+              {
+                "w": "shattered",
+                "t": 12244.0,
+                "d": 808.0
+              },
+              {
+                "w": "kingdom",
+                "t": 13053.0,
+                "d": 553.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/the_court_of_a_freed_slave/img/p02.png",
+      "shot": "medium interior shot of Ambar seated in durbar",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Nizam Shahi sultan's authority is thin, Mughal armies press from the north, and yet in this hall decisions of war, tax and land flow through Malik Ambar's hands.",
+            "hi": "निज़ाम शाही सुल्तान की ताक़त पतली है, मुग़ल फ़ौजें उत्तर से चढ़ती हैं, फिर भी इसी हॉल में जंग, लगान और ज़मीन के फ़ैसले मलिक अम्बर के हाथों से बहते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p02_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "Nizam",
+                "t": 230.0,
+                "d": 320.0
+              },
+              {
+                "w": "Shahi",
+                "t": 550.0,
+                "d": 280.0
+              },
+              {
+                "w": "sultan's",
+                "t": 830.0,
+                "d": 480.0
+              },
+              {
+                "w": "authority",
+                "t": 1310.0,
+                "d": 640.0
+              },
+              {
+                "w": "is",
+                "t": 1950.0,
+                "d": 240.0
+              },
+              {
+                "w": "thin",
+                "t": 2190.0,
+                "d": 520.0
+              },
+              {
+                "w": "Mughal",
+                "t": 2909.0,
+                "d": 321.0
+              },
+              {
+                "w": "armies",
+                "t": 3230.0,
+                "d": 360.0
+              },
+              {
+                "w": "press",
+                "t": 3590.0,
+                "d": 279.0
+              },
+              {
+                "w": "from",
+                "t": 3869.0,
+                "d": 161.0
+              },
+              {
+                "w": "the",
+                "t": 4030.0,
+                "d": 120.0
+              },
+              {
+                "w": "north",
+                "t": 4150.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 4910.0,
+                "d": 240.0
+              },
+              {
+                "w": "yet",
+                "t": 5150.0,
+                "d": 320.0
+              },
+              {
+                "w": "in",
+                "t": 5470.0,
+                "d": 160.0
+              },
+              {
+                "w": "this",
+                "t": 5630.0,
+                "d": 200.0
+              },
+              {
+                "w": "hall",
+                "t": 5830.0,
+                "d": 320.0
+              },
+              {
+                "w": "decisions",
+                "t": 6150.0,
+                "d": 520.0
+              },
+              {
+                "w": "of",
+                "t": 6670.0,
+                "d": 200.0
+              },
+              {
+                "w": "war",
+                "t": 6870.0,
+                "d": 480.0
+              },
+              {
+                "w": "tax",
+                "t": 7510.0,
+                "d": 400.0
+              },
+              {
+                "w": "and",
+                "t": 7910.0,
+                "d": 159.0
+              },
+              {
+                "w": "land",
+                "t": 8069.0,
+                "d": 240.0
+              },
+              {
+                "w": "flow",
+                "t": 8309.0,
+                "d": 521.0
+              },
+              {
+                "w": "through",
+                "t": 8830.0,
+                "d": 280.0
+              },
+              {
+                "w": "Malik",
+                "t": 9110.0,
+                "d": 320.0
+              },
+              {
+                "w": "Ambar's",
+                "t": 9430.0,
+                "d": 440.0
+              },
+              {
+                "w": "hands",
+                "t": 9870.0,
+                "d": 640.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/the_court_of_a_freed_slave/img/p03.png",
+      "shot": "extreme close-up on Malik Ambar’s hand writing",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "His power is not only on horseback. It lives in letters and firmans, composed in Persian, where this Habshi commander speaks in the polished idiom of elite Indo-Persian politics.",
+            "hi": "उसकी ताक़त सिर्फ़ घोड़े की पीठ पर नहीं। वो रहती है चिट्ठियों और फ़रमानों में, फ़ारसी में लिखी हुई, जहाँ ये हब्शी सरदार आलीशान हिंद‑फ़ारसी सियासत की सधी ज़बान में बोलता है।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p03_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "His",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "power",
+                "t": 329.0,
+                "d": 382.0
+              },
+              {
+                "w": "is",
+                "t": 712.0,
+                "d": 127.0
+              },
+              {
+                "w": "not",
+                "t": 840.0,
+                "d": 297.0
+              },
+              {
+                "w": "only",
+                "t": 1138.0,
+                "d": 340.0
+              },
+              {
+                "w": "on",
+                "t": 1478.0,
+                "d": 255.0
+              },
+              {
+                "w": "horseback",
+                "t": 1734.0,
+                "d": 1063.0
+              },
+              {
+                "w": "It",
+                "t": 2840.0,
+                "d": 254.0
+              },
+              {
+                "w": "lives",
+                "t": 3094.0,
+                "d": 256.0
+              },
+              {
+                "w": "in",
+                "t": 3351.0,
+                "d": 127.0
+              },
+              {
+                "w": "letters",
+                "t": 3478.0,
+                "d": 552.0
+              },
+              {
+                "w": "and",
+                "t": 4030.0,
+                "d": 256.0
+              },
+              {
+                "w": "firmans",
+                "t": 4287.0,
+                "d": 765.0
+              },
+              {
+                "w": "composed",
+                "t": 5223.0,
+                "d": 595.0
+              },
+              {
+                "w": "in",
+                "t": 5819.0,
+                "d": 170.0
+              },
+              {
+                "w": "Persian",
+                "t": 5989.0,
+                "d": 808.0
+              },
+              {
+                "w": "where",
+                "t": 7053.0,
+                "d": 255.0
+              },
+              {
+                "w": "this",
+                "t": 7308.0,
+                "d": 212.0
+              },
+              {
+                "w": "Habshi",
+                "t": 7521.0,
+                "d": 382.0
+              },
+              {
+                "w": "commander",
+                "t": 7904.0,
+                "d": 510.0
+              },
+              {
+                "w": "speaks",
+                "t": 8414.0,
+                "d": 468.0
+              },
+              {
+                "w": "in",
+                "t": 8882.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 9009.0,
+                "d": 170.0
+              },
+              {
+                "w": "polished",
+                "t": 9179.0,
+                "d": 468.0
+              },
+              {
+                "w": "idiom",
+                "t": 9647.0,
+                "d": 469.0
+              },
+              {
+                "w": "of",
+                "t": 10117.0,
+                "d": 255.0
+              },
+              {
+                "w": "elite",
+                "t": 10372.0,
+                "d": 424.0
+              },
+              {
+                "w": "Indo-Persian",
+                "t": 10796.0,
+                "d": 767.0
+              },
+              {
+                "w": "politics",
+                "t": 11563.0,
+                "d": 807.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/the_court_of_a_freed_slave/img/p04.png",
+      "shot": "over-the-shoulder shot of a letter being composed",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Write: \"Justice must bind our officers as firmly as obedience binds our soldiers.\"",
+            "hi": "लिखो: “इंसाफ़ हमारे अफ़सरों को उतनी ही मज़बूती से बाँधे, जितनी फ़रमाबरदारी हमारे सिपाहियों को बाँधती है।”"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p04_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Write",
+                "t": 49.0,
+                "d": 367.7
+              },
+              {
+                "w": "\"Justice",
+                "t": 551.5,
+                "d": 514.7
+              },
+              {
+                "w": "must",
+                "t": 1066.2,
+                "d": 355.4
+              },
+              {
+                "w": "bind",
+                "t": 1421.6,
+                "d": 379.9
+              },
+              {
+                "w": "our",
+                "t": 1850.5,
+                "d": 220.6
+              },
+              {
+                "w": "officers",
+                "t": 2144.6,
+                "d": 600.5
+              },
+              {
+                "w": "as",
+                "t": 2916.7,
+                "d": 294.1
+              },
+              {
+                "w": "firmly",
+                "t": 3210.8,
+                "d": 490.2
+              },
+              {
+                "w": "as",
+                "t": 3774.5,
+                "d": 306.4
+              },
+              {
+                "w": "obedience",
+                "t": 4154.4,
+                "d": 649.5
+              },
+              {
+                "w": "binds",
+                "t": 4828.4,
+                "d": 441.2
+              },
+              {
+                "w": "our",
+                "t": 5318.6,
+                "d": 232.8
+              },
+              {
+                "w": "soldiers",
+                "t": 5551.5,
+                "d": 661.8
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/the_court_of_a_freed_slave/img/p05.png",
+      "shot": "medium shot of Ambar with mixed council around a table",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "In council he gathers Brahmin revenue men, Maratha horsemen, Deccani Muslims and Habshi captains, different tongues, scripts and gods bound by the needs of land, pay and defense.",
+            "hi": "मजलिस में वो ब्राह्मण महसूलदार, मराठा घुड़सवार, दकनी मुसलमान और हब्शी सरदारों को जुटाता है—अलग ज़ुबानें, लिपियाँ और ख़ुदा, मगर ज़मीन, मेहनताना और रक्षा की ज़रूरत से बंधे हुए।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p05_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "In",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "council",
+                "t": 329.0,
+                "d": 553.0
+              },
+              {
+                "w": "he",
+                "t": 882.0,
+                "d": 170.0
+              },
+              {
+                "w": "gathers",
+                "t": 1053.0,
+                "d": 468.0
+              },
+              {
+                "w": "Brahmin",
+                "t": 1521.0,
+                "d": 510.0
+              },
+              {
+                "w": "revenue",
+                "t": 2031.0,
+                "d": 509.0
+              },
+              {
+                "w": "men",
+                "t": 2541.0,
+                "d": 468.0
+              },
+              {
+                "w": "Maratha",
+                "t": 3094.0,
+                "d": 510.0
+              },
+              {
+                "w": "horsemen",
+                "t": 3605.0,
+                "d": 724.0
+              },
+              {
+                "w": "Deccani",
+                "t": 4670.0,
+                "d": 468.0
+              },
+              {
+                "w": "Muslims",
+                "t": 5138.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 5691.0,
+                "d": 212.0
+              },
+              {
+                "w": "Habshi",
+                "t": 5904.0,
+                "d": 382.0
+              },
+              {
+                "w": "captains",
+                "t": 6287.0,
+                "d": 851.0
+              },
+              {
+                "w": "different",
+                "t": 7478.0,
+                "d": 468.0
+              },
+              {
+                "w": "tongues",
+                "t": 7946.0,
+                "d": 722.0
+              },
+              {
+                "w": "scripts",
+                "t": 8711.0,
+                "d": 894.0
+              },
+              {
+                "w": "and",
+                "t": 9732.0,
+                "d": 298.0
+              },
+              {
+                "w": "gods",
+                "t": 10031.0,
+                "d": 340.0
+              },
+              {
+                "w": "bound",
+                "t": 10372.0,
+                "d": 297.0
+              },
+              {
+                "w": "by",
+                "t": 10670.0,
+                "d": 170.0
+              },
+              {
+                "w": "the",
+                "t": 10840.0,
+                "d": 126.0
+              },
+              {
+                "w": "needs",
+                "t": 10967.0,
+                "d": 298.0
+              },
+              {
+                "w": "of",
+                "t": 11265.0,
+                "d": 212.0
+              },
+              {
+                "w": "land",
+                "t": 11478.0,
+                "d": 680.0
+              },
+              {
+                "w": "pay",
+                "t": 12329.0,
+                "d": 340.0
+              },
+              {
+                "w": "and",
+                "t": 12670.0,
+                "d": 212.0
+              },
+              {
+                "w": "defense",
+                "t": 12882.0,
+                "d": 808.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/the_court_of_a_freed_slave/img/p06.png",
+      "shot": "low-angle medium shot highlighting Ambar’s posture of authority",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He bears the title Peshwa, a Deccan office of chief minister and military head. Through it, a freed slave commands old titles and new loyalties without erasing his origin.",
+            "hi": "वो पेशवा का ख़िताब उठाए है—दकन का वज़ीर‑ए‑आज़म और फ़ौजी सरदार। इसी ओहदे से एक आज़ाद ग़ुलाम पुराने ख़िताबों और नई वफ़ादारियों पर हुक्म चलाता है, बिना अपनी जड़ मिटाए।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p06_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "bears",
+                "t": 329.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 585.0,
+                "d": 127.0
+              },
+              {
+                "w": "title",
+                "t": 712.0,
+                "d": 425.0
+              },
+              {
+                "w": "Peshwa",
+                "t": 1138.0,
+                "d": 680.0
+              },
+              {
+                "w": "a",
+                "t": 2074.0,
+                "d": 212.0
+              },
+              {
+                "w": "Deccan",
+                "t": 2287.0,
+                "d": 296.0
+              },
+              {
+                "w": "office",
+                "t": 2584.0,
+                "d": 341.0
+              },
+              {
+                "w": "of",
+                "t": 2925.0,
+                "d": 126.0
+              },
+              {
+                "w": "chief",
+                "t": 3052.0,
+                "d": 298.0
+              },
+              {
+                "w": "minister",
+                "t": 3351.0,
+                "d": 638.0
+              },
+              {
+                "w": "and",
+                "t": 4030.0,
+                "d": 212.0
+              },
+              {
+                "w": "military",
+                "t": 4243.0,
+                "d": 511.0
+              },
+              {
+                "w": "head",
+                "t": 4755.0,
+                "d": 723.0
+              },
+              {
+                "w": "Through",
+                "t": 5861.0,
+                "d": 425.0
+              },
+              {
+                "w": "it",
+                "t": 6287.0,
+                "d": 297.0
+              },
+              {
+                "w": "a",
+                "t": 6670.0,
+                "d": 212.0
+              },
+              {
+                "w": "freed",
+                "t": 6882.0,
+                "d": 382.0
+              },
+              {
+                "w": "slave",
+                "t": 7265.0,
+                "d": 382.0
+              },
+              {
+                "w": "commands",
+                "t": 7648.0,
+                "d": 468.0
+              },
+              {
+                "w": "old",
+                "t": 8117.0,
+                "d": 297.0
+              },
+              {
+                "w": "titles",
+                "t": 8414.0,
+                "d": 764.0
+              },
+              {
+                "w": "and",
+                "t": 9264.0,
+                "d": 298.0
+              },
+              {
+                "w": "new",
+                "t": 9563.0,
+                "d": 212.0
+              },
+              {
+                "w": "loyalties",
+                "t": 9776.0,
+                "d": 595.0
+              },
+              {
+                "w": "without",
+                "t": 10372.0,
+                "d": 382.0
+              },
+              {
+                "w": "erasing",
+                "t": 10796.0,
+                "d": 510.0
+              },
+              {
+                "w": "his",
+                "t": 11307.0,
+                "d": 128.0
+              },
+              {
+                "w": "origin",
+                "t": 11436.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/the_court_of_a_freed_slave/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_court_of_a_freed_slave/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As revenues stabilize, Ambar tests Khadki's defenses, reading every stone and field like entries in his ledgers.",
+            "hi": "आमदनी सँभलते ही, अम्बर खडकी की रक्षा परखता है, हर पत्थर‑खेत को अपनी बही जैसा पढ़ता है।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/action/action_auto_en.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "revenues",
+                "t": 356.0,
+                "d": 505.0
+              },
+              {
+                "w": "stabilize",
+                "t": 862.0,
+                "d": 965.0
+              },
+              {
+                "w": "Ambar",
+                "t": 2011.0,
+                "d": 367.0
+              },
+              {
+                "w": "tests",
+                "t": 2379.0,
+                "d": 320.0
+              },
+              {
+                "w": "Khadki's",
+                "t": 2700.0,
+                "d": 643.0
+              },
+              {
+                "w": "defenses",
+                "t": 3343.0,
+                "d": 1057.0
+              },
+              {
+                "w": "reading",
+                "t": 4447.0,
+                "d": 644.0
+              },
+              {
+                "w": "every",
+                "t": 5091.0,
+                "d": 459.0
+              },
+              {
+                "w": "stone",
+                "t": 5551.0,
+                "d": 597.0
+              },
+              {
+                "w": "and",
+                "t": 6149.0,
+                "d": 275.0
+              },
+              {
+                "w": "field",
+                "t": 6425.0,
+                "d": 367.0
+              },
+              {
+                "w": "like",
+                "t": 6793.0,
+                "d": 275.0
+              },
+              {
+                "w": "entries",
+                "t": 7068.0,
+                "d": 643.0
+              },
+              {
+                "w": "in",
+                "t": 7712.0,
+                "d": 137.0
+              },
+              {
+                "w": "his",
+                "t": 7850.0,
+                "d": 183.0
+              },
+              {
+                "w": "ledgers",
+                "t": 8034.0,
+                "d": 735.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/the_court_of_a_freed_slave/img/p07.png",
+      "shot": "wide shot of court audience with envoys and petitioners",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Surviving documents speak in workaday language of land shares, arrears, discipline. Behind them lie fields and forts whose people seldom see this room but feel its orders.",
+            "hi": "बची काग़ज़ात की ज़ुबान रोज़मर्रा की है—ज़मीन के हिस्से, बाक़ाया, अनुशासन। इनके पीछे वो खेत और क़िले हैं, जिनके लोग इस कमरे को शायद ही देखें, पर इसके हुक्म ज़रूर महसूस करें।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p07_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Surviving",
+                "t": 74.0,
+                "d": 595.0
+              },
+              {
+                "w": "documents",
+                "t": 670.0,
+                "d": 595.0
+              },
+              {
+                "w": "speak",
+                "t": 1265.0,
+                "d": 382.0
+              },
+              {
+                "w": "in",
+                "t": 1648.0,
+                "d": 127.0
+              },
+              {
+                "w": "workaday",
+                "t": 1776.0,
+                "d": 553.0
+              },
+              {
+                "w": "language",
+                "t": 2329.0,
+                "d": 468.0
+              },
+              {
+                "w": "of",
+                "t": 2797.0,
+                "d": 169.0
+              },
+              {
+                "w": "land",
+                "t": 2967.0,
+                "d": 256.0
+              },
+              {
+                "w": "shares",
+                "t": 3223.0,
+                "d": 680.0
+              },
+              {
+                "w": "arrears",
+                "t": 4073.0,
+                "d": 894.0
+              },
+              {
+                "w": "discipline",
+                "t": 5095.0,
+                "d": 765.0
+              },
+              {
+                "w": "Behind",
+                "t": 6925.0,
+                "d": 553.0
+              },
+              {
+                "w": "them",
+                "t": 7478.0,
+                "d": 212.0
+              },
+              {
+                "w": "lie",
+                "t": 7691.0,
+                "d": 340.0
+              },
+              {
+                "w": "fields",
+                "t": 8031.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 8457.0,
+                "d": 254.0
+              },
+              {
+                "w": "forts",
+                "t": 8711.0,
+                "d": 724.0
+              },
+              {
+                "w": "whose",
+                "t": 9563.0,
+                "d": 297.0
+              },
+              {
+                "w": "people",
+                "t": 9861.0,
+                "d": 340.0
+              },
+              {
+                "w": "seldom",
+                "t": 10202.0,
+                "d": 509.0
+              },
+              {
+                "w": "see",
+                "t": 10711.0,
+                "d": 213.0
+              },
+              {
+                "w": "this",
+                "t": 10925.0,
+                "d": 255.0
+              },
+              {
+                "w": "room",
+                "t": 11180.0,
+                "d": 594.0
+              },
+              {
+                "w": "but",
+                "t": 11775.0,
+                "d": 298.0
+              },
+              {
+                "w": "feel",
+                "t": 12074.0,
+                "d": 425.0
+              },
+              {
+                "w": "its",
+                "t": 12500.0,
+                "d": 212.0
+              },
+              {
+                "w": "orders",
+                "t": 12712.0,
+                "d": 851.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/the_court_of_a_freed_slave/img/p08.png",
+      "shot": "medium shot of Ambar listening to a village representative",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "\"Assess with fairness,\" he instructs, \"but the treasury must not run dry.\"",
+            "hi": "“तौलो तो इंसाफ़ से,” वो हुक्म देता है, “पर ख़ज़ाना सूखने न पाए।”"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p08_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "\"Assess",
+                "t": 49.0,
+                "d": 379.9
+              },
+              {
+                "w": "with",
+                "t": 428.9,
+                "d": 232.8
+              },
+              {
+                "w": "fairness",
+                "t": 661.8,
+                "d": 637.2
+              },
+              {
+                "w": "\" he",
+                "t": 1544.1,
+                "d": 171.6
+              },
+              {
+                "w": "instructs",
+                "t": 1740.2,
+                "d": 661.8
+              },
+              {
+                "w": "\"but",
+                "t": 2708.3,
+                "d": 208.3
+              },
+              {
+                "w": "the",
+                "t": 2916.7,
+                "d": 147.0
+              },
+              {
+                "w": "treasury",
+                "t": 3063.7,
+                "d": 539.2
+              },
+              {
+                "w": "must",
+                "t": 3603.0,
+                "d": 330.9
+              },
+              {
+                "w": "not",
+                "t": 3995.1,
+                "d": 306.4
+              },
+              {
+                "w": "run",
+                "t": 4350.5,
+                "d": 281.8
+              },
+              {
+                "w": "dry",
+                "t": 4632.3,
+                "d": 330.9
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/the_court_of_a_freed_slave/img/p09.png",
+      "shot": "dynamic map-table shot, overhead",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Even as he refines revenue, his letters carry instructions for campaigns, alliances and scorched-earth tactics that frustrate Mughal generals like Jahangir's son, the prince Khurram.",
+            "hi": "राजस्व सँवारते‑सँवारते उसकी चिट्ठियाँ जंग, गठजोड़ और जला‑डाला ज़मीन की चालें भी ले जाती हैं, जो मुग़ल सरदारों को लाचार करती हैं—जहाँगीर के बेटे, शहज़ादे ख़ुर्रम समेत।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p09_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Even",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "as",
+                "t": 372.0,
+                "d": 170.0
+              },
+              {
+                "w": "he",
+                "t": 542.0,
+                "d": 127.0
+              },
+              {
+                "w": "refines",
+                "t": 670.0,
+                "d": 553.0
+              },
+              {
+                "w": "revenue",
+                "t": 1223.0,
+                "d": 723.0
+              },
+              {
+                "w": "his",
+                "t": 1946.0,
+                "d": 255.0
+              },
+              {
+                "w": "letters",
+                "t": 2202.0,
+                "d": 510.0
+              },
+              {
+                "w": "carry",
+                "t": 2712.0,
+                "d": 339.0
+              },
+              {
+                "w": "instructions",
+                "t": 3052.0,
+                "d": 724.0
+              },
+              {
+                "w": "for",
+                "t": 3776.0,
+                "d": 212.0
+              },
+              {
+                "w": "campaigns",
+                "t": 3989.0,
+                "d": 851.0
+              },
+              {
+                "w": "alliances",
+                "t": 4840.0,
+                "d": 1021.0
+              },
+              {
+                "w": "and",
+                "t": 5861.0,
+                "d": 382.0
+              },
+              {
+                "w": "scorched-earth",
+                "t": 6244.0,
+                "d": 723.0
+              },
+              {
+                "w": "tactics",
+                "t": 6968.0,
+                "d": 765.0
+              },
+              {
+                "w": "that",
+                "t": 7861.0,
+                "d": 255.0
+              },
+              {
+                "w": "frustrate",
+                "t": 8117.0,
+                "d": 552.0
+              },
+              {
+                "w": "Mughal",
+                "t": 8669.0,
+                "d": 340.0
+              },
+              {
+                "w": "generals",
+                "t": 9009.0,
+                "d": 511.0
+              },
+              {
+                "w": "like",
+                "t": 9521.0,
+                "d": 211.0
+              },
+              {
+                "w": "Jahangir's",
+                "t": 9732.0,
+                "d": 510.0
+              },
+              {
+                "w": "son",
+                "t": 10243.0,
+                "d": 638.0
+              },
+              {
+                "w": "the",
+                "t": 10925.0,
+                "d": 211.0
+              },
+              {
+                "w": "prince",
+                "t": 11137.0,
+                "d": 298.0
+              },
+              {
+                "w": "Khurram",
+                "t": 11436.0,
+                "d": 679.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/the_court_of_a_freed_slave/img/p10.png",
+      "shot": "close-up of Ambar reading a hostile missive",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Mughal chroniclers spit at him as an upstart Habshi slave. In their prose, his skin and past are weapons. In his own documents, he answers with commands, not complaints.",
+            "hi": "मुग़ल इतिहासकार उसे उछलू हब्शी ग़ुलाम कहकर थूकते हैं। उनकी नثر में उसका रंग और अतीत ही हथियार हैं। उसकी अपनी दफ़्तरी ज़ुबान में जवाब सिर्फ़ हुक्म हैं, शिकवे नहीं।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p10_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Mughal",
+                "t": 117.0,
+                "d": 425.0
+              },
+              {
+                "w": "chroniclers",
+                "t": 542.0,
+                "d": 595.0
+              },
+              {
+                "w": "spit",
+                "t": 1138.0,
+                "d": 297.0
+              },
+              {
+                "w": "at",
+                "t": 1436.0,
+                "d": 127.0
+              },
+              {
+                "w": "him",
+                "t": 1563.0,
+                "d": 255.0
+              },
+              {
+                "w": "as",
+                "t": 1819.0,
+                "d": 127.0
+              },
+              {
+                "w": "an",
+                "t": 1946.0,
+                "d": 170.0
+              },
+              {
+                "w": "upstart",
+                "t": 2117.0,
+                "d": 723.0
+              },
+              {
+                "w": "Habshi",
+                "t": 2882.0,
+                "d": 468.0
+              },
+              {
+                "w": "slave",
+                "t": 3351.0,
+                "d": 892.0
+              },
+              {
+                "w": "In",
+                "t": 4414.0,
+                "d": 212.0
+              },
+              {
+                "w": "their",
+                "t": 4627.0,
+                "d": 212.0
+              },
+              {
+                "w": "prose",
+                "t": 4840.0,
+                "d": 595.0
+              },
+              {
+                "w": "his",
+                "t": 5478.0,
+                "d": 255.0
+              },
+              {
+                "w": "skin",
+                "t": 5734.0,
+                "d": 425.0
+              },
+              {
+                "w": "and",
+                "t": 6159.0,
+                "d": 297.0
+              },
+              {
+                "w": "past",
+                "t": 6457.0,
+                "d": 340.0
+              },
+              {
+                "w": "are",
+                "t": 6797.0,
+                "d": 127.0
+              },
+              {
+                "w": "weapons",
+                "t": 6925.0,
+                "d": 723.0
+              },
+              {
+                "w": "In",
+                "t": 8159.0,
+                "d": 170.0
+              },
+              {
+                "w": "his",
+                "t": 8329.0,
+                "d": 170.0
+              },
+              {
+                "w": "own",
+                "t": 8500.0,
+                "d": 169.0
+              },
+              {
+                "w": "documents",
+                "t": 8669.0,
+                "d": 809.0
+              },
+              {
+                "w": "he",
+                "t": 9521.0,
+                "d": 340.0
+              },
+              {
+                "w": "answers",
+                "t": 9861.0,
+                "d": 510.0
+              },
+              {
+                "w": "with",
+                "t": 10372.0,
+                "d": 212.0
+              },
+              {
+                "w": "commands",
+                "t": 10585.0,
+                "d": 680.0
+              },
+              {
+                "w": "not",
+                "t": 11307.0,
+                "d": 341.0
+              },
+              {
+                "w": "complaints",
+                "t": 11648.0,
+                "d": 807.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/the_court_of_a_freed_slave/img/p11.png",
+      "shot": "medium shot of Ambar dictating a firm reply",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "\"Write that the Deccan will be defended. Let them measure me by results.\"",
+            "hi": "“लिखो कि दकन का बचाव होगा। मुझे नतीजों से तौलें।”"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p11_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "\"Write",
+                "t": 49.0,
+                "d": 330.9
+              },
+              {
+                "w": "that",
+                "t": 392.2,
+                "d": 343.1
+              },
+              {
+                "w": "the",
+                "t": 759.8,
+                "d": 147.0
+              },
+              {
+                "w": "Deccan",
+                "t": 919.1,
+                "d": 392.2
+              },
+              {
+                "w": "will",
+                "t": 1311.3,
+                "d": 220.6
+              },
+              {
+                "w": "be",
+                "t": 1531.9,
+                "d": 134.8
+              },
+              {
+                "w": "defended",
+                "t": 1666.7,
+                "d": 612.8
+              },
+              {
+                "w": "Let",
+                "t": 3161.8,
+                "d": 257.3
+              },
+              {
+                "w": "them",
+                "t": 3443.6,
+                "d": 294.1
+              },
+              {
+                "w": "measure",
+                "t": 3737.8,
+                "d": 416.7
+              },
+              {
+                "w": "me",
+                "t": 4154.4,
+                "d": 232.8
+              },
+              {
+                "w": "by",
+                "t": 4387.2,
+                "d": 232.8
+              },
+              {
+                "w": "results",
+                "t": 4620.1,
+                "d": 600.5
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/the_court_of_a_freed_slave/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/the_court_of_a_freed_slave/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Orders dispatched, Ambar rides the ridges, plotting night marches and sudden strikes against advancing Mughal contingents.",
+            "hi": "आदेश निकलते ही, अम्बर पहाड़ियों पर दौड़ता है, रात के धावे और अचानक हमले मुगल टुकड़ियों पर रचता हुआ।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/action/action_auto2_en.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Orders",
+                "t": 70.0,
+                "d": 400.0
+              },
+              {
+                "w": "dispatched",
+                "t": 470.0,
+                "d": 920.0
+              },
+              {
+                "w": "Ambar",
+                "t": 1430.0,
+                "d": 320.0
+              },
+              {
+                "w": "rides",
+                "t": 1750.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 2070.0,
+                "d": 160.0
+              },
+              {
+                "w": "ridges",
+                "t": 2230.0,
+                "d": 599.0
+              },
+              {
+                "w": "plotting",
+                "t": 3230.0,
+                "d": 440.0
+              },
+              {
+                "w": "night",
+                "t": 3670.0,
+                "d": 279.0
+              },
+              {
+                "w": "marches",
+                "t": 3949.0,
+                "d": 641.0
+              },
+              {
+                "w": "and",
+                "t": 4590.0,
+                "d": 240.0
+              },
+              {
+                "w": "sudden",
+                "t": 4830.0,
+                "d": 360.0
+              },
+              {
+                "w": "strikes",
+                "t": 5190.0,
+                "d": 400.0
+              },
+              {
+                "w": "against",
+                "t": 5590.0,
+                "d": 360.0
+              },
+              {
+                "w": "advancing",
+                "t": 5950.0,
+                "d": 640.0
+              },
+              {
+                "w": "Mughal",
+                "t": 6590.0,
+                "d": 320.0
+              },
+              {
+                "w": "contingents",
+                "t": 6910.0,
+                "d": 920.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/the_court_of_a_freed_slave/img/p12.png",
+      "shot": "wide courtyard shot showing military drill and bureaucracy side by side",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "His state rests on coercion and extraction, soldiers must be paid, forts provisioned, villages assessed. Talent governs, but hierarchy, fear and force hold this experiment together.",
+            "hi": "उसकी रियासत ज़बरदस्ती और वसूली पर टिकी है—सिपाहियों को तनख़्वाह चाहिए, क़िलों को राशन, गाँवों को आँकना पड़ता है। हुनर हुकूमत करता है, पर दर्जा, ख़ौफ़ और ज़ोर इस तजुर्बे को जोड़े रखते हैं।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p12_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "His",
+                "t": 80.0,
+                "d": 275.0
+              },
+              {
+                "w": "state",
+                "t": 356.0,
+                "d": 413.0
+              },
+              {
+                "w": "rests",
+                "t": 770.0,
+                "d": 459.0
+              },
+              {
+                "w": "on",
+                "t": 1229.0,
+                "d": 183.0
+              },
+              {
+                "w": "coercion",
+                "t": 1413.0,
+                "d": 781.0
+              },
+              {
+                "w": "and",
+                "t": 2195.0,
+                "d": 183.0
+              },
+              {
+                "w": "extraction",
+                "t": 2379.0,
+                "d": 1287.0
+              },
+              {
+                "w": "soldiers",
+                "t": 3712.0,
+                "d": 734.0
+              },
+              {
+                "w": "must",
+                "t": 4447.0,
+                "d": 277.0
+              },
+              {
+                "w": "be",
+                "t": 4724.0,
+                "d": 183.0
+              },
+              {
+                "w": "paid",
+                "t": 4908.0,
+                "d": 735.0
+              },
+              {
+                "w": "forts",
+                "t": 5689.0,
+                "d": 735.0
+              },
+              {
+                "w": "provisioned",
+                "t": 6471.0,
+                "d": 965.0
+              },
+              {
+                "w": "villages",
+                "t": 7666.0,
+                "d": 597.0
+              },
+              {
+                "w": "assessed",
+                "t": 8264.0,
+                "d": 551.0
+              },
+              {
+                "w": "Talent",
+                "t": 8816.0,
+                "d": 1333.0
+              },
+              {
+                "w": "governs",
+                "t": 10149.0,
+                "d": 781.0
+              },
+              {
+                "w": "but",
+                "t": 11436.0,
+                "d": 228.0
+              },
+              {
+                "w": "hierarchy",
+                "t": 11665.0,
+                "d": 966.0
+              },
+              {
+                "w": "fear",
+                "t": 12814.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 13413.0,
+                "d": 229.0
+              },
+              {
+                "w": "force",
+                "t": 13643.0,
+                "d": 688.0
+              },
+              {
+                "w": "hold",
+                "t": 14379.0,
+                "d": 459.0
+              },
+              {
+                "w": "this",
+                "t": 14839.0,
+                "d": 182.0
+              },
+              {
+                "w": "experiment",
+                "t": 15021.0,
+                "d": 690.0
+              },
+              {
+                "w": "together",
+                "t": 15712.0,
+                "d": 642.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/the_court_of_a_freed_slave/img/p13.png",
+      "shot": "intimate interior shot of Ambar in private reflection",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "thought",
+          "role": "male",
+          "text": {
+            "en": "\"From bondage to this desk of kings, yet I, too, command chains.\"",
+            "hi": "“ज़ंजीर से इस बादशाहों की मेज़ तक—और आज भी ज़ंजीरें मेरे ही हुक्म से चलती हैं।”"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p13_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "\"From",
+                "t": 49.0,
+                "d": 306.4
+              },
+              {
+                "w": "bondage",
+                "t": 355.4,
+                "d": 490.2
+              },
+              {
+                "w": "to",
+                "t": 894.6,
+                "d": 98.0
+              },
+              {
+                "w": "this",
+                "t": 992.7,
+                "d": 281.8
+              },
+              {
+                "w": "desk",
+                "t": 1274.5,
+                "d": 306.4
+              },
+              {
+                "w": "of",
+                "t": 1593.1,
+                "d": 196.1
+              },
+              {
+                "w": "kings",
+                "t": 1789.2,
+                "d": 392.2
+              },
+              {
+                "w": "yet",
+                "t": 2377.5,
+                "d": 269.6
+              },
+              {
+                "w": "I",
+                "t": 2683.8,
+                "d": 245.1
+              },
+              {
+                "w": "too",
+                "t": 3125.0,
+                "d": 196.1
+              },
+              {
+                "w": "command",
+                "t": 3480.4,
+                "d": 416.7
+              },
+              {
+                "w": "chains",
+                "t": 3933.8,
+                "d": 490.2
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/the_court_of_a_freed_slave/img/p14.png",
+      "shot": "wide shot of Khadki’s growth over time, slightly time-lapse feel",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Through years of siege and negotiation, Khadki grows. His mixed court leaves its imprint: routinized tax, Persian chancery, Deccan titles woven into everyday government.",
+            "hi": "घेराबंदियों और मोलभाव के सालों में खड़की फ़ैलती जाती है। उसका मिला‑जुला दरबार अपनी छाप छोड़ता है—पक्का लगान, फ़ारसी दफ़्तर, दकनी ओहदे रोज़मर्रा की हुकूमत में गुँथे हुए।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p14_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Through",
+                "t": 110.0,
+                "d": 280.0
+              },
+              {
+                "w": "years",
+                "t": 390.0,
+                "d": 240.0
+              },
+              {
+                "w": "of",
+                "t": 630.0,
+                "d": 120.0
+              },
+              {
+                "w": "siege",
+                "t": 750.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 1110.0,
+                "d": 120.0
+              },
+              {
+                "w": "negotiation",
+                "t": 1230.0,
+                "d": 1000.0
+              },
+              {
+                "w": "Khadki",
+                "t": 2309.0,
+                "d": 401.0
+              },
+              {
+                "w": "grows",
+                "t": 2710.0,
+                "d": 639.0
+              },
+              {
+                "w": "His",
+                "t": 3829.0,
+                "d": 241.0
+              },
+              {
+                "w": "mixed",
+                "t": 4070.0,
+                "d": 360.0
+              },
+              {
+                "w": "court",
+                "t": 4430.0,
+                "d": 320.0
+              },
+              {
+                "w": "leaves",
+                "t": 4750.0,
+                "d": 320.0
+              },
+              {
+                "w": "its",
+                "t": 5070.0,
+                "d": 160.0
+              },
+              {
+                "w": "imprint",
+                "t": 5230.0,
+                "d": 840.0
+              },
+              {
+                "w": "routinized",
+                "t": 6110.0,
+                "d": 680.0
+              },
+              {
+                "w": "tax",
+                "t": 6790.0,
+                "d": 520.0
+              },
+              {
+                "w": "Persian",
+                "t": 7710.0,
+                "d": 439.0
+              },
+              {
+                "w": "chancery",
+                "t": 8149.0,
+                "d": 1041.0
+              },
+              {
+                "w": "Deccan",
+                "t": 9270.0,
+                "d": 439.0
+              },
+              {
+                "w": "titles",
+                "t": 9709.0,
+                "d": 440.0
+              },
+              {
+                "w": "woven",
+                "t": 10149.0,
+                "d": 320.0
+              },
+              {
+                "w": "into",
+                "t": 10469.0,
+                "d": 321.0
+              },
+              {
+                "w": "everyday",
+                "t": 10790.0,
+                "d": 519.0
+              },
+              {
+                "w": "government",
+                "t": 11309.0,
+                "d": 681.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/the_court_of_a_freed_slave/split_auto/s0.png",
+          "slogan": {
+            "en": "Deccan will not bow today",
+            "hi": "दक्खन आज झुकेगा नहीं"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/the_court_of_a_freed_slave/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/the_court_of_a_freed_slave/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Khadki's lanes to distant forts, Ambar's will shapes fields, armies and courts against Mughal pressure.",
+            "hi": "खड़की की गलियों से दूर किलों तक, अम्बर की जिद ही खेत, फ़ौज और दरबार चलाती है, मुगलों के दबाव के खिलाफ।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/split/split_auto_en.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 72.0,
+                "d": 333.0
+              },
+              {
+                "w": "Khadki's",
+                "t": 406.0,
+                "d": 541.0
+              },
+              {
+                "w": "lanes",
+                "t": 947.0,
+                "d": 375.0
+              },
+              {
+                "w": "to",
+                "t": 1322.0,
+                "d": 166.0
+              },
+              {
+                "w": "distant",
+                "t": 1489.0,
+                "d": 416.0
+              },
+              {
+                "w": "forts",
+                "t": 1906.0,
+                "d": 750.0
+              },
+              {
+                "w": "Ambar's",
+                "t": 3030.0,
+                "d": 458.0
+              },
+              {
+                "w": "will",
+                "t": 3488.0,
+                "d": 209.0
+              },
+              {
+                "w": "shapes",
+                "t": 3697.0,
+                "d": 373.0
+              },
+              {
+                "w": "fields",
+                "t": 4071.0,
+                "d": 751.0
+              },
+              {
+                "w": "armies",
+                "t": 4947.0,
+                "d": 500.0
+              },
+              {
+                "w": "and",
+                "t": 5447.0,
+                "d": 250.0
+              },
+              {
+                "w": "courts",
+                "t": 5697.0,
+                "d": 625.0
+              },
+              {
+                "w": "against",
+                "t": 6406.0,
+                "d": 541.0
+              },
+              {
+                "w": "Mughal",
+                "t": 6947.0,
+                "d": 375.0
+              },
+              {
+                "w": "pressure",
+                "t": 7322.0,
+                "d": 541.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/the_court_of_a_freed_slave/img/p15.png",
+      "shot": "somber interior shot of aging Ambar at his desk",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "By the sixteen twenties, age creeps into his frame, but the system he fashioned outlives him. Accounts, orders and offices continue even as bodies and faces change.",
+            "hi": "१६२० के दशक तक उम्र उसके जिस्म में उतरने लगती है, मगर बनाया हुआ निज़ाम उससे आगे जीता है। हिसाब, हुक्म और दफ़्तर चलते रहते हैं, चाहे चेहरे और जिस्म बदलते रहें।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p15_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "By",
+                "t": 74.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 372.0,
+                "d": 127.0
+              },
+              {
+                "w": "sixteen",
+                "t": 500.0,
+                "d": 468.0
+              },
+              {
+                "w": "twenties",
+                "t": 968.0,
+                "d": 808.0
+              },
+              {
+                "w": "age",
+                "t": 1861.0,
+                "d": 382.0
+              },
+              {
+                "w": "creeps",
+                "t": 2244.0,
+                "d": 381.0
+              },
+              {
+                "w": "into",
+                "t": 2626.0,
+                "d": 340.0
+              },
+              {
+                "w": "his",
+                "t": 2967.0,
+                "d": 212.0
+              },
+              {
+                "w": "frame",
+                "t": 3179.0,
+                "d": 510.0
+              },
+              {
+                "w": "but",
+                "t": 4073.0,
+                "d": 213.0
+              },
+              {
+                "w": "the",
+                "t": 4287.0,
+                "d": 127.0
+              },
+              {
+                "w": "system",
+                "t": 4414.0,
+                "d": 425.0
+              },
+              {
+                "w": "he",
+                "t": 4840.0,
+                "d": 170.0
+              },
+              {
+                "w": "fashioned",
+                "t": 5010.0,
+                "d": 553.0
+              },
+              {
+                "w": "outlives",
+                "t": 5563.0,
+                "d": 510.0
+              },
+              {
+                "w": "him",
+                "t": 6074.0,
+                "d": 723.0
+              },
+              {
+                "w": "Accounts",
+                "t": 6797.0,
+                "d": 851.0
+              },
+              {
+                "w": "orders",
+                "t": 7691.0,
+                "d": 765.0
+              },
+              {
+                "w": "and",
+                "t": 8500.0,
+                "d": 297.0
+              },
+              {
+                "w": "offices",
+                "t": 8797.0,
+                "d": 595.0
+              },
+              {
+                "w": "continue",
+                "t": 9393.0,
+                "d": 594.0
+              },
+              {
+                "w": "even",
+                "t": 9988.0,
+                "d": 298.0
+              },
+              {
+                "w": "as",
+                "t": 10287.0,
+                "d": 212.0
+              },
+              {
+                "w": "bodies",
+                "t": 10500.0,
+                "d": 510.0
+              },
+              {
+                "w": "and",
+                "t": 11010.0,
+                "d": 255.0
+              },
+              {
+                "w": "faces",
+                "t": 11265.0,
+                "d": 509.0
+              },
+              {
+                "w": "change",
+                "t": 11775.0,
+                "d": 809.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "art": "assets/the_court_of_a_freed_slave/img/p16.png",
+      "shot": "wide shot of Khadki after Ambar, showing continuity and change",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Later rulers and empires claim this machinery, adjusting it to their needs. The memory of the Habshi Peshwa becomes a story, but his bureaucratic habits become a norm.",
+            "hi": "बाद के बादशाह और सल्तनतें इसी मशीनरी को अपनाकर अपनी ज़रूरत से ढालते हैं। हब्शी पेशवा की याद क़िस्सा बन जाती है, मगर उसकी दफ़्तरी आदतें उसूल बन जाती हैं।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p16_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p16_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Later",
+                "t": 74.0,
+                "d": 510.0
+              },
+              {
+                "w": "rulers",
+                "t": 585.0,
+                "d": 595.0
+              },
+              {
+                "w": "and",
+                "t": 1180.0,
+                "d": 255.0
+              },
+              {
+                "w": "empires",
+                "t": 1436.0,
+                "d": 638.0
+              },
+              {
+                "w": "claim",
+                "t": 2074.0,
+                "d": 340.0
+              },
+              {
+                "w": "this",
+                "t": 2414.0,
+                "d": 211.0
+              },
+              {
+                "w": "machinery",
+                "t": 2626.0,
+                "d": 978.0
+              },
+              {
+                "w": "adjusting",
+                "t": 3734.0,
+                "d": 723.0
+              },
+              {
+                "w": "it",
+                "t": 4457.0,
+                "d": 85.0
+              },
+              {
+                "w": "to",
+                "t": 4542.0,
+                "d": 127.0
+              },
+              {
+                "w": "their",
+                "t": 4670.0,
+                "d": 212.0
+              },
+              {
+                "w": "needs",
+                "t": 4882.0,
+                "d": 723.0
+              },
+              {
+                "w": "The",
+                "t": 6202.0,
+                "d": 212.0
+              },
+              {
+                "w": "memory",
+                "t": 6414.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 6840.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 6925.0,
+                "d": 170.0
+              },
+              {
+                "w": "Habshi",
+                "t": 7095.0,
+                "d": 340.0
+              },
+              {
+                "w": "Peshwa",
+                "t": 7436.0,
+                "d": 468.0
+              },
+              {
+                "w": "becomes",
+                "t": 7904.0,
+                "d": 382.0
+              },
+              {
+                "w": "a",
+                "t": 8287.0,
+                "d": 42.0
+              },
+              {
+                "w": "story",
+                "t": 8329.0,
+                "d": 764.0
+              },
+              {
+                "w": "but",
+                "t": 9478.0,
+                "d": 212.0
+              },
+              {
+                "w": "his",
+                "t": 9691.0,
+                "d": 170.0
+              },
+              {
+                "w": "bureaucratic",
+                "t": 9861.0,
+                "d": 723.0
+              },
+              {
+                "w": "habits",
+                "t": 10585.0,
+                "d": 381.0
+              },
+              {
+                "w": "become",
+                "t": 10967.0,
+                "d": 384.0
+              },
+              {
+                "w": "a",
+                "t": 11351.0,
+                "d": 85.0
+              },
+              {
+                "w": "norm",
+                "t": 11436.0,
+                "d": 509.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "art": "assets/the_court_of_a_freed_slave/img/p17.png",
+      "shot": "symbolic shot of a single letter preserved in an archive-like setting",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Centuries later, scholars read his surviving letters to princes and officers. In their lines, they hear an African freedman fully fluent in the language of Deccan rule.",
+            "hi": "सदियों बाद उलेमा और विद्वान उसके बचे हुए ख़त पढ़ते हैं—शहज़ादों और अफ़सरों को लिखे। उन लकीरों में उन्हें एक आज़ाद अफ़्रीकी सुनाई देता है, जो दकनी हुकूमत की ज़ुबान में पूरा माहिर है।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p17_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p17_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Centuries",
+                "t": 74.0,
+                "d": 638.0
+              },
+              {
+                "w": "later",
+                "t": 712.0,
+                "d": 553.0
+              },
+              {
+                "w": "scholars",
+                "t": 1351.0,
+                "d": 595.0
+              },
+              {
+                "w": "read",
+                "t": 1946.0,
+                "d": 255.0
+              },
+              {
+                "w": "his",
+                "t": 2202.0,
+                "d": 127.0
+              },
+              {
+                "w": "surviving",
+                "t": 2329.0,
+                "d": 553.0
+              },
+              {
+                "w": "letters",
+                "t": 2882.0,
+                "d": 425.0
+              },
+              {
+                "w": "to",
+                "t": 3308.0,
+                "d": 127.0
+              },
+              {
+                "w": "princes",
+                "t": 3436.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 3989.0,
+                "d": 211.0
+              },
+              {
+                "w": "officers",
+                "t": 4201.0,
+                "d": 894.0
+              },
+              {
+                "w": "In",
+                "t": 5563.0,
+                "d": 212.0
+              },
+              {
+                "w": "their",
+                "t": 5776.0,
+                "d": 212.0
+              },
+              {
+                "w": "lines",
+                "t": 5989.0,
+                "d": 638.0
+              },
+              {
+                "w": "they",
+                "t": 6797.0,
+                "d": 255.0
+              },
+              {
+                "w": "hear",
+                "t": 7053.0,
+                "d": 212.0
+              },
+              {
+                "w": "an",
+                "t": 7265.0,
+                "d": 127.0
+              },
+              {
+                "w": "African",
+                "t": 7393.0,
+                "d": 595.0
+              },
+              {
+                "w": "freedman",
+                "t": 7989.0,
+                "d": 552.0
+              },
+              {
+                "w": "fully",
+                "t": 8541.0,
+                "d": 426.0
+              },
+              {
+                "w": "fluent",
+                "t": 8968.0,
+                "d": 425.0
+              },
+              {
+                "w": "in",
+                "t": 9393.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 9521.0,
+                "d": 126.0
+              },
+              {
+                "w": "language",
+                "t": 9647.0,
+                "d": 425.0
+              },
+              {
+                "w": "of",
+                "t": 10073.0,
+                "d": 213.0
+              },
+              {
+                "w": "Deccan",
+                "t": 10287.0,
+                "d": 340.0
+              },
+              {
+                "w": "rule",
+                "t": 10627.0,
+                "d": 468.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "art": "assets/the_court_of_a_freed_slave/img/p18.png",
+      "shot": "final contemplative close-up on Ambar’s face dissolving into the map of the Deccan",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Malik Ambar's court shows how power can rise from bondage when skill and will find openings, yet even then, dignity grows within the hard frame of hierarchy, not outside it.",
+            "hi": "मलिक अम्बर का दरबार दिखाता है कि कैद से भी ताक़त उठ सकती है, जब हुनर और हिम्मत को रस्ते मिलें—पर तब भी इज़्ज़त दर्जे की सख़्त सीढ़ी के भीतर ही बढ़ती है, उससे बाहर नहीं।"
+          },
+          "audio": {
+            "en": "assets/the_court_of_a_freed_slave/audio/en/p18_0.mp3",
+            "hi": "assets/the_court_of_a_freed_slave/audio/hi/p18_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Malik",
+                "t": 74.0,
+                "d": 425.0
+              },
+              {
+                "w": "Ambar's",
+                "t": 500.0,
+                "d": 468.0
+              },
+              {
+                "w": "court",
+                "t": 968.0,
+                "d": 340.0
+              },
+              {
+                "w": "shows",
+                "t": 1308.0,
+                "d": 340.0
+              },
+              {
+                "w": "how",
+                "t": 1648.0,
+                "d": 255.0
+              },
+              {
+                "w": "power",
+                "t": 1904.0,
+                "d": 382.0
+              },
+              {
+                "w": "can",
+                "t": 2287.0,
+                "d": 169.0
+              },
+              {
+                "w": "rise",
+                "t": 2456.0,
+                "d": 341.0
+              },
+              {
+                "w": "from",
+                "t": 2797.0,
+                "d": 254.0
+              },
+              {
+                "w": "bondage",
+                "t": 3052.0,
+                "d": 809.0
+              },
+              {
+                "w": "when",
+                "t": 3861.0,
+                "d": 296.0
+              },
+              {
+                "w": "skill",
+                "t": 4158.0,
+                "d": 384.0
+              },
+              {
+                "w": "and",
+                "t": 4542.0,
+                "d": 127.0
+              },
+              {
+                "w": "will",
+                "t": 4670.0,
+                "d": 170.0
+              },
+              {
+                "w": "find",
+                "t": 4840.0,
+                "d": 382.0
+              },
+              {
+                "w": "openings",
+                "t": 5223.0,
+                "d": 893.0
+              },
+              {
+                "w": "yet",
+                "t": 6329.0,
+                "d": 255.0
+              },
+              {
+                "w": "even",
+                "t": 6585.0,
+                "d": 297.0
+              },
+              {
+                "w": "then",
+                "t": 6882.0,
+                "d": 425.0
+              },
+              {
+                "w": "dignity",
+                "t": 7648.0,
+                "d": 595.0
+              },
+              {
+                "w": "grows",
+                "t": 8244.0,
+                "d": 381.0
+              },
+              {
+                "w": "within",
+                "t": 8626.0,
+                "d": 297.0
+              },
+              {
+                "w": "the",
+                "t": 8924.0,
+                "d": 128.0
+              },
+              {
+                "w": "hard",
+                "t": 9053.0,
+                "d": 297.0
+              },
+              {
+                "w": "frame",
+                "t": 9351.0,
+                "d": 296.0
+              },
+              {
+                "w": "of",
+                "t": 9647.0,
+                "d": 128.0
+              },
+              {
+                "w": "hierarchy",
+                "t": 9776.0,
+                "d": 851.0
+              },
+              {
+                "w": "not",
+                "t": 10796.0,
+                "d": 384.0
+              },
+              {
+                "w": "outside",
+                "t": 11180.0,
+                "d": 468.0
+              },
+              {
+                "w": "it",
+                "t": 11648.0,
+                "d": 296.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Malik Ambar",
+    "epithets": [
+      "Malik Ambar",
+      "Abyssinian Regent of the Deccan",
+      "Slave-turned-Statesman",
+      "Defender of Ahmadnagar"
+    ],
+    "legend": "A freed slave who taught emperors fear and farmers hope."
+  }
+}
