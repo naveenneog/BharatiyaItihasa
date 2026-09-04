@@ -14,6 +14,308 @@
   ],
   "panels": [
     {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/guerrilla_king_of_the_hills/intro/hero.png",
+      "name": "Malik Ambar",
+      "epithets": [
+        "Malik Ambar",
+        "Wazir of Ahmadnagar",
+        "Guardian of the Deccan",
+        "Master of Guerrilla War"
+      ],
+      "legend": "An enslaved boy who made empires fear the Deccan hills.",
+      "era": "Deccan campaigns against the Mughals, c. 1608-1624 CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Born a captive from Ethiopia, he rises to rule armies that outthink Mughal might. When the plains mean certain defeat, he turns the harsh Deccan hills into his living shield.",
+            "hi": "इथियोपिया का बंधुआ जन्म, पर तकदीर में सेनाओं की कमान—मुग़लों की चालाकी को मात देता है। मैदानों में पक्की हार दिखे, तो दक्खन की कठोर पहाड़ियों को ही अपनी ज़िंदा ढाल बना लेता है।"
+          },
+          "audio": {
+            "en": "assets/guerrilla_king_of_the_hills/audio/intro/hero_en.mp3",
+            "hi": "assets/guerrilla_king_of_the_hills/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Born",
+                "t": 72.0,
+                "d": 375.0
+              },
+              {
+                "w": "a",
+                "t": 447.0,
+                "d": 125.0
+              },
+              {
+                "w": "captive",
+                "t": 572.0,
+                "d": 458.0
+              },
+              {
+                "w": "from",
+                "t": 1031.0,
+                "d": 250.0
+              },
+              {
+                "w": "Ethiopia",
+                "t": 1281.0,
+                "d": 832.0
+              },
+              {
+                "w": "he",
+                "t": 2364.0,
+                "d": 250.0
+              },
+              {
+                "w": "rises",
+                "t": 2614.0,
+                "d": 457.0
+              },
+              {
+                "w": "to",
+                "t": 3071.0,
+                "d": 167.0
+              },
+              {
+                "w": "rule",
+                "t": 3239.0,
+                "d": 290.0
+              },
+              {
+                "w": "armies",
+                "t": 3530.0,
+                "d": 416.0
+              },
+              {
+                "w": "that",
+                "t": 3946.0,
+                "d": 251.0
+              },
+              {
+                "w": "outthink",
+                "t": 4239.0,
+                "d": 625.0
+              },
+              {
+                "w": "Mughal",
+                "t": 4864.0,
+                "d": 333.0
+              },
+              {
+                "w": "might",
+                "t": 5197.0,
+                "d": 583.0
+              },
+              {
+                "w": "When",
+                "t": 6489.0,
+                "d": 208.0
+              },
+              {
+                "w": "the",
+                "t": 6697.0,
+                "d": 125.0
+              },
+              {
+                "w": "plains",
+                "t": 6822.0,
+                "d": 375.0
+              },
+              {
+                "w": "mean",
+                "t": 7197.0,
+                "d": 208.0
+              },
+              {
+                "w": "certain",
+                "t": 7406.0,
+                "d": 416.0
+              },
+              {
+                "w": "defeat",
+                "t": 7822.0,
+                "d": 748.0
+              },
+              {
+                "w": "he",
+                "t": 8738.0,
+                "d": 333.0
+              },
+              {
+                "w": "turns",
+                "t": 9071.0,
+                "d": 334.0
+              },
+              {
+                "w": "the",
+                "t": 9406.0,
+                "d": 123.0
+              },
+              {
+                "w": "harsh",
+                "t": 9530.0,
+                "d": 376.0
+              },
+              {
+                "w": "Deccan",
+                "t": 9906.0,
+                "d": 333.0
+              },
+              {
+                "w": "hills",
+                "t": 10239.0,
+                "d": 582.0
+              },
+              {
+                "w": "into",
+                "t": 10821.0,
+                "d": 417.0
+              },
+              {
+                "w": "his",
+                "t": 11239.0,
+                "d": 208.0
+              },
+              {
+                "w": "living",
+                "t": 11447.0,
+                "d": 291.0
+              },
+              {
+                "w": "shield",
+                "t": 11739.0,
+                "d": 541.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/guerrilla_king_of_the_hills/intro/map.png",
+      "x": 0.55,
+      "y": 0.55,
+      "label": "Ahmadnagar & Balaghat, Deccan frontier",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here the dark hills and deep passes hide Ambar's riders, cutting Mughal roads while thirsty armies crawl below.",
+            "hi": "यहीं काली पहाड़ियों और गहरे दर्रों में अंबर के सवार छिपे हैं, मुगल राहें काटते, जबकि प्यासे लश्कर नीचे रेंग रहे हैं।"
+          },
+          "audio": {
+            "en": "assets/guerrilla_king_of_the_hills/audio/intro/map_en.mp3",
+            "hi": "assets/guerrilla_king_of_the_hills/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 448.0,
+                "d": 183.0
+              },
+              {
+                "w": "dark",
+                "t": 632.0,
+                "d": 367.0
+              },
+              {
+                "w": "hills",
+                "t": 1000.0,
+                "d": 321.0
+              },
+              {
+                "w": "and",
+                "t": 1321.0,
+                "d": 183.0
+              },
+              {
+                "w": "deep",
+                "t": 1505.0,
+                "d": 321.0
+              },
+              {
+                "w": "passes",
+                "t": 1827.0,
+                "d": 551.0
+              },
+              {
+                "w": "hide",
+                "t": 2379.0,
+                "d": 412.0
+              },
+              {
+                "w": "Ambar's",
+                "t": 2791.0,
+                "d": 459.0
+              },
+              {
+                "w": "riders",
+                "t": 3251.0,
+                "d": 782.0
+              },
+              {
+                "w": "cutting",
+                "t": 4310.0,
+                "d": 505.0
+              },
+              {
+                "w": "Mughal",
+                "t": 4816.0,
+                "d": 321.0
+              },
+              {
+                "w": "roads",
+                "t": 5137.0,
+                "d": 413.0
+              },
+              {
+                "w": "while",
+                "t": 5551.0,
+                "d": 275.0
+              },
+              {
+                "w": "thirsty",
+                "t": 5827.0,
+                "d": 505.0
+              },
+              {
+                "w": "armies",
+                "t": 6333.0,
+                "d": 459.0
+              },
+              {
+                "w": "crawl",
+                "t": 6793.0,
+                "d": 367.0
+              },
+              {
+                "w": "below",
+                "t": 7160.0,
+                "d": 459.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
       "id": "cover",
       "art": "assets/guerrilla_king_of_the_hills/img/cover.png",
       "shot": "sweeping low-angle wide of rugged Sahyadri hills under dark monsoon clouds",
@@ -2856,5 +3158,15 @@
         }
       ]
     }
-  ]
+  ],
+  "hero": {
+    "name": "Malik Ambar",
+    "epithets": [
+      "Malik Ambar",
+      "Wazir of Ahmadnagar",
+      "Guardian of the Deccan",
+      "Master of Guerrilla War"
+    ],
+    "legend": "An enslaved boy who made empires fear the Deccan hills."
+  }
 }
