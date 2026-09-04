@@ -1,0 +1,3747 @@
+{
+  "id": "janjira_the_sea_fort",
+  "title": "Janjira the Sea Fort",
+  "title_i18n": {
+    "en": "Janjira the Sea Fort",
+    "hi": "जंजीरा समुद्री किला"
+  },
+  "figure": "Siddis of Janjira",
+  "era": "Siddi maritime power on the Konkan coast, 16th-17th centuries CE",
+  "moral": "A small stronghold can change the plans of empires.",
+  "langs": [
+    "en",
+    "hi"
+  ],
+  "panels": [
+    {
+      "id": "intro_hero",
+      "type": "hero",
+      "mood": "triumph",
+      "art": "assets/janjira_the_sea_fort/intro/hero.png",
+      "name": "Siddi Sea Captain of Janjira",
+      "epithets": [
+        "Siddis of Janjira",
+        "Abyssinian Sea Lords of Konkan",
+        "Keepers of the Island Fort",
+        "Guardians of Murud-Janjira"
+      ],
+      "legend": "From one rocky island, they stalled Maratha and Mughal dreams.",
+      "era": "Siddi maritime power on the Konkan coast, 16th-17th centuries CE",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "They were Africans in a foreign sea, ruling from stone and spray. As Mughals, Marathas and Portuguese closed in, one small fort had to outthink three empires or vanish under the waves.",
+            "hi": "विदेशी समंदर में अफ्रीकी, पत्थर और लहरों से राज करते थे। मुगल, मराठा और पुर्तगाली घिर आए तो एक छोटा किला तीन सल्तनतों को चकमा देकर ही डूबने से बच सकता था।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/intro/hero_en.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/intro/hero_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "They",
+                "t": 72.0,
+                "d": 250.0
+              },
+              {
+                "w": "were",
+                "t": 322.0,
+                "d": 166.0
+              },
+              {
+                "w": "Africans",
+                "t": 489.0,
+                "d": 625.0
+              },
+              {
+                "w": "in",
+                "t": 1114.0,
+                "d": 125.0
+              },
+              {
+                "w": "a",
+                "t": 1239.0,
+                "d": 83.0
+              },
+              {
+                "w": "foreign",
+                "t": 1322.0,
+                "d": 458.0
+              },
+              {
+                "w": "sea",
+                "t": 1781.0,
+                "d": 250.0
+              },
+              {
+                "w": "ruling",
+                "t": 2446.0,
+                "d": 458.0
+              },
+              {
+                "w": "from",
+                "t": 2905.0,
+                "d": 208.0
+              },
+              {
+                "w": "stone",
+                "t": 3113.0,
+                "d": 416.0
+              },
+              {
+                "w": "and",
+                "t": 3530.0,
+                "d": 209.0
+              },
+              {
+                "w": "spray",
+                "t": 3739.0,
+                "d": 916.0
+              },
+              {
+                "w": "As",
+                "t": 5156.0,
+                "d": 250.0
+              },
+              {
+                "w": "Mughals",
+                "t": 5406.0,
+                "d": 750.0
+              },
+              {
+                "w": "Marathas",
+                "t": 6322.0,
+                "d": 666.0
+              },
+              {
+                "w": "and",
+                "t": 6989.0,
+                "d": 250.0
+              },
+              {
+                "w": "Portuguese",
+                "t": 7239.0,
+                "d": 583.0
+              },
+              {
+                "w": "closed",
+                "t": 7822.0,
+                "d": 458.0
+              },
+              {
+                "w": "in",
+                "t": 8281.0,
+                "d": 333.0
+              },
+              {
+                "w": "one",
+                "t": 8864.0,
+                "d": 458.0
+              },
+              {
+                "w": "small",
+                "t": 9322.0,
+                "d": 250.0
+              },
+              {
+                "w": "fort",
+                "t": 9572.0,
+                "d": 333.0
+              },
+              {
+                "w": "had",
+                "t": 9906.0,
+                "d": 291.0
+              },
+              {
+                "w": "to",
+                "t": 10197.0,
+                "d": 166.0
+              },
+              {
+                "w": "outthink",
+                "t": 10364.0,
+                "d": 666.0
+              },
+              {
+                "w": "three",
+                "t": 11031.0,
+                "d": 291.0
+              },
+              {
+                "w": "empires",
+                "t": 11322.0,
+                "d": 790.0
+              },
+              {
+                "w": "or",
+                "t": 12196.0,
+                "d": 292.0
+              },
+              {
+                "w": "vanish",
+                "t": 12489.0,
+                "d": 458.0
+              },
+              {
+                "w": "under",
+                "t": 12988.0,
+                "d": 250.0
+              },
+              {
+                "w": "the",
+                "t": 13238.0,
+                "d": 126.0
+              },
+              {
+                "w": "waves",
+                "t": 13364.0,
+                "d": 582.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "intro_map",
+      "type": "map",
+      "mood": "suspense",
+      "map": "assets/janjira_the_sea_fort/intro/map.png",
+      "x": 0.25,
+      "y": 0.65,
+      "label": "Murud-Janjira, Raigad coast, Konkan",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Here, off the Konkan shore, a ring of stone rose from the sea and turned a tiny island into a wall against empires.",
+            "hi": "यहीं कोंकण किनारे पत्थर की मीनार समुंदर से उठी, छोटी सी टापू को साम्राज्यों के खिलाफ किला बना दिया।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/intro/map_en.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/intro/map_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Here",
+                "t": 80.0,
+                "d": 827.0
+              },
+              {
+                "w": "off",
+                "t": 1091.0,
+                "d": 367.0
+              },
+              {
+                "w": "the",
+                "t": 1459.0,
+                "d": 183.0
+              },
+              {
+                "w": "Konkan",
+                "t": 1643.0,
+                "d": 505.0
+              },
+              {
+                "w": "shore",
+                "t": 2149.0,
+                "d": 827.0
+              },
+              {
+                "w": "a",
+                "t": 3114.0,
+                "d": 182.0
+              },
+              {
+                "w": "ring",
+                "t": 3297.0,
+                "d": 277.0
+              },
+              {
+                "w": "of",
+                "t": 3574.0,
+                "d": 137.0
+              },
+              {
+                "w": "stone",
+                "t": 3712.0,
+                "d": 459.0
+              },
+              {
+                "w": "rose",
+                "t": 4172.0,
+                "d": 320.0
+              },
+              {
+                "w": "from",
+                "t": 4493.0,
+                "d": 185.0
+              },
+              {
+                "w": "the",
+                "t": 4678.0,
+                "d": 137.0
+              },
+              {
+                "w": "sea",
+                "t": 4816.0,
+                "d": 505.0
+              },
+              {
+                "w": "and",
+                "t": 5459.0,
+                "d": 413.0
+              },
+              {
+                "w": "turned",
+                "t": 5873.0,
+                "d": 275.0
+              },
+              {
+                "w": "a",
+                "t": 6149.0,
+                "d": 91.0
+              },
+              {
+                "w": "tiny",
+                "t": 6241.0,
+                "d": 597.0
+              },
+              {
+                "w": "island",
+                "t": 6839.0,
+                "d": 551.0
+              },
+              {
+                "w": "into",
+                "t": 7390.0,
+                "d": 367.0
+              },
+              {
+                "w": "a",
+                "t": 7758.0,
+                "d": 137.0
+              },
+              {
+                "w": "wall",
+                "t": 7896.0,
+                "d": 413.0
+              },
+              {
+                "w": "against",
+                "t": 8310.0,
+                "d": 505.0
+              },
+              {
+                "w": "empires",
+                "t": 8816.0,
+                "d": 1010.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "art": "assets/janjira_the_sea_fort/img/cover.png",
+      "shot": "epic wide of the sea fort rising from stormy waves",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "On a bare rock called Janjira, African Siddis carved a sea fort that outlasted storms, sultans and Maratha kings, and forced every empire on the Konkan coast to change its plans.",
+            "hi": "नंगी चट्टान जंजीरा पर अफ्रीकी सिद्दी ने ऐसा समुद्री किला खड़ा किया, जो तूफानों, सुल्तानों और मराठा राजाओं से भी ज़्यादा टिका रहा, और कोकण के हर साम्राज्य की चालें बदल दीं।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/cover_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/cover_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "On",
+                "t": 70.0,
+                "d": 200.0
+              },
+              {
+                "w": "a",
+                "t": 270.0,
+                "d": 120.0
+              },
+              {
+                "w": "bare",
+                "t": 390.0,
+                "d": 240.0
+              },
+              {
+                "w": "rock",
+                "t": 630.0,
+                "d": 280.0
+              },
+              {
+                "w": "called",
+                "t": 910.0,
+                "d": 280.0
+              },
+              {
+                "w": "Janjira",
+                "t": 1190.0,
+                "d": 800.0
+              },
+              {
+                "w": "African",
+                "t": 2309.0,
+                "d": 480.0
+              },
+              {
+                "w": "Siddis",
+                "t": 2789.0,
+                "d": 481.0
+              },
+              {
+                "w": "carved",
+                "t": 3270.0,
+                "d": 320.0
+              },
+              {
+                "w": "a",
+                "t": 3590.0,
+                "d": 40.0
+              },
+              {
+                "w": "sea",
+                "t": 3630.0,
+                "d": 279.0
+              },
+              {
+                "w": "fort",
+                "t": 3909.0,
+                "d": 361.0
+              },
+              {
+                "w": "that",
+                "t": 4310.0,
+                "d": 240.0
+              },
+              {
+                "w": "outlasted",
+                "t": 4550.0,
+                "d": 600.0
+              },
+              {
+                "w": "storms",
+                "t": 5150.0,
+                "d": 400.0
+              },
+              {
+                "w": "sultans",
+                "t": 5550.0,
+                "d": 960.0
+              },
+              {
+                "w": "and",
+                "t": 6510.0,
+                "d": 200.0
+              },
+              {
+                "w": "Maratha",
+                "t": 6710.0,
+                "d": 440.0
+              },
+              {
+                "w": "kings",
+                "t": 7150.0,
+                "d": 520.0
+              },
+              {
+                "w": "and",
+                "t": 7710.0,
+                "d": 359.0
+              },
+              {
+                "w": "forced",
+                "t": 8069.0,
+                "d": 400.0
+              },
+              {
+                "w": "every",
+                "t": 8469.0,
+                "d": 401.0
+              },
+              {
+                "w": "empire",
+                "t": 8870.0,
+                "d": 560.0
+              },
+              {
+                "w": "on",
+                "t": 9430.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 9590.0,
+                "d": 160.0
+              },
+              {
+                "w": "Konkan",
+                "t": 9750.0,
+                "d": 399.0
+              },
+              {
+                "w": "coast",
+                "t": 10149.0,
+                "d": 320.0
+              },
+              {
+                "w": "to",
+                "t": 10469.0,
+                "d": 401.0
+              },
+              {
+                "w": "change",
+                "t": 10870.0,
+                "d": 359.0
+              },
+              {
+                "w": "its",
+                "t": 11229.0,
+                "d": 201.0
+              },
+              {
+                "w": "plans",
+                "t": 11430.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "art": "assets/janjira_the_sea_fort/img/p01.png",
+      "shot": "slow aerial drift over the Konkan coast and off-shore island",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Along the Raigad coast, traders, pirates and pilgrims all knew one jagged rock offshore, 'Janjira', from the Arabic jazeera, the island that commanded the sea lanes to Surat and beyond.",
+            "hi": "रायगड तट पर हर सौदेगर, लुटेरा और यात्री उस नुकीली समुद्री चट्टान को जानता था—‘जंजीरा’, अरबी जज़ीरा से, वही टापू जो सूरत तक जाने वाली समुद्री राहों पर हुकूमत करता था।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p01_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p01_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Along",
+                "t": 117.0,
+                "d": 382.0
+              },
+              {
+                "w": "the",
+                "t": 500.0,
+                "d": 170.0
+              },
+              {
+                "w": "Raigad",
+                "t": 670.0,
+                "d": 382.0
+              },
+              {
+                "w": "coast",
+                "t": 1053.0,
+                "d": 595.0
+              },
+              {
+                "w": "traders",
+                "t": 1691.0,
+                "d": 807.0
+              },
+              {
+                "w": "pirates",
+                "t": 2584.0,
+                "d": 681.0
+              },
+              {
+                "w": "and",
+                "t": 3308.0,
+                "d": 254.0
+              },
+              {
+                "w": "pilgrims",
+                "t": 3562.0,
+                "d": 595.0
+              },
+              {
+                "w": "all",
+                "t": 4158.0,
+                "d": 128.0
+              },
+              {
+                "w": "knew",
+                "t": 4287.0,
+                "d": 468.0
+              },
+              {
+                "w": "one",
+                "t": 4755.0,
+                "d": 340.0
+              },
+              {
+                "w": "jagged",
+                "t": 5095.0,
+                "d": 425.0
+              },
+              {
+                "w": "rock",
+                "t": 5521.0,
+                "d": 255.0
+              },
+              {
+                "w": "offshore",
+                "t": 5776.0,
+                "d": 680.0
+              },
+              {
+                "w": "Janjira",
+                "t": 6457.0,
+                "d": 936.0
+              },
+              {
+                "w": "from",
+                "t": 7478.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 7734.0,
+                "d": 170.0
+              },
+              {
+                "w": "Arabic",
+                "t": 7904.0,
+                "d": 468.0
+              },
+              {
+                "w": "jazeera",
+                "t": 8372.0,
+                "d": 595.0
+              },
+              {
+                "w": "the",
+                "t": 9308.0,
+                "d": 255.0
+              },
+              {
+                "w": "island",
+                "t": 9563.0,
+                "d": 638.0
+              },
+              {
+                "w": "that",
+                "t": 10243.0,
+                "d": 298.0
+              },
+              {
+                "w": "commanded",
+                "t": 10542.0,
+                "d": 468.0
+              },
+              {
+                "w": "the",
+                "t": 11010.0,
+                "d": 126.0
+              },
+              {
+                "w": "sea",
+                "t": 11137.0,
+                "d": 298.0
+              },
+              {
+                "w": "lanes",
+                "t": 11436.0,
+                "d": 255.0
+              },
+              {
+                "w": "to",
+                "t": 11691.0,
+                "d": 127.0
+              },
+              {
+                "w": "Surat",
+                "t": 11819.0,
+                "d": 552.0
+              },
+              {
+                "w": "and",
+                "t": 12456.0,
+                "d": 256.0
+              },
+              {
+                "w": "beyond",
+                "t": 12712.0,
+                "d": 595.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "art": "assets/janjira_the_sea_fort/img/p02.png",
+      "shot": "medium shot of African sailors arriving at a Deccan port",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From the fifteenth and sixteenth centuries, African sailors and soldiers came to the Deccan as mercenaries and mariners. Some found wage and rank in sultans' courts, others found their calling on the Konkan sea.",
+            "hi": "पंद्रहवीं–सोलहवीं सदी में अफ्रीकी नाविक और सिपाही दक्कन आए—मज़दूर फ़ौजी और मल्लाह बनकर। कुछ को सुल्तानों के दरबार में नौकरी मिली, बाकी ने अपना रास्ता कोकण की समुद्र-रेख पर चुना।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p02_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p02_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 74.0,
+                "d": 255.0
+              },
+              {
+                "w": "the",
+                "t": 329.0,
+                "d": 127.0
+              },
+              {
+                "w": "fifteenth",
+                "t": 457.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 1010.0,
+                "d": 127.0
+              },
+              {
+                "w": "sixteenth",
+                "t": 1138.0,
+                "d": 553.0
+              },
+              {
+                "w": "centuries",
+                "t": 1691.0,
+                "d": 850.0
+              },
+              {
+                "w": "African",
+                "t": 2797.0,
+                "d": 553.0
+              },
+              {
+                "w": "sailors",
+                "t": 3351.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 3904.0,
+                "d": 211.0
+              },
+              {
+                "w": "soldiers",
+                "t": 4115.0,
+                "d": 852.0
+              },
+              {
+                "w": "came",
+                "t": 5010.0,
+                "d": 297.0
+              },
+              {
+                "w": "to",
+                "t": 5308.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 5393.0,
+                "d": 170.0
+              },
+              {
+                "w": "Deccan",
+                "t": 5563.0,
+                "d": 382.0
+              },
+              {
+                "w": "as",
+                "t": 5946.0,
+                "d": 297.0
+              },
+              {
+                "w": "mercenaries",
+                "t": 6244.0,
+                "d": 723.0
+              },
+              {
+                "w": "and",
+                "t": 6968.0,
+                "d": 255.0
+              },
+              {
+                "w": "mariners",
+                "t": 7223.0,
+                "d": 936.0
+              },
+              {
+                "w": "Some",
+                "t": 8202.0,
+                "d": 722.0
+              },
+              {
+                "w": "found",
+                "t": 8924.0,
+                "d": 340.0
+              },
+              {
+                "w": "wage",
+                "t": 9264.0,
+                "d": 382.0
+              },
+              {
+                "w": "and",
+                "t": 9647.0,
+                "d": 213.0
+              },
+              {
+                "w": "rank",
+                "t": 9861.0,
+                "d": 296.0
+              },
+              {
+                "w": "in",
+                "t": 10158.0,
+                "d": 128.0
+              },
+              {
+                "w": "sultans'",
+                "t": 10287.0,
+                "d": 553.0
+              },
+              {
+                "w": "courts",
+                "t": 10840.0,
+                "d": 638.0
+              },
+              {
+                "w": "others",
+                "t": 11691.0,
+                "d": 424.0
+              },
+              {
+                "w": "found",
+                "t": 12115.0,
+                "d": 340.0
+              },
+              {
+                "w": "their",
+                "t": 12456.0,
+                "d": 213.0
+              },
+              {
+                "w": "calling",
+                "t": 12670.0,
+                "d": 468.0
+              },
+              {
+                "w": "on",
+                "t": 13138.0,
+                "d": 126.0
+              },
+              {
+                "w": "the",
+                "t": 13264.0,
+                "d": 170.0
+              },
+              {
+                "w": "Konkan",
+                "t": 13435.0,
+                "d": 384.0
+              },
+              {
+                "w": "sea",
+                "t": 13819.0,
+                "d": 339.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "art": "assets/janjira_the_sea_fort/img/p03.png",
+      "shot": "low-angle shot of the captain looking up at the bare rock",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The island itself was small, mostly rock and spray. But to men who knew currents and storms, its sheer walls and lonely reach were not a weakness. They were a shield.",
+            "hi": "टापू छोटा था, बस पत्थर और लहरों की छींटें। पर जिन्हें धाराएँ और तूफ़ान समझ थे, उनके लिए उसकी खड़ी दीवारें और तन्हाई कमज़ोरी नहीं, ढाल थीं।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p03_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p03_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "island",
+                "t": 350.0,
+                "d": 400.0
+              },
+              {
+                "w": "itself",
+                "t": 750.0,
+                "d": 400.0
+              },
+              {
+                "w": "was",
+                "t": 1150.0,
+                "d": 120.0
+              },
+              {
+                "w": "small",
+                "t": 1270.0,
+                "d": 560.0
+              },
+              {
+                "w": "mostly",
+                "t": 1830.0,
+                "d": 519.0
+              },
+              {
+                "w": "rock",
+                "t": 2349.0,
+                "d": 281.0
+              },
+              {
+                "w": "and",
+                "t": 2630.0,
+                "d": 120.0
+              },
+              {
+                "w": "spray",
+                "t": 2750.0,
+                "d": 639.0
+              },
+              {
+                "w": "But",
+                "t": 3630.0,
+                "d": 279.0
+              },
+              {
+                "w": "to",
+                "t": 3909.0,
+                "d": 241.0
+              },
+              {
+                "w": "men",
+                "t": 4150.0,
+                "d": 200.0
+              },
+              {
+                "w": "who",
+                "t": 4350.0,
+                "d": 160.0
+              },
+              {
+                "w": "knew",
+                "t": 4510.0,
+                "d": 240.0
+              },
+              {
+                "w": "currents",
+                "t": 4750.0,
+                "d": 400.0
+              },
+              {
+                "w": "and",
+                "t": 5150.0,
+                "d": 160.0
+              },
+              {
+                "w": "storms",
+                "t": 5310.0,
+                "d": 760.0
+              },
+              {
+                "w": "its",
+                "t": 6230.0,
+                "d": 280.0
+              },
+              {
+                "w": "sheer",
+                "t": 6510.0,
+                "d": 320.0
+              },
+              {
+                "w": "walls",
+                "t": 6830.0,
+                "d": 560.0
+              },
+              {
+                "w": "and",
+                "t": 7390.0,
+                "d": 200.0
+              },
+              {
+                "w": "lonely",
+                "t": 7590.0,
+                "d": 400.0
+              },
+              {
+                "w": "reach",
+                "t": 7990.0,
+                "d": 479.0
+              },
+              {
+                "w": "were",
+                "t": 8510.0,
+                "d": 240.0
+              },
+              {
+                "w": "not",
+                "t": 8750.0,
+                "d": 240.0
+              },
+              {
+                "w": "a",
+                "t": 8990.0,
+                "d": 40.0
+              },
+              {
+                "w": "weakness",
+                "t": 9030.0,
+                "d": 1240.0
+              },
+              {
+                "w": "They",
+                "t": 10510.0,
+                "d": 240.0
+              },
+              {
+                "w": "were",
+                "t": 10750.0,
+                "d": 160.0
+              },
+              {
+                "w": "a",
+                "t": 10910.0,
+                "d": 40.0
+              },
+              {
+                "w": "shield",
+                "t": 10950.0,
+                "d": 439.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto",
+      "type": "action",
+      "mood": "suspense",
+      "bg": "assets/janjira_the_sea_fort/action_auto/bg.png",
+      "chars": [
+        {
+          "img": "assets/janjira_the_sea_fort/action_auto/char0.png",
+          "motion": {
+            "fromX": -40,
+            "toX": -10,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": -2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "He marks every jagged ledge, already seeing bastions and batteries where others see only unforgiving stone and restless sea.",
+            "hi": "वो हर टेढ़ी चट्टान पर निशान लगा रहा है, जहाँ लोग बस कठोर पत्थर और बेक़रार समंदर देखते हैं, वो किलों और तोपों की शक्लें देखता है।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/action/action_auto_en.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/action/action_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "He",
+                "t": 80.0,
+                "d": 229.0
+              },
+              {
+                "w": "marks",
+                "t": 310.0,
+                "d": 413.0
+              },
+              {
+                "w": "every",
+                "t": 724.0,
+                "d": 413.0
+              },
+              {
+                "w": "jagged",
+                "t": 1137.0,
+                "d": 459.0
+              },
+              {
+                "w": "ledge",
+                "t": 1597.0,
+                "d": 689.0
+              },
+              {
+                "w": "already",
+                "t": 2379.0,
+                "d": 505.0
+              },
+              {
+                "w": "seeing",
+                "t": 2885.0,
+                "d": 320.0
+              },
+              {
+                "w": "bastions",
+                "t": 3205.0,
+                "d": 552.0
+              },
+              {
+                "w": "and",
+                "t": 3758.0,
+                "d": 182.0
+              },
+              {
+                "w": "batteries",
+                "t": 3941.0,
+                "d": 551.0
+              },
+              {
+                "w": "where",
+                "t": 4493.0,
+                "d": 231.0
+              },
+              {
+                "w": "others",
+                "t": 4724.0,
+                "d": 413.0
+              },
+              {
+                "w": "see",
+                "t": 5137.0,
+                "d": 229.0
+              },
+              {
+                "w": "only",
+                "t": 5413.0,
+                "d": 459.0
+              },
+              {
+                "w": "unforgiving",
+                "t": 5873.0,
+                "d": 781.0
+              },
+              {
+                "w": "stone",
+                "t": 6655.0,
+                "d": 643.0
+              },
+              {
+                "w": "and",
+                "t": 7344.0,
+                "d": 413.0
+              },
+              {
+                "w": "restless",
+                "t": 7758.0,
+                "d": 459.0
+              },
+              {
+                "w": "sea",
+                "t": 8218.0,
+                "d": 321.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "art": "assets/janjira_the_sea_fort/img/p04.png",
+      "shot": "busy construction wide shot inside the rising fort",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Over years, Siddis and local craftsmen raised high curtain walls, rounded bastions, inner courtyards, hidden sea-gates and deep fresh-water wells. The rock became a fortress built to outwait any siege.",
+            "hi": "सालों में सिद्दी और स्थानीय कारीगरों ने ऊँची परकोटे, गोल बुर्ज, अंदरूनी चौक, छुपे समुद्री दरवाज़े और गहरे मीठे कुएँ खड़े किए। चट्टान एक ऐसा किला बनी जो हर घेराबंदी से लंबा टिक सके।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p04_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p04_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Over",
+                "t": 70.0,
+                "d": 280.0
+              },
+              {
+                "w": "years",
+                "t": 350.0,
+                "d": 520.0
+              },
+              {
+                "w": "Siddis",
+                "t": 950.0,
+                "d": 600.0
+              },
+              {
+                "w": "and",
+                "t": 1550.0,
+                "d": 120.0
+              },
+              {
+                "w": "local",
+                "t": 1670.0,
+                "d": 359.0
+              },
+              {
+                "w": "craftsmen",
+                "t": 2029.0,
+                "d": 601.0
+              },
+              {
+                "w": "raised",
+                "t": 2630.0,
+                "d": 359.0
+              },
+              {
+                "w": "high",
+                "t": 2989.0,
+                "d": 360.0
+              },
+              {
+                "w": "curtain",
+                "t": 3349.0,
+                "d": 361.0
+              },
+              {
+                "w": "walls",
+                "t": 3710.0,
+                "d": 640.0
+              },
+              {
+                "w": "rounded",
+                "t": 4550.0,
+                "d": 560.0
+              },
+              {
+                "w": "bastions",
+                "t": 5110.0,
+                "d": 800.0
+              },
+              {
+                "w": "inner",
+                "t": 6150.0,
+                "d": 360.0
+              },
+              {
+                "w": "courtyards",
+                "t": 6510.0,
+                "d": 760.0
+              },
+              {
+                "w": "hidden",
+                "t": 7390.0,
+                "d": 400.0
+              },
+              {
+                "w": "sea-gates",
+                "t": 7790.0,
+                "d": 679.0
+              },
+              {
+                "w": "and",
+                "t": 8629.0,
+                "d": 241.0
+              },
+              {
+                "w": "deep",
+                "t": 8870.0,
+                "d": 240.0
+              },
+              {
+                "w": "fresh-water",
+                "t": 9110.0,
+                "d": 599.0
+              },
+              {
+                "w": "wells",
+                "t": 9709.0,
+                "d": 1161.0
+              },
+              {
+                "w": "The",
+                "t": 10870.0,
+                "d": 240.0
+              },
+              {
+                "w": "rock",
+                "t": 11110.0,
+                "d": 359.0
+              },
+              {
+                "w": "became",
+                "t": 11469.0,
+                "d": 361.0
+              },
+              {
+                "w": "a",
+                "t": 11830.0,
+                "d": 40.0
+              },
+              {
+                "w": "fortress",
+                "t": 11870.0,
+                "d": 560.0
+              },
+              {
+                "w": "built",
+                "t": 12430.0,
+                "d": 279.0
+              },
+              {
+                "w": "to",
+                "t": 12709.0,
+                "d": 81.0
+              },
+              {
+                "w": "outwait",
+                "t": 12790.0,
+                "d": 640.0
+              },
+              {
+                "w": "any",
+                "t": 13469.0,
+                "d": 281.0
+              },
+              {
+                "w": "siege",
+                "t": 13750.0,
+                "d": 600.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "art": "assets/janjira_the_sea_fort/img/p05.png",
+      "shot": "interior shot of the fort’s wells and granaries",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Wells and tanks were cut into stone, granaries filled, and guns mounted to face sea and shore. Janjira's strength was simple: if the sea stayed open, its people could endure when armies outside starved.",
+            "hi": "पत्थर काटकर कुएँ और हौज़ बने, कोठार भरे गए, तोपें समुंदर और किनारे की तरफ़ तानी गईं। जंजीरा की ताकत साफ थी—जब तक समुंदर खुला रहे, बाहर की फौजें भूखी मरें, अंदर के लोग जी लें।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p05_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p05_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Wells",
+                "t": 70.0,
+                "d": 360.0
+              },
+              {
+                "w": "and",
+                "t": 430.0,
+                "d": 120.0
+              },
+              {
+                "w": "tanks",
+                "t": 550.0,
+                "d": 320.0
+              },
+              {
+                "w": "were",
+                "t": 870.0,
+                "d": 200.0
+              },
+              {
+                "w": "cut",
+                "t": 1070.0,
+                "d": 160.0
+              },
+              {
+                "w": "into",
+                "t": 1230.0,
+                "d": 240.0
+              },
+              {
+                "w": "stone",
+                "t": 1470.0,
+                "d": 760.0
+              },
+              {
+                "w": "granaries",
+                "t": 2270.0,
+                "d": 599.0
+              },
+              {
+                "w": "filled",
+                "t": 2869.0,
+                "d": 641.0
+              },
+              {
+                "w": "and",
+                "t": 3510.0,
+                "d": 319.0
+              },
+              {
+                "w": "guns",
+                "t": 3829.0,
+                "d": 321.0
+              },
+              {
+                "w": "mounted",
+                "t": 4150.0,
+                "d": 440.0
+              },
+              {
+                "w": "to",
+                "t": 4590.0,
+                "d": 80.0
+              },
+              {
+                "w": "face",
+                "t": 4670.0,
+                "d": 400.0
+              },
+              {
+                "w": "sea",
+                "t": 5070.0,
+                "d": 200.0
+              },
+              {
+                "w": "and",
+                "t": 5270.0,
+                "d": 240.0
+              },
+              {
+                "w": "shore",
+                "t": 5510.0,
+                "d": 1200.0
+              },
+              {
+                "w": "Janjira's",
+                "t": 6830.0,
+                "d": 520.0
+              },
+              {
+                "w": "strength",
+                "t": 7350.0,
+                "d": 360.0
+              },
+              {
+                "w": "was",
+                "t": 7710.0,
+                "d": 120.0
+              },
+              {
+                "w": "simple",
+                "t": 7830.0,
+                "d": 559.0
+              },
+              {
+                "w": "if",
+                "t": 8790.0,
+                "d": 200.0
+              },
+              {
+                "w": "the",
+                "t": 8990.0,
+                "d": 120.0
+              },
+              {
+                "w": "sea",
+                "t": 9110.0,
+                "d": 240.0
+              },
+              {
+                "w": "stayed",
+                "t": 9350.0,
+                "d": 240.0
+              },
+              {
+                "w": "open",
+                "t": 9590.0,
+                "d": 639.0
+              },
+              {
+                "w": "its",
+                "t": 10270.0,
+                "d": 320.0
+              },
+              {
+                "w": "people",
+                "t": 10590.0,
+                "d": 360.0
+              },
+              {
+                "w": "could",
+                "t": 10950.0,
+                "d": 640.0
+              },
+              {
+                "w": "endure",
+                "t": 11590.0,
+                "d": 240.0
+              },
+              {
+                "w": "when",
+                "t": 11830.0,
+                "d": 239.0
+              },
+              {
+                "w": "armies",
+                "t": 12110.0,
+                "d": 400.0
+              },
+              {
+                "w": "outside",
+                "t": 12510.0,
+                "d": 400.0
+              },
+              {
+                "w": "starved",
+                "t": 12910.0,
+                "d": 639.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "art": "assets/janjira_the_sea_fort/img/p06.png",
+      "shot": "dynamic naval wide of Siddi ships confronting another fleet",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "From Janjira, Siddi captains rode the monsoon winds. English factory letters from Surat and Bombay speak of Siddi fleets that could escort, raid or block shipping along the coast, forcing Europeans to negotiate or fight.",
+            "hi": "जंजीरा से सिद्दी कप्तान मोनसून की हवाओं पर सवार होते। सूरत और बॉम्बे की अंग्रेज़ फैक्ट्री की चिट्ठियाँ बताती हैं, सिद्दी बेड़े कैसे तट पर जहाज़ों को बचाते, लूटते या रोक देते, यूरोपियों को सौदा या जंग पर मजबूर करते।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p06_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p06_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "From",
+                "t": 70.0,
+                "d": 320.0
+              },
+              {
+                "w": "Janjira",
+                "t": 390.0,
+                "d": 640.0
+              },
+              {
+                "w": "Siddi",
+                "t": 1190.0,
+                "d": 400.0
+              },
+              {
+                "w": "captains",
+                "t": 1590.0,
+                "d": 520.0
+              },
+              {
+                "w": "rode",
+                "t": 2110.0,
+                "d": 279.0
+              },
+              {
+                "w": "the",
+                "t": 2389.0,
+                "d": 121.0
+              },
+              {
+                "w": "monsoon",
+                "t": 2510.0,
+                "d": 520.0
+              },
+              {
+                "w": "winds",
+                "t": 3030.0,
+                "d": 560.0
+              },
+              {
+                "w": "English",
+                "t": 3989.0,
+                "d": 441.0
+              },
+              {
+                "w": "factory",
+                "t": 4430.0,
+                "d": 320.0
+              },
+              {
+                "w": "letters",
+                "t": 4750.0,
+                "d": 400.0
+              },
+              {
+                "w": "from",
+                "t": 5150.0,
+                "d": 200.0
+              },
+              {
+                "w": "Surat",
+                "t": 5350.0,
+                "d": 440.0
+              },
+              {
+                "w": "and",
+                "t": 5790.0,
+                "d": 280.0
+              },
+              {
+                "w": "Bombay",
+                "t": 6070.0,
+                "d": 320.0
+              },
+              {
+                "w": "speak",
+                "t": 6390.0,
+                "d": 360.0
+              },
+              {
+                "w": "of",
+                "t": 6750.0,
+                "d": 120.0
+              },
+              {
+                "w": "Siddi",
+                "t": 6870.0,
+                "d": 240.0
+              },
+              {
+                "w": "fleets",
+                "t": 7110.0,
+                "d": 640.0
+              },
+              {
+                "w": "that",
+                "t": 7830.0,
+                "d": 239.0
+              },
+              {
+                "w": "could",
+                "t": 8069.0,
+                "d": 240.0
+              },
+              {
+                "w": "escort",
+                "t": 8309.0,
+                "d": 561.0
+              },
+              {
+                "w": "raid",
+                "t": 8950.0,
+                "d": 480.0
+              },
+              {
+                "w": "or",
+                "t": 9469.0,
+                "d": 201.0
+              },
+              {
+                "w": "block",
+                "t": 9670.0,
+                "d": 240.0
+              },
+              {
+                "w": "shipping",
+                "t": 9910.0,
+                "d": 360.0
+              },
+              {
+                "w": "along",
+                "t": 10270.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 10590.0,
+                "d": 119.0
+              },
+              {
+                "w": "coast",
+                "t": 10709.0,
+                "d": 600.0
+              },
+              {
+                "w": "forcing",
+                "t": 11350.0,
+                "d": 520.0
+              },
+              {
+                "w": "Europeans",
+                "t": 11870.0,
+                "d": 519.0
+              },
+              {
+                "w": "to",
+                "t": 12389.0,
+                "d": 121.0
+              },
+              {
+                "w": "negotiate",
+                "t": 12510.0,
+                "d": 680.0
+              },
+              {
+                "w": "or",
+                "t": 13229.0,
+                "d": 240.0
+              },
+              {
+                "w": "fight",
+                "t": 13469.0,
+                "d": 481.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "art": "assets/janjira_the_sea_fort/img/p07.png",
+      "shot": "tense council scene inside the fort",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The Siddis of Janjira held their own court and alliances, distinct from inland powers. Sometimes they served Deccan sultans as admirals; sometimes they bargained hard with Mughals, Marathas or Europeans over harbours and tribute.",
+            "hi": "जंजीरा के सिद्दी की अपनी ही दरबार और संधियाँ थीं, भीतर के राजों से अलग। कभी वे दक्कन सुल्तानों के बेग़लर बनते, तो कभी मुगलों, मराठों या यूरोपियों से बंदरगाह और नज़राने पर कड़ा सौदा करते।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p07_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p07_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 80.0,
+                "d": 183.0
+              },
+              {
+                "w": "Siddis",
+                "t": 264.0,
+                "d": 505.0
+              },
+              {
+                "w": "of",
+                "t": 770.0,
+                "d": 137.0
+              },
+              {
+                "w": "Janjira",
+                "t": 908.0,
+                "d": 643.0
+              },
+              {
+                "w": "held",
+                "t": 1551.0,
+                "d": 275.0
+              },
+              {
+                "w": "their",
+                "t": 1827.0,
+                "d": 229.0
+              },
+              {
+                "w": "own",
+                "t": 2057.0,
+                "d": 229.0
+              },
+              {
+                "w": "court",
+                "t": 2287.0,
+                "d": 412.0
+              },
+              {
+                "w": "and",
+                "t": 2700.0,
+                "d": 231.0
+              },
+              {
+                "w": "alliances",
+                "t": 2931.0,
+                "d": 1103.0
+              },
+              {
+                "w": "distinct",
+                "t": 4126.0,
+                "d": 551.0
+              },
+              {
+                "w": "from",
+                "t": 4678.0,
+                "d": 321.0
+              },
+              {
+                "w": "inland",
+                "t": 5000.0,
+                "d": 413.0
+              },
+              {
+                "w": "powers",
+                "t": 5413.0,
+                "d": 827.0
+              },
+              {
+                "w": "Sometimes",
+                "t": 6793.0,
+                "d": 781.0
+              },
+              {
+                "w": "they",
+                "t": 7574.0,
+                "d": 183.0
+              },
+              {
+                "w": "served",
+                "t": 7758.0,
+                "d": 459.0
+              },
+              {
+                "w": "Deccan",
+                "t": 8264.0,
+                "d": 413.0
+              },
+              {
+                "w": "sultans",
+                "t": 8678.0,
+                "d": 780.0
+              },
+              {
+                "w": "as",
+                "t": 9458.0,
+                "d": 231.0
+              },
+              {
+                "w": "admirals",
+                "t": 9689.0,
+                "d": 1333.0
+              },
+              {
+                "w": "sometimes",
+                "t": 11067.0,
+                "d": 828.0
+              },
+              {
+                "w": "they",
+                "t": 11896.0,
+                "d": 228.0
+              },
+              {
+                "w": "bargained",
+                "t": 12125.0,
+                "d": 506.0
+              },
+              {
+                "w": "hard",
+                "t": 12632.0,
+                "d": 274.0
+              },
+              {
+                "w": "with",
+                "t": 12906.0,
+                "d": 183.0
+              },
+              {
+                "w": "Mughals",
+                "t": 13090.0,
+                "d": 873.0
+              },
+              {
+                "w": "Marathas",
+                "t": 14011.0,
+                "d": 1010.0
+              },
+              {
+                "w": "or",
+                "t": 15113.0,
+                "d": 275.0
+              },
+              {
+                "w": "Europeans",
+                "t": 15389.0,
+                "d": 781.0
+              },
+              {
+                "w": "over",
+                "t": 16218.0,
+                "d": 275.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "art": "assets/janjira_the_sea_fort/img/p08.png",
+      "shot": "wide shot of the fort seen from the mainland siege lines",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As inland powers grew, Ahmadnagar, Bijapur, then the Marathas, armies tried to swallow this small but stubborn rock. Siege works rose on the shore, but the fort lay beyond cannon range, cushioned by the sea.",
+            "hi": "जैसे–जैसे अंदरूनी ताकतें बढ़ीं—अहमदनगर, बीजापुर, फिर मराठे—फ़ौजों ने इस छोटी, ज़िद्दी चट्टान को निगलने की कोशिश की। किनारे पर घेराबंदी की रचनाएँ उठीं, पर किला तोपों की पहुँच से बाहर, समुंदर की गोद में था।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p08_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p08_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 70.0,
+                "d": 320.0
+              },
+              {
+                "w": "inland",
+                "t": 390.0,
+                "d": 440.0
+              },
+              {
+                "w": "powers",
+                "t": 830.0,
+                "d": 400.0
+              },
+              {
+                "w": "grew",
+                "t": 1230.0,
+                "d": 360.0
+              },
+              {
+                "w": "Ahmadnagar",
+                "t": 2029.0,
+                "d": 840.0
+              },
+              {
+                "w": "Bijapur",
+                "t": 2909.0,
+                "d": 841.0
+              },
+              {
+                "w": "then",
+                "t": 4110.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 4350.0,
+                "d": 120.0
+              },
+              {
+                "w": "Marathas",
+                "t": 4470.0,
+                "d": 760.0
+              },
+              {
+                "w": "armies",
+                "t": 5670.0,
+                "d": 440.0
+              },
+              {
+                "w": "tried",
+                "t": 6110.0,
+                "d": 280.0
+              },
+              {
+                "w": "to",
+                "t": 6390.0,
+                "d": 80.0
+              },
+              {
+                "w": "swallow",
+                "t": 6470.0,
+                "d": 440.0
+              },
+              {
+                "w": "this",
+                "t": 6910.0,
+                "d": 200.0
+              },
+              {
+                "w": "small",
+                "t": 7110.0,
+                "d": 400.0
+              },
+              {
+                "w": "but",
+                "t": 7510.0,
+                "d": 160.0
+              },
+              {
+                "w": "stubborn",
+                "t": 7670.0,
+                "d": 439.0
+              },
+              {
+                "w": "rock",
+                "t": 8109.0,
+                "d": 681.0
+              },
+              {
+                "w": "Siege",
+                "t": 9069.0,
+                "d": 400.0
+              },
+              {
+                "w": "works",
+                "t": 9469.0,
+                "d": 361.0
+              },
+              {
+                "w": "rose",
+                "t": 9830.0,
+                "d": 280.0
+              },
+              {
+                "w": "on",
+                "t": 10110.0,
+                "d": 119.0
+              },
+              {
+                "w": "the",
+                "t": 10229.0,
+                "d": 121.0
+              },
+              {
+                "w": "shore",
+                "t": 10350.0,
+                "d": 640.0
+              },
+              {
+                "w": "but",
+                "t": 11229.0,
+                "d": 240.0
+              },
+              {
+                "w": "the",
+                "t": 11469.0,
+                "d": 121.0
+              },
+              {
+                "w": "fort",
+                "t": 11590.0,
+                "d": 360.0
+              },
+              {
+                "w": "lay",
+                "t": 11950.0,
+                "d": 199.0
+              },
+              {
+                "w": "beyond",
+                "t": 12149.0,
+                "d": 361.0
+              },
+              {
+                "w": "cannon",
+                "t": 12510.0,
+                "d": 320.0
+              },
+              {
+                "w": "range",
+                "t": 12830.0,
+                "d": 559.0
+              },
+              {
+                "w": "cushioned",
+                "t": 13670.0,
+                "d": 440.0
+              },
+              {
+                "w": "by",
+                "t": 14110.0,
+                "d": 160.0
+              },
+              {
+                "w": "the",
+                "t": 14270.0,
+                "d": 119.0
+              },
+              {
+                "w": "sea",
+                "t": 14389.0,
+                "d": 281.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "art": "assets/janjira_the_sea_fort/img/p09.png",
+      "shot": "close-up of the captain watching Maratha flotillas approach",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Maratha bakhars, as studied by Jadunath Sarkar, describe bold attempts by Shivaji and later Sambhaji to seize Janjira. They came by land and sea, but every approach had to face the same walls, waves and guns.",
+            "hi": "मराठी बखरें, जैसा जदुनाथ सरकार ने पढ़ा, शिवाजी और बाद में संभाजी की जंजीरा लेने की दिलेर कोशिशें लिखती हैं। वे ज़मीन और पानी दोनों से आए—पर हर रास्ते को वही दीवारें, लहरें और तोपें मिलीं।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p09_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p09_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Maratha",
+                "t": 70.0,
+                "d": 520.0
+              },
+              {
+                "w": "bakhars",
+                "t": 590.0,
+                "d": 640.0
+              },
+              {
+                "w": "as",
+                "t": 1430.0,
+                "d": 200.0
+              },
+              {
+                "w": "studied",
+                "t": 1630.0,
+                "d": 399.0
+              },
+              {
+                "w": "by",
+                "t": 2029.0,
+                "d": 201.0
+              },
+              {
+                "w": "Jadunath",
+                "t": 2230.0,
+                "d": 440.0
+              },
+              {
+                "w": "Sarkar",
+                "t": 2670.0,
+                "d": 679.0
+              },
+              {
+                "w": "describe",
+                "t": 3550.0,
+                "d": 520.0
+              },
+              {
+                "w": "bold",
+                "t": 4070.0,
+                "d": 320.0
+              },
+              {
+                "w": "attempts",
+                "t": 4390.0,
+                "d": 480.0
+              },
+              {
+                "w": "by",
+                "t": 4870.0,
+                "d": 160.0
+              },
+              {
+                "w": "Shivaji",
+                "t": 5030.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 5750.0,
+                "d": 360.0
+              },
+              {
+                "w": "later",
+                "t": 6110.0,
+                "d": 320.0
+              },
+              {
+                "w": "Sambhaji",
+                "t": 6430.0,
+                "d": 560.0
+              },
+              {
+                "w": "to",
+                "t": 6990.0,
+                "d": 160.0
+              },
+              {
+                "w": "seize",
+                "t": 7150.0,
+                "d": 320.0
+              },
+              {
+                "w": "Janjira",
+                "t": 7470.0,
+                "d": 679.0
+              },
+              {
+                "w": "They",
+                "t": 8830.0,
+                "d": 280.0
+              },
+              {
+                "w": "came",
+                "t": 9110.0,
+                "d": 199.0
+              },
+              {
+                "w": "by",
+                "t": 9309.0,
+                "d": 201.0
+              },
+              {
+                "w": "land",
+                "t": 9510.0,
+                "d": 240.0
+              },
+              {
+                "w": "and",
+                "t": 9750.0,
+                "d": 160.0
+              },
+              {
+                "w": "sea",
+                "t": 9910.0,
+                "d": 239.0
+              },
+              {
+                "w": "but",
+                "t": 10670.0,
+                "d": 320.0
+              },
+              {
+                "w": "every",
+                "t": 10990.0,
+                "d": 360.0
+              },
+              {
+                "w": "approach",
+                "t": 11350.0,
+                "d": 480.0
+              },
+              {
+                "w": "had",
+                "t": 11830.0,
+                "d": 160.0
+              },
+              {
+                "w": "to",
+                "t": 11990.0,
+                "d": 79.0
+              },
+              {
+                "w": "face",
+                "t": 12069.0,
+                "d": 320.0
+              },
+              {
+                "w": "the",
+                "t": 12389.0,
+                "d": 121.0
+              },
+              {
+                "w": "same",
+                "t": 12510.0,
+                "d": 320.0
+              },
+              {
+                "w": "walls",
+                "t": 12830.0,
+                "d": 680.0
+              },
+              {
+                "w": "waves",
+                "t": 13629.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 14309.0,
+                "d": 240.0
+              },
+              {
+                "w": "guns",
+                "t": 14549.0,
+                "d": 641.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "art": "assets/janjira_the_sea_fort/img/p10.png",
+      "shot": "dramatic mid-shot of cannon crews at the sea bastion",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "speech",
+          "role": "male",
+          "text": {
+            "en": "Hold your fire till the tide turns. Let the sea fight with us.",
+            "hi": "गोली मत चलाओ, ज्वार पलटने दो। आज समुंदर हमारे साथ लड़ेगा।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p10_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p10_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Hold",
+                "t": 46.3,
+                "d": 289.3
+              },
+              {
+                "w": "your",
+                "t": 335.7,
+                "d": 254.6
+              },
+              {
+                "w": "fire",
+                "t": 590.3,
+                "d": 439.8
+              },
+              {
+                "w": "till",
+                "t": 1030.1,
+                "d": 243.0
+              },
+              {
+                "w": "the",
+                "t": 1284.7,
+                "d": 104.2
+              },
+              {
+                "w": "tide",
+                "t": 1388.9,
+                "d": 335.7
+              },
+              {
+                "w": "turns",
+                "t": 1770.8,
+                "d": 486.1
+              },
+              {
+                "w": "Let",
+                "t": 3055.5,
+                "d": 219.9
+              },
+              {
+                "w": "the",
+                "t": 3310.2,
+                "d": 138.9
+              },
+              {
+                "w": "sea",
+                "t": 3449.1,
+                "d": 254.6
+              },
+              {
+                "w": "fight",
+                "t": 3703.7,
+                "d": 335.6
+              },
+              {
+                "w": "with",
+                "t": 4039.3,
+                "d": 219.9
+              },
+              {
+                "w": "us",
+                "t": 4259.2,
+                "d": 289.3
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "action_auto2",
+      "type": "action",
+      "mood": "battle",
+      "bg": "assets/janjira_the_sea_fort/action_auto2/bg.png",
+      "chars": [
+        {
+          "img": "assets/janjira_the_sea_fort/action_auto2/char0.png",
+          "motion": {
+            "fromX": 42,
+            "toX": 8,
+            "fromScale": 0.82,
+            "toScale": 1.03,
+            "rot": 2,
+            "dur": 7200
+          }
+        }
+      ],
+      "motion": {
+        "bgZoom": 1.12,
+        "bgPan": -6,
+        "dur": 7200
+      },
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As thunder crashes over Janjira, his shouted orders cut through wind and spray, turning chaos into a shielded wall of fire.",
+            "hi": "बिजली से गूंजते जंजीरा पर उसकी चीखती हुक्में हवाओं को चीरकर तूफ़ान को आग की ढाल बना देती हैं।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/action/action_auto2_en.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/action/action_auto2_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 110.0,
+                "d": 200.0
+              },
+              {
+                "w": "thunder",
+                "t": 310.0,
+                "d": 400.0
+              },
+              {
+                "w": "crashes",
+                "t": 710.0,
+                "d": 440.0
+              },
+              {
+                "w": "over",
+                "t": 1150.0,
+                "d": 240.0
+              },
+              {
+                "w": "Janjira",
+                "t": 1390.0,
+                "d": 760.0
+              },
+              {
+                "w": "his",
+                "t": 2309.0,
+                "d": 241.0
+              },
+              {
+                "w": "shouted",
+                "t": 2550.0,
+                "d": 480.0
+              },
+              {
+                "w": "orders",
+                "t": 3030.0,
+                "d": 480.0
+              },
+              {
+                "w": "cut",
+                "t": 3510.0,
+                "d": 200.0
+              },
+              {
+                "w": "through",
+                "t": 3710.0,
+                "d": 360.0
+              },
+              {
+                "w": "wind",
+                "t": 4070.0,
+                "d": 400.0
+              },
+              {
+                "w": "and",
+                "t": 4470.0,
+                "d": 200.0
+              },
+              {
+                "w": "spray",
+                "t": 4670.0,
+                "d": 1080.0
+              },
+              {
+                "w": "turning",
+                "t": 5790.0,
+                "d": 440.0
+              },
+              {
+                "w": "chaos",
+                "t": 6230.0,
+                "d": 480.0
+              },
+              {
+                "w": "into",
+                "t": 6710.0,
+                "d": 240.0
+              },
+              {
+                "w": "a",
+                "t": 6950.0,
+                "d": 40.0
+              },
+              {
+                "w": "shielded",
+                "t": 6990.0,
+                "d": 600.0
+              },
+              {
+                "w": "wall",
+                "t": 7590.0,
+                "d": 400.0
+              },
+              {
+                "w": "of",
+                "t": 7990.0,
+                "d": 119.0
+              },
+              {
+                "w": "fire",
+                "t": 8109.0,
+                "d": 520.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "art": "assets/janjira_the_sea_fort/img/p11.png",
+      "shot": "wide shot of failed assault under hostile weather",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "The assaults failed. The bakhars record Janjira as unconquered, and English letters mention Maratha frustration. Geography, engineering and patient defence turned a small garrison into a long-standing obstacle.",
+            "hi": "हमले चकनाचूर हुए। बखरें जंजीरा को अजिंक्य दर्ज करती हैं, और अंग्रेज़ चिट्ठियाँ मराठों की झुँझलाहट लिखती हैं। भूगोल, हुनर और सब्र से भरी रक्षा ने छोटी टुकड़ी को सदियों का रोड़ा बना दिया।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p11_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p11_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "The",
+                "t": 70.0,
+                "d": 160.0
+              },
+              {
+                "w": "assaults",
+                "t": 230.0,
+                "d": 440.0
+              },
+              {
+                "w": "failed",
+                "t": 670.0,
+                "d": 600.0
+              },
+              {
+                "w": "The",
+                "t": 1390.0,
+                "d": 240.0
+              },
+              {
+                "w": "bakhars",
+                "t": 1630.0,
+                "d": 360.0
+              },
+              {
+                "w": "record",
+                "t": 1990.0,
+                "d": 399.0
+              },
+              {
+                "w": "Janjira",
+                "t": 2389.0,
+                "d": 440.0
+              },
+              {
+                "w": "as",
+                "t": 2829.0,
+                "d": 321.0
+              },
+              {
+                "w": "unconquered",
+                "t": 3150.0,
+                "d": 1000.0
+              },
+              {
+                "w": "and",
+                "t": 4150.0,
+                "d": 360.0
+              },
+              {
+                "w": "English",
+                "t": 4510.0,
+                "d": 400.0
+              },
+              {
+                "w": "letters",
+                "t": 4910.0,
+                "d": 400.0
+              },
+              {
+                "w": "mention",
+                "t": 5310.0,
+                "d": 520.0
+              },
+              {
+                "w": "Maratha",
+                "t": 5830.0,
+                "d": 400.0
+              },
+              {
+                "w": "frustration",
+                "t": 6230.0,
+                "d": 920.0
+              },
+              {
+                "w": "Geography",
+                "t": 7510.0,
+                "d": 799.0
+              },
+              {
+                "w": "engineering",
+                "t": 8389.0,
+                "d": 680.0
+              },
+              {
+                "w": "and",
+                "t": 9069.0,
+                "d": 240.0
+              },
+              {
+                "w": "patient",
+                "t": 9309.0,
+                "d": 400.0
+              },
+              {
+                "w": "defence",
+                "t": 9709.0,
+                "d": 680.0
+              },
+              {
+                "w": "turned",
+                "t": 10469.0,
+                "d": 361.0
+              },
+              {
+                "w": "a",
+                "t": 10830.0,
+                "d": 40.0
+              },
+              {
+                "w": "small",
+                "t": 10870.0,
+                "d": 359.0
+              },
+              {
+                "w": "garrison",
+                "t": 11229.0,
+                "d": 521.0
+              },
+              {
+                "w": "into",
+                "t": 11750.0,
+                "d": 240.0
+              },
+              {
+                "w": "a",
+                "t": 11990.0,
+                "d": 40.0
+              },
+              {
+                "w": "long-standing",
+                "t": 12030.0,
+                "d": 800.0
+              },
+              {
+                "w": "obstacle",
+                "t": 12830.0,
+                "d": 719.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "art": "assets/janjira_the_sea_fort/img/p12.png",
+      "shot": "interior scene showing daily life and mixed community",
+      "mood": "battle",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Over generations, the Siddis of Janjira became a coastal community, African in origin, Deccani in speech, Konkan in setting. Their fort was not just a bastion of war, but a lived home tied to the sea.",
+            "hi": "पीढ़ी दर पीढ़ी जंजीरा के सिद्दी तटीय बिरादरी बन गए—नस्ल से अफ्रीकी, ज़बान से दक्कनी, मिज़ाज से कोकणी। उनका किला सिर्फ़ जंग का बुर्ज नहीं रहा, समुंदर से बँधा बसेरा बन गया।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p12_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p12_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Over",
+                "t": 110.0,
+                "d": 280.0
+              },
+              {
+                "w": "generations",
+                "t": 390.0,
+                "d": 1000.0
+              },
+              {
+                "w": "the",
+                "t": 1470.0,
+                "d": 200.0
+              },
+              {
+                "w": "Siddis",
+                "t": 1670.0,
+                "d": 480.0
+              },
+              {
+                "w": "of",
+                "t": 2150.0,
+                "d": 120.0
+              },
+              {
+                "w": "Janjira",
+                "t": 2270.0,
+                "d": 920.0
+              },
+              {
+                "w": "became",
+                "t": 3230.0,
+                "d": 440.0
+              },
+              {
+                "w": "a",
+                "t": 3670.0,
+                "d": 159.0
+              },
+              {
+                "w": "coastal",
+                "t": 3829.0,
+                "d": 481.0
+              },
+              {
+                "w": "community",
+                "t": 4310.0,
+                "d": 1120.0
+              },
+              {
+                "w": "African",
+                "t": 5590.0,
+                "d": 480.0
+              },
+              {
+                "w": "in",
+                "t": 6070.0,
+                "d": 120.0
+              },
+              {
+                "w": "origin",
+                "t": 6190.0,
+                "d": 760.0
+              },
+              {
+                "w": "Deccani",
+                "t": 7150.0,
+                "d": 600.0
+              },
+              {
+                "w": "in",
+                "t": 7750.0,
+                "d": 80.0
+              },
+              {
+                "w": "speech",
+                "t": 7830.0,
+                "d": 879.0
+              },
+              {
+                "w": "Konkan",
+                "t": 8830.0,
+                "d": 600.0
+              },
+              {
+                "w": "in",
+                "t": 9430.0,
+                "d": 160.0
+              },
+              {
+                "w": "setting",
+                "t": 9590.0,
+                "d": 1320.0
+              },
+              {
+                "w": "Their",
+                "t": 11030.0,
+                "d": 320.0
+              },
+              {
+                "w": "fort",
+                "t": 11350.0,
+                "d": 400.0
+              },
+              {
+                "w": "was",
+                "t": 11830.0,
+                "d": 239.0
+              },
+              {
+                "w": "not",
+                "t": 12069.0,
+                "d": 240.0
+              },
+              {
+                "w": "just",
+                "t": 12309.0,
+                "d": 240.0
+              },
+              {
+                "w": "a",
+                "t": 12549.0,
+                "d": 80.0
+              },
+              {
+                "w": "bastion",
+                "t": 12629.0,
+                "d": 481.0
+              },
+              {
+                "w": "of",
+                "t": 13110.0,
+                "d": 160.0
+              },
+              {
+                "w": "war",
+                "t": 13270.0,
+                "d": 640.0
+              },
+              {
+                "w": "but",
+                "t": 14069.0,
+                "d": 240.0
+              },
+              {
+                "w": "a",
+                "t": 14309.0,
+                "d": 80.0
+              },
+              {
+                "w": "lived",
+                "t": 14389.0,
+                "d": 361.0
+              },
+              {
+                "w": "home",
+                "t": 14750.0,
+                "d": 280.0
+              },
+              {
+                "w": "tied",
+                "t": 15030.0,
+                "d": 439.0
+              },
+              {
+                "w": "to",
+                "t": 15469.0,
+                "d": 121.0
+              },
+              {
+                "w": "the",
+                "t": 15590.0,
+                "d": 160.0
+              },
+              {
+                "w": "sea",
+                "t": 15750.0,
+                "d": 280.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "art": "assets/janjira_the_sea_fort/img/p13.png",
+      "shot": "historical montage of treaties and changing flags",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "As the seventeenth century rolled on, powers shifted. Yet letters from Surat, Bombay and Deccan courts kept returning to one name, Janjira, and to the Siddis whose small island forced every neighbour to reckon with them.",
+            "hi": "सत्रहवीं सदी आगे बढ़ी, ताकतों का पलड़ा बदलता रहा। फिर भी सूरत, बॉम्बे और दक्कन दरबार की चिट्ठियाँ बार–बार एक नाम पर लौटती रहीं—जंजीरा—और उन सिद्दी पर, जिनके छोटे टापू ने हर पड़ोसी को उनसे टकराने पर मजबूर किया।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p13_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p13_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "As",
+                "t": 74.0,
+                "d": 212.0
+              },
+              {
+                "w": "the",
+                "t": 287.0,
+                "d": 170.0
+              },
+              {
+                "w": "seventeenth",
+                "t": 457.0,
+                "d": 595.0
+              },
+              {
+                "w": "century",
+                "t": 1053.0,
+                "d": 425.0
+              },
+              {
+                "w": "rolled",
+                "t": 1478.0,
+                "d": 297.0
+              },
+              {
+                "w": "on",
+                "t": 1776.0,
+                "d": 595.0
+              },
+              {
+                "w": "powers",
+                "t": 2456.0,
+                "d": 426.0
+              },
+              {
+                "w": "shifted",
+                "t": 2882.0,
+                "d": 851.0
+              },
+              {
+                "w": "Yet",
+                "t": 4243.0,
+                "d": 384.0
+              },
+              {
+                "w": "letters",
+                "t": 4627.0,
+                "d": 425.0
+              },
+              {
+                "w": "from",
+                "t": 5053.0,
+                "d": 212.0
+              },
+              {
+                "w": "Surat",
+                "t": 5265.0,
+                "d": 595.0
+              },
+              {
+                "w": "Bombay",
+                "t": 5946.0,
+                "d": 553.0
+              },
+              {
+                "w": "and",
+                "t": 6500.0,
+                "d": 255.0
+              },
+              {
+                "w": "Deccan",
+                "t": 6755.0,
+                "d": 382.0
+              },
+              {
+                "w": "courts",
+                "t": 7138.0,
+                "d": 595.0
+              },
+              {
+                "w": "kept",
+                "t": 7776.0,
+                "d": 340.0
+              },
+              {
+                "w": "returning",
+                "t": 8117.0,
+                "d": 509.0
+              },
+              {
+                "w": "to",
+                "t": 8626.0,
+                "d": 85.0
+              },
+              {
+                "w": "one",
+                "t": 8711.0,
+                "d": 382.0
+              },
+              {
+                "w": "name",
+                "t": 9094.0,
+                "d": 596.0
+              },
+              {
+                "w": "Janjira",
+                "t": 9732.0,
+                "d": 639.0
+              },
+              {
+                "w": "and",
+                "t": 10372.0,
+                "d": 679.0
+              },
+              {
+                "w": "to",
+                "t": 11052.0,
+                "d": 85.0
+              },
+              {
+                "w": "the",
+                "t": 11137.0,
+                "d": 170.0
+              },
+              {
+                "w": "Siddis",
+                "t": 11307.0,
+                "d": 596.0
+              },
+              {
+                "w": "whose",
+                "t": 11904.0,
+                "d": 211.0
+              },
+              {
+                "w": "small",
+                "t": 12115.0,
+                "d": 469.0
+              },
+              {
+                "w": "island",
+                "t": 12585.0,
+                "d": 339.0
+              },
+              {
+                "w": "forced",
+                "t": 12924.0,
+                "d": 425.0
+              },
+              {
+                "w": "every",
+                "t": 13393.0,
+                "d": 382.0
+              },
+              {
+                "w": "neighbour",
+                "t": 13776.0,
+                "d": 381.0
+              },
+              {
+                "w": "to",
+                "t": 14158.0,
+                "d": 170.0
+              },
+              {
+                "w": "reckon",
+                "t": 14328.0,
+                "d": 341.0
+              },
+              {
+                "w": "with",
+                "t": 14670.0,
+                "d": 170.0
+              },
+              {
+                "w": "them",
+                "t": 14840.0,
+                "d": 467.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "split_auto",
+      "type": "split",
+      "mood": "triumph",
+      "slices": [
+        {
+          "img": "assets/janjira_the_sea_fort/split_auto/s0.png",
+          "slogan": {
+            "en": "Janjira stands, we never bow",
+            "hi": "जंजीरा अडिग, हम कभी न झुकें"
+          },
+          "pos": "center 30%"
+        },
+        {
+          "img": "assets/janjira_the_sea_fort/split_auto/s1.png",
+          "pos": "center 46%"
+        },
+        {
+          "img": "assets/janjira_the_sea_fort/split_auto/s2.png",
+          "pos": "center 52%"
+        }
+      ],
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Across changing empires, Janjira stands firm, the Siddi Captain's legacy echoing in stone, surf, and remembered defiance.",
+            "hi": "बदलते साम्राज्यों के बीच, जान्जीरा अडिग है — सिद्दी कप्तान की विरासत पत्थरों, लहरों और यादों में गूंजती है।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/split/split_auto_en.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/split/split_auto_hi.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Across",
+                "t": 114.0,
+                "d": 541.0
+              },
+              {
+                "w": "changing",
+                "t": 656.0,
+                "d": 500.0
+              },
+              {
+                "w": "empires",
+                "t": 1156.0,
+                "d": 833.0
+              },
+              {
+                "w": "Janjira",
+                "t": 2197.0,
+                "d": 583.0
+              },
+              {
+                "w": "stands",
+                "t": 2781.0,
+                "d": 416.0
+              },
+              {
+                "w": "firm",
+                "t": 3197.0,
+                "d": 915.0
+              },
+              {
+                "w": "the",
+                "t": 4322.0,
+                "d": 166.0
+              },
+              {
+                "w": "Siddi",
+                "t": 4489.0,
+                "d": 333.0
+              },
+              {
+                "w": "Captain's",
+                "t": 4822.0,
+                "d": 583.0
+              },
+              {
+                "w": "legacy",
+                "t": 5406.0,
+                "d": 541.0
+              },
+              {
+                "w": "echoing",
+                "t": 5989.0,
+                "d": 500.0
+              },
+              {
+                "w": "in",
+                "t": 6489.0,
+                "d": 83.0
+              },
+              {
+                "w": "stone",
+                "t": 6572.0,
+                "d": 583.0
+              },
+              {
+                "w": "surf",
+                "t": 7197.0,
+                "d": 916.0
+              },
+              {
+                "w": "and",
+                "t": 8156.0,
+                "d": 290.0
+              },
+              {
+                "w": "remembered",
+                "t": 8446.0,
+                "d": 541.0
+              },
+              {
+                "w": "defiance",
+                "t": 8988.0,
+                "d": 875.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "art": "assets/janjira_the_sea_fort/img/p14.png",
+      "shot": "present-day style shot of the captain looking over the enduring stone",
+      "mood": "calm",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Modern surveys of the fort's wells, bastions and sea-gates show how carefully it was shaped for endurance. The rock remembers how a maritime minority used engineering and seamanship to stand firm between rival empires.",
+            "hi": "आधुनिक जाँचें किले के कुओं, बुर्जों और समुद्री दरवाज़ों को देखकर बताती हैं, इसे टिकाऊपन के लिए कितनी सूझबूझ से गढ़ा गया था। यह चट्टान बताती है, कैसे एक समुद्री अल्पसंख्या ने इंजीनियरिंग और नाविक–कला से दो दुश्मन साम्राज्यों के बीच अपना मुकाम थामे रखा।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p14_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p14_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Modern",
+                "t": 74.0,
+                "d": 425.0
+              },
+              {
+                "w": "surveys",
+                "t": 500.0,
+                "d": 510.0
+              },
+              {
+                "w": "of",
+                "t": 1010.0,
+                "d": 127.0
+              },
+              {
+                "w": "the",
+                "t": 1138.0,
+                "d": 127.0
+              },
+              {
+                "w": "fort's",
+                "t": 1265.0,
+                "d": 340.0
+              },
+              {
+                "w": "wells",
+                "t": 1606.0,
+                "d": 595.0
+              },
+              {
+                "w": "bastions",
+                "t": 2414.0,
+                "d": 594.0
+              },
+              {
+                "w": "and",
+                "t": 3009.0,
+                "d": 127.0
+              },
+              {
+                "w": "sea-gates",
+                "t": 3137.0,
+                "d": 553.0
+              },
+              {
+                "w": "show",
+                "t": 3690.0,
+                "d": 553.0
+              },
+              {
+                "w": "how",
+                "t": 4243.0,
+                "d": 171.0
+              },
+              {
+                "w": "carefully",
+                "t": 4414.0,
+                "d": 638.0
+              },
+              {
+                "w": "it",
+                "t": 5053.0,
+                "d": 170.0
+              },
+              {
+                "w": "was",
+                "t": 5223.0,
+                "d": 170.0
+              },
+              {
+                "w": "shaped",
+                "t": 5393.0,
+                "d": 468.0
+              },
+              {
+                "w": "for",
+                "t": 5861.0,
+                "d": 212.0
+              },
+              {
+                "w": "endurance",
+                "t": 6074.0,
+                "d": 851.0
+              },
+              {
+                "w": "The",
+                "t": 7861.0,
+                "d": 212.0
+              },
+              {
+                "w": "rock",
+                "t": 8074.0,
+                "d": 212.0
+              },
+              {
+                "w": "remembers",
+                "t": 8287.0,
+                "d": 510.0
+              },
+              {
+                "w": "how",
+                "t": 8797.0,
+                "d": 170.0
+              },
+              {
+                "w": "a",
+                "t": 8968.0,
+                "d": 41.0
+              },
+              {
+                "w": "maritime",
+                "t": 9009.0,
+                "d": 554.0
+              },
+              {
+                "w": "minority",
+                "t": 9563.0,
+                "d": 638.0
+              },
+              {
+                "w": "used",
+                "t": 10202.0,
+                "d": 340.0
+              },
+              {
+                "w": "engineering",
+                "t": 10542.0,
+                "d": 850.0
+              },
+              {
+                "w": "and",
+                "t": 11392.0,
+                "d": 298.0
+              },
+              {
+                "w": "seamanship",
+                "t": 11691.0,
+                "d": 679.0
+              },
+              {
+                "w": "to",
+                "t": 12371.0,
+                "d": 128.0
+              },
+              {
+                "w": "stand",
+                "t": 12500.0,
+                "d": 382.0
+              },
+              {
+                "w": "firm",
+                "t": 12882.0,
+                "d": 637.0
+              },
+              {
+                "w": "between",
+                "t": 13520.0,
+                "d": 341.0
+              },
+              {
+                "w": "rival",
+                "t": 13861.0,
+                "d": 296.0
+              },
+              {
+                "w": "empires",
+                "t": 14158.0,
+                "d": 767.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "art": "assets/janjira_the_sea_fort/img/p15.png",
+      "shot": "final contemplative wide shot of Janjira at dusk",
+      "mood": "suspense",
+      "lines": [
+        {
+          "type": "narration",
+          "role": "narrator",
+          "text": {
+            "en": "Janjira shows how a single stronghold, built with skill and held with patience, can bend the paths of armies and traders, and how a community on a lonely rock can leave its mark on the long history of the sea.",
+            "hi": "जंजीरा दिखाता है, कैसे एक अकेला मज़बूत किला, हुनर से बना और सब्र से संभाला गया, फ़ौजों और सौदेगरों की राहें मोड़ सकता है—और कैसे तन्हा चट्टान पर बसी एक छोटी कौम समुंदर की लंबी कहानी में अपनी पहचान छोड़ जाती है।"
+          },
+          "audio": {
+            "en": "assets/janjira_the_sea_fort/audio/en/p15_0.mp3",
+            "hi": "assets/janjira_the_sea_fort/audio/hi/p15_0.mp3"
+          },
+          "words": {
+            "en": [
+              {
+                "w": "Janjira",
+                "t": 126.0,
+                "d": 597.0
+              },
+              {
+                "w": "shows",
+                "t": 724.0,
+                "d": 413.0
+              },
+              {
+                "w": "how",
+                "t": 1137.0,
+                "d": 229.0
+              },
+              {
+                "w": "a",
+                "t": 1367.0,
+                "d": 45.0
+              },
+              {
+                "w": "single",
+                "t": 1413.0,
+                "d": 597.0
+              },
+              {
+                "w": "stronghold",
+                "t": 2011.0,
+                "d": 919.0
+              },
+              {
+                "w": "built",
+                "t": 3160.0,
+                "d": 413.0
+              },
+              {
+                "w": "with",
+                "t": 3574.0,
+                "d": 228.0
+              },
+              {
+                "w": "skill",
+                "t": 3803.0,
+                "d": 551.0
+              },
+              {
+                "w": "and",
+                "t": 4447.0,
+                "d": 322.0
+              },
+              {
+                "w": "held",
+                "t": 4770.0,
+                "d": 229.0
+              },
+              {
+                "w": "with",
+                "t": 5000.0,
+                "d": 229.0
+              },
+              {
+                "w": "patience",
+                "t": 5229.0,
+                "d": 643.0
+              },
+              {
+                "w": "can",
+                "t": 6379.0,
+                "d": 321.0
+              },
+              {
+                "w": "bend",
+                "t": 6701.0,
+                "d": 321.0
+              },
+              {
+                "w": "the",
+                "t": 7022.0,
+                "d": 183.0
+              },
+              {
+                "w": "paths",
+                "t": 7206.0,
+                "d": 413.0
+              },
+              {
+                "w": "of",
+                "t": 7620.0,
+                "d": 275.0
+              },
+              {
+                "w": "armies",
+                "t": 7896.0,
+                "d": 413.0
+              },
+              {
+                "w": "and",
+                "t": 8310.0,
+                "d": 183.0
+              },
+              {
+                "w": "traders",
+                "t": 8494.0,
+                "d": 1011.0
+              },
+              {
+                "w": "and",
+                "t": 9689.0,
+                "d": 275.0
+              },
+              {
+                "w": "how",
+                "t": 9965.0,
+                "d": 229.0
+              },
+              {
+                "w": "a",
+                "t": 10195.0,
+                "d": 91.0
+              },
+              {
+                "w": "community",
+                "t": 10287.0,
+                "d": 872.0
+              },
+              {
+                "w": "on",
+                "t": 11206.0,
+                "d": 183.0
+              },
+              {
+                "w": "a",
+                "t": 11390.0,
+                "d": 91.0
+              },
+              {
+                "w": "lonely",
+                "t": 11482.0,
+                "d": 550.0
+              },
+              {
+                "w": "rock",
+                "t": 12033.0,
+                "d": 689.0
+              },
+              {
+                "w": "can",
+                "t": 12722.0,
+                "d": 275.0
+              },
+              {
+                "w": "leave",
+                "t": 12998.0,
+                "d": 322.0
+              },
+              {
+                "w": "its",
+                "t": 13321.0,
+                "d": 183.0
+              },
+              {
+                "w": "mark",
+                "t": 13505.0,
+                "d": 458.0
+              },
+              {
+                "w": "on",
+                "t": 13964.0,
+                "d": 139.0
+              },
+              {
+                "w": "the",
+                "t": 14103.0,
+                "d": 183.0
+              },
+              {
+                "w": "long",
+                "t": 14287.0,
+                "d": 413.0
+              },
+              {
+                "w": "history",
+                "t": 14701.0,
+                "d": 504.0
+              },
+              {
+                "w": "of",
+                "t": 15205.0,
+                "d": 183.0
+              },
+              {
+                "w": "the",
+                "t": 15389.0,
+                "d": 598.0
+              },
+              {
+                "w": "sea",
+                "t": 15988.0,
+                "d": 0.0
+              }
+            ],
+            "hi": []
+          }
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "name": "Siddi Sea Captain of Janjira",
+    "epithets": [
+      "Siddis of Janjira",
+      "Abyssinian Sea Lords of Konkan",
+      "Keepers of the Island Fort",
+      "Guardians of Murud-Janjira"
+    ],
+    "legend": "From one rocky island, they stalled Maratha and Mughal dreams."
+  }
+}
