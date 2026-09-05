@@ -34,6 +34,10 @@
   .chead:hover{background:rgba(232,182,74,.05)}
   .cbadge{flex:none;width:52px;height:52px;border-radius:14px;display:grid;place-items:center;font-size:26px;
      background:linear-gradient(180deg,#f0c15a,#cf8f2c);box-shadow:0 0 0 4px rgba(232,182,74,.12)}
+  .ccover{flex:none;width:98px;height:60px;border-radius:12px;overflow:hidden;position:relative;
+     background:linear-gradient(180deg,#241a10,#0e0b07);box-shadow:0 0 0 3px rgba(232,182,74,.14)}
+  .ccover img{width:100%;height:100%;object-fit:cover;object-position:50% 26%;display:block}
+  .ccover::after{content:"";position:absolute;inset:0;background:linear-gradient(115deg,rgba(232,182,74,.06),rgba(0,0,0,.32))}
   .cinfo{flex:1;min-width:0}
   .cname{font-size:25px;font-weight:800}
   .cblurb{font-size:13.5px;color:var(--dim);margin-top:3px;line-height:1.4}
@@ -111,7 +115,7 @@
   .tools button:hover,.tools select:hover{border-color:rgba(232,182,74,.55);color:var(--gold)}
   .tools select{max-width:280px}
   footer{text-align:center;color:var(--dim);font-size:12px;padding:0 20px 40px}
-  @media(max-width:600px){.tcard{flex-direction:column}.tthumb{width:100%}.entry{grid-template-columns:56px 1fr}}
+  @media(max-width:600px){.tcard{flex-direction:column}.tthumb{width:100%}.entry{grid-template-columns:56px 1fr}.ccover{width:72px;height:46px}}
 </style>
 </head>
 <body>
@@ -131,7 +135,7 @@
 </header>
 <main id="main"><p style="text-align:center;color:var(--dim);padding:50px">Loading…</p></main>
 <p id="nores">No stories match your search. Try a name, empire, era or theme — e.g. <i>Ashoka</i>, <i>Chola</i>, <i>Ajanta</i>, <i>battle</i>.</p>
-<footer>Each chapter is built story by story — ▶ plays a voiced motion-comic; “coming soon” cards are being written now. Refresh to watch a chapter fill in.</footer>
+<footer>Chapters start collapsed — tap any chapter to open its stories. ▶ plays a voiced motion-comic; “coming soon” cards are being written now. Use search or “Expand all” to see everything at once.</footer>
 
 <script>
 const NUM = {"Ancient":"I","Medieval":"II","Freedom Struggle":"III"};
@@ -164,11 +168,15 @@ fetch("data/episodes.json?v="+Date.now()).then(r=>r.json()).then(data=>{
     main.appendChild(h);
     data.chapters.forEach((c,idx)=>{
       const pct=c.total?Math.round(100*c.built/c.total):0;
-      const sec=document.createElement("section"); sec.className="chapter open"; sec.id="ch-"+idx;
+      const sec=document.createElement("section"); sec.className=idx===0?"chapter open":"chapter"; sec.id="ch-"+idx;
+      let cover="", firstBuilt="";
+      c.parts.forEach(p=>p.episodes.forEach(e=>{if(e.built&&e.thumb){if(!firstBuilt)firstBuilt=e.thumb;if(e.flagship&&!cover)cover=e.thumb;}}));
+      cover=cover||firstBuilt;
+      const badge=cover?`<span class="ccover"><img loading="lazy" src="${cover}" alt=""></span>`:`<span class="cbadge">📜</span>`;
       const parts=c.parts.map(p=>`
         <div class="part"><div class="ptitle">${esc(p.part)}</div>
           <div class="stories">${p.episodes.map(storyCard).join("")}</div></div>`).join("");
-      sec.innerHTML=`<button class="chead"><span class="cbadge">📜</span>
+      sec.innerHTML=`<button class="chead">${badge}
         <span class="cinfo"><span class="cname">${esc(c.chapter)}</span><span class="cblurb">${esc(c.blurb)}</span></span>
         <span class="cprog">${c.range?`<span class="cera">${esc(c.range)}</span>`:""}<span class="n">${c.built} of ${c.total} stories</span><span class="bar"><i style="width:${pct}%"></i></span></span>
         <span class="chev">▸</span></button>
@@ -194,7 +202,7 @@ fetch("data/episodes.json?v="+Date.now()).then(r=>r.json()).then(data=>{
     h.innerHTML='<span class="k">More stories</span><span class="t">standalone heroes, by era — future chapters in the making</span>';
     main.appendChild(h);
     tl.forEach(p=>{
-      const sec=document.createElement("section"); sec.className="period open";
+      const sec=document.createElement("section"); sec.className="period";
       const entries=p.episodes.map(e=>{const hi=(e.langs||["en"]).includes("hi");return `
         <div class="entry"><div class="when"><div class="yr">${e.year_label||""}</div></div>
         <div class="track"><a class="tcard" href="player/index.html?ep=${e.id}&lang=en">
