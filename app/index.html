@@ -126,6 +126,9 @@
   footer{text-align:center;color:var(--dim);font-size:12px;padding:0 20px 40px}
   @media(max-width:600px){.tcard{flex-direction:column}.tthumb{width:100%}.entry{grid-template-columns:56px 1fr}.ccover{width:72px;height:46px}
      .eraband{flex-wrap:wrap;gap:8px}.eraband .eb-t{font-size:18px}.eraband .eb-r{margin-left:0}}
+  @media(prefers-reduced-motion:reduce){
+     *{transition-duration:.001ms!important;animation-duration:.001ms!important;scroll-behavior:auto!important}
+     a.story:hover,.tcard:hover{transform:none}}
 </style>
 </head>
 <body>
@@ -134,7 +137,7 @@
   <h1>Indian History, Told in Full</h1>
   <p class="sub">Not half-told textbook footnotes — deep, voiced, animated chapters. We take one era
      or empire at a time and build its whole saga: rise, heroes, wars, craft, innovations and legacy.</p>
-  <div class="count" id="count"></div>
+  <div class="count" id="count" aria-live="polite"></div>
   <div class="searchwrap"><input id="q" type="search" autocomplete="off" spellcheck="false"
      placeholder="Search 800+ stories — a person, empire, era or theme…"></div>
   <div class="tools" id="tools" hidden>
@@ -178,6 +181,8 @@ function storyCard(e){
 fetch("data/episodes.json?v="+Date.now()).then(r=>r.json()).then(data=>{
   const main=document.getElementById("main"); main.innerHTML="";
   document.getElementById("count").innerHTML="<b>"+data.built+"</b> stories built · grouped into chapters · voiced in English &amp; हिंदी · more being written";
+  const countEl=document.getElementById("count"), countOrig=countEl.innerHTML;
+  function setOpen(sec,open){sec.classList.toggle("open",open);const b=sec.querySelector(".chead,.phead");if(b)b.setAttribute("aria-expanded",open);}
 
   if(data.chapters && data.chapters.length){
     const h=document.createElement("div"); h.className="shead";
@@ -202,12 +207,12 @@ fetch("data/episodes.json?v="+Date.now()).then(r=>r.json()).then(data=>{
       const parts=c.parts.map(p=>`
         <div class="part"><div class="ptitle">${esc(p.part)}</div>
           <div class="stories">${p.episodes.map(storyCard).join("")}</div></div>`).join("");
-      sec.innerHTML=`<button class="chead">${badge}
+      sec.innerHTML=`<button class="chead" aria-expanded="${idx===0}">${badge}
         <span class="cinfo"><span class="cname">${esc(c.chapter)}</span><span class="cblurb">${esc(c.blurb)}</span></span>
         <span class="cprog">${c.range?`<span class="cera">${esc(c.range)}</span>`:""}<span class="n">${c.built} of ${c.total} stories</span><span class="bar"><i style="width:${pct}%"></i></span></span>
         <span class="chev">▸</span></button>
         <div class="cwrap"><div class="cbody"><div class="cinner">${parts}</div></div></div>`;
-      sec.querySelector(".chead").addEventListener("click",()=>sec.classList.toggle("open"));
+      sec.querySelector(".chead").addEventListener("click",()=>setOpen(sec,!sec.classList.contains("open")));
       main.appendChild(sec);
     });
 
@@ -216,9 +221,9 @@ fetch("data/episodes.json?v="+Date.now()).then(r=>r.json()).then(data=>{
     if(tools){
       let lastJ="",og=null;
       data.chapters.forEach((c,idx)=>{const t=eraBand(c.sort_year).t;if(t!==lastJ){lastJ=t;og=document.createElement("optgroup");og.label=t;jump.appendChild(og);}const o=document.createElement("option");o.value="ch-"+idx;o.textContent=c.chapter;og.appendChild(o);});
-      document.getElementById("collapseAll").onclick=()=>document.querySelectorAll("#main .chapter").forEach(s=>s.classList.remove("open"));
-      document.getElementById("expandAll").onclick=()=>document.querySelectorAll("#main .chapter").forEach(s=>s.classList.add("open"));
-      jump.onchange=()=>{const id=jump.value;if(!id)return;const el=document.getElementById(id);if(el){el.classList.add("open");el.scrollIntoView({behavior:"smooth",block:"start"});}jump.value="";};
+      document.getElementById("collapseAll").onclick=()=>document.querySelectorAll("#main .chapter").forEach(s=>setOpen(s,false));
+      document.getElementById("expandAll").onclick=()=>document.querySelectorAll("#main .chapter").forEach(s=>setOpen(s,true));
+      jump.onchange=()=>{const id=jump.value;if(!id)return;const el=document.getElementById(id);if(el){setOpen(el,true);location.hash=id;el.scrollIntoView({behavior:"smooth",block:"start"});}jump.value="";};
       tools.hidden=false;
     }
   }
@@ -239,11 +244,11 @@ fetch("data/episodes.json?v="+Date.now()).then(r=>r.json()).then(data=>{
             <div class="srow"><span class="btn en" onclick="event.preventDefault();location.href='player/index.html?ep=${e.id}&lang=en'">▶ EN</span>
             ${hi?`<span class="btn hi" onclick="event.preventDefault();location.href='player/index.html?ep=${e.id}&lang=hi'">▶ हिं</span>`:''}</div>
           </div></a></div></div>`;}).join("");
-      sec.innerHTML=`<button class="phead"><span class="pnum">${NUM[p.key]||""}</span>
+      sec.innerHTML=`<button class="phead" aria-expanded="false"><span class="pnum">${NUM[p.key]||""}</span>
         <span class="pinfo"><span class="plabel">${esc(p.label)}</span><span class="pblurb">${esc(p.blurb)}</span></span>
         <span class="pmeta"><span class="prange">${p.range||p.hint}</span><span class="pcount">${p.count}</span><span class="chev">▸</span></span></button>
         <div class="cwrap"><div class="cbody"><div class="timeline">${entries}</div></div></div>`;
-      sec.querySelector(".phead").addEventListener("click",()=>sec.classList.toggle("open"));
+      sec.querySelector(".phead").addEventListener("click",()=>setOpen(sec,!sec.classList.contains("open")));
       main.appendChild(sec);
     });
   }
@@ -264,7 +269,7 @@ fetch("data/episodes.json?v="+Date.now()).then(r=>r.json()).then(data=>{
         part.style.display=pv?"":"none"; vis+=pv;
       });
       ch.style.display=(vis||nameHit)?"":"none";
-      if(term&&(vis||nameHit))ch.classList.add("open");
+      if(term&&(vis||nameHit))setOpen(ch,true);
       total+=vis;
     });
     document.querySelectorAll("#main .period").forEach(pd=>{
@@ -274,13 +279,28 @@ fetch("data/episodes.json?v="+Date.now()).then(r=>r.json()).then(data=>{
         en.style.display=hit?"":"none"; if(hit)pv++;
       });
       pd.style.display=pv?"":"none";
-      if(term&&pv)pd.classList.add("open");
+      if(term&&pv)setOpen(pd,true);
       total+=pv;
     });
     document.querySelectorAll("#main .shead,#main .eraband").forEach(h=>{h.style.display=term?"none":"";});
     nores.style.display=(term&&total===0)?"block":"none";
+    if(term)countEl.textContent=total+(total===1?" story matches":" stories match");
+    else countEl.innerHTML=countOrig;
   }
   q.addEventListener("input",applyFilter);
+  document.addEventListener("keydown",e=>{
+    const a=document.activeElement;
+    if(e.key==="/"&&a!==q&&!/^(INPUT|TEXTAREA|SELECT)$/.test(a?.tagName||"")){e.preventDefault();q.focus();}
+    else if(e.key==="Escape"&&a===q){q.value="";applyFilter();q.blur();}
+  });
+  function gotoHash(){
+    const id=decodeURIComponent(location.hash.slice(1)); if(!id)return;
+    const el=document.getElementById(id); if(!el)return;
+    const ch=el.closest(".chapter"); if(ch)setOpen(ch,true);
+    el.scrollIntoView({behavior:"smooth",block:"start"});
+  }
+  window.addEventListener("hashchange",gotoHash);
+  gotoHash();
 }).catch(()=>{document.getElementById("main").innerHTML='<p style="text-align:center;color:var(--dim);padding:50px">Could not load episodes.json — run <code>python tools/gallery.py</code>.</p>';});
 </script>
 </body>
